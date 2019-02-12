@@ -1,0 +1,2173 @@
+[
+    {
+        "list": [
+            20
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Religion Daily",
+            "Future Proof",
+            "Jack Stoddard",
+            "Parkinson",
+            "Jacky Rosen",
+            "David Salamone",
+            "Health Effects",
+            "U.S.",
+            "Study",
+            "PIPELINE",
+            "ADHD",
+            "Insulin",
+            "Democratic Campaign Ads",
+            "Link Between Urban Sprawl",
+            "Back",
+            "Home",
+            "APNewsBreak",
+            "Alzheimer",
+            "Life Expectancy"
+        ],
+        "peaks": [],
+        "theme": [
+            "Health",
+            "studying",
+            "caring",
+            "ad",
+            "Back",
+            "Democratic",
+            "effects"
+        ],
+        "timestamp": "2018-09-17 13:10:17.824865-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9f896b421aa96a39bdd8a8",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/16/f8b204ab-3dc6-4d85-ba76-14a53cdcb497/thumbnail/1200x630/0aa1664a8257ccdf0d87e683bc2990c8/screen-shot-2018-09-16-at-2-27-57-pm.png",
+                    "origin": "CBS News",
+                    "title": "Nevada's Jacky Rosen's new ad shows latest Democratic push for health care in 2018",
+                    "ts": 1537180480,
+                    "twitterid": 1041636548305924096,
+                    "url": "https://www.cbsnews.com/news/nevadas-jacky-rosen-shows-latest-democratic-push-for-health-care-in-2018-with-new-ad-buy/?ftag=CNM-00-10aab7e&linkId=56961315"
+                },
+                {
+                    "_id": "5b9ec487421aa958e5f96efe",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2014/09/7965817778_c424a4a5e3_k/facebook.jpg?1522685756",
+                    "origin": "The Atlantic",
+                    "title": "The Health Effects of Leaving Religion",
+                    "ts": 1537131611,
+                    "twitterid": 1041431576679198722,
+                    "url": "https://www.theatlantic.com/health/archive/2014/09/the-health-effects-of-leaving-religion/379651/"
+                },
+                {
+                    "_id": "5b9f896b421aa96a39bdd8b1",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/14/BostonGlobe.com/Metro/Images/Globe_arrival_BAT.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "PIPELINE FROM AFRICA: Recent immigrants do much of the low-paying, back-breaking work of caring for frail Americans at home. Back home, they\u2019re seen as success stories.",
+                    "ts": 1537179845,
+                    "twitterid": 1041633887229804544,
+                    "url": "https://www.bostonglobe.com/metro/2018/09/16/pipeline-from-africa-recent-immigrants-much-success-paying-back-breaking-work-caring-stories-frail-americans-home-back-home-they-seen/kosI4rnpckOHnAUDBLfhcO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b9fd051421aa96f901ac98c",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_37/2563431/180912_anh_le_meyer_550ef6e65b4ae31558a0167d1aa026b2.1200;630;7;70;5.jpeg",
+                    "origin": "NBC News",
+                    "title": "This professor began studying Alzheimer's caregivers. Then her mother showed symptoms.",
+                    "ts": 1537198745,
+                    "twitterid": 1041713157578870784,
+                    "url": "https://www.nbcnews.com/news/asian-america/professor-began-studying-alzheimer-s-caregivers-then-her-mother-showed-n908761?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b9f7b53421aa96943e8bb65",
+                    "date_month": "2018-09",
+                    "image": "https://static01.nyt.com/images/2018/09/18/upshot/17up-campaignads1/17up-campaignads1-facebookJumbo.png",
+                    "origin": "NYT Politics",
+                    "title": "No. 1 Aim of Democratic Campaign Ads: Protect Pre-existing Conditions",
+                    "ts": 1537175962,
+                    "twitterid": 1041617600571207680,
+                    "url": "https://www.nytimes.com/2018/09/17/upshot/democrats-campaign-ads-pre-existing-conditions.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5b9eeebf421aa95c9bb30dab",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/Health/ADHD-meds-gty-hb-180913_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Long-term effects of ADHD? Study links disorder to Parkinson's, but don't be alarmed",
+                    "ts": 1537142013,
+                    "twitterid": 1041475206848700421,
+                    "url": "https://abcnews.go.com/Health/long-term-effects-adhd-study-links-disorder-parkinsons/story?id=57801354&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b9f0ad0421aa95f23de4f8f",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/YBL6wYZWkXusJZGdK9ujC4shpXM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BVP2Q4FXTQI6RFHLHPKS37URPM.jpg",
+                    "origin": "Washington Post",
+                    "title": "Here\u2019s how one woman used an implant to get some relief from chronic back pain",
+                    "ts": 1537149202,
+                    "twitterid": 1041505357988864000,
+                    "url": "https://www.washingtonpost.com/national/health-science/heres-how-one-woman-used-an-implant-to-get-some-relief-from-chronic-back-pain/2018/09/14/fa975bc8-b603-11e8-a7b5-adaaa5b2a57f_story.html?utm_term=.354513c3d779&tid=sm_tw"
+                },
+                {
+                    "_id": "5b9f18e5421aa962726ae21c",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/17/BostonGlobe.com/Metro/Images/t_1536680043434_name_video_still.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Home health care: It\u2019s a grim world with victims on both sides",
+                    "ts": 1537152054,
+                    "twitterid": 1041517323012714498,
+                    "url": "https://www.bostonglobe.com/metro/2018/09/16/home-health-care-grim-world-with-victims-both-sides/kWtjVisZtmP6Q2UbJ9m4jO/story.html?s_campaign=bostonglobe:native%20video:twitter"
+                },
+                {
+                    "_id": "5b9fddf4421aa9705c7f6e7e",
+                    "date_month": "2018-09",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/09/livinggoods_sm.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Health workers selling simple cures door-to-door are saving lives",
+                    "ts": 1537202400,
+                    "twitterid": 1041728487932014592,
+                    "url": "https://www.pbs.org/newshour/world/health-workers-selling-simple-cures-door-to-door-are-saving-lives"
+                },
+                {
+                    "_id": "5b9f7b53421aa96943e8bb53",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/17/BostonGlobe.com/Business/Images/Jack_Stoddard_Businesswire.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Boston-based health venture hires Jack Stoddard, a reformer with digital chops",
+                    "ts": 1537178221,
+                    "twitterid": 1041627071624237057,
+                    "url": "https://www.bostonglobe.com/business/2018/09/16/boston-based-health-venture-hires-jack-stoddard-reformer-with-digital-chops/coumH9sHmpfaILm7Js7WaI/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            85
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Kavanaugh",
+            "Donald Trump",
+            "Christine Blasey Ford",
+            "Brett Kavanaugh California",
+            "Senate Dem",
+            "Brett Kavanaugh Accuser Comes Forward",
+            "Senate",
+            "Kavanaugh Monica Lewinsky",
+            "Ken Starr",
+            "Brett Kavanaugh Feinstein",
+            "Asked How Kavanaugh",
+            "Brett Kavanaugh",
+            "Rush",
+            "Bob Corker",
+            "CNN",
+            "GOP Democrats Calls To Delay Kavanaugh Vote",
+            "Flake",
+            "Feinstein Echoes",
+            "Christine Ford",
+            "Collins",
+            "Accuser Goes Public Schumer",
+            "Kavanaugh Democrats",
+            "John N. Kennedy",
+            "Instagram",
+            "Supreme Court",
+            "Republican US",
+            "Clarence",
+            "Freakshow",
+            "Washington Post",
+            "White House Calls Grow To Delay Kavanaugh Vote",
+            "Trump",
+            "Supreme Court Kavanaugh",
+            "Anita Hill",
+            "Warren",
+            "Jeff Flake",
+            "Alleged Sexual Assault Republican",
+            "Kavanaugh Accuser",
+            "Brett Kavanaugh Heitkamp",
+            "Biden",
+            "Accuser Goes Public State",
+            "Earth",
+            "MeToo"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "accuser",
+            "Brett",
+            "vote",
+            "allegation",
+            "sexual",
+            "Senate"
+        ],
+        "timestamp": "2018-09-17 13:10:19.030781-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9fddf4421aa9705c7f6e63",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/17/BostonGlobe.com/Politics/Images/AFP_1910V0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Donald Trump Jr. post mocks sexual assault allegation against Brett Kavanaugh",
+                    "ts": 1537203426,
+                    "twitterid": 1041732789136179201,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/09/17/donald-trump-post-mocks-sexual-assault-allegation-against-brett-kavanaugh/U2Nt5hnf41UIVkXY0CyrKM/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b9eb67a421aa957a0a18ee2",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/schumercharles_090518gn3_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Schumer: Senate must postpone vote on Kavanaugh",
+                    "ts": 1537127345,
+                    "twitterid": 1041413682784350209,
+                    "url": "http://thehill.com/blogs/floor-action/senate/406933-schumer-senate-must-postpone-vote-on-kavanaugh"
+                },
+                {
+                    "_id": "5b9ed296421aa959d2642903",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/schumercharles_090518gn3_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Dems call on Senate to postpone Kavanaugh vote",
+                    "ts": 1537134308,
+                    "twitterid": 1041442889140776962,
+                    "url": "http://thehill.com/blogs/floor-action/senate/406933-schumer-senate-must-postpone-vote-on-kavanaugh"
+                },
+                {
+                    "_id": "5b9ec487421aa958e5f96f06",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-26699/social",
+                    "origin": "Capital Journal",
+                    "title": "Brett Kavanaugh Accuser Comes Forward About Alleged Sexual Assault",
+                    "ts": 1537130735,
+                    "twitterid": 1041427901823049731,
+                    "url": "https://www.wsj.com/articles/brett-kavanaugh-accuser-comes-forward-about-alleged-sexual-assault-1537129767?mod=e2twp"
+                },
+                {
+                    "_id": "5b9e9a5e421aa954ca942b79",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/kavanaughbrett_090418gn16_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Kavanaugh accuser breaks silence about sexual misconduct allegations detailed in letter to Senate Dem",
+                    "ts": 1537120057,
+                    "twitterid": 1041383117553065984,
+                    "url": "http://thehill.com/homenews/senate/406925-kavanaugh-accuser-breaks-silence-about-sexual-misconduct-allegations-detailed?__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b9fd051421aa96f901ac9a0",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_090618gn14_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Senate Judiciary Democrats call for Kavanaugh vote to be delayed",
+                    "ts": 1537197903,
+                    "twitterid": 1041709623852638213,
+                    "url": "https://thehill.com/homenews/senate/406995-senate-judiciary-democrats-call-for-kavanaugh-vote-to-be-delayed"
+                },
+                {
+                    "_id": "5b9ee0ad421aa95b54b11140",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/Of7-NZpT3D7etuu4DXkv6uR3lGQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APQAUIVZI4I6RIWFGGD7IJ7CKM.jpg",
+                    "origin": "Washington Post",
+                    "title": "GOP senator: Hold off on vote on Brett Kavanaugh until accuser is heard",
+                    "ts": 1537138373,
+                    "twitterid": 1041459938760056839,
+                    "url": "https://www.washingtonpost.com/powerpost/senators-say-kavanaugh-letter-wont-hold-up-confirmation-process/2018/09/16/cbee4b4c-b9b9-11e8-9812-a389be6690af_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b9fa597421aa96c6a83526d",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_090518am2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump Jr. mocks Kavanaugh sexual assault allegation in Instagram post",
+                    "ts": 1537188787,
+                    "twitterid": 1041671388770263041,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/406965-trump-jr-mocks-kavanaugh-sexual-assault-allegation-with"
+                },
+                {
+                    "_id": "5b9eb67a421aa957a0a18f02",
+                    "date_month": "2018-09",
+                    "image": "https://images.newrepublic.com/147ae0865d9b123048b7b5b559589e5161ac9749.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Brett Kavanaugh\u2019s accuser is ready for a fight.",
+                    "ts": 1537124417,
+                    "twitterid": 1041401401329500164,
+                    "url": "https://newrepublic.com/minutes/151251/brett-kavanaughs-accuser-ready-fight"
+                },
+                {
+                    "_id": "5b9fb3ab421aa96dc0db27bd",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_090418am3_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Lawyer: Kavanaugh accuser is willing to testify publicly to Senate Judiciary Committee",
+                    "ts": 1537189802,
+                    "twitterid": 1041675645858861056,
+                    "url": "https://thehill.com/homenews/administration/406961-lawyer-kavanaugh-accuser-is-willing-to-testify-publicly-to-senate"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            88
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Donald Trump",
+            "Yemen",
+            "Dean Heller",
+            "Graham",
+            "Jon Tester",
+            "Obama",
+            "Beto",
+            "Stock Market",
+            "Ohio",
+            "Eric Holder",
+            "Clinton",
+            "Ellison",
+            "LGBTQ",
+            "Tourette",
+            "Barack Obama",
+            "Nixon Story",
+            "Trump Wealthiest",
+            "Senate",
+            "GOP",
+            "Puerto Rico",
+            "White House",
+            "American Diplomacy White Again Trump Flipped Ohio",
+            "House Democrats",
+            "Chris Matthews",
+            "Joe Biden",
+            "MeToo",
+            "MAGA",
+            "Mattis",
+            "Women",
+            "California",
+            "Would Trump",
+            "Brett Kavanaugh",
+            "California Race Highlights",
+            "Reagan",
+            "Beltway",
+            "Donald Trump Tester Leads",
+            "Sinema",
+            "George Conway",
+            "Maxine Waters",
+            "Election Tax Divide Joe Biden",
+            "Russia",
+            "Poll Shows Trump",
+            "South Korea Trump",
+            "Democratic",
+            "Emmys",
+            "Jimmy Carter",
+            "Hollywood",
+            "Hill",
+            "Missouri",
+            "Ago Mississippi Trump",
+            "Tom Arnold",
+            "Franken",
+            "CBS News",
+            "Montana Senate",
+            "Pentagon",
+            "Fair",
+            "Katrina Congress",
+            "Toughest House",
+            "Mark Burnett",
+            "Don",
+            "Michael Bloomberg",
+            "U.S.-China Trade Battle Shadows North Dakota Senate Race",
+            "Republican",
+            "United Against Nuclear Iran",
+            "Trump",
+            "Midterms Trump",
+            "Old School",
+            "Montana Senate Race",
+            "Nellie Ohr",
+            "AM",
+            "Bush",
+            "U.S.",
+            "Bob Woodward",
+            "Palestinian Liberation Organization",
+            "Washington",
+            "Trump How",
+            "Newsom",
+            "AGs",
+            "Claire McCaskill",
+            "Ohio Ahead",
+            "Jeff Sessions",
+            "House Congress",
+            "Fox News"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Democrats",
+            "House",
+            "Polls",
+            "midterms",
+            "races",
+            "Senate"
+        ],
+        "timestamp": "2018-09-17 13:10:20.926224-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9fddf4421aa9705c7f6e85",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170113093730-us-capitol-dome-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "CNN Polls: Democrats hold upper hand two key red state Senate races",
+                    "ts": 1537202043,
+                    "twitterid": 1041726990188007430,
+                    "url": "https://www.cnn.com/2018/09/17/politics/cnn-polls-arizona-tennessee-senate/index.html?utm_source=twCNNp&utm_content=2018-09-17T16%3A34%3A02&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5b9f896b421aa96a39bdd8be",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180201014625-pelosi-jan-31-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "3 options that could await House Democrats after the midterms",
+                    "ts": 1537179013,
+                    "twitterid": 1041630397296271360,
+                    "url": "https://www.cnn.com/2018/09/17/politics/house-democrats-leadership/index.html?utm_term=image&utm_medium=social&utm_content=2018-09-17T10%3A10%3A13&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b9efcc6421aa95def768e54",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/09/16/trump-foes-jon-tester-claire-mccaskill-vulnerable-in-pivotal-senate-races-new-poll-shows/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537134967251.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump foes Claire McCaskill, Jon Tester vulnerable in pivotal Senate races, new poll shows",
+                    "ts": 1537142580,
+                    "twitterid": 1041477583529893889,
+                    "url": "http://www.foxnews.com/politics/2018/09/16/trump-foes-claire-mccaskill-jon-tester-vulnerable-in-pivotal-senate-races-new-poll-shows.html"
+                },
+                {
+                    "_id": "5b9f3500421aa964f4e78076",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/03/f7393d45-c56d-4ae8-b1c8-815fd3a70bf3/thumbnail/1200x630/5ca9242f2feff4690cc2dd43acf34698/gettyimages-836453578.jpg",
+                    "origin": "CBS News",
+                    "title": "Tight races in Missouri, Montana Senate, CBS News poll finds",
+                    "ts": 1537157884,
+                    "twitterid": 1041541772407709696,
+                    "url": "https://www.cbsnews.com/news/cbs-battleground-tracker-poll-tight-races-in-missouri-montana-senate/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b9f2afa04d30156283c305e&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b9fb3ab421aa96dc0db2798",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald09132018.jpg",
+                    "origin": "The Hill",
+                    "title": "If Dems take House, recall what happened after \u201994 midterms",
+                    "ts": 1537191964,
+                    "twitterid": 1041684715277877248,
+                    "url": "https://thehill.com/opinion/campaign/406645-if-dems-take-house-recall-what-happened-after-94-midterms"
+                },
+                {
+                    "_id": "5b9eeebf421aa95c9bb30da8",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_mj_sevena_180912_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Dems could take House and Senate, Chris Matthews predicts",
+                    "ts": 1537142415,
+                    "twitterid": 1041476891394404352,
+                    "url": "https://www.msnbc.com/morning-joe/watch/dems-could-take-house-and-senate-chris-matthews-predicts-1318505027682?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b9f896b421aa96a39bdd894",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/89/13/ac8af24947448201abaaa43b0f5b/fpo-pcbrown-ohio-1075-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump Loses Altitude in Ohio Ahead of Midterms",
+                    "ts": 1537182005,
+                    "twitterid": 1041642946662158336,
+                    "url": "https://www.politico.com/magazine/story/2018/09/17/ohio-poll-senate-governor-brown-renacci-dewine-cordray-2018-219915"
+                },
+                {
+                    "_id": "5b9f3500421aa964f4e78069",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180608165411-20180608-women-primaries-election-2018-politics-super-tease.png",
+                    "origin": "CNN Politics",
+                    "title": "256 women won House and Senate primaries, a huge new record",
+                    "ts": 1537158844,
+                    "twitterid": 1041545799006597122,
+                    "url": "https://www.cnn.com/2018/09/16/politics/house-women-update-september/index.html?utm_term=image&utm_content=2018-09-17T04%3A34%3A03&utm_source=twCNNp&utm_medium=social"
+                },
+                {
+                    "_id": "5b9fa597421aa96c6a835281",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/15/Biden_42071.jpg-ca991_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Eric Holder rips White House \u2018occupant\u2019 Donald Trump, says MAGA slogan \u2018rooted in fear\u2019",
+                    "ts": 1537187451,
+                    "twitterid": 1041665788510457857,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/17/eric-holder-rips-white-house-occupant-donald-trump/"
+                },
+                {
+                    "_id": "5b9f4304421aa965e3fb3fed",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:d397f8937b8f4b4692b058d7327028dc/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Obama's return: Good or bad for Democrats?",
+                    "ts": 1537160476,
+                    "twitterid": 1041552647067762688,
+                    "url": "https://apnews.com/80156e86e1414c8dabac32413d6fca8e/Obama's-return:-Good-or-bad-for-Democrats?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            78
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Climate",
+            "Postal",
+            "Dalai Lama",
+            "Bad Seed",
+            "Jupiter Scientists",
+            "Amy Schumer",
+            "Jamie Lee Curtis Parents",
+            "Nazis",
+            "Jesus",
+            "Trapped Into Selling Magazines",
+            "Jackie Kennedy Onassis",
+            "Homewrecker Horror",
+            "FDNY",
+            "Grief Robert Redford",
+            "Step Toward Marriage",
+            "Art Away",
+            "Photographer Dad Sees Hopes And Fears",
+            "Teaches Students",
+            "American Idea Doomed",
+            "Comedian Rachel Feinstein",
+            "Phantom",
+            "North Carolina",
+            "Hawaii",
+            "Boys",
+            "Grey Gardens",
+            "South Carolina",
+            "Robot Sheds Light",
+            "Secret Life",
+            "Mars",
+            "Immune System",
+            "Photos",
+            "Most Contentious Meal",
+            "Toronto",
+            "Driveway Ends",
+            "Bill Geist",
+            "Drank",
+            "Richard Gere",
+            "New York",
+            "Public",
+            "Children",
+            "France",
+            "Jeff Koons",
+            "Kevin",
+            "David Hockney",
+            "Customer Success Platform",
+            "William Shatner",
+            "Sisters Brothers",
+            "Atlantic",
+            "Signature",
+            "Adrian Tomine",
+            "Brainy",
+            "Mexico Migrating Birds Avoid Bad Weather",
+            "Penn State Fraternity Freddie Oversteegen",
+            "Breakfast",
+            "Directorial D\u00e9but",
+            "Alejandra Silva",
+            "Best",
+            "Into Astrology",
+            "Sugar",
+            "Dutch",
+            "WATCH",
+            "Lonely Planet Scientists",
+            "Michael Phelps"
+        ],
+        "peaks": [],
+        "theme": [
+            "parents",
+            "new",
+            "making",
+            "live",
+            "Scientists",
+            "secrets",
+            "trying"
+        ],
+        "timestamp": "2018-09-17 13:10:22.952448-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9f6d36421aa968c65269ba",
+                    "date_month": "2018-09",
+                    "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--wUd43MiQ--/b_white,c_fill,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1536762358000/GettyImages-511670857.jpg",
+                    "origin": "USA TODAY",
+                    "title": "10 secrets to simple weeknight dinners\u2014according to real parents",
+                    "ts": 1537172704,
+                    "twitterid": 1041603932311699456,
+                    "url": "https://www.reviewed.com/ovens/features/10-secrets-to-simple-weeknight-dinners-according-to-real-parents"
+                },
+                {
+                    "_id": "5b9f5f28421aa968140e26d4",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/G6WzW8M6_K_ORr6Xy-J_7ag98nI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVHNBG5SBBGV5EEEZIQU76SIKY.JPG",
+                    "origin": "Washington Post",
+                    "title": "Veterinary clinics are trying new ways to ease painful goodbyes",
+                    "ts": 1537169057,
+                    "twitterid": 1041588635450134528,
+                    "url": "https://www.washingtonpost.com/science/2018/09/13/veterinary-clinics-are-trying-new-ways-ease-painful-goodbyes/?utm_term=.8ee0b60dbde1&tid=sm_tw"
+                },
+                {
+                    "_id": "5b9eeebf421aa95c9bb30dd4",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/16/28a1b6ef-79a7-4efb-a95f-6a7fb5f22830/thumbnail/1200x630/bc9e11653a668e176072fdcb1a6d4212/robert-redford-sunglasses-promo.jpg",
+                    "origin": "CBS News",
+                    "title": "Robert Redford: \"There's only the trying\"",
+                    "ts": 1537138985,
+                    "twitterid": 1041462506714267648,
+                    "url": "https://www.cbsnews.com/news/robert-redford-theres-only-the-trying/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b9ee12604d3014d88aa9772&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b9fd051421aa96f901ac979",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/bsPPla5nZ6lwogbugwO4xUSEmMQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IYWJUCTH3YI6PFFLLMPQ75CZ34.jpg",
+                    "origin": "Washington Post",
+                    "title": "Scientists identify four personality types",
+                    "ts": 1537199922,
+                    "twitterid": 1041718093788180480,
+                    "url": "https://www.washingtonpost.com/science/2018/09/17/scientists-identify-four-personality-types/?utm_term=.dfbb39bc0b2f&tid=sm_tw&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b9f511d421aa967698bbb9b",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/Lifestyle/WireAP_db8cb69d189443818ce9b414d48728cd_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Secrets from basement of France's presidential palace shared",
+                    "ts": 1537167469,
+                    "twitterid": 1041581977034530816,
+                    "url": "https://abcnews.go.com/Lifestyle/wireStory/hidden-underground-world-french-president-put-view-57842114?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b9fddf4421aa9705c7f6ea2",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/16/f9c1d39b-a1bb-4a64-8b57-bdbcd7d0f580/thumbnail/1200x630/9f419d21e957ba1f0aa84032cf529673/ap-18259681755645.jpg",
+                    "origin": "CBS News",
+                    "title": "Florence wreaking havoc in North and South Carolina \u2014 live updates",
+                    "ts": 1537200558,
+                    "twitterid": 1041720760832811008,
+                    "url": "https://www.cbsnews.com/live-news/florence-hurricane-latest-weather-tropical-depression-flooding-power-outage-forecast-live-updates/"
+                },
+                {
+                    "_id": "5b9efcc6421aa95def768e3f",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_36/2558581/180906-esports-mn-1120_deb5811cdb5a5a1ba65a4c4b7a394299.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Forget Instagram, teen influencers are making thousands from online gaming",
+                    "ts": 1537144328,
+                    "twitterid": 1041484915949350913,
+                    "url": "https://www.nbcnews.com/business/consumer/forget-instagram-teen-influencers-are-making-thousands-online-gaming-n905161?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b9f18e5421aa962726ae228",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/apq5ZuWUDHVvFCKiVjJG4kGEpvk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4LDVLCFUOQI6RIWFGGD7IJ7CKM.jpg",
+                    "origin": "Washington Post",
+                    "title": "I was a serial houseplant killer, until I stopped making these five mistakes",
+                    "ts": 1537151063,
+                    "twitterid": 1041513162854543360,
+                    "url": "https://www.washingtonpost.com/lifestyle/home/i-was-a-serial-houseplant-killer-until-i-stopped-making-these-five-mistakes/2018/09/10/53d71afe-b2d8-11e8-a20b-5f4f84429666_story.html?utm_term=.f1be1d08746b&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b9fc1b8421aa96ead14226f",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/4ZE4_C_O6uBVjjXerIxQcP8Phx0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FYZSW5FSDQI6RIQLL5HYIQUWMY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Scientists thought they had created the perfect tree. But it became a nightmare.",
+                    "ts": 1537195056,
+                    "twitterid": 1041697686708215808,
+                    "url": "https://www.washingtonpost.com/lifestyle/magazine/how-we-turned-the-bradford-pear-into-a-monster/2018/09/14/f29c8f68-91b6-11e8-b769-e3fff17f0689_story.html?utm_term=.2fe056e8e924&tid=sm_tw"
+                },
+                {
+                    "_id": "5b9eb67a421aa957a0a18ee9",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/09/RTS21J82/facebook.jpg?1537122421",
+                    "origin": "The Atlantic",
+                    "title": "A New World Marathon Record Almost Defies Description",
+                    "ts": 1537126568,
+                    "twitterid": 1041410425382948865,
+                    "url": "https://www.theatlantic.com/health/archive/2018/09/eliud-kipchoges-world-marathon-record/570400/?utm_term=2018-09-16T19%3A34%3A13&utm_content=edit-promo&utm_campaign=the-atlantic&utm_medium=social&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Marc Benioff",
+            "Lynne Benioff Marc Benioff",
+            "Salesforce Founder Marc Benioff",
+            "Salesforce Founder",
+            "Sell",
+            "Meredith",
+            "Time Magazine Sold"
+        ],
+        "peaks": [],
+        "theme": [
+            "Magazine",
+            "Time",
+            "Benioff",
+            "Marc",
+            "Salesforce",
+            "Founder",
+            "million"
+        ],
+        "timestamp": "2018-09-17 13:10:23.078705-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9ee0ad421aa95b54b1113a",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-26706/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Time Magazine Sold to Salesforce Founder Marc Benioff for $190 Million",
+                    "ts": 1537138803,
+                    "twitterid": 1041461743669714944,
+                    "url": "https://www.wsj.com/articles/time-magazine-sold-to-salesforce-founder-marc-benioff-for-190-million-1537137165?mod=e2tw"
+                },
+                {
+                    "_id": "5b9efcc6421aa95def768e32",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2017_48/2240626/171127-time-magazine-se-519p_eb41b9c04e325654094fcdc0ccccb092.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Time Magazine acquired by Salesforce founder Marc Benioff and wife Lynne Benioff",
+                    "ts": 1537145368,
+                    "twitterid": 1041489278382092289,
+                    "url": "https://www.nbcnews.com/tech/tech-news/tim-magazine-acquired-salesforce-founder-marc-benioff-wife-lynne-benioff-n910076?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b9f7b53421aa96943e8bb6c",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/09/17/salesforce-co-founder-purchases-time-magazine-for-190-million/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537158425693.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Salesforce co-founder purchases Time Magazine for $190 million",
+                    "ts": 1537175101,
+                    "twitterid": 1041613986431549440,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/17/salesforce-co-founder-purchases-time-magazine-for-190-million.html"
+                },
+                {
+                    "_id": "5b9f26ef421aa96378c5c9be",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/16/gettyimages-880238704_wide-2092fa8ebecd2902293d672b41b00e1c702d70f2.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Meredith Corp. To Sell 'Time' Magazine To Salesforce Founder For $190 Million",
+                    "ts": 1537154164,
+                    "twitterid": 1041526172520046593,
+                    "url": "https://www.npr.org/2018/09/16/648598950/meredith-corp-to-sell-time-magazine-to-salesforce-founder-for-190-million?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b9efcc6421aa95def768e56",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/22/TIME_s2048x1884.jpg?a1326cc73f895a92dbd09d3a7f14d74860ca07ae",
+                    "origin": "The Washington Times",
+                    "title": "Marc Benioff, wife buy Time magazine for $190 million",
+                    "ts": 1537142475,
+                    "twitterid": 1041477143191011328,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/16/marc-benioff-wife-buy-time-magazine-190-million/"
+                },
+                {
+                    "_id": "5b9eeebf421aa95c9bb30dbf",
+                    "date_month": "2018-09",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180916185410-marc-lynne-benioff-restricted-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "Salesforce CEO Marc Benioff and his wife are buying Time Magazine",
+                    "ts": 1537140543,
+                    "twitterid": 1041469040131276800,
+                    "url": "https://money.cnn.com/2018/09/16/media/salesforce-marc-benioff-time-magazine/index.html?utm_source=twCNN&utm_content=2018-09-16T23%3A29%3A02&utm_medium=social&utm_term=link"
+                },
+                {
+                    "_id": "5b9f0ad0421aa95f23de4fa7",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/8b/ad/4271db4648c6b908bbac8049f8b5/180916-marc-benioff-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Salesforce CEO Marc Benioff and wife Lynne to buy Time magazine",
+                    "ts": 1537146906,
+                    "twitterid": 1041495727493537792,
+                    "url": "https://www.politico.com/story/2018/09/16/benioffs-time-magazine-826065"
+                },
+                {
+                    "_id": "5b9f977e421aa96b8e3b442c",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/d0OjijYe3t0k1WPsHQwC2qjlyFQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DO65ZWF2BYI6RLNYAEJFIFWBAI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Time Magazine sold to tech billionaire Marc Benioff",
+                    "ts": 1537184074,
+                    "twitterid": 1041651621812482052,
+                    "url": "https://www.washingtonpost.com/business/2018/09/17/time-magazine-sold-tech-billionaire-marc-benioff/?utm_term=.94fdd45eb4da&tid=sm_tw"
+                },
+                {
+                    "_id": "5b9f7b53421aa96943e8bb69",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/17/BostonGlobe.com/Business/Images/1b17113c-ba18-11e8-bdc0-90f81cc58c5d.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Tech billionaire will purchase iconic Time Magazine",
+                    "ts": 1537175466,
+                    "twitterid": 1041615517243645952,
+                    "url": "https://www.bostonglobe.com/business/2018/09/16/tech-billionaire-will-purchase-iconic-time-magazine/oQFRXt1CYCy3ieBEfLHLvN/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b9eeebf421aa95c9bb30db7",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/timemagazine_getty_091618.jpg",
+                    "origin": "The Hill",
+                    "title": "Meredith Corp. agrees to sell Time Magazine for $190M",
+                    "ts": 1537141023,
+                    "twitterid": 1041471052612861952,
+                    "url": "http://thehill.com/business-a-lobbying/406941-meredith-corp-agrees-to-sell-time-magazine-for-190m"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            12
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Typhoon Mangkhut",
+            "Headlines Dozens",
+            "Philippines Hope",
+            "Week",
+            "China Hong Kong",
+            "Philippines Typhoon Mangkhut",
+            "Typhoon Mangkhut Reaches China",
+            "Philippines",
+            "Philippines Searches For Survivors Al Gore",
+            "Typhoon Mangkhut Leaves Trail",
+            "Dozens Dead Hope",
+            "Hurricane Florence"
+        ],
+        "peaks": [],
+        "theme": [
+            "Philippines",
+            "Typhoon",
+            "Mangkhut",
+            "dozens",
+            "China",
+            "fades",
+            "Hope"
+        ],
+        "timestamp": "2018-09-17 13:10:23.348213-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9f896b421aa96a39bdd8c8",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/17/philippines_asia_typhoon_52941_s2048x1357.jpg?c74c089b5009d1d2b89c6afa0615e9ae41292ce9",
+                    "origin": "The Washington Times",
+                    "title": "Hope fades in Philippines for dozens trapped in landslides",
+                    "ts": 1537178499,
+                    "twitterid": 1041628239444234240,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/17/philippines-halts-risky-mining-in-mountains-hit-by/"
+                },
+                {
+                    "_id": "5b9f7b53421aa96943e8bb54",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/17/61d3822a-0724-409c-b655-e9d663a6421d/thumbnail/1200x630/9fcd3c318fd7f6a32a00482b9b559ab4/typhoon-mangkhut-philippines.jpg",
+                    "origin": "CBS News",
+                    "title": "Hope fades for Philippines miners buried amid Typhoon Mangkhut devastation",
+                    "ts": 1537178044,
+                    "twitterid": 1041626333158289409,
+                    "url": "https://www.cbsnews.com/news/typhoon-mangkhut-philippines-landslide-miners-itogon-china-hong-kong-recovers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b9f79ba04d301110697326d&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b9ee0ad421aa95b54b1114d",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/16/0/0/694940094001_5835460209001_5835463278001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Dozens feared trapped in Philippines as Typhoon Mangkhut pummels southern China",
+                    "ts": 1537137684,
+                    "twitterid": 1041457048385449988,
+                    "url": "http://www.foxnews.com/world/2018/09/16/40-people-feared-trapped-in-philippines-as-typhoon-mangkhut-pummels-southern-china.html"
+                },
+                {
+                    "_id": "5b9e9a5e421aa954ca942b71",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/16/ap_18259493611808_wide-e32769df5b12145985b897be040aaff251ed5ad7.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Typhoon Mangkhut Reaches China As The Philippines Searches For Survivors",
+                    "ts": 1537120736,
+                    "twitterid": 1041385962792574976,
+                    "url": "https://www.npr.org/2018/09/16/648461134/typhoon-mangkhut-reaches-china-as-the-philippines-searches-for-survivors?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b9fa597421aa96c6a835297",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_38/2568601/180917-typhoon-philippines-mc-9204_badbe0772269f582a5574dc9ca7f44aa.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Typhoon Mangkhut triggers landslide in Philippines, burying dozens in chapel",
+                    "ts": 1537185904,
+                    "twitterid": 1041659297405591552,
+                    "url": "https://www.nbcnews.com/news/world/typhoon-hit-philippines-rescuers-use-bare-hands-look-survivors-massive-n910111?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b9f6d36421aa968c65269c7",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/16/53d104fc-0653-48c8-9608-f9a913057445/thumbnail/1200x630/dc330db333eb4097d767dcf8f64682cf/gettyimages-1034481016.jpg",
+                    "origin": "CBS News",
+                    "title": "Typhoon Mangkhut pounds south China after killing 64 in Philippines",
+                    "ts": 1537171383,
+                    "twitterid": 1041598394081464320,
+                    "url": "https://www.cbsnews.com/news/typhoon-mangkhut-pounds-south-china-killing-64-philippines-2018-09-16/"
+                },
+                {
+                    "_id": "5b9fddf4421aa9705c7f6e8d",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/17/0/0/694940094001_5835850156001_5835842467001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Hope fades in the Philippines as frantic search for missing people continues",
+                    "ts": 1537201801,
+                    "twitterid": 1041725974633766912,
+                    "url": "http://www.foxnews.com/world/2018/09/17/hope-fades-in-philippines-as-frantic-search-for-missing-people-continues.html"
+                },
+                {
+                    "_id": "5b9f896b421aa96a39bdd8a5",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-26741/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Typhoon Mangkhut Leaves Trail of Destruction, Dozens Dead",
+                    "ts": 1537180622,
+                    "twitterid": 1041637142441672707,
+                    "url": "https://www.wsj.com/articles/typhoon-mangkhut-pummels-hong-kong-mainland-china-1537083857?mod=e2tw"
+                },
+                {
+                    "_id": "5b9ee0ad421aa95b54b11156",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180916005643-28-typhoon-mangkhut-0916-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Hong Kong hit by typhoon as 40 reported dead in Philippines",
+                    "ts": 1537137071,
+                    "twitterid": 1041454479470735361,
+                    "url": "https://edition.cnn.com/2018/09/15/asia/typhoon-mangkhut-hong-kong-intl/index.html?sr=twCNN091618typhoon-mangkhut-hong-kong-intl1004AMVODtop"
+                },
+                {
+                    "_id": "5b9fc1b8421aa96ead14228f",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/ptTu_Ppu_4SGrWynsnEKK7e9ICU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/35OIC2HXTFCSHLEGPR3IMLQJUI.jpg",
+                    "origin": "Washington Post",
+                    "title": "How the Philippines learned from disaster",
+                    "ts": 1537192875,
+                    "twitterid": 1041688535688982528,
+                    "url": "https://www.washingtonpost.com/world/2018/09/17/how-phillipines-learned-disaster/?utm_term=.266a34deb4fd&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            44
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Hurricane Florence News",
+            "Carolinas",
+            "Florida",
+            "AP",
+            "North Carolina Tropical Storm",
+            "Aftermath Wilmington",
+            "North Carolina North Carolina",
+            "Officials Warn Of Risk",
+            "Hurricane Florence US",
+            "Florence North Carolina",
+            "Flood",
+            "New England",
+            "Updates Donald Trump",
+            "North Carolina",
+            "Hurricane",
+            "Florence No",
+            "Florence",
+            "FEMA",
+            "Hurricane Florence Florence Death Toll Rises",
+            "Hurricane Florence"
+        ],
+        "peaks": [],
+        "theme": [
+            "Florence",
+            "Carolinas",
+            "Hurricane",
+            "Flood",
+            "North",
+            "help",
+            "rain"
+        ],
+        "timestamp": "2018-09-17 13:10:23.982324-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9fc1b8421aa96ead142268",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/15/260a27ec-94b9-47da-93a1-f58162aabd65/thumbnail/1200x630/2093fe1ec12e24ba56d9d0e23b642aa6/gettyimages-1033304470.jpg",
+                    "origin": "CBS News",
+                    "title": "No flood insurance? You can still get help",
+                    "ts": 1537195487,
+                    "twitterid": 1041699494021275648,
+                    "url": "https://www.cbsnews.com/news/hurricane-florence-no-flood-insurance-you-can-still-get-help/?ftag=CNM-00-10aab7e&linkId=56969755"
+                },
+                {
+                    "_id": "5b9fddf4421aa9705c7f6e8b",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_38/2568626/180917-wilmington-florence-floods-mc-948_7c29ef0f72d110facc2925692a76dd93.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Carolinas brace for further flooding as Florence dumps heavy rain",
+                    "ts": 1537201889,
+                    "twitterid": 1041726342818136064,
+                    "url": "https://www.nbcnews.com/news/weather/carolinas-brace-further-flooding-florence-dumps-heavy-rain-n910121"
+                },
+                {
+                    "_id": "5b9efcc6421aa95def768e35",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/GMA/hurricane-florence-prep-03-ap-jc-180913_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "How to help those impacted by Hurricane Florence",
+                    "ts": 1537145308,
+                    "twitterid": 1041489026715402240,
+                    "url": "https://abcnews.go.com/GMA/News/impacted-hurricane-florence/story?id=57808048&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b9eb67a421aa957a0a18f00",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_msnbc_brk_record_rain_180916_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Record rain fall in Carolinas as Florence death toll rises to 14",
+                    "ts": 1537124466,
+                    "twitterid": 1041401608561717248,
+                    "url": "https://www.msnbc.com/msnbc/watch/record-rain-fall-in-carolinas-as-florence-death-toll-rises-to-14-1321799235924?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b9e9a5e421aa954ca942b8a",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_37/2568236/180916-wilmington-al-1226_e1318432bc0927c758adae5179c1455e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Wilmington cut off by extreme flooding as Florence threatens Carolinas with still more rain",
+                    "ts": 1537118965,
+                    "twitterid": 1041378535120756738,
+                    "url": "https://www.nbcnews.com/news/us-news/wilmington-cut-extreme-flooding-florence-threatens-carolinas-still-more-rain-n910021?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b9e9a5e421aa954ca942b7b",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_msnbc_4pbblock_180915_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Florence victim: 'Please help us as much as you can'",
+                    "ts": 1537119666,
+                    "twitterid": 1041381474749046784,
+                    "url": "https://www.msnbc.com/msnbc/watch/florence-victim-please-help-us-as-much-as-you-can-1321445443522?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b9fd051421aa96f901ac98b",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/15/USAT/f3946370-687c-4240-a313-97cb7ddabe19-AFP_AFP_1949VP.JPG?crop=4787,2671,x96,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Tropical Storm Florence: Here's how you can help",
+                    "ts": 1537198805,
+                    "twitterid": 1041713409350356992,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/09/15/tropical-storm-florence-how-help/1317935002/"
+                },
+                {
+                    "_id": "5b9ec487421aa958e5f96f07",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180915172532-hurricane-florence-baby-pennsylvania-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Hurricane baby born after parents flee North Carolina",
+                    "ts": 1537130701,
+                    "twitterid": 1041427760495960064,
+                    "url": "https://www.cnn.com/2018/09/15/us/baby-born-hurricane-florence-trnd/index.html?utm_term=image&utm_medium=social&utm_content=2018-09-16T20%3A45%3A00&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b9ec487421aa958e5f96f16",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180916122125-susan-bostic-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "North Carolina family loses home to hurricane flooding -- again",
+                    "ts": 1537129741,
+                    "twitterid": 1041423735373406208,
+                    "url": "https://www.cnn.com/2018/09/16/us/florence-flooding-evacuation-hurricane-floyd-survivor/index.html?utm_term=link&utm_content=2018-09-16T20%3A29%3A01&utm_source=twCNN&utm_medium=social"
+                },
+                {
+                    "_id": "5b9fddf4421aa9705c7f6ea6",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/17/rts21ni9_wide-da79c5d1c72cf4274862f66e369726180f1fd84e.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Florence Death Toll Rises To 23 As Rivers Continue To Flood In N.C. And S.C.",
+                    "ts": 1537200313,
+                    "twitterid": 1041719733559582720,
+                    "url": "https://www.npr.org/2018/09/17/648699271/travel-not-advised-in-large-swath-of-north-carolina-as-rivers-continue-to-flood?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            322
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Butina",
+            "AppleCare",
+            "Wisconsin",
+            "Swedish",
+            "Red Sox",
+            "Netanyahu",
+            "Marin Cilic Asia Argento",
+            "China Philippines Airport",
+            "ICE",
+            "Exchange",
+            "Daily Forecast",
+            "Serena Williams",
+            "Florida Phoenix",
+            "Salacious",
+            "Mexico City",
+            "Balkans",
+            "Flint",
+            "California",
+            "Online",
+            "Texas Border Patrol",
+            "Female Dancers The Wall Street Journal",
+            "Egyptian",
+            "Ink",
+            "Viktor Orban",
+            "Sovereign",
+            "Resign Over Vehicle Use Juan David Ortiz",
+            "South China Sea",
+            "Nobel Peace Prize",
+            "Machine Gun Kelly",
+            "Fox News Update Yes",
+            "New Doubts Emerge",
+            "Ark",
+            "Europe",
+            "Lawrence",
+            "FEMA Chief",
+            "Sicily",
+            "Scrutiny Over Treatment",
+            "USA Gymnastics Emmy",
+            "Jackson Park",
+            "U.N.",
+            "Ethiopia",
+            "Nikki Haley",
+            "Twitter",
+            "Mac Miller",
+            "Emmy",
+            "Don",
+            "Border Patrol",
+            "BBQ",
+            "Fatal Shark Attack Off Cape Cod Is First",
+            "Michael Avenatti",
+            "Mets",
+            "SpaceX",
+            "Muddy",
+            "John Dingell",
+            "Massachusetts",
+            "Super Bowl",
+            "Fahrenheit",
+            "U.S.",
+            "Flown To Germany For Treatment",
+            "Tyson Foods",
+            "American",
+            "Isabella Stewart Gardner",
+            "Rise Rare Kennedy",
+            "Wanda Barzee",
+            "AGs",
+            "Laquan",
+            "Larry Nassar",
+            "Mexico City Keeps Sinking",
+            "HSA",
+            "Plaza Shopping",
+            "Japanese Submarine Conducted Exercise",
+            "Donald Trump",
+            "North Korea",
+            "Google",
+            "Mueller",
+            "Tech",
+            "Mia Farrow",
+            "Mexico Barn Weddings Are",
+            "Park Service",
+            "Idaho",
+            "Tara Sullivan",
+            "Pyotr Verzilov",
+            "GOP",
+            "North Korea Sean Penn",
+            "Elizabeth Smart",
+            "Much",
+            "Land",
+            "DUI",
+            "New Mexico",
+            "Teammate",
+            "Manage Methane Emissions Kansas",
+            "Held",
+            "Idlib",
+            "Rockingham Park",
+            "Puerto Rico Jeff Sessions",
+            "Truck",
+            "Hurricane",
+            "Test",
+            "Brett Kavanaugh",
+            "Illinois",
+            "David Solomon",
+            "Julian Assange",
+            "Global Stocks Collins",
+            "Kim Jong Un",
+            "Celsius Coast Guard",
+            "Twitch Trump",
+            "Revere",
+            "La Corona",
+            "ISIS",
+            "People Really",
+            "Russian",
+            "Us All Paul",
+            "Border Patrol Supervisor Arrested",
+            "Students With Special Needs Taco Bell",
+            "Texas Farm Bureau",
+            "Dolphins",
+            "West Bank Sphinx",
+            "System Trump",
+            "Hungary",
+            "China",
+            "Dwyane Wade",
+            "Columbia Gas",
+            "Cruz",
+            "Logo Tattoo",
+            "Pompeo",
+            "Cowboys",
+            "Ted Cruz",
+            "Hamilton",
+            "Brooklyn",
+            "Shawn Christy",
+            "JFK Library Mountain",
+            "Company Responses Are Modest Samsung",
+            "New York City Ballet Faces",
+            "Trade Impasse",
+            "MeToo",
+            "Palestinian",
+            "North Korea Russia",
+            "Brady",
+            "Chicago Coke",
+            "Menace",
+            "Vontae Davis",
+            "New Ram",
+            "Jaguars Madden",
+            "Case",
+            "Beto",
+            "Eric Holder",
+            "Broken",
+            "Bronx",
+            "Noah",
+            "PETA",
+            "Hialeah",
+            "Deadly Cancer",
+            "World News",
+            "Market Higher",
+            "Emmys Many",
+            "Airbnb",
+            "Snake Kings",
+            "Congress",
+            "Iran",
+            "Africa",
+            "Accuser Speaks How",
+            "Business",
+            "Jason Van Dyke",
+            "US",
+            "Amar Ramasar",
+            "South Korea",
+            "Taco Bell",
+            "CNN",
+            "Answer",
+            "Pipes Ryanair",
+            "Lawrence Huge",
+            "Away Lowell",
+            "Trump Pakistani",
+            "NATO",
+            "Video Wall Street",
+            "How Lolita",
+            "China Ramp Up Trade Threats Martin Fletcher",
+            "AP",
+            "Jimmy Bennett",
+            "Peter Strzok",
+            "James Mattis",
+            "Macedonia",
+            "New York",
+            "Mali",
+            "Weather Channel",
+            "Repatriated Cash",
+            "Local Weather Radar",
+            "Franco Has",
+            "Michael Bloomberg",
+            "Unreality Dallas",
+            "Nike",
+            "Korean",
+            "New Hampshire",
+            "Out Targets",
+            "Visit Pyongyang",
+            "Mean Collapsing China",
+            "Lehman Brothers",
+            "Botham Jean",
+            "People Awkward",
+            "Bruins",
+            "Guatemala",
+            "Patriots Rams",
+            "Mia Farrow New Mexico",
+            "Amazon Go",
+            "Financial",
+            "Blake Northway",
+            "Kamala Harris London",
+            "Hazle Township",
+            "Ari Fuld",
+            "Teen",
+            "Actress Anna Kendrick",
+            "Cape Cod",
+            "Chinese Shares",
+            "Woody Allen",
+            "Wasn",
+            "Iraq",
+            "Venezuela",
+            "National Debt Clock",
+            "Rose McGowan",
+            "SNL",
+            "John Kerry",
+            "Chris Sale",
+            "Eminem",
+            "Puerto Rico",
+            "Lisa Page",
+            "Saudi",
+            "Arizona Senate",
+            "Service Violation Teachers Are",
+            "Domino",
+            "Wall Street",
+            "Great Depression Ben Volin",
+            "Boston Public",
+            "West Bank See Joaquin Phoenix",
+            "Egypt Jill Biden",
+            "Rare Step",
+            "Jaguars",
+            "Rush",
+            "U.S. Syria",
+            "New York City Ballet",
+            "Brock Long",
+            "Pussy Riot",
+            "Pittsburgh",
+            "Sandra Oh",
+            "Jaguars Doctors",
+            "Poland",
+            "Most",
+            "Actress Eliza Dushku",
+            "Maryland Assange",
+            "Tucker Carlson",
+            "NYC",
+            "Israeli",
+            "Flood",
+            "US Open",
+            "Oregon",
+            "Space Force",
+            "Pope Francis",
+            "Great Wall",
+            "Diplomacy Taco Bell",
+            "Vote",
+            "Bashar Assad",
+            "Florence",
+            "Charlie Rose Parking",
+            "College Campuses",
+            "Gardner Museum",
+            "Gunmen",
+            "Ariana Grande",
+            "West Bank",
+            "China Tariff Uncertainty Drags",
+            "Chrissy Teigen",
+            "Real Lolita",
+            "State",
+            "Baby",
+            "Iranians",
+            "United Farm Workers",
+            "Buffalo Bills",
+            "Ohio Burger",
+            "Galaxy",
+            "Texas",
+            "Battle Political Storm Doomed Palestinian",
+            "Brexit",
+            "New Problem",
+            "Smith College Labor",
+            "Economic News",
+            "Moon",
+            "West",
+            "North Korea Deadly",
+            "Donald Trump How Do Energy Companies"
+        ],
+        "peaks": [],
+        "theme": [
+            "says",
+            "New",
+            "Trump",
+            "killed",
+            "Police",
+            "report"
+        ],
+        "timestamp": "2018-09-17 13:10:27.107238-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9fddf4421aa9705c7f6e76",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/auto/2018/09/17/new-ram-midsize-pickup-to-be-built-in-usa-report-says/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537195230407.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "New Ram midsize pickup to be built in USA, report says",
+                    "ts": 1537202700,
+                    "twitterid": 1041729745329635328,
+                    "url": "http://www.foxnews.com/auto/2018/09/17/new-ram-midsize-pickup-to-be-built-in-usa-report-says.html"
+                },
+                {
+                    "_id": "5b9f6d36421aa968c65269c2",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/US/bp-serial-killer2-ap-mo-20180916_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Police detail how Texas Border Patrol agent allegedly targeted, killed 4",
+                    "ts": 1537172105,
+                    "twitterid": 1041601422083670016,
+                    "url": "https://abcnews.go.com/US/police-detail-texas-border-patrol-agent-allegedly-targeted/story?id=57871672&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b9fddf4421aa9705c7f6ea1",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/collinschris_080818getty_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Indicted GOP lawmaker to stay on ballot in New York this fall: report",
+                    "ts": 1537200606,
+                    "twitterid": 1041720965011582978,
+                    "url": "https://thehill.com/homenews/house/407005-indicted-gop-lawmaker-to-stay-on-ballot-in-new-york-this-fall-report"
+                },
+                {
+                    "_id": "5b9f3500421aa964f4e78064",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/09/16/14th-suspect-arrested-in-bronx-teen-junior-guzman-felizs-killing-at-bodega-report-says/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537150796496.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "14th suspect arrested in Bronx teen 'Junior' Guzman-Feliz's killing at bodega, report says",
+                    "ts": 1537159800,
+                    "twitterid": 1041549809423773697,
+                    "url": "http://www.foxnews.com/us/2018/09/16/14th-suspect-arrested-in-bronx-teen-junior-guzman-felizs-killing-at-bodega-report-says.html"
+                },
+                {
+                    "_id": "5b9fddf4421aa9705c7f6eaa",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/13/trump_russia_probe_strzok_32605_s2048x1420.jpg?d022a8d7e0e7224cf3ef81e8ce83ae67b62c0602",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump says Lisa Page, Peter Strzok texts prove \u2018conspiracy\u2019 against him",
+                    "ts": 1537200101,
+                    "twitterid": 1041718843490660353,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/17/donald-trump-says-lisa-pagepeter-strzok-texts-prov/"
+                },
+                {
+                    "_id": "5b9eeebf421aa95c9bb30dc6",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/09/16/paul-mccartney-reveals-new-song-about-climate-change-is-directed-at-donald-trump/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537123641590.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Paul McCartney reveals new song about climate change is directed at Donald Trump",
+                    "ts": 1537140162,
+                    "twitterid": 1041467441543557121,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/16/paul-mccartney-reveals-new-song-about-climate-change-is-directed-at-donald-trump.html"
+                },
+                {
+                    "_id": "5b9eeebf421aa95c9bb30db1",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/09/16/new-hampshire-mom-whose-teen-daughters-got-selfies-with-candidates-including-trump-runs-for-office/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537128257606.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "New Hampshire mom whose teen daughters got selfies with candidates including Trump runs for office",
+                    "ts": 1537141500,
+                    "twitterid": 1041473053933428736,
+                    "url": "http://www.foxnews.com/politics/2018/09/16/new-hampshire-mom-whose-teen-daughters-got-selfies-with-candidates-including-trump-runs-for-office.html"
+                },
+                {
+                    "_id": "5b9fb3ab421aa96dc0db2787",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/17/0/0/694940094001_5810169371001_5810162070001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Officers killed in the line of duty in 2018",
+                    "ts": 1537192802,
+                    "twitterid": 1041688231144648705,
+                    "url": "http://www.foxnews.com/us/2018/09/17/officers-killed-in-line-duty-in-2018.html"
+                },
+                {
+                    "_id": "5b9ee0ad421aa95b54b1113b",
+                    "date_month": "2018-09",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180912131716-06-apple-event-2018-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "Apple announces 3 new iPhones, a new watch, not much else",
+                    "ts": 1537138800,
+                    "twitterid": 1041461729060741120,
+                    "url": "https://money.cnn.com/2018/09/12/technology/apple-event-2018-recap/index.html?utm_medium=social&utm_source=twCNN&utm_content=2018-09-13T00:49:54"
+                },
+                {
+                    "_id": "5b9f18e5421aa962726ae21f",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/09/16/kansas-sheriffs-deputy-shot-killed-in-line-duty/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537151578083.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Kansas sheriff's deputy shot, killed in line of duty",
+                    "ts": 1537151797,
+                    "twitterid": 1041516244896284676,
+                    "url": "http://www.foxnews.com/us/2018/09/16/kansas-sheriffs-deputy-shot-killed-in-line-duty.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            25
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Are Willing",
+            "Donald Trump",
+            "Instagram",
+            "Kellyanne Conway",
+            "Christine Blasey Ford",
+            "Brett Kavanaugh",
+            "Accuser",
+            "Dianne Feinstein",
+            "John Kennedy Lindsey Graham",
+            "Christine Ford",
+            "Senate",
+            "Congress",
+            "Senate Committee GOP",
+            "Senate Committee Brett Kavanaugh"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "accuser",
+            "says",
+            "Testify",
+            "Brett",
+            "allegations",
+            "assault"
+        ],
+        "timestamp": "2018-09-17 13:10:27.364318-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9fd051421aa96f901ac992",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/fa/01/bc12e9874aa28b1cb2f8144cd591/180917-brett-kavanaugh-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Kavanaugh says he'd testify in Congress about sexual assault allegations",
+                    "ts": 1537198354,
+                    "twitterid": 1041711516129611776,
+                    "url": "https://www.politico.com/story/2018/09/17/chip-somodevilla-getty-images-826085"
+                },
+                {
+                    "_id": "5b9fc1b8421aa96ead14225b",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/17/0/0/694940094001_5835842646001_5835841253001-vs.jpg?ve=1",
+                    "origin": "Fox News Politics",
+                    "title": "Brett Kavanaugh dismisses sexual assault allegations as \u2018completely false\u2019",
+                    "ts": 1537196362,
+                    "twitterid": 1041703163928174597,
+                    "url": "http://www.foxnews.com/politics/2018/09/17/brett-kavanaugh-dismisses-sexual-assault-allegations-as-completely-false.html"
+                },
+                {
+                    "_id": "5b9f977e421aa96b8e3b4422",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/16/supreme_court_kavanaugh_23838_s2048x1492.jpg?7caa626c623f62ea394d77afbf4341230697182a",
+                    "origin": "The Washington Times",
+                    "title": "Christine Blasey Ford willing to testify about Brett Kavanaugh allegations, her lawyer says",
+                    "ts": 1537184846,
+                    "twitterid": 1041654861383835649,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/17/christine-blasey-ford-willing-to-testify-about-bre/"
+                },
+                {
+                    "_id": "5b9f977e421aa96b8e3b441f",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/ewDBtp1y8-yV9uJa5MpxDn9GwwM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5EX5XRV2NUI6RGASUOE34ZUQV4.jpg",
+                    "origin": "Washington Post",
+                    "title": "Kavanaugh accuser willing to testify, her lawyer says",
+                    "ts": 1537185027,
+                    "twitterid": 1041655618938044416,
+                    "url": "https://www.washingtonpost.com/politics/kavanaugh-accuser-willing-to-testify-her-lawyer-says/2018/09/17/21db2860-ba6c-11e8-9812-a389be6690af_story.html?utm_term=.c5f939d26c2e&tid=sm_tw"
+                },
+                {
+                    "_id": "5b9fc1b8421aa96ead142269",
+                    "date_month": "2018-09",
+                    "image": "https://amp.businessinsider.com/images/5b9fbbee64dce81c008b5e03-2732-1366.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Kavanaugh says he's willing to testify on 'completely false' sexual assault allegation",
+                    "ts": 1537195428,
+                    "twitterid": 1041699243965259776,
+                    "url": "https://www.businessinsider.com/brett-kavanaugh-allegations-christine-blasley-ford-testify-2018-9"
+                },
+                {
+                    "_id": "5b9ea866421aa95648a61bec",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/14/supreme_court_kavanaugh_03449_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Christine Blasey Ford, Brett Kavanaugh accuser, details sexual assault allegation",
+                    "ts": 1537122083,
+                    "twitterid": 1041391612654432256,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/16/christine-blasey-ford-brett-kavanaugh-accuser-deta/"
+                },
+                {
+                    "_id": "5b9fd051421aa96f901ac9ab",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-26779/social",
+                    "origin": "Capital Journal",
+                    "title": "Brett Kavanaugh, and His Accuser, Are Willing to Testify Before Senate Committee",
+                    "ts": 1537197200,
+                    "twitterid": 1041706678117429248,
+                    "url": "https://www.wsj.com/articles/christine-blasey-ford-brett-kavanaughs-accuser-willing-to-testify-before-senate-committee-1537188729?mod=e2twp"
+                },
+                {
+                    "_id": "5b9fddf4421aa9705c7f6e98",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180917080814-09-brett-kavanaugh-09-17-2018-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Kellyanne Conway says Brett Kavanaugh's accuser 'should not be ignored or insulted'",
+                    "ts": 1537201086,
+                    "twitterid": 1041722975396003841,
+                    "url": "https://www.cnn.com/2018/09/17/politics/kellyanne-conway-kavanaugh-accuser/index.html?utm_term=image&utm_medium=social&utm_source=twCNNp&utm_content=2018-09-17T16%3A18%3A05"
+                },
+                {
+                    "_id": "5b9fddf4421aa9705c7f6ea3",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/1230lead_kavanaughbrett_090718getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Kavanaugh hires attorney amid sexual assault allegations: report",
+                    "ts": 1537200423,
+                    "twitterid": 1041720195549736961,
+                    "url": "https://thehill.com/homenews/senate/407008-kavanaugh-hires-attorney-amid-sexual-assault-allegations-report"
+                },
+                {
+                    "_id": "5b9fc1b8421aa96ead142278",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/16/Supreme_Court_Kavanaugh_60844.jpg-1bd6a_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Brett Kavanaugh \u2018willing to talk\u2019 to Congress about allegations",
+                    "ts": 1537194565,
+                    "twitterid": 1041695625509838848,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/17/kavanaugh-willing-talk-congress-about-allegations/?cache"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            16
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Wilmington",
+            "Carolinas Florence Washes Away Portion",
+            "Threatens",
+            "Hurricane Florence Live",
+            "North Carolina",
+            "North Carolina Florence",
+            "Florence",
+            "Sutton Power Station",
+            "Inland North Carolina",
+            "Duke Energy",
+            "Days Swollen"
+        ],
+        "peaks": [],
+        "theme": [
+            "Florence",
+            "Carolina",
+            "ash",
+            "coal",
+            "flooding",
+            "North",
+            "Landfill"
+        ],
+        "timestamp": "2018-09-17 13:10:27.729742-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9efcc6421aa95def768e2c",
+                    "date_month": "2018-09",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BU117_FLORCO_SOC_20180916160156.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Florence Washes Away Portion of Coal-Ash Landfill in North Carolina",
+                    "ts": 1537146005,
+                    "twitterid": 1041491950262800385,
+                    "url": "https://www.wsj.com/articles/florence-washes-away-portion-of-coal-ash-landfill-in-north-carolina-1537137771?mod=e2tw"
+                },
+                {
+                    "_id": "5b9fd051421aa96f901ac98e",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/hurricaneflorence4_091318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Florence causes coal ash spill in North Carolina",
+                    "ts": 1537198621,
+                    "twitterid": 1041712639230074880,
+                    "url": "https://thehill.com/policy/energy-environment/406994-florence-causes-coal-ash-spill-in-north-carolina"
+                },
+                {
+                    "_id": "5b9ee0ad421aa95b54b11148",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_37/2568321/180916-hurricane-florence-wilmington-flooded-street-se-505p_e80f0722377e81220d299f517fddecf3.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Florence's rains: Coal ash landfill collapses in Carolinas",
+                    "ts": 1537137905,
+                    "twitterid": 1041457975838355457,
+                    "url": "https://www.nbcnews.com/news/us-news/florence-s-rains-coal-ash-landfill-collapses-carolinas-n910046?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b9e9a5e421aa954ca942b73",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/16/tropical_weather_coal_ash_41983_s2048x1360.jpg?7ddbe6c23a2f096009327b343b29dfe519ca3612",
+                    "origin": "The Washington Times",
+                    "title": "L. V. Sutton Power Station coal ash landfill collapses outside Wilmington, Duke Energy says",
+                    "ts": 1537120503,
+                    "twitterid": 1041384985498984451,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/16/l-v-sutton-power-station-coal-ash-landfill-collaps/"
+                },
+                {
+                    "_id": "5b9ec487421aa958e5f96f03",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/15/0/0/694940094001_5835342459001_5835346083001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Alleged 'looters' in Florence-ravaged North Carolina sought by police",
+                    "ts": 1537131248,
+                    "twitterid": 1041430055052824576,
+                    "url": "http://www.foxnews.com/us/2018/09/16/alleged-looters-in-florence-ravaged-north-carolina-sought-by-police.html"
+                },
+                {
+                    "_id": "5b9f4304421aa965e3fb3fe3",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/12/782aeba3-a1b2-445e-854c-c655ded36f92/thumbnail/1200x630/0c06192cca85ade668dae9b2b8dfe6d5/0912-en-fayetteville-morgan-1656671-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Florence: Inland North Carolina rivers expected to rise to dangerous levels",
+                    "ts": 1537162383,
+                    "twitterid": 1041560644343017472,
+                    "url": "https://www.cbsnews.com/news/tropical-storm-florence-fayetteville-cape-fear-river-water-levels-forecast-today-2018-09-15/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b9f3c8d04d3011a9cc2c04e&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b9f7b53421aa96943e8bb58",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-26738/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Florence Flooding Threatens to Last for Days",
+                    "ts": 1537177502,
+                    "twitterid": 1041624058377449472,
+                    "url": "https://www.wsj.com/articles/florence-flooding-threatens-to-last-for-days-1537112862?mod=e2tw"
+                },
+                {
+                    "_id": "5b9fb3ab421aa96dc0db2788",
+                    "date_month": "2018-09",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/09/RTS21NVT-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Florence flooding spreads as storm heads northeast",
+                    "ts": 1537192801,
+                    "twitterid": 1041688227227344896,
+                    "url": "https://www.pbs.org/newshour/nation/florence-flooding-spreads-as-storm-heads-northeast"
+                },
+                {
+                    "_id": "5b9fa597421aa96c6a835292",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/qGE3GMIVicuxUAc86k7TRXssRw4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XPM7MMVZ5UI6RPOASD4BZRMMLU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Carolinas turn into an archipelago of island communities as Florence\u2019s rain causes widespread flooding",
+                    "ts": 1537186364,
+                    "twitterid": 1041661227762688000,
+                    "url": "https://www.washingtonpost.com/national/carolinas-turn-into-an-archipelago-of-island-communities-as-florences-rain-causes-widespread-flooding/2018/09/16/05f637f2-b9c7-11e8-9812-a389be6690af_story.html?utm_term=.005868372246&tid=sm_tw"
+                },
+                {
+                    "_id": "5b9eb67a421aa957a0a18ee1",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/b6/b3/b4fb5ba749b481b2919d190ea6e9/180916-wilmington-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Wilmington cut off as flooding fears rise",
+                    "ts": 1537127454,
+                    "twitterid": 1041414142702309382,
+                    "url": "https://www.politico.com/story/2018/09/16/florence-north-carolina-flooding-825871"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            18
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Mueller Ken Starr",
+            "Ken Starr",
+            "Robert Mueller Former Trump",
+            "Kenneth Starr",
+            "Adam Schiff",
+            "Mueller",
+            "Michael Flynn",
+            "Mueller Obama",
+            "Trump Mueller",
+            "FBI",
+            "Robert Mueller",
+            "Trump Manafort",
+            "House Intelligence Committee",
+            "Paul Manafort",
+            "Swamp",
+            "Manafort Schiff",
+            "White House"
+        ],
+        "peaks": [],
+        "theme": [
+            "Manafort",
+            "Mueller",
+            "Trump",
+            "Paul",
+            "could",
+            "big",
+            "says"
+        ],
+        "timestamp": "2018-09-17 13:10:28.026420-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9ed296421aa959d2642919",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_32/2524126/180808-paul-manafort-se-1155a_5a050b3fe58908935ebea6eec0fcccaa.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Paul Manafort could flip on a big fish \u2014 but that might not be Trump",
+                    "ts": 1537132566,
+                    "twitterid": 1041435584055705600,
+                    "url": "https://www.nbcnews.com/politics/politics-news/paul-manafort-could-flip-big-fish-might-not-be-trump-n910031?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b9fa597421aa96c6a83526c",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/KrRv5u6HSxQJDjvRUc6u67Qtoj4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V5ZXCCFYMEI6RLSPFQKDTSLNPE.jpg",
+                    "origin": "Washington Post",
+                    "title": "The other big reason Paul Manafort could change everything",
+                    "ts": 1537188792,
+                    "twitterid": 1041671410857455616,
+                    "url": "https://www.washingtonpost.com/politics/2018/09/17/other-big-reason-paul-manafort-could-change-everything/?utm_term=.b72a38c87cd7&tid=sm_tw&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b9fb3ab421aa96dc0db2789",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/manafortpaul_022818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Ken Starr says Manafort deal'a big win for Mueller",
+                    "ts": 1537192682,
+                    "twitterid": 1041687725764685824,
+                    "url": "https://thehill.com/hilltv/rising/406971-ken-starr-calls-manafort-plea-a-great-triumph-for-mueller?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b9eeebf421aa95c9bb30dbd",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_joy_manafort_1809016_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Manafort cooperating with Mueller could spell trouble for Trump",
+                    "ts": 1537140603,
+                    "twitterid": 1041469293739888641,
+                    "url": "https://www.msnbc.com/am-joy/watch/manafort-cooperating-with-mueller-could-spell-trouble-for-trump-1321852995603?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b9ea866421aa95648a61be5",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/schiffadam_020517gn5_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Schiff: Trump team 'terrified' of what Manafort could tell Mueller",
+                    "ts": 1537122781,
+                    "twitterid": 1041394543046938625,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/406904-schiff-trump-team-terrified-of-what-manafort-could-tell-mueller"
+                },
+                {
+                    "_id": "5b9f4304421aa965e3fb3fd6",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_hayes_aswalwellmanafort_180914_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "What is Paul Manafort telling Robert Mueller?",
+                    "ts": 1537164009,
+                    "twitterid": 1041567462964322310,
+                    "url": "https://www.msnbc.com/all-in/watch/what-is-paul-manafort-telling-robert-mueller-1320951875611?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b9f7b53421aa96943e8bb57",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/US/manafort-01-as-rt-180821_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "The \u2018lavish lifestyle\u2019 Paul Manafort gave up in deal with Robert Mueller",
+                    "ts": 1537177504,
+                    "twitterid": 1041624064685694976,
+                    "url": "https://abcnews.go.com/Politics/lavish-lifestyle-paul-manafort-gave-deal-robert-mueller/story?id=57862785&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b9e9a5e421aa954ca942b91",
+                    "date_month": "2018-09",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/schiff.png?itok=l63g4XoU",
+                    "origin": "Fox News",
+                    "title": "Schiff: 'Bob Mueller Is the One Draining the Swamp', Trump 'Terrified' of Manafort",
+                    "ts": 1537118343,
+                    "twitterid": 1041375928935481344,
+                    "url": "http://insider.foxnews.com/2018/09/16/adam-schiff-trump-mueller-manafort-special-counsel-and-democrats-will-drain-swamp"
+                },
+                {
+                    "_id": "5b9eb67a421aa957a0a18efd",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/15/0/0/694940094001_5835300039001_5835305615001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "President Trump 'not going to survive' testimony by Paul Manafort, former Obama ethics czar predicts",
+                    "ts": 1537124760,
+                    "twitterid": 1041402840994873344,
+                    "url": "http://www.foxnews.com/politics/2018/09/16/president-trump-not-going-to-survive-testimony-by-paul-manafort-former-obama-ethics-czar-predicts.html"
+                },
+                {
+                    "_id": "5b9fd051421aa96f901ac983",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/mueller_051718getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Ken Starr backs Mueller, says president 'must be held accountable'",
+                    "ts": 1537199216,
+                    "twitterid": 1041715131242242048,
+                    "url": "https://thehill.com/hilltv/rising/406988-former-whitewater-prosecutor-says-he-has-very-high-confidence-in-mueller"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            5
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Carrie Underwood"
+        ],
+        "peaks": [],
+        "theme": [
+            "Carrie",
+            "miscarriages",
+            "Underwood",
+            "three",
+            "reveals",
+            "years",
+            "actually"
+        ],
+        "timestamp": "2018-09-17 13:10:28.114127-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9fddf4421aa9705c7f6e9e",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/17/BostonGlobe.com/Lifestyle/Images/6291cfc27b524e5db8c2aea5780c475e-6291cfc27b524e5db8c2aea5780c475e-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Carrie Underwood reveals she had three miscarriages in two years",
+                    "ts": 1537200692,
+                    "twitterid": 1041721325629390849,
+                    "url": "https://www.bostonglobe.com/lifestyle/2018/09/17/carrie-underwood-reveals-she-had-three-miscarriages-two-years/8GFixPdzZK2Br2Gu3QikUM/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b9f977e421aa96b8e3b4427",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:6291cfc27b524e5db8c2aea5780c475e/800.jpeg",
+                    "origin": "AP Eastern US",
+                    "title": "Carrie Underwood reveals she had 3 miscarriages in 2 years",
+                    "ts": 1537184381,
+                    "twitterid": 1041652908704653314,
+                    "url": "https://apnews.com/c38db446f9254685b1ca35821fb14eed?utm_medium=APEastRegion&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b9fddf4421aa9705c7f6e64",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/G5dZkdc9iaW4OPyoFlLRpMm2Eys=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IWEO5F4IHYZGJMRNP4KG7IXX4Y.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018I actually told God how I felt\u2019: Carrie Underwood on the enraging pain of three miscarriages",
+                    "ts": 1537203425,
+                    "twitterid": 1041732788880371712,
+                    "url": "https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/09/17/carrie-underwood-talks-about-the-pain-of-her-three-miscarriages/?utm_term=.6bbd78248ebe&tid=sm_tw"
+                },
+                {
+                    "_id": "5b9eeebf421aa95c9bb30dba",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/09/16/pregnant-carrie-underwood-reveals-had-three-miscarriages-last-year-in-emotional-interview/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537118003783.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Pregnant Carrie Underwood reveals she had three miscarriages last year in emotional interview",
+                    "ts": 1537140801,
+                    "twitterid": 1041470121510936576,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/16/pregnant-carrie-underwood-reveals-had-three-miscarriages-last-year-in-emotional-interview.html"
+                },
+                {
+                    "_id": "5b9f26ef421aa96378c5c9bc",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/16/b3b55837-2679-4d3b-96e7-2cb4ad61ac1d/thumbnail/1200x630/62cb2d6762e9865acd737009f7493f1a/carrie-underwood-interview-promo.jpg",
+                    "origin": "CBS News",
+                    "title": "Carrie Underwood on getting beyond three miscarriages, to joy",
+                    "ts": 1537154285,
+                    "twitterid": 1041526680752480256,
+                    "url": "https://www.cbsnews.com/news/carrie-underwood-on-getting-beyond-three-miscarriages-to-joy/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b9f1cea04d301210c046e8b&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            18
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Patrick Mahomes",
+            "Belichick Ryan Fitzpatrick",
+            "Badgers",
+            "AFC",
+            "Patriots Jaguars",
+            "Watch Keelan Cole",
+            "Dallas Cowboys",
+            "Blake Bortles",
+            "Tampa",
+            "DeSean Jackson",
+            "New York",
+            "NFL Lawrence",
+            "Patriots Redskins",
+            "Andover",
+            "Tom Brady",
+            "Colts Cleveland Browns",
+            "Florida State",
+            "Jameis Winston",
+            "Central Catholic",
+            "Nebraska",
+            "Dallas Defense"
+        ],
+        "peaks": [],
+        "theme": [
+            "Mahomes",
+            "NFL",
+            "Patrick",
+            "Patriots",
+            "Jaguars",
+            "win",
+            "Big"
+        ],
+        "timestamp": "2018-09-17 13:10:28.505574-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b9f18e5421aa962726ae20e",
+                    "date_month": "2018-09",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BU116_NFL091_SOC_20180916155535.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Patrick Mahomes Is Conquering the NFL",
+                    "ts": 1537153213,
+                    "twitterid": 1041522184496267264,
+                    "url": "https://www.wsj.com/articles/patrick-mahomes-is-conquering-the-nfl-1537136770?mod=e2tw"
+                },
+                {
+                    "_id": "5b9fa597421aa96c6a835269",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/YqqTJ5Ek4ga99Vaaadl004NCeO0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O3CCC4QZS47KHCUNG2XEBIBCSQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "The NFL belongs to Patrick Mahomes now",
+                    "ts": 1537189178,
+                    "twitterid": 1041673030773161985,
+                    "url": "https://www.washingtonpost.com/news/sports/wp/2018/09/16/the-nfl-belongs-to-patrick-mahomes-now/?utm_term=.af1031ce5867&tid=sm_tw"
+                },
+                {
+                    "_id": "5b9ec487421aa958e5f96f11",
+                    "date_month": "2018-09",
+                    "image": "https://nbcprofootballtalk.files.wordpress.com/2018/09/gettyimages-1034359156-e1537127382398.jpg",
+                    "origin": "NBC News",
+                    "title": "Patrick Mahomes ties team record, breaks NFL record",
+                    "ts": 1537129864,
+                    "twitterid": 1041424250576486410,
+                    "url": "https://profootballtalk.nbcsports.com/2018/09/16/patrick-mahomes-ties-team-record-breaks-nfl-record/?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b9f977e421aa96b8e3b4440",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/17/USAT/c3f67fb3-41b7-4034-b173-186f404d0a21-USATSI_11199215.jpg?crop=1805,1015,x1,y227&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "NFL Week 2 winners, losers: Patrick Mahomes impressive, Jameis Winston's end in Tampa?",
+                    "ts": 1537182837,
+                    "twitterid": 1041646434465075200,
+                    "url": "https://www.usatoday.com/story/sports/nfl/2018/09/17/nfl-week-2-winners-losers-jameis-winston-tampa-bay/1332446002/"
+                },
+                {
+                    "_id": "5b9ec487421aa958e5f96f00",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/16/BostonGlobe.com/Sports/Images/30243f9c1c454826988f5ddb6b7a38e4-30243f9c1c454826988f5ddb6b7a38e4-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Patriots vs. Jaguars: Live updates and analysis",
+                    "ts": 1537131545,
+                    "twitterid": 1041431298768883714,
+                    "url": "https://www.bostonglobe.com/sports/2018/09/16/patriots-jaguars-game-nfl/exo3Ew6WUiXbvtLUijgvtJ/story.html"
+                },
+                {
+                    "_id": "5b9eeebf421aa95c9bb30dc1",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/16/BostonGlobe.com/Sports/Images/b51647dbe5514b1aa577ad5629d7a425-b51647dbe5514b1aa577ad5629d7a425-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Blake Bortles played the game of his life, and the Jaguars crushed the Patriots",
+                    "ts": 1537140493,
+                    "twitterid": 1041468831334649862,
+                    "url": "https://www.bostonglobe.com/sports/2018/09/16/patriots-jaguars-game-nfl/exo3Ew6WUiXbvtLUijgvtJ/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b9efcc6421aa95def768e3c",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/16/USAT/1d110d0e-d193-47f1-82fb-07f61ed3cc58-USATSI_11263061.jpg?crop=4108,2311,x0,y106&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Jaguars handle Tom Brady, Patriots for AFC Championship Game revenge",
+                    "ts": 1537144803,
+                    "twitterid": 1041486906666700802,
+                    "url": "https://www.usatoday.com/story/sports/nfl/jaguars/2018/09/16/jaguars-patriots-tom-brady-score/1330919002/"
+                },
+                {
+                    "_id": "5b9eb67a421aa957a0a18ee6",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5b9e741b/turbine/ct-big-ten-power-rankings-20180916",
+                    "origin": "Chicago Tribune",
+                    "title": "Big Ten power rankings: Buckeyes rolling, Badgers suffer big drop",
+                    "ts": 1537126687,
+                    "twitterid": 1041410926023532544,
+                    "url": "http://www.chicagotribune.com/sports/college/ct-big-ten-power-rankings-20180916-photogallery.html"
+                },
+                {
+                    "_id": "5b9f3500421aa964f4e7807a",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5b9f0f6b/turbine/ct-spt-big-ten-5-things-20180916",
+                    "origin": "Chicago Tribune",
+                    "title": "5 things we learned about the Big Ten's lackluster weekend",
+                    "ts": 1537157464,
+                    "twitterid": 1041540011101966337,
+                    "url": "http://www.chicagotribune.com/sports/college/ct-spt-big-ten-5-things-20180916-story.html"
+                },
+                {
+                    "_id": "5b9f26ef421aa96378c5c9b9",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/16/giants_cowboys_football_24861_s2048x1355.jpg?d75b1c3cef0e65732e6e53d2e38b3315c7e0cfab",
+                    "origin": "The Washington Times",
+                    "title": "Dak Prescott, Dallas Defense lead Cowboys to win over Giants",
+                    "ts": 1537154531,
+                    "twitterid": 1041527709455867905,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/16/dak-prescott-dallas-defense-lead-cowboys-win-over-/"
+                }
+            ]
+        ]
+    }
+]

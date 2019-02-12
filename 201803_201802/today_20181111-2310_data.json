@@ -1,0 +1,1987 @@
+[
+    {
+        "list": [
+            41
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Donald Trump Pelosi",
+            "Matthew Whitaker",
+            "Matt Whitaker",
+            "Cruz",
+            "Speaker Top Democrats",
+            "Robert Mueller",
+            "Paul Manafort",
+            "Trump",
+            "Robert De Niro",
+            "Jerrold Nadler",
+            "Jeff Sessions",
+            "AG Whitaker",
+            "Mueller",
+            "Adele",
+            "House Democrats Scrutinize Matthew Whitaker",
+            "Warner",
+            "Mueller Probe",
+            "Russia",
+            "Mueller Can Trump",
+            "Mueller Schiff",
+            "House Dems",
+            "Brushes Aside Questions",
+            "FBI",
+            "Kellyanne Conway",
+            "Lindsey Graham",
+            "Sessions Robert De Niro"
+        ],
+        "peaks": [],
+        "theme": [
+            "Whitaker",
+            "Mueller",
+            "Trump",
+            "probe",
+            "say",
+            "Acting",
+            "Democrats"
+        ],
+        "timestamp": "2018-11-11 23:10:18.185559-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be8988f421aa976b96a7458",
+                    "date_month": "2018-11",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_45/2638836/181108-matthew-whitaker-mn-1110_05020e7d657ce1e09322545d8832092d.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Top Democrats say Matt Whitaker must offer 'immediate recusal' from Mueller probe",
+                    "ts": 1541969045,
+                    "twitterid": 1061721243920031747,
+                    "url": "https://www.nbcnews.com/politics/justice-department/top-democrats-say-matt-whitaker-must-offer-immediate-recusal-mueller-n934921?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be8c2e4421aa9797ed9a940",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-36311/social",
+                    "origin": "Capital Journal",
+                    "title": "House Democrats Scrutinize Matthew Whitaker, the Acting Attorney General",
+                    "ts": 1541977309,
+                    "twitterid": 1061755907271520256,
+                    "url": "https://www.wsj.com/articles/house-democrats-scrutinize-matthew-whitaker-the-acting-attorney-general-1541964336?mod=e2twp"
+                },
+                {
+                    "_id": "5be7d3b7421aa969729c6922",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-36104/social",
+                    "origin": "Capital Journal",
+                    "title": "Trump Brushes Aside Questions About Mueller Probe",
+                    "ts": 1541918190,
+                    "twitterid": 1061507946377560065,
+                    "url": "https://www.wsj.com/articles/trump-brushes-aside-questions-about-mueller-probe-1541786056?mod=e2twp"
+                },
+                {
+                    "_id": "5be84431421aa971345fc33d",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/14/80/c84eb8fb4973b010d2945b4f7c2d/181111-conway-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Conway: Whitaker\u2019s criticism of Mueller probe a thing of the past",
+                    "ts": 1541948402,
+                    "twitterid": 1061634664836853763,
+                    "url": "https://www.politico.com/story/2018/11/11/kellyanne-conway-whitaker-mueller-investigation-982950"
+                },
+                {
+                    "_id": "5be8b4d0421aa9789ab20485",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/2nqp5IibMGT0NNyadaOOnpilO-s=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JW3TSDHC5UI6RKZMWMO42U6KNM.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Matthew Whitaker, Trump's acting attorney general pick, was a self-inflicted wound",
+                    "ts": 1541975838,
+                    "twitterid": 1061749736087142401,
+                    "url": "https://www.washingtonpost.com/opinions/trumps-acting-attorney-general-pick-was-an-unnecessary-self-inflicted-wound--but-not-a-fatal-one/2018/11/11/eb32961a-e5ca-11e8-a939-9469f1166f9d_story.html?utm_term=.d60027c3efbc&tid=sm_tw"
+                },
+                {
+                    "_id": "5be8605d421aa9730304996a",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18304074040618_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Lindsey Graham says Matthew Whitaker doesn\u2019t need to recuse himself from Robert Mueller probe",
+                    "ts": 1541952060,
+                    "twitterid": 1061650004840996864,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/lindsey-graham-says-matthew-whitaker-doesnt-need-r/"
+                },
+                {
+                    "_id": "5be85245421aa97212d75a07",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/nadlerjerrold_071918am_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Top Judiciary Dem threatens to subpoena acting AG Whitaker",
+                    "ts": 1541950614,
+                    "twitterid": 1061643942586998784,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416115-nadler-house-judiciary-committee-will-subpoena-whitaker-if"
+                },
+                {
+                    "_id": "5be8defb421aa97b44e04c62",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/11/BostonGlobe.com/National/Images/bd13b3a2824e420481a6e0f4aba1b4c5-bd13b3a2824e420481a6e0f4aba1b4c5-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Top Democrats vow to block Whitaker from interfering in Russia inquiry",
+                    "ts": 1541985673,
+                    "twitterid": 1061790987314520065,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/11/11/top-democrats-vow-block-whitaker-from-interfering-russia-inquiry/GjCbdSFPU0S5CseJyFnMcM/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be8605d421aa97303049949",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/schiffadam_020517gn5_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Schiff: Acting AG 'will be called to answer' if he interferes with Mueller investigation",
+                    "ts": 1541954946,
+                    "twitterid": 1061662108834762753,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416120-schiff-acting-ag-will-be-called-to-answer-if-he-interferes-with"
+                },
+                {
+                    "_id": "5be8c2e4421aa9797ed9a92c",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/dgJKXskODYNzTrqOXkpMyh-Ew0k=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLV4HRHC2QI6RORQU7PNATMPVQ.jpg",
+                    "origin": "Post Politics",
+                    "title": "Democrats signal aggressive investigations of Trump while resisting impeachment calls",
+                    "ts": 1541979053,
+                    "twitterid": 1061763222464794631,
+                    "url": "https://www.washingtonpost.com/politics/democrats-signal-aggressive-investigations-of-trump-while-resisting-impeachment-calls/2018/11/11/63945180-e5d4-11e8-bbdb-72fdbf9d4fed_story.html?tid=sm_tw_pol&__twitter_impression=true&__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            31
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "China How",
+            "American",
+            "WWI",
+            "Concord Masons",
+            "Kirk Cousins",
+            "U.S.",
+            "Nations Veterans",
+            "Germany",
+            "Joe Flacco",
+            "Meghan",
+            "Trump",
+            "Woodrow Wilson",
+            "Washington",
+            "Great War Peter Jackson",
+            "Army",
+            "Brutal Battle",
+            "Great War",
+            "Bible",
+            "VA Sad",
+            "French",
+            "US",
+            "London",
+            "GI Bill",
+            "Unsung"
+        ],
+        "peaks": [],
+        "theme": [
+            "veteran",
+            "War",
+            "Day",
+            "World",
+            "WWI",
+            "Great",
+            "hero"
+        ],
+        "timestamp": "2018-11-11 23:10:19.164038-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be84431421aa971345fc342",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/2014/07/winter_WW1_14_42_53270860_v2/facebook.jpg?1522685725",
+                    "origin": "The Atlantic",
+                    "title": "How the Great War Shaped the World",
+                    "ts": 1541947788,
+                    "twitterid": 1061632089370619906,
+                    "url": "https://www.theatlantic.com/magazine/archive/2014/08/how-the-great-war-shaped-the-world/373468/?utm_source=atltw"
+                },
+                {
+                    "_id": "5be819ed421aa96e77abe52f",
+                    "date_month": "2018-11",
+                    "image": "https://si.wsj.net/public/resources/images/OG-BZ030_ww1_Mj_SOC_20181109100512.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "World War I Centenary: 100 Legacies of the Great War",
+                    "ts": 1541937603,
+                    "twitterid": 1061589369537085440,
+                    "url": "https://graphics.wsj.com/100-legacies-from-world-war-1/?mod=e2tw"
+                },
+                {
+                    "_id": "5be8ed21421aa97c1f2f0dcd",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/02/BostonGlobe.com/Sports/Images/ryanveteransday2met.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "A century later, World War I hero honored",
+                    "ts": 1541988258,
+                    "twitterid": 1061801831217676288,
+                    "url": "https://www.bostonglobe.com/metro/2018/11/11/century-later-world-war-hero-honored/w02YMjDmPQALFkWGUIyrBN/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be8c2e4421aa9797ed9a91d",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/wilsonwoodrow_11092018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Woodrow Wilson, the Bible, and the end of the Great War",
+                    "ts": 1541980142,
+                    "twitterid": 1061767789248200708,
+                    "url": "https://thehill.com/opinion/white-house/415973-woodrow-wilson-the-bible-and-the-end-of-the-great-war"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e3b",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/04/USAT/d1a76bf4-83d8-40e5-93ac-70b81919b410-05.JPG?crop=3963,2229,x0,y437&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "World War I was not the 'war to end all war,' but it was the beginning of the end",
+                    "ts": 1541939401,
+                    "twitterid": 1061596908211322881,
+                    "url": "https://www.usatoday.com/story/news/2018/11/11/world-war-100th-anniversary-armistice-trump-france/1766101002/"
+                },
+                {
+                    "_id": "5be819ed421aa96e77abe53e",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/tIULpLT8ZL0vFEj9qd8OesDvaf0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U5OBLJAEU47ATINX5JRE4FTW5A.jpg",
+                    "origin": "Post Politics",
+                    "title": "Why the First World War lasted so long",
+                    "ts": 1541934588,
+                    "twitterid": 1061576721386881031,
+                    "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2018/11/11/why-the-first-world-war-lasted-so-long/?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5be8c2e4421aa9797ed9a91e",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181109040427-wwi-colorized-2-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Peter Jackson's new documentary restores World War I footage like never before",
+                    "ts": 1541979905,
+                    "twitterid": 1061766796942958597,
+                    "url": "https://www.cnn.com/2018/11/11/us/peter-jackson-world-war-i-documentary/index.html?utm_term=image&utm_content=2018-11-11T23%3A45%3A04&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5be8fb08421aa97cf42d685c",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/10/PKNS/ebbbe5a1-c1f6-42e1-a2df-665d61ef3a6f-FB95IMG951541829760377.jpg?crop=481,271,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Army combat veteran opens up about shooting, struggle with depression",
+                    "ts": 1541993401,
+                    "twitterid": 1061823400568602624,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/11/11/army-veteran-opens-up-depression-shooting/1969337002/"
+                },
+                {
+                    "_id": "5be8605d421aa97303049943",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181107171032-02-ww2-us-german-vets-painting-tank-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "A WWII hero returns to Germany to meet his enemy",
+                    "ts": 1541955608,
+                    "twitterid": 1061664889062735872,
+                    "url": "https://www.cnn.com/2018/11/10/us/ww2-reunion-us-german-veterans/index.html?utm_source=twCNN&utm_content=2018-11-11T17%3A00%3A08&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5be8d110421aa97a6a22cb36",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/china_navy.jpg",
+                    "origin": "The Hill",
+                    "title": "Sad lessons of WWI a sober warning for US vs. China",
+                    "ts": 1541981587,
+                    "twitterid": 1061773850474672134,
+                    "url": "https://thehill.com/opinion/national-security/415970-sad-lessons-of-wwi-a-sober-warning-for-us-vs-china"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Fight Florida",
+            "Palm Beach",
+            "Andrew Gillum",
+            "Both Sides Dig",
+            "Florida",
+            "Senate",
+            "Broward County",
+            "Florida Recounts Begin",
+            "Gillum"
+        ],
+        "peaks": [],
+        "theme": [
+            "Florida",
+            "recount",
+            "races",
+            "Begin",
+            "county",
+            "Gillum",
+            "governor"
+        ],
+        "timestamp": "2018-11-11 23:10:19.491526-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be8a6b7421aa977aa79655b",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/05/USAT/22d12b97-689d-4ec0-ba2b-704beb344e41-Scott-Nelson_1.JPG?crop=2749,1539,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Recount off to a slow start in Florida's Senate, governor races",
+                    "ts": 1541973601,
+                    "twitterid": 1061740355434020864,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/11/11/florida-recount-starts-senate-governor-races/1967568002/"
+                },
+                {
+                    "_id": "5be83608421aa97046d4d36e",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18314753563612_s2048x1771.jpg?c2e056f61004b60adc66cd17afa9db61b085338b",
+                    "origin": "The Washington Times",
+                    "title": "Florida begins recounts for Senate, governor races",
+                    "ts": 1541941752,
+                    "twitterid": 1061606772782387200,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/florida-begins-recounts-senate-governor-races/"
+                },
+                {
+                    "_id": "5be7c598421aa968786f54e3",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/andrewgillum_08310218.jpg",
+                    "origin": "The Hill",
+                    "title": "Gillum retracts concession in Florida governor's race",
+                    "ts": 1541913964,
+                    "twitterid": 1061490220368097280,
+                    "url": "https://thehill.com/homenews/campaign/416072-gillum-retracts-concession-to-desantis"
+                },
+                {
+                    "_id": "5be7e1ad421aa96c4c9e570b",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/04/8f/cfff68c848b0b1da7acad222788c/181110-gillum-states-ap-489.jpg",
+                    "origin": "POLITICO",
+                    "title": "Gillum rescinds concession in Florida governor\u2019s race",
+                    "ts": 1541921409,
+                    "twitterid": 1061521445694644224,
+                    "url": "https://www.politico.com/states/florida/story/2018/11/10/gillum-rescinds-concession-in-florida-governors-race-691184"
+                },
+                {
+                    "_id": "5be86e64421aa973eea0ed3e",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181110144836-01-florida-protest-110-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Here's when key Florida counties will begin their recount efforts",
+                    "ts": 1541957407,
+                    "twitterid": 1061672431205658625,
+                    "url": "https://www.cnn.com/2018/11/10/politics/florida-counties-begin-recount/index.html?utm_content=2018-11-11T17%3A30%3A06&utm_medium=social&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e49",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181102165531-01-andrew-gillum-file-1102-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Andrew Gillum withdraws concession as Florida recount begins",
+                    "ts": 1541937782,
+                    "twitterid": 1061590118157426688,
+                    "url": "https://www.cnn.com/2018/11/10/politics/andrew-gillum-withdraw-concession-florida-governor/index.html?utm_source=twCNNp&utm_medium=social&utm_content=2018-11-11T12%3A03%3A01&utm_term=image"
+                },
+                {
+                    "_id": "5be7c598421aa968786f54ea",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/billnelson_rickscott2.jpg",
+                    "origin": "The Hill",
+                    "title": "Florida races head to recounts",
+                    "ts": 1541912767,
+                    "twitterid": 1061485197697445888,
+                    "url": "https://thehill.com/homenews/campaign/416057-florida-races-head-to-recounts"
+                },
+                {
+                    "_id": "5be85245421aa97212d75a04",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18315528724823_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Florida recounts delayed in Broward County",
+                    "ts": 1541950837,
+                    "twitterid": 1061644874649427968,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/florida-recounts-delayed-broward-county/"
+                },
+                {
+                    "_id": "5be8c2e4421aa9797ed9a930",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-36326/social",
+                    "origin": "Capital Journal",
+                    "title": "Florida Recounts Begin as Both Sides Dig In for Fight",
+                    "ts": 1541978720,
+                    "twitterid": 1061761827464462341,
+                    "url": "https://www.wsj.com/articles/florida-recounts-begin-as-both-sides-dig-in-for-fight-1541976189?mod=e2twp"
+                },
+                {
+                    "_id": "5be87c74421aa974e663259a",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181110141900-vote-counting-broward-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Florida county collects uncounted ballots left in a mail facility",
+                    "ts": 1541961004,
+                    "twitterid": 1061687521141313538,
+                    "url": "https://www.cnn.com/2018/11/11/politics/florida-miami-dade-election-uncounted-ballots/index.html?utm_source=twCNNp&utm_medium=social&utm_content=2018-11-11T18%3A30%3A03&utm_term=image"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            334
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Does California Have So",
+            "Nicholas Meriwether",
+            "Chris Martin",
+            "DC",
+            "Anxiety Google",
+            "Get",
+            "Hurricane Michael",
+            "Tom Brady",
+            "Rage",
+            "Santander",
+            "Dennis Hof",
+            "Jeff Sessions Patriots",
+            "Michael Gerhardt",
+            "Threats Of Violence",
+            "U.S.",
+            "Greyhounds May Need Homes",
+            "Shannen Doherty",
+            "House Titans",
+            "Loved Ones Amid California Fire",
+            "Bill Belichick",
+            "National Geographic",
+            "New Tax",
+            "Yoga",
+            "Kentucky",
+            "Spider",
+            "Gunman",
+            "Michelle Obama",
+            "Nations Avenatti",
+            "Fannie",
+            "UMass Boston",
+            "Wang",
+            "Florida Bans Racing Women",
+            "Agony",
+            "Diego Luna",
+            "Dante",
+            "White One Who",
+            "Trump Administration",
+            "Camp Fire",
+            "Alexander Malkevich",
+            "Dubai",
+            "Khashoggi",
+            "Massachusetts",
+            "Boston",
+            "Indiana",
+            "California Suitcases",
+            "Asylum Rights",
+            "Foy",
+            "Freedom Black",
+            "Columbia Gas",
+            "NFC North",
+            "LeBron James Patriots",
+            "Andrew Whitworth",
+            "Chip",
+            "Maine",
+            "UPS Averts Freight Strike",
+            "NEC",
+            "Havana",
+            "Closet",
+            "Freddie Alicia Silverstone",
+            "Chestnut Hill",
+            "California",
+            "Cassidy",
+            "CPR",
+            "Trump Delivers Remarks",
+            "Wildfires",
+            "Eastern Conference",
+            "Fantasy",
+            "Favourite",
+            "Buccaneers Would",
+            "Thousand Oaks",
+            "Marijuana",
+            "Washington Post Khalil Mack",
+            "Mike Vrabel",
+            "California Mass",
+            "Redskins",
+            "Physicians Reply",
+            "Neil",
+            "Stephon Gilmore",
+            "Paris Conjoined Bhutanese",
+            "American",
+            "Chatchaval Jiaravanon",
+            "Grinch",
+            "Robin Thicke",
+            "Camp Fire Ian David Long",
+            "Medal",
+            "Honduras For Maryland",
+            "Kratom",
+            "Giant",
+            "New Warhol",
+            "Congress",
+            "Tap",
+            "Mothers",
+            "Congolese",
+            "Teamsters Ratify New Contract Michelle Obama",
+            "Rihanna",
+            "Oak Park Avenue",
+            "Clemson Trump",
+            "Good",
+            "Michael Cohen",
+            "Ben Volin",
+            "Her Bank",
+            "Nancy Pelosi",
+            "Bruins",
+            "Year How",
+            "Jamal Khashoggi",
+            "Rent Control",
+            "Hatch Southern California",
+            "Gabrielle Union",
+            "North Korea",
+            "California Fires Devastate Communities Could",
+            "Rams",
+            "Holbook",
+            "Russia Demotes Dollar",
+            "Parton",
+            "France",
+            "Shaquem Griffin",
+            "Trump Amid",
+            "Five Million",
+            "Hong Kong",
+            "Caravan",
+            "Egyptian",
+            "Central Park",
+            "Japan",
+            "Meredith",
+            "Discovery",
+            "Tijuana Social",
+            "Alibaba Pulls",
+            "Walmart",
+            "Scott Tacinelli",
+            "Zach Brown",
+            "Hit Keystone",
+            "True Brexit",
+            "NBC News",
+            "Climate",
+            "Qatar",
+            "Death Toll",
+            "Venezuela China",
+            "FDA",
+            "Dynasty",
+            "Liam Neeson",
+            "Illegal Immigration",
+            "Bishops",
+            "Michael Avenatti",
+            "Ecuador",
+            "Nazi",
+            "Chris Davenport Avenatti",
+            "Fintech Firm",
+            "Paradise Is Gone",
+            "Elvis Costello",
+            "Wellesley",
+            "David Cutcliffe",
+            "Tucker Carlson",
+            "Halloween",
+            "Shopper Score",
+            "Duke",
+            "Colorado Rockies",
+            "Chicago Ben Stiller",
+            "Saffron",
+            "Dannemora",
+            "Memphis",
+            "Morgan Moses",
+            "New England",
+            "Michael Karem",
+            "Top",
+            "Southern Californian",
+            "Soldier Field Mortgage Industry Braces",
+            "NYC",
+            "Seattle",
+            "Boston College",
+            "Kenmore Square Migrant",
+            "Spain",
+            "Won",
+            "Dustin Hopkins",
+            "Family Gerard Butler",
+            "Dana Rohrabacher Loses",
+            "California Wildfires Climbs To At Least",
+            "North Carolina",
+            "Army",
+            "MillerCoors",
+            "Amway Coaches Poll",
+            "Elgin",
+            "Northern California",
+            "Adopted Black Baby",
+            "Worcester Firefighters",
+            "Highland Park",
+            "Robin Roberts",
+            "Joanna Gaines",
+            "Suresnes American Cemetery Shooting",
+            "California Nurses",
+            "Golden Knights Divided America",
+            "Pittsburgh",
+            "MIAA",
+            "Awkward Adolescence Florida",
+            "LPGA",
+            "Maple Leafs Medicare",
+            "Washington Post Man",
+            "Bob Dylan",
+            "IRA",
+            "Houstatonic Community College",
+            "Allen Robinson",
+            "Mexico Video",
+            "Havana Syndrome Artificial",
+            "Stoughton",
+            "Tattoo",
+            "California Fortune Magazine",
+            "Malibu",
+            "American Tank Gunner",
+            "California Hasn",
+            "Washington Post",
+            "Woolsey Fire",
+            "NRA",
+            "Billy Joel California",
+            "Jets How",
+            "Inferno",
+            "Malcolm Butler",
+            "Peace",
+            "UAB",
+            "Record Singles",
+            "Will Fox News",
+            "Grotesque Brilliance",
+            "Clippers",
+            "Rocket Lab Successfully Launches",
+            "Mexican",
+            "Stephen Hawking",
+            "Tuukka Rask",
+            "Camp",
+            "Industry No",
+            "Babe Ruth",
+            "Forsbacka Karlsson",
+            "Deadly",
+            "USA Really",
+            "Hint",
+            "SoCal",
+            "How Russia",
+            "Titans Activists",
+            "Bucks",
+            "Dance Heginbotham",
+            "Taken Seriously",
+            "D.C.",
+            "Utah",
+            "Discover Dozens Of Cat Mummies",
+            "Fox News",
+            "Turkey",
+            "GOP Gave Up",
+            "New York Jets",
+            "Joe Perry",
+            "Flames",
+            "Rachel Weisz",
+            "Todd Bowles",
+            "Patriots",
+            "Mexico City",
+            "Vince Staples",
+            "Scalia",
+            "Greece",
+            "Quinton Dunbar",
+            "Trump",
+            "CNN",
+            "Eyewear House",
+            "Erdogan",
+            "Ohio State",
+            "Northern California Denver",
+            "deGrasse Tyson",
+            "Burmese",
+            "Middle West",
+            "Shawnee State University",
+            "Roger Daltrey",
+            "Ancient Tomb",
+            "West Virginia",
+            "NFL",
+            "Pastrnak",
+            "Gwyneth Paltrow",
+            "Catholic",
+            "Faneuil Hall",
+            "Gaza",
+            "America",
+            "Eroding Republican Foothold",
+            "NRA Mocks Doctors",
+            "Fourteenth Amendment",
+            "HBO",
+            "Sally4Ever White",
+            "Angie Rito Drug",
+            "Yemen How",
+            "Angela Merkel",
+            "Englewood",
+            "Future Address",
+            "Tennessee Bears",
+            "Titans Charles Meyrick",
+            "Rates Rise Iran And Trading Partners Will Find Ways To Skirt Sanctions",
+            "Putin",
+            "Kristallnacht",
+            "Minimum",
+            "Aerosmith",
+            "Lions Trump",
+            "League"
+        ],
+        "peaks": [],
+        "theme": [
+            "California",
+            "Trump",
+            "Fire",
+            "wildfires",
+            "New",
+            "Like",
+            "say"
+        ],
+        "timestamp": "2018-11-11 23:10:24.262768-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be8defb421aa97b44e04c61",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/brownjerry_10032018.jpg",
+                    "origin": "The Hill",
+                    "title": "California governor on wildfires: 'This is the new abnormal'",
+                    "ts": 1541985907,
+                    "twitterid": 1061791968257343488,
+                    "url": "https://thehill.com/homenews/state-watch/416167-california-governor-on-wildfires-this-is-the-new-abnormal"
+                },
+                {
+                    "_id": "5be8605d421aa97303049968",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181110205152-51-california-wildfires-1110-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump's tweet on California wildfires angers firefighters, celebrities",
+                    "ts": 1541952304,
+                    "twitterid": 1061651030725791746,
+                    "url": "https://www.cnn.com/2018/11/11/politics/california-wildfires-trump-tweets/index.html?utm_source=twCNNp&utm_medium=social&utm_content=2018-11-11T16%3A05%3A03&utm_term=image"
+                },
+                {
+                    "_id": "5be8fb08421aa97cf42d6860",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/10/USAT/f59400e5-f995-48f2-b5fb-ffad7870def7-fire22.JPG?crop=1749,979,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "'Like Dante's Inferno': Camp Fire equals deadliest wildfire in California history",
+                    "ts": 1541993032,
+                    "twitterid": 1061821853541511168,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/11/11/california-wildfires-roar-paradise-woosley-camp-fire/1967070002/"
+                },
+                {
+                    "_id": "5be8988f421aa976b96a744d",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201811/n_joy_calfires_181111_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "California Wildfires",
+                    "ts": 1541970007,
+                    "twitterid": 1061725282242048001,
+                    "url": "https://www.msnbc.com/am-joy/watch/california-wildfires-1367666243642?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5be8a6b7421aa977aa79655a",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/1b/79/5030b31748c7b374e966df97d8d7/181111-camp-fire-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Fire-besieged California hits back at Trump over blame tweet",
+                    "ts": 1541973605,
+                    "twitterid": 1061740369937948672,
+                    "url": "https://www.politico.com/story/2018/11/11/california-disaster-declaration-fires-trump-983168"
+                },
+                {
+                    "_id": "5be7c598421aa968786f54e6",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/obamamichelle_trump.jpg",
+                    "origin": "The Hill",
+                    "title": "Michelle Obama blasts Trump in new book",
+                    "ts": 1541913660,
+                    "twitterid": 1061488943495966721,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/415855-michelle-obama-blasts-trump-in-new-book"
+                },
+                {
+                    "_id": "5be7fdd8421aa96d106ed1b5",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/09/climate/10CLI-WILDFIRES1/10CLI-WILDFIRES1-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Why Does California Have So Many Wildfires?",
+                    "ts": 1541929384,
+                    "twitterid": 1061554894652534784,
+                    "url": "https://www.nytimes.com/2018/11/09/climate/why-california-fires.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5be87c74421aa974e6632587",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_45/2641941/aptopix_california_wildfires_86986-jpg-aceb1_7882dceb2a41ed4823184f4136793da4.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Death toll in California wildfires climbs to 25",
+                    "ts": 1541962266,
+                    "twitterid": 1061692811228123138,
+                    "url": "https://www.nbcnews.com/news/us-news/deaths-suspected-california-wildfires-winds-set-pick-back-n934846?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be7efd3421aa96ca4796b8e",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/11/10/761e914a-3b50-40f1-ab7a-c6494db95334/thumbnail/1200x630/8664ac23d01cb32ab89896535dda79ee/hargan.jpg",
+                    "origin": "CBS News",
+                    "title": "Woman staged 2017 deaths of mom and sister to look like murder-suicide, police say",
+                    "ts": 1541923383,
+                    "twitterid": 1061529724445515776,
+                    "url": "https://www.cbsnews.com/news/pamela-hargan-helen-hargan-deaths-staged-murder-suicide-by-megan-hargan-mclean-virginia-police/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5be7e2351adf640001617c08&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5be8defb421aa97b44e04c4c",
+                    "date_month": "2018-11",
+                    "image": "https://s.abcnews.com/images/US/wild-fire-11-rt-er-181111_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "NFL games could be affected by raging wildfires in California",
+                    "ts": 1541987335,
+                    "twitterid": 1061797961074704384,
+                    "url": "https://abcnews.go.com/US/nfl-games-affected-raging-wildfires-california/story?id=59121980&cid=social_twitter_abcn"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            6
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Brett Kavanaugh",
+            "Kavanaugh Nadler",
+            "Top"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "Brett",
+            "Democrats",
+            "impeachable",
+            "Nadler",
+            "avoid",
+            "Dem"
+        ],
+        "timestamp": "2018-11-11 23:10:24.472763-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be83608421aa97046d4d374",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181109162152-20181110-kavanaugh-out-of-spotlight-collage-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Brett Kavanaugh tries to shun the spotlight he can't avoid",
+                    "ts": 1541941327,
+                    "twitterid": 1061604986365399040,
+                    "url": "https://www.cnn.com/2018/11/10/politics/brett-kavanaugh-justice-supreme-court-first-month/index.html?utm_source=twCNNp&utm_content=2018-11-11T13%3A02%3A06&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5be8605d421aa9730304995e",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/nadlerjerrold_watersmaxine_010918gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Top Judiciary Dem: No plans to investigate or impeach Kavanaugh",
+                    "ts": 1541953264,
+                    "twitterid": 1061655056381067264,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416119-top-judiciary-dem-no-plans-to-investigate-or-impeach-kavanaugh"
+                },
+                {
+                    "_id": "5be8d110421aa97a6a22cb20",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180724192734-jerry-nadler-reax-wh-ends-readouts-ebof-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Rep. Jerry Nadler says hush payments 'might very well be an impeachable offense'",
+                    "ts": 1541982610,
+                    "twitterid": 1061778143537741833,
+                    "url": "https://www.cnn.com/2018/11/11/politics/jerry-nadler-hush-payments-impeachable-offense-cnntv/index.html?utm_source=twCNNp&utm_content=2018-11-12T00%3A30%3A10&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5be87c74421aa974e663259f",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/07/117_2018_b1-fields8201_s1970x2048.jpg?bd39e766a037f3d2dd62ec79d17272ad0f06ad98",
+                    "origin": "The Washington Times",
+                    "title": "Several Democratic senators paid the price for mistreating Brett Kavanaugh",
+                    "ts": 1541960105,
+                    "twitterid": 1061683746720661504,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/7/several-democratic-senators-paid-the-price-for-mis/"
+                },
+                {
+                    "_id": "5be8a6b7421aa977aa796576",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/07/election_2018_banks_36234_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "'Will the moment seize Democrats?'",
+                    "ts": 1541970903,
+                    "twitterid": 1061729039403102208,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/7/will-the-moment-seize-democrats/"
+                },
+                {
+                    "_id": "5be87c74421aa974e6632582",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/39/c9/8168976248f9973f746dda601c6f/181111-nadler-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Nadler: Whitaker will be \u2018our very first witness\u2019",
+                    "ts": 1541962804,
+                    "twitterid": 1061695070137659392,
+                    "url": "https://www.politico.com/story/2018/11/11/house-judiciary-whitaker-mueller-congress-982956"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Jim Acosta Former White House",
+            "Sam Donaldson",
+            "White House",
+            "Jim Acosta",
+            "Trump",
+            "India",
+            "CNN"
+        ],
+        "peaks": [],
+        "theme": [
+            "Acosta",
+            "House",
+            "White",
+            "Conway",
+            "Jim",
+            "Trump",
+            "alter"
+        ],
+        "timestamp": "2018-11-11 23:10:24.637191-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be8988f421aa976b96a744c",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/88/b4/b0de10914b20a044dd08afd10377/181111-conway-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Conway: White House didn\u2019t alter video of Jim Acosta",
+                    "ts": 1541970010,
+                    "twitterid": 1061725292434219008,
+                    "url": "https://www.politico.com/story/2018/11/11/acosta-video-kellyanne-conway-982951"
+                },
+                {
+                    "_id": "5be86e64421aa973eea0ed32",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/9Cj9sQZRk7VgUyZAn2KoAwfvKVw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J3KMJOJLJ5DYBIXQDRF44VYLO4.JPG",
+                    "origin": "The Washington Post",
+                    "title": "SNL offers its take on viral exchange between a White House intern and Jim Acosta",
+                    "ts": 1541958192,
+                    "twitterid": 1061675723671437312,
+                    "url": "https://www.washingtonpost.com/arts-entertainment/2018/11/11/snl-offers-its-take-viral-exchange-between-white-house-intern-jim-acosta/?utm_term=.eb3027ff2121&tid=sm_tw"
+                },
+                {
+                    "_id": "5be88a91421aa975ca1cd517",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_878519732013_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Sam Donaldson says CNN suing White House over Jim Acosta suspension",
+                    "ts": 1541964397,
+                    "twitterid": 1061701751185817601,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/sam-donaldson-says-cnn-suing-white-house-over-jim-/"
+                },
+                {
+                    "_id": "5be86e64421aa973eea0ed34",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/acostajim_040318gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Former White House correspondent says CNN is suing over Acosta press credentials",
+                    "ts": 1541958067,
+                    "twitterid": 1061675200092274688,
+                    "url": "https://thehill.com/homenews/media/416133-former-white-house-correspondent-says-cnn-is-suing-over-acosta-press"
+                },
+                {
+                    "_id": "5be85245421aa97212d759fe",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/screen_shot_2018-11-11_at_9.36.04_am.png",
+                    "origin": "The Hill",
+                    "title": "Conway on working for Trump administration her husband critiques: 'It doesn't affect me'",
+                    "ts": 1541951823,
+                    "twitterid": 1061649010023383041,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416111-conway-on-working-for-an-administration-her-husband-critiques-im"
+                },
+                {
+                    "_id": "5be7b797421aa967d2a89114",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/hNWrV5WaR5GtJE2r-XAm_etOSyo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2ZLVWEDHM5RLIQQNENTR4UPP4.jpg",
+                    "origin": "The Washington Post",
+                    "title": "What India\u2019s media can learn from the Trump-Acosta clash",
+                    "ts": 1541909703,
+                    "twitterid": 1061472349042737153,
+                    "url": "https://www.washingtonpost.com/news/global-opinions/wp/2018/11/10/what-indias-media-can-learn-from-the-trump-acosta-clash/?utm_term=.399f2a44d0b0&tid=sm_tw"
+                },
+                {
+                    "_id": "5be84431421aa971345fc340",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/conwaykellyanne_022318gn6_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Conway on video of Acosta-aide interaction: 'That\u2019s not altered, that\u2019s sped up'",
+                    "ts": 1541947986,
+                    "twitterid": 1061632917049356289,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416108-conway-on-video-of-acosta-thats-not-altered-thats-sped-up"
+                },
+                {
+                    "_id": "5be8c2e4421aa9797ed9a921",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/12/business/12rutenberg/12rutenberg-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Should the Press Boycott Trump? Political Strategists Weigh In",
+                    "ts": 1541979843,
+                    "twitterid": 1061766534094381061,
+                    "url": "https://www.nytimes.com/2018/11/11/business/media/jim-acosta-trump-media.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Stacey Abrams",
+            "Georgia",
+            "Brian Kemp",
+            "House Dems",
+            "Abrams"
+        ],
+        "peaks": [],
+        "theme": [
+            "Abrams",
+            "Georgia",
+            "race",
+            "Stacey",
+            "concede",
+            "Democrat",
+            "files"
+        ],
+        "timestamp": "2018-11-11 23:10:24.819020-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be88a91421aa975ca1cd4ff",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/07/USAT/a0bec8a1-4d85-4c28-bf5f-3e95b990a300-VPC_STACEY_ABRAMS_SPEAKS_DESK_THUMB.jpg?crop=1919,1079,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "'A disgrace to democracy': Democrat Stacey Abrams being pressured to concede Georgia race",
+                    "ts": 1541966401,
+                    "twitterid": 1061710154213810177,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/11/10/georgia-governor-race-stacey-abrams-pushed-concede-brian-kemp/1959470002/"
+                },
+                {
+                    "_id": "5be8d110421aa97a6a22cb25",
+                    "date_month": "2018-11",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:98319ec819a54135add5b75e8b8ea634/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Democrat Abrams files new suit in Georgia governor\u2019s race",
+                    "ts": 1541982435,
+                    "twitterid": 1061777407068303361,
+                    "url": "https://apnews.com/1f2d3c488453441f82f47777df63df03?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5be8fb08421aa97cf42d6849",
+                    "date_month": "2018-11",
+                    "image": "https://s.abcnews.com/images/Politics/WireAP_c0ad4a19a9e7499ca0f14c45a27d8d5d_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Democrat Abrams files new suit in Georgia governor's race",
+                    "ts": 1541994818,
+                    "twitterid": 1061829346862624768,
+                    "url": "https://abcnews.go.com/Politics/wireStory/democrat-abrams-files-suit-georgia-governors-race-59127768?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5be8ed21421aa97c1f2f0db7",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/kJIFLV5Yzlh06er-Lslaz_k3npQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N7KBVJHCLUI6RORQU7PNATMPVQ.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Stacey Abrams, still hoping to force a runoff in Georgia governor\u2019s race, files a new lawsuit",
+                    "ts": 1541989767,
+                    "twitterid": 1061808160359546881,
+                    "url": "https://www.washingtonpost.com/politics/2018/11/12/stacey-abrams-still-hoping-force-runoff-georgia-governors-race-files-new-lawsuit/?tid=sm_tw"
+                },
+                {
+                    "_id": "5be7e1ad421aa96c4c9e5713",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/10/BostonGlobe.com/National/Images/021468e6ae9242f4878796369505a617-4613b75e81f645fc87e320de96d5106c-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Kemp pushes Abrams to concede in Georgia gubernatorial race",
+                    "ts": 1541919723,
+                    "twitterid": 1061514375863918597,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/11/10/kemp-pushes-abrams-concede-georgia-gubernatorial-race/jXO8StSAmgx0u9NKfHqYXJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e34",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/07/election_2018_governor_abrams_georgia_74425_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Brian Kemp pushes Stacey Abrams to concede",
+                    "ts": 1541939950,
+                    "twitterid": 1061599212759146496,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/brian-kemp-pushes-stacey-abrams-concede/"
+                },
+                {
+                    "_id": "5be8c2e4421aa9797ed9a92f",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/Election_2018_Democrats_90781.jpg-11c8d_s2048x1608.jpg?3729151dd8de848e6428f5c4c2df542f78dd35ef",
+                    "origin": "The Washington Times",
+                    "title": "Stacey Abrams seeks delay in Georgia vote certifications",
+                    "ts": 1541978808,
+                    "twitterid": 1061762196760346624,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/stacey-abrams-seeks-delay-georgia-vote-certificati/"
+                },
+                {
+                    "_id": "5be7c598421aa968786f54dc",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/kemp_110418getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Kemp campaign calls Abrams' refusal to concede 'a disgrace to democracy'",
+                    "ts": 1541915164,
+                    "twitterid": 1061495251678957568,
+                    "url": "https://thehill.com/homenews/campaign/416079-kemp-campaign-calls-abrams-refusal-to-concede-a-disgrace-to-democracy"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e35",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_45/2641541/181110-stacey-abrams-al-1101_9f60f4c314af92994a527c715d5f9fd9.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Stacey Abrams' campaign disputes number of uncounted provisional ballots",
+                    "ts": 1541939900,
+                    "twitterid": 1061599001986899968,
+                    "url": "https://www.nbcnews.com/politics/elections/stacey-abrams-campaign-disputes-number-uncounted-provisional-ballots-n934791?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "SNL",
+            "Pete Davidson Pete Davidson",
+            "Dan Crenshaw Mocks Pete Davidson And Robert De Niro Returns As Mueller",
+            "Texas Republican",
+            "GOP",
+            "Pete Davidson",
+            "Dan Crenshaw"
+        ],
+        "peaks": [],
+        "theme": [
+            "Davidson",
+            "Pete",
+            "SNL",
+            "apologizes",
+            "Crenshaw",
+            "Dan",
+            "mocked"
+        ],
+        "timestamp": "2018-11-11 23:10:25.016198-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be86e64421aa973eea0ed46",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18315564956090_s2048x1367.jpg?b2baa6003d604fe8b74385f080b5a1b62233ac5d",
+                    "origin": "The Washington Times",
+                    "title": "Pete Davidson apologizes to Dan Crenshaw on \u2018SNL\u2019",
+                    "ts": 1541956580,
+                    "twitterid": 1061668963715899392,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/pete-davidson-apologizes-dan-crenshaw-snl/"
+                },
+                {
+                    "_id": "5be86e64421aa973eea0ed44",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/lqf83gpNYawfzItB3PlhcNdIbf4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XUA36CXFZII6RBCJD7ZGGYE2GE.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Pete Davidson apologizes to Dan Crenshaw on SNL: \u2018The man is a war hero'",
+                    "ts": 1541956657,
+                    "twitterid": 1061669286194921473,
+                    "url": "https://www.washingtonpost.com/arts-entertainment/2018/11/11/pete-davidson-apologizes-dan-crenshaw-snl-man-is-war-hero/?utm_term=.aa3584df7dd3&tid=sm_tw"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e2c",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/snl_111118snl.jpg",
+                    "origin": "The Hill",
+                    "title": "SNL\u2019s Pete Davidson apologizes on set to Republican veteran he mocked: \u2018The man is a war hero\u2019",
+                    "ts": 1541940782,
+                    "twitterid": 1061602704341065729,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/416096-snls-pete-davidson-apologizes-on-set-to-gop-veteran-candidate?__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5be80be5421aa96d7ed7b6a6",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/11/muellersessions_wide-5e5902b7486ad0d8044fdf572239517eac61e4cc.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Dan Crenshaw Mocks Pete Davidson And Robert De Niro Returns As Mueller On 'SNL'",
+                    "ts": 1541933443,
+                    "twitterid": 1061571921987330048,
+                    "url": "https://www.npr.org/2018/11/11/666658996/dan-crenshaw-mocks-pete-davidson-and-robert-de-niro-returns-as-mueller-on-snl?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5be8605d421aa97303049960",
+                    "date_month": "2018-11",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:4f55f02c1b504cbba1b1a4bc0ba975f9/3000.jpeg",
+                    "origin": "AP Eastern US",
+                    "title": "On SNL, Pete Davidson says sorry to wounded vet he mocked",
+                    "ts": 1541953042,
+                    "twitterid": 1061654123802750976,
+                    "url": "https://www.apnews.com/34213f9a2fd34ea7a7f1af313d9fccf0?utm_medium=APEastRegion&utm_source=Twitter&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e43",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/VaJtmuDCFqEHaJUM5wDsku6PI68=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQQBXVHFUYI6RO63OL637HKP5U.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Dan Crenshaw started the week as an SNL joke and ended it as a GOP star. The real story came before that.",
+                    "ts": 1541938584,
+                    "twitterid": 1061593481666273280,
+                    "url": "https://www.washingtonpost.com/lifestyle/style/dan-crenshaw-started-the-week-as-an-snl-joke-and-ended-it-as-a-gop-star-the-real-story-came-before-that/2018/11/11/d68d5c5c-e46e-11e8-ab2c-b31dcd53ca6b_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5be86e64421aa973eea0ed28",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181111005052-dan-crenshaw-pete-davidson-snl-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "'SNL' brings on congressman-elect to get apology from Pete Davidson",
+                    "ts": 1541959209,
+                    "twitterid": 1061679992617230337,
+                    "url": "https://www.cnn.com/2018/11/11/media/saturday-night-live-pete-davidson-dan-crenshaw/index.html?utm_term=image&utm_source=twCNN&utm_content=2018-11-11T18%3A00%3A09&utm_medium=social"
+                },
+                {
+                    "_id": "5be819ed421aa96e77abe531",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/11/BostonGlobe.com/Metro/Images/eeaa7a54e1554798a6560d58f8606e66-eeaa7a54e1554798a6560d58f8606e66-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Texas Republican appears on \u2018Saturday Night Live\u2019 to get back at Pete Davidson",
+                    "ts": 1541937005,
+                    "twitterid": 1061586859116105729,
+                    "url": "https://www.bostonglobe.com/arts/television/2018/11/11/texas-republican-appears-saturday-night-live-get-back-pete-davidson/c2mZ0Ez5t72NW8j6SU81ML/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            21
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "US Senate",
+            "Parkland High School",
+            "Florida II",
+            "Bill Nelson",
+            "Scott",
+            "Nelson",
+            "Pelosi",
+            "House",
+            "Rick Scott",
+            "Trump",
+            "Senate",
+            "Florida",
+            "Rubio",
+            "Nikolas Cruz",
+            "Broward County",
+            "Gillum"
+        ],
+        "peaks": [],
+        "theme": [
+            "Florida",
+            "Scott",
+            "recounts",
+            "Senate",
+            "fraud",
+            "race",
+            "elections"
+        ],
+        "timestamp": "2018-11-11 23:10:25.492319-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be85245421aa97212d759fd",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/d6/84/374a5ad44dabb75edf6a78c22d25/181111-scott-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Without offering proof, Scott claims Nelson embraces \u2018fraud to win\u2019 Florida Senate race",
+                    "ts": 1541952012,
+                    "twitterid": 1061649804865011713,
+                    "url": "https://www.politico.com/story/2018/11/11/florida-senate-scott-nelson-fraud-982952"
+                },
+                {
+                    "_id": "5be8ed21421aa97c1f2f0db1",
+                    "date_month": "2018-11",
+                    "image": "https://amp.businessinsider.com/images/5be8ad92f556fc30d71a51b4-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Three recounts, baseless voter fraud claims and mixed messages from candidates: Here's what's going on with the Florida elections",
+                    "ts": 1541989909,
+                    "twitterid": 1061808756982472706,
+                    "url": "https://www.businessinsider.com/florida-election-recounts-are-fraught-with-controversy-2018-11"
+                },
+                {
+                    "_id": "5be8b4d0421aa9789ab2048f",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/1gbPxag4xdO3ru0lpd558iGEf0o=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWNPA6XF7EI6RO63OL637HKP5U.jpg",
+                    "origin": "Post Politics",
+                    "title": "Scott intensifies attacks against Nelson in Florida\u2019s Senate race as recount begins",
+                    "ts": 1541974366,
+                    "twitterid": 1061743565322272768,
+                    "url": "https://www.washingtonpost.com/powerpost/scott-intensifies-attacks-against-nelson-in-floridas-senate-race-as-recount-begins/2018/11/11/7179949e-e5bc-11e8-b8dc-66cca409c180_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5be7fdd8421aa96d106ed1b3",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_45/2641641/181110-florida-ballots-al-1312_ebf9a63a0beafb004e7c50580c300f02.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Gillum retracts concession as Florida gov and Senate races head to recounts",
+                    "ts": 1541929572,
+                    "twitterid": 1061555682544099328,
+                    "url": "https://www.nbcnews.com/politics/elections/florida-key-races-undergo-automatically-triggered-machine-recount-n934821?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be8d110421aa97a6a22cb38",
+                    "date_month": "2018-11",
+                    "image": "https://amp.businessinsider.com/images/5be8c3bef556fc31840b4c86-1136-568.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Gov. Rick Scott files more lawsuits against Florida election officials as a recount on his US Senate race is being closely watched",
+                    "ts": 1541981356,
+                    "twitterid": 1061772881875623936,
+                    "url": "https://www.businessinsider.com/r-florida-republican-scott-asks-that-ballots-be-guarded-in-senate-race-recount-2018-11"
+                },
+                {
+                    "_id": "5be86e64421aa973eea0ed36",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/scottrick_nelsonbillflorida_110918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Senate campaign chief: Scott 'right to be upset' with vote in Florida",
+                    "ts": 1541957822,
+                    "twitterid": 1061674171116208129,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416123-gop-senator-says-scott-right-to-be-upset-with-voting-process-in"
+                },
+                {
+                    "_id": "5be7b797421aa967d2a890ff",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/d9/15/e9f36243410cb0a6445f92ee600d/181110-protests-states-ap-489.jpg",
+                    "origin": "POLITICO",
+                    "title": "Rick Scott's monitors agree with state cops: No Florida voter fraud",
+                    "ts": 1541912408,
+                    "twitterid": 1061483694681219072,
+                    "url": "https://www.politico.com/states/florida/story/2018/11/10/scotts-own-monitors-agree-with-law-enforcement-no-signs-of-florida-voter-fraud-691112"
+                },
+                {
+                    "_id": "5be8c2e4421aa9797ed9a92b",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/dQGoTzG7ckK6OS6xTUbYNyV4sy0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMN3OL2RVI5KXCQAE7R46H646A.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Rick Scott\u2019s slimy claim of fraud",
+                    "ts": 1541979084,
+                    "twitterid": 1061763352265928705,
+                    "url": "https://www.washingtonpost.com/blogs/post-partisan/wp/2018/11/11/rick-scotts-slimy-claim-of-fraud/?utm_term=.f47b00b55dbb&tid=sm_tw"
+                },
+                {
+                    "_id": "5be87c74421aa974e6632584",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/pelosinancy_110718gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Pelosi dismisses Trump's charges of fraud in Florida recount",
+                    "ts": 1541962626,
+                    "twitterid": 1061694324679827461,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416126-pelosi-dismisses-trumps-charges-of-fraud-in-florida-recount"
+                },
+                {
+                    "_id": "5be8605d421aa97303049950",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/scottrick_nelsonbillflorida_110918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Scott: Nelson 'clearly trying to commit fraud' to win election",
+                    "ts": 1541954467,
+                    "twitterid": 1061660100362940416,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416118-gov-scott-accuses-bill-nelson-of-committing-election-fraud"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Cindy",
+            "Mississippi"
+        ],
+        "peaks": [],
+        "theme": [
+            "hanging",
+            "public",
+            "Mississippi",
+            "senator",
+            "jokes",
+            "black",
+            "opponent"
+        ],
+        "timestamp": "2018-11-11 23:10:25.624340-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be8ed21421aa97c1f2f0dca",
+                    "date_month": "2018-11",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_45/2642561/181111-cindy-hyde-smith-se-814p_939442f9048d6a31016b5de073c25b0f.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Mississippi senator, whose runoff opponent is black, jokes about 'public hanging'",
+                    "ts": 1541988426,
+                    "twitterid": 1061802537513312260,
+                    "url": "https://www.nbcnews.com/news/us-news/mississippi-senator-whose-runoff-opponent-black-jokes-about-public-hanging-n935006?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5be8ed21421aa97c1f2f0d9f",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/-mm-/ef660910de25ce93efaa454b779d0fdb2bdf0544/c=0-0-4830-2729/local/-/media/2018/03/21/USATODAY/USATODAY/636572291314160718-AP-SENATE-MISSISSIPPI-98571542.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Mississippi Sen. Hyde-Smith, facing black opponent, jokes about attending 'public hanging'",
+                    "ts": 1541991601,
+                    "twitterid": 1061815851832225792,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/11/11/hyde-smith-jokes-public-hanging/1970396002/"
+                },
+                {
+                    "_id": "5be8b4d0421aa9789ab20479",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/GxBUFH3ZR59XdkC9lG-76Ax8K0U=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J352TNHCR4I6RORQU7PNATMPVQ.jpg",
+                    "origin": "Post Politics",
+                    "title": "A senator from Mississippi joked about \u2018public hanging.\u2019 Her black opponent called it \u2018reprehensible.\u2019",
+                    "ts": 1541976795,
+                    "twitterid": 1061753750254243840,
+                    "url": "https://www.washingtonpost.com/politics/2018/11/11/senator-mississippi-joked-about-public-hanging-her-black-opponent-called-it-reprehensible/"
+                },
+                {
+                    "_id": "5be8d110421aa97a6a22cb31",
+                    "date_month": "2018-11",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:a11af16c61564d9a8427681a345a565e/3000.jpeg",
+                    "origin": "AP South U.S. Region",
+                    "title": "Mississippi senator praises man with \u2018public hanging\u2019 remark",
+                    "ts": 1541981861,
+                    "twitterid": 1061775001366487041,
+                    "url": "https://www.apnews.com/ee79cac2b75f4af9afe4b6ad44d1fa8d"
+                },
+                {
+                    "_id": "5be8d110421aa97a6a22cb3b",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/hydesmithcindy_espymike1106.jpg",
+                    "origin": "The Hill",
+                    "title": "Mississippi GOP senator sparks criticism with 'public hanging' comment",
+                    "ts": 1541981104,
+                    "twitterid": 1061771824361549826,
+                    "url": "https://thehill.com/homenews/campaign/416163-mississippi-gop-senator-sparks-criticism-with-public-hanging-comment"
+                },
+                {
+                    "_id": "5be8defb421aa97b44e04c6b",
+                    "date_month": "2018-11",
+                    "image": "https://www.latimes.com/resizer/k3jwCLbLL1J_0O_HKxkx_XEd73k=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTJ5TM34KVAQNG2H2J6WFX2H4A.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "In a state with a history of racially motivated lynchings, Mississippi senator joked about 'public hanging'",
+                    "ts": 1541984943,
+                    "twitterid": 1061787927485661184,
+                    "url": "http://www.latimes.com/nation/la-na-mississippi-senator-hanging-remark-20181111-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5be8c2e4421aa9797ed9a91c",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/07/election_2018_senate_hyde-smith_miaaiaaippi_19433_s2048x1360.jpg?7ddbe6c23a2f096009327b343b29dfe519ca3612",
+                    "origin": "The Washington Times",
+                    "title": "Cindy Hyde-Smith blasted for \u2018public hanging\u2019 remark",
+                    "ts": 1541980269,
+                    "twitterid": 1061768321236955136,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/cindy-hyde-smith-blasted-public-hanging-remark/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            64
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "House Pelosi",
+            "New Class",
+            "Midwest",
+            "Space Force",
+            "Favorite",
+            "Affordable Care Act",
+            "Beltway",
+            "Dana Rohrabacher",
+            "Roles",
+            "Beto",
+            "Kamala",
+            "Halloween",
+            "Civil",
+            "GOP Dem",
+            "Congress Meet",
+            "Donald Trump",
+            "White House",
+            "Fix Schools",
+            "South",
+            "Indict Trump",
+            "Voter",
+            "Orwell Thought",
+            "Business Agenda Schumer",
+            "Mueller Doesn",
+            "Woman",
+            "Nancy Pelosi",
+            "Trump",
+            "Senate",
+            "New Agenda Setters",
+            "Dems Divided Congress",
+            "Outsider Democrats Who",
+            "Plain Political Language Could Save Us",
+            "New Jeff Flake",
+            "Midterms",
+            "House Democrats",
+            "House How Democrats",
+            "Congress Momentum",
+            "Americans Democrats",
+            "Divergent Worlds Top House",
+            "Stormy Daniels",
+            "Broke Congress",
+            "Real Metaphor",
+            "California House",
+            "Democrats",
+            "Black",
+            "Potholes Democratic",
+            "Blue Wave",
+            "House Democrat",
+            "NY",
+            "Karen",
+            "Speaker",
+            "Wall Street",
+            "Mitt Romney",
+            "Joe",
+            "Cory",
+            "Impeach Him",
+            "Democratic House Threatens Trump",
+            "Midterm Election",
+            "Came Trump",
+            "Midterms Swept",
+            "Republican",
+            "Jim Crow",
+            "Harley Rouda"
+        ],
+        "peaks": [],
+        "theme": [
+            "Democratic",
+            "Trump",
+            "House",
+            "midterms",
+            "Election",
+            "Dems",
+            "Pelosi"
+        ],
+        "timestamp": "2018-11-11 23:10:26.867917-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be7b797421aa967d2a8910b",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-35352/social",
+                    "origin": "Capital Journal",
+                    "title": "Democratic House Threatens Trump\u2019s Business Agenda",
+                    "ts": 1541910750,
+                    "twitterid": 1061476738734137345,
+                    "url": "https://www.wsj.com/articles/democratic-house-threatens-trumps-business-agenda-1541599464?mod=e2twp"
+                },
+                {
+                    "_id": "5be87c74421aa974e66325a6",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/underwoodslotkin_11112018.png",
+                    "origin": "The Hill",
+                    "title": "Newly elected Dems downplay midterms results as referendum on Trump",
+                    "ts": 1541959503,
+                    "twitterid": 1061681223767072770,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416127-newly-elected-dems-downplay-midterms-results-as-referendum-on"
+                },
+                {
+                    "_id": "5be819ed421aa96e77abe536",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181108190708-pelosi-cuomo-intv-1-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Pelosi on election night call with Trump: 'We have an obligation to try to find common ground where we can'",
+                    "ts": 1541936162,
+                    "twitterid": 1061583325813456903,
+                    "url": "https://www.cnn.com/2018/11/08/politics/pelosi-trump-phone-call-cnntv/index.html?utm_content=2018-11-11T11%3A36%3A02&utm_medium=social&utm_source=twCNNp&utm_term=image"
+                },
+                {
+                    "_id": "5be8a6b7421aa977aa796565",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/trumpdonaldarizonarally1_101918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Without new Democratic message, Donald Trump is the 2020 favorite",
+                    "ts": 1541972465,
+                    "twitterid": 1061735590062944256,
+                    "url": "https://thehill.com/opinion/campaign/416105-without-new-democratic-message-donald-trump-is-the-2020-favorite"
+                },
+                {
+                    "_id": "5be819ed421aa96e77abe53f",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180621141053-steny-hoyer-01-30-2018-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Second ranking House Democrat expects Pelosi to be speaker",
+                    "ts": 1541934185,
+                    "twitterid": 1061575032227401728,
+                    "url": "https://www.cnn.com/2018/11/09/politics/steny-hoyer-nancy-pelosi/index.html?utm_source=twCNNp&utm_medium=social&utm_content=2018-11-11T11%3A03%3A04&utm_term=image"
+                },
+                {
+                    "_id": "5be85245421aa97212d75a03",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/nadlerjerrold_watersmaxine_010918gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Top House Dem: Pelosi will have 'overwhelming support' of Democrats in bid for Speaker",
+                    "ts": 1541950867,
+                    "twitterid": 1061645000780460033,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416112-top-house-dem-pelosi-will-have-overwhelming-support-of-democrats"
+                },
+                {
+                    "_id": "5be84431421aa971345fc362",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/11/h_15149681/facebook.jpg?1541884582",
+                    "origin": "The Atlantic",
+                    "title": "Nancy Pelosi: Mueller Doesn\u2019t Have to Indict Trump for Congress to Impeach Him",
+                    "ts": 1541944819,
+                    "twitterid": 1061619635760627720,
+                    "url": "https://www.theatlantic.com/politics/archive/2018/11/why-nancy-pelosi-might-impeach-trump/575560/?utm_campaign=the-atlantic&utm_source=twitter&utm_term=2018-11-11T12%3A12%3A26&utm_content=edit-promo&utm_medium=social"
+                },
+                {
+                    "_id": "5be8b4d0421aa9789ab20492",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_45/2636111/181106-donald-trump-mn-2000_10238086ad47802cf9b54a64c5c45bf8.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "What the midterms taught Democrats \u2014 and how those lessons can help beat Trump in 2020",
+                    "ts": 1541973728,
+                    "twitterid": 1061740887888281600,
+                    "url": "https://www.nbcnews.com/think/opinion/what-midterms-taught-democrats-how-those-lessons-can-help-beat-ncna934691?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be8c2e4421aa9797ed9a923",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_45/2642481/181111-elijah-cummings-se-518p_07244fbc8b239f048ea7fee2e8a45a4c.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "House Democrats to further probe Trump's possible role in Stormy Daniels, Karen McDougal payments",
+                    "ts": 1541979744,
+                    "twitterid": 1061766122230501376,
+                    "url": "https://www.nbcnews.com/politics/congress/house-democrats-further-probe-trump-s-possible-role-stormy-daniels-n934991?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e3f",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/orourkebeto_110618getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Beto 2020 calls multiply among Dems",
+                    "ts": 1541939104,
+                    "twitterid": 1061595662825988097,
+                    "url": "https://thehill.com/homenews/campaign/416018-Beto-2020-calls-multiply-among-Dems"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            9
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Arizona Sinema",
+            "Arizona Senate Race",
+            "McCain",
+            "GOP",
+            "Arizona Senate",
+            "Arizona",
+            "Arizona Kyrsten Sinema"
+        ],
+        "peaks": [],
+        "theme": [
+            "Arizona",
+            "race",
+            "Senate",
+            "Sinema",
+            "lead",
+            "votes",
+            "continues"
+        ],
+        "timestamp": "2018-11-11 23:10:27.016090-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be8d110421aa97a6a22cb21",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/c2/6c/ce5fefcb4df297900bee7e7917e7/181111-sinema-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Sinema continues to expand lead in Arizona Senate race",
+                    "ts": 1541982610,
+                    "twitterid": 1061778142786998273,
+                    "url": "https://www.politico.com/story/2018/11/11/arizona-senate-race-mcsally-sinema-983481"
+                },
+                {
+                    "_id": "5be83608421aa97046d4d359",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18277734754031_s2048x1537.jpg?5341d86fcd755ab3f23e6550f11ddf4c72250f62",
+                    "origin": "The Washington Times",
+                    "title": "Kyrsten Sinema gains 4,000 votes in Arizona Senate race",
+                    "ts": 1541944633,
+                    "twitterid": 1061618854051356672,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/kyrsten-sinema-gains-4000-votes-arizona-senate-rac/"
+                },
+                {
+                    "_id": "5be7fdd8421aa96d106ed1ae",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/f7/d7/bfa4eb364c5a89d96a5da60b205b/181110-sinema-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Sinema lead grows again as Arizona Senate vote count continues",
+                    "ts": 1541930407,
+                    "twitterid": 1061559186310488065,
+                    "url": "https://www.politico.com/story/2018/11/10/sinema-mcsally-arizona-senate-vote-count-982945"
+                },
+                {
+                    "_id": "5be8d110421aa97a6a22cb27",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/kyrstensinema_marthamcsally3_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Sinema expands lead in nail-biter Arizona Senate race",
+                    "ts": 1541982301,
+                    "twitterid": 1061776846927335428,
+                    "url": "https://thehill.com/homenews/senate/416165-sinema-expands-lead-in-nail-biter-arizona-senate-race"
+                },
+                {
+                    "_id": "5be7c598421aa968786f54d7",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/kyrstensinema_marthamcsally2.jpg",
+                    "origin": "The Hill",
+                    "title": "Sinema extends lead in Arizona race",
+                    "ts": 1541915760,
+                    "twitterid": 1061497754046865408,
+                    "url": "https://thehill.com/homenews/campaign/416089-sinema-extends-lead-in-az-sen"
+                },
+                {
+                    "_id": "5be8605d421aa9730304994f",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/11/us/11ARIZONA-p1/11ARIZONA1-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Who Won That Arizona Senate Race? What Day Is It?",
+                    "ts": 1541954522,
+                    "twitterid": 1061660331649523713,
+                    "url": "https://www.nytimes.com/2018/11/10/us/arizona-senate-sinema-mcsally-green-party.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5be7fdd8421aa96d106ed1b4",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/10/PPHX/423744d6-0ead-4f86-a1b0-b4754f32a760-Mapping_Sinema-McSally_race.PNG?crop=820,461,x0,y69&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Precinct by precinct: How the McSally-Sinema race is playing out in Arizona",
+                    "ts": 1541929500,
+                    "twitterid": 1061555382802354177,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/11/11/which-precincts-voting-martha-mcsally-and-kyrsten-sinema-maricopa-county-arizona-senate/1966007002/"
+                },
+                {
+                    "_id": "5be8d110421aa97a6a22cb12",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/V8o5FcVy2-yDu1JjGuS-Bm3caRA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FW7ANVHGAQI6RO63OL637HKP5U.jpg",
+                    "origin": "Post Politics",
+                    "title": "Two former McCain aides blast GOP for casting doubt on results of Senate race in Arizona",
+                    "ts": 1541984018,
+                    "twitterid": 1061784048304054272,
+                    "url": "https://www.washingtonpost.com/politics/two-former-mccain-aides-blast-gop-for-casting-doubt-on-results-of-senate-race-in-arizona/2018/11/11/cd3558da-e603-11e8-bbdb-72fdbf9d4fed_story.html?tid=sm_tw_pol&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5be7efd3421aa96ca4796b8d",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/10/BostonGlobe.com/National/Images/18679ae12bbe4b2d9dbe93fcaf00e757-704e13bba38d4be29c8401a244307c39-3.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Settlement reached in tight Arizona Senate vote count",
+                    "ts": 1541923386,
+                    "twitterid": 1061529740048322561,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/11/09/settlement-reached-tight-arizona-senate-vote-count/zlpWDErfHOWI6n9kBVwXVN/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            42
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Paris Trump",
+            "American",
+            "WWI",
+            "France Trump",
+            "U.S.",
+            "Paris",
+            "Fox News",
+            "Donald Trump",
+            "White House",
+            "Paris Macron",
+            "Trump",
+            "Macron",
+            "EU",
+            "WWI Donald Trump",
+            "WWI Emmanuel Macron",
+            "Churchill",
+            "France",
+            "Global",
+            "Watch",
+            "WWI World",
+            "France Tensions",
+            "French",
+            "Armistice",
+            "Trump Kerry",
+            "Emmanuel Macron",
+            "Putin",
+            "Kremlin"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "World",
+            "Paris",
+            "WWI",
+            "War",
+            "Armistice",
+            "France"
+        ],
+        "timestamp": "2018-11-11 23:10:27.588443-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be83608421aa97046d4d368",
+                    "date_month": "2018-11",
+                    "image": "https://www.trbimg.com/img-5be82c2e/turbine/ct-wwi-armistice-paris-commemorations-20181111",
+                    "origin": "Chicago Tribune",
+                    "title": "World leaders gather in Paris a century after WWI armistice",
+                    "ts": 1541942716,
+                    "twitterid": 1061610814044626944,
+                    "url": "https://www.chicagotribune.com/news/nationworld/ct-wwi-armistice-paris-commemorations-20181111-story.html"
+                },
+                {
+                    "_id": "5be819ed421aa96e77abe535",
+                    "date_month": "2018-11",
+                    "image": "https://images.c-span.org/Files/1e7/1500042643.jpg/Thumbs/height.630.no_border.width.1200.jpg",
+                    "origin": "CSPAN",
+                    "title": "World War I Armistice Centennial Commemoration",
+                    "ts": 1541936345,
+                    "twitterid": 1061584090305085440,
+                    "url": "https://www.c-span.org/video/?454026-1/world-war-armistice-centennial-commemoration"
+                },
+                {
+                    "_id": "5be8defb421aa97b44e04c4a",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/France_WWI_Centennial_22519.jpg-52ea3_s2048x1514.jpg?684e0fe60491a36d94e0990b6e863f3819a2808c",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump has tense World War I anniversary weekend in France",
+                    "ts": 1541987400,
+                    "twitterid": 1061798231624048641,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/donald-trump-has-tense-world-war-i-anniversary-wee/"
+                },
+                {
+                    "_id": "5be85245421aa97212d75a18",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/10/USAT/407f6679-e9c2-4ed9-8230-a732411b76cd-AFP_AFP_1AP6QV.JPG?crop=2999,1709,x0,y19&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "President Trump in France to mark the 100th anniversary of the armistice that ended fighting in WWI",
+                    "ts": 1541948990,
+                    "twitterid": 1061637128118026240,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/11/11/president-trump-marks-100th-anniversary-end-wwi/1967193002/"
+                },
+                {
+                    "_id": "5be8605d421aa97303049966",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/trump_111118wh.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump honors French and American soldiers of World War I in Armistice Day remarks",
+                    "ts": 1541952542,
+                    "twitterid": 1061652025212055553,
+                    "url": "https://thehill.com/homenews/administration/416117-trump-honors-french-and-american-soldiers-of-world-war-i-in-armistice"
+                },
+                {
+                    "_id": "5be8ed21421aa97c1f2f0dc5",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/11/BostonGlobe.com/National/Images/5c0850f975db40e2abc935e4be827528-5c0850f975db40e2abc935e4be827528-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump\u2019s nationalism rebuked at World War I commemoration",
+                    "ts": 1541988656,
+                    "twitterid": 1061803501590925312,
+                    "url": "https://www.bostonglobe.com/news/world/2018/11/11/trump-nationalism-rebuked-world-war-commemoration/ehbx6bJrSVdTV6qcR5mWdP/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be85245421aa97212d75a13",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/trump1_111118getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Watch live: Trump speaks at Armistice Day ceremony in Paris",
+                    "ts": 1541949311,
+                    "twitterid": 1061638476544835584,
+                    "url": "https://thehill.com/homenews/administration/416103-watch-live-trump-speaks-at-armistice-day-ceremony-in-paris"
+                },
+                {
+                    "_id": "5be86e64421aa973eea0ed2f",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18315401940916_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "France squashed Trump-Putin meeting in Paris, Kremlin says",
+                    "ts": 1541958513,
+                    "twitterid": 1061677072278585344,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/france-squashed-trump-putin-meeting-paris-kremlin-/"
+                },
+                {
+                    "_id": "5be83608421aa97046d4d370",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/12/world/12Armistice1/12Armistice1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "World Leaders Gather to Remember the End of World War I",
+                    "ts": 1541941721,
+                    "twitterid": 1061606642775719936,
+                    "url": "https://www.nytimes.com/2018/11/11/us/politics/macron-trump-paris-wwi.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5be83608421aa97046d4d357",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/photo/2018/11/centenary-end-of-world-war-i/w01_AP18311459510989-1/facebook.jpg?1541618867",
+                    "origin": "The Atlantic",
+                    "title": "Preparing for the Centenary of the End of World War I",
+                    "ts": 1541944669,
+                    "twitterid": 1061619007592251392,
+                    "url": "https://www.theatlantic.com/photo/2018/11/centenary-end-of-world-war-i/575224/?utm_content=edit-promo&utm_source=twitter&utm_term=2018-11-08T00%3A35%3A09&utm_campaign=the-atlantic&utm_medium=social"
+                }
+            ]
+        ]
+    }
+]

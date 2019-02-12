@@ -1,0 +1,2320 @@
+[
+    {
+        "list": [
+            21
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Obamacare",
+            "Gabbard",
+            "Miami Herald",
+            "Bob",
+            "U.S.",
+            "Arizona Senate",
+            "ISIS",
+            "Pelosi",
+            "Gillum",
+            "Schumer",
+            "Avenatti",
+            "GOP",
+            "French Hill",
+            "First Read",
+            "Canada",
+            "Taliban",
+            "Senate",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Senate",
+            "ad",
+            "Trump",
+            "Canada",
+            "Democrat",
+            "Arizona",
+            "Campaign"
+        ],
+        "timestamp": "2018-10-21 15:10:17.519386-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcca2c3421aa96dfda9dffa",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/kyrstensinema_marthamcsally2.jpg",
+                    "origin": "The Hill",
+                    "title": "Arizona newspaper backs Democrat in dead heat Senate race",
+                    "ts": 1540134545,
+                    "twitterid": 1054026795253669893,
+                    "url": "https://thehill.com/homenews/senate/412432-the-arizona-republic-backs-sinema-in-dead-heat-senate-race"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dfe7",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_42/2607376/181016-beto-orourke-ac-1004p_62e048d9d49fe2a67818f0f5d1bfa1c8.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "Campaign ad watch: Going negative",
+                    "ts": 1540135820,
+                    "twitterid": 1054032141879836672,
+                    "url": "https://www.nbcnews.com/politics/first-read/campaign-ad-watch-going-negative-n921811?cid=par-twitter-feed_20181021"
+                },
+                {
+                    "_id": "5bccb0c5421aa96efee9e90a",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/mcsallymarth_trumpdonald_101918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Arizona Senate candidate doubles down attacking opponent over Taliban comments",
+                    "ts": 1540140782,
+                    "twitterid": 1054052956360896517,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/412435-mcsally-on-sinemas-taliban-comments-this-was-personal"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed067c",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/20/Election_2018_Senate_Pennsylvania_97578.jpg-a1994_s2048x1395.jpg?96c954c46c673a191c1e9d8f443679218dd86de9",
+                    "origin": "The Washington Times",
+                    "title": "Bob Casey-Lou Barletta Pennsylvania Senate debate ends in emotional exchange over ad",
+                    "ts": 1540123094,
+                    "twitterid": 1053978766878351361,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/21/bob-casey-lou-barletta-pennsylvania-senate-debate-/"
+                },
+                {
+                    "_id": "5bcc8698421aa96c0f0401dd",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_vr_marijuana_181017_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "What Canada\u2019s marijuana legalization means for the U.S.",
+                    "ts": 1540126816,
+                    "twitterid": 1053994379164172289,
+                    "url": "https://www.msnbc.com/velshi-ruhle/watch/what-canada-s-marijuana-legalization-means-for-the-u-s-1346505283692?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bcbb3a9421aa9573da9450c",
+                    "date_month": "2018-10",
+                    "image": "https://images.c-span.org/Files/2f1/1539964317.jpg/Thumbs/height.630.no_border.width.1200.jpg",
+                    "origin": "CSPAN",
+                    "title": "Ohio U.S. Senate Debate",
+                    "ts": 1540073769,
+                    "twitterid": 1053771883072679938,
+                    "url": "https://www.c-span.org/video/?453293-1/ohio-us-senate-debate"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed06a0",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/braunmike_rosendalematt_blackburnmarsha_cruzted_101918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Democrats slide in battle for Senate",
+                    "ts": 1540120143,
+                    "twitterid": 1053966388388380672,
+                    "url": "https://thehill.com/homenews/senate/412243-democrats-slide-in-battle-for-senate"
+                },
+                {
+                    "_id": "5bcbf9f0421aa95be55bf5b7",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181019160459-20181019-vote-sign-color-change-illo-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Why midterm candidates are ditching red, white, and blue campaign logos",
+                    "ts": 1540091103,
+                    "twitterid": 1053844587905773570,
+                    "url": "https://www.cnn.com/2018/10/20/politics/campaign-colors-2018/index.html?utm_content=2018-10-21T03%3A05%3A02&utm_source=twCNNp&utm_term=image&utm_medium=social"
+                },
+                {
+                    "_id": "5bcbb3a9421aa9573da944f0",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_hayes_t1t2veepad_181018_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "This midterm ad is straight out of an episode of \"Veep\"",
+                    "ts": 1540076404,
+                    "twitterid": 1053782934950502405,
+                    "url": "https://www.msnbc.com/all-in/watch/this-midterm-ad-is-straight-out-of-an-episode-of-veep-1347791427932?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74cb",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bca577498b249382c1b5357-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Here's why Canada must prosecute returning ISIS fighters",
+                    "ts": 1540142163,
+                    "twitterid": 1054058749051191296,
+                    "url": "https://www.businessinsider.com/heres-why-canada-must-prosecute-returning-isis-fighters-2018-10"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            104
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Zinke Bruins",
+            "NYU Speech Video",
+            "Thomas Markle",
+            "Markelle Fultz",
+            "Louisiana",
+            "Congress Watchdog",
+            "Donald Trump",
+            "Russia",
+            "Vancouver Texas Democrat Beto",
+            "Henry Kissinger",
+            "Patriots",
+            "Jordan",
+            "Gordon Hayward",
+            "GOP Harassment No",
+            "Roughly",
+            "Los Angeles Leaders Seek Civic",
+            "Trump Says Manafort",
+            "Lioness",
+            "Kevan Miller",
+            "New Red Sox",
+            "Sydney Philadelphia Eagles",
+            "Florida Bruins",
+            "LOOK",
+            "MSNBC",
+            "Richest",
+            "Golden State Warriors",
+            "Ethanol Boost",
+            "Mitch",
+            "Israel Duchess Meghan",
+            "WATCH",
+            "Indiana Farmers Harvest",
+            "Scottish",
+            "Moscow Bolton",
+            "Senate",
+            "HUD",
+            "Bannon U.S.",
+            "US",
+            "Russian",
+            "Rob Gronkowski",
+            "Colin Kaepernick Originalism",
+            "Blue Jackets",
+            "Indianapolis Zoo",
+            "Politicon Red Sox",
+            "Craig Kimbrel",
+            "Indianapolis Zoo Trump",
+            "Steve Kerr",
+            "Sears",
+            "Louisville",
+            "Afghanistan",
+            "Knicks",
+            "Mookie Betts",
+            "Security Clearances",
+            "London",
+            "Boston",
+            "Red Sox",
+            "Sussex",
+            "France",
+            "Will Pakistan",
+            "INF Nuclear Treaty",
+            "Hell",
+            "Hurricane Michael",
+            "Virginia",
+            "Los Angeles Dodgers",
+            "Border Protection",
+            "Gwinnett County Hundreds",
+            "Chicago",
+            "Russia Pope",
+            "Tactics",
+            "Cold",
+            "Florida",
+            "Kyrie Irving",
+            "Ideas",
+            "McConnell",
+            "U.S.",
+            "Artemi Panarin",
+            "Left",
+            "Darwin",
+            "Britain",
+            "Kentucky",
+            "Nuclear Arms Treaty",
+            "Goldman Changes Asia Banking Leadership",
+            "Brazil Gavin Williamson",
+            "Tropics",
+            "Commercial Republic Russian",
+            "Georgia",
+            "Air",
+            "Snake",
+            "Super Bowl",
+            "Brexit",
+            "Christian",
+            "Will America",
+            "Alex Speier",
+            "Eye",
+            "Bears Russian",
+            "America",
+            "Season"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "treaty",
+            "says",
+            "arms",
+            "officers",
+            "nuclear",
+            "pulls"
+        ],
+        "timestamp": "2018-10-21 15:10:18.424207-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcccce8421aa970b8936481",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/7c21e2cd-f6c4-4bbc-9c85-4494ec1b6286-AP_Russia_US.JPG?crop=2749,1546,x1,y499&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Russian officials warn of 'full chaos' if Trump pulls out of nuclear arms treaty",
+                    "ts": 1540145701,
+                    "twitterid": 1054073584879046656,
+                    "url": "https://www.usatoday.com/story/news/world/2018/10/21/russian-reaction-nuclear-arms-treaty-withdrawal/1721250002/"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed06a2",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/21/gettyimages-1052641316_wide-874662a38379bef55baa6613ddd4acd8187b7f68.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "U.S. To End Cold War-Era Nuclear Arms Treaty With Russia, Trump Says",
+                    "ts": 1540120064,
+                    "twitterid": 1053966057235341312,
+                    "url": "https://www.npr.org/2018/10/21/659275572/u-s-to-end-cold-war-era-nuclear-arms-treaty-with-russia-trump-says?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bcccce8421aa970b893647e",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/Mlu6E47bQGbnDqSDYQuHiY1HC1M=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FCUYEWGVCEI6RIIPWUKUNMIHKY.jpg",
+                    "origin": "Post Politics",
+                    "title": "GOP lawmakers criticize Trump\u2019s decision to withdraw from nuclear arms treaty",
+                    "ts": 1540146060,
+                    "twitterid": 1054075092756512770,
+                    "url": "https://www.washingtonpost.com/politics/gop-lawmakers-criticize-trumps-decision-to-withdraw-from-nuclear-arms-treaty/2018/10/21/20e4d726-d53d-11e8-83a2-d1c3da28d6b6_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a17",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/04/belgium_nato_russia_cyberattacks_95571_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Gavin Williamson says Britain backs Donald Trump, U.S. on Russia arms treaty withdrawal",
+                    "ts": 1540125290,
+                    "twitterid": 1053987978052337664,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/21/gavin-williamson-says-britain-backs-donald-trump-u/"
+                },
+                {
+                    "_id": "5bcc07fd421aa95c4e2e38ca",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/b9/25/3739a5d8402892d91b5796128415/181020-trump-2-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump: U.S. to withdraw from arms treaty with Russia",
+                    "ts": 1540098009,
+                    "twitterid": 1053873553848836097,
+                    "url": "https://www.politico.com/story/2018/10/20/trump-russia-nuclear-agreement-withdraw-920043"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74ce",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Trump says he'll pull US from nuclear agreement with Moscow",
+                    "ts": 1540142100,
+                    "twitterid": 1054058482507362304,
+                    "url": "https://www.foxnews.com/world/trump-says-hell-pull-us-from-nuclear-agreement-with-moscow"
+                },
+                {
+                    "_id": "5bcb977b421aa955e8700f33",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trump-putin_07222018_1.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump confirms US will withdraw from key arms control treaty",
+                    "ts": 1540068605,
+                    "twitterid": 1053750222390726657,
+                    "url": "https://thehill.com/homenews/administration/412401-trump-confirms-us-will-withdraw-from-key-arms-control-treaty"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dff6",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:5e56f28e54a94980a4e6e8f43f21e40c/2749.jpeg",
+                    "origin": "AP Politics",
+                    "title": "No unified backing in Congress to Trump\u2019s arms treaty move",
+                    "ts": 1540134932,
+                    "twitterid": 1054028419636322305,
+                    "url": "https://www.apnews.com/eba8a28f2fb74774b1ed9d9ad6fd9e4c?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5bcc5c5b421aa968ba0deca2",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-31966/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Russian Officials Slam Trump\u2019s Plans to Exit INF Nuclear Treaty",
+                    "ts": 1540118706,
+                    "twitterid": 1053960362004021248,
+                    "url": "https://www.wsj.com/articles/russian-officials-slam-trumps-plans-to-exit-inf-nuclear-treaty-1540118231?mod=e2tw"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936472",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/russia_sanctions_080318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Russian official: Trump withdrawal from arms control treaty form of 'blackmail'",
+                    "ts": 1540146786,
+                    "twitterid": 1054078139205382145,
+                    "url": "https://thehill.com/policy/international/412433-russian-official-trump-removing-us-from-arms-control-treaty-very"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Saudi Arabia Trump",
+            "Bolivia",
+            "Reinforce Ties",
+            "AP",
+            "Nikki Haley",
+            "US",
+            "Cuban",
+            "Mnuchin",
+            "Chris Cuomo",
+            "Saudi Arabia",
+            "Uproar Over Khashoggi Killing Trump",
+            "CNN",
+            "Donald J. Trump",
+            "Miami Republicans",
+            "America",
+            "White House",
+            "Durbin",
+            "Gianforte",
+            "Trump Doctrine",
+            "Proud Boys"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Saudi",
+            "Arabia",
+            "body",
+            "campaign",
+            "event",
+            "Haley"
+        ],
+        "timestamp": "2018-10-21 15:10:18.809260-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcbb3a9421aa9573da94505",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/pelosinancy_072618am_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Pelosi heckled by Miami Republicans, Proud Boys at campaign event",
+                    "ts": 1540074306,
+                    "twitterid": 1053774135711686657,
+                    "url": "https://thehill.com/homenews/house/412405-pelosi-heckled-by-miami-republicans-proud-boys-at-campaign-event"
+                },
+                {
+                    "_id": "5bcc94a3421aa96d1347c885",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/mnuchinsteven_062018gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Mnuchin: \u2018Premature to comment on sanctions\u2019 against Saudi Arabia",
+                    "ts": 1540132622,
+                    "twitterid": 1054018729925902336,
+                    "url": "https://thehill.com/homenews/administration/412427-mnuchin-premature-to-comment-on-sanctions-against-saudi-arabia"
+                },
+                {
+                    "_id": "5bcb8973421aa954f141cced",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/15/694940094001_5848894550001_5848644819001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Haley demands UN punish Cuba, Bolivia after \u2018mob scene\u2019 at US event for Cuban political prisoners",
+                    "ts": 1540064220,
+                    "twitterid": 1053731830032035841,
+                    "url": "https://www.foxnews.com/politics/haley-demands-un-punish-cuba-bolivia-after-mob-scene-at-us-event-for-cuban-political-prisoners"
+                },
+                {
+                    "_id": "5bcc5c5b421aa968ba0dec9f",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/22/world/22dc-Mnuchin/22dc-Mnuchin-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Mnuchin to Travel to Saudi Arabia to Reinforce Ties, Despite Uproar Over Khashoggi Killing",
+                    "ts": 1540119068,
+                    "twitterid": 1053961878098137088,
+                    "url": "https://www.nytimes.com/2018/10/21/us/politics/steven-mnuchin-saudi-arabia-khashoggi.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5bcc1609421aa95fcbaa66aa",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_101918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump: No regrets about cheering congressman who body-slammed reporter",
+                    "ts": 1540098382,
+                    "twitterid": 1053875115975426048,
+                    "url": "https://thehill.com/homenews/administration/412318-trump-no-regrets-about-cheering-congressman-who-body-slammed-reporter"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7dc8",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:8626ae8bcfe74142b2f874f74d709e1b/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "AP FACT CHECK: Trump inflates jobs impact of Saudi arms deal",
+                    "ts": 1540077954,
+                    "twitterid": 1053789433386950656,
+                    "url": "https://www.apnews.com/59efe0a1b2b8444b9d83b49c925f6e84?utm_medium=AP_Politics&utm_source=Twitter&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74cc",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/whitehouseflagfullstaff_082718getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump's campaign skills don't work in White House, says ex-Celebrity Apprentice contestant",
+                    "ts": 1540142160,
+                    "twitterid": 1054058733943177216,
+                    "url": "https://thehill.com/hilltv/rising/412011-trumps-campaign-skills-dont-work-in-white-house-says-ex-celebrity-apprentice"
+                },
+                {
+                    "_id": "5bcc322b421aa9663e45c7a2",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181019062933-nikki-haley-dinner-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "What's Nikki Haley really up to?",
+                    "ts": 1540105323,
+                    "twitterid": 1053904227574185984,
+                    "url": "https://www.cnn.com/2018/10/19/politics/nikki-haley-donald-trump-alfred-smith-dinner/index.html?utm_term=image&utm_medium=social&utm_source=twCNNp&utm_content=2018-10-21T07%3A02%3A02"
+                },
+                {
+                    "_id": "5bcb977b421aa955e8700f50",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/cuomo_chris_cnn.png",
+                    "origin": "The Hill",
+                    "title": "CNN's Chris Cuomo invites Gianforte to body slam him",
+                    "ts": 1540066387,
+                    "twitterid": 1053740919353163778,
+                    "url": "https://thehill.com/homenews/media/412377-cnns-chris-cuomo-invites-gianforte-to-bodyslam-him"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed0694",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:257648fd29084e26a4f505763a17c27f/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump hopes to pick UN ambassador from 5 candidates",
+                    "ts": 1540120923,
+                    "twitterid": 1053969660562038784,
+                    "url": "https://www.apnews.com/82ffcf9107ff4ccc8c107fe36c54bb2f?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            38
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Medicare",
+            "Dozens Feared Dead",
+            "Ugly",
+            "AP",
+            "Aurora",
+            "Taiwan",
+            "Brazilian",
+            "Leaf Blowers Are Loud",
+            "Golden",
+            "Crown Point",
+            "India Florida",
+            "Scott Walker",
+            "Fight High Drug Prices",
+            "Poliquin",
+            "India Firefighters",
+            "Labor Against Conservative Groups",
+            "Don",
+            "ObamaCare",
+            "Trump Administration Eyes",
+            "Selma Blair",
+            "Industry",
+            "Dangerous Congo Rebels",
+            "Obamacare",
+            "Tobacco Companies Florida",
+            "Medicaid",
+            "Los Angeles",
+            "Threaten Ebola",
+            "Existence Actress Selma Blair",
+            "Florida City Commissioner",
+            "Murder",
+            "Train Plows Through Crowd Of Revelers",
+            "Child Care",
+            "California",
+            "Trump Alliance With Democrats"
+        ],
+        "peaks": [],
+        "theme": [
+            "Blair",
+            "murder",
+            "Selma",
+            "Charged",
+            "city",
+            "Drug",
+            "fire"
+        ],
+        "timestamp": "2018-10-21 15:10:19.419500-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcbcfc8421aa958f53ef5c1",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/21/us/21Florida1-print/21xp-commissioner1-facebookJumbo-v2.jpg",
+                    "origin": "NYT National News",
+                    "title": "Florida City Commissioner Charged With Murder in Shooting at His Store",
+                    "ts": 1540082525,
+                    "twitterid": 1053808606641041408,
+                    "url": "https://www.nytimes.com/2018/10/20/us/michael-dunn-lakeland-commissioner-shooting.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5bcb977b421aa955e8700f3f",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/dunn_florida_official.jpg",
+                    "origin": "The Hill",
+                    "title": "City official shown on video shooting alleged shoplifter charged with murder",
+                    "ts": 1540067823,
+                    "twitterid": 1053746941618733057,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/412399-city-official-shown-on-video-shooting-alleged-shoplifter?__twitter_impression=true"
+                },
+                {
+                    "_id": "5bcba595421aa95656e5c926",
+                    "date_month": "2018-10",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_42/2606101/181016-lakeland-florida-commissioner-shoplifter-mn-0810_4a07e42536088ac68e7373935b1ad5cc.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Florida city commissioner charged with second degree murder in fatal shooting of shoplifter",
+                    "ts": 1540070882,
+                    "twitterid": 1053759773638905856,
+                    "url": "https://www.nbcnews.com/news/us-news/florida-city-commissioner-charged-second-degree-murder-fatal-shooting-shoplifter-n922216?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a2c",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2016/06/22/people-selma_blair_s2048x1365.jpeg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Selma Blair diagnosed with multiple sclerosis",
+                    "ts": 1540123673,
+                    "twitterid": 1053981195762130944,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/21/selma-blair-diagnosed-multiple-sclerosis/"
+                },
+                {
+                    "_id": "5bcccce8421aa970b893645f",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/171026141039-selma-blair-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Actress Selma Blair reveals she has multiple sclerosis",
+                    "ts": 1540148408,
+                    "twitterid": 1054084941313662976,
+                    "url": "https://www.cnn.com/2018/10/21/entertainment/selma-blair-reveals-multiple-sclerosis/index.html?utm_source=twCNN&utm_content=2018-10-21T19%3A00%3A07&utm_term=image&utm_medium=social"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed0697",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/selma-blair.jpg",
+                    "origin": "Fox News",
+                    "title": "Actress Selma Blair, 46, reveals MS diagnosis: 'I am disabled'",
+                    "ts": 1540120740,
+                    "twitterid": 1053968892136226816,
+                    "url": "https://www.foxnews.com/entertainment/actress-selma-blair-46-reveals-ms-diagnosis"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dff2",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_42/2613181/181021-selma-blair-al-1041_4a30e253fa0d950ef950623dca38adcd.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Actress Selma Blair says she has been diagnosed with multiple sclerosis",
+                    "ts": 1540135206,
+                    "twitterid": 1054029565746704384,
+                    "url": "https://www.nbcnews.com/pop-culture/celebrity/actress-selma-blair-says-she-has-been-diagnosed-multiple-sclerosis-n922541?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bccb0c5421aa96efee9e916",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/041c2b30de9c7fc574ec60bdd1711d096072a511/c=0-81-2391-1432/local/-/media/2016/06/07/USATODAY/USATODAY/636009020124018739-GTY-538505276-82430338.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Selma Blair reveals she has multiple sclerosis: 'I want my life to be full somehow'",
+                    "ts": 1540139700,
+                    "twitterid": 1054048417155072000,
+                    "url": "https://www.usatoday.com/story/life/people/2018/10/21/selma-blair-reveals-she-has-multiple-sclerosis-fall-sometimes/1719813002/"
+                },
+                {
+                    "_id": "5bcc322b421aa9663e45c793",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/pi.jpg",
+                    "origin": "Fox News",
+                    "title": "Florida's 'stand your ground' law doesn't apply in city commissioner's murder case, state attorney says",
+                    "ts": 1540107420,
+                    "twitterid": 1053913024170549248,
+                    "url": "https://www.foxnews.com/us/floridas-stand-your-ground-law-doesnt-apply-in-city-commissioners-murder-case-state-attorney-says"
+                },
+                {
+                    "_id": "5bcc8698421aa96c0f0401b9",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/drugs_thinkstock.jpg",
+                    "origin": "The Hill",
+                    "title": "Publicized drug prices will be meaningless to the average consumer",
+                    "ts": 1540129027,
+                    "twitterid": 1054003649163206657,
+                    "url": "https://thehill.com/opinion/healthcare/412404-publicized-drug-prices-will-be-meaningless-to-the-average-consumer"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            35
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Puig",
+            "Reach World Series",
+            "Clemson",
+            "Mega Millions Results",
+            "Mega Millions",
+            "Mega Millions Jackpot Becomes Largest",
+            "Patriots Ohio State",
+            "Isaiah Bowser",
+            "Hurricane Michael Dodgers",
+            "Purdue",
+            "Bengals LB Vontaze Burfict",
+            "Michigan",
+            "NLCS",
+            "Chris Sale",
+            "Brewers",
+            "Steelers College",
+            "Buckeyes",
+            "Barcelona",
+            "Mitch Trubisky",
+            "Lottery History Dodgers",
+            "Bears",
+            "Stengel",
+            "Red Sox",
+            "Northwestern",
+            "Ohio State",
+            "Amway Coaches Poll",
+            "Soldier Field",
+            "Ohio State Dodgers",
+            "Tyler Trent Red Sox",
+            "Ruth",
+            "Lionel Messi",
+            "College",
+            "Florida"
+        ],
+        "peaks": [],
+        "theme": [
+            "Mega",
+            "Millions",
+            "jackpots",
+            "Dodgers",
+            "Series",
+            "World",
+            "Billion"
+        ],
+        "timestamp": "2018-10-21 15:10:20.022914-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcbc1c4421aa958627f7dba",
+                    "date_month": "2018-10",
+                    "image": "https://www.latimes.com/resizer/icfafovVlzkhghXYNTJXBwtkaSg=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/UY5AHH5SGNB6BMTMJIEJIQI4ZY.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Mega-mania strikes for Mega Millions billion-dollar prize",
+                    "ts": 1540078386,
+                    "twitterid": 1053791245535862786,
+                    "url": "http://www.latimes.com/nation/la-na-mega-millions-20181020-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bcc2418421aa9653d3a5fcc",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/21/gettyimages-1052650582_wide-233c1d17921df6b52c2d439e6e2236d8099c8bdb.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "LA Dodgers Defeat Milwaukee Brewers To Reach World Series",
+                    "ts": 1540103345,
+                    "twitterid": 1053895933254021120,
+                    "url": "https://www.npr.org/2018/10/21/659243887/la-dodgers-defeat-milwaukee-brewers-to-reach-world-series?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a2d",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/747d72f11c73e42f9aae50ad3c8246334356c661/c=0-301-4096-2615/local/-/media/2016/01/09/USATODAY/USATODAY/635879445993707867--DIP-12.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "The numbers behind Mega Millions: Why lottery jackpots are getting bigger",
+                    "ts": 1540123518,
+                    "twitterid": 1053980543740755973,
+                    "url": "https://www.usatoday.com/story/news/2018/10/21/mega-millions-lottery-jackpots-getting-bigger-why/1710007002/"
+                },
+                {
+                    "_id": "5bcbf9f0421aa95be55bf593",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Dodgers beat Brewers in Game 7, will face Red Sox in World Series",
+                    "ts": 1540093920,
+                    "twitterid": 1053856400730927104,
+                    "url": "https://www.foxnews.com/sports/dodgers-beat-brewers-in-game-7-will-face-red-sox-in-world-series"
+                },
+                {
+                    "_id": "5bcc07fd421aa95c4e2e38de",
+                    "date_month": "2018-10",
+                    "image": "https://nbchardballtalk.files.wordpress.com/2018/10/ap_18294086028163-e1540092753850.jpg?w=1200",
+                    "origin": "NBC News",
+                    "title": "Bellinger, Puig power Game 7 win to send Dodgers to the World Series",
+                    "ts": 1540095406,
+                    "twitterid": 1053862633810604033,
+                    "url": "https://mlb.nbcsports.com/2018/10/20/bellinger-puig-power-game-7-win-to-send-dodgers-to-the-world-series/?cid=eref:nbcnews:text"
+                },
+                {
+                    "_id": "5bcc07fd421aa95c4e2e38e5",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/21/f09baba5-0a30-457e-aec2-1b26e139cb05/thumbnail/1200x630/2122bae28968f2462d565c3f6ddf7bb2/gettyimages-1052650580.jpg",
+                    "origin": "CBS News",
+                    "title": "Dodgers defeat Brewers in Game 7, will face Red Sox in World Series",
+                    "ts": 1540094889,
+                    "twitterid": 1053860466446032896,
+                    "url": "https://www.cbsnews.com/news/los-angeles-dodges-defeat-milwaukee-brewers-game-7-nlcs-tonight-heading-to-world-series-2018-10-20/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bcbfba504d30165f1d91db5&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bcc1609421aa95fcbaa66a4",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/US/loterry-ap-jpo-181018_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Mega Millions prizes keep skyrocketing as 'people want to see bigger jackpots'",
+                    "ts": 1540099307,
+                    "twitterid": 1053878997707300864,
+                    "url": "https://abcnews.go.com/US/mega-millions-prizes-skyrocketing-people-bigger-jackpots/story?id=58584571&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bcb977b421aa955e8700f54",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_42/2612531/181020-mega-millions-al-0827_05c49db7c7327167385575c91c508921.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "No Mega Millions winner, jackpot climbs to $1.6 billion",
+                    "ts": 1540065963,
+                    "twitterid": 1053739141962366976,
+                    "url": "https://www.nbcnews.com/news/us-news/no-mega-millions-winner-jackpot-climbs-1-6-billion-n922221?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7dce",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/21/us/21xp-lottery/21xp-lottery-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Mega Millions Results: No Winner and a Record $1.6 Billion Jackpot",
+                    "ts": 1540077662,
+                    "twitterid": 1053788211208691712,
+                    "url": "https://www.nytimes.com/2018/10/20/us/mega-millions-lottery-results.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5bcbebdc421aa95a3aefcbd0",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/20/gettyimages-1052547920_wide-ca5610f43263703d230e27eccf0e8e1185174b57.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "At $1.6 Billion, Mega Millions Jackpot Becomes Largest In Lottery History",
+                    "ts": 1540087260,
+                    "twitterid": 1053828467027075074,
+                    "url": "https://www.npr.org/2018/10/20/659159997/at-1-6-billion-mega-millions-hits-lottery-record?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2048"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            60
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Saudi Crown Prince",
+            "Bipartisan",
+            "Post",
+            "AP",
+            "U.S.",
+            "Trump Wagers",
+            "Saudi Throne Trump",
+            "White House",
+            "Qualms Rand Paul",
+            "Jamal Khashoggi",
+            "Schiff",
+            "Durbin",
+            "FOX",
+            "Rights",
+            "Saudi",
+            "Saudi Money Flows Into Silicon",
+            "Trump",
+            "Washington Post",
+            "Gorka",
+            "Twitter",
+            "Saudi Arabian",
+            "Saudi Arabia Corker",
+            "Rand Paul",
+            "Khashoggi",
+            "Western",
+            "GOP",
+            "Saudi Arabia Washington Post",
+            "Kushner",
+            "CNN",
+            "Amid Khashoggi",
+            "Saudi Arabia Avenatti",
+            "Saudis",
+            "Turkey",
+            "Joaquin Castro",
+            "Khashoggi Graham",
+            "Congress",
+            "Saudi Arabia Trump",
+            "American",
+            "US",
+            "Trump Dem",
+            "Saudi Arabia",
+            "Saudi Storm How",
+            "Scandal Over Dead Journalist Jolts Heir",
+            "Voters Will Shrug",
+            "Corker",
+            "Khoshoggi",
+            "Jamal Khashoggi Saudis"
+        ],
+        "peaks": [],
+        "theme": [
+            "Saudis",
+            "Khashoggi",
+            "death",
+            "Trump",
+            "Arabia",
+            "prince",
+            "calls"
+        ],
+        "timestamp": "2018-10-21 15:10:20.934327-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcbb3a9421aa9573da944f2",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ContentBroker_contentid-018e01961efc4865b72cdf3bdca661a2-1.png",
+                    "origin": "Fox News",
+                    "title": "Saudis offer pathetic explanation of Khashoggi death to preserve ties to US and clear crown prince",
+                    "ts": 1540076121,
+                    "twitterid": 1053781746892849152,
+                    "url": "https://www.foxnews.com/opinion/saudis-offer-pathetic-explanation-of-khashoggi-death-to-preserve-ties-to-us-and-clear-crown-prince"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74b2",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/corkerbob_072418gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Corker calls for 'collective' response from western countries if Saudi crown prince found responsible in Khashoggi's death",
+                    "ts": 1540144200,
+                    "twitterid": 1054067292655534080,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/412423-corker-calls-for-collective-response-from-western-countries-if"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936467",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/corkerbob_072418gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Corker calls for 'collective' response from Western countries if Saudi crown prince found responsible in Khashoggi's death",
+                    "ts": 1540147380,
+                    "twitterid": 1054080628314955776,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/412423-corker-calls-for-collective-response-from-western-countries-if"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7db9",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181019151837-03-saudi-scandal-effects-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Saudis admit Khashoggi is dead. What are Trump's options?",
+                    "ts": 1540078447,
+                    "twitterid": 1053791501266890752,
+                    "url": "https://www.cnn.com/2018/10/19/politics/trump-saudi-arabia-options/index.html?utm_content=2018-10-20T23%3A34%3A06&utm_source=twCNNp&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5bcc07fd421aa95c4e2e38dc",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/khashoggijamal4_101018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Amnesty International calls for UN investigation into Khashoggi's death",
+                    "ts": 1540095663,
+                    "twitterid": 1053863711545458688,
+                    "url": "https://thehill.com/policy/international/412378-amnesty-international-calls-for-un-investigation-into-khashoggis-death"
+                },
+                {
+                    "_id": "5bcc94a3421aa96d1347c89d",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/khashoggijamal_101018getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Durbin calls for expulsion of Saudi ambassador in response to Khashoggi's death",
+                    "ts": 1540130946,
+                    "twitterid": 1054011701086117888,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/412426-durbin-calls-for-expulsion-of-saudi-ambassador-in-response-to"
+                },
+                {
+                    "_id": "5bcbcfc8421aa958f53ef5c9",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/20/9eebe66d-7268-456d-a4b1-d98d0266e730/thumbnail/1200x630/1708e49b6380fad30ada33e0dad83bbe/khashoggi.jpg",
+                    "origin": "CBS News",
+                    "title": "Rights group calls for Saudi Arabia to \"immediately produce\" Jamal Khashoggi's body",
+                    "ts": 1540081984,
+                    "twitterid": 1053806336805400576,
+                    "url": "https://www.cbsnews.com/news/rights-group-calls-for-saudi-arabia-to-immediately-produce-jamal-khashoggis-body-2018-10-20/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bcbc93d04d3012e639ff4da&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dfd7",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Post Politics",
+                    "title": "Bipartisan calls for Saudi Arabia to face repercussions mount in wake of Khashoggi killing",
+                    "ts": 1540137266,
+                    "twitterid": 1054038207216697349,
+                    "url": "https://www.washingtonpost.com/news/politics/wp/2018/10/21/bipartisan-calls-for-saudi-arabia-to-face-repercussions-mount-in-wake-of-khashoggi-killing/"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7dbe",
+                    "date_month": "2018-10",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_42/2612296/181019-jamal-khashoggi-ac-705p_83645b45e86db5bbee3de4617c8cc27c.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Saudi Arabia's explanation for Khashoggi's death draws international criticism",
+                    "ts": 1540078212,
+                    "twitterid": 1053790518679924743,
+                    "url": "https://www.nbcnews.com/news/world/saudi-arabias-explanation-khashoggis-death-draws-international-criticism-n922406?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bcc8698421aa96c0f0401cd",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald-binsalman-mohammed-getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump: 'I would love' if Saudi crown prince wasn't responsible in Khashoggi killing",
+                    "ts": 1540127583,
+                    "twitterid": 1053997595817922560,
+                    "url": "https://thehill.com/homenews/administration/412421-trump-i-would-love-if-saudi-crown-prince-wasnt-responsible-in"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            20
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Democratic",
+            "Blue Wave Might Wipe Out Voter Suppression",
+            "American",
+            "Early Voting Surges",
+            "Hope",
+            "Taliban Georgia",
+            "Too Afghans",
+            "Tech",
+            "Chaotic Afghan",
+            "Race",
+            "Georgia Could Maine",
+            "GOP",
+            "Florida",
+            "Midterm Elections Election",
+            "Hot",
+            "Afghan",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "voting",
+            "elections",
+            "Afghan",
+            "voter",
+            "Democrats",
+            "Early",
+            "Georgia"
+        ],
+        "timestamp": "2018-10-21 15:10:21.421820-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bccbed9421aa96fef3c74b5",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-31705/social",
+                    "origin": "Capital Journal",
+                    "title": "With Hot Governor\u2019s Race, Early Voting Surges in Georgia",
+                    "ts": 1540144078,
+                    "twitterid": 1054066781025898496,
+                    "url": "https://www.wsj.com/articles/with-hot-governors-race-early-voting-surges-in-georgia-1539899820?mod=e2twp"
+                },
+                {
+                    "_id": "5bcc1609421aa95fcbaa66a0",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/demdonors_101718hillillustration.jpg",
+                    "origin": "The Hill",
+                    "title": "Early voting hints at huge turnout",
+                    "ts": 1540099862,
+                    "twitterid": 1053881322802950144,
+                    "url": "https://thehill.com/homenews/campaign/412263-early-voting-hints-at-huge-turnout"
+                },
+                {
+                    "_id": "5bcb977b421aa955e8700f3e",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/01/us/politics/early-vote-midterms/early-vote-midterms-facebookJumbo-v2.jpg",
+                    "origin": "NYT National News",
+                    "title": "How to Vote Early in the 2018 Midterm Elections",
+                    "ts": 1540067884,
+                    "twitterid": 1053747199111249922,
+                    "url": "https://www.nytimes.com/interactive/2018/10/04/us/politics/early-vote-elections.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5bcba595421aa95656e5c91f",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/20/BostonGlobe.com/Foreign/Images/f03d935c641c42e89f6a1422a4ea15a0-f03d935c641c42e89f6a1422a4ea15a0-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Violence, confusion surround Afghan parliamentary elections",
+                    "ts": 1540071422,
+                    "twitterid": 1053762036239400961,
+                    "url": "https://www.bostonglobe.com/news/world/2018/10/20/violence-confusion-surround-afghan-parliamentary-elections/qJ8rKeJR0MCOo2Dsu4fviJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74b6",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/16/BostonGlobe.com/Magazine/Images/voting1028web.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Could Maine\u2019s new ranked-choice voting change American elections?",
+                    "ts": 1540144073,
+                    "twitterid": 1054066757831454722,
+                    "url": "https://www.bostonglobe.com/magazine/2018/10/17/could-maine-new-ranked-choice-voting-change-american-elections/6VqNC73bQzMrPd0RSepA8L/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcbddd4421aa9598b7196c5",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/5thingstowatch_votingbooth_istock.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump threatens \u2018maximum penalties\u2019 for voter fraud",
+                    "ts": 1540084810,
+                    "twitterid": 1053818190357258240,
+                    "url": "https://thehill.com/homenews/administration/412410-trump-threatens-maximum-penalties-for-voter-fraud"
+                },
+                {
+                    "_id": "5bcbddd4421aa9598b7196c8",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/20/BostonGlobe.com/Foreign/Images/4817c4e3f0cd4e749e44b7cad9067fca-4817c4e3f0cd4e749e44b7cad9067fca-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Chaotic Afghan parliamentary polls draw to a close",
+                    "ts": 1540084622,
+                    "twitterid": 1053817404558639105,
+                    "url": "https://www.bostonglobe.com/news/world/2018/10/20/chaotic-afghan-parliamentary-polls-draw-close/8wVWBynbZXQaY3WF3AaxKM/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcba595421aa95656e5c90d",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_maddow_avoting_181017_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "GOP steps up vote suppression as Democrats grow in determination",
+                    "ts": 1540072812,
+                    "twitterid": 1053767868217733120,
+                    "url": "https://www.msnbc.com/rachel-maddow/watch/gop-steps-up-vote-suppression-as-democrats-grow-in-determination-1346968643852?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7da4",
+                    "date_month": "2018-10",
+                    "image": "https://images.newrepublic.com/34c12c07c8be77e8df135c287a8ae75dd8f40990.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The Blue Wave Might Wipe Out Voter Suppression, Too",
+                    "ts": 1540080009,
+                    "twitterid": 1053798054678147072,
+                    "url": "https://newrepublic.com/article/151765/blue-wave-might-wipe-voter-suppression"
+                },
+                {
+                    "_id": "5bcc07fd421aa95c4e2e38e9",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181012165817-voting-booth-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Georgia county tosses out hundreds of minority absentee ballots",
+                    "ts": 1540094643,
+                    "twitterid": 1053859432084451328,
+                    "url": "https://www.cnn.com/2018/10/20/politics/gwinnett-county-absentee-ballots/index.html?utm_source=twCNNp&utm_content=2018-10-21T04%3A04%3A02&utm_term=image&utm_medium=social"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            51
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Julian Castro",
+            "South Carolina Trump",
+            "White House",
+            "Obama",
+            "Gonzalez",
+            "Bill Walker",
+            "Migrant Caravan",
+            "Goldman Sachs",
+            "Trump",
+            "Bruce Rauner",
+            "Nevada",
+            "Democrats Lost Rural America",
+            "Democratic House",
+            "Boosting Trump Approval Rating Trump",
+            "Democrat Alaska Gov",
+            "North Carolina",
+            "GOP Trump",
+            "Republican Voters Trump",
+            "Jacky Rosen",
+            "Speaker Ryan",
+            "Female Was",
+            "Michael Cohen",
+            "House Blue",
+            "South Dakota",
+            "Trump Seizes",
+            "House",
+            "Walker",
+            "Republican",
+            "House Democrats",
+            "AP Interview",
+            "Bernie Sanders Running Against Warren",
+            "Grafton",
+            "Senate",
+            "Alaska Gov",
+            "Midterms Surges",
+            "Super",
+            "Trump Bill Walker",
+            "Kamala Harris",
+            "Suspends Campaign Amid Sinking",
+            "Dean Heller",
+            "Battle",
+            "Australia",
+            "California",
+            "America Being Great",
+            "Which",
+            "PACs",
+            "Illinois",
+            "Warren"
+        ],
+        "peaks": [],
+        "theme": [
+            "Democrats",
+            "House",
+            "Trump",
+            "Republican",
+            "tax",
+            "Alaska",
+            "could"
+        ],
+        "timestamp": "2018-10-21 15:10:22.299341-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcbc1c4421aa958627f7dd7",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/21/us/politics/21gopcaravan-1/21gopcaravan-1-facebookJumbo-v2.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Trump Seizes On Migrant Caravan to Rev Up Republican Voters",
+                    "ts": 1540077073,
+                    "twitterid": 1053785740772020225,
+                    "url": "https://www.nytimes.com/2018/10/20/us/politics/trump-migrant-caravan-midterm.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5bcc5c5b421aa968ba0decb2",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/23/3ee44d86-7d5d-4109-bffe-0ee0074821ac/thumbnail/1200x630/e09c0fcba128630b7578acf2d216aed3/1200px-us-capitol-east-side.jpg",
+                    "origin": "CBS News",
+                    "title": "The races that could decide who controls the House",
+                    "ts": 1540116183,
+                    "twitterid": 1053949777820434433,
+                    "url": "https://www.cbsnews.com/news/the-races-that-could-decide-who-controls-the-house/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bcc4ed51adf64000120ab49&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7dda",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonaldarizonarally2_101918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump teases new tax cut legislation",
+                    "ts": 1540076945,
+                    "twitterid": 1053785203876003840,
+                    "url": "https://thehill.com/homenews/administration/412408-trump-teases-new-tax-cut-legislation?__twitter_impression=true"
+                },
+                {
+                    "_id": "5bcc07fd421aa95c4e2e38e8",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/10/RTS1SX2G/facebook.jpg?1539812848",
+                    "origin": "The Atlantic",
+                    "title": "Kamala Harris\u2019s Trump-Size Tax Plan",
+                    "ts": 1540094656,
+                    "twitterid": 1053859487948398593,
+                    "url": "https://www.theatlantic.com/ideas/archive/2018/10/lefts-trump-sized-tax-plans/573328/?utm_term=2018-10-18T10%3A00%3A21&utm_medium=social&utm_content=edit-promo&utm_source=twitter&utm_campaign=the-atlantic"
+                },
+                {
+                    "_id": "5bcc2418421aa9653d3a5fc3",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181005165201-the-forecast-win-house-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "The Forecast: Republicans could keep the House. Here's how.",
+                    "ts": 1540103887,
+                    "twitterid": 1053898205543444481,
+                    "url": "https://www.cnn.com/2018/10/20/politics/the-forecast-republicans-keep-house/index.html?utm_term=image&utm_medium=social&utm_content=2018-10-21T06%3A38%3A06&utm_source=twCNNp"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a2f",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/19/0d578582-022d-4310-93f2-db0745e56699/thumbnail/1200x630/b445a3d00880fa5935adaaf47e10173f/ap-18243793077043.jpg",
+                    "origin": "CBS News",
+                    "title": "North Carolina congressional race could be key in battle for the House",
+                    "ts": 1540123383,
+                    "twitterid": 1053979979980115969,
+                    "url": "https://www.cbsnews.com/news/north-carolina-congressional-race-could-be-key-in-battle-for-the-house/"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74d3",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181021093816-ip-group-photo-1021-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "A White House staffing shuffle could come after midterms",
+                    "ts": 1540141805,
+                    "twitterid": 1054057245376499712,
+                    "url": "https://www.cnn.com/2018/10/21/politics/ip-forecast/index.html?utm_content=2018-10-21T17%3A10%3A04&utm_source=twCNNp&utm_term=image&utm_medium=social"
+                },
+                {
+                    "_id": "5bcb977b421aa955e8700f56",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/2vDWsx3AStTAZfBLPXSqNnScKx8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5ELWPGSLEI6RDBC7IXPOS6W2Y.jpg",
+                    "origin": "Post Politics",
+                    "title": "House Democrats\u2019 hope for wave election diminishes as Republicans rebound",
+                    "ts": 1540065734,
+                    "twitterid": 1053738180485226496,
+                    "url": "https://www.washingtonpost.com/powerpost/house-democrats-hope-for-wave-election-diminishes-as-republicans-rebound/2018/10/20/3b28d9b4-d31e-11e8-83d6-291fcead2ab1_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bcc8698421aa96c0f0401c9",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181020165058-trump-pool-reporters-10-20-18-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump says GOP working on tax plan for middle class",
+                    "ts": 1540127884,
+                    "twitterid": 1053998858710212608,
+                    "url": "https://www.cnn.com/2018/10/20/politics/donald-trump-tax-middle-income/index.html?utm_term=image&utm_medium=social&utm_content=2018-10-21T13%3A18%3A03&utm_source=twCNNp"
+                },
+                {
+                    "_id": "5bcba595421aa95656e5c930",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/09/17/694940094001_5835821297001_5835808577001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "A Democratic House majority could be dangerous for our country \u2013 here\u2019s why",
+                    "ts": 1540070100,
+                    "twitterid": 1053756492371779584,
+                    "url": "https://www.foxnews.com/opinion/a-democratic-house-majority-could-be-dangerous-for-our-country-heres-why"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            53
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Oklahoma",
+            "Murphy",
+            "Honor",
+            "Medal",
+            "New DNA Paradigm",
+            "Tornado Alley",
+            "Affirmative Action Trial",
+            "NRA",
+            "U.S.",
+            "McNair",
+            "Somers",
+            "Smithsonian",
+            "Kanye As",
+            "Candace Owens",
+            "New York",
+            "Supreme Court",
+            "Catholic",
+            "Louisiana",
+            "ERs",
+            "Kavanaugh Charlie Baker",
+            "Pennsylvania",
+            "Admissions Process",
+            "Know Enough",
+            "Elizabeth Warren",
+            "Ohio",
+            "Christine Blasey Ford",
+            "Postal Service",
+            "Utah",
+            "Jordan",
+            "Retired Marine",
+            "Palo Alto City Council NTSB",
+            "Baltimore",
+            "Does Harvard Admissions Discriminate",
+            "School",
+            "Ovarian Cancer Elizabeth Warren",
+            "Lawsuit",
+            "Vietnam",
+            "Texas",
+            "Maryland",
+            "Clemson University",
+            "Walmart",
+            "Once Secret",
+            "American",
+            "Swampscott Harvard",
+            "Hurricane Michael",
+            "Purdue Northwest",
+            "Floor",
+            "Yom Kippur",
+            "Native"
+        ],
+        "peaks": [],
+        "theme": [
+            "say",
+            "schools",
+            "Warren",
+            "DNA",
+            "Elizabeth",
+            "New",
+            "sex"
+        ],
+        "timestamp": "2018-10-21 15:10:23.369960-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcba595421aa95656e5c936",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_42/2609411/181018-native-american-vote-mc-1404_db0d351bf3056db397a024cf416bd12f.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Elizabeth Warren's DNA test raises fraught questions of Native American identity, tribes say",
+                    "ts": 1540069563,
+                    "twitterid": 1053754239485468674,
+                    "url": "https://www.nbcnews.com/politics/politics-news/elizabeth-warren-s-dna-test-raises-fraught-questions-native-american-n921656?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bcc07fd421aa95c4e2e38d9",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/Politics/elizabeth-warren2-rt-hb-181017_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "The real problem with Elizabeth Warren's DNA test: Geneticists",
+                    "ts": 1540096182,
+                    "twitterid": 1053865889664323589,
+                    "url": "https://abcnews.go.com/Politics/CuttingEdge/geneticists-real-problem-elizabeth-warrens-dna-test/story?id=58563279&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed0688",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/16/AP_18221450024869_s2048x1226.jpg?39214ab60177c1318c47912a133ec536142a8408",
+                    "origin": "The Washington Times",
+                    "title": "Elizabeth Warren DNA test highlights how tribes decide membership",
+                    "ts": 1540121876,
+                    "twitterid": 1053973658962665472,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/21/elizabeth-warren-dna-test-highlights-how-tribes-de/"
+                },
+                {
+                    "_id": "5bcb8973421aa954f141ccdf",
+                    "date_month": "2018-10",
+                    "image": "https://images.newrepublic.com/97d0d153b2d2ef44b79686ea4673bdce8b876722.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The New DNA Paradigm",
+                    "ts": 1540065608,
+                    "twitterid": 1053737653424848896,
+                    "url": "https://newrepublic.com/article/151736/new-dna-paradigm"
+                },
+                {
+                    "_id": "5bcc1609421aa95fcbaa6698",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/19/ddcd17cf-6e46-4d66-b3a2-268208564db3/thumbnail/1200x630/91fa184ba77442100a6b5647892b0d2c/rockefeller-university.jpg",
+                    "origin": "CBS News",
+                    "title": "Former patients accuse New York doctor of child sex abuse",
+                    "ts": 1540100884,
+                    "twitterid": 1053885610405085184,
+                    "url": "https://www.cbsnews.com/news/dr-reginald-archibald-rockefeller-university-hospital-physician-child-sex-abuse-patients/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bcc131204d30138972e4d06&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7dd1",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/18/BostonGlobe.com/National/Images/NormanOK1a.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Elizabeth Warren goes back to Oklahoma to emphasize her family roots",
+                    "ts": 1540077444,
+                    "twitterid": 1053787297626365954,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/10/20/elizabeth-warren-goes-back-oklahoma-emphasize-her-family-roots/g6r31Z5STXxxS6WQshy6fN/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a24",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/OamrK2e2eig9QMRBbl9TeGi0idg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZQWXKF5TEI6RASD6OXJZGLFRI.jpg",
+                    "origin": "Washington Post",
+                    "title": "When \u2018the heartbeat\u2019 stops: Rural schools close as opportunity and residents flee",
+                    "ts": 1540124241,
+                    "twitterid": 1053983576956506112,
+                    "url": "https://www.washingtonpost.com/local/education/when-the-heartbeat-stops-rural-schools-close-as-opportunity-and-residents-flee/2018/10/20/bfc2d06a-b52f-11e8-a2c5-3187f427e253_story.html?utm_term=.078a41f5fc2f&tid=sm_tw"
+                },
+                {
+                    "_id": "5bcbb3a9421aa9573da944f7",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/US/WireAP_f871433c2ad2456dbec6ada15c76cecf_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Warren ancestry highlights how tribes decide membership",
+                    "ts": 1540075531,
+                    "twitterid": 1053779270869417985,
+                    "url": "https://abcnews.go.com/US/wireStory/warren-ancestry-highlights-tribes-decide-membership-58633726?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7db3",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/20/2a2054be-a899-406e-8207-04b498a74429/thumbnail/1200x630/ef137bb38133c3cf82008a5d41512558/1020-en-breastcancer-lapook-grab4.jpg",
+                    "origin": "CBS News",
+                    "title": "New immunotherapy drug showing promise for aggressive type of breast cancer",
+                    "ts": 1540078688,
+                    "twitterid": 1053792512857530368,
+                    "url": "https://www.cbsnews.com/news/tecentriq-immunotherpy-triple-negative-breast-cancer-shows-promise/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bcbbc5c04d3017f1237e0ea&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bcc07fd421aa95c4e2e38e2",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/usc_lawsuit1020.jpg",
+                    "origin": "The Hill",
+                    "title": "USC reaches tentative $215M settlement over alleged sex abuse",
+                    "ts": 1540095062,
+                    "twitterid": 1053861193352392704,
+                    "url": "https://thehill.com/regulation/court-battles/412374-usc-reaches-tentative-215m-settlement-over-alleged-sex-abuse"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            26
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Navy",
+            "Coachella",
+            "Obama",
+            "Durbin",
+            "Indiana",
+            "Joe Biden",
+            "Trump",
+            "Nevada",
+            "Trump Biden",
+            "Texas Dems",
+            "Donald",
+            "Venezuela Biden",
+            "Biden",
+            "Immigration Laws Trump",
+            "House",
+            "Trump Takes Aim",
+            "Nevada Senate",
+            "Texas Senate",
+            "American",
+            "Jill Biden",
+            "Betomania",
+            "Virginia",
+            "US",
+            "Heller"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Biden",
+            "Democrats",
+            "Nevada",
+            "says",
+            "midterm",
+            "president"
+        ],
+        "timestamp": "2018-10-21 15:10:23.888483-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcb977b421aa955e8700f4d",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/AP18293708985561.jpg",
+                    "origin": "Fox News",
+                    "title": "In Nevada, Trump says Democrats want to turn US into Venezuela",
+                    "ts": 1540066800,
+                    "twitterid": 1053742652422868992,
+                    "url": "https://www.foxnews.com/politics/in-nevada-trump-says-democrats-want-to-turn-us-into-venezuela"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7dad",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/Politics/WireAP_6e823eda02f64925a684e3c9a768a4b7_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Biden rallies union for Democrats in tight Nevada races",
+                    "ts": 1540079263,
+                    "twitterid": 1053794926591389697,
+                    "url": "https://abcnews.go.com/Politics/wireStory/biden-rallies-union-democrats-tight-nevada-races-58634324?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bcc8698421aa96c0f0401d1",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2015/10/20/AP_100323125094_s2048x1447.jpg?e264797c9092a38707a7a0b967d3ef29788370f3",
+                    "origin": "The Washington Times",
+                    "title": "Obama took Joe Biden \u2018off of the trash heap and made him vice president,\u2019 Donald Trump says",
+                    "ts": 1540127366,
+                    "twitterid": 1053996682688557057,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/21/obama-took-joe-biden-trash-heap-and-made-him-vice-/"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936483",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/AOn2bxeEjCz_lYM4xDco7fF5-Rw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MK5T3JWT7YI6RJG3DBBRDUTRFE.jpg",
+                    "origin": "Post Politics",
+                    "title": "In Nevada, a midterm clash between newfound Republican organization and organized Democrats\u2019 renewed enthusiasm",
+                    "ts": 1540145613,
+                    "twitterid": 1054073219437748224,
+                    "url": "https://www.washingtonpost.com/politics/in-nevada-a-midterm-clash-between-newfound-republican-organization-and-organized-democrats-renewed-enthusiasm/2018/10/21/10518b40-d400-11e8-8c22-fa2ef74bd6d6_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bcbf9f0421aa95be55bf5a4",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/5a/91/990ee3bd4491997cda1477957cd1/181020-trump-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump squares off with Biden in dueling Nevada rallies",
+                    "ts": 1540092612,
+                    "twitterid": 1053850915575357440,
+                    "url": "https://www.politico.com/story/2018/10/20/trump-biden-2020-nevada-919508"
+                },
+                {
+                    "_id": "5bcba595421aa95656e5c90f",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/20/BostonGlobe.com/National/Images/1057271958.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Biden says American values are being \u2018shredded\u2019 under Trump",
+                    "ts": 1540072747,
+                    "twitterid": 1053767596846301185,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/10/20/biden-says-american-values-are-being-shredded-under-trump/I63Ucky1LQRxY6JgbDGDAK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936470",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:858413b4752b431a9e31a4a21fcf7c16/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Democrats look to Latinos to provide midterm support",
+                    "ts": 1540146881,
+                    "twitterid": 1054078536020099074,
+                    "url": "https://www.apnews.com/de182d87099845a497320de219f72fcd?utm_campaign=SocialFlow&utm_medium=AP_Politics&utm_source=Twitter"
+                },
+                {
+                    "_id": "5bcba595421aa95656e5c935",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181014095636-trump-biden-split-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Biden takes swipe at Trump in Nevada: 'It's all about Donald'",
+                    "ts": 1540069608,
+                    "twitterid": 1053754427700584448,
+                    "url": "https://www.cnn.com/2018/10/20/politics/biden-las-vegas-trump/index.html?utm_medium=social&utm_term=image&utm_content=2018-10-20T21%3A06%3A47&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bcba595421aa95656e5c931",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/HvFm66MTvXZzReQbx3pPWDrTyGQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YHXBVOGUVYI6RA6WFEP45LJKWE.jpg",
+                    "origin": "Post Politics",
+                    "title": "President campaigns for former foe at Nevada rally",
+                    "ts": 1540070039,
+                    "twitterid": 1053756235349143555,
+                    "url": "https://www.washingtonpost.com/politics/trump-campaigns-for-former-gop-foe-at-nevada-rally/2018/10/20/7ebab6a0-d483-11e8-a275-81c671a50422_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936464",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/AsAiCGX6w6SG_5y0EyaMlPeQzhQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G2BO5EGVLAI6RA5C2HB5UKGWWY.jpg",
+                    "origin": "Post Politics",
+                    "title": "Durbin says Democrats should agree with Trump when he\u2019s right, fight him when he\u2019s wrong",
+                    "ts": 1540147889,
+                    "twitterid": 1054082763652022272,
+                    "url": "https://www.washingtonpost.com/politics/durbin-says-democrats-should-agree-with-trump-when-hes-right-fight-him-when-hes-wrong/2018/10/21/29599368-d558-11e8-83a2-d1c3da28d6b6_story.html?tid=sm_tw_pol"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            32
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Left Issue",
+            "Mexican",
+            "Echoes Trump",
+            "U.S.",
+            "Trump Seeks",
+            "Applauds Threat",
+            "Mexico",
+            "Mexico Kirstjen Nielsen",
+            "Tough Stance",
+            "US Trump",
+            "Donald Trump",
+            "Border Restrictions Tighten",
+            "US Migrant",
+            "Caravan",
+            "American Dream",
+            "U.S. Migrants",
+            "Rally Voters",
+            "Migrant",
+            "Migrant Caravans",
+            "Southern Border",
+            "Honduras",
+            "Migrant Caravan Migrant",
+            "Mexico Migrant",
+            "Trump White House",
+            "US",
+            "Size Central Americans",
+            "Spain",
+            "Migrants Consider Their Options",
+            "DHS",
+            "Stop Migrant Caravan Migrant",
+            "Southern Border Migrant"
+        ],
+        "peaks": [],
+        "theme": [
+            "Migrant",
+            "caravan",
+            "Border",
+            "Mexico",
+            "Trump",
+            "us",
+            "form"
+        ],
+        "timestamp": "2018-10-21 15:10:24.412569-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcb977b421aa955e8700f36",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/20/BostonGlobe.com/Foreign/Images/AFP_1A627R.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Migrant caravan is stopped on bridge at Mexico-Guatemala border",
+                    "ts": 1540068485,
+                    "twitterid": 1053749718180945921,
+                    "url": "https://www.bostonglobe.com/news/world/2018/10/20/migrant-caravan-stopped-bridge-mexico-guatemala-border/AShScqJlo4HbkTNpEVLJXJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a19",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/19/f4960a2b-25f8-400e-bb05-c0a4b7171c99/thumbnail/1200x630/6292764afb228946f2454fcbe9d3844e/cbsn-fusion-trump-says-midterm-elections-are-a-referendum-about-me-thumbnail-1689044-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump lacks legal authority to send military to U.S.-Mexico border",
+                    "ts": 1540125183,
+                    "twitterid": 1053987528204845056,
+                    "url": "https://www.cbsnews.com/news/trump-lacks-legal-authority-to-send-military-to-us-mexico-border/"
+                },
+                {
+                    "_id": "5bcc1609421aa95fcbaa66a2",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/20/USAT/ad4ca970-41a8-4f22-a50c-5b4b7785df36-AP_Central_America_Migrant_Caravan.JPG?crop=5183,2902,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "'There's no turning back': Migrant caravan stuck on Mexico border vows not to be deterred",
+                    "ts": 1540099502,
+                    "twitterid": 1053879814774550528,
+                    "url": "https://www.usatoday.com/story/news/world/2018/10/20/migrant-caravan-honduras-migrants-mexico-border/1709896002/"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed069e",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/20/central_america_migrant_caravan_24824_s2048x1360.jpg?7ddbe6c23a2f096009327b343b29dfe519ca3612",
+                    "origin": "The Washington Times",
+                    "title": "Migrant caravan re-forms in Mexico",
+                    "ts": 1540120410,
+                    "twitterid": 1053967509907562496,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/21/migrant-caravan-re-forms-mexico/"
+                },
+                {
+                    "_id": "5bcbebdc421aa95a3aefcbb7",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/20/BostonGlobe.com/National/Images/6161d23613e84580b515a105342176f0-6161d23613e84580b515a105342176f0-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Migrants vow to re-form caravan, continue north toward US",
+                    "ts": 1540089304,
+                    "twitterid": 1053837042193444864,
+                    "url": "https://www.bostonglobe.com/news/world/2018/10/20/mexico-slowly-processes-caravan-migrants-guatemala-border/SjfRNURHCApi98RZZ656iK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcbddd4421aa9598b7196b5",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/guatamalaborder_globalnews_102018.png",
+                    "origin": "The Hill",
+                    "title": "Migrant caravan rushes Mexican border, clashes with police",
+                    "ts": 1540085940,
+                    "twitterid": 1053822930168111104,
+                    "url": "https://thehill.com/latino/412375-migrant-caravan-rushes-mexican-border-clashes-with-police"
+                },
+                {
+                    "_id": "5bcc8698421aa96c0f0401c2",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ContentBroker_contentid-cedc5ce2958848ce8b52cc81b733e38f.png",
+                    "origin": "Fox News",
+                    "title": "Migrant caravan re-forms in Mexico, members vow to reach US",
+                    "ts": 1540128193,
+                    "twitterid": 1054000152887857152,
+                    "url": "https://www.foxnews.com/world/migrant-caravan-re-forms-in-mexico-members-vow-to-reach-us"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a21",
+                    "date_month": "2018-10",
+                    "image": "https://media.newyorker.com/photos/5bca3babdaf42d0501bd427b/16:9/w_1200,h_630,c_limit/Blitzer-MigrantCaravan.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Why the Trump White House Is Having a Meltdown Over the Migrant Caravan",
+                    "ts": 1540124362,
+                    "twitterid": 1053984082827403264,
+                    "url": "https://www.newyorker.com/news/news-desk/why-the-trump-white-house-is-having-a-meltdown-over-the-migrant-caravan?mbid=social_twitter"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a0e",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/21/bcf1d87a-d379-44e2-a6f0-0eff5768795b/thumbnail/1200x630/aefecae2a12d386aba01bf4791e574e3/ap-18293753224824.jpg",
+                    "origin": "CBS News",
+                    "title": "Migrant caravan re-forms in Mexico, with members vowing to reach U.S.",
+                    "ts": 1540125913,
+                    "twitterid": 1053990588658470912,
+                    "url": "https://www.cbsnews.com/news/migrant-caravan-re-forms-in-mexico-with-members-vowing-to-reach-u-s/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bcc74d104d3013b965c306d&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bccb0c5421aa96efee9e90b",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/21/bcf1d87a-d379-44e2-a6f0-0eff5768795b/thumbnail/1200x630/aefecae2a12d386aba01bf4791e574e3/ap-18293753224824.jpg",
+                    "origin": "CBS News",
+                    "title": "Migrant caravan swells to 5,000 in Mexico, with members vowing to reach U.S.",
+                    "ts": 1540140572,
+                    "twitterid": 1054052074990829568,
+                    "url": "https://www.cbsnews.com/news/migrant-caravan-re-forms-in-mexico-with-members-vowing-to-reach-u-s/?ftag=CNM-00-10aab7e&linkId=58514552"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            39
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "New England",
+            "Chris Krebs",
+            "Mueller",
+            "Iranian",
+            "Sean Hannity",
+            "White House",
+            "NBC",
+            "Obama",
+            "China Finds",
+            "China And Brazil Woo Each Other",
+            "Define",
+            "Nowhere My",
+            "Trump",
+            "Twitter",
+            "New Terminals",
+            "Financial Firms",
+            "Doesn",
+            "Japan",
+            "Criticizes China",
+            "Catholic Group",
+            "Facebook Workaround",
+            "Rosenstein",
+            "Los Angeles",
+            "Justice Neil Gorsuch",
+            "America Is",
+            "Dear Abby",
+            "Oil Exports",
+            "American",
+            "White House Counsel",
+            "Children",
+            "Speech",
+            "Currency Practices",
+            "Media",
+            "Soccer Power Frackers Bet",
+            "Russian"
+        ],
+        "peaks": [],
+        "theme": [
+            "China",
+            "Russian",
+            "election",
+            "New",
+            "midterm",
+            "charged",
+            "closed"
+        ],
+        "timestamp": "2018-10-21 15:10:25.059065-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcbebdc421aa95a3aefcbcd",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2016/11/08/3ea70036-2d8b-4836-a79c-d71c12d97fb4/thumbnail/1200x630/38d2ee25eab733a2346c90a538f3e7a8/ap-16312551192011.jpg",
+                    "origin": "CBS News",
+                    "title": "Russian national charged with conspiracy to meddle in 2018 midterm elections",
+                    "ts": 1540087383,
+                    "twitterid": 1053828983207411712,
+                    "url": "https://www.cbsnews.com/news/russian-national-charged-with-conspiracy-to-meddle-in-2018-midterm-elections/"
+                },
+                {
+                    "_id": "5bcc4e42421aa967e547a991",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170927105813-doj-seal-06-29-2017-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Read the criminal complaint against Russian charged with election interference",
+                    "ts": 1540112822,
+                    "twitterid": 1053935681410613249,
+                    "url": "https://www.cnn.com/2018/10/19/politics/criminal-complaint-elena-alekseevna-khusyaynova-russia/index.html?utm_content=2018-10-21T09%3A07%3A01&utm_source=twCNNp&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5bcccce8421aa970b893648a",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_velshi_kent_181017_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "NBC EXCLUSIVE: How Reddit is preparing to fight midterm election interference",
+                    "ts": 1540144815,
+                    "twitterid": 1054069871456215040,
+                    "url": "https://www.msnbc.com/ali-velshi/watch/nbc-exclusive-how-reddit-is-preparing-to-fight-midterm-election-interference-1346592835751?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bcb977b421aa955e8700f4a",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181019154938-01-trump-screengrab-1019-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump: Charged Russian national 'had nothing to do with my campaign'",
+                    "ts": 1540067044,
+                    "twitterid": 1053743676034310144,
+                    "url": "https://www.cnn.com/2018/10/19/politics/trump-russian-national-charges/index.html?utm_term=image&utm_medium=social&utm_content=2018-10-20T20%3A24%3A03&utm_source=twCNNp"
+                },
+                {
+                    "_id": "5bcb8973421aa954f141ccfa",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/161026081021-russia-internet-trolls-1-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "What Twitter's massive new data dump reveals about Russian trolls",
+                    "ts": 1540063204,
+                    "twitterid": 1053727567600119808,
+                    "url": "https://www.cnn.com/2018/10/20/politics/most-popular-russian-campaign-trolls/index.html?utm_content=2018-10-20T19%3A20%3A03&utm_source=twCNN&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7dc3",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:e0c269da25a6412f8d30c2126530c5f3/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Is there interference in the 2018 US midterm elections?",
+                    "ts": 1540078189,
+                    "twitterid": 1053790420197613568,
+                    "url": "https://www.apnews.com/a6e8f261c9e2492db4258df00a18310b?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5bcc2418421aa9653d3a5fc2",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-31656/social",
+                    "origin": "Capital Journal",
+                    "title": "Justice Neil Gorsuch\u2019s Speech to Catholic Group Closed to the Media",
+                    "ts": 1540104443,
+                    "twitterid": 1053900539803717632,
+                    "url": "https://www.wsj.com/articles/justice-neil-gorsuchs-speech-to-catholic-group-closed-to-the-media-1539885310?mod=e2twp"
+                },
+                {
+                    "_id": "5bcc8698421aa96c0f0401b8",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ap18264653451658.jpg",
+                    "origin": "Fox News",
+                    "title": "House committees to interview Rosenstein behind closed doors about 'wire' comment",
+                    "ts": 1540129118,
+                    "twitterid": 1054004032593895431,
+                    "url": "https://www.foxnews.com/politics/house-committees-to-interview-rosenstein-behind-closed-doors-about-wire-comment"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed068f",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-31905/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Frackers Bet on New Terminals to Boost Oil Exports",
+                    "ts": 1540121403,
+                    "twitterid": 1053971673488257025,
+                    "url": "https://www.wsj.com/articles/frackers-bet-on-new-terminals-to-boost-oil-exports-1540119600?mod=e2tw"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74d2",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:a083b23101634e51a993820c28ccfcb0/3000.jpeg",
+                    "origin": "AP Eastern US",
+                    "title": "Winter ticks taking a toll on moose calves in New England",
+                    "ts": 1540141918,
+                    "twitterid": 1054057718745579520,
+                    "url": "https://apnews.com/b9d4152a3d6d453aa164444db6df6009?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=APEastRegion"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            33
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Wisconsin",
+            "Hard",
+            "TSA",
+            "Boston Globe",
+            "Netflix",
+            "Rockets",
+            "Jayme Closs",
+            "John Proctor",
+            "Rajon Rondo",
+            "Lakers",
+            "LA Fox News Update",
+            "LeBron James",
+            "Afghanistan",
+            "Los Angeles Lakers",
+            "Sears Made Black",
+            "Baltimore",
+            "Houston Rockets Brawl",
+            "Dorchester",
+            "Chris Paul",
+            "Babe Ruth",
+            "Bristol Airport",
+            "Marvel",
+            "Hope",
+            "Detroit",
+            "New Black",
+            "Swedish",
+            "Health Insurance Marketplace Back",
+            "Salem"
+        ],
+        "peaks": [],
+        "theme": [
+            "home",
+            "man",
+            "Lakers",
+            "Black",
+            "Cage",
+            "cancels",
+            "Closs"
+        ],
+        "timestamp": "2018-10-21 15:10:25.541483-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcba595421aa95656e5c90e",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/20/93cfe387-161a-4be7-9299-c24a7ace88d1/thumbnail/1200x630/b24581da6364e0345f5c800e6b838001/0283-tiara-203-unit-06247r.jpg",
+                    "origin": "CBS News",
+                    "title": "Netflix cancels Marvel series \"Luke Cage\"",
+                    "ts": 1540072800,
+                    "twitterid": 1053767819924520960,
+                    "url": "https://www.cbsnews.com/news/netflix-cancels-marvel-series-luke-cage-2018-10-20/?ftag=CNM-00-10aab7e&linkId=58492091"
+                },
+                {
+                    "_id": "5bcbebdc421aa95a3aefcba9",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ContentBroker_contentid-191371d6c98741be8f4535eb8e64665f.png",
+                    "origin": "Fox News",
+                    "title": "Netflix cancels Marvel's 'Luke Cage' ahead of third season",
+                    "ts": 1540090648,
+                    "twitterid": 1053842678419460096,
+                    "url": "https://www.foxnews.com/entertainment/netflix-cancels-marvels-luke-cage-ahead-of-third-season"
+                },
+                {
+                    "_id": "5bcc4035421aa96723732190",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/10/AP_18191627149361/facebook.jpg?1539777204",
+                    "origin": "The Atlantic",
+                    "title": "Letters: \u2018What Hope Does an Ordinary Black Man Have?\u2019",
+                    "ts": 1540110212,
+                    "twitterid": 1053924737137688576,
+                    "url": "https://www.theatlantic.com/letters/archive/2018/10/readers-opinion-jemele-hill-black-men-identify-with-kavanaugh/573136/"
+                },
+                {
+                    "_id": "5bcc4e42421aa967e547a988",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/42f3426e-213a-407e-acd3-d19a4e82f104-2018-10-20_LeBron1.jpg?crop=1458,820,x487,y73&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "LeBron James the brightest star among stars at Lakers home debut",
+                    "ts": 1540114204,
+                    "twitterid": 1053941480803442688,
+                    "url": "https://www.usatoday.com/story/sports/nba/lakers/2018/10/20/lebron-james-star-among-stars-lakers-home-debut-los-angeles/1718023002/"
+                },
+                {
+                    "_id": "5bcc4035421aa9672373218c",
+                    "date_month": "2018-10",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_42/2610686/181018-marvels-defenders-netflix-ac-1108p_87e53c91d13904fbd86c0d3d33386b60.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Netflix cancels 'Luke Cage' and 'Iron Fist,' jeopardizing Marvel's ambitious superhero project",
+                    "ts": 1540110799,
+                    "twitterid": 1053927198695084032,
+                    "url": "https://www.nbcnews.com/think/opinion/netflix-cancels-luke-cage-iron-fist-jeopardizing-marvel-s-ambitious-ncna922466?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bcc5c5b421aa968ba0decb1",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/lakers-rockets-fight.png",
+                    "origin": "Fox News",
+                    "title": "Fight in LeBron's home Los Angeles Lakers debut, 124-115 loss to Houston Rockets",
+                    "ts": 1540116480,
+                    "twitterid": 1053951024300519424,
+                    "url": "https://www.foxnews.com/us/fight-in-lebrons-home-los-angeles-lakers-debut-124-115-loss-to-houston-rockets"
+                },
+                {
+                    "_id": "5bcba595421aa95656e5c93a",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/15/business/20racerelated4/15sears-1-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Back When Sears Made Black Customers a Priority",
+                    "ts": 1540069264,
+                    "twitterid": 1053752985224912897,
+                    "url": "https://www.nytimes.com/2018/10/20/us/sears-jim-crow-racism-catalog.html"
+                },
+                {
+                    "_id": "5bcbf9f0421aa95be55bf5a2",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2014_30/578321/oitnb_ps2_035_h_26cdc70f8249e87879f3a2b485fa7c9e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "'Orange Is the New Black' will end after seven seasons",
+                    "ts": 1540092726,
+                    "twitterid": 1053851393897967616,
+                    "url": "https://www.nbcnews.com/pop-culture/tv/orange-new-black-will-end-after-seven-seasons-n921591?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7de6",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/20/e012e9cd-47df-486b-8dc5-5cd8c43b7414/thumbnail/1200x630/8e70056b68376790b7c2384aa9e03bc9/ap-18288563677199.jpg",
+                    "origin": "CBS News",
+                    "title": "Jayme Closs: Investigators receive 1,000 tips on missing teen",
+                    "ts": 1540076421,
+                    "twitterid": 1053783005364400128,
+                    "url": "https://www.cbsnews.com/news/jayme-closs-baron-county-wisconsin-investigators-1000-tips-missing-teen-2018-10-20/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bcbb37c04d3016093ee97cf&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bcc1609421aa95fcbaa669c",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/7be1b355-1032-4535-b00d-a8296d0d8b5a-2018-10-20_Lakers-Rockets.jpg?crop=2765,1555,x224,y145&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Wild brawl between Lakers and Rockets leads to three ejections",
+                    "ts": 1540099986,
+                    "twitterid": 1053881845081874432,
+                    "url": "https://www.usatoday.com/story/sports/nba/2018/10/21/lakers-rockets-fight-rajon-rondo-brandon-ingram-chris-paul-ejected/1718939002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            100
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Wang For",
+            "Charles",
+            "Justice Ca",
+            "New York City",
+            "Drink",
+            "Poland",
+            "Catholic",
+            "Brooklyn",
+            "West Texas",
+            "HGTV",
+            "Brian Charlson",
+            "Affair Ahed Tamimi",
+            "Tim Allen",
+            "Key",
+            "US Army",
+            "Modern Eyes Luke Bryan",
+            "Witches Wolcott",
+            "Jeff Gordon",
+            "Peter Dinklage",
+            "Laos Crowds",
+            "Keith Urban",
+            "Lena Dunham",
+            "Grouch Human",
+            "Sears Was",
+            "Secret Harmonies",
+            "LGBT",
+            "Fine Art",
+            "Ghosts",
+            "Keigwin",
+            "WBO",
+            "Margaret",
+            "Indian Cooks",
+            "Forensic Quest",
+            "Mount Athos",
+            "Himalayas",
+            "Cardi",
+            "Congress",
+            "ABC",
+            "Bay Area",
+            "New York Has",
+            "Russia Elizabeth Warren",
+            "Adam Rippon",
+            "Mississippi Beacon Hill",
+            "Medieval Legends",
+            "Washington Sketchy",
+            "Greek",
+            "MeToo",
+            "Missing Oil",
+            "Charisma Freezing",
+            "New House Look Old Rory Kennedy",
+            "New York",
+            "Cambridge",
+            "Toys",
+            "Dallas Cowboys",
+            "Iowa",
+            "Mercury",
+            "London",
+            "Doppelg\u00e4ngers",
+            "Valerie Jarrett",
+            "TED Interview",
+            "Strong",
+            "Instant Pot",
+            "Hurricane Michael",
+            "Find Survivors Of Hurricane Michael Demetrius Andrade",
+            "Herv\u00e9",
+            "Bering Sea",
+            "Gerald Schuster",
+            "NASCAR",
+            "Grouper",
+            "Florida",
+            "Alaska Natives",
+            "Met Opera",
+            "Being Safer Online Is",
+            "NASA",
+            "Paul Allen",
+            "Trump",
+            "Bill",
+            "Israel",
+            "Palestinian",
+            "Milk Carton Kids",
+            "Marnie",
+            "Catholic Church Dear",
+            "New Kid Jonathan Knight",
+            "Restaurateur Ed Kane",
+            "America",
+            "Stephen Hawking",
+            "Houston",
+            "Judy Blume"
+        ],
+        "peaks": [],
+        "theme": [
+            "New",
+            "Home",
+            "Make",
+            "Finds",
+            "give",
+            "year",
+            "fan"
+        ],
+        "timestamp": "2018-10-21 15:10:27.522254-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcc4035421aa96723732191",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "NASCAR in New York City? Jeff Gordon says 'I would give anything'",
+                    "ts": 1540110120,
+                    "twitterid": 1053924348518694912,
+                    "url": "https://www.foxnews.com/auto/nascar-in-new-york-city-jeff-gordon-says-i-would-give-anything"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74cd",
+                    "date_month": "2018-10",
+                    "image": "https://si.wsj.net/public/resources/images/B3-CB358_salvag_TOP_20181016111130.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Spending Big Bucks to Make a New House Look Old",
+                    "ts": 1540142113,
+                    "twitterid": 1054058535909277697,
+                    "url": "https://www.wsj.com/articles/spending-big-bucks-to-make-a-new-house-look-old-1539873988?mod=e2tw"
+                },
+                {
+                    "_id": "5bcbb3a9421aa9573da9450f",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_13/2378671/180327-design-interior-ac-632p_45a8c41e1ebaa40779301cb4922ea6a3.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Small home updates you can make right now that will boost your health and happiness",
+                    "ts": 1540073642,
+                    "twitterid": 1053771348370169857,
+                    "url": "https://www.nbcnews.com/better/health/small-home-updates-you-can-make-right-now-will-boost-ncna919516?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bcc322b421aa9663e45c79d",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/19/9533ad75-30b2-46f9-b7f1-99c016055203/thumbnail/1200x630/bcfafc9d5e7ff2dd120ca9020d64aa3c/screen-shot-2018-10-19-at-11-40-41-am.png",
+                    "origin": "CBS News",
+                    "title": "Keith Urban serenades gravely ill fan who couldn't make it to his concert",
+                    "ts": 1540106284,
+                    "twitterid": 1053908261878013952,
+                    "url": "https://www.cbsnews.com/news/keith-urban-fan-marissa-english-marlise-matthews-ohio-toledo/"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dfe4",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bca4d89f3227b375b3c2425-2732-1366.jpg",
+                    "origin": "Politics Insider",
+                    "title": "For some Alaska Natives, the Bering Sea and an international border make it hard to go home",
+                    "ts": 1540136103,
+                    "twitterid": 1054033328465240064,
+                    "url": "https://www.businessinsider.com/for-some-alaskans-the-bering-sea-and-border-make-it-hard-to-go-home-2018-10"
+                },
+                {
+                    "_id": "5bcccce8421aa970b893646c",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/19/m-fryd-frydendahl-1-web_wide-bfb3eae4d66aad422294d7df4c00ce3706a07725.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "M\u00d8 Finds Her Voice On 'Forever Neverland'",
+                    "ts": 1540147260,
+                    "twitterid": 1054080125120086016,
+                    "url": "https://www.npr.org/2018/10/21/658800245/m-finds-her-voice-on-forever-neverland?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2049"
+                },
+                {
+                    "_id": "5bcbc1c4421aa958627f7dbd",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2017_15/1960451/music-workout-sneakers-phone-stock_a78711bb25e573687a2069875796b368.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "5 complex exercises that will give you a full-body workout",
+                    "ts": 1540078324,
+                    "twitterid": 1053790986365739008,
+                    "url": "https://www.nbcnews.com/better/health/5-complex-exercises-will-give-you-full-body-workout-ncna918801?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed069d",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2013/04/05/BostonGlobe.com/Lifestyle/Images/165300049.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "New Kid Jonathan Knight heads to HGTV with a new pilot",
+                    "ts": 1540120463,
+                    "twitterid": 1053967730917945344,
+                    "url": "https://www.bostonglobe.com/lifestyle/names/2018/10/19/new-kid-jonathan-knight-heads-hgtv-with-new-pilot/8SU9NUpEtq3sOpQnYxNgXP/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a1d",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/10/BostonGlobe.com/Travel/Images/Lobby.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "The Row: Home sweet hotel",
+                    "ts": 1540124801,
+                    "twitterid": 1053985925980737536,
+                    "url": "https://www.bostonglobe.com/lifestyle/travel/2018/10/16/the-row-home-sweet-hotel/Isi56ivyxO4bVAf499XhCI/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcc1609421aa95fcbaa66a8",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/et-handout-keith-urban-vigil-getty.jpg",
+                    "origin": "Fox News",
+                    "title": "Keith Urban gives private hospital concert to sick fan",
+                    "ts": 1540098480,
+                    "twitterid": 1053875526731886592,
+                    "url": "https://www.foxnews.com/entertainment/keith-urban-gives-private-hospital-concert-to-sick-fan"
+                }
+            ]
+        ]
+    }
+]

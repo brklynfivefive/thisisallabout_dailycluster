@@ -1,0 +1,956 @@
+[
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Serena Williams"
+        ],
+        "peaks": [],
+        "theme": [
+            "bill",
+            "century",
+            "coming",
+            "cool",
+            "eclipse",
+            "first",
+            "house"
+        ],
+        "timestamp": "2018-07-03 03:10:12.864025-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd17",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/01/57c7726b-91e2-4a45-9bf6-b8ad768a967b/thumbnail/1200x630/1eb86a86474cb5cc19eb3d922f239e2f/gettyimages-468579970.jpg",
+                    "origin": "CBS News",
+                    "title": "Prepare for the longest lunar eclipse of the century, coming up this month",
+                    "ts": 1530561783,
+                    "twitterid": 1014011616785035264,
+                    "url": "https://www.cbsnews.com/news/start-preparing-for-the-longest-lunar-eclipse-of-the-century-coming-up-this-month-july-27-2018-south-america-africa-middle-east-asia/"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd23",
+                    "date_month": "2018-07",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_26/2481031/180628-air-conditioning-bills-summer-ac-427p_fea5865537d43bd9312ca3819a7c3862.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "How to keep your house cool without running up your utility bill",
+                    "ts": 1530560707,
+                    "twitterid": 1014007102870679554,
+                    "url": "https://www.nbcnews.com/better/business/how-keep-your-house-cool-without-running-your-utility-bill-ncna887321?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd32",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180702182249-serena-williams-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Serena Williams wins first Wimbledon match as a mom",
+                    "ts": 1530560089,
+                    "twitterid": 1014004510233120770,
+                    "url": "https://edition.cnn.com/2018/07/02/sport/serena-williams-wimbledon-day-one-spt-intl/index.html?utm_content=2018-07-03T04%3A34%3A48&utm_term=image&utm_medium=social&utm_source=twCNN"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            9
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [],
+        "peaks": [],
+        "theme": [
+            "day",
+            "love",
+            "us",
+            "alive",
+            "anything",
+            "asking",
+            "away"
+        ],
+        "timestamp": "2018-07-03 03:10:12.902921-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd2a",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "'They killed us alive by taking away our children'",
+                    "ts": 1530560407,
+                    "twitterid": 1014005845149999106,
+                    "url": "https://www.latimes.com/nation/immigration/la-na-letter-one-of-the-mothers-20180702-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd2f",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "'I'm asking God every day for us to be together again soon'",
+                    "ts": 1530560403,
+                    "twitterid": 1014005828100153344,
+                    "url": "https://www.latimes.com/nation/immigration/la-na-letter-antonia-20180702-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd28",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "'I love you despite living this nightmare'",
+                    "ts": 1530560408,
+                    "twitterid": 1014005851307175936,
+                    "url": "https://www.latimes.com/nation/immigration/la-na-letter-lesvia-20180702-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd29",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "'I've gone for 23 days without hearing anything about my son'",
+                    "ts": 1530560408,
+                    "twitterid": 1014005848253689856,
+                    "url": "https://www.latimes.com/nation/immigration/la-na-carmen-letter-20180702-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd2d",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "'I love you so much, my child. ... I'm sending you hugs'",
+                    "ts": 1530560405,
+                    "twitterid": 1014005835930800128,
+                    "url": "https://www.latimes.com/nation/immigration/la-na-letter-yenifer-20180702-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Schumer"
+        ],
+        "peaks": [],
+        "theme": [
+            "canceled",
+            "hall",
+            "heat",
+            "Schumer",
+            "takes",
+            "town"
+        ],
+        "timestamp": "2018-07-03 03:10:12.982433-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd06",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/capny/sites/default/files/a-ChuckSchumer_0.png",
+                    "origin": "POLITICO",
+                    "title": "Schumer takes heat after canceled town hall",
+                    "ts": 1530563559,
+                    "twitterid": 1014019067278254080,
+                    "url": "https://www.politico.com/story/2018/07/02/schumer-town-hall-canceled-692200"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            5
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Trump",
+            "Dutch",
+            "Commerce",
+            "Europe",
+            "EU"
+        ],
+        "peaks": [],
+        "theme": [
+            "tariffs",
+            "Trump",
+            "campaign",
+            "car",
+            "Chamber",
+            "Commerce"
+        ],
+        "timestamp": "2018-07-03 03:10:13.092646-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcfe",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/donohuethomas_011018gn5_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Chamber of Commerce launches campaign hitting Trump on tariffs: report",
+                    "ts": 1530564364,
+                    "twitterid": 1014022440438157312,
+                    "url": "http://thehill.com/homenews/administration/395119-commerce-launches-campaign-hitting-trump-on-tariffs-report"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd12",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_062918.jpg",
+                    "origin": "The Hill",
+                    "title": "EU threatens $294B in retaliatory tariffs if Trump imposes foreign car levies",
+                    "ts": 1530562262,
+                    "twitterid": 1014013626934538242,
+                    "url": "http://thehill.com/homenews/administration/395124-eu-threatens-new-retaliatory-tariffs-on-us-if-trump-imposes-foreign"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf5",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump_rutte_070218_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Dutch prime minister counters Trump on tariffs: \u2018It\u2019s not positive\u2019",
+                    "ts": 1530565866,
+                    "twitterid": 1014028740756672512,
+                    "url": "http://thehill.com/homenews/administration/395224-dutch-prime-minister-responds-to-trump-on-tariffs-its-not-positive"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            6
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Schwarzenegger",
+            "Trump",
+            "Pruitt",
+            "Obama",
+            "Michigan GOP",
+            "Service Violation Woman",
+            "ABC News",
+            "Brian Ross"
+        ],
+        "peaks": [],
+        "theme": [
+            "ABC",
+            "Brian",
+            "leaves",
+            "reporter",
+            "Ross",
+            "company",
+            "confronts"
+        ],
+        "timestamp": "2018-07-03 03:10:13.269660-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd33",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/12/05/1ddab943-df86-4779-8bc3-0831908d13a5/thumbnail/1200x630/e4ac96cdb9ab7c560a1724762b91e68e/ap-17336854223656.jpg",
+                    "origin": "CBS News",
+                    "title": "Brian Ross, ABC News investigative reporter, leaves company",
+                    "ts": 1530559982,
+                    "twitterid": 1014004064542232576,
+                    "url": "https://www.cbsnews.com/news/brian-ross-abc-news-investigative-reporter-rhonda-schwartz-producer-leaving-company-2018-07-02/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3afc7d04d3011db2368580&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd22",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/rossbrian_12417getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Brian Ross leaving ABC months after false Flynn report",
+                    "ts": 1530560766,
+                    "twitterid": 1014007350557061120,
+                    "url": "http://thehill.com/homenews/media/395208-brian-ross-leaving-abc-months-after-false-flynn-report"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf8",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pruittscott_051118getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Woman confronts Pruitt at restaurant, tells him to resign",
+                    "ts": 1530565267,
+                    "twitterid": 1014026228674826240,
+                    "url": "http://thehill.com/policy/energy-environment/395267-woman-confronts-pruitt-at-restaurant-tells-him-to-resign?__twitter_impression=true&__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            2
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Capital Gazette"
+        ],
+        "peaks": [],
+        "theme": [
+            "attack",
+            "Capital",
+            "celebrating",
+            "charged",
+            "child",
+            "death",
+            "dies"
+        ],
+        "timestamp": "2018-07-03 03:10:13.319502-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcde",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/02/26d625fb-8da2-4ce1-8a70-0bdcbe622f1d/thumbnail/1200x630g1/4286ff2015e1d1ff54169f8b2e1e0358/annapolis-shooting-2018-06-29t133536z.jpg",
+                    "origin": "CBS News",
+                    "title": "Capital Gazette received death threats, emails celebrating shooting after attack",
+                    "ts": 1530568083,
+                    "twitterid": 1014038040770174976,
+                    "url": "https://www.cbsnews.com/news/capital-gazette-shooting-annapolis-maryland-newspaper-received-death-threats-emails-celebrating-rampage-after-attack/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3b1c2104d3010ca77dd172&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fce1",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/policelinetape11032017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Man charged with murder after child dies following stabbing attack on refugees",
+                    "ts": 1530567662,
+                    "twitterid": 1014036276805296130,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395244-man-charged-with-murder-after-child-dies-following-stabbing?rnd=1530565028&__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            9
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Michelle Wolf",
+            "Obama",
+            "Supreme Court",
+            "GOP",
+            "ICE",
+            "Susan Collins",
+            "Ivanka Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Court",
+            "Supreme",
+            "Democratic",
+            "Republicans",
+            "senator",
+            "abort"
+        ],
+        "timestamp": "2018-07-03 03:10:13.692518-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fceb",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/vbEAHZF4w99t_WZCXfmNTzLd8NM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TOCXSGEJTY73TADB53BSPPFHGQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "The Supreme Court vacancy is perilous for Republicans",
+                    "ts": 1530566822,
+                    "twitterid": 1014032752419704832,
+                    "url": "https://www.washingtonpost.com/blogs/post-partisan/wp/2018/07/02/the-supreme-court-vacancy-is-perilous-for-republicans/?utm_term=.bf9a1c1ccce6&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd07",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/donaldtrump_06202018_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump: Democratic voters will support Republicans because of ICE criticism",
+                    "ts": 1530563468,
+                    "twitterid": 1014018684636016640,
+                    "url": "http://thehill.com/homenews/administration/395292-trump-democratic-voters-will-support-republicans-because-of-criticism"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd09",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/9d/31/cad1e22b49cc870d5ec35a778670/180702supremecourtgettyimages-985658122.jpg",
+                    "origin": "POLITICO",
+                    "title": "How Amy Coney Barrett vaulted onto Trump\u2019s Supreme Court shortlist",
+                    "ts": 1530562998,
+                    "twitterid": 1014016711064944640,
+                    "url": "https://www.politico.com/story/2018/07/02/justice-barrett-amy-coney-feinstein-692199"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd26",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/schumercharles_062818gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Schumer: Senate could force Trump to nominate moderate Supreme Court pick",
+                    "ts": 1530560464,
+                    "twitterid": 1014006084619694086,
+                    "url": "http://thehill.com/homenews/senate/395152-schumer-senate-could-force-trump-to-nominate-moderate-supreme-court-pick"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd34",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/collinssusan_kingangus_021518gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Pro-abortion rights activists sending coat hangers to GOP senator: report",
+                    "ts": 1530559867,
+                    "twitterid": 1014003578833424384,
+                    "url": "http://thehill.com/homenews/senate/395289-abortion-activists-sending-coat-hangers-to-gop-senator"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd19",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/wolfmichelle_02222018hbo.jpg",
+                    "origin": "The Hill",
+                    "title": "Michelle Wolf compares Ivanka Trump to herpes",
+                    "ts": 1530561664,
+                    "twitterid": 1014011116928884736,
+                    "url": "http://thehill.com/homenews/administration/395129-michelle-wolf-compares-ivanka-trump-to-an-std"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "New"
+        ],
+        "peaks": [],
+        "theme": [
+            "acting",
+            "agency",
+            "continues",
+            "criticized",
+            "head",
+            "ICE",
+            "named"
+        ],
+        "timestamp": "2018-07-03 03:10:13.730476-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd1e",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/ce/c7/1a460d97495bb821766b87da8dbb/180630actingicegettyimages-886264970.jpg",
+                    "origin": "POLITICO",
+                    "title": "New acting ICE head named as agency continues to be criticized",
+                    "ts": 1530561281,
+                    "twitterid": 1014009512582402049,
+                    "url": "https://www.politico.com/story/2018/06/30/new-ice-director-ronald-vitiello-689504"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            5
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Run II",
+            "Kaley Cuoco",
+            "Resort",
+            "Washington",
+            "Beyonc\u00e9"
+        ],
+        "peaks": [],
+        "theme": [
+            "Bang",
+            "beyonc",
+            "Big",
+            "class",
+            "cooking",
+            "cool",
+            "Cuoco"
+        ],
+        "timestamp": "2018-07-03 03:10:13.896153-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd20",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/02/4aced0be-f35c-466c-a18a-780472aacc47/thumbnail/1200x630g2/50a349a1d0e5aaf7ea48fd0aed6e1081/screen-shot-2018-07-02-at-1-17-26-pm.png",
+                    "origin": "CBS News",
+                    "title": "\"Big Bang Theory\" star gives sweet shoutout to \"fake wife\" Kaley Cuoco on her wedding day",
+                    "ts": 1530560885,
+                    "twitterid": 1014007848370692096,
+                    "url": "https://www.cbsnews.com/news/big-bang-theory-star-johnny-galecki-gives-sweet-shoutout-to-fake-wife-kaley-cuoco-on-her-wedding-day/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3b000104d301273cd2031d&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd40",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/28/BostonGlobe.com/Lifestyle/Images/NeceeRegis_04italycook_17_art.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Resort\u2019s Tuscany cooking class has all the right ingredients",
+                    "ts": 1530558823,
+                    "twitterid": 1013999202576273408,
+                    "url": "https://www.bostonglobe.com/lifestyle/food-dining/2018/07/02/resort-tuscany-cooking-class-has-all-right-ingredients/6MZTVgFlMQKz3SRhyVFmRO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcea",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/02/BostonGlobe.com/Metro/Images/Clipboard-17574.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Here\u2019s a cool thought: There\u2019s still snow on Mt. Washington",
+                    "ts": 1530567007,
+                    "twitterid": 1014033526889512960,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/02/here-cool-thought-there-still-snow-washington/IZwpH8GIClrI47PGe3tEEO/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Trump",
+            "Iran",
+            "Obama",
+            "Home Detention For Sex Abuse",
+            "LeBron James",
+            "LA Times How",
+            "Australian Archbishop",
+            "Cleveland"
+        ],
+        "peaks": [],
+        "theme": [
+            "family",
+            "home",
+            "official",
+            "Trump",
+            "Abuse",
+            "administration",
+            "agenda"
+        ],
+        "timestamp": "2018-07-03 03:10:14.138546-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd1d",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/O4ikhz05fyuwYEE3luhsiKvOEok=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JTPQG7TIGII6RPVHZDVSRPCSWE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump\u2019s economic agenda is unfocused. Here\u2019s how to fix it.",
+                    "ts": 1530561284,
+                    "twitterid": 1014009522069831680,
+                    "url": "https://www.washingtonpost.com/opinions/trumps-economic-agenda-is-unfocused-heres-how-to-fix-it/2018/07/02/3483400a-7a2b-11e8-93cc-6d3beccdd7a3_story.html?utm_term=.9d7400c82073&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fced",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/03/ap_18184052879643_wide-ee3634377eab267472fe30afa1d8ecb3fa04a20e.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Australian Archbishop Sentenced To Home Detention For Sex Abuse Cover-Up",
+                    "ts": 1530566754,
+                    "twitterid": 1014032465336283136,
+                    "url": "https://www.npr.org/2018/07/03/625524819/australian-archbishop-sentenced-to-home-detention-for-sex-abuse-cover-up?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd03",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/ice_immigration_2.jpg",
+                    "origin": "The Hill",
+                    "title": "Anonymous man saves family\u2019s home after parents are deported: report",
+                    "ts": 1530563765,
+                    "twitterid": 1014019929438326785,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395201-anonymous-man-saves-a-familys-home-after-parents-are-deported"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd24",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/02/obama-administration-granted-citizenship-to-2500-iranians-during-nuclear-deal-iran-official/_jcr_content/image.img.jpg/0/0/1530545117523.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Obama administration granted citizenship to 2,500 Iranians during nuclear deal: Iran official",
+                    "ts": 1530560700,
+                    "twitterid": 1014007074227933186,
+                    "url": "http://www.foxnews.com/politics/2018/07/02/obama-administration-granted-citizenship-to-2500-iranians-during-nuclear-deal-iran-official.html"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf4",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/a0/3e/6d8f94684617a0cbf2304f7838bd/180702-alex-azar-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "As deadline looms, Trump officials struggle to reunite migrant families",
+                    "ts": 1530565884,
+                    "twitterid": 1014028815474020352,
+                    "url": "https://www.politico.com/story/2018/07/02/separated-families-border-children-reunite-664674"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Bahamas",
+            "American",
+            "Detroit",
+            "Immigration Rally",
+            "New Mexico",
+            "Tennessee",
+            "Gun",
+            "DNA",
+            "Fugitive",
+            "Rodan"
+        ],
+        "peaks": [],
+        "theme": [
+            "woman",
+            "charged",
+            "found",
+            "Gun",
+            "American",
+            "approached",
+            "Arrested"
+        ],
+        "timestamp": "2018-07-03 03:10:14.247091-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd0c",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/03/08/239a28c1-d2bd-4913-a1a3-21f2a3a62400/thumbnail/1200x630/77cd5d280e53e8efc3187efcc708bb00/jacob-gonzales.jpg",
+                    "origin": "CBS News",
+                    "title": "Fugitive charged with murder in woman's decapitation after DNA found on samurai sword",
+                    "ts": 1530562683,
+                    "twitterid": 1014015390622601217,
+                    "url": "https://www.cbsnews.com/news/fugitive-charged-with-murder-in-womans-decapitation-after-dna-found-on-samurai-sword/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3b070904d301433b18e66c&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd3a",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/07/02/american-killed-in-bahamas-boat-explosion-idd-as-tennessee-woman/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1530574375383.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "American killed in Bahamas boat explosion ID'd as Tennessee woman",
+                    "ts": 1530559380,
+                    "twitterid": 1014001536907685888,
+                    "url": "http://www.foxnews.com/us/2018/07/02/american-killed-in-bahamas-boat-explosion-idd-as-tennessee-woman.html"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd36",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b3b05ac/turbine/ct-met-police-shooting-20180702",
+                    "origin": "Chicago Tribune",
+                    "title": "Police: Officer shoots, seriously injures male who approached him with gun",
+                    "ts": 1530559578,
+                    "twitterid": 1014002366658510848,
+                    "url": "http://www.chicagotribune.com/news/local/breaking/ct-met-police-shooting-20180702-story.html"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd3d",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/03/us/03xp-alabama/merlin_140650515_45e5927b-16cd-42ad-a60b-85a3f342f35d-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Man Who Waved Gun and Yelled \u2018Womp Womp\u2019 Arrested at Immigration Rally",
+                    "ts": 1530559024,
+                    "twitterid": 1014000043538427905,
+                    "url": "https://www.nytimes.com/2018/07/02/us/gun-immigration-protest-womp-womp.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcee",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/poolpatrolpaula_facebook.png",
+                    "origin": "The Hill",
+                    "title": "Rodan + Fields fires white woman charged with assaulting black teen at pool",
+                    "ts": 1530566465,
+                    "twitterid": 1014031255204179968,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/395177-rodan-fields-fires-white-woman-charged-with-assaulting-black-teen-at?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fce0",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/3154d4b094905d90c7d29928c67eb2018f3d7902/c=0-26-2400-1382/local/-/media/2017/08/22/DetroitFreeP/DetroitFreePress/636390097886989460-crime-scene-tape.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Detroit mother found living with daughter's dead body for 8 months",
+                    "ts": 1530567818,
+                    "twitterid": 1014036928709185536,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/07/02/detroit-mother-daughter-dead-body/753341002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            2
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Golden State Warriors Nunes",
+            "DeMarcus Cousins",
+            "NBA",
+            "LeBron",
+            "California"
+        ],
+        "peaks": [],
+        "theme": [
+            "Brace",
+            "California",
+            "Cousins",
+            "DeMarcus",
+            "Golden",
+            "joining",
+            "LeBron"
+        ],
+        "timestamp": "2018-07-03 03:10:14.296304-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf3",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/2f470263022cd4bb1303e7803bc0a3c4df09a9c1/c=0-173-2556-1617/local/-/media/2018/07/02/USATODAY/USATODAY/636661646426970374-demarcus-cousins-warriors.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "NBA reacts to DeMarcus Cousins joining the Golden State Warriors",
+                    "ts": 1530566104,
+                    "twitterid": 1014029739391152128,
+                    "url": "https://www.usatoday.com/story/sports/nba/2018/07/02/demarcus-cousins-warriors-nba-reaction/753599002/"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf9",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/jameslebron12072016getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Nunes to LeBron: Brace yourself for California's taxes",
+                    "ts": 1530564962,
+                    "twitterid": 1014024951119142912,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/395276-nunes-to-lebron-brace-yourself-for-californias-taxes"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Bush",
+            "Clinton",
+            "Facebook"
+        ],
+        "peaks": [],
+        "theme": [
+            "ads",
+            "block",
+            "Bush",
+            "businesses",
+            "Clinton",
+            "Facebook",
+            "name"
+        ],
+        "timestamp": "2018-07-03 03:10:14.325240-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd1c",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/facebook_052617getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Facebook's new political rules block ads for businesses with Bush, Clinton in name",
+                    "ts": 1530561366,
+                    "twitterid": 1014009866984321025,
+                    "url": "http://thehill.com/policy/technology/395236-facebooks-new-political-rules-block-ads-for-bushs-beans-businesses-in"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            44
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "John",
+            "Obama",
+            "Texas",
+            "Coffee",
+            "Michigan",
+            "Russia",
+            "Associated",
+            "Fox News",
+            "Mexican",
+            "Puerto Ricans",
+            "US",
+            "Scott",
+            "Harvey Weinstein",
+            "Financial",
+            "Capital Gazette",
+            "Trump American",
+            "Mueller",
+            "Gateway Arch Museum Hope Solo",
+            "L\u00f3pez Obrador",
+            "Nelson Trump",
+            "Ron Paul",
+            "Manafort",
+            "Business",
+            "Florida",
+            "Roseanne Barr",
+            "Dummies",
+            "DIY",
+            "Video Boston",
+            "Global Warming",
+            "World News",
+            "NYC",
+            "Jared Kushner",
+            "Cave",
+            "Economic News",
+            "Thailand Found Alive",
+            "Annapolis",
+            "FBI",
+            "Pruitt",
+            "Wall Street Journal",
+            "Cleveland",
+            "UFO",
+            "Michael Cohen"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "faces",
+            "killed",
+            "May",
+            "Administration",
+            "alive",
+            "allegedly"
+        ],
+        "timestamp": "2018-07-03 03:10:15.003644-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf0",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/giraffe.png",
+                    "origin": "The Hill",
+                    "title": "American hunter faces outrage after taking photo with killed giraffe",
+                    "ts": 1530566165,
+                    "twitterid": 1014029994098651136,
+                    "url": "http://thehill.com/homenews/395156-american-hunter-faces-outrage-after-taking-photo-with-dead-rare-giraffe-she-killed?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd0d",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/kushnerjared_030218getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Comedian who allegedly prank-called Trump: If I duped Jared Kushner, so did the Russians",
+                    "ts": 1530562562,
+                    "twitterid": 1014014884105936896,
+                    "url": "http://thehill.com/homenews/news/395220-comedian-who-allegedly-prank-called-trump-if-i-duped-jared-kushner-so-did-the"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd16",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180628170556-charles-rettig-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump IRS nominee owns property at Trump-branded hotel",
+                    "ts": 1530561845,
+                    "twitterid": 1014011875384877056,
+                    "url": "https://edition.cnn.com/2018/06/28/politics/trump-irs-nominee-charles-rettig/index.html?sr=twCNNp062818trump-irs-nominee-charles-rettig0503PMStory&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd1f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/ronpaulfilephoto.jpg",
+                    "origin": "The Hill",
+                    "title": "Ron Paul tweets racist cartoon, faces backlash",
+                    "ts": 1530561066,
+                    "twitterid": 1014008611415166976,
+                    "url": "http://thehill.com/homenews/house/395176-ron-paul-tweets-racist-cartoon-faces-backlash"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd13",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/cavethailand_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Missing boys soccer team found alive in Thailand cave",
+                    "ts": 1530561962,
+                    "twitterid": 1014012368324644864,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/395199-missing-thai-soccer-team-found-alive-after-10-days-of-searching"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd05",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/02/584acb2f-c39f-4d14-b3b9-08158e4b66a3/thumbnail/1200x630/dd8b516b910640fd67ead7e7e2ebc62e/antonio-halili-ap-18183309567303.jpg",
+                    "origin": "CBS News",
+                    "title": "Mayor known for humiliating drug suspects killed by sniper",
+                    "ts": 1530563584,
+                    "twitterid": 1014019170021924864,
+                    "url": "https://www.cbsnews.com/news/philippines-mayor-antonio-halili-tanauan-shot-sniper-drug-suspects-walks-shame/"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf2",
+                    "date_month": "2018-07",
+                    "image": "http://m.wsj.net/video/20180702/070218_thairescue_2/070218_thairescue_2_1280x720.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Missing Boys in Thailand Found Alive in Cave After 10 Days",
+                    "ts": 1530566104,
+                    "twitterid": 1014029741291077633,
+                    "url": "https://www.wsj.com/video/missing-boys-in-thailand-found-alive-in-cave-after-10-days/0CC9C11F-2A2F-4115-AAC5-49226EFC1FFB.html?mod=e2tw"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcfb",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/02/ap_18074578109969_wide-311211a11263504f0a83e6c74f2547b39d895da2.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Federal Judge Orders Administration To End Arbitrary Detention Of Asylum-Seekers",
+                    "ts": 1530564710,
+                    "twitterid": 1014023895337189377,
+                    "url": "https://www.npr.org/2018/07/02/625504723/federal-judge-orders-administration-to-end-arbitrary-detention-of-asylum-seekers?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcfc",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/cleveland.jpg",
+                    "origin": "The Hill",
+                    "title": "FBI arrests man who allegedly planned to bomb July 4 event in Cleveland",
+                    "ts": 1530564664,
+                    "twitterid": 1014023700470030336,
+                    "url": "http://thehill.com/homenews/news/395153-fbi-man-planned-to-explode-van-in-cleveland-on-july-4"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcef",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/06/19/c7ca6096-19da-41e7-9ece-282beac39643/thumbnail/1200x630/84a6a6cc46fbd6f3f03f2b19cf96e7dd/ap-18170612972825.jpg",
+                    "origin": "CBS News",
+                    "title": "The Fox News employees hired by Trump",
+                    "ts": 1530566283,
+                    "twitterid": 1014030490083430400,
+                    "url": "https://www.cbsnews.com/news/fox-news-employees-hired-by-trump/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3b151904d3017531bfe6e5&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    }
+]

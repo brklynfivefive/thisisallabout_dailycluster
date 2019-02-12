@@ -1,0 +1,2053 @@
+[
+    {
+        "list": [
+            12
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Utah",
+            "DOJ Trump",
+            "U.S.",
+            "OPEC",
+            "Sessions",
+            "NY Daily News",
+            "Scott Pruitt",
+            "Pruitt",
+            "Trump",
+            "EPA",
+            "America Right"
+        ],
+        "peaks": [],
+        "theme": [
+            "Pruitt",
+            "Trump",
+            "gas",
+            "Scott",
+            "help",
+            "little",
+            "oil"
+        ],
+        "timestamp": "2018-07-05 11:10:21.387163-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3d43ae421aa912f7b60e0b",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_supremecourt_070318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump says OPEC doing 'little' to help rising gas prices",
+                    "ts": 1530739866,
+                    "twitterid": 1014622653515272193,
+                    "url": "http://thehill.com/policy/energy-environment/395529-trump-says-opec-doing-little-to-help-rising-gas-prices"
+                },
+                {
+                    "_id": "5b3d6dd5421aa91839029fe3",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/04/0/0/694940094001_5805429153001_5805450714001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump slams OPEC on Twitter over gas prices, says cartel is 'doing little to help'",
+                    "ts": 1530749782,
+                    "twitterid": 1014664246762901504,
+                    "url": "http://www.foxnews.com/politics/2018/07/04/trump-slams-opec-on-twitter-over-gas-prices-says-cartel-is-doing-little-to-help.html"
+                },
+                {
+                    "_id": "5b3e32c3421aa932c16030e6",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/aefac223310842aacd5909d01f63166b-5000-3393-70-8-napruitt7.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+                    "origin": "Washington Post",
+                    "title": "The Energy 202: Scott Pruitt likes snail mail \u2014 just like Trump",
+                    "ts": 1530802713,
+                    "twitterid": 1014886254683488258,
+                    "url": "https://www.washingtonpost.com/news/powerpost/paloma/the-energy-202/2018/07/05/the-energy-202-scott-pruitt-likes-snail-mail-just-like-trump/5b3b8d041b326b3348addccd/?utm_term=.4ad131e7e43e&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3d89e6421aa91df978afde",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/B_BLK_MIX_frame_2451.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "All of Scott Pruitt's scandals, from the beginning",
+                    "ts": 1530757806,
+                    "twitterid": 1014697900260184065,
+                    "url": "https://www.msnbc.com/all-in/watch/all-of-scott-pruitt-s-scandals-from-the-beginning-1269644355648?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b3d277f421aa91195258334",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/06/af/0b22c98d4a5aa87f09511d368706/scott-pruitt.jpg",
+                    "origin": "POLITICO",
+                    "title": "Utah oil drillers won pollution break from Pruitt",
+                    "ts": 1530733745,
+                    "twitterid": 1014596981522493440,
+                    "url": "https://www.politico.com/story/2018/07/03/utah-oil-drillers-won-pollution-break-after-pruitt-joined-epa-666916"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1f6",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pruittscott_060818gn7_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "New emails reveal Pruitt exempted Utah oil companies from smog rules",
+                    "ts": 1530725582,
+                    "twitterid": 1014562742521430016,
+                    "url": "http://thehill.com/policy/energy-environment/395397-new-emails-reveal-pruitt-exempted-utah-oil-companies-from-smog"
+                },
+                {
+                    "_id": "5b3d5fc4421aa91543476389",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/93c9c7c2e3eece812c7592b278d3ba63e5436898.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "\u2018There\u2019s No Happier Person in America Right Now Than Scott Pruitt\u2019",
+                    "ts": 1530745223,
+                    "twitterid": 1014645123207106565,
+                    "url": "https://newrepublic.com/article/149488/theres-no-happier-person-america-right-now-scott-pruitt"
+                },
+                {
+                    "_id": "5b3d43ae421aa912f7b60e03",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/c6/4c/05c35881474ab7280d2f7adf198b/180703-pruitt-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Pruitt denies he urged Trump to dump Sessions, install him at DOJ",
+                    "ts": 1530740404,
+                    "twitterid": 1014624913532116992,
+                    "url": "https://www.politico.com/story/2018/07/03/pruitt-sessions-trump-attorney-general-693627"
+                },
+                {
+                    "_id": "5b3d3594421aa91244eda557",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/01/RTX22LOV-1024x731.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "The U.S. natural gas industry is leaking way more methane than previously thought",
+                    "ts": 1530738001,
+                    "twitterid": 1014614832920834048,
+                    "url": "https://www.pbs.org/newshour/science/the-u-s-natural-gas-industry-is-leaking-way-more-methane-than-previously-thought"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a38e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/nydn_0.jpg",
+                    "origin": "The Hill",
+                    "title": "NY Daily News mocks Trump as a 'clown' on Independence Day",
+                    "ts": 1530719347,
+                    "twitterid": 1014536590704697345,
+                    "url": "http://thehill.com/homenews/media/395490-ny-daily-news-mocks-trump-as-a-clown-on-independence-day"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            62
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Florida",
+            "Boston Marathon",
+            "WhatsApp Led",
+            "Puerto Ricans",
+            "Tech Companies Win Reprieve",
+            "Poland",
+            "U.S.",
+            "Kenmore Square",
+            "Cruz How Conservatives",
+            "Maria",
+            "Accidental Americans",
+            "Kentucky Britain",
+            "Independence",
+            "Todashev",
+            "India Says Rumors About Child",
+            "Mob Killings Facebook",
+            "Ethiopia",
+            "Australia",
+            "Service Violation Hawaii",
+            "Fourth",
+            "EU",
+            "Moscow",
+            "California",
+            "Brexit Dilemma",
+            "Trump",
+            "Marty Walsh",
+            "Washington",
+            "ABC News Big Business Keeps",
+            "Hard",
+            "Texas",
+            "Wrong Statue",
+            "Massachusetts Kentucky",
+            "Merrimack Valley",
+            "Congress",
+            "Liberty",
+            "MBTA",
+            "Supreme Court",
+            "EU Parliament Delays Copyright Law Felons",
+            "Obamacare",
+            "US Postal",
+            "Nazi",
+            "Kim Dotcom",
+            "Great Barrier Reef",
+            "Venezuela",
+            "Democrats Obamacare"
+        ],
+        "peaks": [],
+        "theme": [
+            "Independence",
+            "court",
+            "law",
+            "avoid",
+            "Declaration",
+            "Dotcom",
+            "eu"
+        ],
+        "timestamp": "2018-07-05 11:10:23.048990-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3d3594421aa91244eda584",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/02/BostonGlobe.com/EditorialOpinion/Images/DEC%20CROP-11321-MGNC.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "The Declaration of Independence",
+                    "ts": 1530734632,
+                    "twitterid": 1014600704261017600,
+                    "url": "https://www.bostonglobe.com/opinion/2018/07/04/the-declaration-independence/G0aPXKpee3C6S7679hX0WI/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3d89e6421aa91df978afd2",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/04/AP_230704011_s1741x2048.jpg?b59e6e32257e92bb2515bcb49bdb3d8dd9c3b890",
+                    "origin": "The Washington Times",
+                    "title": "Facebook flags Declaration of Independence as hate speech",
+                    "ts": 1530758732,
+                    "twitterid": 1014701785393614849,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/4/facebook-flags-declaration-independence-hate-speec/"
+                },
+                {
+                    "_id": "5b3dde33421aa9264fdf75e5",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2012/06/28/bfdfe041-a644-11e2-a3f0-029118418759/thumbnail/1200x630/b284889cc370f7878e3e723596454aff/kim_dotcom_139468828.JPG",
+                    "origin": "CBS News",
+                    "title": "Kim Dotcom loses latest appeal to avoid extradition to U.S.",
+                    "ts": 1530779584,
+                    "twitterid": 1014789242965413888,
+                    "url": "https://www.cbsnews.com/news/kim-dotcom-loses-latest-appeal-to-avoid-extradition-to-us-megaupload-2018-07-05/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3dd7be04d301732962fdf0&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3e1690421aa9301cebc666",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Technology/WireAP_3fa28960382141428ff87fcb0185ee68_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Kim Dotcom loses latest legal bid to avoid US extradition",
+                    "ts": 1530795607,
+                    "twitterid": 1014856449741205504,
+                    "url": "https://abcnews.go.com/Technology/wireStory/kim-dotcom-loses-latest-legal-bid-avoid-us-56372560?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b3e087c421aa929f3e0e8fe",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/04/New_Zealand_Kim_Dotcom_47935.jpg-b6a70_s2048x1580.jpg?d1695b32eabc7bb634b2081ce8ed5edbb838ed41",
+                    "origin": "The Washington Times",
+                    "title": "Kim Dotcom loses latest legal bid to avoid U.S. extradition",
+                    "ts": 1530789052,
+                    "twitterid": 1014828956657299461,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/5/kim-dotcom-loses-latest-legal-bid-avoid-us-extradi/"
+                },
+                {
+                    "_id": "5b3e087c421aa929f3e0e8f5",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16921/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Tech Companies Win Reprieve as EU Parliament Delays Copyright Law",
+                    "ts": 1530790211,
+                    "twitterid": 1014833819298488321,
+                    "url": "https://www.wsj.com/articles/tech-companies-win-reprieve-as-eu-parliament-delays-copyright-law-1530787465?mod=e2tw"
+                },
+                {
+                    "_id": "5b3e1690421aa9301cebc67e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/internet_061918gn.jpg",
+                    "origin": "The Hill",
+                    "title": "EU votes to block controversial copyright law that would ban memes",
+                    "ts": 1530793746,
+                    "twitterid": 1014848644648980482,
+                    "url": "http://thehill.com/policy/technology/395564-eu-votes-to-block-controversial-copyright-law-that-would-ban-memes"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1c0",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/04/Poland_Judiciary_85733.jpg-b3061_s2048x1478.jpg?2105cf7309b9b157b0aa79b1f17a59bef46fb4f9",
+                    "origin": "The Washington Times",
+                    "title": "Poland's isolation deepens as Supreme Court law takes effect",
+                    "ts": 1530730610,
+                    "twitterid": 1014583831905566720,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/4/polands-isolation-deepens-supreme-court-law-takes-/"
+                },
+                {
+                    "_id": "5b3e32c3421aa932c160311e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/facebook_032818gn.jpg",
+                    "origin": "The Hill",
+                    "title": "Facebook apologizes to Texas newspaper for part of Declaration of Independence being labeled hate speech",
+                    "ts": 1530799625,
+                    "twitterid": 1014873303742320641,
+                    "url": "http://thehill.com/policy/technology/395583-facebook-apologizes-for-labeling-part-of-declaration-of-independence-as"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1ea",
+                    "date_month": "2018-07",
+                    "image": "https://www.politico.eu/wp-content/uploads/2018/07/GettyImages-893372334-1200x628.jpg",
+                    "origin": "POLITICO",
+                    "title": "\u2018Accidental Americans\u2019 ask Trump for independence",
+                    "ts": 1530726544,
+                    "twitterid": 1014566776942755840,
+                    "url": "https://www.politico.eu/article/accidental-americans-ask-donald-trump-for-independence/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            33
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Random Uppercase Letters",
+            "Top House Democrat Steny Hoyer",
+            "U.S.",
+            "VOA",
+            "Trump Gears Up",
+            "Leo Sarkisian",
+            "Perfect Way",
+            "Modern Kansas City",
+            "House Minority Whip Steny Hoyer",
+            "Alan Dershowitz",
+            "New York Asians Feel Overlooked Trump",
+            "Oakland Ghost Ship Fire",
+            "FBI",
+            "Sandy Hook",
+            "Twitter",
+            "American",
+            "Fourth",
+            "Double Trouble",
+            "Supreme Court Houston",
+            "Tiananmen Square",
+            "Oust Democrats",
+            "AP",
+            "Martha",
+            "Alex Jones",
+            "Trump Baby",
+            "Capital Importance Hoyer",
+            "James Woods",
+            "London",
+            "Donald J. Trump",
+            "Steny Hoyer",
+            "Retirement Steve Daines",
+            "Donald Trump",
+            "Michael Cohen",
+            "Battle",
+            "Mike Lee",
+            "Houston Democratic",
+            "Golf Trump",
+            "Maryland",
+            "Russia Sadiq Khan",
+            "Vineyard",
+            "Africa"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "hospitalized",
+            "Hoyer",
+            "July",
+            "pneumonia",
+            "Donald",
+            "Steny"
+        ],
+        "timestamp": "2018-07-05 11:10:23.613971-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3d3594421aa91244eda576",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2012/12/27/hoyer_20121227_006_s2048x1363.jpg?1946be959bcee102c0178b07375ff51b51dad97f",
+                    "origin": "The Washington Times",
+                    "title": "Steny Hoyer hospitalized with pneumonia",
+                    "ts": 1530735470,
+                    "twitterid": 1014604217120673792,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/4/steny-hoyer-hospitalized-pneumonia/"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e514",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/D4gOaTiiVQ14O8mAg2xwXJTilPA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KNSQOBXTTII6NH5RFWHT7SOA5U.jpg",
+                    "origin": "Washington Post",
+                    "title": "Maryland Rep. Steny Hoyer hospitalized with pneumonia",
+                    "ts": 1530796771,
+                    "twitterid": 1014861331198038016,
+                    "url": "https://www.washingtonpost.com/local/md-politics/maryland-rep-steny-hoyer-hospitalized-with-pneumonia/2018/07/04/777d5fce-7fbe-11e8-b0ef-fffcabeff946_story.html?utm_term=.29510c71be53&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3d3594421aa91244eda55b",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/04/house-minority-whip-steny-hoyer-hospitalized-with-pneumonia/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1530732158312.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "House Minority Whip Steny Hoyer hospitalized with pneumonia",
+                    "ts": 1530737829,
+                    "twitterid": 1014614111177662464,
+                    "url": "http://www.foxnews.com/politics/2018/07/04/house-minority-whip-steny-hoyer-hospitalized-with-pneumonia.html"
+                },
+                {
+                    "_id": "5b3d51a8421aa9139c2e1460",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/stenyhoyer-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Democratic Rep. Steny Hoyer, 79, hospitalized with pneumonia",
+                    "ts": 1530745201,
+                    "twitterid": 1014645030252769280,
+                    "url": "https://www.pbs.org/newshour/politics/democratic-rep-steny-hoyer-79-hospitalized-with-pneumonia"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1e5",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/c8/0a/2994f4b9448d8aedb882986e9baa/180704-steny-hoyer-gettyimages-973240678.jpg",
+                    "origin": "POLITICO",
+                    "title": "Hoyer hospitalized with pneumonia",
+                    "ts": 1530727086,
+                    "twitterid": 1014569052193292288,
+                    "url": "https://www.politico.com/story/2018/07/04/steny-hoyer-hospitalized-pneumonia-694785"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1c2",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/hoyersteny_061318gn3_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Hoyer hospitalized after pneumonia diagnosis",
+                    "ts": 1530730386,
+                    "twitterid": 1014582895170736129,
+                    "url": "http://thehill.com/homenews/house/395519-hoyer-hospitalized-after-pneumonia-diagnosis"
+                },
+                {
+                    "_id": "5b3d6dd5421aa91839029fe9",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2015/11/01/73782c8b-0ed5-4c6d-ae1a-64ce6f97b258/thumbnail/1200x630/373ea645ca3d6cd11f58077efa832e3f/20151101cruftn6786.jpg",
+                    "origin": "CBS News",
+                    "title": "Top House Democrat Steny Hoyer hospitalized",
+                    "ts": 1530749385,
+                    "twitterid": 1014662580919586819,
+                    "url": "https://www.cbsnews.com/news/top-house-democrat-steny-hoyer-hospitalized/?ftag=CNM-00-10aab7e&linkId=53878414"
+                },
+                {
+                    "_id": "5b3d6dd5421aa91839029fc6",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2016/10/25/8c869340-5c9a-4a5f-a40f-1672617c113c/thumbnail/1200x630/eae2f6e9dc89277c5fac17a8efb2b780/rtx2qa52.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump wishes U.S. a happy Fourth of July",
+                    "ts": 1530751793,
+                    "twitterid": 1014672682724577280,
+                    "url": "https://www.cbsnews.com/news/trump-wishes-u-s-a-happy-fourth-of-july/?ftag=CNM-00-10aab7e&linkId=53878531"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e4ed",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2014/09/14/441948e433beae245f0f6a706700c4ef_s2048x1356.jpg?cf0e5d8af236a0e39998547046f4fe15d7a7f177",
+                    "origin": "The Washington Times",
+                    "title": "Steve Daines: Donald Trump understands the need for dialogue with Russia",
+                    "ts": 1530799143,
+                    "twitterid": 1014871280124878849,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/5/steve-daines-donald-trump-understands-the-need-for/"
+                },
+                {
+                    "_id": "5b3d7bda421aa91b15212467",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/04/0/0/694940094001_5805429445001_5805460209001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump says military keeps US 'safe, strong, proud' at July 4 festivities",
+                    "ts": 1530753833,
+                    "twitterid": 1014681235522818048,
+                    "url": "http://www.foxnews.com/politics/2018/07/04/trump-says-military-keeps-us-safe-strong-proud-at-july-4-festivities.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            106
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Closer Trump",
+            "RNC",
+            "Democratic Party Ben Shapiro Responds",
+            "Abolish",
+            "Maxine Waters",
+            "Nebraska",
+            "Los Angeles",
+            "Putin",
+            "American Exceptionalism Senate",
+            "Michael Avenatti",
+            "US",
+            "DNC",
+            "London",
+            "Brexit",
+            "Congress",
+            "Trump Black",
+            "Intel Dem",
+            "Supreme Court",
+            "Party Has No Future",
+            "Pompeo",
+            "Trump Keeps",
+            "Chuck Schumer",
+            "Nancy Pelosi",
+            "White House",
+            "AP Experts Skeptical",
+            "Twitter",
+            "Sacha Baron Cohen",
+            "GOP",
+            "HALF",
+            "Elizabeth Warren",
+            "American Feds",
+            "Kirsten Gillibrand",
+            "White House Fourth",
+            "Stormy Daniels",
+            "Jerusalem Dems",
+            "Trump Trump",
+            "Trump Senate Intel",
+            "Who Compared Him",
+            "Monticello",
+            "Capital Gazette",
+            "Russian",
+            "Kim",
+            "Putin Lawrence",
+            "U.S.",
+            "Sessions",
+            "NATO",
+            "DOJ",
+            "Nigel Farage Donald Trump",
+            "ACLU",
+            "Trump",
+            "America Trump",
+            "Trump Brief",
+            "Cohen",
+            "Britain",
+            "Away",
+            "North Korea Chelsea Handler",
+            "Fox",
+            "Iowa Town Divided Along Faith Lines Maxine Waters",
+            "Divides",
+            "Walmart",
+            "Restaurant",
+            "North Korea",
+            "Senate",
+            "Nazi Collaborator First Read",
+            "Mueller Chinese",
+            "Trump University How Trump Unites",
+            "Democrats Michael Avenatti",
+            "New Poll",
+            "Schumer",
+            "Venezuela Trump",
+            "Fourth",
+            "John Kelly",
+            "Republican Party",
+            "Ivanka Trump",
+            "Wilson Half",
+            "Seattle",
+            "Scotland",
+            "Jon Tester",
+            "Texas Teen Attacked",
+            "Obama",
+            "Donald Trump",
+            "ZTE",
+            "Russia",
+            "WATCH",
+            "Watchdog",
+            "Venezuela"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Democratic",
+            "House",
+            "ICE",
+            "July",
+            "says",
+            "abolished"
+        ],
+        "timestamp": "2018-07-05 11:10:25.502257-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3e087c421aa929f3e0e8ee",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/02/0/0/694940094001_5804509213001_5804493823001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Secretary of State Mike Pompeo will depart for third North Korea trip on July 5, White House says",
+                    "ts": 1530790532,
+                    "twitterid": 1014835162016833537,
+                    "url": "http://www.foxnews.com/politics/2018/07/02/secretary-state-mike-pompeo-will-depart-for-third-north-korea-trip-on-july-5-white-house-says.html"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e509",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpjr_instagram.png",
+                    "origin": "The Hill",
+                    "title": "Trump Jr. brings Fox's Guilfoyle to White House Fourth of July events",
+                    "ts": 1530797463,
+                    "twitterid": 1014864236265246720,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/395575-trump-jr-attends-white-house-fourth-of-july-events-with-fox"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e4fb",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/01/0/0/694940094001_5804064066001_5804093765001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Democrats calling for ICE to be abolished include Kirsten Gillibrand, Elizabeth Warren and others",
+                    "ts": 1530798300,
+                    "twitterid": 1014867746738331649,
+                    "url": "http://www.foxnews.com/politics/2018/07/05/democrats-calling-for-ice-to-be-abolished-include-kirsten-gillibrand-elizabeth-warren-and-others.html"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e4ec",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/d5b99f3ad23e56fc75759fd4ae2cd796bd93e213/c=0-178-3500-2155/local/-/media/2018/07/04/USATODAY/USATODAY/636663002075984327-AFP-AFP-16K6YH-100945209.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "President Trump's July Fourth: Golf, picnic, and tweeting",
+                    "ts": 1530799200,
+                    "twitterid": 1014871519317463040,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/07/04/donald-trump-july-fourth/757655002/"
+                },
+                {
+                    "_id": "5b3e32c3421aa932c16030e5",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/c5b0cbd954e1a7e85287ce3915cdd5aae8d6f13a/c=0-65-3246-1899/local/-/media/2018/07/04/USATODAY/USATODAY/636662649077896094-AP-Trump.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "Lawsuit linking Trump to Russian hackers, leak of Democratic emails tossed out",
+                    "ts": 1530802801,
+                    "twitterid": 1014886624700690432,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/07/04/judge-tosses-suit-linking-trump-leak-democratic-emails/757588002/"
+                },
+                {
+                    "_id": "5b3d51a8421aa9139c2e1484",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/04/AP_17226541137112_s2048x1415.jpg?2ba2b6fbd9f53f9708f1f2e4914f4c5a8ff96686",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump pushed Venezuela invasion, senior administration official says",
+                    "ts": 1530742337,
+                    "twitterid": 1014633020941389824,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/4/donald-trump-pushed-venezuela-invasion-senior-admi/"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a398",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald1_06272018.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump marks Fourth of July by hailing 'noble sacrifice' of military",
+                    "ts": 1530718625,
+                    "twitterid": 1014533563000262656,
+                    "url": "http://thehill.com/homenews/administration/395506-trump-marks-fourth-of-july-by-hailing-noble-sacrifice-of-military"
+                },
+                {
+                    "_id": "5b3d277f421aa91195258331",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump_book_tweet.png",
+                    "origin": "The Hill",
+                    "title": "Trump defends tweets, says he 'somewhat' prides himself on his writing",
+                    "ts": 1530733864,
+                    "twitterid": 1014597480477052930,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395458-trump-defends-tweets-says-he-somewhat-prides-himself-on-his"
+                },
+                {
+                    "_id": "5b3dd023421aa925f185fc64",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/H2rn8BrfphgVikjFSVXoxOMa2H0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYDEUGBKBY5U5DHXGOOPMCGB64.jpg",
+                    "origin": "Washington Post",
+                    "title": "Are people \u2018coming back off the sidelines\u2019 and into the workforce, as Ivanka Trump says?",
+                    "ts": 1530775764,
+                    "twitterid": 1014773222347296768,
+                    "url": "https://www.washingtonpost.com/news/fact-checker/wp/2018/07/05/are-people-coming-back-off-the-sidelines-as-ivanka-trump-says/"
+                },
+                {
+                    "_id": "5b3d277f421aa9119525833f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/warnermark_burrrichard_050918gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Senate panel upholds finding that Russia backed Trump, contradicting House",
+                    "ts": 1530733022,
+                    "twitterid": 1014593951691628544,
+                    "url": "http://thehill.com/homenews/senate/395408-senate-intel-committee-no-reason-to-dispute-ic-assessment-of-russian-election"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            75
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Cheap Smartphones Help",
+            "Mistake Harlan Ellison",
+            "American Small",
+            "Urban Transportation",
+            "Death Jaguar Land",
+            "U.S.",
+            "Bus Fact",
+            "Italy",
+            "Equity Makes",
+            "People Record",
+            "Congo",
+            "Independence",
+            "German Bonds Child",
+            "POWs",
+            "Checklist America",
+            "Yemen",
+            "Helen Hoang",
+            "Malta",
+            "Goose Island Where",
+            "MeToo",
+            "Flee Thanks",
+            "Oils",
+            "Fatherhood",
+            "Brazil",
+            "Death Raises",
+            "User Data U.S.",
+            "Trump Has Done",
+            "Agenda",
+            "Europe",
+            "South Africa",
+            "Bad History",
+            "Summer Makes Us Lazy An",
+            "Global",
+            "America",
+            "Paris Calories",
+            "Assis More Widely Read",
+            "Lili Reinhart",
+            "Barcelona",
+            "London",
+            "Air Pollution Rod Dreher",
+            "Margaret Corbin",
+            "UK",
+            "Hunt",
+            "Chicago River",
+            "BMI",
+            "West",
+            "App Traps",
+            "Fight Crime",
+            "NYC",
+            "Mediterranean",
+            "Machado",
+            "Readers Ask",
+            "All Bitcoin Is Missing",
+            "Your Television",
+            "Woman",
+            "Anxiety Good"
+        ],
+        "peaks": [],
+        "theme": [
+            "Study",
+            "New",
+            "Save",
+            "American",
+            "could",
+            "Help",
+            "people"
+        ],
+        "timestamp": "2018-07-05 11:10:27.611798-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3cef3b421aa90e7604a3a5",
+                    "date_month": "2018-07",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180703133842-esight-vision-assistance-headset-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "These gadgets could transform the lives of visually impaired people",
+                    "ts": 1530717665,
+                    "twitterid": 1014529536820699136,
+                    "url": "http://money.cnn.com/2018/07/04/technology/business/vision-impairment-innovation/index.html?utm_content=2018-07-04T15%3A21%3A03&utm_term=image&utm_source=twCNN&utm_medium=social"
+                },
+                {
+                    "_id": "5b3dde33421aa9264fdf75e7",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Health/mother-son-exercising-gty-mt-180704_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Child obesity could be influenced by mom's lifestyle habits: Study",
+                    "ts": 1530779410,
+                    "twitterid": 1014788515060563968,
+                    "url": "https://abcnews.go.com/Health/child-obesity-influenced-moms-lifestyle-habits-study/story?id=56339131&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b3dfa61421aa927a0cb0eba",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170216111239-01-malaria-zika-mosquito-bite-prevention-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Flea medication for people and other new tools to combat mosquitoes",
+                    "ts": 1530787083,
+                    "twitterid": 1014820698232180736,
+                    "url": "https://www.cnn.com/2018/07/05/health/flea-meds-mosquito-prevention-ideas/index.html?utm_medium=social&utm_source=twCNN&utm_term=image&utm_content=2018-07-05T10%3A38%3A02"
+                },
+                {
+                    "_id": "5b3d6dd5421aa91839029fdd",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2014/06/CDC-alcoholdeaths-1024x681.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "How much alcohol is too much? A new study says it\u2019s found the number",
+                    "ts": 1530750000,
+                    "twitterid": 1014665159598456833,
+                    "url": "https://www.pbs.org/newshour/health/how-much-alcohol-is-too-much-a-new-study-says-its-found-the-number"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1e1",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/2f0afba87d77a424aa723d8da767ba209afe7d8d.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Poet of the People",
+                    "ts": 1530727262,
+                    "twitterid": 1014569789518475272,
+                    "url": "https://newrepublic.com/article/148907/poet-partisan-world-pablo-neruda"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1c8",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/590978192179605b11ad8864/16:9/w_1200,h_630,c_limit/New_Yorker_Americanness_cashier_rev.jpg",
+                    "origin": "The New Yorker",
+                    "title": "My Struggle with American Small Talk",
+                    "ts": 1530729733,
+                    "twitterid": 1014580153203281921,
+                    "url": "https://www.newyorker.com/culture/culture-desk/my-struggle-with-american-small-talk?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e520",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/0b30ed5c4923dc27666280f2f3ffa6424da9c74f.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Can Alexandria Ocasio-Cortez Save the Planet?",
+                    "ts": 1530795647,
+                    "twitterid": 1014856619329576960,
+                    "url": "https://newrepublic.com/article/149520/can-alexandria-ocasio-cortez-save-planet"
+                },
+                {
+                    "_id": "5b3db40d421aa9234b376c53",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/T7DXdMy8objGTUTePEUf1XBx1ts=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZD2MMZ3PPQ72DGFHCL6TK2ZPYQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "She said she killed this giraffe to save more giraffes",
+                    "ts": 1530768065,
+                    "twitterid": 1014740932061691904,
+                    "url": "https://www.washingtonpost.com/news/animalia/wp/2018/07/03/she-said-she-killed-this-giraffe-to-save-more-giraffes/?utm_term=.8a94837a7fde&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3e32c3421aa932c16030e2",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16358/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "A Fifth of All Bitcoin Is Missing. These Crypto Hunters Can Help",
+                    "ts": 1530802812,
+                    "twitterid": 1014886669626105857,
+                    "url": "https://www.wsj.com/articles/a-fifth-of-all-bitcoin-is-missing-these-crypto-hunters-can-help-1530798731?mod=e2tw"
+                },
+                {
+                    "_id": "5b3d43ae421aa912f7b60e22",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/lsD0MDKr8waXnlPPwBHHfJM2e7A=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IPGLXD63G47SNNJVIBTAZARDSQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "America is a nation of narcissists, according to two new studies",
+                    "ts": 1530738422,
+                    "twitterid": 1014616598576017409,
+                    "url": "https://www.washingtonpost.com/news/speaking-of-science/wp/2018/07/03/america-is-a-nation-of-narcissists-according-to-two-new-studies/?utm_term=.f5661fc6d86b&tid=sm_tw&__twitter_impression=true&__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            21
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "American Cheese Makers Suffer",
+            "Support Him Caught",
+            "U.S.",
+            "Tariff Fight",
+            "China Trump",
+            "China",
+            "Tariff Trigger",
+            "New Tariffs Trump",
+            "Northwest Ranchers",
+            "Trump Micron Barred",
+            "Merkel",
+            "China Says Bridgewater Wins License",
+            "China Growth",
+            "Moog Music",
+            "U.S. Distillers Fear",
+            "Chinese",
+            "Bear Market U.S.",
+            "Blame",
+            "Tariff War",
+            "China Scraps Plan",
+            "Please",
+            "Trade Is",
+            "Asia China",
+            "Don",
+            "Trade Wars",
+            "Global Whiskey"
+        ],
+        "peaks": [],
+        "theme": [
+            "China",
+            "tariffs",
+            "trade",
+            "Trump",
+            "war",
+            "says"
+        ],
+        "timestamp": "2018-07-05 11:10:28.063186-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3d1995421aa910d8aaf1cd",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/merkelangela_06192018.jpg",
+                    "origin": "The Hill",
+                    "title": "Merkel on Trump tariffs: 'It takes two' to prevent a trade war",
+                    "ts": 1530729427,
+                    "twitterid": 1014578872719945729,
+                    "url": "http://thehill.com/policy/finance/395514-merkel-on-trump-tariffs-it-takes-two-sides-to-prevent-a-trade-war"
+                },
+                {
+                    "_id": "5b3dec4a421aa926aa7a43e0",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/GZgYUU_rj22Om4qk0JjGW2WrakE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HTH2K4EAGII6RMHP776KX37ZIY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump\u2019s trade war with China is finally here \u2014 and it won\u2019t be pretty",
+                    "ts": 1530783031,
+                    "twitterid": 1014803702392213505,
+                    "url": "https://www.washingtonpost.com/world/trumps-trade-war-with-china-is-finally-here--and-it-wont-be-pretty/2018/07/05/0e43048c-802c-11e8-b9f0-61b08cdd0ea1_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e4fc",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/chinaflag_istock.jpg",
+                    "origin": "The Hill",
+                    "title": "China says it rejects \u2018threats and blackmail\u2019 ahead of tariffs",
+                    "ts": 1530798184,
+                    "twitterid": 1014867258299113474,
+                    "url": "http://thehill.com/policy/international/395579-china-says-it-rejects-threats-and-blackmail-ahead-of-tariffs"
+                },
+                {
+                    "_id": "5b3e1690421aa9301cebc672",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/GZgYUU_rj22Om4qk0JjGW2WrakE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HTH2K4EAGII6RMHP776KX37ZIY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump\u2019s trade war with China is finally here \u2014 and it won\u2019t be pretty, analysts say",
+                    "ts": 1530794584,
+                    "twitterid": 1014852158884384769,
+                    "url": "https://www.washingtonpost.com/world/trumps-trade-war-with-china-is-finally-here--and-it-wont-be-pretty/2018/07/05/0e43048c-802c-11e8-b9f0-61b08cdd0ea1_story.html?utm_term=.673ed9df48ea&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3dfa61421aa927a0cb0ebe",
+                    "date_month": "2018-07",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180619074843-trade-us-china-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "The US-China trade war is about to get real",
+                    "ts": 1530786497,
+                    "twitterid": 1014818240965595136,
+                    "url": "http://money.cnn.com/2018/07/05/news/economy/us-china-trade-war-tariffs/index.html?utm_content=2018-07-05T10%3A28%3A16&utm_term=image&utm_source=twCNN&utm_medium=social"
+                },
+                {
+                    "_id": "5b3d97f4421aa920c7513a9b",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Politics/trump-trudeau-ap-jef-180702_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Trump versus Trudeau: A timeline of tough words and trade tariffs",
+                    "ts": 1530763148,
+                    "twitterid": 1014720308522209280,
+                    "url": "https://abcnews.go.com/Politics/trump-versus-trudeau-timeline-tough-words-trade-tariffs/story?id=56313912&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b3e32c3421aa932c1603114",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/39/ad/e8da478849318597776df3312f02/180627-chinese-flag.jpg",
+                    "origin": "POLITICO",
+                    "title": "China tries to ease retaliation fears with pledges to help foreign businesses weather trade war",
+                    "ts": 1530800106,
+                    "twitterid": 1014875320455966721,
+                    "url": "https://www.politico.com/story/2018/07/05/china-ease-trade-retaliation-fears-670334"
+                },
+                {
+                    "_id": "5b3db40d421aa9234b376c42",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16890/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "U.S. Will Shoot Itself in the Foot If It Pulls the Tariff Trigger, China Says",
+                    "ts": 1530770408,
+                    "twitterid": 1014750758179430400,
+                    "url": "https://www.wsj.com/articles/u-s-will-shoot-itself-in-the-foot-if-it-pulls-the-tariff-trigger-china-says-1530767200?mod=e2tw"
+                },
+                {
+                    "_id": "5b3dec4a421aa926aa7a43eb",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/03/beefwtrump_5-1_wide-ac3da143b5ea30b51026be25b2c3e000e05b4542.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Northwest Ranchers Have Beef With Trump's Trade Wars, But Still Support Him",
+                    "ts": 1530781782,
+                    "twitterid": 1014798464478150656,
+                    "url": "https://www.npr.org/sections/thesalt/2018/07/05/625731026/northwest-ranchers-have-beef-with-trump-s-trade-wars-but-still-support-him?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3d7bda421aa91b15212452",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16826/social",
+                    "origin": "Capital Journal",
+                    "title": "In Tariff Fight With Trump, China Scraps Plan to Strike First",
+                    "ts": 1530755814,
+                    "twitterid": 1014689548234907650,
+                    "url": "https://www.wsj.com/articles/china-pulls-plan-to-impose-tariffs-on-u-s-goods-first-1530712586?mod=e2twp"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            52
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Chrissy Teigen",
+            "U.S.",
+            "Giddens",
+            "Old State House",
+            "Independence",
+            "Young Stars Form",
+            "John Adams",
+            "Fourth",
+            "American",
+            "Fireworks Mayhem",
+            "United States",
+            "July Fourth",
+            "Melania Trump",
+            "Trump",
+            "US West Misunderstood",
+            "Dems",
+            "Poor Turn",
+            "Western",
+            "Alex Jones",
+            "Earth PM Update",
+            "US",
+            "Britain",
+            "America",
+            "Ellen",
+            "America Americans",
+            "Liberty",
+            "Moreno",
+            "Inequality",
+            "Chinese",
+            "Boston Pops",
+            "McCain",
+            "Newt Gingrich",
+            "Moderation Thousands"
+        ],
+        "peaks": [],
+        "theme": [
+            "July",
+            "Fourth",
+            "fireworks",
+            "America",
+            "celebrates",
+            "Americans",
+            "Independence"
+        ],
+        "timestamp": "2018-07-05 11:10:29.164452-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3d97f4421aa920c7513ab1",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2018/07/05/Local/Images/july4A.JPG?t=20170517",
+                    "origin": "Washington Post",
+                    "title": "Fireworks and other scenes as the nation\u2019s capital celebrates July 4",
+                    "ts": 1530759996,
+                    "twitterid": 1014707088486993921,
+                    "url": "https://www.washingtonpost.com/local/scenes-in-the-washington-dc-area-as-the-fourth-of-july-is-celebrated/2018/07/04/e797ac9e-7fb2-11e8-b0ef-fffcabeff946_gallery.html?utm_term=.991f7fb3c9f1&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3da5f8421aa921f4b3d3c5",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b3d91a9/turbine/ct-fireworks-on-fourth-of-july-20180704",
+                    "origin": "Chicago Tribune",
+                    "title": "Fireworks on Fourth of July",
+                    "ts": 1530764384,
+                    "twitterid": 1014725491813683200,
+                    "url": "http://www.chicagotribune.com/photos/ct-fireworks-on-fourth-of-july-20180704-photogallery.html"
+                },
+                {
+                    "_id": "5b3d7bda421aa91b1521246c",
+                    "date_month": "2018-07",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_27/2486831/ss-180704-july-fourth-celebrations-1-al-1437_c4a23a49c6d3dea6d361277a2919dd9b.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Americans across the nation celebrate Fourth of July",
+                    "ts": 1530753306,
+                    "twitterid": 1014679028865863681,
+                    "url": "https://www.nbcnews.com/slideshow/americans-across-nation-celebrate-fourth-july-n888891"
+                },
+                {
+                    "_id": "5b3d43ae421aa912f7b60e25",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2016/07/01/nyregion/01fourth_xp/01fourth_xp-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "A History of Fireworks Mayhem on the Fourth of July",
+                    "ts": 1530738304,
+                    "twitterid": 1014616104138952705,
+                    "url": "https://www.nytimes.com/2016/07/02/us/dead-or-injured-by-fireworks-on-the-fourth-of-july.html?smtyp=cur&smid=tw-nytimes"
+                },
+                {
+                    "_id": "5b3d6dd5421aa91839029fcb",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/jZnIuZXwkDjunAAPvZXKOVhp2-8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/44ANHED7WMI6RJR7PNOSVOT2YU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Fourth of July celebrations more meaningful, worrisome for some Americans",
+                    "ts": 1530751540,
+                    "twitterid": 1014671620382830593,
+                    "url": "https://www.washingtonpost.com/local/trafficandcommuting/fourth-of-july-celebrations-more-meaningful-worrisome-for-some-americans/2018/07/04/7072ad3e-7f95-11e8-b0ef-fffcabeff946_story.html?utm_term=.b0172ad6c206&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b3d3594421aa91244eda581",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/opinion/2018/07/04/newt-gingrich-americas-independence-day-is-celebrated-around-world/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1530734626042.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Newt Gingrich: America's Independence Day is celebrated around the world",
+                    "ts": 1530734858,
+                    "twitterid": 1014601648755429376,
+                    "url": "http://www.foxnews.com/opinion/2018/07/04/newt-gingrich-americas-independence-day-is-celebrated-around-world.html"
+                },
+                {
+                    "_id": "5b3e32c3421aa932c16030f8",
+                    "date_month": "2018-07",
+                    "image": "https://www.apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Eastern US",
+                    "title": "Police: Teen boy lit, threw fireworks at July Fourth event",
+                    "ts": 1530801647,
+                    "twitterid": 1014881784973156353,
+                    "url": "https://www.apnews.com/84209c080ab24eb6ab714dd0c523572f?utm_medium=APEastRegion&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a39a",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/8888d4b9cb1a44361c310bade9ee60e4c9cea316/c=0-37-724-446/local/-/media/2017/06/21/INGroup/Indianapolis/636336373170817954-GettyImages-542714484.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "America can't spell: Melania Trump, others use #IndependanceDay \u2014 not Independence Day",
+                    "ts": 1530718531,
+                    "twitterid": 1014533170442723330,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/07/04/july-4-independence-day-misspelling/757726002/"
+                },
+                {
+                    "_id": "5b3d277f421aa9119525833d",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/declaration_crop-1024x785.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Opinion: Independence Day on July 2? John Adams got it right",
+                    "ts": 1530733200,
+                    "twitterid": 1014594696000176129,
+                    "url": "https://www.pbs.org/newshour/education/opinion-independence-day-on-july-2-john-adams-got-it-right"
+                },
+                {
+                    "_id": "5b3d43ae421aa912f7b60e1f",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b3d267c/turbine/ct-fourth-of-july-parade-hyde-park-chicago-2018-20180704",
+                    "origin": "Chicago Tribune",
+                    "title": "Fourth of July parade",
+                    "ts": 1530738527,
+                    "twitterid": 1014617039099584512,
+                    "url": "http://www.chicagotribune.com/news/ct-fourth-of-july-parade-hyde-park-chicago-2018-20180704-photogallery.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            15
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Boys Found Alive",
+            "New Video From Cave Crews Race",
+            "Stay Ahead",
+            "Thai Soccer Team Out",
+            "Good",
+            "Drain Thai Cave Where Youth Soccer Team Is Trapped Anxiety",
+            "Cave Thai",
+            "Thai",
+            "Thai Cave",
+            "Push",
+            "Watch",
+            "Thailand",
+            "Trapped Thai Boys Appear",
+            "Rain"
+        ],
+        "peaks": [],
+        "theme": [
+            "caves",
+            "Thai",
+            "boys",
+            "soccer",
+            "trapped",
+            "rescues",
+            "team"
+        ],
+        "timestamp": "2018-07-05 11:10:29.545811-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3e32c3421aa932c160311b",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/07/05/thai-soccer-team-might-be-able-to-walk-out-caves-without-using-diving-gear-official-says/_jcr_content/image.img.jpg/0/0/1530796332103.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Thai soccer team might be able to walk out of caves without using diving gear, official says",
+                    "ts": 1530799800,
+                    "twitterid": 1014874036109656064,
+                    "url": "http://www.foxnews.com/world/2018/07/05/thai-soccer-team-might-be-able-to-walk-out-caves-without-using-diving-gear-official-says.html"
+                },
+                {
+                    "_id": "5b3d43ae421aa912f7b60e0c",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BA161_THAICA_SOC_20180704105456.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Crews Race to Drain Thai Cave Where Youth Soccer Team Is Trapped",
+                    "ts": 1530739804,
+                    "twitterid": 1014622394718343168,
+                    "url": "https://www.wsj.com/articles/crews-race-to-drain-cave-where-youth-soccer-team-is-trapped-1530725200?mod=e2tw"
+                },
+                {
+                    "_id": "5b3e087c421aa929f3e0e8e6",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/af75a4a62d29af0189a147a6a66d8d1b18073da9/c=0-104-2048-1261/local/-/media/2018/07/04/USATODAY/USATODAY/636663110410193171-EPA-THAILAND-ACCIDENT-CAVE.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "These dramatic rescues boost hope for boys trapped in water-logged Thailand cave",
+                    "ts": 1530790989,
+                    "twitterid": 1014837082169200640,
+                    "url": "https://www.usatoday.com/story/news/world/2018/07/04/thailand-cave-rescue-past-rescues-hope/757883002/"
+                },
+                {
+                    "_id": "5b3d97f4421aa920c7513aa8",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/04/2eebd589-52c8-4aed-a717-7154e2f71271/thumbnail/1200x630/a6674887b2a2a856ce059d4414f6b105/ctm-0704-thailand-cave-rescue-map.jpg",
+                    "origin": "CBS News",
+                    "title": "Cave rescue expert: Diving Thai soccer team out \"incredibly dangerous\"",
+                    "ts": 1530761583,
+                    "twitterid": 1014713743064948736,
+                    "url": "https://www.cbsnews.com/news/thailand-cave-rescue-expert-diving-thai-boys-out-incredibly-dangerous/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3d916d04d30175b7a46809&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3d277f421aa91195258346",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/04/ap_18185212424052_wide-8a5406afc974de8c51f9889521f804ea620f6e50.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Trapped Thai Boys Appear In Good Spirits In New Video From Cave",
+                    "ts": 1530732365,
+                    "twitterid": 1014591193424879616,
+                    "url": "https://www.npr.org/2018/07/04/625943204/trapped-thai-boys-appear-in-good-spirits-in-new-video-from-cave?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3e1690421aa9301cebc670",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16924/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Rescuers Rush to Stay Ahead of Rain in Push to Get Thai Soccer Team Out of Cave",
+                    "ts": 1530794708,
+                    "twitterid": 1014852677686255617,
+                    "url": "https://www.wsj.com/articles/rescuers-rush-to-stay-ahead-of-rain-in-push-to-get-thai-soccer-team-out-of-cave-1530791404?mod=e2tw"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a394",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/04/BostonGlobe.com/Foreign/Images/02e2262c389c4305a61e878dcc01165c-02e2262c389c4305a61e878dcc01165c-2763.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Watch: New video shows Thai soccer players still trapped in flooded cave",
+                    "ts": 1530718970,
+                    "twitterid": 1014535010748157952,
+                    "url": "https://www.bostonglobe.com/news/world/2018/07/04/watch-new-video-shows-thai-soccer-players-still-trapped-flooded-cave/SgnGybYoodHJQtaORi4AyN/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3dd023421aa925f185fc5a",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/czeZ-f3SWrzdOcUPJNh41h_UdC0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DLOFICEAEQI6RMHP776KX37ZIY.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018It was just a normal day\u2019: Teammate of trapped Thai boys remembers day his friends vanished",
+                    "ts": 1530776907,
+                    "twitterid": 1014778017523134465,
+                    "url": "https://www.washingtonpost.com/world/asia_pacific/it-was-just-a-normal-day-trapped-thai-teammate-remembers-day-his-friends-vanished/2018/07/05/2eb3f7fc-7fc9-11e8-a63f-7b5d2aba7ac5_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1d8",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/RTS1V5IR-1024x577.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "3 ways rescuers could free youth soccer team from Thailand cave",
+                    "ts": 1530728400,
+                    "twitterid": 1014574563345256448,
+                    "url": "https://www.pbs.org/newshour/world/3-ways-rescuers-could-free-youth-soccer-team-from-thailand-cave"
+                },
+                {
+                    "_id": "5b3d51a8421aa9139c2e1478",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/rd0XT-qQonRJPT743F_kK4kOkqg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5YVZ6FD7LII6RO3LYHFWSHYUAI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Anxiety grows in Thailand as trapped boys are being given diving lessons",
+                    "ts": 1530743504,
+                    "twitterid": 1014637913064267777,
+                    "url": "https://www.washingtonpost.com/world/asia_pacific/thai-authorities-put-together-rescue-plan-for-trapped-boys/2018/07/04/756cab9c-7ef9-11e8-a63f-7b5d2aba7ac5_story.html?utm_term=.e6d2c77c36ec&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            33
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Fair Is",
+            "Trump Winnows Down Supreme Court Picks",
+            "New Supreme Court Will Decide Tucker",
+            "Christian",
+            "GOP",
+            "Supreme Court Mass",
+            "Trump",
+            "Justice Kennedy",
+            "Wade Liberal",
+            "Hill",
+            "Democrats",
+            "SCOTUS New Supreme Court",
+            "Kennedy",
+            "House",
+            "SCOTUS",
+            "Wade Could Remake American",
+            "Harvard Prof",
+            "Trump Supreme Court",
+            "Supreme Court",
+            "Better Medicare Alliance",
+            "Wade Court",
+            "Roe",
+            "Woman",
+            "US Supreme Court",
+            "Media"
+        ],
+        "peaks": [],
+        "theme": [
+            "Court",
+            "Trump",
+            "Supreme",
+            "Roe",
+            "Wade",
+            "Justice"
+        ],
+        "timestamp": "2018-07-05 11:10:30.602286-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3d89e6421aa91df978afd7",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/02/BostonGlobe.com/Metro/Images/ryan_caucus4_met.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Mass. lawmakers aim to ensure abortion remains legal even if US Supreme Court upends Roe v. Wade",
+                    "ts": 1530758342,
+                    "twitterid": 1014700150072250368,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/04/mass-lawmakers-aim-ensure-abortion-remains-legal-even-supreme-court-upends-roe-wade/Gm1W8TRO2EtkpOnFT3yUrI/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3dde33421aa9264fdf75e9",
+                    "date_month": "2018-07",
+                    "image": "https://www.politico.com/interactives/2018/anthony-kennedy-supreme-court-swing-votes-trump/images/share.jpg",
+                    "origin": "POLITICO",
+                    "title": "Supreme Court's swing justice barely swung this year",
+                    "ts": 1530779405,
+                    "twitterid": 1014788495951515649,
+                    "url": "https://www.politico.com/interactives/2018/anthony-kennedy-supreme-court-swing-votes-trump/"
+                },
+                {
+                    "_id": "5b3d5fc4421aa9154347635e",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/bc/17/f137b697484697949a9aacb3672b/180702-planned-parenthood-rally-ap-2-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "New Supreme Court justice could weigh in on abortion quickly",
+                    "ts": 1530748810,
+                    "twitterid": 1014660167311482880,
+                    "url": "https://www.politico.com/story/2018/07/03/trump-supreme-court-pick-abortion-667924"
+                },
+                {
+                    "_id": "5b3e1690421aa9301cebc667",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180628113843-20180628-scotus-potential-picks-split-composite-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Here are potential Supreme Court nominees to replace Justice Kennedy",
+                    "ts": 1530795607,
+                    "twitterid": 1014856449556713472,
+                    "url": "https://www.cnn.com/2018/06/27/politics/trump-supreme-court-names/index.html?sr=twCNNp070518trump-supreme-court-names0857AMVODtop&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3dde33421aa9264fdf75dc",
+                    "date_month": "2018-07",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_27/2486571/180704-abortion-scotus-1404_7b42ed647bb87f33f0e3083bd71b9d7d.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Why Roe v. Wade is likely not in grave danger no matter whom Trump nominates",
+                    "ts": 1530780304,
+                    "twitterid": 1014792266039353344,
+                    "url": "https://www.nbcnews.com/politics/supreme-court/why-roe-v-wade-likely-not-grave-danger-no-matter-n888836?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e4f7",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_27/2486571/180704-abortion-scotus-1404_4af71622bf2d3d37b7dba77ad855fb32.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Why Roe v. Wade is most likely not in grave danger no matter whom Trump nominates",
+                    "ts": 1530798423,
+                    "twitterid": 1014868260452528128,
+                    "url": "https://www.nbcnews.com/politics/supreme-court/why-roe-v-wade-likely-not-grave-danger-no-matter-n888836?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b3d6dd5421aa91839029fc8",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170731160833-06-anthony-scaramucci-lead-image-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Scaramucci predicts Roe v. Wade won't be overturned",
+                    "ts": 1530751683,
+                    "twitterid": 1014672220927463424,
+                    "url": "https://www.cnn.com/2018/07/03/politics/anthony-scaramucci-roe-v-wade-overturned-cnntv/index.html?sr=twCNNp070318anthony-scaramucci-roe-v-wade-overturned-cnntv0950AMVODtop&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3d97f4421aa920c7513aab",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/f9/9b/5c94b54a4162b97aa49fd8436639/180703-donald-trump-court-getty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump interviews 3 more Supreme Court candidates",
+                    "ts": 1530761406,
+                    "twitterid": 1014712999045722112,
+                    "url": "https://www.politico.com/story/2018/07/03/url-trump-supreme-court-candidates-693473"
+                },
+                {
+                    "_id": "5b3dfa61421aa927a0cb0eae",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/722cf51848e6400432a1c9557bc0b93011ee103a.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Overturning Roe v. Wade Could Remake American Politics",
+                    "ts": 1530788407,
+                    "twitterid": 1014826252077879297,
+                    "url": "https://newrepublic.com/article/149596/overturning-roe-v-wade-remake-american-politics"
+                },
+                {
+                    "_id": "5b3dfa61421aa927a0cb0eaf",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/15/a9/5f2c48ee4b4b9f82cb31e38f8dcc/180704-brett-kavanaugh-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump\u2019s Supreme Court search unleashes fierce politicking",
+                    "ts": 1530788407,
+                    "twitterid": 1014826251104784384,
+                    "url": "https://www.politico.com/story/2018/07/04/trump-supreme-court-pick-brett-kavanaugh-694787"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            73
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Scale Lady Liberty",
+            "Florida",
+            "Runny Roofs",
+            "Seabrook",
+            "England",
+            "Salisbury",
+            "British",
+            "Northern Hemisphere",
+            "Black Oregon",
+            "Chicago",
+            "Liberty Island",
+            "Busch Gardens",
+            "Naperville",
+            "Deadly Nerve",
+            "French",
+            "Shaun Palmer",
+            "Joey Chestnut",
+            "Fatal",
+            "English",
+            "Moscow",
+            "Northeast",
+            "Quebec",
+            "Trump",
+            "Banner",
+            "Southeast Texas",
+            "BBQ Becky",
+            "ICE",
+            "Nathan",
+            "Latest",
+            "Miki Sudo",
+            "Britain",
+            "March",
+            "Person",
+            "Boston",
+            "Liberty",
+            "Amesbury",
+            "Statue Of Liberty",
+            "Nielsen",
+            "Alarm",
+            "Oakland City Council",
+            "Sergei Skripal",
+            "Liberty Liberty Island",
+            "Famous July Fourth",
+            "North Carolina",
+            "Russian",
+            "Woman",
+            "Payouts Vary Widely Activists Arrested",
+            "Arizona"
+        ],
+        "peaks": [],
+        "theme": [
+            "police",
+            "agent",
+            "nerve",
+            "Liberty",
+            "poisoned",
+            "Statue",
+            "say"
+        ],
+        "timestamp": "2018-07-05 11:10:31.381629-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3e32c3421aa932c1603103",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/04/0/0/694940094001_5805396922001_5805408284001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "UK couple poisoned by nerve agent were not likely targeted, police say",
+                    "ts": 1530801000,
+                    "twitterid": 1014879071514365954,
+                    "url": "http://www.foxnews.com/world/2018/07/05/uk-couple-poisoned-by-nerve-agent-were-not-likely-targeted-police-say.html"
+                },
+                {
+                    "_id": "5b3d51a8421aa9139c2e1480",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/04/0/0/694940094001_5805396922001_5805408284001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "UK couple were poisoned by same nerve agent as ex-Russian spy, police say",
+                    "ts": 1530742737,
+                    "twitterid": 1014634698360975360,
+                    "url": "http://www.foxnews.com/world/2018/07/04/uk-couple-may-have-been-poisoned-by-same-nerve-agent-as-russian-spy.html"
+                },
+                {
+                    "_id": "5b3d5fc4421aa9154347637a",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/04/a1c6cdf0-a931-4a7f-9d0b-b8255a9a55ce/thumbnail/1200x630/3d9297cb8dc2762dc0a895734f1960e6/amesbury-england-991313264.jpg",
+                    "origin": "CBS News",
+                    "title": "U.K. police confirm two people were poisoned with same nerve agent as ex-spy",
+                    "ts": 1530746396,
+                    "twitterid": 1014650045034098690,
+                    "url": "https://www.cbsnews.com/news/salibury-major-incident-today-nerve-agent-sergei-skripal-2018-07-04/?ftag=CNM-00-10aab7e&linkId=53876539"
+                },
+                {
+                    "_id": "5b3d3594421aa91244eda564",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/statue_liberty479461108.jpg",
+                    "origin": "The Hill",
+                    "title": "Police evacuate Statue of Liberty after woman scales statue",
+                    "ts": 1530736982,
+                    "twitterid": 1014610558988050437,
+                    "url": "http://thehill.com/homenews/news/395526-police-evacuate-statue-of-liberty-after-woman-scales-statue?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b3d43ae421aa912f7b60df8",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/screen_shot_2018-07-04_at_5.26.28_pm.png",
+                    "origin": "The Hill",
+                    "title": "UK couple poisoned by same nerve agent used on Russian spy: report",
+                    "ts": 1530741306,
+                    "twitterid": 1014628695405989889,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/395532-uk-couple-poisoned-by-same-nerve-agent-used-on-russian-spy-report"
+                },
+                {
+                    "_id": "5b3d51a8421aa9139c2e1462",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/screen_shot_2018-07-04_at_5.26.28_pm.png",
+                    "origin": "The Hill",
+                    "title": "UK couple poisoned by same nerve agent used on ex-Russian spy, daughter: report",
+                    "ts": 1530745143,
+                    "twitterid": 1014644789063704577,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/395532-uk-couple-poisoned-by-same-nerve-agent-used-on-russian-spy-report"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e510",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/04/ap_18185753336478_wide-06cfd6b67e455d1351ef97f3140c1691faeb6ece.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "U.K. Police Investigating 2 New Cases Of Deadly Nerve Agent Poisoning",
+                    "ts": 1530796926,
+                    "twitterid": 1014861980903981057,
+                    "url": "https://www.npr.org/2018/07/04/625989696/u-k-police-investigating-2-new-cases-of-deadly-nerve-agent-poisoning?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3d5fc4421aa9154347637f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/2018-07-04.jpg",
+                    "origin": "The Hill",
+                    "title": "Woman in police custody after scaling Statue of Liberty to protest Trump immigration policy",
+                    "ts": 1530746108,
+                    "twitterid": 1014648835619147777,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395537-woman-arrested-after-scaling-statue-of-liberty-to-protest-trump"
+                },
+                {
+                    "_id": "5b3d43ae421aa912f7b60e0f",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/8725608625d4dd7ad96f42a8cc0f41e1baf05fb6/c=0-455-5561-3597/local/-/media/2018/07/04/USATODAY/USATODAY/636662747208830552-AFP-AFP-17518X-101214801.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Police: Nerve agent leaves couple in critical condition near site of UK spy attack",
+                    "ts": 1530739699,
+                    "twitterid": 1014621953053863938,
+                    "url": "https://www.usatoday.com/story/news/world/2018/07/04/british-police-declare-major-incident-after-man-and-woman-exposed-unknown-substance/757537002/"
+                },
+                {
+                    "_id": "5b3d97f4421aa920c7513aa1",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/57FRiDjaBkPm1AbgMArp8DatMMk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UBDUORD7QII6RO3LYHFWSHYUAI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Two more victims of Soviet-era nerve agent poisoned in British town where Russian ex-spy was attacked",
+                    "ts": 1530762425,
+                    "twitterid": 1014717273855156230,
+                    "url": "https://www.washingtonpost.com/world/british-police-declare-major-incident-where-russian-spy-was-attacked-by-nerve-agent/2018/07/04/4abe8dd2-7f5a-11e8-bb6b-c1cb691f1402_story.html?utm_term=.edbff9f1d854&tid=sm_tw&__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            90
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Tyler Thornburg",
+            "Julian Edelman Who Milks America",
+            "Los Angeles",
+            "American Flag Onto Front Lawn",
+            "Delta",
+            "Race",
+            "Sorry",
+            "Showtime",
+            "Moqtada",
+            "Angela Merkel",
+            "Drones",
+            "Syria James Woods",
+            "US",
+            "Graham",
+            "Macron",
+            "Red Sox Tina Turner",
+            "Liberty",
+            "Jordan",
+            "Wasp",
+            "Robin Wright",
+            "Francesca",
+            "NBC News",
+            "Craig Turner",
+            "Chicago",
+            "Ohio State",
+            "Magic For Texas",
+            "GOP",
+            "Israel",
+            "Pygmy",
+            "Warren",
+            "Military",
+            "North Scarlett Johansson",
+            "Kevin Spacey How George Clinton Made",
+            "Kevin Spacey",
+            "Nationals Sens",
+            "Jackie Bradley",
+            "Business",
+            "Nigeria",
+            "Massachusetts Every Marvel",
+            "South Koreans",
+            "Russian",
+            "Berlin",
+            "Florida",
+            "Oklahoma City Zoo Bloomberg",
+            "Financial",
+            "U.S.",
+            "Economic News",
+            "Europe Italian Beach Life",
+            "Live News",
+            "Spanish",
+            "Red Sox",
+            "Trump",
+            "DNA",
+            "Malaysian Leader Posts Bail",
+            "ZTE Moment",
+            "Walmart",
+            "Brilliant Black Comedy",
+            "Statue",
+            "Tina Turner",
+            "Wild Boars Soccer Team List",
+            "Syria Fourth",
+            "Sopranos",
+            "America Great Again",
+            "Paul Newman",
+            "New York",
+            "Independence",
+            "World News",
+            "Norwood",
+            "Labor",
+            "Capital",
+            "Fourth",
+            "Cards",
+            "California",
+            "Washington Post",
+            "Past",
+            "MeToo Too Big",
+            "Najib",
+            "Islamic State",
+            "ABC News",
+            "James Woods",
+            "Abu Bakr",
+            "July",
+            "U.N.",
+            "Iraqi",
+            "Kevin Spacey Daily Cartoon",
+            "WATCH",
+            "Wall Street Journal",
+            "Scarlett Johansson"
+        ],
+        "peaks": [],
+        "theme": [
+            "July",
+            "man",
+            "American",
+            "news",
+            "says",
+            "City",
+            "Fourth"
+        ],
+        "timestamp": "2018-07-05 11:10:32.878526-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3d1995421aa910d8aaf1ee",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/062f862907fea8ea4b65969dda2a08d239f83e9b/c=47-0-1281-697/local/-/media/2018/07/04/USATODAY/USATODAY/636663014185184015-big-flag2.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Man transforms his front lawn into a giant American flag to celebrate the Fourth of July",
+                    "ts": 1530726304,
+                    "twitterid": 1014565773543698440,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/07/04/giant-american-flag-tribute-covers-massachusetts-front-lawn-july-4th/757682002/?utm_source=Facebook&utm_medium=Social&utm_campaign=usatn-crosspost-fb"
+                },
+                {
+                    "_id": "5b3d43ae421aa912f7b60e1e",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/04/BostonGlobe.com/Metro/Images/05flag%203.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Norwood resident paints enormous American flag on his lawn for the Fourth of July",
+                    "ts": 1530738590,
+                    "twitterid": 1014617305349836800,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/04/norwood-resident-paints-enormous-american-flag-his-lawn-for-fourth-july/6aOW9hzzyMQaaf0hKmCsEM/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3d7bda421aa91b1521246b",
+                    "date_month": "2018-07",
+                    "image": "https://prod-video-us-east-1.pscp.tv/-ZeOvQZ4sON5zO03Dnn85YWZE6zTgk4M0NydK6ztmxAV4mvxq9R6J31H2xnEpp20wVIVNfiqqFabAg752SUNng/replay_thumbnail/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJkIjowfQ/chunk_1530754216159261295_592_a.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMXlvS01WbnprcmVHUSIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE1MzA3NTYwNDYsIkdyYW50ZWRUbyI6IndlYi1yYXRlLWxpbWl0ZWQtNDg0YTBmNTFlYTZkOTlhMGMzYjVlYmUzZTdhYWIyYmEiLCJTdHJlYW1OYW1lIjoiLVplT3ZRWjRzT041ek8wM0Rubjg1WVdaRTZ6VGdrNE0wTnlkSzZ6dG14QVY0bXZ4cTlSNkozMUgyeG5FcHAyMHdWSVZOZmlxcUZhYkFnNzUyU1VObmciLCJleHAiOjE1MzA5Mjg4NDZ9.OZ8iQCRdRz-6T-BRoK_TxTo7QtPWnaEsaIMtAU_FIL8&service=proxsee&digest=Af_SMuayLXHr3I3e1e5Hd5LBJfk6wH-80_1kqOiGcFk",
+                    "origin": "NBC News",
+                    "title": "NBC News: \"President Trump and First Lady Trump celebrate Fourth of July\"",
+                    "ts": 1530753335,
+                    "twitterid": 1014679149758197760,
+                    "url": "https://www.pscp.tv/NBCNews/1yoKMVnzkreGQ"
+                },
+                {
+                    "_id": "5b3d6dd5421aa91839029fdf",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/07-04-2018/t_1530746070684_name_Trump_Fourth_of_July_33370_jpg_83ca4.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+                    "origin": "Washington Post",
+                    "title": "Fourth of July fireworks from the nation's capitol",
+                    "ts": 1530749938,
+                    "twitterid": 1014664899002273792,
+                    "url": "https://www.washingtonpost.com/video/live/live/fourth-of-july-fireworks-from-the-nations-capitol/2018/07/04/60cd2577-5d30-4af1-9888-340aa1261a1f_live.html?utm_term=.1beeb5604293&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3d89e6421aa91df978afef",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/D8p0p3CSu32FvhPlBTZY2WQHlfA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRYQQ5D7ZQI6RJR7PNOSVOT2YU.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018An all-American city that speaks Spanish\u2019: Immigration isn\u2019t a problem for this Texas town \u2014 it\u2019s a way of life",
+                    "ts": 1530756061,
+                    "twitterid": 1014690580813795328,
+                    "url": "https://www.washingtonpost.com/national/an-all-american-city-that-speaks-spanish-welcome-to-the-texas-border-town-at-the-center-of-the-immigration-fight/2018/07/04/a177254c-7ef8-11e8-bb6b-c1cb691f1402_story.html?utm_term=.7dab337d3a36&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3d277f421aa9119525834f",
+                    "date_month": "2018-07",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/FlagLawn7418.jpg?itok=b95I9vRd",
+                    "origin": "Fox News",
+                    "title": "WATCH: Man Paints American Flag Onto Front Lawn for Independence Day",
+                    "ts": 1530731280,
+                    "twitterid": 1014586643049799680,
+                    "url": "http://insider.foxnews.com/2018/07/04/arthur-mccann-paints-american-flag-lawn-independence-day"
+                },
+                {
+                    "_id": "5b3e32c3421aa932c1603113",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/screen_shot_2018-07-05_at_9.38.01_am.png",
+                    "origin": "The Hill",
+                    "title": "Teenager says man threw drink at him then stole his 'Make America Great Again' hat",
+                    "ts": 1530800166,
+                    "twitterid": 1014875573364183040,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395581-viral-video-shows-throwing-drink-at-teen-wearing-make-american"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf207",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/8491c6342e0032ef80d921e26309a1236e392c0a/c=0-361-4734-3036/local/-/media/2018/06/21/USATODAY/USATODAY/636651679986677054-AP-July-Fourth-New-Jersey.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "New York, Los Angeles, Chicago top list of best US cities for Fourth of July celebrations",
+                    "ts": 1530724210,
+                    "twitterid": 1014556989266030593,
+                    "url": "https://www.usatoday.com/story/money/2018/06/27/best-cities-fourth-july-celebrations/733994002/"
+                },
+                {
+                    "_id": "5b3d43ae421aa912f7b60e1b",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/12/12/77e5d36d-5915-46ce-b496-218c87d98c5d/thumbnail/1200x630/15dcb72c6fdec4125306ed9638345480/cbsnews-1600x900.jpg",
+                    "origin": "CBS News",
+                    "title": "Breaking News, Live News stream 24x7",
+                    "ts": 1530738904,
+                    "twitterid": 1014618619551109121,
+                    "url": "https://www.cbsnews.com/"
+                },
+                {
+                    "_id": "5b3da5f8421aa921f4b3d3b1",
+                    "date_month": "2018-07",
+                    "image": "https://ore.wsj.net/fp/assets/images/ico/WSJ_facebook.png",
+                    "origin": "The Wall Street Journal",
+                    "title": "The Wall Street Journal & Breaking News, Business, Financial and Economic News, World News and Video",
+                    "ts": 1530766811,
+                    "twitterid": 1014735672622579718,
+                    "url": "https://www.wsj.com/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            86
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Billboard Hot",
+            "Brits",
+            "Art Indiana",
+            "Please Don",
+            "Stressful Life",
+            "Elite",
+            "England",
+            "ACSI",
+            "Food Network",
+            "Tom Brady",
+            "Campbell Should",
+            "Albarn",
+            "Make",
+            "Anne Tyler",
+            "Los Angeles",
+            "Sweden",
+            "Link Between Creativity",
+            "Fourth",
+            "Maine",
+            "Lucrative",
+            "Miles Teller",
+            "Lucrecia Martel",
+            "Idaho Once",
+            "LeBron James",
+            "Rapper",
+            "United States",
+            "Naperville Darkness",
+            "Shake Up Women",
+            "Family",
+            "Clock Dance",
+            "Scholarly Advice",
+            "France Ottessa Moshfegh",
+            "Boston Duck Tours",
+            "Kirsten Corley",
+            "Books",
+            "Nathan",
+            "Wimbledon",
+            "US",
+            "Cardi",
+            "Goose",
+            "BC",
+            "Early",
+            "Brokeback Mountain",
+            "Anthony Brown",
+            "BB",
+            "Miki Sudo",
+            "Bohemian",
+            "Nanette Rewrites",
+            "HBO",
+            "Golden State",
+            "Buffalo Grove",
+            "NBA",
+            "Salem Witch",
+            "Otherworldly",
+            "Detroit Rules Pay",
+            "Liberty",
+            "Mark Ulriksen",
+            "Tell Me",
+            "Pull Up",
+            "Cleveland Inventive",
+            "Quiet Slang",
+            "Ribfest",
+            "Gorillaz",
+            "Collin Sexton",
+            "Itself Organizing",
+            "Zama",
+            "Alcoholism Top",
+            "Dark Times",
+            "Russia",
+            "Valedictorian Gave",
+            "Statue",
+            "Literacy",
+            "Leggings",
+            "Whitney Houston",
+            "Croatia",
+            "Famous",
+            "Woman",
+            "Vineyard",
+            "Authentic Barbecue",
+            "Bonds Between Sex"
+        ],
+        "peaks": [],
+        "theme": [
+            "Cup",
+            "World",
+            "barbecue",
+            "July",
+            "one",
+            "summer",
+            "Top"
+        ],
+        "timestamp": "2018-07-05 11:10:35.434118-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3dc212421aa924f1deee13",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/MORsBPyht94fz0TlhPhZcKYAx00=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ACQJBDT7SAI6RO3LYHFWSHYUAI.jpg",
+                    "origin": "Washington Post",
+                    "title": "The World Cup final will include one of these teams \u2014 England, Croatia, Sweden, Russia. Really.",
+                    "ts": 1530773405,
+                    "twitterid": 1014763326746873856,
+                    "url": "https://www.washingtonpost.com/sports/dcunited/the-world-cup-final-will-include-one-of-these-teamsengland-croatia-sweden-russia-really/2018/07/04/69a8acd0-7f8e-11e8-bb6b-c1cb691f1402_story.html?utm_term=.a6d3b0c1988a&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3e1690421aa9301cebc689",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/ed1788e4f73a107c55db52fcb100b410df49b40b/c=0-0-4003-2261/local/-/media/2018/07/04/USATODAY/USATODAY/636663096657312440-AFP-AFP-1742WH.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "2018 World Cup is getting seriously dirty now",
+                    "ts": 1530792900,
+                    "twitterid": 1014845095714213888,
+                    "url": "https://www.usatoday.com/story/sports/columnist/martin-rogers/2018/07/04/world-cup-2018-tournament-soccer-dirty/757977002/"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e4f6",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/RTS1V9FA/facebook.jpg?1530795256",
+                    "origin": "The Atlantic",
+                    "title": "The Annoying Genius Who Makes the World Cup Worth Watching",
+                    "ts": 1530798423,
+                    "twitterid": 1014868263132712962,
+                    "url": "https://www.theatlantic.com/entertainment/archive/2018/07/he-annoying-genius-who-makes-the-world-cup-worth-watching/564443/?utm_term=2018-07-05T12%3A57%3A19&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3d277f421aa91195258329",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-AZ874_0702SP_SOC_20180702202149.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Please Don\u2019t Tell Me About That Thrilling World Cup Comeback",
+                    "ts": 1530734408,
+                    "twitterid": 1014599762560126977,
+                    "url": "https://www.wsj.com/articles/please-dont-tell-me-about-that-thrilling-world-cup-comeback-1530733519?mod=e2tw"
+                },
+                {
+                    "_id": "5b3d89e6421aa91df978afdb",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/33ttvTEpn2bTrp7sLFAXMAOhLts=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZEH5RWIS46ZZM444O24NHZXO4.jpg",
+                    "origin": "Washington Post",
+                    "title": "Does the United States really deserve to host another World Cup?",
+                    "ts": 1530757924,
+                    "twitterid": 1014698395154419713,
+                    "url": "https://www.washingtonpost.com/news/posteverything/wp/2018/07/04/does-the-united-states-really-deserve-to-host-another-world-cup/?utm_term=.9ee3f0875277&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3dec4a421aa926aa7a43d3",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180625121356-01-julia-guimaraes-harassment-screengrab-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "The World Cup sexism that won't go away -- and the female reporters on the front line",
+                    "ts": 1530784664,
+                    "twitterid": 1014810550910545920,
+                    "url": "https://www.cnn.com/2018/07/04/football/world-cup-female-journalist-harassment-spt-intl/index.html?utm_medium=social&utm_source=twCNN&utm_content=2018-07-05T09%3A57%3A43&utm_term=image"
+                },
+                {
+                    "_id": "5b3d43ae421aa912f7b60df9",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/590971768b51cf59fc4227f5/16:9/w_1200,h_630,c_limit/151102_r27212.jpg",
+                    "origin": "The New Yorker",
+                    "title": "The Fight for Authentic Barbecue",
+                    "ts": 1530741271,
+                    "twitterid": 1014628547422539777,
+                    "url": "https://www.newyorker.com/magazine/2015/11/02/in-defense-of-the-true-cue?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b3e24ac421aa931bc30e50c",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/5b33c8eadc55a1187b555962/16:9/w_1200,h_630,c_limit/DC070518.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Daily Cartoon: Thursday, July 5th",
+                    "ts": 1530797258,
+                    "twitterid": 1014863374956613633,
+                    "url": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-july-5th-hear-ye-hear-ye?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a3a3",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/c1f195f4a548ee0f2d7d3160ed0f577156507bf9/c=0-35-416-270/local/-/media/2018/06/29/USATODAY/USATODAY/636658771687211937-Publix5.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Inventive summer salads for a fresh take on dinner",
+                    "ts": 1530717905,
+                    "twitterid": 1014530544489717760,
+                    "url": "https://www.usatoday.com/story/sponsor-story/publix/2018/07/02/inventive-summer-salads-fresh-take-dinner/746128002/"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a3a4",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/29/BostonGlobe.com/Lifestyle/Images/1smartrecpic-krQD--371x247@BostonGlobe.com.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "3 easy no-bake summer desserts recipes",
+                    "ts": 1530717698,
+                    "twitterid": 1014529674590990337,
+                    "url": "https://www.bostonglobe.com/2018/06/29/easy-bake-summer-desserts-recipes/TxS2liLNAz0mvoqQZYlIAO/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    }
+]

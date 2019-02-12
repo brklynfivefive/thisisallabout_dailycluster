@@ -1,0 +1,768 @@
+[
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Colorado"
+        ],
+        "peaks": [],
+        "theme": [
+            "bear",
+            "Colorado",
+            "cub",
+            "Orphaned",
+            "paws",
+            "rescued",
+            "scorched"
+        ],
+        "timestamp": "2018-07-02 06:10:12.972929-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b38b45a421aa90e7c086e22",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/06/29/a5923dbb-9e45-4df5-a60b-7b118174c9c1/thumbnail/1200x630/f1e538d35b19b36ff42ad02cb8154f69/ap-18180706313670.jpg",
+                    "origin": "CBS News",
+                    "title": "Orphaned bear cub rescued after paws are scorched in Colorado wildfire",
+                    "ts": 1530440284,
+                    "twitterid": 1013366115798605824,
+                    "url": "https://www.cbsnews.com/news/colorado-cares-for-orphaned-bear-cub-that-burned-paws-416-wildfire-2018-06-29/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            12
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "EPA",
+            "Estonia",
+            "U.S.",
+            "EU",
+            "White House",
+            "Saudi Arabia",
+            "Global Warming",
+            "Thornton",
+            "New Sheriff",
+            "Global Financial Markets",
+            "Trump",
+            "Dummies",
+            "Career",
+            "Pruitt",
+            "State Department New"
+        ],
+        "peaks": [],
+        "theme": [
+            "New",
+            "Trump",
+            "Arabia",
+            "Global",
+            "increase",
+            "oil",
+            "production"
+        ],
+        "timestamp": "2018-07-02 06:10:13.343837-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b38c26f421aa90f07c59bfa",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_060718upi_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump asks Saudi Arabia to increase oil production",
+                    "ts": 1530445021,
+                    "twitterid": 1013385987651760129,
+                    "url": "http://thehill.com/policy/international/394951-trump-asks-saudi-arabia-to-increase-oil-production"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e0e",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/03/20/bc9db1cf-a4a4-4e99-8c50-66d7e4146874/thumbnail/1200x630g2/f23610f2a722b93ced35d11998581e01/ap-18079593671194.jpg",
+                    "origin": "CBS News",
+                    "title": "White House does not specify Saudi Arabia will increase oil production despite Trump tweet",
+                    "ts": 1530442084,
+                    "twitterid": 1013373668712476673,
+                    "url": "https://www.cbsnews.com/news/trump-claims-saudi-arabia-agreed-to-increase-oil-production/"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c15",
+                    "date_month": "2018-07",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iynQFLSFqUUc/v0/1200x630.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "The EU Is Emerging as the New Sheriff for Global Financial Markets",
+                    "ts": 1530442815,
+                    "twitterid": 1013376732710174720,
+                    "url": "https://www.bloomberg.com/news/articles/2018-06-15/the-eu-is-emerging-as-the-new-sheriff-for-global-financial-markets?utm_campaign=socialflow-organic&utm_content=politics&utm_source=twitter&utm_medium=social&cmpid=socialflow-twitter-businessweek&cmpid%3D=socialflow-twitter-politics"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c06",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/96/78/682ef3994602a48b6d001dc6f3bb/180523-scott-pruitt.jpg",
+                    "origin": "POLITICO",
+                    "title": "Pruitt\u2019s reading list from the public? \u2018Global Warming for Dummies\u2019",
+                    "ts": 1530444004,
+                    "twitterid": 1013381722107449344,
+                    "url": "https://www.politico.com/story/2018/06/30/pruitt-global-warming-books-epa-689500"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c0d",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/cellphonespying_062918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Foreign spying comes under new scrutiny from lawmakers",
+                    "ts": 1530443342,
+                    "twitterid": 1013378943687254016,
+                    "url": "http://thehill.com/policy/cybersecurity/394923-foreign-spying-comes-under-new-scrutiny-from-lawmakers"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e12",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_26/2483001/1870630-james-melville-al-1218_a1c3b8888916b358a5cc3f50cf371fb4.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "U.S. ambassador to Estonia to resign amid frustration with the Trump administration",
+                    "ts": 1530441902,
+                    "twitterid": 1013372902522093569,
+                    "url": "https://www.nbcnews.com/news/us-news/u-s-ambassador-estonia-resign-amid-frustration-trump-administration-n888021?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e21",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/ce/c7/1a460d97495bb821766b87da8dbb/180630actingicegettyimages-886264970.jpg",
+                    "origin": "POLITICO",
+                    "title": "New acting ICE head named as agency continues to be criticized",
+                    "ts": 1530440405,
+                    "twitterid": 1013366626497056768,
+                    "url": "https://www.politico.com/story/2018/06/30/new-ice-director-ronald-vitiello-689504"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Graham",
+            "FCC",
+            "MSNBC",
+            "MeToo Associated",
+            "Supreme Court",
+            "Trump",
+            "Manafort",
+            "America",
+            "Montana Locker Room Privacy Act",
+            "Jeanine Pirro",
+            "FBI"
+        ],
+        "peaks": [],
+        "theme": [
+            "Court",
+            "Supreme",
+            "good",
+            "Locker",
+            "talking",
+            "Trump",
+            "Act"
+        ],
+        "timestamp": "2018-07-02 06:10:13.609857-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b38c26f421aa90f07c59c02",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpgorsuch_041017gn.jpg",
+                    "origin": "The Hill",
+                    "title": "Jeanine Pirro predicts Trump\u2019s Supreme Court pick will be \u2018fantastic\u2019",
+                    "ts": 1530444544,
+                    "twitterid": 1013383983797817344,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/395004-jeanine-pirro-predicts-trumps-supreme-court-pick-will-be-fantastic"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59bfb",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180626170958-travel-ban-trump-then-and-now-orig-nws-00002328-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Does the Supreme Court have a double standard on religion?",
+                    "ts": 1530444844,
+                    "twitterid": 1013385244991524865,
+                    "url": "https://www.cnn.com/2018/06/26/politics/does-the-supreme-court-have-a-double-standard-on-religion/index.html?sr=twCNNp062618does-the-supreme-court-have-a-double-standard-on-religion0913PMStory&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59bf2",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/01/AP_16274000783345_s2048x1293.jpg?badb96b92439b82c6f8a80981a9af5bd5c88de86",
+                    "origin": "The Washington Times",
+                    "title": "Montana Locker Room Privacy Act, bid to bar transgender bathroom choice, fails to qualify for ballot",
+                    "ts": 1530445809,
+                    "twitterid": 1013389292301897728,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/1/montana-locker-room-privacy-act-bid-bar-transgende/"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c10",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/06/30/gettyimages-632853474_wide-7225fb023c04503fc85cf85791fb5aada3a56b03.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "A Lifetime Investment: Big Money Pours Into Supreme Court Battle",
+                    "ts": 1530443103,
+                    "twitterid": 1013377939558129664,
+                    "url": "https://www.npr.org/2018/07/01/624838031/a-lifetime-investment-big-money-pours-into-supreme-court-battle?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c0b",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_22/2450506/180531-donald-trump-se-428p_b9a360a41d8060a523bcce94a70ce58a.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump loves a good fight more than anything else. And his opponents are unwilling or unable to get on his level.",
+                    "ts": 1530443707,
+                    "twitterid": 1013380472964026370,
+                    "url": "https://www.nbcnews.com/think/opinion/trump-loves-good-fight-more-anything-else-his-opponents-are-ncna888076?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e24",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/XeKwzMmYdvvtVjqMylSk589QOwU=/1200x0/arc-anglerfish-washpost-prod-thelily-washpost.s3.amazonaws.com/public/NAM3FZUDINEFPFC4PKBICUOXVQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "How America\u2019s longest-running soap opera is talking about #MeToo",
+                    "ts": 1530439940,
+                    "twitterid": 1013364674484727809,
+                    "url": "https://www.thelily.com/how-americas-longest-running-soap-opera-is-talking-about-metoo/?tid=sm_tw"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59bee",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/c8/ef/bb1e0b58498cac2f0ee50ea04311/180629-paul-manafort-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Associated Press may have led FBI to Manafort storage locker",
+                    "ts": 1530446413,
+                    "twitterid": 1013391822859710465,
+                    "url": "https://www.politico.com/story/2018/06/29/paul-manafort-storage-locker-associated-press-687776"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59bf3",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/grahamlindsey_021318gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Graham on Roe v. Wade: 'You don\u2019t overturn precedent unless there\u2019s a good reason'",
+                    "ts": 1530445744,
+                    "twitterid": 1013389016975183872,
+                    "url": "http://thehill.com/homenews/senate/395023-graham-on-roe-v-wade-you-dont-overturn-precedent-unless-theres-a-good-reason"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            4
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Trump Policy Sows Confusion",
+            "Anxiety",
+            "Mexican Border Media",
+            "New Black"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "policy",
+            "parents",
+            "Across",
+            "Anxiety",
+            "Black",
+            "blasts"
+        ],
+        "timestamp": "2018-07-02 06:10:13.771575-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b38b45a421aa90e7c086e1e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/guerrerodiane_063018_getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "'Orange is the New Black' star whose parents were deported blasts Trump immigration policy",
+                    "ts": 1530440764,
+                    "twitterid": 1013368130096287746,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/395033-orange-is-the-new-black-star-whose-family-was-deported-blasts"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59bf1",
+                    "date_month": "2018-07",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imrcU8Cko.6w/v0/1200x800.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Trump Policy Sows Confusion and Anxiety Across the Mexican Border",
+                    "ts": 1530445925,
+                    "twitterid": 1013389778530783232,
+                    "url": "https://www.bloomberg.com/news/articles/2018-06-28/on-u-s-mexico-border-migrants-shuffle-from-detention-to-buses?utm_medium=social&utm_content=politics&utm_campaign=socialflow-organic&utm_source=twitter&cmpid%3D=socialflow-twitter-politics"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c0c",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/immigrant_parent_child_2.jpg",
+                    "origin": "The Hill",
+                    "title": "Media outlets unite to track down migrant children separated from parents under Trump policy",
+                    "ts": 1530443582,
+                    "twitterid": 1013379949762437120,
+                    "url": "http://thehill.com/homenews/media/395031-media-outlets-unite-to-track-down-migrant-children-separated-from-parents"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e0d",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/crisis_techcompanies_062818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump era ramps up tech worker revolt",
+                    "ts": 1530442263,
+                    "twitterid": 1013374417223798785,
+                    "url": "http://thehill.com/policy/technology/394597-trump-era-ramps-up-tech-worker-revolt"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            4
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "FEMA",
+            "Puerto Ricans"
+        ],
+        "peaks": [],
+        "theme": [
+            "across",
+            "aid",
+            "away",
+            "bags",
+            "banned",
+            "blocks",
+            "changed"
+        ],
+        "timestamp": "2018-07-02 06:10:14.043257-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b38c26f421aa90f07c59bfe",
+                    "date_month": "2018-07",
+                    "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--OgMdDvP_--/b_white,c_fill,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1530111611440/Plastic_bag.png",
+                    "origin": "USA TODAY",
+                    "title": "Plastic bags are being banned across the US\u2014here's what you need to do",
+                    "ts": 1530444610,
+                    "twitterid": 1013384260844171265,
+                    "url": "https://www.reviewed.com/home-outdoors/features/plastic-bags-are-being-banned-these-are-the-best-alternatives"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c01",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_26/2291001/ss-180112-displaced-puerto-ricans-florida-11_a8d68ee4b501148d76e25ba5c4804c06.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Judge temporarily blocks FEMA from ending housing aid to Puerto Ricans displaced after hurricane",
+                    "ts": 1530444605,
+                    "twitterid": 1013384241277698049,
+                    "url": "https://www.nbcnews.com/storyline/puerto-rico-crisis/judge-temporarily-extends-fema-housing-program-displaced-puerto-ricans-n888036?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c13",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180622143805-sf-dads-egg-donor-main-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Two dads, an egg donor and a surrogate: How a freezer failure changed everything",
+                    "ts": 1530442865,
+                    "twitterid": 1013376942526095360,
+                    "url": "https://www.cnn.com/2018/06/28/health/embryos-egg-donor-surrogate/index.html?utm_medium=social&utm_content=2018-07-01T11%3A01%3A03&utm_term=image&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e13",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/kuBkRdYlu4q-5v02Er3USVvymjA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OKJGFD3EUI6RLCOIIPPOFSZEM.jpg",
+                    "origin": "Washington Post",
+                    "title": "When their mom fell ill far away, these immigrant siblings faced a crisis",
+                    "ts": 1530441724,
+                    "twitterid": 1013372157857017856,
+                    "url": "https://www.washingtonpost.com/national/health-science/when-their-mom-fell-ill-far-away-these-immigrant-siblings-faced-a-crisis/2018/06/29/8dc0878c-5dec-11e8-b2b8-08a538d9dbd6_story.html?utm_term=.e6eaa5622452&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Trump",
+            "US"
+        ],
+        "peaks": [],
+        "theme": [
+            "Another",
+            "chang",
+            "Citizens",
+            "company",
+            "considering",
+            "eu",
+            "motorcycle"
+        ],
+        "timestamp": "2018-07-02 06:10:14.110030-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b38b45a421aa90e7c086e19",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_tariffs_040318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Another US motorcycle company considering moving production overseas",
+                    "ts": 1530441063,
+                    "twitterid": 1013369386185478144,
+                    "url": "http://thehill.com/policy/finance/394996-another-us-motorcycle-company-considering-moving-production-overseas"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e1a",
+                    "date_month": "2018-07",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXdL173vfcKU/v0/1200x809.png",
+                    "origin": "Bloomberg Politics",
+                    "title": "What\u2019s Worrying EU Citizens",
+                    "ts": 1530441009,
+                    "twitterid": 1013369158661230592,
+                    "url": "https://www.bloomberg.com/news/articles/2018-06-15/what-s-worrying-eu-citizens?cmpid=socialflow-twitter-businessweek&utm_source=twitter&utm_medium=social&utm_campaign=socialflow-organic&utm_content=politics&cmpid%3D=socialflow-twitter-politics"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            14
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Mitt Romney",
+            "Rocket",
+            "Hard",
+            "Halfway",
+            "Amazon",
+            "Utah",
+            "Markey",
+            "Japan Soaking",
+            "Thunder",
+            "Donald Trump",
+            "Mia Love",
+            "AMLO May Win",
+            "Song Similarity Arnold Schwarzenegger",
+            "Brand Muse Ed Sheeran Sued",
+            "Paul George",
+            "Mexico"
+        ],
+        "peaks": [],
+        "theme": [
+            "best",
+            "Meet",
+            "Mexico",
+            "Song",
+            "agrees",
+            "Amazon",
+            "AMLO"
+        ],
+        "timestamp": "2018-07-02 06:10:14.663729-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b38b45a421aa90e7c086e1b",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/6a6ff76ba734a3b6dcd2b90400430c3fc3b53b4c/c=2-0-1177-664/local/-/media/2018/06/29/USATODAY/USATODAY/636658682326719117-6-29-deals-hero.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Here are Amazon's 5 best deals right now",
+                    "ts": 1530441005,
+                    "twitterid": 1013369142739599360,
+                    "url": "https://www.usatoday.com/story/tech/reviewedcom/2018/06/29/here-amazons-5-best-deals-right-now/36474281/"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c0a",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/06/AP_18179073591969/facebook.jpg?1530200735",
+                    "origin": "The Atlantic",
+                    "title": "AMLO May Win in Mexico\u2014and Take on Donald Trump",
+                    "ts": 1530443742,
+                    "twitterid": 1013380619617951744,
+                    "url": "https://www.theatlantic.com/international/archive/2018/06/mexico-obrador-election-trump-nafta-pena-nieto/563993/?utm_term=2018-06-28T18%3A13%3A52&utm_campaign=the-atlantic&utm_content=edit-promo&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e1d",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/07/01/meet-4-candidates-vying-to-become-mexicos-president/_jcr_content/par/featured-media/media-0.img.png/0/0/1530418133081.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "Meet the 4 candidates vying to become Mexico's president",
+                    "ts": 1530440789,
+                    "twitterid": 1013368237491392513,
+                    "url": "http://www.foxnews.com/world/2018/07/01/meet-4-candidates-vying-to-become-mexicos-president.html"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59bfd",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/5ab0162dde3c0011c8daa18b/16:9/w_1200,h_630,c_limit/Ciccone-Meet-Our-Brand-Muse.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Meet Our Brand Muse",
+                    "ts": 1530444610,
+                    "twitterid": 1013384263981559808,
+                    "url": "https://www.newyorker.com/humor/daily-shouts/meet-our-brand-muse?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e0a",
+                    "date_month": "2018-07",
+                    "image": "https://nbcprobasketballtalk.files.wordpress.com/2018/04/gettyimages-949806036-e1524905446370.jpg",
+                    "origin": "NBC News",
+                    "title": "Paul George agrees to stay with Thunder on max contract",
+                    "ts": 1530442806,
+                    "twitterid": 1013376693598343168,
+                    "url": "https://nba.nbcsports.com/2018/07/01/paul-george-agrees-to-stay-with-thunder-on-max-contract/?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c03",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/06/28/gettyimages-923654546_wide-eacd1a147228e7f2df7c0c9b0a4461b90e37bcbb.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Ed Sheeran Sued For $100 Million Over Supposed Song Similarity",
+                    "ts": 1530444480,
+                    "twitterid": 1013383716373221376,
+                    "url": "https://www.npr.org/2018/06/28/624405244/ed-sheeran-sued-for-100-million-over-supposed-song-similarity?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180630"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e10",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/06/GettyImages_899188472/facebook.jpg?1530037486",
+                    "origin": "The Atlantic",
+                    "title": "Letters: \u2018Parenting Is Hard. We All Do Our Best.\u2019",
+                    "ts": 1530441906,
+                    "twitterid": 1013372918796038144,
+                    "url": "https://www.theatlantic.com/letters/archive/2018/06/letters-parenting-is-hard-we-all-do-our-best/563642/?utm_source=atltw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            13
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "House",
+            "Computers",
+            "Rosenstein Squirm Trump",
+            "Apparel",
+            "Electronics",
+            "Scottish",
+            "MAGA",
+            "Democratic Party",
+            "DNC",
+            "Books",
+            "United States",
+            "DVDs",
+            "WaPo",
+            "Maxine Waters",
+            "Portland",
+            "Obama",
+            "CNN"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "CNN",
+            "reporters",
+            "shooting",
+            "Acosta",
+            "amazon",
+            "antics"
+        ],
+        "timestamp": "2018-07-02 06:10:14.915451-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b38c26f421aa90f07c59c04",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/acosta_021517getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Ex-CNN producer hits Acosta for 'self-serving antics' during Trump event",
+                    "ts": 1530444304,
+                    "twitterid": 1013382978565820416,
+                    "url": "http://thehill.com/homenews/media/395024-ex-cnn-producer-hits-acosta-for-self-serving-antics-during-trump-event"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e0f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_rally_082217getty.jpg",
+                    "origin": "The Hill",
+                    "title": "CNN plays montage of Trump attacking media after he praised reporters",
+                    "ts": 1530441962,
+                    "twitterid": 1013373157477093376,
+                    "url": "http://thehill.com/homenews/media/394955-cnn-plays-montage-of-trump-attacking-media-after-he-praised-reporters"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59bfc",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/06/29/69f29e72-63eb-47ba-9518-b3cfdbc51480/thumbnail/1200x630/c8a2e73469ab1975fa20189b553d058d/rts1ugi4-3.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump says newspaper shooting \"shocked the conscience of our nation\"",
+                    "ts": 1530444783,
+                    "twitterid": 1013384987297579008,
+                    "url": "https://www.cbsnews.com/news/trump-celebrates-gop-tax-bill-live-updates/"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c0e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/rally_trumpdonald_110716getty.jpg",
+                    "origin": "The Hill",
+                    "title": "WaPo columnist: Trump is \u2018fomenting violence\u2019 against journalists",
+                    "ts": 1530443104,
+                    "twitterid": 1013377947485564928,
+                    "url": "http://thehill.com/homenews/media/394972-conservative-columnist-trump-is-fomenting-violence-against-journalists"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e0b",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/trumpscotland073015getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump sought to purchase historic Scottish building for hotel: report",
+                    "ts": 1530442562,
+                    "twitterid": 1013375671521902603,
+                    "url": "http://thehill.com/homenews/administration/395035-trump-sought-to-purchase-historic-scottish-building-for-hotel-report"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c12",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/scotttim_102517gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Tim Scott: Discussing race with Trump was 'painful' but made me 'hopeful'",
+                    "ts": 1530442866,
+                    "twitterid": 1013376945726291969,
+                    "url": "http://thehill.com/homenews/senate/395032-tim-scott-discussing-race-with-trump-was-painful-but-made-me-hopeful"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            5
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Former Charlestown Catholic",
+            "DNA",
+            "Capital Gazette",
+            "Boise",
+            "Idaho"
+        ],
+        "peaks": [],
+        "theme": [
+            "suspect",
+            "Idaho",
+            "killing",
+            "police",
+            "say",
+            "stabbed",
+            "apartment"
+        ],
+        "timestamp": "2018-07-02 06:10:15.061556-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b38c26f421aa90f07c59c11",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/dam/fox-news/images/2018/07/01/idahostabbing1.jpg.img.png/0/0/1530442220467.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "9 stabbed at Idaho apartment complex; suspect in custody, police say",
+                    "ts": 1530443012,
+                    "twitterid": 1013377559617261570,
+                    "url": "http://www.foxnews.com/us/2018/07/01/9-stabbed-at-idaho-apartment-complex-suspect-in-custody-police-say.html"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e1c",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/US/arlis-perry-gty-jpo-180629_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Suspect in 44-year-old killing shoots himself to death as police close in with DNA evidence",
+                    "ts": 1530441004,
+                    "twitterid": 1013369135785443329,
+                    "url": "https://abcnews.go.com/US/suspect-44-year-killing-shoots-death-police-close/story?id=56262649&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c00",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180629135854-capital-gazette-paper-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Capital Gazette suspect blocked entrance, then started 'hunting and killing,' official says",
+                    "ts": 1530444608,
+                    "twitterid": 1013384252732395520,
+                    "url": "https://www.cnn.com/2018/06/30/us/capital-gazette-shooting/index.html?utm_source=twCNN&utm_term=image&utm_medium=social&utm_content=2018-07-01T11%3A30%3A07"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c08",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/04/sirens_s2048x1194.jpg?b496e55510bf7d1f142aba7123a36fc0cd023aa5",
+                    "origin": "The Washington Times",
+                    "title": "Boise, Idaho mass stabbing injures 9",
+                    "ts": 1530443833,
+                    "twitterid": 1013381003178643457,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/1/boise-idaho-mass-stabbing-injures-9/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "NBA",
+            "Chris Paul",
+            "Paul George"
+        ],
+        "peaks": [],
+        "theme": [
+            "agency",
+            "Chris",
+            "Durant",
+            "free",
+            "George",
+            "Kevin",
+            "NBA"
+        ],
+        "timestamp": "2018-07-02 06:10:15.077877-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b38b45a421aa90e7c086e1f",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/30/BostonGlobe.com/Sports/Images/beb66171c87a4a28b16dfa0c462257e1-beb66171c87a4a28b16dfa0c462257e1-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "NBA free agency: Kevin Durant, Paul George, Chris Paul say they\u2019re staying put",
+                    "ts": 1530440489,
+                    "twitterid": 1013366977019211777,
+                    "url": "https://www.bostonglobe.com/sports/celtics/2018/07/01/nba-free-agency-kevin-durant-paul-george-chris-paul-say-they-staying-put/vbAcOBZKtVlPlz88N01MqL/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    }
+]

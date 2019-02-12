@@ -1,0 +1,2326 @@
+[
+    {
+        "list": [
+            11
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Ryan Gosling",
+            "Mouse Club",
+            "Rocket",
+            "Canadian",
+            "Russian",
+            "Britney Spears",
+            "New",
+            "Neil Armstrong",
+            "U.S.",
+            "Opportunity",
+            "Mister Rogers",
+            "Crew",
+            "International Space Station"
+        ],
+        "peaks": [],
+        "theme": [
+            "space",
+            "astronauts",
+            "Crew",
+            "failure",
+            "first",
+            "human",
+            "moon"
+        ],
+        "timestamp": "2018-10-13 17:10:19.044372-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc151e1421aa96903ffd08f",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/12/PBRE/21191ae4-1be1-4d5e-8226-640e2bfbe068-exp57_ovchinin_hague.jpg?crop=2047,1147,x0,y80&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Russian rocket failure could leave International Space Station without crew",
+                    "ts": 1539393003,
+                    "twitterid": 1050916543645794305,
+                    "url": "https://www.usatoday.com/story/tech/nation-now/2018/10/12/russian-rocket-failure-space-station-crew/1619693002/"
+                },
+                {
+                    "_id": "5bc1c24c421aa971520030a1",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/11/a0099749-ea21-4ed9-a879-78b25233bec2/thumbnail/1200x630/9ff1b4f4c316f6daa621aec3fe56f9b7/soyuz-rocket-failure-ap-18284339599394.jpg",
+                    "origin": "CBS News",
+                    "title": "Rocket failure forces emergency landing for U.S. and Russian astronauts",
+                    "ts": 1539424083,
+                    "twitterid": 1051046902559584256,
+                    "url": "https://www.cbsnews.com/news/soyuz-rocket-launch-abort-mission-iss-nasa-astronaut-russians-ballistic-descent/"
+                },
+                {
+                    "_id": "5bc1de6f421aa97300438a9d",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/_YL9VkoLC6wRUmo314w6m1JmiVw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UDUW5TAK3QI6RCYNRELAEIDPW4.jpg",
+                    "origin": "Washington Post",
+                    "title": "The most profound broadcast in human history came from space",
+                    "ts": 1539430002,
+                    "twitterid": 1051071729685151744,
+                    "url": "https://www.washingtonpost.com/opinions/the-most-profound-broadcast-in-human-history-came-from-space/2018/10/12/236adc3e-ce26-11e8-a360-85875bac0b1f_story.html?utm_term=.568aea1fe7f4&tid=sm_tw"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a66b1",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/spaceforce_082018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Canadian astronaut says human space travel will advance 'sooner than you think'",
+                    "ts": 1539379800,
+                    "twitterid": 1050861166598213633,
+                    "url": "https://thehill.com/hilltv/rising/411105-canadian-astronaut-says-human-travel-will-advance-sooner-than-you-think"
+                },
+                {
+                    "_id": "5bc16e03421aa96a4ca7295c",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/ffP0nEPBbIbcv5T1dYD0fbNxe8w=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2FCCIXWIGII6RMPNDUWWLODNBQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018First Man\u2019 shows Neil Armstrong mourning his daughter on the moon. But did that really happen?",
+                    "ts": 1539402370,
+                    "twitterid": 1050955829434900480,
+                    "url": "https://www.washingtonpost.com/history/2018/10/12/first-man-shows-neil-armstrong-mourning-his-daughter-moon-did-that-really-happen/?utm_term=.1ffa8d0ccfeb&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bc17c03421aa96ae08877a5",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181011113206-wonders-of-the-universe-supernova-iptf-14gqr-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Astronomers witness birth of binary star system for the first time",
+                    "ts": 1539405965,
+                    "twitterid": 1050970911183183872,
+                    "url": "https://www.cnn.com/2018/10/11/world/supernova-neutron-star-binary-space/index.html?utm_term=image&utm_medium=social&utm_content=2018-10-13T04%3A46%3A04&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bc17c03421aa96ae0887799",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_41/2598156/181009-lockheed-martin-lunar-lander-2x1-mn-1420_e649b2459c16e56d52b56f02523f6ab7.1200;630;7;70;5.gif",
+                    "origin": "NBC News",
+                    "title": "New moon lander would be a big step up from Apollo-era 'modules'",
+                    "ts": 1539406812,
+                    "twitterid": 1050974462882004992,
+                    "url": "https://www.nbcnews.com/mach/science/new-moon-lander-would-be-big-step-apollo-era-modules-ncna918316"
+                },
+                {
+                    "_id": "5bc17c03421aa96ae08877aa",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/12/4e07ddae-9f90-4a1e-8d34-7ade3bb8d871/thumbnail/1200x630/b0c28a8e2b6f537047f6604007595f82/mr-rogers-movie-set-pittsbugh-accident-101118.jpg",
+                    "origin": "CBS News",
+                    "title": "Crew member dies after 2-story fall on set of Mister Rogers movie",
+                    "ts": 1539405183,
+                    "twitterid": 1050967630650200064,
+                    "url": "https://www.cbsnews.com/news/mr-rogers-movie-crew-member-dies-after-fall-today-2018-10-12/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bc1757e04d3011d65206803&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            53
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Greater Boston",
+            "Celtics",
+            "Giant Puppets",
+            "Nope",
+            "Chilean Priests",
+            "Classic",
+            "Place Comes Down",
+            "Bobblehead Hall",
+            "Kansas Uncommon",
+            "Catholic",
+            "Pennsylvania",
+            "Tom Brady",
+            "Claims",
+            "John Proctor",
+            "Nonviolence Polish",
+            "BC",
+            "Dodgers",
+            "Washington Archbishop",
+            "Kitchen",
+            "Amalfi Coast",
+            "Donald Wuerl",
+            "George Springer",
+            "Home",
+            "Good",
+            "New Hampshire",
+            "Louisville",
+            "Trump",
+            "XL Fleet Watch Boston Dynamics",
+            "Sex Abuse",
+            "NLCS Orland Park",
+            "Calls Him",
+            "California",
+            "Gordon Ramsay",
+            "Royal",
+            "Rich",
+            "NLCS Brewers",
+            "Pope Accepts Wuerl",
+            "HUBweek Silent Disco",
+            "Mark Wahlberg",
+            "Kershaw",
+            "Powerful",
+            "Interest Groups Compete",
+            "Plastic Maker From Norwest Equity Boston Symphony",
+            "Gordon Hayward Pope Francis Is",
+            "Final Appearance",
+            "MeToo",
+            "Model Bishop Recipes",
+            "DC Cardinal",
+            "Nolan Gould",
+            "Boston Dynamics",
+            "PETA",
+            "Brussels",
+            "Fame Things",
+            "Duck Sex",
+            "Cardinal Wuerl"
+        ],
+        "peaks": [],
+        "theme": [
+            "Sex",
+            "Abuse",
+            "Pope",
+            "Boston",
+            "Brewers",
+            "Cardinal",
+            "take"
+        ],
+        "timestamp": "2018-10-13 17:10:20.134039-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc143da421aa968439759e6",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/10/RTX1S30Y-1024x726.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Read Pope Francis\u2019 letter defending Cardinal Wuerl\u2019s \u2018mistakes\u2019 in sex abuse scandal",
+                    "ts": 1539391200,
+                    "twitterid": 1050908979658932224,
+                    "url": "https://www.pbs.org/newshour/world/read-pope-francis-letter-defending-cardinal-wuerls-mistakes-in-sex-abuse-scandal"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab36f6",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/10/RTX6EU8E/facebook.jpg?1539347130",
+                    "origin": "The Atlantic",
+                    "title": "The Catholic Sex-Abuse Scandal Takes Down a Cardinal",
+                    "ts": 1539388277,
+                    "twitterid": 1050896719024676864,
+                    "url": "https://www.theatlantic.com/politics/archive/2018/10/cardinal-wuerl-resigns-catholic-sex-abuse-scandal/572812/?utm_source=twitter&utm_medium=social&utm_term=2018-10-12T13%3A37%3A29&utm_content=edit-promo&utm_campaign=the-atlantic"
+                },
+                {
+                    "_id": "5bc1fa96421aa9753553bda5",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/10/RTS23Z1E/facebook.jpg?1539365240",
+                    "origin": "The Atlantic",
+                    "title": "Pope Francis Is Still Equivocating on the Sex-Abuse Crisis",
+                    "ts": 1539438101,
+                    "twitterid": 1051105695679025152,
+                    "url": "https://www.theatlantic.com/international/archive/2018/10/pope-francis-sex-abuse-synod-wuerl/572869/?utm_campaign=the-atlantic&utm_source=twitter&utm_content=edit-promo&utm_medium=social&utm_term=2018-10-13T09%3A00%3A55"
+                },
+                {
+                    "_id": "5bc208a8421aa97617399075",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/10/RTX6EYE3-1024x686.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Pope defrocks 2 more Chilean priests accused of sex abuse",
+                    "ts": 1539441674,
+                    "twitterid": 1051120683261067264,
+                    "url": "https://www.pbs.org/newshour/world/pope-defrocks-2-more-chilean-priests-accused-of-sex-abuse"
+                },
+                {
+                    "_id": "5bc216b9421aa976d52ed084",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/13/gettyimages-1020303598_wide-dd543184e2a96984961bac534215748c0002b36f.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Pope Francis Defrocks 2 Chilean Priests In Deepening Sex Abuse Scandal",
+                    "ts": 1539444425,
+                    "twitterid": 1051132222021894144,
+                    "url": "https://www.npr.org/2018/10/13/657125556/pope-francis-defrocks-2-chilean-priests-in-deepening-sex-abuse-scandal?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab371f",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/popefrancis-cardinals_09182018.jpg",
+                    "origin": "The Hill",
+                    "title": "Pope accepts embattled DC Cardinal's resignation",
+                    "ts": 1539385680,
+                    "twitterid": 1050885826870108160,
+                    "url": "https://thehill.com/homenews/news/411092-pope-accepts-dc-cardinals-resignation"
+                },
+                {
+                    "_id": "5bc216b9421aa976d52ed07b",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/13/nlcs_dodgers_brewers_baseball_58610_s2048x1430.jpg?e8a6c332f3da7afd414eb9ebee73cc6b126ecbf6",
+                    "origin": "The Washington Times",
+                    "title": "Reliever Woodruff's homer stuns Kershaw, Brewers take Game 1",
+                    "ts": 1539445077,
+                    "twitterid": 1051134956469215233,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/13/reliever-woodruffs-homer-stuns-kershaw-brewers-tak/"
+                },
+                {
+                    "_id": "5bc1b438421aa9708a1065f7",
+                    "date_month": "2018-10",
+                    "image": "https://media.newyorker.com/photos/591b36915563a363018f5feb/16:9/w_1200,h_630,c_limit/Prum-Duck-Sex-And-The-Patriarchy.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Duck Sex and the Patriarchy",
+                    "ts": 1539420981,
+                    "twitterid": 1051033889223925760,
+                    "url": "https://www.newyorker.com/tech/annals-of-technology/duck-sex-and-the-patriarchy"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a66b9",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/08/BostonGlobe.com/Magazine/Images/1014THINGSFORWEB.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Things to do in Greater Boston this fall",
+                    "ts": 1539379084,
+                    "twitterid": 1050858163694698497,
+                    "url": "https://www.bostonglobe.com/magazine/2018/10/12/things-greater-boston-this-fall/jK0Kt46KxnnH3lzLBbUhSO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc17c03421aa96ae08877a2",
+                    "date_month": "2018-10",
+                    "image": "https://nbchardballtalk.files.wordpress.com/2018/10/gettyimages-1052001022-e1539404547512.jpg",
+                    "origin": "NBC News",
+                    "title": "Brewers edge past Dodgers to claim 1-0 lead in NLCS",
+                    "ts": 1539406205,
+                    "twitterid": 1050971914129350656,
+                    "url": "https://mlb.nbcsports.com/2018/10/13/brewers-edge-past-dodgers-to-claim-1-0-lead-in-nlcs/?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            76
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Oval",
+            "Michael Cohen",
+            "Michaels",
+            "Trump Considers Ambassador",
+            "Former Trump Adviser Michael Flynn",
+            "EPA",
+            "Kanye West Trump",
+            "Stephen Miller",
+            "White House Monologue Flirted",
+            "Demand",
+            "Warren",
+            "Get",
+            "Don Lemon",
+            "Chicago",
+            "Kanye West",
+            "Canada",
+            "White House",
+            "Prince",
+            "Ohio Watchdog",
+            "House",
+            "Lebanon",
+            "Barbara Kingsolver",
+            "Donald Trump",
+            "Kavanaugh",
+            "New York Times",
+            "Scraps Harris",
+            "Next U.N",
+            "Purple States",
+            "New York",
+            "Oval Office Trump",
+            "Democratic Party The Memo",
+            "Trump Trump",
+            "Latest",
+            "Envoy Kanye West",
+            "Lee",
+            "Trump",
+            "Men",
+            "Kelly",
+            "Us Are",
+            "Trump Leonard Cohen",
+            "Watch",
+            "Haley",
+            "Scandalmongers Feast",
+            "Census Who",
+            "Kentucky John Kelly",
+            "Kushner",
+            "Elizabeth Warren",
+            "John Kelly",
+            "AP",
+            "GOP",
+            "Grant",
+            "American",
+            "Mueller Key Democrat",
+            "Trump Praises Robert",
+            "MAGA",
+            "Kanye",
+            "Beto",
+            "Jeff Flake",
+            "America Wake",
+            "NOT",
+            "Sanders",
+            "U.N. Trump",
+            "Fellow",
+            "Michael Sussmann",
+            "Ohio",
+            "Marc Thiessen",
+            "Trump Teacher",
+            "Obama Donald Trump",
+            "Russia",
+            "Civil War",
+            "Hatch Act"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Kanye",
+            "West",
+            "rally",
+            "Ohio",
+            "called",
+            "GOP"
+        ],
+        "timestamp": "2018-10-13 17:10:21.377502-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc1a627421aa96fcdfaf0b5",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2016/11/11/9c31b467-4f41-4180-9a30-1ebc2144af01/thumbnail/1200x630g2/1d33a6f7dfb039af59e6c61a3c528acd/leonard-cohen-getty-165881136.jpg",
+                    "origin": "CBS News",
+                    "title": "Leonard Cohen wrote a diss poem called \"Kanye West Is Not Picasso\"",
+                    "ts": 1539416883,
+                    "twitterid": 1051016702115364864,
+                    "url": "https://www.cbsnews.com/news/leonard-cohen-wrote-a-diss-poem-called-kanye-west-is-not-picasso/"
+                },
+                {
+                    "_id": "5bc143da421aa968439759e1",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Trump-Kanye-7-Getty.jpg",
+                    "origin": "Fox News Politics",
+                    "title": "Trump at Ohio rally calls Kanye \u2018amazing,\u2019 predicts Republicans will win over black voters",
+                    "ts": 1539391536,
+                    "twitterid": 1050910388697616384,
+                    "url": "https://www.foxnews.com/politics/trump-at-ohio-rally-calls-kanye-amazing-predicts-republicans-will-win-over-black-voters"
+                },
+                {
+                    "_id": "5bc127b7421aa966368bda3a",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/11/558d5628-6f05-4ead-83ba-c7905387e860/thumbnail/1200x630/cc34057cd0f3415bf7a8d7cb0e169214/cbsn-fusion-trump-republicans-go-on-the-offensive-against-democrats-thumbnail-1681918-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump visits Ohio for his third rally this week",
+                    "ts": 1539384717,
+                    "twitterid": 1050881787004682240,
+                    "url": "https://www.cbsnews.com/news/trump-visits-ohio-for-his-third-rally-this-week/?ftag=CNM-00-10aab7e&linkId=58117275"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab371e",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_10122018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Watch live: Trump holds rally in Lebanon, Ohio",
+                    "ts": 1539385682,
+                    "twitterid": 1050885837930582016,
+                    "url": "https://thehill.com/homenews/administration/411225-watch-live-trump-holds-rally-in-lebanon-ohio"
+                },
+                {
+                    "_id": "5bc15fec421aa96985b23467",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/14/5c/82aaba66454ebb14ba1bd3059571/181012-trump-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump praises Robert E. Lee during Ohio rally",
+                    "ts": 1539398554,
+                    "twitterid": 1050939827082940417,
+                    "url": "https://www.politico.com/story/2018/10/12/trump-robert-e-lee-898520"
+                },
+                {
+                    "_id": "5bc1d057421aa97242fb3811",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:067aaf12824a488fa066abdaff622ccc/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "At Ohio rally, Trump takes another victory lap",
+                    "ts": 1539427506,
+                    "twitterid": 1051061258722693122,
+                    "url": "https://apnews.com/ec12e8b8495443dab0eabed82ee914c2?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5bc151e1421aa96903ffd08d",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/12/Election_2018_Trump_60990.jpg-0b1d1_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Trump makes post-Kanye West appeal to black voters, asked them to 'honor' GOP with support",
+                    "ts": 1539393267,
+                    "twitterid": 1050917651571195904,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/12/trump-makes-post-kanye-west-appeal-black-voters-as/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork"
+                },
+                {
+                    "_id": "5bc18a15421aa96dd1c283f6",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181011162613-the-point-20181011-kanye-trump-composite-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "What Kanye West teaches us about Trump",
+                    "ts": 1539408904,
+                    "twitterid": 1050983235235315712,
+                    "url": "https://www.cnn.com/2018/10/11/politics/kanye-west-donald-trump-meeting/index.html?utm_medium=social&utm_source=twCNNp&utm_content=2018-10-13T05%3A35%3A03&utm_term=image"
+                },
+                {
+                    "_id": "5bc24ef1421aa979f60dc9ba",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/10/08/48dad0834e8a9d2185c79157c391/image.png",
+                    "origin": "POLITICO",
+                    "title": "Donald Trump and Kanye West remix the government",
+                    "ts": 1539459009,
+                    "twitterid": 1051193392456261632,
+                    "url": "https://www.politico.com/story/2018/10/11/trump-kanye-white-house-meeting-895342"
+                },
+                {
+                    "_id": "5bc224c4421aa9779b8cf116",
+                    "date_month": "2018-10",
+                    "image": "http://www.trbimg.com/img-5bc0e04f/turbine/ct-met-kanye-west-trump-huppke-20181012",
+                    "origin": "Chicago Tribune",
+                    "title": "Kanye West is a new Republican hero \u2014 so here are some lyrics the GOP can sing",
+                    "ts": 1539448759,
+                    "twitterid": 1051150398306824193,
+                    "url": "http://www.chicagotribune.com/news/opinion/huppke/ct-met-kanye-west-trump-huppke-20181012-story.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            112
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "American Dream Settle",
+            "Michael Buble",
+            "Know",
+            "Kilimanjaro",
+            "Catholic",
+            "Applebee",
+            "Canada",
+            "Britain",
+            "Report",
+            "Nirvana",
+            "Rage Salvadorans",
+            "\u00d3scar Romero The Bahamas",
+            "Singapore",
+            "Youth",
+            "Sydney Apple",
+            "Nicole Maines",
+            "Quest",
+            "Next Big Swim",
+            "Natalie Portman",
+            "Public Life",
+            "Acute",
+            "Archbishop Oscar Romero",
+            "Battles",
+            "Brian Donnelly Mixes High",
+            "FDA",
+            "Off Fans",
+            "Patriotic Football Game",
+            "Compose Songs",
+            "Museums Taylor Swift",
+            "Baghdad",
+            "Facebook",
+            "Lindsey Buckingham",
+            "Mark Dayton",
+            "National Mall",
+            "Princess Eugenie",
+            "Emotions West Virginia",
+            "Women",
+            "Boys",
+            "Veteran Climbs Mt",
+            "Ability",
+            "Diet",
+            "Taylor Swift",
+            "English",
+            "West Nile",
+            "Runner",
+            "MeToo",
+            "Voiceless",
+            "Mass",
+            "Bitter Taste",
+            "U.S.",
+            "Room",
+            "Chicago",
+            "Who",
+            "Tina Turner",
+            "Sand",
+            "Parenthood",
+            "Nike",
+            "Amazon",
+            "San Francisco",
+            "Texas",
+            "George",
+            "Sophie Calle",
+            "New Jersey",
+            "Dearly Departed Cat Teacher",
+            "Pharrell",
+            "Bush",
+            "Fleetwood Mac",
+            "Chris Cornell",
+            "Remedy",
+            "Navy",
+            "Nonprofits",
+            "Alexa",
+            "Roger Ailes",
+            "China",
+            "IRS Internal Watchdog Faults Vigilance",
+            "Bono",
+            "Wine World How",
+            "Eddie Vedder",
+            "HIV",
+            "Wild Salmon Caravan Connects Future Of Fish And Indigenous People Students",
+            "Kavanaugh",
+            "New York Times",
+            "Army",
+            "New York",
+            "Reyna Grande",
+            "National Law",
+            "Trump",
+            "Pearl Jam",
+            "GOP Michigan",
+            "Congo Historic",
+            "Low",
+            "Russian",
+            "TV",
+            "Leather District",
+            "Jack Brooksbanks",
+            "Viagra"
+        ],
+        "peaks": [],
+        "theme": [
+            "says",
+            "New",
+            "Year",
+            "report",
+            "fight",
+            "home",
+            "Stars"
+        ],
+        "timestamp": "2018-10-13 17:10:23.347493-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc1d057421aa97242fb381d",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/10/Screen_Shot_2018_10_11_at_11.00.41_PM/facebook.png?1539313407",
+                    "origin": "The Atlantic",
+                    "title": "YouTube Stars Are Being Accused of Profiting Off Fans\u2019 Depression",
+                    "ts": 1539426413,
+                    "twitterid": 1051056676265177089,
+                    "url": "https://www.theatlantic.com/technology/archive/2018/10/youtube-stars-accused-of-profiting-off-depression-betterhelp-shane-dawson-phillip-defranco-elle-mills/572803/?utm_content=edit-promo&utm_source=twitter&utm_term=2018-10-12T12%3A32%3A40&utm_medium=social&utm_campaign=the-atlantic"
+                },
+                {
+                    "_id": "5bc1981f421aa96f101a6ea7",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/13/05e0535c-ff22-4e46-839c-f8f2fd496f14/thumbnail/1200x630g2/3970554ddbb5adb2a6b9861f2aa19b2d/ap-18109689742581.jpg",
+                    "origin": "CBS News",
+                    "title": "Report: Selena Gomez hospitalized for mental health treatment",
+                    "ts": 1539412383,
+                    "twitterid": 1050997828477161472,
+                    "url": "https://www.cbsnews.com/news/report-selena-gomez-hospitalized-for-mental-health-treatment/"
+                },
+                {
+                    "_id": "5bc151e1421aa96903ffd07a",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/BarrieCV90MkIV.jpg",
+                    "origin": "Fox News",
+                    "title": "\u2018Terminator\u2019 tanks with \u2018invisibility\u2019 cloaking will fight future wars",
+                    "ts": 1539394620,
+                    "twitterid": 1050923323964645376,
+                    "url": "https://www.foxnews.com/tech/terminator-tanks-with-invisibility-cloaking-will-fight-future-wars"
+                },
+                {
+                    "_id": "5bc1de6f421aa97300438aad",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/n1233ZX1WuzckGbmbCLfVsRZn6c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S3BL56FQT42FPFANKLSTTN53CE.jpg",
+                    "origin": "Washington Post",
+                    "title": "How to make seasonal, sippable mulled beverages at home",
+                    "ts": 1539428483,
+                    "twitterid": 1051065357824348161,
+                    "url": "https://www.washingtonpost.com/news/voraciously/wp/2018/10/12/how-to-make-seasonal-sippable-mulled-beverages-at-home/?utm_term=.20bedda0d9f1&tid=sm_tw"
+                },
+                {
+                    "_id": "5bc25d00421aa97acec2cd60",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/43f541a6-woman-kitchen-upset-thinking-istock.jpg",
+                    "origin": "Fox News",
+                    "title": "1 in 4 Americans has a close family member they haven\u2019t seen in a decade: report",
+                    "ts": 1539463440,
+                    "twitterid": 1051211975835828224,
+                    "url": "https://www.foxnews.com/lifestyle/1-in-4-americans-have-a-close-family-member-they-havent-seen-in-a-decade-report-claims"
+                },
+                {
+                    "_id": "5bc216b9421aa976d52ed096",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/12/BostonGlobe.com/Ideas/Images/webHIVresearch.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Scientists have a new weapon against HIV: your phone",
+                    "ts": 1539442888,
+                    "twitterid": 1051125774709903360,
+                    "url": "https://www.bostonglobe.com/ideas/2018/10/13/scientists-have-new-weapon-against-hiv-your-phone/tVvYaKtJQ6Cc7IyPzvVIlJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc232d6421aa9785fef1fa9",
+                    "date_month": "2018-10",
+                    "image": "https://media.newyorker.com/photos/5bbce2408688f82d6d6684be/16:9/w_1200,h_630,c_limit/Petrusich-Me-Too.jpg",
+                    "origin": "The New Yorker",
+                    "title": "One Year of #MeToo: A Younger Generation\u2019s Remedy for Rage",
+                    "ts": 1539450588,
+                    "twitterid": 1051158071504973825,
+                    "url": "https://www.newyorker.com/culture/culture-desk/one-year-of-metoo-a-younger-generations-remedy-for-rage?mbid=social_twitter"
+                },
+                {
+                    "_id": "5bc240e7421aa979272b4f68",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/10/10102018_n-starling8201_s1406x2048.jpg?7d7fe7969dd45cd178ba9e6b9b27119ac0314536",
+                    "origin": "The Washington Times",
+                    "title": "Abundant, nutritious food, available close by and year-round",
+                    "ts": 1539453647,
+                    "twitterid": 1051170902128373761,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/10/abundant-nutritious-food-available-close-by-and-ye/?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign="
+                },
+                {
+                    "_id": "5bc16e03421aa96a4ca7296d",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/1bfe9ca59127d5d420a51002b1eb09052c118a72/c=0-0-996-560/local/-/media/2018/10/10/USATODAY/usatsports/Reviewed.com-RvEW-22147-Upgrade-Hero.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "10 things under $50 to give your home a serious upgrade",
+                    "ts": 1539401404,
+                    "twitterid": 1050951778211164160,
+                    "url": "https://www.usatoday.com/story/tech/reviewedcom/2018/10/10/10-things-under-50-to-give-your-home-a-serious-upgrade/38113239/?hootPostID=ae0e5bc7fe39575dfe6e65c6a922778a"
+                },
+                {
+                    "_id": "5bc17c03421aa96ae08877b9",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/JBHoG8Wg_uqR3CN3e8jn_3bW6Vw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LS6LTWWGIII6RHAPF75PNVBCVI.jpg",
+                    "origin": "Washington Post",
+                    "title": "A doctor is taking over Planned Parenthood \u2014 and she\u2019s ready to fight",
+                    "ts": 1539403920,
+                    "twitterid": 1050962330064949248,
+                    "url": "https://www.washingtonpost.com/local/social-issues/a-doctor-is-taking-over-planned-parenthood--and-shes-ready-to-fight/2018/10/11/e12fbc3c-c8c0-11e8-b2b5-79270f9cce17_story.html?utm_term=.60d133c68fc0&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            45
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Boehner",
+            "New Democratic",
+            "Gaza",
+            "Dorchester",
+            "Wiz Khalifa Michigan",
+            "Malibu",
+            "Nepal",
+            "Georgia",
+            "San Francisco",
+            "Leftist Mob",
+            "Israeli",
+            "White",
+            "USA Gymnastics",
+            "Himalayas",
+            "Gunman",
+            "Fox News Update",
+            "Banksy",
+            "Florida",
+            "Balloon",
+            "Bin",
+            "Wicker Park",
+            "Harvard",
+            "Missouri State",
+            "Shkreli",
+            "Simone Biles",
+            "Watch Method",
+            "MeToo",
+            "Colin Kaepernick"
+        ],
+        "peaks": [],
+        "theme": [
+            "black",
+            "man",
+            "calls",
+            "woman",
+            "white",
+            "police",
+            "shot"
+        ],
+        "timestamp": "2018-10-13 17:10:23.901970-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc25d00421aa97acec2cd7b",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_41/2598886/181010-corey-lewis-babysitter-mc-1124_8508659ededa40cfb0538b9b1a5208c7.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Georgia woman calls police on black man baby-sitting 2 white kids",
+                    "ts": 1539460816,
+                    "twitterid": 1051200970959585281,
+                    "url": "https://www.nbcnews.com/news/us-news/georgia-woman-calls-police-black-man-babysitting-2-white-kids-n918476?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bc15fec421aa96985b23473",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/brooklyn_woman_1012.png",
+                    "origin": "The Hill",
+                    "title": "White woman called police to falsely accuse black child of groping her",
+                    "ts": 1539397686,
+                    "twitterid": 1050936185156198400,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/411241-white-woman-called-police-to-falsely-accuse-black-child-of?rnd=1539397315"
+                },
+                {
+                    "_id": "5bc1de6f421aa97300438aa1",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/11/6d7d359c-1792-45fd-8620-7b25c3e78791/thumbnail/1200x630/b6010f403486a3210f691fdb4d8e4ec9/screen-shot-2018-10-11-at-9-23-17-am.png",
+                    "origin": "CBS News",
+                    "title": "White woman apparently called cops on black man babysitting two white children",
+                    "ts": 1539429484,
+                    "twitterid": 1051069553751597056,
+                    "url": "https://www.cbsnews.com/news/white-woman-apparently-called-cops-on-black-man-babysitting-two-white-children/"
+                },
+                {
+                    "_id": "5bc16e03421aa96a4ca72959",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/brooklyn_woman_1012.png",
+                    "origin": "The Hill",
+                    "title": "White woman called police on black child she falsely accused of groping her",
+                    "ts": 1539402965,
+                    "twitterid": 1050958325171585024,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/411241-white-woman-called-police-to-falsely-accuse-black-child-of?rnd=1539397315&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bc1b438421aa9708a106604",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/d3492a56195f35466a1d42464d6da486225881f6/c=0-609-2991-2299/local/-/media/2018/04/17/USATODAY/USATODAY/636595732691911561-AP-BLACK-TEEN-SHOOTING-ARREST-99156679.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Man who shot at black teen from porch found guilty of assault",
+                    "ts": 1539419405,
+                    "twitterid": 1051027280124960769,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/10/12/man-guilty-teens-porch-shooting/1622387002/"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a66bc",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/ziegler_jeffrey.jpg",
+                    "origin": "The Hill",
+                    "title": "White man convicted after shooting at black teen asking for directions",
+                    "ts": 1539378785,
+                    "twitterid": 1050856907781619718,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/411211-white-man-convicted-after-shooting-at-black-teen-asking-for"
+                },
+                {
+                    "_id": "5bc151e1421aa96903ffd07b",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/12/d649576e-2daa-40b9-bbba-d517d85ce750/thumbnail/1200x630/7f74dd6713432e43541d057cf7318eb6/screen-shot-2018-10-12-at-5-29-18-pm.png",
+                    "origin": "CBS News",
+                    "title": "Michigan man who shot at black teen on front porch found guilty",
+                    "ts": 1539394256,
+                    "twitterid": 1050921796965416961,
+                    "url": "https://www.cbsnews.com/news/michigan-man-who-shot-at-black-teen-who-knocked-on-his-door-found-guilty/?ftag=CNM-00-10aab7e&linkId=58118187"
+                },
+                {
+                    "_id": "5bc1de6f421aa97300438aa9",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/13/BostonGlobe.com/Metro/Images/image_6483441%20(3).JPG",
+                    "origin": "The Boston Globe",
+                    "title": "Man shot and killed in Dorchester",
+                    "ts": 1539428627,
+                    "twitterid": 1051065959425998848,
+                    "url": "https://www.bostonglobe.com/metro/2018/10/12/police-respond-dorchester-shooting/XskqgFqjrw35Rb9OFW90oK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab3718",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_41/2598886/181010-corey-lewis-babysitter-mc-1124_8508659ededa40cfb0538b9b1a5208c7.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Audio reveals white woman called 911 on black baby sitter because she had a 'funny feeling'",
+                    "ts": 1539386165,
+                    "twitterid": 1050887860025548800,
+                    "url": "https://www.nbcnews.com/news/us-news/audio-reveals-white-woman-called-911-black-babysitter-because-she-n919541?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a6696",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/NmYfIly-3sPd_8aJcT3gwiZ7G_U=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/57TSZVZIMFGVBIVWMUHUKPLXVE.png",
+                    "origin": "Washington Post",
+                    "title": "The man who shot at a teenager who\u2019d knocked on his door for directions is found guilty",
+                    "ts": 1539381483,
+                    "twitterid": 1050868222323511297,
+                    "url": "https://www.washingtonpost.com/nation/2018/10/11/teen-missed-school-bus-when-he-knocked-door-directions-man-shot-him/?utm_term=.cbfd9b930249&tid=sm_tw&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            39
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "America",
+            "Saudi",
+            "U.S.",
+            "Washington Post",
+            "Disappearance Saudi",
+            "Saudis",
+            "Salmon",
+            "Saudi Arabia Saudi",
+            "Saudi Arabia",
+            "Jamal Khashoggi Turkish",
+            "Mohammed",
+            "Business",
+            "Turkey",
+            "Jamal Khashoggi",
+            "US Trump",
+            "Tapper",
+            "Latest",
+            "Saudia Arabia",
+            "Trump",
+            "Taylor Swift",
+            "Saudis Trump",
+            "Saudi Arabia Killed Jamal Khashoggi",
+            "Disappearance Risks Costly",
+            "GOP",
+            "How Saudi Arabia",
+            "Washington As",
+            "Mnuchin",
+            "Khashoggi",
+            "Newspaper",
+            "Turkish",
+            "Will",
+            "Amid",
+            "Richard Branson",
+            "Power Struggles Behind Khashoggi",
+            "Saudi Consulate Saudi"
+        ],
+        "peaks": [],
+        "theme": [
+            "Saudi",
+            "Trump",
+            "Khashoggi",
+            "Arabia",
+            "disappearance",
+            "journalist",
+            "killed"
+        ],
+        "timestamp": "2018-10-13 17:10:24.625276-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc1ec7e421aa974069e0189",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_100810.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump vows 'severe punishment' if Saudia Arabia killed journalist",
+                    "ts": 1539434223,
+                    "twitterid": 1051089432739237888,
+                    "url": "https://thehill.com/policy/international/411248-trump-vows-severe-punishment-if-saudia-arabia-killed-journalist"
+                },
+                {
+                    "_id": "5bc16e03421aa96a4ca72975",
+                    "date_month": "2018-10",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/101218_graham2.jpg?itok=gkdIVoWB",
+                    "origin": "Fox News",
+                    "title": "Graham: If Saudi Arabia Killed Jamal Khashoggi, It Will 'Destroy' Relationship With US",
+                    "ts": 1539400620,
+                    "twitterid": 1050948490790981633,
+                    "url": "http://insider.foxnews.com/2018/10/12/jamal-khashoggi-disappearance-lindsey-graham-possible-effect-us-saudi-arabia-relationship"
+                },
+                {
+                    "_id": "5bc1ec7e421aa974069e0180",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/10/RTX6EAW6/facebook.jpg?1539354612",
+                    "origin": "The Atlantic",
+                    "title": "How Saudi Arabia Is Addressing Jamal Khashoggi\u2019s Disappearance",
+                    "ts": 1539434773,
+                    "twitterid": 1051091738658557952,
+                    "url": "https://www.theatlantic.com/international/archive/2018/10/saudi-arabia-jamal-khashoggi/572830/?utm_source=twitter&utm_term=2018-10-12T16%3A23%3A09&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo"
+                },
+                {
+                    "_id": "5bc25d00421aa97acec2cd5c",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/12/694940094001_5847975240001_5847978825001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Trump warns of \u2018severe punishment\u2019 if Saudi Arabia behind writer\u2019s disappearance",
+                    "ts": 1539463912,
+                    "twitterid": 1051213954482102274,
+                    "url": "https://www.foxnews.com/world/trump-warns-of-severe-punishment-if-saudi-arabia-behind-writers-disappearance"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a66ae",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/article_images/uber_080316getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Uber CEO pulls out of Saudi Arabia conference over Khashoggi disappearance",
+                    "ts": 1539379865,
+                    "twitterid": 1050861437957152768,
+                    "url": "https://thehill.com/policy/technology/411089-uber-ceo-pulls-out-of-saudi-arabia-conference-over-khashoggi-disappearance"
+                },
+                {
+                    "_id": "5bc1981f421aa96f101a6ea4",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/03/21a2097d-802f-48ad-9bf4-ed0f53ee91ed/thumbnail/1200x630/f5dc9326d4f95c884a5553ec0c52b061/saudi-writer-ap-18276106181315.jpg",
+                    "origin": "CBS News",
+                    "title": "Turkish officials reportedly have recordings proving Saudi journalist was killed",
+                    "ts": 1539413283,
+                    "twitterid": 1051001604885884928,
+                    "url": "https://www.cbsnews.com/news/jamal-khashoggi-saudi-journalist-turkish-officials-reportedly-obtained-recordings-proving-killing/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bc1952204d3011584699910&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab370f",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:f8dc99ef56ab4716b6c6352be38f64f1/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump vows to unearth truth about Khashoggi disappearance",
+                    "ts": 1539386497,
+                    "twitterid": 1050889255994699777,
+                    "url": "https://www.apnews.com/29a1b5499dcc405eb579a42786d8a75d?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab3716",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/Ul7kWW_y0hLwLAjYBMm3Z_0uogw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LFSF5VWONUI6REQP3VJODLSFOA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump says he will call Saudi king about Khashoggi\u2019s disappearance, calls it \u2018a terrible thing\u2019",
+                    "ts": 1539386285,
+                    "twitterid": 1050888364034002944,
+                    "url": "https://www.washingtonpost.com/politics/trump-says-he-will-call-saudi-king-about-khashoggis-disappearance-calls-it-a-terrible-thing/2018/10/12/a12edcee-ce6a-11e8-920f-dd52e1ae4570_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a66a0",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/article_images/trumpsaudi_052017_getty1.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump to call Saudi king about missing journalist",
+                    "ts": 1539380765,
+                    "twitterid": 1050865211836641280,
+                    "url": "https://thehill.com/homenews/administration/411218-trump-to-call-saudi-king-about-missing-journalist"
+                },
+                {
+                    "_id": "5bc224c4421aa9779b8cf129",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/171129094854-trump-jr-07-18-2016-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Trump Jr. retweets unsubstantiated claim on missing Saudi journalist",
+                    "ts": 1539447309,
+                    "twitterid": 1051144320559009792,
+                    "url": "https://www.cnn.com/2018/10/13/politics/donald-trump-jr-jamal-khashoggi/index.html?utm_term=image&utm_medium=social&utm_source=twCNN&utm_content=2018-10-13T16%3A15%3A08"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            66
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "CNN Campaign",
+            "Asian",
+            "America",
+            "Stephen Miller",
+            "Kyrsten Sinema",
+            "Faces Fresh Blow",
+            "Historical Stronghold Dem",
+            "Iowa From",
+            "Stacey Abrams",
+            "Arizona",
+            "Texas Stephen Miller",
+            "Congress Largely",
+            "Democrat Abrams",
+            "Cruz Democratic",
+            "Supreme Court",
+            "White House",
+            "Arizona Senate",
+            "North Dakota",
+            "Minnesota",
+            "Georgia",
+            "Senate Merkel",
+            "House",
+            "Hollywood",
+            "Saudi Arabia",
+            "County Fair",
+            "US North Dakota",
+            "Turkey",
+            "DNC",
+            "Kemp American",
+            "Already Wobbling",
+            "Texas Senate",
+            "Quentin Palfrey",
+            "Latest",
+            "Michael Bloomberg",
+            "Pence Addresses Indiana Republican Party Fall Dinner Stephen Miller",
+            "New Hampshire",
+            "Trump",
+            "Native",
+            "Taylor Swift",
+            "Senate",
+            "GOP Candidate Kemp Sued Over Voter Suppression Claim Bloomberg",
+            "Afghanistan Trump",
+            "School Shootings",
+            "GOP",
+            "New Jersey South Carolina",
+            "Wisconsin",
+            "Midterm Ballots",
+            "Brink",
+            "Taliban",
+            "Senate Dem",
+            "Biggest Stories",
+            "Authoritarianism New Findings",
+            "Beto",
+            "US",
+            "John Cox",
+            "Hurricane Shuts Classrooms",
+            "South Carolina Kyrsten Sinema",
+            "Russian",
+            "Ohio",
+            "Fusion",
+            "Taylor Swift Had",
+            "NAACP",
+            "Phil Bredesen",
+            "Deadlines Loom",
+            "California Brazil",
+            "FBI",
+            "Pelosi",
+            "Tennessee",
+            "Trahan",
+            "Cornyn"
+        ],
+        "peaks": [],
+        "theme": [
+            "Democrat",
+            "Senate",
+            "Voter",
+            "candidate",
+            "GOP",
+            "races",
+            "New"
+        ],
+        "timestamp": "2018-10-13 17:10:25.711692-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc240e7421aa979272b4f3f",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_gura_TiffanyCross_101813_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "GOP Candidate Kemp Sued Over Voter Suppression Claim",
+                    "ts": 1539457205,
+                    "twitterid": 1051185824455380993,
+                    "url": "https://www.msnbc.com/david-gura/watch/ugliest-midterms-ever-gop-candidate-kemp-sued-over-voter-suppression-claim-1343523395945?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bc151e1421aa96903ffd078",
+                    "date_month": "2018-10",
+                    "image": "http://www.trbimg.com/img-5bc12d52/turbine/ct-georgia-brian-kemp-sued-voter-registrations-20181012",
+                    "origin": "Chicago Tribune",
+                    "title": "Georgia GOP governor candidate sued, accused of preventing minority voter registration",
+                    "ts": 1539394672,
+                    "twitterid": 1050923542248914945,
+                    "url": "http://www.chicagotribune.com/news/nationworld/politics/ct-georgia-brian-kemp-sued-voter-registrations-20181012-story.html"
+                },
+                {
+                    "_id": "5bc224c4421aa9779b8cf130",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/cockburnleslie_vagop.jpg",
+                    "origin": "The Hill",
+                    "title": "Virginia GOP says Democratic candidate \u2018hates America\u2019",
+                    "ts": 1539446470,
+                    "twitterid": 1051140797930848256,
+                    "url": "https://thehill.com/homenews/campaign/411258-virginia-gop-says-democratic-candidate-hates-america"
+                },
+                {
+                    "_id": "5bc240e7421aa979272b4f3d",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_mtpd_clip_mtmwismin_181011_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Democrats lead in major Wisconsin, Minnesota races in new NBC News/Marist poll",
+                    "ts": 1539457212,
+                    "twitterid": 1051185855849787392,
+                    "url": "https://www.msnbc.com/mtp-daily/watch/democrats-lead-in-major-wisconsin-minnesota-races-in-new-nbc-news-marist-poll-1342200387634?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bc25d00421aa97acec2cd75",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/cuHAEei-ZAaMhuTwHtJDyuCrS5Q=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZKM4LHIAJHW3ATWUFKGUR763U.png",
+                    "origin": "Washington Post",
+                    "title": "Self-described \u2018communists\u2019 tried to donate to a Democrat. They were actually GOP activists.",
+                    "ts": 1539460922,
+                    "twitterid": 1051201417120243714,
+                    "url": "https://www.washingtonpost.com/politics/2018/10/13/self-described-communists-tried-donate-democrat-they-were-actually-gop-activists/?utm_term=.a9c6bfaf483b&tid=sm_tw"
+                },
+                {
+                    "_id": "5bc1ec7e421aa974069e019e",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/wolftom_022416getty.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP gov candidate says he will 'stomp' Dem opponent's face with 'golf spikes'",
+                    "ts": 1539432069,
+                    "twitterid": 1051080395654123520,
+                    "url": "https://thehill.com/homenews/campaign/411176-gop-candidate-says-he-will-stomp-on-tom-wolfs-face-with-golf-spikes-in-ad"
+                },
+                {
+                    "_id": "5bc15fec421aa96985b23471",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170424154457-heidi-heitkamp-3-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "A voter ID decision could impact Native Americans -- and the Senate race -- in North Dakota",
+                    "ts": 1539397803,
+                    "twitterid": 1050936674316967936,
+                    "url": "https://www.cnn.com/2018/10/12/politics/north-dakota-voter-id-native-americans/index.html?utm_medium=social&utm_source=twCNNp&utm_content=2018-10-13T02%3A30%3A02&utm_term=image"
+                },
+                {
+                    "_id": "5bc17c03421aa96ae08877be",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/07/5c43baa3-1595-4846-9a99-08e935b76e3e/thumbnail/1200x630/ab1af974105b716c0774c9e6c1aefaa5/gettyimages-607812008.jpg",
+                    "origin": "CBS News",
+                    "title": "North Dakota voter ID law upheld by Supreme Court could affect Senate race",
+                    "ts": 1539403383,
+                    "twitterid": 1050960078675824640,
+                    "url": "https://www.cbsnews.com/news/north-dakota-voter-id-law-upheld-by-supreme-court-could-affect-senate-race/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bc16e7500bd470001e847b1&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bc1ec7e421aa974069e017e",
+                    "date_month": "2018-10",
+                    "image": "http://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "New details emerge on anti-Trump dossier as House GOP seeks Fusion GPS boss testimony",
+                    "ts": 1539434859,
+                    "twitterid": 1051092099536474113,
+                    "url": "https://www.foxnews.com/politics/new-details-emerge-on-anti-trump-dossier-as-house-gop-seeks-fusion-gps-boss-testimony"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab36ff",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/vgjNzkkSpX_ywLSIwYAQ6rhK5P8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FNVEPUWKPUI6RI3AQWDVXLALD4.jpg",
+                    "origin": "Washington Post",
+                    "title": "In Senate battleground, Native American voting rights activists fight back against voter ID restrictions",
+                    "ts": 1539387484,
+                    "twitterid": 1050893396250906630,
+                    "url": "https://www.washingtonpost.com/politics/in-senate-battleground-native-american-voting-rights-activists-fight-back-against-voter-id-restrictions/2018/10/12/7bc33ad2-cd60-11e8-a360-85875bac0b1f_story.html?tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            9
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Tip",
+            "Detroit"
+        ],
+        "peaks": [],
+        "theme": [
+            "funeral",
+            "home",
+            "found",
+            "infants",
+            "Bodies",
+            "Detroit",
+            "ceiling"
+        ],
+        "timestamp": "2018-10-13 17:10:25.820583-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc15fec421aa96985b23463",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/iKNOCandE9Q0Ps3CUlNdytyYnKQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P372FXFHAII6RLLPBADXBXG5YI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Bodies of 11 babies found in the ceiling of a former funeral home in Detroit",
+                    "ts": 1539398886,
+                    "twitterid": 1050941216056053761,
+                    "url": "https://www.washingtonpost.com/nation/2018/10/13/bodies-babies-found-ceiling-former-funeral-home-detroit/?__twitter_impression=true&__twitter_impression=true&__twitter_impression=true&tid=ss_tw&utm_term=.f4106723888a"
+                },
+                {
+                    "_id": "5bc16e03421aa96a4ca72969",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/05/15/db1c5b26-3d80-4897-a95f-6f23e5d04d02/thumbnail/1200x630/79c65847705eca99a6205280e3b1ab98/istock-480170594.jpg",
+                    "origin": "CBS News",
+                    "title": "Bodies of 11 infants found in ceiling of closed funeral home, authorities say",
+                    "ts": 1539401525,
+                    "twitterid": 1050952286678212609,
+                    "url": "https://www.cbsnews.com/news/cantrell-funeral-home-detroit-infant-bodies-found-today-2018-10-12/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bc1673204d30167fca9dc00&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bc1c24c421aa9715200309e",
+                    "date_month": "2018-10",
+                    "image": "http://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Decomposed remains of 11 infants found in ceiling of shuttered Detroit funeral home, police say",
+                    "ts": 1539424320,
+                    "twitterid": 1051047894931857409,
+                    "url": "https://www.foxnews.com/us/decomposed-remains-of-11-infants-found-in-ceiling-of-shuttered-detroit-funeral-home-police-say"
+                },
+                {
+                    "_id": "5bc1a627421aa96fcdfaf0ba",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/nc_detroit_funeral_181012__236486.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Bodies of 11 infants found in former funeral home",
+                    "ts": 1539416043,
+                    "twitterid": 1051013181433360384,
+                    "url": "https://www.nbcnews.com/video/bodies-of-11-infants-found-in-former-funeral-home-1343384131590?v=raila&cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc18a15421aa96dd1c28405",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_41/2603291/181012-cantrell-funeral-home-ac-941p_a76fbb9616cae4178e972892e4734fc8.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Bodies of 11 babies found in shuttered Detroit funeral home",
+                    "ts": 1539407499,
+                    "twitterid": 1050977344222060544,
+                    "url": "https://www.nbcnews.com/news/crime-courts/bodies-11-babies-found-shuttered-detroit-funeral-home-n919776?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc16e03421aa96a4ca72963",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/13/PDTF/d0bcc2df-d472-4a2d-9b50-181e5d625017-Cantrell_Funeral_Home.jpg?crop=2399,1349,x1,y251&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Police: 11 infant bodies found in ceiling of former funeral home",
+                    "ts": 1539402189,
+                    "twitterid": 1050955072602017792,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/10/12/infant-bodies-found-funeral-home/1623713002/"
+                },
+                {
+                    "_id": "5bc224c4421aa9779b8cf106",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2014/07/07/police-car_s2048x1357.jpg?c74c089b5009d1d2b89c6afa0615e9ae41292ce9",
+                    "origin": "The Washington Times",
+                    "title": "Remains of 11 infants found hidden inside former funeral home: Detroit police",
+                    "ts": 1539450005,
+                    "twitterid": 1051155624585809925,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/13/remains-11-infants-found-hidden-inside-former-fune/"
+                },
+                {
+                    "_id": "5bc216b9421aa976d52ed095",
+                    "date_month": "2018-10",
+                    "image": "https://apnews.com/images/ShareLogo.png",
+                    "origin": "AP Central U.S.",
+                    "title": "Tip leads to hidden infant remains at Detroit funeral home",
+                    "ts": 1539442901,
+                    "twitterid": 1051125829491671040,
+                    "url": "http://apnews.com/e1999a3eb37e43d09ee20ba163e25331?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=APCentralRegion"
+                },
+                {
+                    "_id": "5bc224c4421aa9779b8cf12d",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/1AuiJyyn_wAKbmcHDPp0KezXaSs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P6BP7OVHAII6RLLPBADXBXG5YI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Inside an abandoned funeral home: A hidden compartment, a casket \u2014 and 11 dead infants",
+                    "ts": 1539446843,
+                    "twitterid": 1051142363157069829,
+                    "url": "https://www.washingtonpost.com/nation/2018/10/13/inside-an-abandoned-funeral-home-hidden-compartment-casket-dead-infants/?utm_term=.ead2e25fbd15&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            95
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Drew Brees Warren Buffett Finally Sells Beach House",
+            "China",
+            "Jared Kushner",
+            "Economic News",
+            "Market Turmoil Merrimack Valley",
+            "Chiefs",
+            "Recent Cyberattack",
+            "Fed Chair",
+            "Stock",
+            "Face Wrath",
+            "Red Led Trump",
+            "Roberto Osuna Underperformers",
+            "Hinch",
+            "U.S.",
+            "Red Sox",
+            "Edward Lampert",
+            "Justin Verlander",
+            "Kimball Crossley",
+            "Chicago",
+            "Land",
+            "Kanye West",
+            "Powerball",
+            "MLB",
+            "North Dakota",
+            "Debut",
+            "World News",
+            "Alex Cora",
+            "ALCS Mega Millions",
+            "Business",
+            "Next",
+            "Martin Maldonado",
+            "Sears Unfortunately",
+            "Keyless",
+            "Boston",
+            "Martinez",
+            "Farm Bust Clean",
+            "SoftBank Gives Startups Billions",
+            "America Is",
+            "Yankees",
+            "Gentler Slowdown Than",
+            "Wall Street Slight",
+            "China Anaplan Shares",
+            "IPOs For",
+            "Financial",
+            "New Break The New Yorker Subscription For Next U.S. Census",
+            "Climate Pessimism Malaysia",
+            "Mega Millions",
+            "Wall Street",
+            "IRS",
+            "Space Replace Boots",
+            "Wealthy Russians",
+            "Grave No",
+            "Mnuchin",
+            "Blame Fed",
+            "Pitch",
+            "Cameras",
+            "Step Closer",
+            "Kevin Youkilis",
+            "British",
+            "China Numbers",
+            "Comeback Captain Reflects",
+            "Boom Tom Brady",
+            "US",
+            "Chris Sale",
+            "Nasdaq",
+            "Wall Street Journal",
+            "Trade Summit",
+            "Astros Mega Millions",
+            "Combine",
+            "Video Managerial",
+            "Reasons",
+            "Beijing",
+            "Fannie Mae",
+            "Putin",
+            "Nuclear Technology Exports",
+            "Wild Ride Medicare",
+            "Ground Tesla",
+            "Trump Campaigns Congressional Republicans Ohio",
+            "Donald Trump",
+            "ALCS",
+            "Patriots",
+            "Retraction Watch",
+            "Facebook",
+            "Aston Martin"
+        ],
+        "peaks": [],
+        "theme": [
+            "million",
+            "Red",
+            "Trump",
+            "jackpots",
+            "Mega",
+            "Sox",
+            "Astros"
+        ],
+        "timestamp": "2018-10-13 17:10:26.962683-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc240e7421aa979272b4f48",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/10/12/USATODAY/usatsports/mega-millions-lottery.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Mega Millions, Powerball jackpots total $968 million",
+                    "ts": 1539456304,
+                    "twitterid": 1051182047543402497,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/10/12/mega-millions-powerball-total-862-m-weekend/1612435002/"
+                },
+                {
+                    "_id": "5bc208a8421aa9761739907e",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/13/BostonGlobe.com/Sports/Images/2b4d5ea369154dd4bab37b6c3651a949-2b4d5ea369154dd4bab37b6c3651a949-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Red Sox set roster for ALCS vs. Astros",
+                    "ts": 1539440805,
+                    "twitterid": 1051117037072859139,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/13/red-sox-set-roster-for-alcs-astros/5lef93bcQ2NVYAryogXQtI/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc240e7421aa979272b4f45",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/13/BostonGlobe.com/Sports/Images/ae928f0bff5249cfac029dc041d41278-ae928f0bff5249cfac029dc041d41278-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "ALCS Game 1: Astros at Red Sox lineups and notes",
+                    "ts": 1539456936,
+                    "twitterid": 1051184697718509568,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/13/alcs-game-astros-red-sox-lineups-and-notes/boPhKIdLb4cZlCcZPLf9fL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bc17c03421aa96ae08877bf",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/12/BostonGlobe.com/Sports/Images/Tlumacki_soxvsastrosgame3_sports171.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "How the Red Sox and Astros match up, position by position",
+                    "ts": 1539403323,
+                    "twitterid": 1050959826904342528,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/12/how-red-sox-and-astros-match-position-position/xv3gbAhGkNbrMZpX64hCcN/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc15fec421aa96985b23458",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/12/BostonGlobe.com/Sports/Images/1046755264.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Moral victory for Red Sox: They passed on acquiring Astros closer Roberto Osuna",
+                    "ts": 1539399608,
+                    "twitterid": 1050944247409627137,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/12/moral-victory-for-red-sox-they-passed-acquiring-astros-closer-roberto-osuna/XeHFHT23kvSUDpGJX8Z7YJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc224c4421aa9779b8cf108",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/12/BostonGlobe.com/Sports/Images/Chin101218RedSoxWorkout_Spt9.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Major League Baseball scout Kimball Crossley previews the Red Sox-Astros ALCS",
+                    "ts": 1539449837,
+                    "twitterid": 1051154921934991361,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/13/here-real-mlb-scout-outlook-red-sox-astros-alcs/B3faeGbbxRbd2D844ElPYN/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc143da421aa96843975a0e",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/12/BostonGlobe.com/Sports/Images/Chin101218RedSoxWorkout_Spt2-23120.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Red Sox at the center of Boston\u2019s fantastic fortnight",
+                    "ts": 1539388990,
+                    "twitterid": 1050899711186690048,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/12/red-sox-center-boston-fantastic-fortnight/F9X3xjzXGeM3YPyCZxilvK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc1a627421aa96fcdfaf0b2",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/5ebe493e-ContentBroker_contentid-59badec83d9043cdaf631d40105a11c0.png",
+                    "origin": "Fox News",
+                    "title": "Mega Millions jackpot grows to $654 million",
+                    "ts": 1539417180,
+                    "twitterid": 1051017947378999296,
+                    "url": "https://www.foxnews.com/entertainment/mega-millions-jackpot-grows-to-654-million"
+                },
+                {
+                    "_id": "5bc15fec421aa96985b23468",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/10/BostonGlobe.com/ReceivedContent/Images/Davisaldsgame4-21.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Underperformers and other thoughts on the Red Sox\u2019 playoff run",
+                    "ts": 1539398464,
+                    "twitterid": 1050939447448088576,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/12/underperformers-and-other-thoughts-red-sox-playoff-run/n8qbsDqSeTDJFxh2hD8y8H/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc16e03421aa96a4ca72973",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/US/mega-millions-ap_071918_hpMain_3_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Numbers drawn in Mega Millions' $548 million jackpot",
+                    "ts": 1539400702,
+                    "twitterid": 1050948832559812608,
+                    "url": "https://abcnews.go.com/US/numbers-drawn-mega-millions-548-million-jackpot/story?id=58472254"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            24
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "White House",
+            "Turkey Pastor Brunson",
+            "Trump",
+            "Turkish",
+            "Germany Trump",
+            "Oval Office Pastor Andrew Brunson",
+            "Arrives",
+            "Oval Office",
+            "Turkey US",
+            "Andrew Brunson Trump",
+            "Oval Office Trump",
+            "U.S.",
+            "Turkey Andrew Brunson",
+            "American",
+            "Andrew Brunson",
+            "Freed From Detention",
+            "Turkey Donald Trump",
+            "Latest",
+            "Turkey Freed Pastor Brunson"
+        ],
+        "peaks": [],
+        "theme": [
+            "Pastor",
+            "Trump",
+            "Brunson",
+            "freed",
+            "Andrew",
+            "Turkey",
+            "American"
+        ],
+        "timestamp": "2018-10-13 17:10:27.328566-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc208a8421aa9761739906c",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/13/694940094001_5848232330001_5848229147001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Trump to meet with freed American pastor Andrew Brunson in Oval Office",
+                    "ts": 1539442551,
+                    "twitterid": 1051124361665613824,
+                    "url": "https://www.foxnews.com/politics/trump-to-meet-with-freed-american-pastor-andrew-brunson-in-oval-office"
+                },
+                {
+                    "_id": "5bc24ef1421aa979f60dc9b1",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/13/APTOPIX_Trump_American_Pastor_80707.jpg-67a7f_s2048x1346.jpg?1cc0cca447b4bf1e601c95bc65e4b1c71b5b6e17",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump welcomes home freed American pastor Andrew Brunson",
+                    "ts": 1539459357,
+                    "twitterid": 1051194852602519552,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/13/donald-trump-welcomes-andrew-brunson-turkey/"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab370b",
+                    "date_month": "2018-10",
+                    "image": "http://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Andrew Brunson, American pastor detained in Turkey, is freed, sentenced to time served",
+                    "ts": 1539386905,
+                    "twitterid": 1050890966016634880,
+                    "url": "https://www.foxnews.com/world/andrew-brunson-american-pastor-detained-in-turkey-is-freed-sentenced-to-time-served"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a66b5",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_10122018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump to host American pastor freed by Turkey",
+                    "ts": 1539379325,
+                    "twitterid": 1050859174794547200,
+                    "url": "https://thehill.com/homenews/administration/411212-trump-to-host-american-pastor-freed-by-turkey"
+                },
+                {
+                    "_id": "5bc143da421aa968439759f7",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/12/turkey_american_pastor_19619_s2048x1383.jpg?78a003fceec4a53fcff2f2ab1381c20a031c7841",
+                    "origin": "The Washington Times",
+                    "title": "Trump heralds return of freed American Pastor Andrew Brunson: 'He is on his way back'",
+                    "ts": 1539390177,
+                    "twitterid": 1050904688898580480,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/12/trump-heralds-return-freed-american-pastor-andrew-/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork"
+                },
+                {
+                    "_id": "5bc24ef1421aa979f60dc9b0",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/brunsontrump.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Pastor Andrew Brunson meets with Trump after release from detention in Turkey",
+                    "ts": 1539459483,
+                    "twitterid": 1051195378249461768,
+                    "url": "https://www.nbcnews.com/news/world/pastor-andrew-brunson-meets-trump-after-release-detention-turkey-n919811?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc224c4421aa9779b8cf10b",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/12/USAT/61a3e54d-87f6-4c99-87fc-14edf6028f3f-AFP_AFP_19Z1NK.JPG?crop=3102,1736,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Pastor Andrew Brunson lands in U.S. after release from Turkey, will meet with Trump",
+                    "ts": 1539449436,
+                    "twitterid": 1051153239092154368,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/10/13/pastor-andrew-brunson-meets-donald-trump-after-turkey-release/1628447002/"
+                },
+                {
+                    "_id": "5bc1981f421aa96f101a6eb4",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/12/694940094001_5848187344001_5848187866001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Pastor Brunson, freed from Turkey, to meet with Trump upon return to US, president says",
+                    "ts": 1539410880,
+                    "twitterid": 1050991523188240384,
+                    "url": "https://www.foxnews.com/politics/pastor-brunson-freed-from-turkey-to-meet-with-trump-upon-return-to-us-president-says"
+                },
+                {
+                    "_id": "5bc1b438421aa9708a1065fd",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:fb680f3e0dc84b79b843f8a2fe32fcf7/2000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump expected to meet American pastor released by Turkey",
+                    "ts": 1539420181,
+                    "twitterid": 1051030537316524039,
+                    "url": "https://apnews.com/1d27849b00a745979699c996adcee7d7?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab36f4",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/10/RTX6EX95-1024x643.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "U.S. pastor Andrew Brunson released from house arrest in Turkey",
+                    "ts": 1539388311,
+                    "twitterid": 1050896863447146496,
+                    "url": "https://www.pbs.org/newshour/world/u-s-pastor-andrew-brunson-released-from-house-arrest-in-turkey"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            53
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Citizenship Question",
+            "China Ramps Up",
+            "Weird History Of Celebrity Endorsements",
+            "Public Ritual",
+            "SEC",
+            "Supreme Coven",
+            "Pence",
+            "Indiana",
+            "Suffolk DA",
+            "Le Pen",
+            "Chicago",
+            "Andy Grove",
+            "Exiled Critic",
+            "Keith Ellison",
+            "White House",
+            "Ponzi",
+            "Antitrust",
+            "Listerine",
+            "GPS",
+            "Joe Camel",
+            "Minnesota",
+            "Merrimack Valley Wilbur Ross",
+            "Cracker Barrel",
+            "Supreme Court Justices Get",
+            "GoFundMe",
+            "Washington State Supreme Court Deems Death Penalty",
+            "Army",
+            "New York",
+            "Texas Lawyer",
+            "African",
+            "Border Patrol",
+            "Columbia Gas",
+            "Gates",
+            "Trump",
+            "Boston",
+            "Downtown Crossing State",
+            "DeVos",
+            "Walmart",
+            "Circuit",
+            "Intel",
+            "Verified New York",
+            "Harvey Weinstein",
+            "Vermont",
+            "American",
+            "Census Livestream",
+            "Brett Kavanaugh Confirmation Battle Tests Supreme Court",
+            "Wolf",
+            "France",
+            "Succeed Jeff Sessions",
+            "Israel",
+            "Bannon",
+            "Jeff Sessions",
+            "Chiefs Bill Cosby",
+            "Madagascar",
+            "Mass",
+            "Patriots",
+            "US"
+        ],
+        "peaks": [],
+        "theme": [
+            "New",
+            "York",
+            "charge",
+            "Court",
+            "Says",
+            "Supreme",
+            "Trump"
+        ],
+        "timestamp": "2018-10-13 17:10:28.017179-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc240e7421aa979272b4f69",
+                    "date_month": "2018-10",
+                    "image": "https://images.newrepublic.com/80ce346478c3e291cf49041c661f733ab6aee4ac.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Who Says Supreme Court Justices Get Lifetime Tenure?",
+                    "ts": 1539453617,
+                    "twitterid": 1051170777217810432,
+                    "url": "https://newrepublic.com/article/151620/says-supreme-court-justices-get-lifetime-tenure"
+                },
+                {
+                    "_id": "5bc15fec421aa96985b23474",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/09/694940094001_5846588875001_5846587443001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Verified New York limo crash GoFundMe campaigns listed in new hub, company says",
+                    "ts": 1539397680,
+                    "twitterid": 1050936158518034434,
+                    "url": "https://www.foxnews.com/us/verified-new-york-limo-crash-gofundme-campaigns-listed-in-new-hub-company-says"
+                },
+                {
+                    "_id": "5bc15fec421aa96985b23489",
+                    "date_month": "2018-10",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/New%20York%20Witches%20to%20Cast%20Spell%20on%20Kavanaugh.jpg?itok=LLl-j6sW",
+                    "origin": "Fox News",
+                    "title": "Supreme Coven: Witches in New York to Hold Public Ritual to 'Hex' Kavanaugh",
+                    "ts": 1539396060,
+                    "twitterid": 1050929365440184320,
+                    "url": "http://insider.foxnews.com/2018/10/12/brett-kavanaugh-be-hexed-witches-brooklyn-new-york-liberal-sherpa-says"
+                },
+                {
+                    "_id": "5bc18a15421aa96dd1c283ff",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/12/us/12deathpenalty/12deathpenalty-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Washington State Supreme Court Deems Death Penalty Unconstitutional",
+                    "ts": 1539408064,
+                    "twitterid": 1050979712338747392,
+                    "url": "https://www.nytimes.com/2018/10/11/us/death-penalty-ruling-washington-state.html?rref=collection%2Fsectioncollection%2Fus&smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5bc24ef1421aa979f60dc9ab",
+                    "date_month": "2018-10",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BZ359_COURTP_SOC_20181007165734.jpg",
+                    "origin": "Capital Journal",
+                    "title": "Brett Kavanaugh Confirmation Battle Tests Supreme Court\u2019s Chief Justice",
+                    "ts": 1539460459,
+                    "twitterid": 1051199472007548928,
+                    "url": "https://www.wsj.com/articles/brett-kavanaugh-confirmation-battle-tests-supreme-courts-chief-justice-1538947753?mod=e2twp"
+                },
+                {
+                    "_id": "5bc143da421aa968439759e2",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/09/PROC/6dade812-fbda-45bd-a2cb-cb06af5b85e5-4.4.jpg?crop=4607,2581,x0,y459&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "10 unanswered questions in horrific New York limo crash",
+                    "ts": 1539391503,
+                    "twitterid": 1050910252189802496,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/10/12/new-york-limo-crash-unanswered-questions/1618122002/"
+                },
+                {
+                    "_id": "5bc25d00421aa97acec2cd64",
+                    "date_month": "2018-10",
+                    "image": "http://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Mourners pack funeral for 8 of 20 killed in New York limousine crash",
+                    "ts": 1539462796,
+                    "twitterid": 1051209276126097410,
+                    "url": "https://www.foxnews.com/us/mourners-pack-funeral-for-8-of-20-killed-in-new-york-limousine-crash"
+                },
+                {
+                    "_id": "5bc1de6f421aa97300438a93",
+                    "date_month": "2018-10",
+                    "image": "https://si.wsj.net/public/resources/images/B3-CA519_NYCOLL_SOC_20181011170918.jpg",
+                    "origin": "Capital Journal",
+                    "title": "Judge Sets 2020 Date for New York Congressman\u2019s Insider-Trading Trial",
+                    "ts": 1539430911,
+                    "twitterid": 1051075539799289856,
+                    "url": "https://www.wsj.com/articles/judge-sets-2020-date-for-new-york-congressmans-insider-trading-trial-1539295459?mod=e2twp"
+                },
+                {
+                    "_id": "5bc1b438421aa9708a1065fb",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/10/1c2e028d-7141-4322-9194-55bbf6808f2a/thumbnail/1200x630/fd3925347de9ff086a353dd11c15fc88/cbs-evening-news-with-jeff-glor-06-47-46-pm-copy.jpg",
+                    "origin": "CBS News",
+                    "title": "Feds bust New York man for alleged plot to detonate massive bomb in D.C. on Election Day",
+                    "ts": 1539420483,
+                    "twitterid": 1051031802603819008,
+                    "url": "https://www.cbsnews.com/news/paul-rosenfeld-new-york-man-arrested-by-fbi-in-alleged-plot-to-detonate-massive-bomb-in-d-c-on-election-day/"
+                },
+                {
+                    "_id": "5bc1c24c421aa971520030a9",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/12/5ea097ce-4767-4551-b50b-dbc0db88a7bf/thumbnail/1200x630/dff47f00115d3c8ccbac7198f2c50055/nfa-miller-weinstein-frame-2455.jpg",
+                    "origin": "CBS News",
+                    "title": "Lawyer for Harvey Weinstein accuser \"baffled\" by dropped sex assault charge",
+                    "ts": 1539423184,
+                    "twitterid": 1051043128864624640,
+                    "url": "https://www.cbsnews.com/news/harvey-weinstein-district-attorney-drops-part-of-sex-assault-case-lucia-evans-lawyer/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            21
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "CNN",
+            "White House",
+            "Migrant Children",
+            "South Lawn Sarah Sanders",
+            "Bill Kristol",
+            "White House Melania Trump",
+            "Search",
+            "MeToo",
+            "Immigration Court Melania Trump",
+            "Melania Trump",
+            "Mr. Giuliani",
+            "Donald Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Melania",
+            "family",
+            "separation",
+            "immigration",
+            "new",
+            "policy"
+        ],
+        "timestamp": "2018-10-13 17:10:28.444446-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc127b7421aa966368bda4e",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/06/18/1d2f3df4-8cfc-4dad-929c-9a20d7a93ed1/thumbnail/1200x630/a860812ed56638871fddba45b33c47ad/ap-18169766343155.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump administration considering new family separation policy for undocumented immigrants",
+                    "ts": 1539383450,
+                    "twitterid": 1050876474969006081,
+                    "url": "https://www.cbsnews.com/news/trump-administration-considering-new-family-separation-policy-for-undocumented-immigrants/?ftag=CNM-00-10aab7e&linkId=58117258"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab370d",
+                    "date_month": "2018-10",
+                    "image": "https://amp.thisisinsider.com/images/5bc0f59da5a15c0e3324e097-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "The Trump administration is reportedly considering a new family separation policy for immigrants",
+                    "ts": 1539386557,
+                    "twitterid": 1050889504939229184,
+                    "url": "https://www.thisisinsider.com/trump-administration-new-family-separation-policy-immigrants-2018-10"
+                },
+                {
+                    "_id": "5bc1de6f421aa97300438a8d",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/trumpmelania_111816getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Melania Trump says she was \u2018blindsided\u2019 by family separations policy",
+                    "ts": 1539431466,
+                    "twitterid": 1051077867050868736,
+                    "url": "https://thehill.com/homenews/administration/411246-melania-trump-says-she-was-blindsided-by-family-separations-policy?__twitter_impression=true"
+                },
+                {
+                    "_id": "5bc17c03421aa96ae08877a1",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/us-mexico_border_08182018_1.jpg",
+                    "origin": "The Hill",
+                    "title": "White House mulling new family separation options at US-Mexico border: report",
+                    "ts": 1539406267,
+                    "twitterid": 1050972175371591681,
+                    "url": "https://thehill.com/policy/international/americas/411189-white-house-mulling-new-family-separation-plan-at-us-mexico"
+                },
+                {
+                    "_id": "5bc224c4421aa9779b8cf12f",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Melania-Trump.jpg",
+                    "origin": "Fox News",
+                    "title": "Melania Trump says she \u2018was blindsided\u2019 by \u2018zero tolerance\u2019 immigration policy, told president it was \u2018unacceptable\u2019",
+                    "ts": 1539446482,
+                    "twitterid": 1051140848640020480,
+                    "url": "https://www.foxnews.com/politics/melania-trump-says-she-was-blindsided-by-zero-tolerance-immigration-policy-told-president-it-was-unacceptable"
+                },
+                {
+                    "_id": "5bc240e7421aa979272b4f54",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/44/9c/042ab74649aca5a09b0ec4fa3fcb/181012-border-getty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump administration considers family separation option as border arrests soar",
+                    "ts": 1539455412,
+                    "twitterid": 1051178305213345792,
+                    "url": "https://www.politico.com/story/2018/10/12/trump-administration-family-separations-return-846971"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a66ac",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181006105053-melania-trump-egypt-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Melania Trump favorability up in new CNN poll",
+                    "ts": 1539379928,
+                    "twitterid": 1050861703423033345,
+                    "url": "https://www.cnn.com/2018/10/12/politics/melania-trump-poll-favorability/index.html?utm_medium=social&utm_source=twCNNp&utm_content=2018-10-12T16:49:05"
+                },
+                {
+                    "_id": "5bc16e03421aa96a4ca72958",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bc1640293032c79b96c27a4-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Melania Trump responds to Donald Trump's fiery tweets in revealing interview",
+                    "ts": 1539403090,
+                    "twitterid": 1050958849707057152,
+                    "url": "https://www.businessinsider.com/melania-trump-responds-to-donald-trumps-tweets-attacks-bullying-2018-10"
+                },
+                {
+                    "_id": "5bc224c4421aa9779b8cf118",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181006101213-melania-trump-10062018-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Melania Trump: 'I never talk to Mr. Giuliani'",
+                    "ts": 1539448501,
+                    "twitterid": 1051149317543813120,
+                    "url": "https://www.cnn.com/2018/10/12/politics/melania-trump-rudy-giuliani/index.html?utm_term=image&utm_medium=social&utm_content=2018-10-13T16%3A35%3A00&utm_source=twCNNp"
+                },
+                {
+                    "_id": "5bc17c03421aa96ae08877a7",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/04/us/00leftbehind-01/00leftbehind-01-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Migrant Children in Search of Justice: A 2-Year-Old\u2019s Day in Immigration Court",
+                    "ts": 1539405665,
+                    "twitterid": 1050969650652168192,
+                    "url": "https://www.nytimes.com/2018/10/08/us/migrant-children-family-separation-court.html?smid=tw-nytnational&smtyp=cur"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            45
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Lonzo Ball",
+            "Andy Reid",
+            "Hurricane Michael Snow",
+            "Hurricane Michael",
+            "Northeast Thousands",
+            "Bill Belichick",
+            "Coast Guard",
+            "Didi Gregorius",
+            "Hurricane Michael Photos",
+            "Usain Bolt",
+            "Rick Scott Yankees",
+            "Rockies",
+            "Hawaiian Sunrise",
+            "Mexico Beach",
+            "Georgia",
+            "NFL",
+            "Homeless Florida",
+            "Tommy John",
+            "Cosmodrome Camels",
+            "Scott Frost",
+            "Houston",
+            "Trump",
+            "Northwestern",
+            "FEMA",
+            "Harvey Hurricane Michael",
+            "Australian",
+            "Northwestern Hurricane Michael",
+            "Alabama",
+            "CBS Evening News",
+            "Florida Panhandle",
+            "Nebraska",
+            "Heavy Toll Al Gore"
+        ],
+        "peaks": [],
+        "theme": [
+            "Hurricane",
+            "Michael",
+            "Florida",
+            "says",
+            "Beach",
+            "gets",
+            "gone"
+        ],
+        "timestamp": "2018-10-13 17:10:29.266387-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc143da421aa968439759fa",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/mMWrGeCndcqncPVO7TrdMJzcWsk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5P7NGEWOJYI6RI7GITNKHU263Y.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018It\u2019s all gone\u2019: Tiny Florida beach town nearly swept away by Hurricane Michael",
+                    "ts": 1539390040,
+                    "twitterid": 1050904115893682176,
+                    "url": "https://www.washingtonpost.com/national/its-all-gone-tiny-florida-beach-town-nearly-swept-away-by-hurricane-michael/2018/10/12/f1a110c0-ce56-11e8-a3e6-44daa3d35ede_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5bc143da421aa968439759ee",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/12/09db567b-ed6a-48e0-a174-587effe6b5a7/thumbnail/1200x630/5dee087fa7bbeade8375681b8b1c9e36/mbflorida.jpg",
+                    "origin": "CBS News",
+                    "title": "Mexico Beach mayor \"shocked\" by Hurricane Michael's destruction",
+                    "ts": 1539390661,
+                    "twitterid": 1050906717666590720,
+                    "url": "https://www.cbsnews.com/news/hurricane-michael-mexico-beach-florida-mayor-shocked-by-destruction-2018-10-12/?ftag=CNM-00-10aab7e&linkId=58117908"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab36fe",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/10/HurricaneMichael1-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "\u2018I fear the worst,\u2019 says Fla. senator of Hurricane Michael damage",
+                    "ts": 1539387600,
+                    "twitterid": 1050893880005033984,
+                    "url": "https://www.pbs.org/newshour/show/i-fear-the-worst-says-fla-senator-of-hurricane-michael-damage"
+                },
+                {
+                    "_id": "5bc143da421aa968439759d5",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-30819/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "\u2018You Just Realize It\u2019s All Gone\u2019: Hurricane Michael\u2019s Heavy Toll",
+                    "ts": 1539392409,
+                    "twitterid": 1050914050153086978,
+                    "url": "https://www.wsj.com/articles/you-just-realize-its-all-gone-hurricane-michaels-heavy-toll-1539390935?mod=e2tw"
+                },
+                {
+                    "_id": "5bc25d00421aa97acec2cd66",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_41/2603581/181013-lake-worth-red-tide-ew-1040a_618c2fd15681ae3e537f63331db6058e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Hurricane Michael may have disrupted Florida's red tide",
+                    "ts": 1539462666,
+                    "twitterid": 1051208732317757440,
+                    "url": "https://www.nbcnews.com/news/us-news/hurricane-michael-may-have-disrupted-florida-s-red-tide-n919826?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc208a8421aa97617399070",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/13/87c00fdd-f8af-41ba-8c54-3e40b70b13cd/thumbnail/1200x630/791b650ab12ab430e0edbf03338db21f/mb3.jpg",
+                    "origin": "CBS News",
+                    "title": "IRS says victims of Hurricane Michael will get tax filing relief",
+                    "ts": 1539442175,
+                    "twitterid": 1051122784707993600,
+                    "url": "https://www.cbsnews.com/news/irs-says-victims-of-hurricane-michael-will-get-tax-filing-relief-2018-10-13/?ftag=CNM-00-10aab7e&linkId=58140636"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a6691",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/hurricanemichaelprep_101018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Hurricane Michael makes landfall in Florida as Category 4 storm",
+                    "ts": 1539381600,
+                    "twitterid": 1050868715728687104,
+                    "url": "https://thehill.com/policy/energy-environment/410807-hurricane-michael-makes-landfall-in-florida-as-category-4-storm"
+                },
+                {
+                    "_id": "5bc17c03421aa96ae088779c",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/be/cb/96c19cfd48b3992c6af8bf72f51d/181012-donald-trump-gtty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump to head to Florida, Georgia after Hurricane Michael",
+                    "ts": 1539406807,
+                    "twitterid": 1050974440421515264,
+                    "url": "https://www.politico.com/story/2018/10/12/trump-florida-georgia-hurricane-michael-897979"
+                },
+                {
+                    "_id": "5bc224c4421aa9779b8cf10f",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Airport-wedding.jpg",
+                    "origin": "Fox News",
+                    "title": "Hurricane Michael forces Florida couple to marry at airport",
+                    "ts": 1539449302,
+                    "twitterid": 1051152677835603968,
+                    "url": "https://www.foxnews.com/travel/hurricane-michael-forces-florida-couple-to-marry-at-airport"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a66a5",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/10/GettyImages-1051886656-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Why Hurricane Michael took everyone by surprise and what to expect after it\u2019s gone",
+                    "ts": 1539380402,
+                    "twitterid": 1050863688742096896,
+                    "url": "https://www.pbs.org/newshour/science/why-hurricane-michael-took-everyone-by-surprise-and-what-to-expect-after-its-gone"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            41
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Census",
+            "Amid Kavanaugh",
+            "Indiana Women",
+            "State Department",
+            "Harris",
+            "Due Process Seriously",
+            "Iraq War",
+            "Louisiana",
+            "Middle America The US State Department",
+            "House",
+            "Hillary Clinton",
+            "Bloomberg",
+            "Donnelly",
+            "Newt Gingrich",
+            "Clinton",
+            "New Hampshire",
+            "Trump",
+            "Senate",
+            "Congress",
+            "Nicolle Wallace",
+            "GOP",
+            "MSNBC",
+            "Iowa",
+            "Georgia Gubernatorial Race",
+            "Mark Meadows",
+            "Michelle Obama",
+            "Jeb Bush",
+            "Feinstein",
+            "WSJ Video",
+            "Take Both Sexual Assault"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "clearance",
+            "Clinton",
+            "Hillary",
+            "security",
+            "elections",
+            "request"
+        ],
+        "timestamp": "2018-10-13 17:10:30.110434-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc208a8421aa97617399081",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181003171835-clinton-october-2-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Hillary Clinton's security clearance withdrawn at her request",
+                    "ts": 1539440704,
+                    "twitterid": 1051116613435572224,
+                    "url": "https://www.cnn.com/2018/10/13/politics/hillary-clinton-security-clearance-withdrawn/index.html?utm_term=image&utm_medium=social&utm_content=2018-10-13T14%3A25%3A03&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bc15fec421aa96985b23472",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/a2/f6/a9cae6ee4c7b97c55be1269da50e/181012-hillary-clinton-gtty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "State Department revokes Hillary Clinton's security clearance at her request",
+                    "ts": 1539397803,
+                    "twitterid": 1050936674069479429,
+                    "url": "https://www.politico.com/story/2018/10/12/hillary-clinton-security-clearance-898160"
+                },
+                {
+                    "_id": "5bc119a7421aa9658d2a66b8",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/02/Clinton_04470.jpg-46d7a_s2048x1421.jpg?5896626930b03adafbee1f4cfe891f9dd1c22c96",
+                    "origin": "The Washington Times",
+                    "title": "Hillary Clinton lost security clearance",
+                    "ts": 1539379231,
+                    "twitterid": 1050858776813887488,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/12/hillary-clinton-lost-security-clearance/?cache"
+                },
+                {
+                    "_id": "5bc135d3421aa96776ab36f2",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Hillary-Clinton-AP.jpg",
+                    "origin": "Fox News",
+                    "title": "Hillary Clinton\u2019s security clearance removed \u2018at her request,\u2019 Judiciary Committee reveals",
+                    "ts": 1539388469,
+                    "twitterid": 1050897526646337536,
+                    "url": "https://www.foxnews.com/politics/hillary-clintons-security-clearance-removed-at-her-request-judiciary-committee-reveals"
+                },
+                {
+                    "_id": "5bc151e1421aa96903ffd089",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/13/USAT/5b3329ec-9f15-4cc5-9aef-af70715405bd-EPA_BRITAIN_HILLARY_CLINTON_VISITS_OXFORD.jpg?crop=2499,1406,x20,y15&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Hillary Clinton's security clearance withdrawn at her request amid email investigation",
+                    "ts": 1539393488,
+                    "twitterid": 1050918575345717248,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/10/12/hillary-clinton-security-clearance-withdrawn/1620250002/"
+                },
+                {
+                    "_id": "5bc143da421aa96843975a01",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bc1392b80538378e72915d4-750-375.jpg",
+                    "origin": "Politics Insider",
+                    "title": "The US State Department withdrew Hillary Clinton's security clearance and those of several former Clinton aides",
+                    "ts": 1539389855,
+                    "twitterid": 1050903340081717248,
+                    "url": "https://www.businessinsider.com/hillary-clinton-security-clearance-removed-state-department-2018-10"
+                },
+                {
+                    "_id": "5bc216b9421aa976d52ed08c",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/tUNDc4mZH_nKLqkpq3ntJP4DxBI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2GSAOXGONUI6RI3AQWDVXLALD4.jpg",
+                    "origin": "Washington Post",
+                    "title": "Stark political divide points to a split decision in midterm elections",
+                    "ts": 1539443723,
+                    "twitterid": 1051129278400790528,
+                    "url": "https://www.washingtonpost.com/powerpost/stark-political-divide-points-to-a-split-decision-in-midterm-elections/2018/10/12/d98bbc60-c686-11e8-b1ed-1d2d65b86d0c_story.html?utm_term=.338db561600a&tid=sm_tw"
+                },
+                {
+                    "_id": "5bc24ef1421aa979f60dc9b2",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/tkWadLVgkuhLVl-7LavWgZFOMx8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EZOJARE7JQI6RI65FIMZD4DV2U.jpg",
+                    "origin": "Washington Post",
+                    "title": "Midterm elections are likely to change the calculus for post-2020 Census redistricting",
+                    "ts": 1539459307,
+                    "twitterid": 1051194641977147392,
+                    "url": "https://www.washingtonpost.com/politics/midterm-elections-are-likely-to-change-the-calculus-for-post-2020-census-redistricting/2018/10/13/a31835b0-cefa-11e8-a3e6-44daa3d35ede_story.html?utm_term=.4e081d0d357e&tid=sm_tw"
+                },
+                {
+                    "_id": "5bc143da421aa968439759ff",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_41/2492141/180709-brett-kavanaugh-podium-donald-trump-ac-931p_76c311e82bd2f301c155d925b8e35777.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "Kavanaugh isn't popular with Middle America",
+                    "ts": 1539389909,
+                    "twitterid": 1050903567203209217,
+                    "url": "https://www.nbcnews.com/politics/first-read/kavanaugh-isn-t-popular-middle-america-n919421?cid=par-twitter-feed_20181013"
+                },
+                {
+                    "_id": "5bc16e03421aa96a4ca72964",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/judiciary_kavanaughtrump_101018getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Kavanaugh tensions linger after bitter fight",
+                    "ts": 1539402064,
+                    "twitterid": 1050954547034755072,
+                    "url": "https://thehill.com/homenews/senate/411076-kavanaugh-tensions-linger-after-bitter-fight?__twitter_impression=true"
+                }
+            ]
+        ]
+    }
+]

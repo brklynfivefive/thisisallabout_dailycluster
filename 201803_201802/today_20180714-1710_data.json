@@ -1,0 +1,2298 @@
+[
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "MSNBC",
+            "Vote White House Taps Veteran Congressional Staffer",
+            "White House Lawyer Reshapes U.S.",
+            "New Liaison",
+            "U.S.",
+            "Deadly",
+            "Arrest Roil Pakistan",
+            "China",
+            "Virtual Reality",
+            "Mueller",
+            "DNI",
+            "Sacha Baron Cohen",
+            "Kim",
+            "Russian",
+            "Theresa May Democrats Say Trump Should Cancel Putin Meeting",
+            "Jim Acosta Rod Rosenstein Calls",
+            "Barre Class Should Democrats",
+            "CNN",
+            "Donald Trump Sessions",
+            "United Front",
+            "News Conference",
+            "Legal Obstacle",
+            "Elaine Chao Dan Coats",
+            "Donald Trump",
+            "Downloadable Gun",
+            "Only Guy",
+            "New Court Fight",
+            "Kremlin"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Donald",
+            "Russian",
+            "claims",
+            "Courts",
+            "Democrats"
+        ],
+        "timestamp": "2018-07-14 17:10:19.215545-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b492133421aa969ce9616ef",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/13/Attorney_General_Opiods_71812.jpg-711d4_s2048x1456.jpg?1b27d7611896a6ade85a56ea888dfa6fe50b22b1",
+                    "origin": "The Washington Times",
+                    "title": "Sessions asked to probe claims of Russian hackers harassing U.S. military families",
+                    "ts": 1531517271,
+                    "twitterid": 1017883328559697920,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/13/sessions-asked-probe-claims-russian-false-flag-cam/"
+                },
+                {
+                    "_id": "5b4a4868421aa907bc78fc0a",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/11/AP_18151623544711_s1365x2048.jpg?dc3ac38adfee5d629bb4fdce5dcc69836044ef8e",
+                    "origin": "The Washington Times",
+                    "title": "Russian tech whiz claims Mueller indictment of Kremlin officers vindicates him",
+                    "ts": 1531591608,
+                    "twitterid": 1018195119894355968,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/14/russian-tech-whiz-claims-mueller-indictment-kremli/"
+                },
+                {
+                    "_id": "5b494b61421aa96bdb3fad0d",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/14/us/politics/14dc-cong1/14dc-cong1-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Democrats Say Trump Should Cancel Putin Meeting After Indictments",
+                    "ts": 1531527602,
+                    "twitterid": 1017926661659136000,
+                    "url": "https://www.nytimes.com/2018/07/13/us/politics/democrats-russia-hacking-indictments.html?partner=socialflow&smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5b4a1034421aa977f6cf53f6",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/02/jim_acosta_s2048x1154.jpg?defd6fc060ec7bc85fb0a2ede350430761ba5c65",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump slams CNN for ignoring his \u2018takedown\u2019 of Jim Acosta",
+                    "ts": 1531579554,
+                    "twitterid": 1018144564190830592,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/14/donald-trump-slams-cnn-ignoring-his-takedown-jim-a/"
+                },
+                {
+                    "_id": "5b492133421aa969ce9616e6",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/13/MSNBC_Trump_UK_protests_s2048x1181.jpg?8e795ea9110f3bd207401dba92cbf6aaadff9477",
+                    "origin": "The Washington Times",
+                    "title": "MSNBC\u2019S Cal Perry touts \u2018courageous\u2019 U.K. citizens protesting Donald Trump",
+                    "ts": 1531517854,
+                    "twitterid": 1017885772844879880,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/13/msnbcs-cal-perry-touts-courageous-uk-citizens-prot/"
+                },
+                {
+                    "_id": "5b4a2c58421aa905f28519e9",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/10/AP_18146090466654_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump can rein in Kim Jong-un by kicking China\u2019s Xi Jinping where it hurts",
+                    "ts": 1531584039,
+                    "twitterid": 1018163371865239553,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/10/donald-trump-can-rein-kim-jong-un-kicking-chinas-x/"
+                },
+                {
+                    "_id": "5b49f40b421aa974d39bc2fc",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-17923/social",
+                    "origin": "Capital Journal",
+                    "title": "White House Lawyer Reshapes U.S. Courts",
+                    "ts": 1531570883,
+                    "twitterid": 1018108195305377794,
+                    "url": "https://www.wsj.com/articles/white-house-lawyer-reshapes-u-s-courts-1531430240?mod=e2twp"
+                },
+                {
+                    "_id": "5b49f40b421aa974d39bc2e5",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/15/us/politics/15dc-hulse-print/00dc-hulse1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Should Democrats Have Saved Their Filibuster for the New Court Fight?",
+                    "ts": 1531573131,
+                    "twitterid": 1018117620422373376,
+                    "url": "https://www.nytimes.com/2018/07/14/us/politics/supreme-court-filibuster.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5b4a1e4c421aa97cdf2fd33d",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-18118/social",
+                    "origin": "Capital Journal",
+                    "title": "Rod Rosenstein Calls for United Front Against Russian Interference",
+                    "ts": 1531583521,
+                    "twitterid": 1018161202227286018,
+                    "url": "https://www.wsj.com/articles/rod-rosenstein-calls-for-united-front-against-russian-interference-1531515089?mod=e2twp"
+                },
+                {
+                    "_id": "5b49ada6421aa9720796681d",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/13/us/13dc-aide/13dc-aide-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Trump to Appoint a New Liaison to Congress",
+                    "ts": 1531552921,
+                    "twitterid": 1018032853769211905,
+                    "url": "https://www.nytimes.com/2018/07/12/us/politics/shahira-knight-legislative-affairs.html?partner=socialflow&smtyp=cur&smid=tw-nytnational"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            100
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Scotland Bannon",
+            "NATO",
+            "Lincoln Trump Fuels Anxiety",
+            "Trump Trump",
+            "Front",
+            "Cruelty",
+            "Scotland Protesters",
+            "Heart Out",
+            "Rosenstein",
+            "AP",
+            "WATCH",
+            "Sasse",
+            "Putin Twitter",
+            "Laura Ingraham",
+            "Protest Against",
+            "Gorka",
+            "U.S.",
+            "Europe Over",
+            "Germany",
+            "London",
+            "Scotland Trump",
+            "Mueller",
+            "Scotland",
+            "Clinton Blasts Trump Administration",
+            "NY Trump",
+            "Queen Elizabeth",
+            "Putin Trump",
+            "Immigration",
+            "Hudson",
+            "European",
+            "British",
+            "North Korea",
+            "Trump Walks",
+            "Boris Johnson",
+            "Russian",
+            "Acosta",
+            "Edinburgh",
+            "NATO At",
+            "Chris Wallace Announces Exclusive Interview",
+            "NBC",
+            "Trump",
+            "THE QUEEN",
+            "Trump Summit Trump",
+            "CNN",
+            "Britain",
+            "Russia",
+            "Turnberry",
+            "Pompeo",
+            "Fox News",
+            "Putin",
+            "Trump Properties Trump",
+            "Theresa May Could Actually Help Her Trump",
+            "Moscow",
+            "Putin Former Trump",
+            "Putin Pentagon",
+            "Donald Trump",
+            "Brother From Another Motherland Trump",
+            "Obama",
+            "Europe",
+            "Ivanka Trump",
+            "US",
+            "WALK",
+            "Election Meddling Worst",
+            "American",
+            "Melania",
+            "Vladimir Putin",
+            "Helsinki Former",
+            "UK",
+            "CREW",
+            "Democratic",
+            "CNN Kenneth",
+            "Putin Scottish",
+            "Causing Social Media Frenzy Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Putin",
+            "protests",
+            "golf",
+            "Scotland",
+            "summit",
+            "President"
+        ],
+        "timestamp": "2018-07-14 17:10:21.580588-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b49e5f8421aa9745ef259df",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/14/9db51725-1f36-4687-959f-a1f137a0c9b7/thumbnail/1200x630g2/37670b11e7c661b9bb312af3a4e52f68/cotland.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump in Scotland ahead of high-stakes summit with Putin",
+                    "ts": 1531568765,
+                    "twitterid": 1018099308778983424,
+                    "url": "https://www.cbsnews.com/news/trump-in-scotland-ahead-of-high-stakes-summit-with-putin-2018-07-14/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b49e27904d3013dcb081667&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b4a0223421aa977998eedfc",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_witt_kafanov_180714_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Protests in Scotland as Trump\u2019s UK visit continues",
+                    "ts": 1531576207,
+                    "twitterid": 1018130525092007936,
+                    "url": "https://www.msnbc.com/weekends-with-alex-witt/watch/protests-in-scotland-as-trump-s-uk-visit-continues-1276954691785?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b4a1034421aa977f6cf540b",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/14/Britain_Trump_Visit_57906.jpg-36eb7_s2048x1398.jpg?a5f06a7f101cf2acb9f6556c7bdd3bf38a58c834",
+                    "origin": "The Washington Times",
+                    "title": "Protesters confront Trump at his golf club in Scotland",
+                    "ts": 1531577564,
+                    "twitterid": 1018136213721624576,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/14/protesters-confront-trump-his-golf-club-scotland/"
+                },
+                {
+                    "_id": "5b4a4868421aa907bc78fc09",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/14/gettyimages-998533430_wide-2e2c4404d344d59eb73fe850a42228547e09a169.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Thousands Turn Out To Protest Against President Trump In Scotland",
+                    "ts": 1531591684,
+                    "twitterid": 1018195439336620033,
+                    "url": "https://www.npr.org/2018/07/14/629087169/thousands-turn-out-to-protest-against-president-trump-in-scotland?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b4a1034421aa977f6cf5408",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_turnberryscotland_golf_07142018.jpg",
+                    "origin": "The Hill",
+                    "title": "CREW: Trump using visit to Scotland as \u2018infomercial\u2019 for golf club",
+                    "ts": 1531577827,
+                    "twitterid": 1018137316857180160,
+                    "url": "http://thehill.com/homenews/administration/397012-crew-trump-using-visit-to-scotland-as-infomercial-for-golf-club"
+                },
+                {
+                    "_id": "5b499191421aa970724210d5",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:aa26281f3487420ba35be9dac87b4344/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump back in Scotland ahead of Putin talks",
+                    "ts": 1531546354,
+                    "twitterid": 1018005310320054273,
+                    "url": "https://www.apnews.com/27213f5bb2d6470d8d750e4d44253db9/Trump-back-in-Scotland-ahead-of-Putin-talks?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5b4a5678421aa90911a029b5",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180714124832-01-pompeo-mexico-city-0714-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Pompeo says Trump-Putin summit should proceed",
+                    "ts": 1531595402,
+                    "twitterid": 1018211034924974080,
+                    "url": "https://www.cnn.com/2018/07/14/politics/trump-putin-meeting-pompeo-democrats/index.html?utm_source=twCNNp&utm_medium=social&utm_content=2018-07-14T19%3A10%3A02&utm_term=image"
+                },
+                {
+                    "_id": "5b492133421aa969ce9616d2",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/743ec5064e10b46de7fc38902829959579b42e24/c=0-269-4794-2977/local/-/media/2018/07/13/USATODAY/USATODAY/636670773967371398-GTY-997762736-101451549.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "Russian indictments come days before Trump's first summit with Putin",
+                    "ts": 1531519200,
+                    "twitterid": 1017891419443216384,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/07/13/trump-says-probe-harms-u-s-russian-relations/782487002/"
+                },
+                {
+                    "_id": "5b493d52421aa96b5cec4fe5",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/f851e2adc31749037a96350076d99e539d85b419/c=0-5-1023-583/local/-/media/2018/07/12/USATODAY/USATODAY/636670051341162641-ax077-0a43-9.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "Trump's chaotic NATO summit raises stakes for Putin talks in Helsinki",
+                    "ts": 1531526400,
+                    "twitterid": 1017921617794617344,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/07/12/trump-nato-summit-putin-talks-helsinki/779598002/"
+                },
+                {
+                    "_id": "5b49d7e0421aa973e8d35e63",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_28/2497726/06886731_298d19d5a9753f45d5484f3a305edef4.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump arrives in Scotland for quiet weekend of golf after tumultuous week on world stage",
+                    "ts": 1531565153,
+                    "twitterid": 1018084159686938624,
+                    "url": "https://www.nbcnews.com/news/world/trump-arrives-scotland-quiet-weekend-golf-after-tumultuous-week-world-n891406?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            71
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Gerhard Steidl",
+            "Crawley",
+            "Matt Laslo",
+            "Europe Shark",
+            "Behavior Sickens Me",
+            "Bonds Between Sex",
+            "Hard",
+            "Toad",
+            "Alaska",
+            "Partisan",
+            "ABC News",
+            "Soul Of Armenia",
+            "Upper",
+            "Kik\u00e9 Hern\u00e1ndez",
+            "Hollywood",
+            "Daily Spike",
+            "Vegas",
+            "Jennifer Garner",
+            "Frank Sinatra",
+            "Nancy Sinatra",
+            "Sydney Davis",
+            "Infowars",
+            "Grade",
+            "Obsessive Search",
+            "Bahamas Fans",
+            "Veteran",
+            "Kim",
+            "Twitter",
+            "Kylie Jenner",
+            "Justin Bieber",
+            "Voice",
+            "Angela Merkel New",
+            "Japanese",
+            "Bowl Food Billy Bush",
+            "PlaneBae",
+            "Britney Spears",
+            "EDITORIAL",
+            "Instagram",
+            "Mystery",
+            "Trump Won Dwayne Johnson",
+            "Solo",
+            "New York City Anne Hathaway Wins",
+            "Books Taylor Swift",
+            "Jim Jordan",
+            "Old Blighty",
+            "Chinese",
+            "Chip Gaines",
+            "DNA",
+            "Obama",
+            "Secret Life Where New York Goes",
+            "Pusha",
+            "Diddy",
+            "American Month",
+            "US",
+            "Future",
+            "Harrell",
+            "Amazon",
+            "Tasmanian Tiger All Ears",
+            "Brett Kavanaugh",
+            "Maraschino Mogul",
+            "Woman",
+            "Wood Facebook",
+            "Katy Perry"
+        ],
+        "peaks": [],
+        "theme": [
+            "family",
+            "wife",
+            "years",
+            "dead",
+            "Frank",
+            "happens",
+            "later"
+        ],
+        "timestamp": "2018-07-14 17:10:23.949983-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b499191421aa970724210e3",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180714010043-nancy-sinatra-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Nancy Sinatra, former wife of Frank Sinatra, dead at 101",
+                    "ts": 1531544703,
+                    "twitterid": 1017998388191776769,
+                    "url": "https://www.cnn.com/2018/07/14/entertainment/nancy-sinatra-dead-at-101/index.html"
+                },
+                {
+                    "_id": "5b49bbbf421aa972d1d01199",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/07/14/nancy-sinatra-sr-first-wife-frank-sinatra-dead-at-101/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531551897677.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Nancy Sinatra Sr., first wife of Frank Sinatra, dead at 101",
+                    "ts": 1531557726,
+                    "twitterid": 1018053010319204353,
+                    "url": "http://www.foxnews.com/entertainment/2018/07/14/nancy-sinatra-sr-first-wife-frank-sinatra-dead-at-101.html"
+                },
+                {
+                    "_id": "5b4a5678421aa90911a02997",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_28/2497851/180714-nancy-sinatra-al-1221_7857fe8658a1810a5ba8643e8dccff73.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Nancy Sinatra Sr., first wife of Frank Sinatra, dies at 101",
+                    "ts": 1531598101,
+                    "twitterid": 1018222355326390272,
+                    "url": "https://www.nbcnews.com/news/us-news/nancy-sinatra-sr-first-wife-frank-sinatra-dies-101-n891396?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b49c9cc421aa973643b583a",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/3zG2V2MQeh_KhNGFrvUUeGXhaHg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LL5R3VUFIEI6RHQGJW2SVRBOAU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Why the pioneering Japanese anime \u2018Akira\u2019 is still relevant 30 years later",
+                    "ts": 1531559125,
+                    "twitterid": 1018058877395456001,
+                    "url": "https://www.washingtonpost.com/entertainment/why-the-pioneering-japanese-anime-akira-remains-relevant-30-years-later/2018/07/12/b7577c74-813f-11e8-b851-5319c08f7cee_story.html?utm_term=.ccbaa630f756&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b4a0223421aa977998eee1e",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/424edb25e464b2575b537dc51d12c841a5651f54/c=0-34-1485-873/local/-/media/2018/07/09/USATODAY/USATODAY/636667408623336832-XXX-E-VER-DIE-HARD-DVD-13-1364603.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "30 pop-culture references that prove 'Die Hard' is as awesome as ever, 30 years later",
+                    "ts": 1531573247,
+                    "twitterid": 1018118106990903296,
+                    "url": "https://www.usatoday.com/story/life/entertainthis/2018/07/13/die-hard-turns-30-our-30-favorite-pop-culture-references/768321002/"
+                },
+                {
+                    "_id": "5b494b61421aa96bdb3fad05",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/07/13/billy-bushs-wife-sydney-davis-files-for-divorce-after-nearly-20-years-marriage-report/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531527178544.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Billy Bush's wife, Sydney Davis, files for divorce after nearly 20 years of marriage: report",
+                    "ts": 1531528288,
+                    "twitterid": 1017929538049925120,
+                    "url": "http://www.foxnews.com/entertainment/2018/07/13/billy-bushs-wife-sydney-davis-files-for-divorce-after-nearly-20-years-marriage-report.html"
+                },
+                {
+                    "_id": "5b49c9cc421aa973643b5827",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/5ad75d8169811d0207f59a40/16:9/w_1200,h_630,c_limit/180430_r31959.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Japan\u2019s Rent-a-Family Industry",
+                    "ts": 1531561311,
+                    "twitterid": 1018068045334540291,
+                    "url": "https://www.newyorker.com/magazine/2018/04/30/japans-rent-a-family-industry?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b49bbbf421aa972d1d01194",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-17205/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Phone Calls Are Dead. Voice Chat Is the Future.",
+                    "ts": 1531558813,
+                    "twitterid": 1018057568688705537,
+                    "url": "https://www.wsj.com/articles/phone-calls-are-dead-voice-chat-is-the-future-1531051200?mod=e2tw"
+                },
+                {
+                    "_id": "5b497574421aa96f68e7fd13",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/n28vS0PnsE9_LF1tKrd6nw2zzTo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RI5QK4UGWYI6RHQGJW2SVRBOAU.jpg",
+                    "origin": "Washington Post",
+                    "title": "What happens in Vegas stays in Vegas. Yeah, yeah, Britney Spears doesn\u2019t care.",
+                    "ts": 1531538862,
+                    "twitterid": 1017973885835280384,
+                    "url": "https://www.washingtonpost.com/lifestyle/style/what-happens-in-vegas-stays-in-vegas-yeah-yeah-britney-spears-doesnt-care/2018/07/13/8b8e9310-86ae-11e8-8f6c-46cb43e3f306_story.html?utm_term=.a546c98b6a1e&tid=sm_tw&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b496778421aa96ec01d2848",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/c74689d5c3406f24649ce4047ef83bfca898a750/c=0-327-3585-2352/local/-/media/2016/10/18/USATODAY/USATODAY/636123834071933383-AP-TV-Downton-Abbey.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Crawley family reunion time! The 'Downton Abbey' movie is happening",
+                    "ts": 1531533618,
+                    "twitterid": 1017951893258211329,
+                    "url": "https://www.usatoday.com/story/life/movies/2018/07/13/crawley-family-reunites-downton-abbey-movie/782291002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            57
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Explosive",
+            "BMW",
+            "Woodchucks Ate Paul Ryan",
+            "Restless",
+            "Chicago Woman",
+            "NFL",
+            "Wait",
+            "Cat Ladies",
+            "Chicago",
+            "Corey Sligh",
+            "Arizona",
+            "Custom Ford Mustang",
+            "Right Direction",
+            "Tow",
+            "Kill All Jews",
+            "California",
+            "Texas",
+            "Sharon",
+            "Villanova",
+            "Climate Control",
+            "London",
+            "Irish",
+            "Gerry Adams",
+            "Sadiq Khan",
+            "British",
+            "Indiana",
+            "Purple",
+            "Black",
+            "Milford",
+            "LeSean McCoy",
+            "Idol Thief",
+            "Trump Targets London",
+            "US Postal Service Woman",
+            "South Chicago Woman",
+            "Florida",
+            "Broadway",
+            "Benadryl",
+            "Migrant Mother",
+            "Cause",
+            "Paul Ryan",
+            "Plant Parents Capital Gazette",
+            "Rescue",
+            "Man",
+            "Syrian",
+            "Emmett Till Case",
+            "Olympia Fields",
+            "Caldwell Praises Trump",
+            "America",
+            "Puerto Rico",
+            "Fair Are"
+        ],
+        "peaks": [],
+        "theme": [
+            "say",
+            "man",
+            "police",
+            "Woman",
+            "charged",
+            "face",
+            "Year"
+        ],
+        "timestamp": "2018-07-14 17:10:24.933210-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b495961421aa96cd108a070",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/07/13/man-charged-in-cold-case-murder-elderly-california-woman/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531483070343.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Man charged in cold-case murder of elderly California woman",
+                    "ts": 1531533360,
+                    "twitterid": 1017950810637062144,
+                    "url": "http://www.foxnews.com/us/2018/07/13/man-charged-in-cold-case-murder-elderly-california-woman.html"
+                },
+                {
+                    "_id": "5b49e5f8421aa9745ef259de",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/10/5ea3cb77-faa9-4062-81b2-540663386082/thumbnail/1200x630/a613d8fad301fc2692382b7ddb768ba0/elderly-man-beaten-la.jpg",
+                    "origin": "CBS News",
+                    "title": "Woman charged with attempted murder in beating of man, 92, with brick",
+                    "ts": 1531568884,
+                    "twitterid": 1018099808941346817,
+                    "url": "https://www.cbsnews.com/news/laquisha-jones-rodolfo-rodriguez-attempted-murder-beating-man-92-brick/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b49e2f204d3013e00accbab&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b497574421aa96f68e7fd17",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/12/f27e57b1-a0be-4beb-bf26-c7501bacb1fe/thumbnail/1200x630/069299bc69fdf1db3f6a387e188e9525/trybus.jpg",
+                    "origin": "CBS News",
+                    "title": "Man seen on video berating woman over Puerto Rico shirt charged with felony hate crimes",
+                    "ts": 1531538284,
+                    "twitterid": 1017971462035079168,
+                    "url": "https://www.cbsnews.com/news/puerto-rico-shirt-harassment-man-caught-on-video-berating-woman-over-puerto-rico-shirt-charged-with-hate-crimes/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b496b6904d301275547432d&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b495961421aa96cd108a075",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/14/us/14xp-gasoline/14xp-gasoline-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Gas in Tow, Man, 72, Tried to Burn Down Condo to \u2018Kill All Jews,\u2019 Police Say",
+                    "ts": 1531533003,
+                    "twitterid": 1017949311244611584,
+                    "url": "https://www.nytimes.com/2018/07/13/us/burn-condo-jews-florida.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5b4a1e4c421aa97cdf2fd34b",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/V7BgUElE5kGqPpiI0m5p2ocW6qc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DWFT43LCUU45DEWAKPVQTE33EI.jpg",
+                    "origin": "Washington Post",
+                    "title": "A man who broke into an \u2018escape room\u2019 repeatedly called 911 when he couldn\u2019t escape, police say",
+                    "ts": 1531582561,
+                    "twitterid": 1018157172641947648,
+                    "url": "https://www.washingtonpost.com/news/true-crime/wp/2018/07/12/a-man-who-broke-into-an-escape-room-repeatedly-called-911-when-he-couldnt-escape-police-say/?tid=sm_tw"
+                },
+                {
+                    "_id": "5b49f40b421aa974d39bc301",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/14/76bf1594-ad4e-4c3f-b891-d412d0e1a180/thumbnail/1200x630/12dbccc0104f48ce62d3f8f8593d58bf/e9-miller-sc-pool-arrest-frame-0.jpg",
+                    "origin": "CBS News",
+                    "title": "Black teen speaks out after woman is charged with attacking him at pool",
+                    "ts": 1531570510,
+                    "twitterid": 1018106630431477760,
+                    "url": "https://www.cbsnews.com/news/pool-patrol-paula-story-black-teen-dj-simmons-speaks-out-assault-stephanie-sebby-stremple/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b49e94804d301575be94810&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b49e5f8421aa9745ef259e3",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b49a0c5/turbine/ct-met-south-chicago-police-shooting-st-20180714",
+                    "origin": "Chicago Tribune",
+                    "title": "Man in custody after exchanging gunfire with police in South Chicago",
+                    "ts": 1531568498,
+                    "twitterid": 1018098190468440071,
+                    "url": "http://www.chicagotribune.com/news/local/breaking/ct-met-south-chicago-police-shooting-st-20180714-story.html"
+                },
+                {
+                    "_id": "5b494b61421aa96bdb3fad08",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/14/BostonGlobe.com/Metro/Images/photo-17976.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "22-year-old Milford woman dies in single-car crash on I-95 in Sharon",
+                    "ts": 1531528146,
+                    "twitterid": 1017928942727069696,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/13/year-old-milford-woman-dies-single-car-crash-sharon/OS10Pqfab5PHQs8dgwBBON/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b497574421aa96f68e7fd0c",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/07/04/82c15d1a-9372-476e-9d6f-8db13a6f3a64/thumbnail/1200x630/f00bb583c1f8ecf3bf498b1c59cd0e4b/hot-car-generic.jpg",
+                    "origin": "CBS News",
+                    "title": "Baby dead after being left in hot car in south Florida, police say",
+                    "ts": 1531539607,
+                    "twitterid": 1017977010730295296,
+                    "url": "https://www.cbsnews.com/news/pembroke-pines-florida-baby-dead-after-being-left-in-hot-car-today-2018-07-13/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b49709204d301357466d807&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b499191421aa970724210da",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/19ebd2b75d72fd091613e950c2bc38ced4391418/c=0-310-1414-1105/local/-/media/2018/06/25/USATODAY/usatsports/247WallSt.com-247WS-472653-marijuana-leaf.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Police say they accidentally ran over a fleeing suspect with a bulldozer during pot bust",
+                    "ts": 1531546205,
+                    "twitterid": 1018004685419110400,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/07/13/pennsylvania-police-run-over-suspect-bulldozer-during-pot-bust/783995002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            18
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Middle",
+            "Red Cross Can Teach Trump",
+            "Border",
+            "Activist Effort",
+            "Courageous Woman Who",
+            "Sessions",
+            "Immigrant",
+            "International Committee",
+            "Texas Civil Rights Project",
+            "Trump",
+            "George"
+        ],
+        "peaks": [],
+        "theme": [
+            "children",
+            "Trump",
+            "Families",
+            "Reuniting",
+            "immigration",
+            "border",
+            "migrant"
+        ],
+        "timestamp": "2018-07-14 17:10:25.384296-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4a2c58421aa905f28519cc",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:c9eba4dce9d040308ec4cfef408ac1f6/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Border measures part of Trump's bigger immigration crackdown",
+                    "ts": 1531586264,
+                    "twitterid": 1018172704007098369,
+                    "url": "https://www.apnews.com/c909019354d6463d9f6e15bdae4c12b8?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b4a3a5e421aa9076a805312",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/5b3693728df4f92ee9c70ec6/16:9/w_1200,h_630,c_limit/Gourevitch-ReunitingFamilies.jpg",
+                    "origin": "The New Yorker",
+                    "title": "What the International Committee of the Red Cross Can Teach Trump About Reuniting Families",
+                    "ts": 1531587623,
+                    "twitterid": 1018178406482153477,
+                    "url": "https://www.newyorker.com/news/daily-comment/what-the-international-committee-of-the-red-cross-can-teach-trump-about-reuniting-families?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b497574421aa96f68e7fd1d",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/39/c7/909b769444d1b373013fca1fe2c7/20161025-hhs-013.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump administration expedites reunifications for 2551 migrant children",
+                    "ts": 1531537374,
+                    "twitterid": 1017967645667282945,
+                    "url": "https://www.politico.com/story/2018/07/13/trump-administration-family-separations-reunifications-722196"
+                },
+                {
+                    "_id": "5b497574421aa96f68e7fd18",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/14/6eb6b8a6-9c44-4ab6-ab35-b8e375ac8b09/thumbnail/1200x630/b2248dfcf0e9ba73fc56244baa14dfd6/2018-07-13t231944z-258639109-rc1c55d75a90-rtrmadp-3-usa-immigration-1.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump administration lays out plan to reunite 2,500 immigrant children with their families",
+                    "ts": 1531538164,
+                    "twitterid": 1017970960320860160,
+                    "url": "https://www.cbsnews.com/news/immigrant-family-reunification-trump-adminstration-plan-2018-07-13/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b496af204d301272aed4be1&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b497574421aa96f68e7fd09",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180429143730-05-migrant-caravan-0429-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "3 graphs that explain Trump's dilemma on the border",
+                    "ts": 1531539903,
+                    "twitterid": 1017978255662571520,
+                    "url": "https://www.cnn.com/2018/07/11/politics/trump-border-immigration-charts/index.html?sr=twCNNp071118trump-border-immigration-charts0646AMStory&utm_term=image&utm_content=2018-07-14T03%3A45%3A02&utm_source=twCNNp&utm_medium=social"
+                },
+                {
+                    "_id": "5b494b61421aa96bdb3fad1d",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/gUiabHVHZ5kcH8lZ46cMqT08LAs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FVZE2DTYAII6RAF6NUZODAVDXQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Government says it will reunite up to 200 migrant children a day with their parents",
+                    "ts": 1531526500,
+                    "twitterid": 1017922037967392768,
+                    "url": "https://www.washingtonpost.com/local/immigration/government-says-it-will-reunite-up-to-200-migrant-children-a-day-with-their-parents/2018/07/13/a003f9d0-8694-11e8-8f6c-46cb43e3f306_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b496778421aa96ec01d283f",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_28/2497501/180713-family-immigrant-reunification-ac-700p_b1cb6151dc7c2c8d26d1c2e2d8c54da5.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Government says around 2,551 migrant children still need reunification with parents",
+                    "ts": 1531534480,
+                    "twitterid": 1017955509796732929,
+                    "url": "https://www.nbcnews.com/news/us-news/government-says-around-2-551-migrant-children-still-need-reunification-n891366"
+                },
+                {
+                    "_id": "5b494b61421aa96bdb3fad12",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/migrants-mexico_border_06222018.jpg",
+                    "origin": "The Hill",
+                    "title": "More than 2,500 migrant children waiting to be reunited with parents over next two weeks",
+                    "ts": 1531527186,
+                    "twitterid": 1017924916291817473,
+                    "url": "http://thehill.com/homenews/administration/396990-more-than-2500-migrant-children-waiting-to-be-reunited-with-parents"
+                },
+                {
+                    "_id": "5b493d52421aa96b5cec4feb",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/bushgeorgew_120714getty.jpg",
+                    "origin": "The Hill",
+                    "title": "George W. Bush: I am \u2018disturbed\u2019 by the immigration rhetoric",
+                    "ts": 1531525741,
+                    "twitterid": 1017918855711219712,
+                    "url": "http://thehill.com/homenews/administration/396828-george-w-bush-i-am-disturbed-by-the-immigration-debate"
+                },
+                {
+                    "_id": "5b49bbbf421aa972d1d0119f",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/13/BostonGlobe.com/National/Images/6f3f4781aeca4f1d9c6b4d6446cc8043-6f3f4781aeca4f1d9c6b4d6446cc8043-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Judge weighs tighter oversight of plan to reunite families",
+                    "ts": 1531557010,
+                    "twitterid": 1018050004630597634,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/07/13/judge-weighs-tighter-oversight-plan-reunite-families/E3MPen4CG0j25lDIJDuj5L/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            130
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "NATO",
+            "PBS",
+            "Cape Cod",
+            "Los Angeles Lakers",
+            "Long Island Higher Ed Needs More",
+            "Customer Her Bank Account",
+            "Backlash",
+            "New Orleans",
+            "FDA",
+            "Japan",
+            "Russian",
+            "LeBron James",
+            "FICO",
+            "FEMA Report Acknowledges Failures",
+            "New York Times",
+            "Florida",
+            "Amid Cyclospora Illnesses",
+            "Sabotage",
+            "Fox News Poll",
+            "Kellogg",
+            "Trump Tower Chicago Rules Designed",
+            "Magic Johnson",
+            "Greenland Rhode Island",
+            "DeMarco Murray",
+            "Major Garrett",
+            "Companies Push",
+            "McDonald",
+            "NFL",
+            "Puerto Rico Disaster Response India",
+            "Academy Sports",
+            "Lonzo Ball",
+            "Pulls Salads",
+            "Boston",
+            "Associated Press News Florida",
+            "Kylie Jenner",
+            "Boys",
+            "Republican PAC",
+            "Industry Birth",
+            "Leftover Shells",
+            "Helsinki Summit",
+            "American",
+            "Thai Cave Rescue",
+            "KFC Could",
+            "Intuit",
+            "Trump Tower Chicago",
+            "Deep South",
+            "African Americans",
+            "No",
+            "Puerto Rico",
+            "Lyme",
+            "Pelosi",
+            "Marianna Tessel",
+            "David Sanger",
+            "Thailand",
+            "Jabari Parker",
+            "Locals",
+            "Left Rosenstein",
+            "Reddit",
+            "U.S.",
+            "Scotland",
+            "John McCain",
+            "Senate Key Race",
+            "Sacha Baron Cohen",
+            "Become",
+            "Edinburgh",
+            "Tech Workers Demand",
+            "Scarlett Johansson Drops Transgender Role",
+            "Men",
+            "Congress",
+            "Bernie Sanders",
+            "MLK Scholars",
+            "Lakers Khan Academy",
+            "US",
+            "ICE",
+            "Homes How Magic Johnson",
+            "Allies Consider Possible",
+            "Audubon Zoo",
+            "UK",
+            "Ted Cruz",
+            "Meditate Former",
+            "GOP",
+            "Alex Cora",
+            "Scarlett Johansson",
+            "Exxon",
+            "Beto",
+            "Emmett Till",
+            "Genetic Testing Reopens Past Wounds",
+            "Honey Smacks",
+            "Johnson",
+            "CrossFit",
+            "CDC",
+            "Bible",
+            "Giant",
+            "Sacha Baron Cohen Yao Ming Shoots",
+            "Nicaraguan",
+            "Parasite France",
+            "Trump",
+            "New Dads Get Paternity Leave",
+            "Virginia",
+            "Ryanair",
+            "Elon Musk",
+            "Kenya National Park Can",
+            "California Courts Yet Another Way",
+            "Louisiana",
+            "Brazil Midterm",
+            "Perfect Weapon",
+            "HeToo",
+            "Supreme Court"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "backlash",
+            "Baron",
+            "Cohen",
+            "Johansson",
+            "Sacha",
+            "Scarlett"
+        ],
+        "timestamp": "2018-07-14 17:10:27.033914-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b493d52421aa96b5cec4ffd",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/13/ap_18114074035449_wide-dc8f5aa8ac24f37eb2e7d95f06c733549d060cdd.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Amid Backlash, Scarlett Johansson Drops Transgender Role",
+                    "ts": 1531524424,
+                    "twitterid": 1017913329811984385,
+                    "url": "https://www.npr.org/2018/07/13/628983136/amid-backlash-scarlett-johansson-drops-transgender-role?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b494b61421aa96bdb3fad01",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/14/arts/14johansson/14johansson-item-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Scarlett Johansson Withdraws From Transgender Role After Backlash",
+                    "ts": 1531528805,
+                    "twitterid": 1017931706593169408,
+                    "url": "https://www.nytimes.com/2018/07/13/movies/scarlett-johansson-rub-and-tug-transgender.html?partner=socialflow&smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5b4a5678421aa90911a0299d",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/baroncohensacha_07102018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Who to watch for in Sacha Baron Cohen's upcoming show",
+                    "ts": 1531597502,
+                    "twitterid": 1018219841650679809,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/397033-who-to-watch-for-in-sacha-baron-cohens-upcoming-show"
+                },
+                {
+                    "_id": "5b492133421aa969ce9616dc",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/07/13/scarlett-johansson-drops-transgender-role-after-backlash-report/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531508281935.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Scarlett Johansson drops transgender role after backlash: report",
+                    "ts": 1531518420,
+                    "twitterid": 1017888147882029056,
+                    "url": "http://www.foxnews.com/entertainment/2018/07/13/scarlett-johansson-drops-transgender-role-after-backlash-report.html"
+                },
+                {
+                    "_id": "5b496778421aa96ec01d2847",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/johannsonscarlett_getty_071318.jpg",
+                    "origin": "The Hill",
+                    "title": "Scarlett Johansson withdraws from transgender movie role after backlash",
+                    "ts": 1531533664,
+                    "twitterid": 1017952085101473792,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/396950-scarlett-johansson-withdraws-from-transgender-movie-role-after"
+                },
+                {
+                    "_id": "5b499f98421aa9717273d372",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/13/ef127e49-245c-40a6-88f5-ed88eadab403/thumbnail/1200x630/0e4cbf65ea99fd2e7f6dc0ef1b25eab8/gettyimages-950544940.jpg",
+                    "origin": "CBS News",
+                    "title": "Scarlett Johansson drops out of \"Rub & Tug\" amid backlash",
+                    "ts": 1531550883,
+                    "twitterid": 1018024307417649152,
+                    "url": "https://www.cbsnews.com/news/scarlett-johansson-transgender-role-rub-and-tug-drops-out-today-2018-07-13/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b499ca104d3014a412dd82f&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b4a5678421aa90911a029ab",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/joewalsh_021315getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Ex-GOP lawmaker: 'I got duped by Sacha Baron Cohen'",
+                    "ts": 1531596307,
+                    "twitterid": 1018214827892854791,
+                    "url": "http://thehill.com/homenews/media/397034-ex-gop-lawmaker-i-got-duped-by-sacha-baron-cohen"
+                },
+                {
+                    "_id": "5b4a6492421aa9095b71a3e8",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/joewalsh_021315getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Ex-GOP lawmaker: 'I got duped' by Sacha Baron Cohen",
+                    "ts": 1531601822,
+                    "twitterid": 1018237962583265286,
+                    "url": "http://thehill.com/homenews/media/397034-ex-gop-lawmaker-i-got-duped-by-sacha-baron-cohen"
+                },
+                {
+                    "_id": "5b49f40b421aa974d39bc2ee",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/gatezmatt_120617gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP lawmaker thinks he was duped by Sacha Baron Cohen",
+                    "ts": 1531572307,
+                    "twitterid": 1018114166308171777,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/397006-gop-lawmaker-thinks-he-was-duped-by-sacha-baron-cohen?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b497574421aa96f68e7fd1e",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/4YFEt_8ZuxuKxOxBtzq99Qj9wyI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QTY2PYVPNE3KRN3EKURQUVEH4U.jpg",
+                    "origin": "Washington Post",
+                    "title": "After backlash, Scarlett Johansson drops out of the film that cast her as a transgender man",
+                    "ts": 1531537326,
+                    "twitterid": 1017967445091504130,
+                    "url": "https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/07/13/after-backlash-scarlett-johansson-drops-out-of-the-film-that-cast-her-as-a-transgender-man/?utm_term=.acc45112adca&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            15
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Capitol Hill",
+            "Russia",
+            "Marine Vet",
+            "GOP Republicans",
+            "Peter Strzok",
+            "House",
+            "Purple Heart Former",
+            "Lisa Page",
+            "Suggest Strzok",
+            "Partisan",
+            "Strzok",
+            "Dem Rep",
+            "FBI",
+            "Peter Strzok Fox"
+        ],
+        "peaks": [],
+        "theme": [
+            "Strzok",
+            "FBI",
+            "GOP",
+            "Hearing",
+            "Republicans",
+            "Lisa",
+            "Page"
+        ],
+        "timestamp": "2018-07-14 17:10:27.430530-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b49bbbf421aa972d1d011af",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_bwms_jolly_180712_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Fmr. GOP Rep. on Strzok hearing: 'Terrible day for Republicans'",
+                    "ts": 1531555215,
+                    "twitterid": 1018042477297782784,
+                    "url": "https://www.msnbc.com/brian-williams/watch/fmr-gop-rep-on-strzok-hearing-terrible-day-for-republicans-1276055107918?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b492f39421aa96aa6098131",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pagelisa_071318am2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Former FBI lawyer Lisa Page gets closed-door grilling from House Republicans",
+                    "ts": 1531521065,
+                    "twitterid": 1017899240671121409,
+                    "url": "http://thehill.com/policy/national-security/396980-former-fbi-lawyer-lisa-page-gets-closed-door-grilling-from-house"
+                },
+                {
+                    "_id": "5b49d7e0421aa973e8d35e6c",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/US/lisa-page-ht-jpo-180711_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Former FBI lawyer Lisa Page appears for interview as GOP searches for anti-Trump bias",
+                    "ts": 1531564207,
+                    "twitterid": 1018080192873590784,
+                    "url": "https://abcnews.go.com/Politics/fbi-lawyer-lisa-page-expected-capitol-hill-gop/story?id=56565132&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b492f39421aa96aa609811f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/strzokpeter_071218gn3_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Ex-GOP lawmaker: Strzok hearing 'was a humiliating day' for Republicans",
+                    "ts": 1531522687,
+                    "twitterid": 1017906044784259072,
+                    "url": "http://thehill.com/homenews/house/396983-ex-gop-lawmaker-strzok-hearing-was-a-humiliating-day-for-republicans?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b499f98421aa9717273d37d",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/12/174ba27b-9f6c-422c-9c46-d99bf541f821/thumbnail/1200x630/57443915574e880d5e9e5c141dd512b9/cbsn-fusion-rep-trey-gowdy-questions-fbis-peter-strzok-in-fierce-grilling-thumbnail-1610232-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "5 takeaways from FBI agent Peter Strzok's explosive congressional hearing",
+                    "ts": 1531549084,
+                    "twitterid": 1018016761679998976,
+                    "url": "https://www.cbsnews.com/news/5-takeaways-from-fbi-agent-peter-strzoks-explosive-congressional-hearing/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b49959904d3013508dcac17&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b498382421aa96fdf88d12c",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/SxMKN9hrMv4wyBBB9rbBBzDbXIs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ZUFV6EGYMI6RBKTUPHISA3MPA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Former FBI lawyer Lisa Page said to be \u2018cooperative\u2019 during Capitol Hill meeting about anti-Trump texts",
+                    "ts": 1531543409,
+                    "twitterid": 1017992958463959040,
+                    "url": "https://www.washingtonpost.com/powerpost/former-fbi-lawyer-lisa-page-to-speak-with-house-panels-about-anti-trump-texts/2018/07/13/153eb41e-86aa-11e8-8553-a3ce89036c78_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b492133421aa969ce9616e0",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/meRKoONvxzuwNcenKRp_A2KuW6M=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GK6WDHUGYII6RBKTUPHISA3MPA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Why Republicans interrogated Peter Strzok",
+                    "ts": 1531518076,
+                    "twitterid": 1017886705179856896,
+                    "url": "https://www.washingtonpost.com/opinions/the-purpose-of-interrogating-peter-strzok-was-clear-ritual-humiliation/2018/07/13/4a5f97b0-86b1-11e8-9e80-403a221946a7_story.html?utm_term=.b21d831bc47c&tid=sm_tw"
+                },
+                {
+                    "_id": "5b49d7e0421aa973e8d35e60",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/14/lisa-page-cooperative-credible-lawmakers-say-after-5-hour-closed-door-session/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531561927301.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Lisa Page 'cooperative,' 'credible,' lawmakers say after 5-hour closed-door session",
+                    "ts": 1531565290,
+                    "twitterid": 1018084736126865408,
+                    "url": "http://www.foxnews.com/politics/2018/07/14/lisa-page-cooperative-credible-lawmakers-say-after-5-hour-closed-door-session.html"
+                },
+                {
+                    "_id": "5b4a5678421aa90911a029b7",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/12/0/0/694940094001_5808589361001_5808593273001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "A Purple Heart for disgraced FBI agent Strzok? The very suggestion is an insult to the military",
+                    "ts": 1531595217,
+                    "twitterid": 1018210256181235712,
+                    "url": "http://www.foxnews.com/opinion/2018/07/14/purple-heart-for-disgraced-fbi-agent-strzok-very-suggestion-is-insult-to-military.html"
+                },
+                {
+                    "_id": "5b492133421aa969ce9616fb",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/dana-perino.jpg",
+                    "origin": "The Hill",
+                    "title": "Fox's Perino: Strzok marriage questions by GOP lawmaker 'felt like a public lynching'",
+                    "ts": 1531516268,
+                    "twitterid": 1017879121718857728,
+                    "url": "http://thehill.com/homenews/media/396832-foxs-perino-strzok-marriage-questions-by-gop-lawmaker-felt-like-a-public"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            50
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Cyberspy Indictment How Russia",
+            "Rosenstein",
+            "Russians",
+            "U.S.",
+            "Hacks Conservatives",
+            "Mueller",
+            "Roger Stone",
+            "Russian",
+            "Bitcoin",
+            "Hacks Indictment",
+            "Trump",
+            "Dan Coats",
+            "Putin",
+            "New Indictments Florida",
+            "How Bitcoin",
+            "Intel",
+            "GRU",
+            "Obama",
+            "DNC",
+            "White House",
+            "US",
+            "Mueller Probe",
+            "Gowdy",
+            "Clinton",
+            "Schiff",
+            "Long",
+            "Dems",
+            "Matter Most",
+            "Supreme Court",
+            "Latest Mueller Indictment Yourself Russian",
+            "Mueller Just"
+        ],
+        "peaks": [],
+        "theme": [
+            "indictments",
+            "Russian",
+            "hacking",
+            "Mueller",
+            "Trump",
+            "DNC",
+            "Russia"
+        ],
+        "timestamp": "2018-07-14 17:10:28.259302-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4a6492421aa9095b71a3e6",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/7dbf54e7db7538c0f7c50ce00a104a516a693831.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "New indictments complicate the Trump-Russia relationship.",
+                    "ts": 1531602013,
+                    "twitterid": 1018238763133210625,
+                    "url": "https://newrepublic.com/minutes/149888/new-indictments-complicate-trump-russia-relationship"
+                },
+                {
+                    "_id": "5b49d7e0421aa973e8d35e7e",
+                    "date_month": "2018-07",
+                    "image": "http://v.politico.com/images/1155968404/201807/3527/1155968404_5809028178001_5809012172001-vs.jpg?pubId=1155968404",
+                    "origin": "POLITICO",
+                    "title": "Mueller indicts 12 Russians for DNC hacking as Trump-Putin summit looms",
+                    "ts": 1531562416,
+                    "twitterid": 1018072678949965826,
+                    "url": "https://www.politico.com/story/2018/07/13/mueller-indicts-12-russians-for-hacking-into-dnc-718805"
+                },
+                {
+                    "_id": "5b492133421aa969ce9616f4",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/gowdytrey_050815getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Gowdy weighs in on Mueller indictments: 'Russia is not our friend'",
+                    "ts": 1531516743,
+                    "twitterid": 1017881114562760705,
+                    "url": "http://thehill.com/homenews/house/396970-gowdy-weighs-in-on-mueller-indictments-russia-is-not-our-friend"
+                },
+                {
+                    "_id": "5b492133421aa969ce9616ed",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/mueller_robert_03232018.jpg",
+                    "origin": "The Hill",
+                    "title": "Mueller indictments: Congressional candidate asked Russian operatives for info on opponent",
+                    "ts": 1531517464,
+                    "twitterid": 1017884136730742785,
+                    "url": "http://thehill.com/policy/national-security/396910-court-filing-congressional-candidate-asked-russian-operatives-for"
+                },
+                {
+                    "_id": "5b4a1e4c421aa97cdf2fd347",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/14/f13f494a-86d2-4ca4-9481-090488f17557/thumbnail/1200x630g3/0d7a5261371ecf5c74a3c442141a2e0d/rtx6b8l7-2.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump responds to Russian hacking indictment by blaming Obama administration",
+                    "ts": 1531582778,
+                    "twitterid": 1018158083086962688,
+                    "url": "https://www.cbsnews.com/news/trump-responds-to-russian-indictment-by-blaming-obama/?ftag=CNM-00-10aab7e&linkId=54275688"
+                },
+                {
+                    "_id": "5b49d7e0421aa973e8d35e77",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180517103418-01-robert-mueller-file-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "READ: Mueller indicts 12 Russians in 2016 DNC hacking",
+                    "ts": 1531563246,
+                    "twitterid": 1018076160746512384,
+                    "url": "https://www.cnn.com/2018/07/13/politics/read-mueller-indictment-dnc-hacking/index.html?utm_source=twCNNp&utm_medium=social&utm_term=image&utm_content=2018-07-14T10%3A14%3A05"
+                },
+                {
+                    "_id": "5b492f39421aa96aa609813d",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/13/0/0/694940094001_5809054920001_5809058703001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Russian officers indicted for allegedly hacking Clinton campaign, DNC emails",
+                    "ts": 1531520061,
+                    "twitterid": 1017895032135847936,
+                    "url": "http://www.foxnews.com/politics/2018/07/13/rosenstein-says-12-russian-intel-officers-indicted-in-special-counsels-probe.html"
+                },
+                {
+                    "_id": "5b4a1034421aa977f6cf5411",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/14/Britain_Trump_Visit_74341.jpg-e39f6_s2048x1595.jpg?e5681bcddd2460c77a790460d95a29eb42bfa8a6",
+                    "origin": "The Washington Times",
+                    "title": "Trump says Obama failed to stop Russian hacking in 2016 election",
+                    "ts": 1531576961,
+                    "twitterid": 1018133687924338689,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/14/trump-says-obama-failed-stop-russian-hacking-2016-/"
+                },
+                {
+                    "_id": "5b498382421aa96fdf88d135",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-18077/social",
+                    "origin": "Capital Journal",
+                    "title": "Mueller Probe Indicts 12 Russians in Hacking of DNC and Clinton Campaign",
+                    "ts": 1531542488,
+                    "twitterid": 1017989097250607105,
+                    "url": "https://www.wsj.com/articles/mueller-probe-indicts-12-russians-in-hacking-of-democratic-national-committee-1531498286?mod=e2twp"
+                },
+                {
+                    "_id": "5b496778421aa96ec01d2836",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180713121548-rod-rosenstein-7-13-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "6 takeaways from the indictment of Russians for DNC hacking",
+                    "ts": 1531535227,
+                    "twitterid": 1017958639309647872,
+                    "url": "https://www.cnn.com/2018/07/13/politics/takeaways-indictment-russians-dnc-hacking/index.html?utm_source=twCNN&utm_medium=social&utm_term=image&utm_content=2018-07-14T02%3A27%3A05"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            13
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Antidote",
+            "Attack",
+            "Charles Manson",
+            "Trump Conservative",
+            "Kennedy Retires",
+            "Former U.S.",
+            "Russian",
+            "Corporate America",
+            "Brett Kavanaugh",
+            "New York",
+            "Supreme Court",
+            "Labor Unions",
+            "Kaspersky Lab",
+            "California"
+        ],
+        "peaks": [],
+        "theme": [
+            "Court",
+            "Supreme",
+            "Kavanaugh",
+            "Trump",
+            "marijuana",
+            "set",
+            "states"
+        ],
+        "timestamp": "2018-07-14 17:10:28.626953-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b493d52421aa96b5cec500e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/reynolds-kim-getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Only all-male state Supreme Court set to get female justice",
+                    "ts": 1531523043,
+                    "twitterid": 1017907537033744384,
+                    "url": "http://thehill.com/homenews/state-watch/396928-only-all-male-state-supreme-court-set-to-get-female-justice"
+                },
+                {
+                    "_id": "5b49bbbf421aa972d1d01196",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Health/WireAP_2326d4664d8443da86a3db8f45ec7e76_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Conservative states balk at voter-approved medical marijuana",
+                    "ts": 1531558263,
+                    "twitterid": 1018055262845001729,
+                    "url": "https://abcnews.go.com/Health/wireStory/conservative-states-balk-voter-approved-medical-marijuana-56566487?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b49e5f8421aa9745ef259f5",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/10/0/0/694940094001_5807282988001_5807284063001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "I was Supreme Court nominee Kavanaugh's law clerk -- Let me tell you about the man I know",
+                    "ts": 1531566842,
+                    "twitterid": 1018091244038303744,
+                    "url": "http://www.foxnews.com/opinion/2018/07/14/was-supreme-court-nominee-kavanaughs-law-clerk-let-me-tell-about-man-know.html"
+                },
+                {
+                    "_id": "5b4a1034421aa977f6cf540a",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/kavanaughbrett_and_trumpdonald_07102018.jpg",
+                    "origin": "The Hill",
+                    "title": "Kavanaugh nomination, important for Trump, is not the end for women's rights",
+                    "ts": 1531577585,
+                    "twitterid": 1018136305241350144,
+                    "url": "http://thehill.com/opinion/judiciary/396310-kavanaugh-nomination-important-for-trump-is-not-the-end-for-womens-rights"
+                },
+                {
+                    "_id": "5b499191421aa970724210cf",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/GettyImages_995363410/facebook.jpg?1531403870",
+                    "origin": "The Atlantic",
+                    "title": "Brett Kavanaugh Is the Antidote to Corporate America's Worries About Trump",
+                    "ts": 1531547166,
+                    "twitterid": 1018008717936267266,
+                    "url": "https://www.theatlantic.com/politics/archive/2018/07/kavanaugh-confirmation-regulation-business-supreme-court/564968/?utm_source=twitter&utm_medium=social&utm_campaign=the-atlantic&utm_term=2018-07-12T11%3A00%3A19&utm_content=edit-promo"
+                },
+                {
+                    "_id": "5b4a1e4c421aa97cdf2fd35b",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/e6xD5NQB6Bkr4nuQC7ZtTxYqb7c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IUROWLUDWEI6RD3MI3FUHY7TAY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Five myths about the Supreme Court",
+                    "ts": 1531581310,
+                    "twitterid": 1018151926234583040,
+                    "url": "https://www.washingtonpost.com/outlook/five-myths/five-myths-about-the-supreme-court/2018/07/13/f793852c-85f8-11e8-8553-a3ce89036c78_story.html?utm_term=.ae496572c92f&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4a6492421aa9095b71a3ee",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/5b33fef4bb8c9728e3407f11/16:9/w_1200,h_630,c_limit/Cassidy-SCAfterKennedy.jpg",
+                    "origin": "The New Yorker",
+                    "title": "As Kennedy Retires, the Supreme Court\u2019s Attack on Labor Unions Is a Sign of Things to Come",
+                    "ts": 1531601136,
+                    "twitterid": 1018235085097721858,
+                    "url": "https://www.newyorker.com/news/our-columnists/as-kennedy-retires-the-supreme-courts-attack-on-labor-unions-is-a-sign-of-things-to-come?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b4a5678421aa90911a02995",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/-8lY3iQBn4DBbLC8QZr4gsdx9Yw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUSXGJEGH4I6RHQGJW2SVRBOAU.jpg",
+                    "origin": "Washington Post",
+                    "title": "New York health officials recommend marijuana legalization in report to governor",
+                    "ts": 1531598287,
+                    "twitterid": 1018223132920999936,
+                    "url": "https://www.washingtonpost.com/business/2018/07/13/new-york-health-officials-recommend-marijuana-legalization-report-governor/?utm_term=.089981cbd9a0&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4a5678421aa90911a029b6",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650",
+                    "origin": "Chicago Tribune",
+                    "title": "Former U.S. Rep. Aaron Schock's corruption trial now set to begin in January",
+                    "ts": 1531595310,
+                    "twitterid": 1018210649757896705,
+                    "url": "http://www.chicagotribune.com/news/local/politics/ct-aaron-schock-corruption-trial-20180714-story.html"
+                },
+                {
+                    "_id": "5b4a4868421aa907bc78fbfb",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2017/12/02/Britain_Kaspersky_38678.jpg-9e16e_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Kaspersky Lab, Russian cyber firm, denied injunction in appeals case against Trump administration",
+                    "ts": 1531592650,
+                    "twitterid": 1018199490149404673,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/14/kaspersky-lab-russian-cyber-firm-denied-injunction/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            15
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Germany",
+            "Royal Box Kevin Anderson Outlasts John Isner",
+            "Djokovic",
+            "Wimbledon Final Angelique",
+            "Angelique Kerber",
+            "Serena Williams",
+            "Nadal",
+            "Centre Court",
+            "Serena Williams Beaten",
+            "Kate",
+            "Jessica Luther",
+            "Beating Serena Williams",
+            "Match Against John Isner",
+            "Angelique Kerber Wins Wimbledon",
+            "Duchess Meghan",
+            "Grand Slam"
+        ],
+        "peaks": [],
+        "theme": [
+            "Wimbledon",
+            "Williams",
+            "Final",
+            "Serena",
+            "Kerber",
+            "Angelique",
+            "Beating"
+        ],
+        "timestamp": "2018-07-14 17:10:29.024413-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4a4868421aa907bc78fbfc",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/14/gettyimages-998625600_wide-1b30e0c26932b2d6ef6631f5e4e5c840c4fcd75c.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Germany's Angelique Kerber Wins Wimbledon, Beating Serena Williams In The Final",
+                    "ts": 1531592642,
+                    "twitterid": 1018199459224678400,
+                    "url": "https://www.npr.org/2018/07/14/629103480/germany-s-angelique-kerber-wins-wimbledon-beating-serena-williams-in-the-final?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b4a2c58421aa905f28519da",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/b2d0ce2dd98dabfff6b358fcd5101f0d55f8b7d4/c=0-20-2815-1610/local/-/media/2018/07/14/USATODAY/USATODAY/636671660918718239-GTY-998584402-101479503.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Angelique Kerber beats Serena Williams in Wimbledon final",
+                    "ts": 1531585463,
+                    "twitterid": 1018169344642179075,
+                    "url": "https://www.usatoday.com/story/sports/tennis/wimb/2018/07/14/wimbledon-angelique-kerber-beats-serena-williams-womens-final/785273002/"
+                },
+                {
+                    "_id": "5b4a2c58421aa905f28519e7",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/lnOrIbWodfaFKI1c3o2oive00MY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLSULGPE5Q5YFGYONFQLU2THEQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Wimbledon 2018 women\u2019s final: Angelique Kerber upsets Serena Williams for title",
+                    "ts": 1531584162,
+                    "twitterid": 1018163890528641030,
+                    "url": "https://www.washingtonpost.com/news/sports/wp/2018/07/14/wimbledon-2018-womens-final-serena-williams-vs-angelique-kerber/?utm_term=.d60cd29d5567&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4a4868421aa907bc78fbf9",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/sports/2018/07/14/serena-williams-loses-in-straight-sets-to-angelique-kerber-in-wimbledon-final-just-10-months-after-giving-birth/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531587242465.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Serena Williams loses to Angelique Kerber in Wimbledon final; dedicates performance to 'all the moms out there'",
+                    "ts": 1531592881,
+                    "twitterid": 1018200458379386881,
+                    "url": "http://www.foxnews.com/sports/2018/07/14/serena-williams-loses-in-straight-sets-to-angelique-kerber-in-wimbledon-final-just-10-months-after-giving-birth.html"
+                },
+                {
+                    "_id": "5b4a2c58421aa905f28519c8",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BC787_serena_SOC_20180714123840.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Serena Williams Beaten in Wimbledon Final",
+                    "ts": 1531586509,
+                    "twitterid": 1018173735520653313,
+                    "url": "https://www.wsj.com/articles/serena-williams-upset-in-wimbledon-final-1531585475?mod=e2tw"
+                },
+                {
+                    "_id": "5b4a3a5e421aa9076a8052f4",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/14/Britain_Wimbledon_Tennis_61274.jpg-e48ff_s1825x2048.jpg?8b3514628a6f863f9b1037a1d5b850f1cb00084d",
+                    "origin": "The Washington Times",
+                    "title": "Kerber beats Williams 6-3, 6-3 to win 1st Wimbledon title",
+                    "ts": 1531589795,
+                    "twitterid": 1018187516820803584,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/14/10-months-after-having-baby-williams-in-wimbledon-/?cache"
+                },
+                {
+                    "_id": "5b49c9cc421aa973643b5836",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_28/2497651/180713-serena-williams-celebration-ac-947p_173027bceb94602362c0f08a6d896523.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Wimbledon 2018: As Serena Williams chases her 24th Grand Slam, her legacy as the greatest of all time is already secure",
+                    "ts": 1531559706,
+                    "twitterid": 1018061314432872448,
+                    "url": "https://www.nbcnews.com/think/opinion/wimbledon-2018-serena-williams-chases-her-24th-grand-slam-her-ncna891411?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b4a2c58421aa905f28519dd",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_28/2497651/180713-serena-williams-celebration-ac-947p_173027bceb94602362c0f08a6d896523.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Jessica Luther : Wimbledon 2018: As Serena Williams chases her 24th Grand Slam, her legacy as the greatest of all time is already secure",
+                    "ts": 1531585085,
+                    "twitterid": 1018167762773008384,
+                    "url": "https://www.nbcnews.com/think/opinion/wimbledon-2018-serena-williams-chases-her-24th-grand-slam-her-ncna891411?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b4a1e4c421aa97cdf2fd342",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/14/britain_wimbledon_tennis_47044_s2048x1302.jpg?fac938b1df5bc8e708a60cc466eebb3b7defc62c",
+                    "origin": "The Washington Times",
+                    "title": "He's back: Djokovic tops Nadal to reach 5th Wimbledon final",
+                    "ts": 1531583043,
+                    "twitterid": 1018159196917858304,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/14/djokovic-tops-nadal-in-5-sets-to-reach-5th-wimbled/?cache"
+                },
+                {
+                    "_id": "5b4a1e4c421aa97cdf2fd35f",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/bMy9PlBAdsmBVjsFByo8Ve_9TK8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MU2TABUHO4I6RD3MI3FUHY7TAY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Djokovic beats Nadal to reach Wimbledon final, where shadow of long semifinals will linger",
+                    "ts": 1531581070,
+                    "twitterid": 1018150921795186688,
+                    "url": "https://www.washingtonpost.com/sports/tennis/djokovic-beats-nadal-to-reach-wimbledon-final-where-shadow-of-long-semifinals-will-linger/2018/07/14/99ca9986-8773-11e8-8f6c-46cb43e3f306_story.html?utm_term=.181830a432a4&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Next Indiana",
+            "Massachusetts Senate",
+            "American Five",
+            "Fed",
+            "Kimberley Strassel",
+            "Hasn",
+            "Rauner",
+            "Congress",
+            "Haiti",
+            "GOP Lawmakers Seek",
+            "Rosemont",
+            "Trump White House",
+            "Stock Market"
+        ],
+        "peaks": [],
+        "theme": [
+            "families",
+            "lawmakers",
+            "Trump",
+            "American",
+            "costs",
+            "energy",
+            "failed"
+        ],
+        "timestamp": "2018-07-14 17:10:29.582223-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b49d7e0421aa973e8d35e78",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/13/BostonGlobe.com/Business/Images/12192008_19lwind-7064569.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Mass. lawmakers wrap up work on energy legislation",
+                    "ts": 1531562643,
+                    "twitterid": 1018073631337975808,
+                    "url": "https://www.bostonglobe.com/business/2018/07/13/mass-lawmakers-wrap-work-energy-legislation/kFpyMXb0mS603sscxhHTTN/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b49e5f8421aa9745ef25a02",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/446884807894a3f7f698d32be80a8fda694aa8fc/c=0-534-2000-1664/local/-/media/2018/07/06/USATODAY/USATODAY/636664869198454964-Philips-LED-bulb.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Slash your home's energy costs, starting by replacing all your home's light bulbs",
+                    "ts": 1531566036,
+                    "twitterid": 1018087865178345472,
+                    "url": "https://www.usatoday.com/story/tech/columnist/saltzman/2018/07/11/slash-home-energy-costs-just-replacing-light-bulbs/763949002/"
+                },
+                {
+                    "_id": "5b49f40b421aa974d39bc30c",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-18012/social",
+                    "origin": "Capital Journal",
+                    "title": "Some GOP Lawmakers Seek to Rein In Trump on Trade",
+                    "ts": 1531569651,
+                    "twitterid": 1018103025754353670,
+                    "url": "https://www.wsj.com/articles/lawmakers-seek-to-rebuke-trump-on-trade-1531486801?mod=e2twp"
+                },
+                {
+                    "_id": "5b4a1034421aa977f6cf540c",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b493c65/turbine/ct-met-mike-pence-bruce-rauner-rosemont-20180713",
+                    "origin": "Chicago Tribune",
+                    "title": "Rauner embraces Trump White House in Rosemont, calls Pence among the 'greatest leaders in American history'",
+                    "ts": 1531577408,
+                    "twitterid": 1018135563185082368,
+                    "url": "http://www.chicagotribune.com/news/local/politics/ct-met-mike-pence-bruce-rauner-rosemont-20180713-story.html"
+                },
+                {
+                    "_id": "5b49f40b421aa974d39bc309",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2017/06/30/e27368f6-b775-4763-baf4-59bf8e381b85/thumbnail/1200x630/58dc343e0e0a8e7f91fa14e050639314/istock-178155308.jpg",
+                    "origin": "CBS News",
+                    "title": "Why so many families are renting, not buying, homes",
+                    "ts": 1531569784,
+                    "twitterid": 1018103585899507712,
+                    "url": "https://www.cbsnews.com/news/why-so-many-families-are-renting-homes-not-buying/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b49e67604d3014e353fca81&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b49bbbf421aa972d1d011ab",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/13/BostonGlobe.com/Politics/Images/4e7c9755b47040e18bc2893606123673-4e7c9755b47040e18bc2893606123673-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Vice president\u2019s family\u2019s failed gas stations cost taxpayers $20m+",
+                    "ts": 1531555265,
+                    "twitterid": 1018042684945195008,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/07/13/vice-president-pence-family-failed-gas-stations-cost-taxpayers/YrJPM7ayxGywPTLDKsG8LO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b4a2c58421aa905f28519d7",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/qKkyw7mz1rY7ViiKpjQaEgJmOgg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QM52ZAUFAII6RHQGJW2SVRBOAU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Inflation hits 6-year high, wiping out wage gains for the average American",
+                    "ts": 1531585743,
+                    "twitterid": 1018170519269662724,
+                    "url": "https://www.washingtonpost.com/business/2018/07/12/inflation-hits-year-high-wiping-out-wage-gains-average-american/?utm_term=.6fbd81a6ac0e&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4a3a5e421aa9076a80530b",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/johnsonmike_banksjim_williamsroger_loudermilkbarry_hartzlervicky_071218gn.jpg",
+                    "origin": "The Hill",
+                    "title": "Five GOP lawmakers mulling bid to lead conservative caucus",
+                    "ts": 1531588383,
+                    "twitterid": 1018181592173432832,
+                    "url": "http://thehill.com/homenews/house/396933-five-gop-lawmakers-mulling-bid-to-lead-conservative-caucus"
+                },
+                {
+                    "_id": "5b493d52421aa96b5cec4fe9",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pencemike_070918gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Indiana has spent over $20 million on cleanup of failed Pence family gas stations: report",
+                    "ts": 1531525922,
+                    "twitterid": 1017919613915496448,
+                    "url": "http://thehill.com/homenews/administration/396988-indiana-has-spent-over-20-million-on-cleanup-of-failed-pence-family"
+                },
+                {
+                    "_id": "5b496778421aa96ec01d281e",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/opinion/2018/07/13/kimberley-strassel-trump-could-deliver-second-tax-cut-without-having-to-deal-with-congress-heres-how/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531494230831.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Kimberley Strassel:Trump could deliver a second tax cut -- without having to deal with Congress. Here's how",
+                    "ts": 1531537200,
+                    "twitterid": 1017966918463033347,
+                    "url": "http://www.foxnews.com/opinion/2018/07/13/kimberley-strassel-trump-could-deliver-second-tax-cut-without-having-to-deal-with-congress-heres-how.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            31
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "MLB",
+            "D.C.",
+            "Justin",
+            "Lonzo Ball Archaeologists",
+            "Video",
+            "France",
+            "Astros",
+            "Lukaku",
+            "Egypt Belgium",
+            "Youth Baseball Academy",
+            "China",
+            "John Strong",
+            "University",
+            "FanFest",
+            "Louisville",
+            "Russia",
+            "Washington",
+            "Ireland",
+            "Baseball Stands",
+            "Brings Cheer To Fans",
+            "Drought",
+            "Papa John",
+            "Golden Boot",
+            "England Images From Ivan Kupala Night Lenin",
+            "American",
+            "Budweiser",
+            "Knee",
+            "Yankees",
+            "Javier Baez",
+            "Qatar",
+            "England Belgium"
+        ],
+        "peaks": [],
+        "theme": [
+            "World",
+            "Cup",
+            "John",
+            "Papa",
+            "star",
+            "Belgium",
+            "England"
+        ],
+        "timestamp": "2018-07-14 17:10:30.306845-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4a2c58421aa905f28519e1",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/d7NMw-tAb2VAJKuBIO8LtvySx9I=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2VEUQ5TLL44DXCIAUXIECHE7GU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Belgium claims third place at World Cup with a 2-0 win over England",
+                    "ts": 1531584675,
+                    "twitterid": 1018166041317400576,
+                    "url": "https://www.washingtonpost.com/news/soccer-insider/wp/2018/07/14/belgium-vs-england-2018-world-cup-third-place-playoff/?_=dskjflksjslslslsdkjfslls&utm_term=.4c3309b8bce6&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4a2c58421aa905f28519e5",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180714172436-belgium-3rd-place-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Belgium records best World Cup finish with victory over England",
+                    "ts": 1531584229,
+                    "twitterid": 1018164169118486529,
+                    "url": "https://www.cnn.com/2018/07/14/football/belgium-england-harry-kane-world-cup-russia-2018-spt-intl/index.html?utm_medium=social&utm_source=twCNN&utm_content=2018-07-14T16%3A03%3A48&utm_term=image"
+                },
+                {
+                    "_id": "5b4a0223421aa977998eedfb",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/IJCoMrGvK5_RIjp7TSVvrlFHbh4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DFNFN3HSMAYVVJKJG5F7QPVRA4.jpg",
+                    "origin": "Washington Post",
+                    "title": "Belgium vs. England 2018 World Cup third place playoff: Kane, Lukaku pursue Golden Boot",
+                    "ts": 1531576323,
+                    "twitterid": 1018131010276544514,
+                    "url": "https://www.washingtonpost.com/news/soccer-insider/wp/2018/07/14/belgium-vs-england-2018-world-cup-third-place-playoff/?utm_term=.459bf62a7cfa&tid=sm_tw"
+                },
+                {
+                    "_id": "5b493d52421aa96b5cec4ff8",
+                    "date_month": "2018-07",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180713111759-john-schnatter-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "How do you rebrand Papa John's when the problem is Papa John?",
+                    "ts": 1531524669,
+                    "twitterid": 1017914355818561542,
+                    "url": "https://money.cnn.com/2018/07/13/news/companies/papa-johns-rebranding/index.html?utm_medium=social&utm_source=twCNN&utm_term=image&utm_content=2018-07-13T23%3A31%3A07"
+                },
+                {
+                    "_id": "5b494b61421aa96bdb3facf3",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/12/0/0/694940094001_5808463879001_5808417067001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "MLB suspends Papa John's promotion until after All-Star break, pizza company says",
+                    "ts": 1531529800,
+                    "twitterid": 1017935876771508224,
+                    "url": "http://www.foxnews.com/food-drink/2018/07/13/mlb-suspends-papa-johns-promotion-until-after-all-star-break-pizza-company-says.html"
+                },
+                {
+                    "_id": "5b493d52421aa96b5cec4ffb",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/0aa72a79a2b8734c9200807b96fc7540743bd805/c=0-343-2414-1707/local/-/media/2017/11/14/USATODAY/USATODAY/636462870924539198-John-Schnatter.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Yankees suspend their business relationship with Papa John's",
+                    "ts": 1531524606,
+                    "twitterid": 1017914094853214210,
+                    "url": "https://www.usatoday.com/story/sports/mlb/2018/07/13/yankees-papa-johns/784062002/"
+                },
+                {
+                    "_id": "5b49d7e0421aa973e8d35e76",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/RsP8xZskO7Xzrki5HWyBR4Q9Kzo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ATBQBBBUJEZ3TEIPWYWUJVXCDQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "John Strong was once an American \u2018soccer nerd by myself.\u2019 Now he\u2019s calling the World Cup final.",
+                    "ts": 1531563280,
+                    "twitterid": 1018076303185137665,
+                    "url": "https://www.washingtonpost.com/news/soccer-insider/wp/2018/07/13/john-strong-was-once-an-american-soccer-nerd-by-myself-now-hes-calling-the-world-cup-final/?utm_term=.827164a54cf9&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4a2c58421aa905f28519d0",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/AP_18191780775573/facebook.jpg?1531517070",
+                    "origin": "The Atlantic",
+                    "title": "France\u2019s Ghosts Return for the World Cup",
+                    "ts": 1531586151,
+                    "twitterid": 1018172230847598597,
+                    "url": "https://www.theatlantic.com/entertainment/archive/2018/07/frances-ghosts-return-for-the-world-cup/565196/?utm_medium=social&utm_source=twitter&utm_term=2018-07-14T14%3A54%3A03&utm_campaign=the-atlantic&utm_content=edit-promo"
+                },
+                {
+                    "_id": "5b4a5678421aa90911a029a0",
+                    "date_month": "2018-07",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_28/2497176/ss-180713-world-cup-recap-mn-04_93b96f86d7acc96db68a818e82091488.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "World Cup recap: A look back in pictures",
+                    "ts": 1531597327,
+                    "twitterid": 1018219108670853121,
+                    "url": "https://www.nbcnews.com/slideshow/world-cup-recap-look-back-pictures-n891336?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b499191421aa970724210dd",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/13/a498940a-bb84-4883-a1f6-ce16198c0752/thumbnail/1200x630/13c78e3364c4e001752cf20f99572488/schnatter-gettyimages-474646336-crop.jpg",
+                    "origin": "CBS News",
+                    "title": "Papa John's dumped by sports teams, schools over Schnatter comments",
+                    "ts": 1531545483,
+                    "twitterid": 1018001659920834560,
+                    "url": "https://www.cbsnews.com/news/papa-johns-dumped-by-sports-teams-schools-over-schnatter-comments/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b49878904d301047e7c827f&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            73
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "YouTube",
+            "Chinese Firm",
+            "Charlotte",
+            "NATO",
+            "Gaza",
+            "Army",
+            "Economic News",
+            "Afghanistan Employees Call",
+            "Cape Canaveral",
+            "Rights",
+            "South Sudan",
+            "Improper Travel",
+            "Ethiopia",
+            "Novartis",
+            "Senate Democrats",
+            "US Senate",
+            "Tommy Robinson",
+            "Virtual",
+            "Alexandria",
+            "Inquiry Finds Pompeo",
+            "Illinois",
+            "U.S.",
+            "Texas",
+            "Columbus",
+            "Next",
+            "Selena Gomez",
+            "French",
+            "Service Violation",
+            "Tommy Robinson Houston",
+            "FDA",
+            "Financial",
+            "New Mexico Amid",
+            "European",
+            "DEA",
+            "Kansas Trump",
+            "Twitter",
+            "Russian",
+            "Italy",
+            "Pakistan",
+            "ZTE Prison",
+            "George",
+            "Britain",
+            "Farcical Battle",
+            "World News",
+            "Palestinians",
+            "Ethics Watchdog Leads Commerce",
+            "NASA",
+            "Blasio",
+            "Stocks Mexico",
+            "Trump Lawyer Michael Cohen",
+            "Chinese",
+            "Minnesota Trump",
+            "Winston Churchill",
+            "Bernie Sanders",
+            "Commerce Lifts Ban",
+            "NSC",
+            "GOP Convention",
+            "Business",
+            "Officers",
+            "Report",
+            "White House",
+            "Shocked Barack",
+            "Ohio",
+            "Maryland Investigates Russian National",
+            "ICE",
+            "Wall Street Journal",
+            "Bolton China",
+            "Down Ties",
+            "Relations WeWork",
+            "Command",
+            "U.S. Delegation",
+            "Florida Woman",
+            "Eritrean",
+            "Georgia",
+            "Israeli Settlements",
+            "Arrest",
+            "Iraq",
+            "Hawaiian",
+            "Deloitte",
+            "Iran",
+            "U.N."
+        ],
+        "peaks": [],
+        "theme": [
+            "new",
+            "Mexico",
+            "prison",
+            "sell",
+            "bans",
+            "official"
+        ],
+        "timestamp": "2018-07-14 17:10:31.263550-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b492133421aa969ce9616f8",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/a8/e9/2bb2f38f439eafab766323128786/180712-paul-manafort-gty-1-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Prison jumpsuit and mystery meats: Inside Manafort\u2019s new jail experience",
+                    "ts": 1531516503,
+                    "twitterid": 1017880107715891200,
+                    "url": "https://www.politico.com/story/2018/07/12/manafort-jail-conditions-northern-virginia-mueller-probe-716841"
+                },
+                {
+                    "_id": "5b495961421aa96cd108a085",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/07/13/woman-gets-40-years-in-prison-for-trying-to-sell-2-year-old-daughter-for-sex/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531531456195.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Woman gets 40 years in prison for trying to sell 2-year-old daughter for sex",
+                    "ts": 1531531673,
+                    "twitterid": 1017943736368664576,
+                    "url": "http://www.foxnews.com/us/2018/07/13/woman-gets-40-years-in-prison-for-trying-to-sell-2-year-old-daughter-for-sex.html?cq_ck=1531531456605"
+                },
+                {
+                    "_id": "5b496778421aa96ec01d2843",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/07/13/ice-agents-arrest-18-human-smugglers-117-illegal-immigrants-in-texas-new-mexico/_jcr_content/par/featured_image/media-0.img.png/0/0/1531529516703.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "ICE agents arrest 18 human smugglers, 117 illegal immigrants in Texas, New Mexico",
+                    "ts": 1531534186,
+                    "twitterid": 1017954276776337408,
+                    "url": "http://www.foxnews.com/us/2018/07/13/ice-agents-arrest-18-human-smugglers-117-illegal-immigrants-in-texas-new-mexico.html"
+                },
+                {
+                    "_id": "5b493d52421aa96b5cec4fe8",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/13/b47c3304-e05f-4a9e-8d17-24f4be611e15/thumbnail/1200x630/b485ef632be4fff589324715cc39aa7c/rtx5nryb.jpg",
+                    "origin": "CBS News",
+                    "title": "WeWork bans meals with meat as a work expense",
+                    "ts": 1531526101,
+                    "twitterid": 1017920364503060481,
+                    "url": "https://www.cbsnews.com/news/wework-bans-meat-as-an-allowable-expense/?ftag=CNM-00-10aab7e&linkId=54253657"
+                },
+                {
+                    "_id": "5b4a3a5e421aa9076a8052ef",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/8a/b1/e5cee1174e58a2537ba47160c23f/180713-trump-bolton-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Another top NSC official ousted under Bolton",
+                    "ts": 1531590302,
+                    "twitterid": 1018189643546873856,
+                    "url": "https://www.politico.com/story/2018/07/13/national-security-council-jennifer-arangio-ousted-719691"
+                },
+                {
+                    "_id": "5b492f39421aa96aa609813a",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/boltonjohn_042418gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Top National Security Council official forced out: report",
+                    "ts": 1531520163,
+                    "twitterid": 1017895458750988288,
+                    "url": "http://thehill.com/policy/national-security/396953-top-national-security-council-official-forced-out-report?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b4a4868421aa907bc78fbee",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/366fc76fc243ca8d7863d5a9655d2fbe0f14e655/c=32-0-548-290/local/-/media/2018/02/10/USATODAY/usatsports/wework-meatpacking-coworking-19_large.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "WeWork bans meat for employees expensing meals, at company events",
+                    "ts": 1531593603,
+                    "twitterid": 1018203488902402049,
+                    "url": "https://www.usatoday.com/story/money/nation-now/2018/07/14/wework-bans-meat-employees-expensing-meals-company-events/785409002/"
+                },
+                {
+                    "_id": "5b49c9cc421aa973643b583d",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/US/sarah-peters-child-sex-houston-ap-jc-180713_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Houston woman sentenced for trying to sell daughter for sex",
+                    "ts": 1531558817,
+                    "twitterid": 1018057585004630016,
+                    "url": "https://abcnews.go.com/US/wireStory/houston-woman-sentenced-sell-daughter-sex-56562859?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b4a1e4c421aa97cdf2fd350",
+                    "date_month": "2018-07",
+                    "image": "https://www.apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Politics",
+                    "title": "It's legal: Prison inmate vying for US Senate in Minnesota",
+                    "ts": 1531582335,
+                    "twitterid": 1018156227925291008,
+                    "url": "https://www.apnews.com/497c2deb0d974390856c6f03fe4a6011?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5b493d52421aa96b5cec5003",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/13/ap_18173602152785_wide-58e925d7f6fdd4b55b51d185936ffbc3ddc29112.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Criticism from Ethics Watchdog Leads Commerce Secretary Ross To Sell Remaining Stocks",
+                    "ts": 1531524000,
+                    "twitterid": 1017911551792156673,
+                    "url": "https://www.npr.org/2018/07/13/628682930/criticism-from-ethics-watchdog-leads-commerce-secretary-ross-to-sell-remaining-s?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180713&utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180713"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            22
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Kavanaugh",
+            "Booker",
+            "McConnell",
+            "Washington",
+            "Schumer",
+            "American",
+            "House",
+            "Bernie",
+            "GOP Eric",
+            "Biggest Stories",
+            "SCOTUS",
+            "Supreme Court",
+            "Trump",
+            "Ken Starr",
+            "Franken"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "Court",
+            "Supreme",
+            "confirmation",
+            "fight",
+            "Dem",
+            "Democrats"
+        ],
+        "timestamp": "2018-07-14 17:10:31.826815-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4a3a5e421aa9076a805300",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/TKg21IYB_jUFeD-hzyrXCNUeoSA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UCPLU2D6JYI6RJR7PNOSVOT2YU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Both sides look to Kavanaugh\u2019s past confirmation fight for lessons in new Supreme Court battle",
+                    "ts": 1531589164,
+                    "twitterid": 1018184868512108544,
+                    "url": "https://www.washingtonpost.com/powerpost/both-sides-look-to-kavanaughs-past-confirmation-fight-for-lessons-in-new-supreme-court-battle/2018/07/13/a9c1465e-86d4-11e8-8f6c-46cb43e3f306_story.html?utm_term=.1a76fc115452&tid=sm_tw"
+                },
+                {
+                    "_id": "5b492133421aa969ce9616e7",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/bookercory_071018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Booker seizes on Kavanaugh confirmation fight",
+                    "ts": 1531517823,
+                    "twitterid": 1017885644243243012,
+                    "url": "http://thehill.com/homenews/campaign/396716-booker-seizes-on-kavanaugh-confirmation-fight"
+                },
+                {
+                    "_id": "5b49e5f8421aa9745ef259ef",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/kavanaughbrett_071318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Dem infighting erupts over Supreme Court pick",
+                    "ts": 1531567267,
+                    "twitterid": 1018093024784592896,
+                    "url": "http://thehill.com/homenews/senate/396987-dem-infighting-erupts-over-supreme-court-pick"
+                },
+                {
+                    "_id": "5b499191421aa970724210df",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180120091716-bernie-sanders-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Bernie Sanders: Supreme Court fight won't be won in Washington",
+                    "ts": 1531545249,
+                    "twitterid": 1018000675249192960,
+                    "url": "https://www.cnn.com/2018/07/13/politics/bernie-sanders-supreme-court-strategy/index.html?utm_term=image&utm_content=2018-07-14T05%3A14%3A07&utm_medium=social&utm_source=twCNNp"
+                },
+                {
+                    "_id": "5b4a2c58421aa905f28519e4",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/schumercharles_062618gn4_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Red-state Dem tells Schumer to 'kiss my you know what' on Supreme Court vote",
+                    "ts": 1531584248,
+                    "twitterid": 1018164250550964224,
+                    "url": "http://thehill.com/homenews/senate/397020-red-state-dem-tells-schumer-to-kiss-my-you-know-what-on-supreme-court-vote"
+                },
+                {
+                    "_id": "5b4a1e4c421aa97cdf2fd343",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/kavanaughbrett_071218gn4_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Kavanaugh gets questionnaires for confirmation hearing",
+                    "ts": 1531582864,
+                    "twitterid": 1018158445986492416,
+                    "url": "http://thehill.com/homenews/senate/397018-kavanaugh-gets-questionnaires-for-confirmation-hearing"
+                },
+                {
+                    "_id": "5b4a6492421aa9095b71a3ef",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/US/brett-kavanaugh-01-rt-as-180710_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "A low-key week 1 for Trump's Supreme Court nominee",
+                    "ts": 1531601132,
+                    "twitterid": 1018235065527160832,
+                    "url": "https://abcnews.go.com/Politics/low-key-week-trumps-supreme-court-nominee/story?id=56576778&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b499191421aa970724210d3",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:2f6054c2d8c84369a4604928d9106ab8/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "As Supreme Court battle roils DC, suburban voters shrug",
+                    "ts": 1531546590,
+                    "twitterid": 1018006302956687360,
+                    "url": "https://www.apnews.com/1ce6cf10e0db47adb9f1865f2de14d09/As-Supreme-Court-battle-roils-DC,-suburban-voters-shrug?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5b4a1e4c421aa97cdf2fd366",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/military_veteran.jpg",
+                    "origin": "The Hill",
+                    "title": "Will Democrats realize that Americans are tired of war?",
+                    "ts": 1531580706,
+                    "twitterid": 1018149393374081025,
+                    "url": "http://thehill.com/opinion/campaign/397010-will-democrats-realize-that-americans-are-tired-of-war"
+                },
+                {
+                    "_id": "5b4a1e4c421aa97cdf2fd367",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/RTX4FMFP/facebook.jpg?1531518238",
+                    "origin": "The Atlantic",
+                    "title": "The Red-State Democrats\u2019 Many Paths to \u2018No\u2019",
+                    "ts": 1531580571,
+                    "twitterid": 1018148827730194433,
+                    "url": "https://www.theatlantic.com/politics/archive/2018/07/kavanaugh-supreme-court-red-state-democrats-heitkamp-donnelly-manchin-mccaskill/565205/?utm_term=2018-07-14T11%3A00%3A24&utm_content=edit-promo&utm_campaign=the-atlantic&utm_source=twitter&utm_medium=social"
+                }
+            ]
+        ]
+    }
+]

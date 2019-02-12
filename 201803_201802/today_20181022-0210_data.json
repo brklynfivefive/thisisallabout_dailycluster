@@ -1,0 +1,1813 @@
+[
+    {
+        "list": [
+            18
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Super Bowl",
+            "Christine Blasey Ford",
+            "Florida",
+            "Brooklyn",
+            "Colin Kaepernick",
+            "West Virginia Six Ways",
+            "Congress",
+            "Security Clearances",
+            "America",
+            "Kanye Letters",
+            "Candace Owens",
+            "How Eunice Carter",
+            "Supreme Court Confirmation Process Richard Parsons",
+            "Palo Alto City Council",
+            "CBS",
+            "Iraq",
+            "Supreme Court",
+            "French Hill",
+            "Hope",
+            "Manchin"
+        ],
+        "peaks": [],
+        "theme": [
+            "ad",
+            "America",
+            "Black",
+            "Court",
+            "Democrats",
+            "Supreme",
+            "Ways"
+        ],
+        "timestamp": "2018-10-22 02:10:18.518256-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcd133d421aa9757ba16b14",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/10/RTS235KT-1/facebook.jpg?1539703912",
+                    "origin": "The Atlantic",
+                    "title": "Six Ways to Fix the Supreme Court Confirmation Process",
+                    "ts": 1540164558,
+                    "twitterid": 1054152676823498753,
+                    "url": "https://www.theatlantic.com/ideas/archive/2018/10/how-fix-confirmation-process/573085/?utm_content=edit-promo&utm_medium=social&utm_source=twitter&utm_term=2018-10-16T11%3A00%3A44&utm_campaign=the-atlantic"
+                },
+                {
+                    "_id": "5bcc4035421aa96723732186",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/19/55c9ad98-a577-4a0a-884d-75fa71de848d/thumbnail/1200x630/ddad5b686c3bd2ed29f05e86b07795d1/screenshot-2018-10-19-08-12-57.png",
+                    "origin": "CBS News",
+                    "title": "Rep. French Hill condemns ad that suggests \"lynching\" if Democrats win",
+                    "ts": 1540111684,
+                    "twitterid": 1053930910054256642,
+                    "url": "https://www.cbsnews.com/news/rep-french-hill-condemns-lynching-ad-on-his-behalf-as-outrageous/"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a1c",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/supremecourt84661458.jpg",
+                    "origin": "The Hill",
+                    "title": "This Supreme Court term will show bench lacks conservative majority",
+                    "ts": 1540124944,
+                    "twitterid": 1053986525556424704,
+                    "url": "https://thehill.com/opinion/judiciary/412372-this-supreme-court-term-will-show-bench-lacks-conservative-majority"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a29",
+                    "date_month": "2018-10",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_42/2612011/181019-andrew-gillum-ac-457p_386551ab48be38c82b0668fdaa62c955.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Carrying a 'black enough' message, Democrats target young African-Americans to power a Florida revival",
+                    "ts": 1540124103,
+                    "twitterid": 1053982997798707200,
+                    "url": "https://www.nbcnews.com/politics/politics-news/carrying-black-enough-message-democrats-target-young-african-americans-power-n922321?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bcc4035421aa96723732190",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/10/AP_18191627149361/facebook.jpg?1539777204",
+                    "origin": "The Atlantic",
+                    "title": "Letters: \u2018What Hope Does an Ordinary Black Man Have?\u2019",
+                    "ts": 1540110212,
+                    "twitterid": 1053924737137688576,
+                    "url": "https://www.theatlantic.com/letters/archive/2018/10/readers-opinion-jemele-hill-black-men-identify-with-kavanaugh/573136/"
+                },
+                {
+                    "_id": "5bcc4035421aa9672373218b",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/18/USAT/1e263772-f01a-4e4f-90e7-fc16ab19a5c9-XXX__JC31886.JPG?crop=2999,1687,x1,y296&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Candace Owens\u2019 rapid rise defending two of America\u2019s most complicated men: Trump and Kanye",
+                    "ts": 1540110906,
+                    "twitterid": 1053927645354844161,
+                    "url": "https://www.usatoday.com/story/news/investigations/2018/10/19/candace-owens-found-her-place-conservative-politics-age-donald-trump-alongside-kanye/1521771002/"
+                },
+                {
+                    "_id": "5bcc4e42421aa967e547a98c",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/20/c5a0f495-ac59-417a-b19c-b0bc744530ec/thumbnail/1200x630/a72163e9204bdcdad1951d0ac5f2be66/ctm-saturday-clean-feed-20181020-cr470c-0700-0900-02-frame-23735.jpg",
+                    "origin": "CBS News",
+                    "title": "How Eunice Carter helped take down one of America's most notorious mob bosses",
+                    "ts": 1540113484,
+                    "twitterid": 1053938457138118657,
+                    "url": "https://www.cbsnews.com/news/eunice-carter-black-lawyer-who-took-down-one-of-americas-most-notorious-mob-bosses/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            40
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Wisconsin",
+            "Trump Administration Eyes",
+            "Indiana",
+            "Pelosi",
+            "Poliquin",
+            "Once Secret",
+            "House Scott Walker",
+            "Affirmative Action Trial North Carolina",
+            "Which",
+            "Admissions Process",
+            "Democratic",
+            "Rise",
+            "Golden",
+            "LGBTQ",
+            "Existence Trump",
+            "Medicare",
+            "Harvard",
+            "Goldman Sachs",
+            "Senate Bill Walker",
+            "AP",
+            "Dockets",
+            "Florida Nancy Pelosi",
+            "Suspends Campaign Amid Sinking Polls Harvard",
+            "Obamacare Trump",
+            "Jacky Rosen",
+            "GOP",
+            "Durbin",
+            "Dean Heller",
+            "Affirmative Action",
+            "Lawsuit",
+            "Does Harvard Admissions Discriminate",
+            "House Bob",
+            "Republican",
+            "Alaska",
+            "ObamaCare",
+            "NYT"
+        ],
+        "peaks": [],
+        "theme": [
+            "GOP",
+            "tax",
+            "Trump",
+            "Democrats",
+            "Harvard",
+            "campaign",
+            "cut"
+        ],
+        "timestamp": "2018-10-22 02:10:19.580276-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcc4e42421aa967e547a98f",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonaldarizonarally2_101918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump teases new tax cut legislation",
+                    "ts": 1540113065,
+                    "twitterid": 1053936700991434752,
+                    "url": "https://thehill.com/homenews/administration/412408-trump-teases-new-tax-cut-legislation"
+                },
+                {
+                    "_id": "5bcd2f4e421aa97797bb51a5",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_hayes_aCostello_181016_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "The GOP's tax cut lie gets exposed",
+                    "ts": 1540173615,
+                    "twitterid": 1054190667403067393,
+                    "url": "https://www.msnbc.com/all-in/watch/the-gop-s-tax-cut-lie-gets-exposed-1345945667726?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bcc8698421aa96c0f0401c9",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181020165058-trump-pool-reporters-10-20-18-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump says GOP working on tax plan for middle class",
+                    "ts": 1540127884,
+                    "twitterid": 1053998858710212608,
+                    "url": "https://www.cnn.com/2018/10/20/politics/donald-trump-tax-middle-income/index.html?utm_term=image&utm_medium=social&utm_content=2018-10-21T13%3A18%3A03&utm_source=twCNNp"
+                },
+                {
+                    "_id": "5bcd2149421aa9768766fa7d",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/15/f2499901-692f-47b1-b753-967b575ff939/thumbnail/1200x630/853cf702256d808416782e08e70b1857/istock-000002848028-medium.jpg",
+                    "origin": "CBS News",
+                    "title": "Time to get started on year-end tax planning under GOP tax cuts",
+                    "ts": 1540166584,
+                    "twitterid": 1054161175255138306,
+                    "url": "https://www.cbsnews.com/news/time-to-get-started-on-year-end-tax-planning-under-gop-tax-cuts/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bcd13b604d3015ad9894ed8&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dfd9",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/tillisthom_090618gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP senator on potential additional tax cuts: 'We can't go further into debt'",
+                    "ts": 1540137186,
+                    "twitterid": 1054037871487795200,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/412436-gop-senator-on-potential-additional-tax-cuts-we-cant-go-further"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936464",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/AsAiCGX6w6SG_5y0EyaMlPeQzhQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G2BO5EGVLAI6RA5C2HB5UKGWWY.jpg",
+                    "origin": "Post Politics",
+                    "title": "Durbin says Democrats should agree with Trump when he\u2019s right, fight him when he\u2019s wrong",
+                    "ts": 1540147889,
+                    "twitterid": 1054082763652022272,
+                    "url": "https://www.washingtonpost.com/politics/durbin-says-democrats-should-agree-with-trump-when-hes-right-fight-him-when-hes-wrong/2018/10/21/29599368-d558-11e8-83a2-d1c3da28d6b6_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed06a0",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/braunmike_rosendalematt_blackburnmarsha_cruzted_101918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Democrats slide in battle for Senate",
+                    "ts": 1540120143,
+                    "twitterid": 1053966388388380672,
+                    "url": "https://thehill.com/homenews/senate/412243-democrats-slide-in-battle-for-senate"
+                },
+                {
+                    "_id": "5bcd2149421aa9768766fa4b",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/19/4b/00347c244e4a959fd664a6fa5961/181021-harvard-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "What Is Harvard Trying to Hide?",
+                    "ts": 1540170008,
+                    "twitterid": 1054175535985762304,
+                    "url": "https://www.politico.com/magazine/story/2018/10/21/harvard-admissions-affirmative-action-221669"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dfe7",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_42/2607376/181016-beto-orourke-ac-1004p_62e048d9d49fe2a67818f0f5d1bfa1c8.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "Campaign ad watch: Going negative",
+                    "ts": 1540135820,
+                    "twitterid": 1054032141879836672,
+                    "url": "https://www.nbcnews.com/politics/first-read/campaign-ad-watch-going-negative-n921811?cid=par-twitter-feed_20181021"
+                },
+                {
+                    "_id": "5bcd133d421aa9757ba16b20",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_joy_pelosi_181021_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Pelosi heckled at campaign event in Florida",
+                    "ts": 1540163708,
+                    "twitterid": 1054149112919195648,
+                    "url": "https://www.msnbc.com/am-joy/watch/pelosi-heckled-at-campaign-event-in-florida-1349545027841?v=railb&cid=sm_npd_ms_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            98
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "White House Counsel",
+            "Warren",
+            "Trump Midterms",
+            "Gianforte",
+            "Mexico",
+            "Cash Edge",
+            "Honduras",
+            "Texas Dems",
+            "CNN",
+            "Echoes Trump",
+            "Trump",
+            "Mueller",
+            "Venezuela",
+            "American",
+            "US Pelosi",
+            "Ethanol",
+            "Vetoed",
+            "Joe Biden",
+            "Honor",
+            "Trump White House",
+            "Scaramucci",
+            "US Migrant",
+            "Ideas",
+            "John Kelly",
+            "Indiana Farmers Harvest",
+            "Mattis Trump",
+            "Pompeo",
+            "Texas Sanders",
+            "US",
+            "Retired Marine",
+            "Left Issue",
+            "Obama",
+            "Texas Senate",
+            "U.S.",
+            "Boosting Trump Approval Rating",
+            "Russia",
+            "Nevada Senate",
+            "Speaker Ryan",
+            "Proud Boys",
+            "Spain",
+            "Midterms Surges",
+            "NYC",
+            "DHS",
+            "Midterms Sanders",
+            "Watch Trump",
+            "Dems Trump",
+            "Judiciary Committee",
+            "Southern Border Migrant",
+            "US An",
+            "US Trump",
+            "Applauds Threat",
+            "Billionaire",
+            "House",
+            "Medal",
+            "Coachella",
+            "Rosenstein",
+            "Tactics",
+            "Nikki Haley",
+            "Stop Migrant Caravan Migrant",
+            "Southern Border",
+            "Durbin",
+            "Migrant Caravan Grows",
+            "Lindsey Graham",
+            "Migrant Caravan Blue",
+            "GOP Harassment Who",
+            "Heller",
+            "U.S. Migrants",
+            "Mexico Kirstjen Nielsen",
+            "White House",
+            "House Michael Goodwin",
+            "Donald Trump",
+            "American Dream",
+            "Mexican",
+            "Migrants Consider Their Options",
+            "Ted Cruz",
+            "Chris Cuomo",
+            "Battle",
+            "Migrant",
+            "Vietnam",
+            "Miami Republicans"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "migrant",
+            "caravan",
+            "midterm",
+            "House",
+            "says",
+            "us"
+        ],
+        "timestamp": "2018-10-22 02:10:21.089602-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcc7885421aa96af74b7a21",
+                    "date_month": "2018-10",
+                    "image": "https://media.newyorker.com/photos/5bca3babdaf42d0501bd427b/16:9/w_1200,h_630,c_limit/Blitzer-MigrantCaravan.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Why the Trump White House Is Having a Meltdown Over the Migrant Caravan",
+                    "ts": 1540124362,
+                    "twitterid": 1053984082827403264,
+                    "url": "https://www.newyorker.com/news/news-desk/why-the-trump-white-house-is-having-a-meltdown-over-the-migrant-caravan?mbid=social_twitter"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74cc",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/whitehouseflagfullstaff_082718getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump's campaign skills don't work in White House, says ex-Celebrity Apprentice contestant",
+                    "ts": 1540142160,
+                    "twitterid": 1054058733943177216,
+                    "url": "https://thehill.com/hilltv/rising/412011-trumps-campaign-skills-dont-work-in-white-house-says-ex-celebrity-apprentice"
+                },
+                {
+                    "_id": "5bcce903421aa972b6d16a44",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/21/694940094001_5851570009001_5851574662001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Trump on migrant caravan: 'Onslaught of illegal aliens' represents 'disgrace' to the Dems",
+                    "ts": 1540152929,
+                    "twitterid": 1054103903040614402,
+                    "url": "https://www.foxnews.com/politics/trump-on-migrant-caravan-onslaught-of-illegal-aliens-represents-disgrace-to-the-dems"
+                },
+                {
+                    "_id": "5bcce903421aa972b6d16a2c",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/21/ap_18294543379396_wide-295abc48788548d7c93815601a20ad8f1bdaf99c.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Migrant Caravan Grows to 5,000",
+                    "ts": 1540154926,
+                    "twitterid": 1054112279443193856,
+                    "url": "https://www.npr.org/2018/10/21/659327955/migrant-caravan-grows-to-5-000?utm_source=dlvr.it&utm_medium=twitter&utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2049"
+                },
+                {
+                    "_id": "5bcd051d421aa9749c072a90",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/caravan_honduran1020.jpg",
+                    "origin": "The Hill",
+                    "title": "Migrant caravan expands to 5000",
+                    "ts": 1540162143,
+                    "twitterid": 1054142549198364673,
+                    "url": "https://thehill.com/latino/412459-migrant-caravan-expands-to-5000"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed069e",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/20/central_america_migrant_caravan_24824_s2048x1360.jpg?7ddbe6c23a2f096009327b343b29dfe519ca3612",
+                    "origin": "The Washington Times",
+                    "title": "Migrant caravan re-forms in Mexico",
+                    "ts": 1540120410,
+                    "twitterid": 1053967509907562496,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/21/migrant-caravan-re-forms-mexico/"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a0c",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/honduranimmigrants_101618getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Migrant caravan continues journey toward US",
+                    "ts": 1540126141,
+                    "twitterid": 1053991545366556672,
+                    "url": "https://thehill.com/latino/412420-migrant-caravan-continues-journey-toward-us-after-clash-with-mexican-police"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a06",
+                    "date_month": "2018-10",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Pirro102118.png?itok=2l-3X7xD",
+                    "origin": "Fox News",
+                    "title": "'This Is Not a Right or Left Issue': Pirro Echoes Trump's Threat of Military to Stop Migrant Caravan",
+                    "ts": 1540126801,
+                    "twitterid": 1053994315117035520,
+                    "url": "http://insider.foxnews.com/2018/10/21/illegal-immigrant-caravan-judge-jeanine-echoes-president-trumps-threat-military-stop-it"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74d8",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/edbcc1e7-4a27-4875-836f-997debf07253-AP_Central_America_Migrant_Caravan.jpg?crop=2202,1238,x0,y67&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "'You can\u2019t even walk, there\u2019s just so many people': Migrant caravan bound for US swells despite Trump threats",
+                    "ts": 1540141500,
+                    "twitterid": 1054055967430721536,
+                    "url": "https://www.usatoday.com/story/news/world/2018/10/21/migrant-caravan-united-states-increases-despite-donald-trump-threats/1719819002/"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dfee",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Tom-Steyer-AP.jpg",
+                    "origin": "Fox News Politics",
+                    "title": "Billionaire\u2019s Trump impeachment push grows in midterm run-up",
+                    "ts": 1540135500,
+                    "twitterid": 1054030801086509056,
+                    "url": "https://www.foxnews.com/politics/tom-steyers-push-to-impeach-trump-worries-some-democrats-ahead-of-crucial-midterm-elections"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            228
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Clinton",
+            "Patriots Julia",
+            "WBO",
+            "Red Sox",
+            "Detroit",
+            "Scottish",
+            "Mississippi Beacon Hill",
+            "BBC",
+            "US Army Could",
+            "Hot",
+            "Threaten Ebola",
+            "Subscribe",
+            "Laos Ben Sasse",
+            "Missing Oil",
+            "Lakers",
+            "Simplest",
+            "Justice Arizona Senate",
+            "Save Money",
+            "U.S.",
+            "LGBT",
+            "Arrested Dem",
+            "Mongolia Virginia",
+            "Tropics",
+            "Canada",
+            "Health Insurance",
+            "Russian",
+            "New Black",
+            "Fox News Update",
+            "Earth",
+            "Speech",
+            "Commercial Republic Catholic",
+            "Jordan",
+            "Washington Haley",
+            "Fine Art California",
+            "Bannon Afghan",
+            "Bears School",
+            "Aurora",
+            "Forensic Quest",
+            "Taliban",
+            "Haunted Dolls",
+            "Battles Backfire",
+            "Brawl",
+            "GRAPHIC",
+            "New England",
+            "NASA",
+            "Twain Prize",
+            "Costa Rica",
+            "Pennsylvania",
+            "Netflix",
+            "Early Voting Surges",
+            "Kiddo",
+            "Poland",
+            "Swampscott Georgia",
+            "ZZZ South Korean Women Fight Back Against Spy Cams",
+            "Saudi Throne",
+            "McNair",
+            "Twitter",
+            "Public Bathrooms How",
+            "ISIS",
+            "Rob Gronkowski",
+            "Frackers Bet",
+            "Ruth",
+            "TED Interview",
+            "Boston",
+            "Rajon Rondo",
+            "Postal Service",
+            "Catholic Group",
+            "Steve Kerr",
+            "Businesses Cheating",
+            "Extremist",
+            "Industry",
+            "China",
+            "Mega Millions",
+            "Media Louisiana",
+            "Chris Sale",
+            "Al Smith",
+            "Brandon Ingram",
+            "Kaepernick",
+            "Pentagon",
+            "Dangerous Congo Rebels",
+            "Jeff Gordon",
+            "Brexit Futuristic Dreams Turn To Nightmare",
+            "Zinke",
+            "Somers",
+            "LA Dodgers Defeat Milwaukee Brewers To Reach",
+            "Next Recession",
+            "Arizona",
+            "Chris Paul",
+            "Los Angeles Lakers",
+            "Being Safer Online Is",
+            "Turkey",
+            "Penn State",
+            "Manafort",
+            "Fish Recipe Democratic Socialist",
+            "West Texas",
+            "Stephen Hawking",
+            "Race",
+            "Congress",
+            "Oklahoma",
+            "Indian Cooks",
+            "Cuban",
+            "Houston Public",
+            "Knicks",
+            "Elizabeth Warren",
+            "Chicago",
+            "Don",
+            "Work US",
+            "Bolivia",
+            "DNA",
+            "Oil Exports Ahed Tamimi",
+            "Feared Dead",
+            "Meghan Markle",
+            "Catholic Church Feds",
+            "Bering Sea",
+            "Julia",
+            "Ugly",
+            "Patriots For the Patriots",
+            "Garcetti",
+            "Scandal Over Dead Journalist Jolts Heir",
+            "Palestinian",
+            "Smithsonian",
+            "Brazil Snake",
+            "Alex",
+            "Earnest World",
+            "Jill Biden",
+            "Reporter",
+            "Kentucky",
+            "Navy",
+            "Israel Ticks",
+            "Georgia Could Maine",
+            "Brian Charlson",
+            "McConnell",
+            "Indianapolis Zoo",
+            "Cookin",
+            "Thomas Markle",
+            "Taiwanese Passenger Train Derailment",
+            "NRA",
+            "Golden State Warriors",
+            "Tornado Alley",
+            "Sears Was",
+            "Maryland",
+            "Alaska Natives",
+            "Model",
+            "Every House",
+            "Orange",
+            "Lioness",
+            "London",
+            "Iranian",
+            "Instant Pot",
+            "Washington Can",
+            "Japan",
+            "Watchdog",
+            "Test Kitchen Unveils Book For Young Chefs Air",
+            "Icelandair",
+            "Marvel",
+            "Stengel",
+            "Houston Rockets",
+            "Key",
+            "Powerball",
+            "Trump",
+            "China And Brazil Woo Each Other",
+            "HUD",
+            "Nazi Germany",
+            "Georgia Barn Democrats Lost Rural America",
+            "Gun Owners",
+            "Los Angeles",
+            "Los Angeles Dodgers",
+            "Afghanistan",
+            "Grouch Patriots",
+            "Bengals LB Vontaze Burfict",
+            "New House Look Old",
+            "Islamic State Are Brazil",
+            "New York Mega Millions",
+            "NBA Into",
+            "Michael Cohen",
+            "New York City",
+            "Duchess Meghan",
+            "Fight High Drug Prices",
+            "eBay",
+            "McCaskill Graupel",
+            "Darwin",
+            "Nikki Haley",
+            "Puig",
+            "Sean Hannity",
+            "LeBron James Has",
+            "Demetrius Andrade",
+            "New Terminals",
+            "Soccer Power",
+            "New England Rory Kennedy",
+            "LeBron James",
+            "WikiLeaks",
+            "Roger Stone",
+            "Barcelona",
+            "Train Plows Through Crowd Of Revelers",
+            "American",
+            "India Remains",
+            "Texas Democrat Beto"
+        ],
+        "peaks": [],
+        "theme": [
+            "New",
+            "World",
+            "killed",
+            "voting",
+            "make",
+            "Series",
+            "wins"
+        ],
+        "timestamp": "2018-10-22 02:10:24.008291-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bccbed9421aa96fef3c74cd",
+                    "date_month": "2018-10",
+                    "image": "https://si.wsj.net/public/resources/images/B3-CB358_salvag_TOP_20181016111130.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Spending Big Bucks to Make a New House Look Old",
+                    "ts": 1540142113,
+                    "twitterid": 1054058535909277697,
+                    "url": "https://www.wsj.com/articles/spending-big-bucks-to-make-a-new-house-look-old-1539873988?mod=e2tw"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74b6",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/16/BostonGlobe.com/Magazine/Images/voting1028web.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Could Maine\u2019s new ranked-choice voting change American elections?",
+                    "ts": 1540144073,
+                    "twitterid": 1054066757831454722,
+                    "url": "https://www.bostonglobe.com/magazine/2018/10/17/could-maine-new-ranked-choice-voting-change-american-elections/6VqNC73bQzMrPd0RSepA8L/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcc2418421aa9653d3a5fcc",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/21/gettyimages-1052650582_wide-233c1d17921df6b52c2d439e6e2236d8099c8bdb.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "LA Dodgers Defeat Milwaukee Brewers To Reach World Series",
+                    "ts": 1540103345,
+                    "twitterid": 1053895933254021120,
+                    "url": "https://www.npr.org/2018/10/21/659243887/la-dodgers-defeat-milwaukee-brewers-to-reach-world-series?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bcc4e42421aa967e547a98a",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2012/01/12/BostonGlobe.com/Sports/Advance/Images/01012012_01yearaheadro.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Red Sox are early favorites to win 2018 World Series",
+                    "ts": 1540113829,
+                    "twitterid": 1053939907838861313,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/21/red-sox-are-early-favorites-win-world-series/92o6yiw0HLd87Rg1iLiA8K/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcc5c5b421aa968ba0deca6",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/21/BostonGlobe.com/Sports/Images/39280e36dbd44492b2c47a21835a2a36-39280e36dbd44492b2c47a21835a2a36-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "A closer look at the Los Angeles Dodgers, Boston\u2019s opponent in the World Series",
+                    "ts": 1540118224,
+                    "twitterid": 1053958340462759936,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/20/closer-look-los-angeles-dodgers-boston-opponent-world-series/YGbBW8FH40yg3y1jIgXEQM/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bcc94a3421aa96d1347c89b",
+                    "date_month": "2018-10",
+                    "image": "https://nbchardballtalk.files.wordpress.com/2018/10/ap_18294086028163-e1540092753850.jpg?w=1200",
+                    "origin": "NBC News",
+                    "title": "Bellinger, Puig power Game 7 win to send Dodgers to the World Series",
+                    "ts": 1540131003,
+                    "twitterid": 1054011937602895872,
+                    "url": "https://mlb.nbcsports.com/2018/10/20/bellinger-puig-power-game-7-win-to-send-dodgers-to-the-world-series/?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bccb0c5421aa96efee9e929",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/21/f09baba5-0a30-457e-aec2-1b26e139cb05/thumbnail/1200x630/2122bae28968f2462d565c3f6ddf7bb2/gettyimages-1052650580.jpg",
+                    "origin": "CBS News",
+                    "title": "Dodgers defeat Brewers in Game 7, will face Red Sox in World Series",
+                    "ts": 1540138200,
+                    "twitterid": 1054042127175421952,
+                    "url": "https://www.cbsnews.com/news/los-angeles-dodges-defeat-milwaukee-brewers-game-7-nlcs-tonight-heading-to-world-series-2018-10-20/?ftag=CNM-00-10aab7e&linkId=58514412"
+                },
+                {
+                    "_id": "5bcd2f4e421aa97797bb51b1",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ufc-205-press-conference-51.vresize-741074f2136e9510VgnVCM100000d7c1a8c0____.jpg",
+                    "origin": "Fox News",
+                    "title": "Conor McGregor gives Boston firefighters World Series tickets as a gift",
+                    "ts": 1540172208,
+                    "twitterid": 1054184763702083584,
+                    "url": "https://www.foxnews.com/entertainment/conor-mcgregor-gives-boston-firefighters-world-series-tickets-as-a-gift"
+                },
+                {
+                    "_id": "5bcc5c5b421aa968ba0decb6",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/4001584a-5872-470b-882d-7dbc8b419d9d-USATSI_11486943.jpg?crop=3393,1909,x440,y87&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Dodgers finally take care of business to beat Brewers in Game 7, get back to World Series",
+                    "ts": 1540116018,
+                    "twitterid": 1053949085437304832,
+                    "url": "https://www.usatoday.com/story/sports/mlb/2018/10/20/dodgers-brewers-game-7-yasiel-puig-nlcs/1717513002/"
+                },
+                {
+                    "_id": "5bcc4035421aa96723732184",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/bruth888.jpg",
+                    "origin": "Fox News",
+                    "title": "Dodgers, Red Sox last met in World Series in 1916 \u2013 when Ruth, Stengel were young stars",
+                    "ts": 1540111920,
+                    "twitterid": 1053931898307657729,
+                    "url": "https://www.foxnews.com/sports/dodgers-red-sox-last-met-in-world-series-in-1916-when-ruth-stengel-were-young-stars"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            36
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Affair How",
+            "UFC",
+            "HGTV",
+            "Himalayas",
+            "Hurricane Michael Pete Davidson",
+            "Hurricane Michael Meet Swayze Valentine",
+            "Margaret",
+            "New Kid Jonathan Knight",
+            "Tom Petty",
+            "Paula Abdul",
+            "Lena Dunham",
+            "Ariana Grande",
+            "Mississippi",
+            "Cher",
+            "Medieval Legends",
+            "Jackie Onassis Babies",
+            "Houston",
+            "Jackie Kennedy",
+            "Dawn Wells",
+            "Lenny Crowdsourcing To Find Survivors Of Hurricane Michael",
+            "GoFundMe",
+            "Lower Obesity Risks Years Later Paula Abdul",
+            "Parkland",
+            "Island",
+            "Left",
+            "Keith Urban",
+            "Strong Opening Numbers New",
+            "London",
+            "Milk Carton Kids",
+            "MeToo",
+            "Modern Eyes Luke Bryan"
+        ],
+        "peaks": [],
+        "theme": [
+            "find",
+            "opened",
+            "concert",
+            "fan",
+            "Hurricane",
+            "Michael",
+            "Abdul"
+        ],
+        "timestamp": "2018-10-22 02:10:24.673916-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcc8698421aa96c0f0401b0",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/19/ap_18289636589069_wide-5bab0aa2b911ce58006af969291a8667292f7bc6.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Crowdsourcing To Find Survivors Of Hurricane Michael",
+                    "ts": 1540129980,
+                    "twitterid": 1054007647509401600,
+                    "url": "https://www.npr.org/2018/10/20/659054659/crowdsourcing-to-find-survivors-of-hurricane-michael?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2049"
+                },
+                {
+                    "_id": "5bcd6781421aa97b53aafb3a",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/19/66c84a7e-bcf2-4e15-94ca-d590a521f330/thumbnail/1200x630/ad8b33d0922dde4c92b7fa6ad180006f/begnaud-woman-crying-from-jill.jpg",
+                    "origin": "CBS News",
+                    "title": "Family of 12 struggling to find shelter more than a week after Hurricane Michael",
+                    "ts": 1540186383,
+                    "twitterid": 1054244221404749824,
+                    "url": "https://www.cbsnews.com/news/hurricane-michael-family-struggling-to-find-shelter-week-after-storm-2018-10-19/"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936486",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/LukeBryan1.jpg",
+                    "origin": "Fox News",
+                    "title": "Luke Bryan's mother's house reportedly damaged in Hurricane Michael",
+                    "ts": 1540145346,
+                    "twitterid": 1054072096287059968,
+                    "url": "https://www.foxnews.com/entertainment/luke-bryans-mothers-house-reportedly-damaged-in-hurricane-michael"
+                },
+                {
+                    "_id": "5bcd2f4e421aa97797bb51b7",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/540c6006-2ac5-4615-9700-18e7a22cc8fb-GTY_1037546268.JPG?crop=2745,1575,x0,y384&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Paula Abdul falls off stage into the crowd at Mississippi concert",
+                    "ts": 1540171800,
+                    "twitterid": 1054183055789821952,
+                    "url": "https://www.usatoday.com/story/life/2018/10/21/paula-abdul-falls-off-stage-into-crowd-mississippi-concert/1723516002/"
+                },
+                {
+                    "_id": "5bcc322b421aa9663e45c79d",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/19/9533ad75-30b2-46f9-b7f1-99c016055203/thumbnail/1200x630/bcfafc9d5e7ff2dd120ca9020d64aa3c/screen-shot-2018-10-19-at-11-40-41-am.png",
+                    "origin": "CBS News",
+                    "title": "Keith Urban serenades gravely ill fan who couldn't make it to his concert",
+                    "ts": 1540106284,
+                    "twitterid": 1053908261878013952,
+                    "url": "https://www.cbsnews.com/news/keith-urban-fan-marissa-english-marlise-matthews-ohio-toledo/"
+                },
+                {
+                    "_id": "5bcd2f4e421aa97797bb51a6",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/e164f97d-6d19-4aca-8dd2-a1594389078e-Snapshot_4x.jpg?crop=589,335,x0,y11&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Keith Urban grants dying fan her last concert wish, serenading her at bedside",
+                    "ts": 1540173602,
+                    "twitterid": 1054190612977774592,
+                    "url": "https://www.usatoday.com/story/life/allthemoms/2018/10/21/keith-urban-grants-dying-fan-last-wish-serenading-bedside/1722911002/"
+                },
+                {
+                    "_id": "5bccb0c5421aa96efee9e914",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/04/17880334_1301569389934762_1348722571262861732_o_wide-d3ab75384c700f48a818dfaa60c71c23667f5dfc.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Can't Find An Affordable Home? Try Living In A Pod",
+                    "ts": 1540140060,
+                    "twitterid": 1054049926609543168,
+                    "url": "https://www.npr.org/2018/10/21/654426576/cant-find-an-affordable-home-try-living-in-a-pod?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2049"
+                },
+                {
+                    "_id": "5bcd051d421aa9749c072aab",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/RT_PaulaAbdul.jpg",
+                    "origin": "Fox News",
+                    "title": "Paula Abdul falls off stage during live performance",
+                    "ts": 1540159407,
+                    "twitterid": 1054131075000295424,
+                    "url": "https://www.foxnews.com/entertainment/paula-abdul-falls-off-stage-during-live-performance"
+                },
+                {
+                    "_id": "5bcd6781421aa97b53aafb40",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/O-WDtchcXzdd3HrRVQcnCWXnNzU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRI73YN6M5GENF4J5VZ4TCM4OY.jpeg",
+                    "origin": "Washington Post",
+                    "title": "They opened their home to dozens of young people. Then he learned he could give one more thing: A kidney.",
+                    "ts": 1540185019,
+                    "twitterid": 1054238498511826949,
+                    "url": "https://www.washingtonpost.com/lifestyle/2018/10/18/they-opened-their-home-dozens-young-people-then-he-learned-he-could-give-one-more-thing-kidney/?utm_term=.71aa3e73c7cb&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Computer Associates",
+            "Zika",
+            "Child Care",
+            "Florida",
+            "Actress Selma Blair",
+            "Adam Rippon",
+            "Charles Wang",
+            "Founder",
+            "Hurricane Michael",
+            "Selma Blair",
+            "Purdue Northwest",
+            "ERs",
+            "Know Enough",
+            "Mental",
+            "Ovarian Cancer Actress Selma Blair",
+            "Owner",
+            "Islanders Hockey Team"
+        ],
+        "peaks": [],
+        "theme": [
+            "Blair",
+            "Selma",
+            "multiple",
+            "sclerosis",
+            "Actress",
+            "cancer",
+            "Dies"
+        ],
+        "timestamp": "2018-10-22 02:10:25.213127-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcccce8421aa970b893645f",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/171026141039-selma-blair-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Actress Selma Blair reveals she has multiple sclerosis",
+                    "ts": 1540148408,
+                    "twitterid": 1054084941313662976,
+                    "url": "https://www.cnn.com/2018/10/21/entertainment/selma-blair-reveals-multiple-sclerosis/index.html?utm_source=twCNN&utm_content=2018-10-21T19%3A00%3A07&utm_term=image&utm_medium=social"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dff2",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_42/2613181/181021-selma-blair-al-1041_4a30e253fa0d950ef950623dca38adcd.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Actress Selma Blair says she has been diagnosed with multiple sclerosis",
+                    "ts": 1540135206,
+                    "twitterid": 1054029565746704384,
+                    "url": "https://www.nbcnews.com/pop-culture/celebrity/actress-selma-blair-says-she-has-been-diagnosed-multiple-sclerosis-n922541?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a2c",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2016/06/22/people-selma_blair_s2048x1365.jpeg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Selma Blair diagnosed with multiple sclerosis",
+                    "ts": 1540123673,
+                    "twitterid": 1053981195762130944,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/21/selma-blair-diagnosed-multiple-sclerosis/"
+                },
+                {
+                    "_id": "5bccb0c5421aa96efee9e916",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/041c2b30de9c7fc574ec60bdd1711d096072a511/c=0-81-2391-1432/local/-/media/2016/06/07/USATODAY/USATODAY/636009020124018739-GTY-538505276-82430338.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Selma Blair reveals she has multiple sclerosis: 'I want my life to be full somehow'",
+                    "ts": 1540139700,
+                    "twitterid": 1054048417155072000,
+                    "url": "https://www.usatoday.com/story/life/people/2018/10/21/selma-blair-reveals-she-has-multiple-sclerosis-fall-sometimes/1719813002/"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed0697",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/selma-blair.jpg",
+                    "origin": "Fox News",
+                    "title": "Actress Selma Blair, 46, reveals MS diagnosis: 'I am disabled'",
+                    "ts": 1540120740,
+                    "twitterid": 1053968892136226816,
+                    "url": "https://www.foxnews.com/entertainment/actress-selma-blair-46-reveals-ms-diagnosis"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed0687",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/19/gettyimages-924978304-1_wide-d1be1a629f1df944452eae2537b9e8f916f31d32.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Report: Women Everywhere Don't Know Enough About Ovarian Cancer",
+                    "ts": 1540121901,
+                    "twitterid": 1053973760959758337,
+                    "url": "https://www.npr.org/sections/goatsandsoda/2018/10/21/658798956/report-women-everywhere-dont-know-enough-about-ovarian-cancer?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2049"
+                },
+                {
+                    "_id": "5bcd133d421aa9757ba16b0a",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/20/2a2054be-a899-406e-8207-04b498a74429/thumbnail/1200x630/ef137bb38133c3cf82008a5d41512558/1020-en-breastcancer-lapook-grab4.jpg",
+                    "origin": "CBS News",
+                    "title": "New immunotherapy drug showing promise for aggressive type of breast cancer",
+                    "ts": 1540165683,
+                    "twitterid": 1054157398640877570,
+                    "url": "https://www.cbsnews.com/news/tecentriq-immunotherpy-triple-negative-breast-cancer-shows-promise/"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed06a4",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/05/622df81e-981d-4209-a710-7f0483b278cd/thumbnail/1200x630/747fcdf7cafe8c209c8cb11a46ed2746/b4-villafranca-9-yr-old-life-support-1005en-frame-145.jpg",
+                    "origin": "CBS News",
+                    "title": "Girl at center of court battle dies after court allows more time on life support",
+                    "ts": 1540119783,
+                    "twitterid": 1053964879634280448,
+                    "url": "https://www.cbsnews.com/news/payton-summons-texas-girl-dies-after-court-allows-more-time-on-life-support/"
+                },
+                {
+                    "_id": "5bcd3d60421aa9788816739c",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-32007/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Charles Wang, Founder of Computer Associates and Owner of Islanders Hockey Team, Dies at 74",
+                    "ts": 1540174806,
+                    "twitterid": 1054195662282256385,
+                    "url": "https://www.wsj.com/articles/charles-wang-founder-of-computer-associates-and-owner-of-islanders-hockey-team-dies-at-74-1540159393?mod=e2tw"
+                },
+                {
+                    "_id": "5bcd4b6c421aa979bce3b9bd",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/P2Gyw54PUZMHMcDtfwtfEFIaGl0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EQ3AC7GNMEI6RLIKBYA67OR4YE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Strength training seen helping breast cancer survivors regain muscle mass",
+                    "ts": 1540179763,
+                    "twitterid": 1054216453417852928,
+                    "url": "https://www.washingtonpost.com/national/health-science/strength-training-seen-helping-breast-cancer-survivors-regain-muscle-mass/2018/10/19/5072d902-cc0a-11e8-a360-85875bac0b1f_story.html?utm_term=.9e1e8f0acdea&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            54
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Bipartisan",
+            "Saudis",
+            "Reinforce Ties",
+            "Saudi Arabia Saudi",
+            "Saudis Merkel",
+            "CNN",
+            "Schiff",
+            "Jamal Khashoggi",
+            "Mnuchin",
+            "Corker",
+            "Saudi Arabia Avenatti",
+            "Rand Paul",
+            "US",
+            "Khashoggi",
+            "Khoshoggi",
+            "FOX",
+            "U.S.",
+            "Kushner",
+            "Gorka",
+            "Qualms Rand Paul",
+            "Saudi Arabia Corker",
+            "AP",
+            "Germany",
+            "Washington Post",
+            "Saudi Arabian",
+            "Uproar Over Khashoggi Killing",
+            "Turkey",
+            "GOP",
+            "Durbin",
+            "Saudi Money Flows Into Silicon",
+            "Trump Amnesty International",
+            "Saudi",
+            "Journalist",
+            "Saudi Arabia Saudis",
+            "Saudi Arabia Joaquin Castro",
+            "Congress",
+            "Erdogan",
+            "U.S. Trump",
+            "Turkish",
+            "Western",
+            "American",
+            "Saudi Arabia Trump",
+            "Saudi Arabia",
+            "Death Turkey"
+        ],
+        "peaks": [],
+        "theme": [
+            "Saudi",
+            "Khashoggi",
+            "Death",
+            "Arabia",
+            "Trump",
+            "prince",
+            "call"
+        ],
+        "timestamp": "2018-10-22 02:10:25.959698-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bccbed9421aa96fef3c74ad",
+                    "date_month": "2018-10",
+                    "image": "https://www.politico.eu/wp-content/uploads/2018/10/GettyImages-518673564-1200x628.jpg",
+                    "origin": "POLITICO",
+                    "title": "German politicians call for freeze on arms exports to Saudi Arabia",
+                    "ts": 1540144812,
+                    "twitterid": 1054069856440643585,
+                    "url": "https://www.politico.eu/article/heiko-maas-norbert-rottgen-german-politicians-call-for-freeze-on-arms-exports-to-saudi-arabia-after-jamal-khashoggi-death/"
+                },
+                {
+                    "_id": "5bcc322b421aa9663e45c794",
+                    "date_month": "2018-10",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_42/2612296/181019-jamal-khashoggi-ac-705p_83645b45e86db5bbee3de4617c8cc27c.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Saudi Arabia's explanation for Khashoggi's death draws international criticism",
+                    "ts": 1540107258,
+                    "twitterid": 1053912344227704832,
+                    "url": "https://www.nbcnews.com/news/world/saudi-arabia-s-explanation-khashoggi-s-death-draws-international-criticism-n922406?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bcc8698421aa96c0f0401cd",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald-binsalman-mohammed-getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump: 'I would love' if Saudi crown prince wasn't responsible in Khashoggi killing",
+                    "ts": 1540127583,
+                    "twitterid": 1053997595817922560,
+                    "url": "https://thehill.com/homenews/administration/412421-trump-i-would-love-if-saudi-crown-prince-wasnt-responsible-in"
+                },
+                {
+                    "_id": "5bccb0c5421aa96efee9e927",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/schiffadam_051018gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Schiff predicts Trump will accept Saudi denials of involvement in Khashoggi's death",
+                    "ts": 1540138386,
+                    "twitterid": 1054042904770080768,
+                    "url": "https://thehill.com/homenews/house/412439-schiff-predicts-trump-will-accept-saudi-denials-of-involvement-in-khashoggis"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dfe3",
+                    "date_month": "2018-10",
+                    "image": "http://www.trbimg.com/img-5bcc9a6d/turbine/ct-jamal-khashoggi-saudi-arabia-20181021",
+                    "origin": "Chicago Tribune",
+                    "title": "Leading U.S. Republican: Saudi Arabia's crown prince 'crossed a line' in death of journalist",
+                    "ts": 1540136117,
+                    "twitterid": 1054033390549262336,
+                    "url": "http://www.chicagotribune.com/news/nationworld/ct-jamal-khashoggi-saudi-arabia-20181021-story.html"
+                },
+                {
+                    "_id": "5bcc2418421aa9653d3a5fc0",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_100818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "The Memo: Trump in a corner on Saudi Arabia",
+                    "ts": 1540104664,
+                    "twitterid": 1053901467168456704,
+                    "url": "https://thehill.com/homenews/the-memo/412392-the-memo-trump-in-a-corner-on-saudi-arabia"
+                },
+                {
+                    "_id": "5bccb0c5421aa96efee9e918",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Washington Post",
+                    "title": "Khashoggi\u2019s death was a \u2018rogue operation\u2019 that the crown prince was not aware of, Saudi foreign minister says",
+                    "ts": 1540139544,
+                    "twitterid": 1054047763309174785,
+                    "url": "https://www.washingtonpost.com/news/world/wp/2018/10/21/khashoggis-death-was-a-rogue-operation-that-the-crown-prince-was-not-aware-of-saudi-foreign-minister-says/"
+                },
+                {
+                    "_id": "5bccb0c5421aa96efee9e920",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/21/694940094001_5851538557001_5851533692001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Saudi crown prince is 'gonna have to be replaced' amid 'insulting' explanation for Khashoggi's death, Rand Paul says",
+                    "ts": 1540139100,
+                    "twitterid": 1054045900148883457,
+                    "url": "https://www.foxnews.com/politics/saudi-crown-prince-is-gonna-have-to-be-replaced-amid-insulting-explanation-for-khashoggis-death-rand-paul-says"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74b2",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/corkerbob_072418gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Corker calls for 'collective' response from western countries if Saudi crown prince found responsible in Khashoggi's death",
+                    "ts": 1540144200,
+                    "twitterid": 1054067292655534080,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/412423-corker-calls-for-collective-response-from-western-countries-if"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936467",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/corkerbob_072418gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Corker calls for 'collective' response from Western countries if Saudi crown prince found responsible in Khashoggi's death",
+                    "ts": 1540147380,
+                    "twitterid": 1054080628314955776,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/412423-corker-calls-for-collective-response-from-western-countries-if"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            36
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Wisconsin",
+            "Pacific Coast Ryanair",
+            "Florida",
+            "Jayme Closs",
+            "Hurricane Willa Heads For Mexico",
+            "Mexico",
+            "Swedish",
+            "Jacksonville Jaguars",
+            "Video",
+            "New Jersey",
+            "NYPD",
+            "Afghanistan",
+            "Louisiana",
+            "Georgia",
+            "Border Protection",
+            "VIDEO",
+            "Floor",
+            "Utah",
+            "Details",
+            "Clemson University",
+            "Dorchester",
+            "Family",
+            "Hurricane Willa",
+            "Bud Light",
+            "Pennsylvania",
+            "Holly Piirainen",
+            "Baltimore",
+            "Texas",
+            "Siri Shortcut"
+        ],
+        "peaks": [],
+        "theme": [
+            "police",
+            "murder",
+            "officer",
+            "say",
+            "Man",
+            "Hurricane",
+            "Mexico"
+        ],
+        "timestamp": "2018-10-22 02:10:26.410780-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcd2f4e421aa97797bb51c7",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/pacific.jpg",
+                    "origin": "The Hill",
+                    "title": "Hurricane heading toward Mexico strengthens to Category 4",
+                    "ts": 1540170303,
+                    "twitterid": 1054176773330661377,
+                    "url": "https://thehill.com/policy/energy-environment/412466-hurricane-heading-toward-mexico-strengthens-to-category-4"
+                },
+                {
+                    "_id": "5bccb0c5421aa96efee9e90e",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Texas death row inmate linked to 1999 murder of college student, Louisiana police say",
+                    "ts": 1540140300,
+                    "twitterid": 1054050932911206401,
+                    "url": "https://www.foxnews.com/us/texas-death-row-inmate-linked-to-1999-murder-of-college-student-louisiana-police-say"
+                },
+                {
+                    "_id": "5bcd3d60421aa97888167394",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/18/d7d4fce4-bc0d-4dde-b599-8093b1c3db54/thumbnail/1200x630/c22f3185e1f51d507d766a433a1d2bf2/untitled-collage-44.jpg",
+                    "origin": "CBS News",
+                    "title": "Man makes off with 5 cases of Bud Light in \"textbook\" beer run, police say",
+                    "ts": 1540175583,
+                    "twitterid": 1054198922527338499,
+                    "url": "https://www.cbsnews.com/news/texas-man-makes-off-with-5-cases-of-bud-light-in-textbook-beer-run-police-say/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bcd36de04d301579502b16b&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bcd2f4e421aa97797bb51c4",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/294c38b0-Untitled.png",
+                    "origin": "Fox News",
+                    "title": "Hurricane Willa threatens Mexico as 'extremely dangerous' Category 4 storm",
+                    "ts": 1540170687,
+                    "twitterid": 1054178386187350017,
+                    "url": "https://www.foxnews.com/world/hurricane-willa-threatens-mexico-as-extremely-dangerous-category-4-storm"
+                },
+                {
+                    "_id": "5bcd597a421aa97a980e3127",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/22/gettyimages-1052719964_wide-e63d88147262e5b98ffd29ead619c98e73fb7079.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "'Extremely Threatening' Hurricane Willa Heads For Mexico's Pacific Coast",
+                    "ts": 1540184274,
+                    "twitterid": 1054235372299812864,
+                    "url": "https://www.npr.org/2018/10/22/659388138/extremely-threatening-hurricane-willa-heads-for-mexico-s-pacific-coast?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bcd133d421aa9757ba16b13",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/21/eb68196d-f09b-4404-9d09-e54db6868f13/thumbnail/1200x630/7292bc09d3c790ed71576653179c3e5b/181021-nasa-hurricane-willa-water-vapor.png",
+                    "origin": "CBS News",
+                    "title": "Hurricane Willa becomes Category 4 storm off Pacific coast of Mexico",
+                    "ts": 1540164589,
+                    "twitterid": 1054152809380302850,
+                    "url": "https://www.cbsnews.com/news/hurricane-willa-pacific-coast-of-mexico-latest-track-path-weather-forecast-today-live-updates-2018-10-21/?ftag=CNM-00-10aab7e&linkId=58522163"
+                },
+                {
+                    "_id": "5bcd2f4e421aa97797bb51ab",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/21/cbaa55cc-9f5a-4845-af91-a7d83ceeb2f9/thumbnail/1200x630g2/e70f95e11223f48bfcde00d69c0a38b9/ap-18293844118681.jpg",
+                    "origin": "CBS News",
+                    "title": "Georgia police officer fatally shot near middle school",
+                    "ts": 1540172885,
+                    "twitterid": 1054187603476574210,
+                    "url": "https://www.cbsnews.com/news/gwinnett-county-antwan-toney-georgia-police-officer-shot-killed-today-near-middle-school-2018-10-20/"
+                },
+                {
+                    "_id": "5bcd051d421aa9749c072a9c",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Pennsylvania convicted murderer is suspected serial killer, police say",
+                    "ts": 1540160660,
+                    "twitterid": 1054136330681311237,
+                    "url": "https://www.foxnews.com/us/pennsylvania-convicted-murderer-is-suspected-serial-killer-police-say"
+                },
+                {
+                    "_id": "5bcd2149421aa9768766fa69",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/US/police-shooting-hearse-4-wsb-ht-jt-181021_hpMain_2_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Manhunt underway for 'armed and dangerous' suspect in killing of Georgia police officer",
+                    "ts": 1540167768,
+                    "twitterid": 1054166140983930880,
+                    "url": "https://abcnews.go.com/US/police-officer-shot-killed-responding-report-suspicious-vehicle/story?id=58637204&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bccf70f421aa973a53f2ca6",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Police-Lights.jpg",
+                    "origin": "Fox News",
+                    "title": "Jacksonville shooting near Jaguars game wounds 6, 3 critically, police say",
+                    "ts": 1540157880,
+                    "twitterid": 1054124668490108928,
+                    "url": "https://www.foxnews.com/us/jacksonville-shooting-near-jaguars-game-wounds-6-3-critically-police-say"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            13
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Patriots Ohio State",
+            "Ohio State",
+            "Clemson",
+            "Mitch Trubisky Live",
+            "Purdue",
+            "Michigan",
+            "Amway Coaches Poll",
+            "Ohio State College",
+            "Tyler Trent Mitch Trubisky",
+            "Soldier Field Bears",
+            "Bears",
+            "Buckeyes Purdue"
+        ],
+        "peaks": [],
+        "theme": [
+            "Bears",
+            "Patriots",
+            "College",
+            "football",
+            "Ohio",
+            "State",
+            "Week"
+        ],
+        "timestamp": "2018-10-22 02:10:26.826455-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcc4035421aa96723732181",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/f7491733-75cb-4f44-a8d7-75eeaec8226e-USATSI_11487242.jpg?crop=4455,2506,x0,y293&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "College football's No. 2 team upset again as Purdue routs Ohio State",
+                    "ts": 1540112415,
+                    "twitterid": 1053933973855002625,
+                    "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2018/10/20/purdue-boilermakers-upset-ohio-state-buckeyes/1717078002/"
+                },
+                {
+                    "_id": "5bcc6a70421aa969dfed067f",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/42715f41-e7dd-42ed-bb25-081000567fa2-AP_Ohio_St_Purdue_Football.JPG?crop=3717,2081,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "12 observations from Week 8 in college football",
+                    "ts": 1540123002,
+                    "twitterid": 1053978380050272256,
+                    "url": "https://www.usatoday.com/story/sports/columnist/dan-wolken/2018/10/20/college-football-week-8-observations-takeaways-big-ten-michigan-ohio-state/1718364002/"
+                },
+                {
+                    "_id": "5bcc4e42421aa967e547a97d",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/9826a10b-b809-4881-8875-e346ac888c12-USATSI_11481931.jpg?crop=5183,2915,x1,y424&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "College football's winners and losers for Week 8 topped by Michigan's Big Ten statement",
+                    "ts": 1540116000,
+                    "twitterid": 1053949012141899776,
+                    "url": "https://www.usatoday.com/story/sports/ncaaf/2018/10/20/college-football-winners-losers-week-8-topped-michigan-big-ten/1715770002/"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74d9",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/0f526ff6-81a1-4f08-92b8-59d72f401743-USP_NCAA_Football__North_Carolina_State_at_Clemson.JPG?crop=3806,2141,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Ohio State falls in Amway Coaches Poll; Clemson, Michigan rise",
+                    "ts": 1540141470,
+                    "twitterid": 1054055842721480705,
+                    "url": "https://www.usatoday.com/story/sports/ncaaf/2018/10/21/ohio-state-falls-amway-coaches-poll-clemson-michigan-rise/1719697002/"
+                },
+                {
+                    "_id": "5bcc94a3421aa96d1347c88c",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/UY3PRHYFOhFe6LLtUwIrrrNmh0A=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FN4IESWU5EI6RJG3DBBRDUTRFE.jpg",
+                    "origin": "Washington Post",
+                    "title": "College football winners and losers: Boilermakers blitz the Buckeyes",
+                    "ts": 1540132170,
+                    "twitterid": 1054016833483931649,
+                    "url": "https://www.washingtonpost.com/sports/2018/10/20/college-football-winners-losers-sooners-defense-better-late/?utm_term=.27656e5f3510&tid=sm_tw"
+                },
+                {
+                    "_id": "5bcca2c3421aa96dfda9dfd4",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/PIND/47a1a22e-95a1-469d-a04d-d2edd10cd473-tylertrent.jpg?crop=1199,674,x1,y48&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Purdue got the win over Ohio State, but the day really belonged to Tyler Trent",
+                    "ts": 1540137603,
+                    "twitterid": 1054039621225586688,
+                    "url": "https://www.usatoday.com/story/sports/ncaaf/2018/10/20/tyler-trent-purdue-ohio-state/1718971002/"
+                },
+                {
+                    "_id": "5bcccce8421aa970b893646a",
+                    "date_month": "2018-10",
+                    "image": "http://www.trbimg.com/img-5bccc5d8/turbine/ct-spt-bears-patriots-week-7-20181021",
+                    "origin": "Chicago Tribune",
+                    "title": "Bears trailing Patriots 21-17 at Soldier Field",
+                    "ts": 1540147295,
+                    "twitterid": 1054080274575822849,
+                    "url": "http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-patriots-week-7-20181021-story.html"
+                },
+                {
+                    "_id": "5bcce903421aa972b6d16a3c",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/21/BostonGlobe.com/Sports/Images/Chin1021181stPatsBears_Spt5.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Live updates: Patriots at Bears news, commentary, and analysis",
+                    "ts": 1540153456,
+                    "twitterid": 1054106111614312448,
+                    "url": "https://www.bostonglobe.com/sports/2018/10/21/live-updates-patriots-bears-news-commentary-and-analysis/hKN8OQled3AiGagsBVykRK/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bccdaee421aa971c94cb81b",
+                    "date_month": "2018-10",
+                    "image": "http://www.trbimg.com/img-5bccda01/turbine/ct-spt-bears-patriots-week-7-20181021",
+                    "origin": "Chicago Tribune",
+                    "title": "Bears trailing 38-24 after Patriots twice intercept Mitch Trubisky",
+                    "ts": 1540151531,
+                    "twitterid": 1054098039915401217,
+                    "url": "http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-patriots-week-7-20181021-story.html"
+                },
+                {
+                    "_id": "5bcd051d421aa9749c072aa4",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/163b3069-e92d-4d83-a176-8cf23a99e18c-AP_Patriots_Bears_Football.jpg?crop=5471,3077,x1,y217&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Bears' Hail Mary comes up 1 yard short as Patriots hang on for win",
+                    "ts": 1540160100,
+                    "twitterid": 1054133982626021376,
+                    "url": "https://www.usatoday.com/story/sports/nfl/bears/2018/10/21/chicago-bears-hail-mary-new-england-patriots/1722610002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            25
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Moscow Bolton",
+            "Economic News",
+            "Trump",
+            "World News",
+            "Video",
+            "Wall Street Journal",
+            "US",
+            "Gorbachev",
+            "Britain",
+            "INF Nuclear Treaty Trump",
+            "U.S.",
+            "Russia",
+            "Trump Says Gavin Williamson",
+            "Business",
+            "Russian",
+            "Defense Chiefs Seek Friendlier Skies Over Asia",
+            "U.S.-China",
+            "Donald Trump",
+            "China Trump",
+            "Congress",
+            "Financial",
+            "Cold",
+            "Japan",
+            "American",
+            "Nuclear Arms Treaty"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "treaty",
+            "arms",
+            "nuclear",
+            "Russia",
+            "says"
+        ],
+        "timestamp": "2018-10-22 02:10:27.251091-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcc6a70421aa969dfed06a2",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/21/gettyimages-1052641316_wide-874662a38379bef55baa6613ddd4acd8187b7f68.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "U.S. To End Cold War-Era Nuclear Arms Treaty With Russia, Trump Says",
+                    "ts": 1540120064,
+                    "twitterid": 1053966057235341312,
+                    "url": "https://www.npr.org/2018/10/21/659275572/u-s-to-end-cold-war-era-nuclear-arms-treaty-with-russia-trump-says?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bcc7885421aa96af74b7a17",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/04/belgium_nato_russia_cyberattacks_95571_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Gavin Williamson says Britain backs Donald Trump, U.S. on Russia arms treaty withdrawal",
+                    "ts": 1540125290,
+                    "twitterid": 1053987978052337664,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/21/gavin-williamson-says-britain-backs-donald-trump-u/"
+                },
+                {
+                    "_id": "5bcd3d60421aa9788816739f",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/16/9d65ff29-8ce5-4402-9771-73f107e6c334/thumbnail/1200x630g2/f88d3e751c5c3bdc20ce0e3a8af65434/ap-18197426178583.jpg",
+                    "origin": "CBS News",
+                    "title": "Russia fires back at Trump's plan to pull U.S. out of nuclear arms treaty",
+                    "ts": 1540174566,
+                    "twitterid": 1054194657356324865,
+                    "url": "https://www.cbsnews.com/news/donald-trump-intermediate-range-nuclear-forces-nuclear-weapons-treaty-russia-reaction-2018-10-21/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bcd32e304d3014b720e5657&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bcccce8421aa970b893647e",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/Mlu6E47bQGbnDqSDYQuHiY1HC1M=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FCUYEWGVCEI6RIIPWUKUNMIHKY.jpg",
+                    "origin": "Post Politics",
+                    "title": "GOP lawmakers criticize Trump\u2019s decision to withdraw from nuclear arms treaty",
+                    "ts": 1540146060,
+                    "twitterid": 1054075092756512770,
+                    "url": "https://www.washingtonpost.com/politics/gop-lawmakers-criticize-trumps-decision-to-withdraw-from-nuclear-arms-treaty/2018/10/21/20e4d726-d53d-11e8-83a2-d1c3da28d6b6_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bcc94a3421aa96d1347c87d",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/09/24/694940094001_5839292455001_5839291337001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Trump's 'very dangerous' decision to abandon nuclear accord has 'mankind facing full chaos,' Russia says",
+                    "ts": 1540133700,
+                    "twitterid": 1054023250467008513,
+                    "url": "https://www.foxnews.com/politics/trumps-very-dangerous-decision-to-abandon-nuclear-accord-has-mankind-facing-full-chaos-russia-says"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936477",
+                    "date_month": "2018-10",
+                    "image": "https://www.politico.eu/wp-content/uploads/2018/10/GettyImages-1056324416-1200x628.jpg",
+                    "origin": "POLITICO",
+                    "title": "Russia slams US withdrawal from arms treaty as \u2018blackmail\u2019",
+                    "ts": 1540146604,
+                    "twitterid": 1054077374738976768,
+                    "url": "https://www.politico.eu/article/russia-slams-us-donald-trump-withdrawal-from-arms-treaty-as-blackmail/"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74cf",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:b75c0095137c44888a6d9604b19ef222/2407.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Bolton faces tense talks with Russia over nuclear treaty",
+                    "ts": 1540142075,
+                    "twitterid": 1054058376970338305,
+                    "url": "https://www.apnews.com/eba8a28f2fb74774b1ed9d9ad6fd9e4c?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5bccbed9421aa96fef3c74ce",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Trump says he'll pull US from nuclear agreement with Moscow",
+                    "ts": 1540142100,
+                    "twitterid": 1054058482507362304,
+                    "url": "https://www.foxnews.com/world/trump-says-hell-pull-us-from-nuclear-agreement-with-moscow"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936481",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/21/USAT/7c21e2cd-f6c4-4bbc-9c85-4494ec1b6286-AP_Russia_US.JPG?crop=2749,1546,x1,y499&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Russian officials warn of 'full chaos' if Trump pulls out of nuclear arms treaty",
+                    "ts": 1540145701,
+                    "twitterid": 1054073584879046656,
+                    "url": "https://www.usatoday.com/story/news/world/2018/10/21/russian-reaction-nuclear-arms-treaty-withdrawal/1721250002/"
+                },
+                {
+                    "_id": "5bcc4035421aa9672373218e",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trump-putin_07222018_1.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump confirms US will withdraw from key arms control treaty",
+                    "ts": 1540110662,
+                    "twitterid": 1053926622624124930,
+                    "url": "https://thehill.com/homenews/administration/412401-trump-confirms-us-will-withdraw-from-key-arms-control-treaty"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Florida",
+            "Hamilton",
+            "DeSantis",
+            "Ron",
+            "Andrew Gillum",
+            "Miami Herald"
+        ],
+        "peaks": [],
+        "theme": [
+            "Florida",
+            "governor",
+            "candidates",
+            "debate",
+            "Gillum",
+            "DeSantis",
+            "race"
+        ],
+        "timestamp": "2018-10-22 02:10:27.386259-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bcd2149421aa9768766fa6d",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/andrewgillum_rondesantis2.jpg",
+                    "origin": "The Hill",
+                    "title": "Live coverage: Gillum clashes with DeSantis in Florida debate",
+                    "ts": 1540167425,
+                    "twitterid": 1054164704019574786,
+                    "url": "https://thehill.com/homenews/campaign/412462-live-coverage-gillum-clashes-with-desantis-in-florida-debate"
+                },
+                {
+                    "_id": "5bcce903421aa972b6d16a3a",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/22/us/22floridadebate2/22floridadebate2-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Florida Governor Debate: Here\u2019s What to Watch When Andrew Gillum and Ron DeSantis Face Off",
+                    "ts": 1540153542,
+                    "twitterid": 1054106476460040194,
+                    "url": "https://www.nytimes.com/2018/10/21/us/politics/gillum-desantis-florida-debate.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5bcd2f4e421aa97797bb51be",
+                    "date_month": "2018-10",
+                    "image": "https://dynaimage.cdn.cnn.com/cnn/livestory/org/24dbd02e-b4fe-4197-934e-b103e7f457d8.png",
+                    "origin": "CNN",
+                    "title": "How the Florida governor candidates handled questions about race",
+                    "ts": 1540171128,
+                    "twitterid": 1054180235070070784,
+                    "url": "https://www.cnn.com/politics/live-news/florida-governor-gillum-desantis-debate/h_315c3155fa2e7d72925490cff8662cf8?utm_content=2018-10-22T01%3A18%3A47&utm_source=twCNN&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5bcd2f4e421aa97797bb51b5",
+                    "date_month": "2018-10",
+                    "image": "https://dynaimage.cdn.cnn.com/cnn/livestory/org/617620d7-710a-43c6-86fe-76a4fbfd4555.png",
+                    "origin": "CNN",
+                    "title": "4 key takeaways from the Florida governor debate",
+                    "ts": 1540171865,
+                    "twitterid": 1054183327245221889,
+                    "url": "https://www.cnn.com/politics/live-news/florida-governor-gillum-desantis-debate/h_3677c9610c4856eb5d4c1b7d27fb3937?utm_medium=social&utm_term=image&utm_content=2018-10-22T01%3A31%3A04&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bcd2149421aa9768766fa78",
+                    "date_month": "2018-10",
+                    "image": "https://dynaimage.cdn.cnn.com/cnn/livestory/org/49922b5a-92c0-4b5d-9b2a-8822b6c07a22.jpg",
+                    "origin": "CNN",
+                    "title": "What the Florida governor's race tells us about 2020",
+                    "ts": 1540167003,
+                    "twitterid": 1054162935679987713,
+                    "url": "https://www.cnn.com/politics/live-news/florida-governor-gillum-desantis-debate/h_92dc010861190773993159951f985b58?utm_source=twCNN&utm_content=2018-10-22T00%3A10%3A03&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5bcd2149421aa9768766fa4f",
+                    "date_month": "2018-10",
+                    "image": "https://dynaimage.cdn.cnn.com/cnn/livestory/org/34cf2ce9-6ad0-46c9-82ea-9114bd920623.png",
+                    "origin": "CNN",
+                    "title": "Why the Florida governor candidates are talking about Hamilton tickets",
+                    "ts": 1540169945,
+                    "twitterid": 1054175272088539136,
+                    "url": "https://www.cnn.com/politics/live-news/florida-governor-gillum-desantis-debate/h_f15721d8d06cbd64ac6652e4f2b2726f?utm_medium=social&utm_term=image&utm_content=2018-10-22T00%3A59%3A03&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bcd2149421aa9768766fa72",
+                    "date_month": "2018-10",
+                    "image": "https://dynaimage.cdn.cnn.com/cnn/livestory/org/709cb19e-aa2e-4be3-bc90-c3a3a02ab8bf.jpg",
+                    "origin": "CNN",
+                    "title": "What the Florida governor candidates said in their opening statements",
+                    "ts": 1540167157,
+                    "twitterid": 1054163578025062405,
+                    "url": "https://www.cnn.com/politics/live-news/florida-governor-gillum-desantis-debate/h_d65b94a987a491efa253e26d115446c5?utm_content=2018-10-22T00%3A12%3A35&utm_source=twCNN&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5bcccce8421aa970b8936479",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/gillum2_090218getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Miami Herald endorses Gillum for governor",
+                    "ts": 1540146544,
+                    "twitterid": 1054077122418040834,
+                    "url": "https://thehill.com/homenews/campaign/412451-miami-herald-endorses-gillum-for-governor"
+                }
+            ]
+        ]
+    }
+]

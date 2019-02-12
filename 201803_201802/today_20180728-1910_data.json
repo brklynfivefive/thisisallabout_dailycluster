@@ -1,0 +1,1888 @@
+[
+    {
+        "list": [
+            9
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Twitter",
+            "British",
+            "Step",
+            "Hard Fall",
+            "Facebook"
+        ],
+        "peaks": [],
+        "theme": [
+            "Facebook",
+            "facing",
+            "investors",
+            "show",
+            "Twitter",
+            "Abusing",
+            "Aerial"
+        ],
+        "timestamp": "2018-07-28 19:10:16.873224-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5c6909421aa964e1555132",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180717164859-the-salt-series-tease-2-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Aerial photos show human impact on Earth",
+                    "ts": 1532781060,
+                    "twitterid": 1023184043041542144,
+                    "url": "https://www.cnn.com/videos/arts/2018/07/24/tom-hegen-aerial-photography-style-orig.cnn?utm_medium=social&utm_source=twCNN&utm_content=2018-07-26T18:03:27"
+                },
+                {
+                    "_id": "5b5bdc76421aa95a5767ad71",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/787eb9027bf3bf3fc8397f01f4cf4ff8f5eb6be1.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Facebook Is Still Abusing Your Privacy",
+                    "ts": 1532743216,
+                    "twitterid": 1023025313578737664,
+                    "url": "https://newrepublic.com/article/149786/facebook-still-abusing-privacy"
+                },
+                {
+                    "_id": "5b5c1491421aa96083f79d39",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/04/26/0bfa9334-6abe-43cc-b10e-580973ab446d/thumbnail/1200x630g3/53cea90b94f6c623aeabd051c0428e23/gettyimages-944827400.jpg",
+                    "origin": "CBS News",
+                    "title": "Mark Zuckerberg faces investors' criticism after Facebook's historic stock loss",
+                    "ts": 1532760483,
+                    "twitterid": 1023097738244833280,
+                    "url": "https://www.cbsnews.com/news/facebook-suffers-largest-one-day-loss-public-company-mark-zuckerberg/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b5c11a104d3015ad3392a1b&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b5c22a6421aa961849fe6c7",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/A8Ie4W-V83uj2BX-Jxr49cRKcWI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ITP63ER3AI6RAZCWVECX5PA6U.jpg",
+                    "origin": "Washington Post",
+                    "title": "British \u2018fake news\u2019 committee says democracy is facing a crisis",
+                    "ts": 1532762598,
+                    "twitterid": 1023106609923416065,
+                    "url": "https://www.washingtonpost.com/world/europe/british-fake-news-committee-says-democracy-is-facing-a-crisis/2018/07/27/b706c236-91b4-11e8-ae59-01880eac5f1d_story.html?utm_term=.226b04cc8e03&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5bb23d421aa9515bd8dd74",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19929/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Investors Step Back From Social-Media Highfliers",
+                    "ts": 1532735106,
+                    "twitterid": 1022991299719376896,
+                    "url": "https://www.wsj.com/articles/investors-step-back-from-social-media-highfliers-1532733551?mod=e2tw"
+                },
+                {
+                    "_id": "5b5caf51421aa96807254d53",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/6fd889f9be09e2f1d7a427660fdfdc9ee1f5aa20.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The Twitter \u2018Shadow Banning\u2019 Controversy Is All Bad Faith",
+                    "ts": 1532797234,
+                    "twitterid": 1023251881399934976,
+                    "url": "https://newrepublic.com/article/150238/twitter-shadow-banning-controversy-bad-faith"
+                },
+                {
+                    "_id": "5b5c22a6421aa961849fe6cf",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/27/e7861933-a52b-4d6c-b292-a8f8c77129f3/thumbnail/1200x630/c5e6b2304f51277a740e9875fad9b3ad/rtx6b0yr.jpg",
+                    "origin": "CBS News",
+                    "title": "Twitter loses one-fifth of its market value on weak user numbers",
+                    "ts": 1532761384,
+                    "twitterid": 1023101518285864961,
+                    "url": "https://www.cbsnews.com/news/a-day-after-historic-facebook-rout-twitter-plunges-on-weak-user-numbers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b5c15273ed3f0000640338c&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b5cf5a5421aa96b0066f00c",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/27/facebook_financial_markets_20657_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "U.K. lawmakers recommend tougher rules on Facebook",
+                    "ts": 1532817969,
+                    "twitterid": 1023338850507206657,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/28/uk-committee-issues-scathing-report-on-facebook/"
+                },
+                {
+                    "_id": "5b5bf884421aa95d75a0d53f",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BG227_ONBIZ0_SOC_20180727124532.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Facebook\u2019s Hard Fall Shows the Pitfalls of Big Data",
+                    "ts": 1532753103,
+                    "twitterid": 1023066784897925121,
+                    "url": "https://www.wsj.com/articles/facebooks-hard-fall-shows-the-pitfalls-of-big-data-1532750496?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            18
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "American Family",
+            "Biggest Stories",
+            "BuzzFeed",
+            "WikiLeaks",
+            "Trump Owns",
+            "California",
+            "Beltway",
+            "Seek Access",
+            "Dow",
+            "Superfund Program",
+            "YouTube",
+            "Sean Spicer",
+            "Reagan",
+            "Prayer Breakfast",
+            "Film Scene Takes Center Stage Grieving Orca Carries Dead Calf",
+            "Facebook",
+            "Michael Avenatti",
+            "Vulnerable",
+            "Michael Cohen",
+            "Trail Barely",
+            "Alex Jones",
+            "Fox",
+            "GDP"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "American",
+            "Beltway",
+            "Days",
+            "Dead",
+            "Inside",
+            "Judge"
+        ],
+        "timestamp": "2018-07-28 19:10:17.192222-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5cd988421aa969e9bb8040",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/24/7_242018_beltway-ap-173114728201_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Inside the Beltway: \u2018A vote for Democrats in November is a vote for hysteria\u2019",
+                    "ts": 1532809808,
+                    "twitterid": 1023304619458478081,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/24/inside-the-beltway-democrats-a-vote-for-hysteria/"
+                },
+                {
+                    "_id": "5b5c3ec6421aa962bdab3e7d",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/28/obituaries/28LOUD-OBIT1/28LOUD2-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Bill Loud, the Father of TV\u2019s \u2018An American Family,\u2019 Is Dead at 97",
+                    "ts": 1532768416,
+                    "twitterid": 1023131012392476672,
+                    "url": "https://www.nytimes.com/2018/07/27/obituaries/bill-loud-dead-american-family.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b5c5af5421aa96466b0904a",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/22/7_222018_beltway-megyn8201_s2048x1196.jpg?c69392ac7ddc3917b79b2eea0ce11792d23306c8",
+                    "origin": "The Washington Times",
+                    "title": "Inside the Beltway: Megyn meets Reagan, \u2018A great man, a humble man\u2019",
+                    "ts": 1532775615,
+                    "twitterid": 1023161205928722433,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/22/inside-the-beltway-megyn-meets-reagan/"
+                },
+                {
+                    "_id": "5b5c22a6421aa961849fe6be",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/27/us/28xp-orca/28xp-orca-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Grieving Orca Carries Dead Calf for More Than 3 Days: \u2018She\u2019s Just Not Letting Go\u2019",
+                    "ts": 1532763605,
+                    "twitterid": 1023110832807456768,
+                    "url": "https://www.nytimes.com/2018/07/27/science/grieving-orca-dead-calf.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5b5bce63421aa9587f480799",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/28/business/28dc-Trump-Midterms-sub/merlin_137060694_e57ba759-4d0f-4eb1-a7e8-06208d658b05-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Trump Says He\u2019ll Stump for Vulnerable Republicans \u2018Six or Seven Days a Week\u2019",
+                    "ts": 1532739903,
+                    "twitterid": 1023011416578637827,
+                    "url": "https://www.nytimes.com/2018/07/27/us/politics/donald-trump-campaign-midterms.html?smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5b5bdc76421aa95a5767ad45",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/28/us/politics/28dc-weeklyroundupmueller/07dc-tamper-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "The Biggest Stories in American Politics This Week",
+                    "ts": 1532746193,
+                    "twitterid": 1023037800931831808,
+                    "url": "https://www.nytimes.com/2018/07/27/us/politics/the-biggest-stories-in-american-politics-this-week.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5b5ca147421aa9674df16fe9",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/27/trump_porn_star_58435_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Judge skeptical of silencing Michael Avenatti in spite of Michael Cohen's request",
+                    "ts": 1532793956,
+                    "twitterid": 1023238133951987713,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/28/judge-skeptical-silencing-michael-avenatti-spite-m/"
+                },
+                {
+                    "_id": "5b5ccb6d421aa9694d84be8c",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/03/06/AP_17066562270352_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219",
+                    "origin": "The Washington Times",
+                    "title": "Judge orders Fusion GPS deposition in libel suit against BuzzFeed",
+                    "ts": 1532806175,
+                    "twitterid": 1023289382466408448,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/28/judge-orders-fusion-gps-deposition-libel-buzzfeed/"
+                },
+                {
+                    "_id": "5b5c068e421aa95ed7ffd960",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/27/8007c84f-eb6d-4f0b-8160-7ebf56656d28/thumbnail/1200x630/58402d2125b91b62d750ec26f11bf1c7/trump-gettyimages-964527974.jpg",
+                    "origin": "CBS News",
+                    "title": "GDP growth touted as \u201chistoric\u201d by Trump is anything but",
+                    "ts": 1532754183,
+                    "twitterid": 1023071314825883649,
+                    "url": "https://www.cbsnews.com/news/us-gdp-growth-touted-as-historic-by-trump-is-totally-standard/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b5bf90500bd47000731d8a4&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b5bce63421aa9587f48076d",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/28/us/politics/28dc-econpolitics1/28dc-econpolitics1-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Trump Owns the Booming Economy. Republicans on the Trail Barely Mention It",
+                    "ts": 1532743209,
+                    "twitterid": 1023025285099401217,
+                    "url": "https://www.nytimes.com/2018/07/27/us/politics/economy-politics-midterms.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            32
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "South Side Wisconsin",
+            "Homeless",
+            "NFL",
+            "Teen",
+            "Witness",
+            "Lawndale",
+            "Florida",
+            "Colorado",
+            "Actor",
+            "Mercedes",
+            "State",
+            "Man",
+            "California",
+            "Portland",
+            "Child",
+            "Utah",
+            "WiFi",
+            "AG Madigan",
+            "Stewart Weldon",
+            "Dan Ryan",
+            "McDonald",
+            "Texas",
+            "Wells Fargo",
+            "American",
+            "Occupy",
+            "Skokie",
+            "Chicago"
+        ],
+        "peaks": [],
+        "theme": [
+            "police",
+            "man",
+            "officer",
+            "says",
+            "dead",
+            "home",
+            "Chicago"
+        ],
+        "timestamp": "2018-07-28 19:10:17.600739-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5caf51421aa96807254d36",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/rhamesving_gettyimages-081410.jpg",
+                    "origin": "The Hill",
+                    "title": "Actor says police came to his home after neighbor reported \u2018large black man\u2019 broke in",
+                    "ts": 1532799664,
+                    "twitterid": 1023262075278290945,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/399342-actor-says-police-came-to-his-home-after-neighbor-reported"
+                },
+                {
+                    "_id": "5b5bea75421aa95bed8b5a6b",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/27/14b26643-616c-4281-b2b3-57c7ed39468c/thumbnail/1200x630/6a40be9e726ebb773baeae9252d96bb2/screen-shot-2018-07-27-at-1-23-03-pm-1.png",
+                    "origin": "CBS News",
+                    "title": "Witness helps police officer after crash on Chicago's South Side",
+                    "ts": 1532747885,
+                    "twitterid": 1023044896255631360,
+                    "url": "https://www.cbsnews.com/news/chicago-south-side-witness-helps-police-officer-after-crash-2018-07-27/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b5be06a04d30136c01b0cc7&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b5c22a6421aa961849fe6ca",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/27/0/0/694940094001_5814703662001_5814701233001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Utah man tackles fleeing suspect 'like NFL hardest hits' to aid police officer",
+                    "ts": 1532762100,
+                    "twitterid": 1023104518836420609,
+                    "url": "http://www.foxnews.com/us/2018/07/27/utah-man-tackles-fleeing-suspect-like-nfl-hardest-hits-to-aid-police-officer.html"
+                },
+                {
+                    "_id": "5b5c771e421aa9656cf4bd06",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/US/robstown-shooting-kiii-mo-20180728_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "5 dead in apparent murder-suicide at house, nursing home in south Texas",
+                    "ts": 1532784412,
+                    "twitterid": 1023198103992721408,
+                    "url": "https://abcnews.go.com/US/dead-apparent-murder-suicide-house-nursing-home-south/story?id=56883626&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b5ce79b421aa96a9658d1c1",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/rlxekjAkLvO4mPWfQ_8S_6j-ZC4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4WTKWBTYO45QBMNRPALSQOQIFM.jpg",
+                    "origin": "Washington Post",
+                    "title": "5 dead after apparent murder suicide at Texas nursing center, home",
+                    "ts": 1532813173,
+                    "twitterid": 1023318736881823745,
+                    "url": "https://www.washingtonpost.com/news/post-nation/wp/2018/07/28/5-dead-after-apparent-murder-suicide-at-texas-nursing-center-home/?utm_term=.04c21548914b&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5ca147421aa9674df16fdb",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650",
+                    "origin": "Chicago Tribune",
+                    "title": "Man, 19, found dead in Lawndale garage, another man being questioned",
+                    "ts": 1532795175,
+                    "twitterid": 1023243245839675393,
+                    "url": "http://www.chicagotribune.com/news/local/breaking/ct-met-teen-man-found-dead-in-garage-lawndale-20180728-story.html"
+                },
+                {
+                    "_id": "5b5c9338421aa966db908f69",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650",
+                    "origin": "Chicago Tribune",
+                    "title": "Man found shot dead in Mercedes on Dan Ryan",
+                    "ts": 1532791880,
+                    "twitterid": 1023229426249736192,
+                    "url": "http://www.chicagotribune.com/news/local/breaking/ct-met-dan-ryan-man-shot-20180728-story.html"
+                },
+                {
+                    "_id": "5b5c3ec6421aa962bdab3e78",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/US/WireAP_6f0232bb326d4958b7f5ac61c1a1872a_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Chicago releases plan for court-monitored police reform",
+                    "ts": 1532768706,
+                    "twitterid": 1023132227507503104,
+                    "url": "https://abcnews.go.com/US/wireStory/chicago-illinois-ag-agree-court-monitored-police-reforms-56868084?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b5ca147421aa9674df16fc9",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b5be831/turbine/ct-met-chicago-police-reform-consent-decree-20180727",
+                    "origin": "Chicago Tribune",
+                    "title": "The difference with this round of Chicago police reform? A federal judge.",
+                    "ts": 1532796224,
+                    "twitterid": 1023247647472316416,
+                    "url": "http://www.chicagotribune.com/news/local/politics/ct-met-chicago-police-reform-consent-decree-20180727-story.html#nt=oft02a-1la1"
+                },
+                {
+                    "_id": "5b5bb23d421aa9515bd8dd8d",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/27/0/0/694940094001_5814803089001_5814807900001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Police chase 'dead' driver's truck on foot to save his life",
+                    "ts": 1532733393,
+                    "twitterid": 1022984115371560960,
+                    "url": "http://www.foxnews.com/auto/2018/07/27/police-chase-dead-drivers-truck-on-foot-to-save-his-life.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            35
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Donald Trump",
+            "Dem",
+            "Russia Investigations",
+            "Will Michael Cohen Turn State",
+            "Trump",
+            "Cohen",
+            "Michael Cohen",
+            "Russian",
+            "Taylor Swift",
+            "Cohen Judge",
+            "Mueller",
+            "Stormy Daniels",
+            "Cohen Recording",
+            "Fox",
+            "Cohen Giuliani",
+            "Jake Tapper",
+            "Clinton",
+            "Trump Tower",
+            "Trump Avenatti",
+            "Trump Organization CFO"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Cohen",
+            "Giuliani",
+            "know",
+            "lawyer",
+            "meeting",
+            "Michael"
+        ],
+        "timestamp": "2018-07-28 19:10:18.141824-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5bdc76421aa95a5767ad50",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Politics/donald-trump-jr-gty-jt-180727_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "What we know about the Trump Tower meeting",
+                    "ts": 1532745212,
+                    "twitterid": 1023033684591620096,
+                    "url": "https://abcnews.go.com/US/trump-tower-meeting/story?id=56865324&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b5c9338421aa966db908f63",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/bfGUNtzM4OBwb6eyZ-ErinQWExg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IOON2WDDMI2U3MID2ZIME4Z26A.jpg",
+                    "origin": "Washington Post",
+                    "title": "Donald Trump trusted Michael Cohen for years. Now his lawyer doubts Cohen\u2019s credibility.",
+                    "ts": 1532792291,
+                    "twitterid": 1023231150825906177,
+                    "url": "https://www.washingtonpost.com/news/the-fix/wp/2018/07/28/donald-trump-trusted-michael-cohen-for-years-now-his-lawyer-doubts-cohens-credibility/?utm_term=.e64fdfd1f917&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5c5af5421aa96466b0902f",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_mj_tweets_180727_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Trump tweets he did 'NOT' know of Russia meeting",
+                    "ts": 1532777409,
+                    "twitterid": 1023168730560389121,
+                    "url": "https://www.msnbc.com/morning-joe/watch/trump-tweets-he-did-not-know-of-russia-meeting-1286727235578?playlist=associated"
+                },
+                {
+                    "_id": "5b5cf5a5421aa96b0066f031",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/giulianirudy_cohenmichael_20180728.png",
+                    "origin": "The Hill",
+                    "title": "Giuliani: I didn't know Cohen 'very well' when I defended him",
+                    "ts": 1532815268,
+                    "twitterid": 1023327522061205509,
+                    "url": "http://thehill.com/homenews/administration/399363-giuliani-i-didnt-know-cohen-very-well-when-i-defended-him"
+                },
+                {
+                    "_id": "5b5c5af5421aa96466b0902d",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/giuliania_050318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump\u2019s former lawyer criticizes Giuliani for \u2018damaging Trump's case immeasurably\u2019",
+                    "ts": 1532777582,
+                    "twitterid": 1023169453847134208,
+                    "url": "http://thehill.com/homenews/administration/399317-trumps-former-lawyer-criticizes-giuliani-for-damaging-trumps-case"
+                },
+                {
+                    "_id": "5b5c5af5421aa96466b09045",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/09/19/ffe1644d-1f1c-488c-85c8-7dccde96fe55/thumbnail/1200x630/50008120735333563306f7250ffa6da7/rtx3gxxy.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump denies advance knowledge of son's meeting with Russian lawyer",
+                    "ts": 1532775784,
+                    "twitterid": 1023161914246000640,
+                    "url": "https://www.cbsnews.com/news/trump-denies-knowing-about-trump-tower-meeting-contradicting-what-cohen-is-willing-to-tell-mueller/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b5c4d6504d301322c8bb9e6&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b5cd988421aa969e9bb8041",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/be3c956934056f94c077546e4e2f6408bb4ba554/c=0-130-5140-3034/local/-/media/2018/05/10/USATODAY/USATODAY/636615736088275547-other.Cohen.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Michael Cohen tapes: Here's what we know about the secret recordings",
+                    "ts": 1532809805,
+                    "twitterid": 1023304610289733632,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/07/28/michael-cohen-trump-tapes-what-we-know/852141002/"
+                },
+                {
+                    "_id": "5b5cf5a5421aa96b0066f02b",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/28/f6/27eac28047ada8a709086da1b85b/20180511-rudy-giuliani-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Giuliani: Cohen and Trump's legal teams have severed ties",
+                    "ts": 1532815804,
+                    "twitterid": 1023329769037942785,
+                    "url": "https://www.politico.com/story/2018/07/28/giuliani-cohen-trump-legal-teams-separated-747466"
+                },
+                {
+                    "_id": "5b5bc05d421aa9562b31f9f2",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/6b/ce/a58bd32345b0bfe4c6173cec3ff6/180725-michael-cohen-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Clinton fixer engineers Michael Cohen\u2019s turn against Trump",
+                    "ts": 1532738402,
+                    "twitterid": 1023005125042950145,
+                    "url": "https://www.politico.com/story/2018/07/25/michael-cohen-davis-clinton-trump-742734"
+                },
+                {
+                    "_id": "5b5bb23d421aa9515bd8dd6d",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/wallacechris10202017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Fox host downplays Cohen revelation that Trump lied about Trump Tower meeting: 'So what?'",
+                    "ts": 1532735884,
+                    "twitterid": 1022994559784108032,
+                    "url": "http://thehill.com/homenews/media/399219-fox-host-downplays-cohen-revelation-that-trump-lied-about-trump-tower-meeting"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Missouri"
+        ],
+        "peaks": [],
+        "theme": [
+            "black",
+            "customer",
+            "female",
+            "filmed",
+            "fired",
+            "get",
+            "manager"
+        ],
+        "timestamp": "2018-07-28 19:10:18.180790-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5ccb6d421aa9694d84be93",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/food-drink/2018/07/28/missouri-restaurant-manager-fired-after-being-filmed-telling-black-female-customer-to-get-out-report/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532798187646.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Missouri restaurant manager fired after being filmed telling black female customer to 'get out': report",
+                    "ts": 1532805394,
+                    "twitterid": 1023286109638471680,
+                    "url": "http://www.foxnews.com/food-drink/2018/07/28/missouri-restaurant-manager-fired-after-being-filmed-telling-black-female-customer-to-get-out-report.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [],
+        "peaks": [],
+        "theme": [
+            "cartel",
+            "dog",
+            "drug",
+            "good",
+            "head",
+            "price",
+            "put"
+        ],
+        "timestamp": "2018-07-28 19:10:18.241133-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5bc05d421aa9562b31f9f6",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/27/BostonGlobe.com/Foreign/Images/81f0f9958d0b4bcb85e0163916dca652-81f0f9958d0b4bcb85e0163916dca652-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "This drug-sniffing dog is so good that a cartel put a price on its head",
+                    "ts": 1532738284,
+                    "twitterid": 1023004627401408513,
+                    "url": "https://www.bostonglobe.com/news/world/2018/07/27/this-drug-sniffing-dog-good-that-cartel-put-price-its-head/gLiY6J5ooIaVzdmm1QhSsI/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            422
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Crimea Trump",
+            "Kristen Stewart",
+            "Virginia",
+            "Supreme Court How Silicon Valley",
+            "EPA",
+            "Pizzagate",
+            "Venus",
+            "Cooperstown",
+            "Sean Spicer",
+            "Company",
+            "Cubs",
+            "Climate Change Eagles",
+            "Plastic Bag Cardinal",
+            "National Lobster",
+            "Delta",
+            "Andy Murray",
+            "Strong",
+            "Chip Gaines",
+            "Sorrow",
+            "Cardinals Michigan",
+            "Harvard",
+            "Hamptons",
+            "Laquan McDonald",
+            "Focus",
+            "Naperville",
+            "Trump Economy",
+            "Twitch Japanese",
+            "Pompeo",
+            "Sales Freight",
+            "Pennsylvania Supreme Court",
+            "Populism",
+            "Obsessive Search",
+            "ICE Review",
+            "Nauset Beach U.S.",
+            "Trump Attack",
+            "Kids Sext",
+            "NASA",
+            "Officer Van Dyke",
+            "Hannity",
+            "Trade Surplus Unlikely",
+            "Philadelphia",
+            "Paul Manafort",
+            "Economist",
+            "Childbirth",
+            "Citi Open",
+            "Yoshi Sudarso",
+            "Ruling Sows Confusion Teenager",
+            "Captain",
+            "Deleted",
+            "Russian",
+            "Sales Cool",
+            "Alaska",
+            "Crews",
+            "Menopause",
+            "Meghan",
+            "Hawaii UN",
+            "Al Qaeda",
+            "Leslie Moonves",
+            "US",
+            "PewDiePie",
+            "Become Pawns",
+            "Kavanaugh",
+            "Week",
+            "Justin Baldoni",
+            "Brawl",
+            "Airline",
+            "Demi Lovato",
+            "Pedro Pascal",
+            "Christopher Steele Peter Abraham",
+            "Extreme Cyclists",
+            "Endangered Species Act",
+            "Greece Mourns Wildfire Victims Sheriff",
+            "Puerto Ricans",
+            "U.S.",
+            "Earth",
+            "Chris Cillizza Health",
+            "Milk Chocolate",
+            "American Nightmare Roquan Smith",
+            "Trucker Look Like",
+            "Jonathan Allen",
+            "Andrei Sakharov",
+            "Space",
+            "New York",
+            "Target Depression",
+            "PED",
+            "Taylor Swift",
+            "Toad",
+            "Name",
+            "Wall Street Journal",
+            "College",
+            "Betty White",
+            "Japan",
+            "Syria",
+            "Real About Periods",
+            "Navajo Nation Trump",
+            "Maryon",
+            "Craig Kimbrel",
+            "Fame",
+            "Data New Yorker",
+            "Evacuate Branson",
+            "Papa John",
+            "Peace Democrats",
+            "Husband",
+            "Appoint Special",
+            "Impress Trump",
+            "Chesapeake Bay",
+            "Arkansas",
+            "Botticelli",
+            "GDP",
+            "European",
+            "Industry Florida Gov",
+            "Greek",
+            "Alex Guerrero Red Sox",
+            "North Dakota",
+            "Canadian Open Pope",
+            "Messy Business",
+            "Mookie Betts",
+            "Blood Moon Treats Skygazers",
+            "Britain",
+            "Medal",
+            "Moscow",
+            "Starbucks",
+            "Good",
+            "GOP Mass",
+            "New Yorker",
+            "Cardinal Theodore",
+            "Carrie Fisher",
+            "Canada",
+            "Might Be",
+            "Gordon Ramsay",
+            "Panorama New York City",
+            "Crop",
+            "Keegan Bradley",
+            "Jeff Fager",
+            "Local Transportation",
+            "Redskins Is",
+            "Josh Doctson Shark",
+            "Turkey Things",
+            "New Black Is",
+            "Students",
+            "Oversee Detention Facilities Drought",
+            "Accidental Killer",
+            "Arizona",
+            "Dots",
+            "Woman",
+            "Florida Keys Orange",
+            "China",
+            "Royals",
+            "Deadline",
+            "Financial",
+            "Mike Birbiglia",
+            "Medicare Slashes Star Ratings",
+            "New Leader Faces",
+            "New Ellis Island",
+            "McCain",
+            "Alex Jones",
+            "Giant",
+            "Supreme Court",
+            "Social Change",
+            "Worst Buys Experts",
+            "Mars",
+            "Flawed",
+            "CO2",
+            "Pruitt",
+            "Local Police",
+            "IKEA",
+            "FBI",
+            "Sharon Osbourne",
+            "Nick Saban",
+            "Jay Gruden",
+            "Public Transit Be Free",
+            "Arctic",
+            "Tennis Court",
+            "New Sentencing",
+            "HHS",
+            "Best",
+            "Reunite Migrant Families Roseanne Barr",
+            "Next Big Telescope",
+            "Pony Swim",
+            "Bash",
+            "Summertime",
+            "Cardinal",
+            "Totally Gross",
+            "Economic",
+            "CBS",
+            "New One",
+            "Against Gun",
+            "Geraint Thomas Woman",
+            "Fitbit",
+            "Support",
+            "India Tries",
+            "Imran Khan",
+            "Doctor",
+            "Tom Brady",
+            "Tasmanian Tiger Cardinal",
+            "White House",
+            "Nigerian",
+            "Cheap Seats New York City",
+            "Oklahoma",
+            "Urban",
+            "Austin",
+            "New York City",
+            "Travel",
+            "Tebow",
+            "Time Warner Cable Climate",
+            "Macron",
+            "Fashion Scene Demi Lovato",
+            "Alabama",
+            "Destiny",
+            "Kanye",
+            "Grab",
+            "Secret Life",
+            "Obama",
+            "Chinese Tariffs Man",
+            "World News",
+            "GIF",
+            "Joy How",
+            "Economic News",
+            "Income Man",
+            "Pilot",
+            "Angels",
+            "Puerto Rico Photos",
+            "Baltimore",
+            "Discovery",
+            "ABC Studios",
+            "Small",
+            "Avenatti",
+            "NXIVM",
+            "Daron Payne",
+            "Les Moonves",
+            "Duck Boat Tour",
+            "Secret Life Thinking",
+            "Nashville",
+            "Indonesia Hundreds",
+            "Alex Guerrero Recordings",
+            "Treats Extreme",
+            "Harley Plant Closing",
+            "Beauty",
+            "NATO Over",
+            "Seagram",
+            "Jim Jordan",
+            "San Francisco",
+            "NFL",
+            "Rick Scott",
+            "BuzzFeed",
+            "Immigrant",
+            "CBS News",
+            "Florida",
+            "Malcolm",
+            "Mike Moustakas",
+            "Air Force",
+            "Mollie Tibbetts",
+            "Northern California Wildfire",
+            "Washington",
+            "Sessions",
+            "South Texas Bus Terminal Family",
+            "Patriarchy",
+            "Rorschach",
+            "Daily Spike",
+            "North Carolina",
+            "Media",
+            "Whole Story Some",
+            "Georgia",
+            "Debris",
+            "Pentagon Identifies Remains Of Missing Tuskegee Airman Michigan",
+            "Plane",
+            "Michael Williams",
+            "Robin Williams",
+            "Colorado",
+            "Red Sox",
+            "Tyler",
+            "Public",
+            "Coke",
+            "Sellers Trick Amazon",
+            "Mark Hamill",
+            "Iowa",
+            "Leia",
+            "Sales Pelosi",
+            "Michelle Williams",
+            "Israel",
+            "Trump Tower",
+            "Back Seat",
+            "Honor",
+            "Asks",
+            "Beat",
+            "Genetic",
+            "Johnson",
+            "Facts Don",
+            "Carson Wentz",
+            "Julian Edelman",
+            "Chinese Facebook",
+            "Massachusetts",
+            "Nicole Sealey Reads Ellen Bass Record",
+            "Key Afghan",
+            "CEO Leslie Moonves",
+            "Beyonc\u00e9",
+            "Microsoft Employees Question",
+            "Prison Assault",
+            "JFK",
+            "Tuskegee Airman",
+            "Prince William",
+            "Larry Nassar Victim Slams Disgraced Coach Over Call",
+            "Mayonnaise",
+            "Lake Shore Drive",
+            "Nick Jonas",
+            "Japanese",
+            "Heiress Makes",
+            "YouTube",
+            "Tattoo Tronc",
+            "Bruins",
+            "New England",
+            "Universal Basic Income",
+            "Mueller",
+            "Service Violation Communities Raise",
+            "Alerts Remind Drivers",
+            "Alexander",
+            "Children Mom",
+            "Mistakes",
+            "Impossible",
+            "NTSB",
+            "New Hampshire",
+            "Maraschino Mogul",
+            "Pakistan Temperatures",
+            "Worth Watching Migrant",
+            "Jeffersons",
+            "Kenya Barris",
+            "South Lake Shore Drive",
+            "Gillette Stadium",
+            "MeToo Fix Spain",
+            "Former Bernie Sanders",
+            "Nazi",
+            "Connecticut",
+            "Cole Hamels",
+            "Southern Poverty Law Center",
+            "Seminal Essay",
+            "Grief Santa Barbara",
+            "Morals Brewers",
+            "HIV",
+            "Boston As Oil Industry Recovers",
+            "Michigan Supreme Court",
+            "Missouri Boy",
+            "Manafort",
+            "Iranian",
+            "Tom Cruise",
+            "Longest",
+            "Hellmann",
+            "Arms",
+            "Chicago"
+        ],
+        "peaks": [],
+        "theme": [
+            "New",
+            "Trump",
+            "say",
+            "report",
+            "makes",
+            "sexually",
+            "Family"
+        ],
+        "timestamp": "2018-07-28 19:10:22.965526-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5bb23d421aa9515bd8dd77",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:0646495d6c624156abd2826ab1fd4e3c/800.jpeg",
+                    "origin": "AP Eastern US",
+                    "title": "Police say 'suspicious item' at Trump Tower deemed safe",
+                    "ts": 1532734838,
+                    "twitterid": 1022990172722552833,
+                    "url": "https://apnews.com/67471044fa2d4033b291963356438c25?utm_medium=APEastRegion&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b5bc05d421aa9562b31fa10",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/28/BostonGlobe.com/Politics/Images/0646495d6c624156abd2826ab1fd4e3c-0646495d6c624156abd2826ab1fd4e3c-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Police say \u2018suspicious item\u2019 at Trump Tower deemed safe",
+                    "ts": 1532736647,
+                    "twitterid": 1022997761166327808,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/07/27/police-investigating-suspicious-item-trump-tower/Ubp4d8clCWQAP1L89gJI0K/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b5bce63421aa9587f480797",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/5262fc62f68c37cd21aadcc10db50255c45bf1fb/c=0-75-1969-1188/local/-/media/2018/05/25/USATODAY/USATODAY/636628328105963864-AP18142661755094.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Leslie Moonves accused of sexually harassing six women in New Yorker piece",
+                    "ts": 1532740204,
+                    "twitterid": 1023012680121151488,
+                    "url": "https://www.usatoday.com/story/life/tv/2018/07/27/cbs-chief-les-moonves-ronan-farrow-sexual-misconduct-allegations/849596002/"
+                },
+                {
+                    "_id": "5b5bc05d421aa9562b31fa0c",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/immigration_border_migrants_111217getty_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "6-year-old girl sexually abused while being held in Arizona detention facility: report",
+                    "ts": 1532736803,
+                    "twitterid": 1022998415309987841,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/399301-6-year-old-was-sexually-abused-in-detention-facility-report"
+                },
+                {
+                    "_id": "5b5caf51421aa96807254d46",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Washington Post",
+                    "title": "\u2018Deleted\u2019 families: What went wrong with Trump\u2019s family-separation effort",
+                    "ts": 1532798347,
+                    "twitterid": 1023256549215674368,
+                    "url": "https://www.washingtonpost.com/local/social-issues/deleted-families-what-went-wrong-with-trumps-family-separation-effort/2018/07/28/54bcdcc6-90cb-11e8-8322-b5482bf5e0f5_story.html?utm_term=.1fe5d7921d5e&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5c5af5421aa96466b09037",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/07/28/michigan-motel-fire-kills-woman-five-children-from-same-family-officials-say/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532775794831.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Michigan motel fire kills woman, five children from same family, officials say",
+                    "ts": 1532776959,
+                    "twitterid": 1023166843958247424,
+                    "url": "http://www.foxnews.com/us/2018/07/28/michigan-motel-fire-kills-woman-five-children-from-same-family-officials-say.html"
+                },
+                {
+                    "_id": "5b5bb23d421aa9515bd8dd86",
+                    "date_month": "2018-07",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180727130640-01-les-moonves-cbs-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "Six women tell The New Yorker that CBS chief Les Moonves sexually harassed them",
+                    "ts": 1532733968,
+                    "twitterid": 1022986524739219456,
+                    "url": "https://money.cnn.com/2018/07/27/media/les-moonves-new-yorker-allegations/index.html?utm_medium=social&utm_content=2018-07-27T23%3A26%3A05&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5b5c3ec6421aa962bdab3e6c",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/25/0/0/694940094001_5813728574001_5813726206001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Brawl breaks out at Trump's new Walk of Fame star",
+                    "ts": 1532771185,
+                    "twitterid": 1023142625623371777,
+                    "url": "http://www.foxnews.com/us/2018/07/27/brawl-breaks-out-at-trumps-new-walk-fame-star.html"
+                },
+                {
+                    "_id": "5b5bb23d421aa9515bd8dd6f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/screen_shot_2018-07-27_at_6.23.05_pm.png",
+                    "origin": "The Hill",
+                    "title": "GOP lawmaker's home listed as top single-family water user in Austin last year: report",
+                    "ts": 1532735525,
+                    "twitterid": 1022993054033162240,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/399289-gop-lawmakers-home-listed-as-top-single-family-water-user-in"
+                },
+                {
+                    "_id": "5b5c8520421aa9661ff35203",
+                    "date_month": "2018-07",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_30/2511716/180727-mahmood-salem-al-1146_afffbe3f1910a51af1eaa22dd286da3f.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "U.S. citizen's family was denied visas under Trump's travel ban. Then he died by suicide.",
+                    "ts": 1532789847,
+                    "twitterid": 1023220897098997760,
+                    "url": "https://www.nbcnews.com/news/us-news/u-s-citizen-s-family-was-denied-visas-under-trump-n895381?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Cleveland Orchestra Suspends Lead Violinist",
+            "Assault Cleveland",
+            "Sexual Misconduct Accusations Cleveland Orchestra"
+        ],
+        "peaks": [],
+        "theme": [
+            "Cleveland",
+            "suspended",
+            "Accusation",
+            "Orchestra",
+            "sexual",
+            "allegations",
+            "Assault"
+        ],
+        "timestamp": "2018-07-28 19:10:23.057697-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5bea75421aa95bed8b5a6a",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/28/arts/28arts3SUB/28cleveland-item-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Cleveland Orchestra Suspends a Star After Accusation of Assault",
+                    "ts": 1532748005,
+                    "twitterid": 1023045402701037569,
+                    "url": "https://www.nytimes.com/2018/07/27/arts/music/cleveland-orchestra-william-preucil.html"
+                },
+                {
+                    "_id": "5b5c1491421aa96083f79d37",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/5gkl9WMf1QprC3AlOYNJaBs76eg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CPCVEZTZS4I6RLCOIIPPOFSZEM.jpg",
+                    "origin": "Washington Post",
+                    "title": "Cleveland concertmaster suspended over sexual harassment allegations",
+                    "ts": 1532760971,
+                    "twitterid": 1023099786164088832,
+                    "url": "https://www.washingtonpost.com/entertainment/music/cleveland-concertmaster-suspended-over-sexual-harassment-allegations/2018/07/27/2fc08b7c-91dc-11e8-bcd5-9d911c784c38_story.html?utm_term=.6466fe3eb779&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5bc05d421aa9562b31fa07",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/27/gettyimages-507536130_wide-ede5782ef8865e2f84da1f63eba5bdfde66d06ca.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Cleveland Orchestra Suspends Lead Violinist After Sexual Misconduct Accusations",
+                    "ts": 1532737136,
+                    "twitterid": 1022999814089334784,
+                    "url": "https://www.npr.org/2018/07/27/633260273/cleveland-orchestra-suspends-lead-violinist-after-sexual-misconduct-accusations?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Sheldon Silver",
+            "New York Assembly",
+            "Fleece Vest",
+            "New Corporate Uniform"
+        ],
+        "peaks": [],
+        "theme": [
+            "Former",
+            "New",
+            "Sheldon",
+            "Silver",
+            "Assembly",
+            "Became",
+            "begs"
+        ],
+        "timestamp": "2018-07-28 19:10:23.124770-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5bc05d421aa9562b31fa04",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/27/ex_assembly_speaker_80331_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Sheldon Silver, former New York Assembly speaker, gets 7 years in prison",
+                    "ts": 1532737181,
+                    "twitterid": 1023000001117650944,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/27/ex-assembly-speaker-faces-corruption-sentencing-ag/"
+                },
+                {
+                    "_id": "5b5bea75421aa95bed8b5a63",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2015/12/01/92dfeff5-49bb-4dc6-bd10-15ae241960b2/thumbnail/1200x630/5ff83d97aa0727a303262e20b38571ca/ap194490454833.jpg",
+                    "origin": "CBS News",
+                    "title": "Former NY power broker Sheldon Silver begs judge for mercy after corruption trial",
+                    "ts": 1532748783,
+                    "twitterid": 1023048665974415360,
+                    "url": "https://www.cbsnews.com/news/former-ny-power-broker-sheldon-silver-begs-judge-for-mercy-after-corruption-trial/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b5be3ed04d30140dedfe7dd&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b5ca147421aa9674df16fed",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BE974_MIDTOW_SOC_20180723175929.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "How the Fleece Vest Became the New Corporate Uniform",
+                    "ts": 1532793623,
+                    "twitterid": 1023236736334405632,
+                    "url": "https://www.wsj.com/articles/how-the-fleece-vest-became-the-new-corporate-uniform-1532442297?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            43
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Obama Trump",
+            "Colorado Capitol",
+            "Bolton",
+            "Putin Shadow",
+            "Ron Reagan",
+            "Capitol Hill",
+            "Meghan",
+            "White House",
+            "Ivy League School",
+            "Trumpworld Majority",
+            "Fame",
+            "Iran",
+            "Donald Trump Justice Dept",
+            "Colorado",
+            "Trump",
+            "Russiagate Skeptic Donald Trump",
+            "OkCupid",
+            "US",
+            "ComeClean45",
+            "NKorea",
+            "AP",
+            "Dan Rather",
+            "Soviet",
+            "McFaul",
+            "Steelworkers",
+            "Midwest",
+            "John Kelly",
+            "Russia",
+            "Rouhani",
+            "Moscow Trump",
+            "Trump Trump",
+            "Brawl",
+            "North Korea Putin",
+            "Digital Age",
+            "Orwell",
+            "Putin",
+            "Washington Post",
+            "Senator Ben Cardin Washington",
+            "GOP",
+            "Russian",
+            "Omarosa",
+            "GDP",
+            "Security Expert",
+            "U.S.",
+            "CNN"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Putin",
+            "meet",
+            "asks",
+            "Capitol",
+            "Colorado",
+            "elections"
+        ],
+        "timestamp": "2018-07-28 19:10:23.875491-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5bce63421aa9587f48078c",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/safe_image_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Prankster puts Putin portrait in Colorado Capitol where Trump's portrait would be",
+                    "ts": 1532740745,
+                    "twitterid": 1023014950816686080,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/399310-putin-portrait-was-put-in-colorado-capitol-where-trumps-was"
+                },
+                {
+                    "_id": "5b5ccb6d421aa9694d84be82",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180728123416-colorado-capitol-putin-portrait-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "An unknown prankster put a Putin portrait in Colorado's state Capitol where Trump's would be",
+                    "ts": 1532806804,
+                    "twitterid": 1023292023007260672,
+                    "url": "https://www.cnn.com/2018/07/28/us/colorado-capitol-presidential-portrait-trnd/index.html?utm_term=image&utm_source=twCNN&utm_medium=social&utm_content=2018-07-28T19%3A40%3A03"
+                },
+                {
+                    "_id": "5b5bea75421aa95bed8b5a67",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/51/2d/aabbce8b4903b2978d720ef10bd2/180726-meadows-jordan-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump's pit bulls on Capitol Hill",
+                    "ts": 1532748607,
+                    "twitterid": 1023047925977559040,
+                    "url": "https://www.politico.com/story/2018/07/27/jordan-meadows-trump-allies-congress-745121"
+                },
+                {
+                    "_id": "5b5c8520421aa9661ff35210",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/bannonstephen_011618getty_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Bannon: 2018 elections are Trump\u2019s first reelection campaign",
+                    "ts": 1532788381,
+                    "twitterid": 1023214748358332416,
+                    "url": "http://thehill.com/homenews/campaign/399327-bannon-2018-elections-are-trumps-first-reelection-campaign"
+                },
+                {
+                    "_id": "5b5bce63421aa9587f48077c",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpgolf_0.png",
+                    "origin": "The Hill",
+                    "title": "Washington Posts asks for help identifying Trump's golf partners",
+                    "ts": 1532742004,
+                    "twitterid": 1023020229327286272,
+                    "url": "http://thehill.com/homenews/media/399313-washington-posts-asks-for-help-identifying-trumps-golf-partners"
+                },
+                {
+                    "_id": "5b5c6909421aa964e1555120",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpgolf_0.png",
+                    "origin": "The Hill",
+                    "title": "Washington Post asks for help identifying Trump's golf partners",
+                    "ts": 1532782624,
+                    "twitterid": 1023190602786193408,
+                    "url": "http://thehill.com/homenews/media/399313-washington-posts-asks-for-help-identifying-trumps-golf-partners?__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b5bc05d421aa9562b31fa09",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_putinvladimir_071618getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "McConnell praises decision to postpone Trump-Putin meeting",
+                    "ts": 1532736966,
+                    "twitterid": 1022999101821075458,
+                    "url": "http://thehill.com/homenews/senate/399308-mcconnell-praises-decision-to-postpone-trump-putin-meeting"
+                },
+                {
+                    "_id": "5b5cbd67421aa96885bc3921",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_30/2498801/180716-trump-putin-mc-1229_badddf3e0c5e948a8c3615d93740e312.1200;630;7;70;5.JPG",
+                    "origin": "MSNBC",
+                    "title": "Putin says he's invited Trump to Moscow for second meeting",
+                    "ts": 1532800824,
+                    "twitterid": 1023266939366518784,
+                    "url": "https://www.nbcnews.com/politics/white-house/putin-says-he-s-invited-trump-moscow-second-meeting-n895221?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b5cf5a5421aa96b0066f021",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/72/86/fb4d20714a87816ad18ddf9cf4cd/180719-mcfaul-getty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "McFaul to meet with U.S. officials about possible indictment from Russia",
+                    "ts": 1532816407,
+                    "twitterid": 1023332298308116480,
+                    "url": "https://www.politico.com/story/2018/07/25/mike-mcfaul-russia-indictments-meeting-740419"
+                },
+                {
+                    "_id": "5b5c22a6421aa961849fe6d0",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180716122201-10-helsinki-summit-0716-trump-putin-presser-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Majority think Russia will interfere in November midterm elections",
+                    "ts": 1532761325,
+                    "twitterid": 1023101269475512321,
+                    "url": "https://www.cnn.com/2018/07/25/politics/russia-interference-poll/index.html?utm_content=2018-07-28T07%3A02%3A04&utm_medium=social&utm_term=image&utm_source=twCNNp"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            6
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Korean War",
+            "North Korea",
+            "Eager",
+            "Trump",
+            "White House",
+            "U.S. Remains",
+            "US",
+            "Veterans Advocate",
+            "U.S.",
+            "Korean War Using",
+            "Begins Arduous Job"
+        ],
+        "peaks": [],
+        "theme": [
+            "Remains",
+            "War",
+            "Korea",
+            "Korean",
+            "North",
+            "identify"
+        ],
+        "timestamp": "2018-07-28 19:10:24.003540-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5c30b7421aa96217a6cff0",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/27/7e22af91-7122-476a-9949-ceb8d6eb613a/thumbnail/1200x630/b8e3ea79eeb4d4c5266ef7169d95873c/2018-07-27t034748z-864299643-rc15a31d4aa0-rtrmadp-3-northkorea-usa-remains.jpg",
+                    "origin": "CBS News",
+                    "title": "North Korea hands over remains of Korean War soldiers to U.S.",
+                    "ts": 1532766783,
+                    "twitterid": 1023124162909495296,
+                    "url": "https://www.cbsnews.com/news/korean-war-soldiers-remains-returned-north-korea-today-2018-07-27/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b5c2a3d04d30136dcd28e4e&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b5c4cd8421aa9637ad49124",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/07/27/remains-us-war-dead-retrieved-from-north-korea-white-house-says/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532667300172.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Remains of US war dead retrieved from North Korea, White House says",
+                    "ts": 1532773758,
+                    "twitterid": 1023153417290764288,
+                    "url": "http://www.foxnews.com/world/2018/07/27/remains-us-war-dead-retrieved-from-north-korea-white-house-says.html"
+                },
+                {
+                    "_id": "5b5c068e421aa95ed7ffd955",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19927/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "U.S. Military Begins Arduous Job: Identifying Remains From Korean War",
+                    "ts": 1532755806,
+                    "twitterid": 1023078121048866816,
+                    "url": "https://www.wsj.com/articles/u-s-military-begins-arduous-job-identifying-remains-from-korean-war-1532730549?mod=e2tw"
+                },
+                {
+                    "_id": "5b5ccb6d421aa9694d84be8e",
+                    "date_month": "2018-07",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Jones72818.jpg?itok=4vLdbEQ3",
+                    "origin": "Fox News",
+                    "title": "Veterans Advocate on Return of Korean War Remains: 'I Couldn't Be More Proud'",
+                    "ts": 1532805976,
+                    "twitterid": 1023288549339213825,
+                    "url": "http://insider.foxnews.com/2018/07/28/sgt-johnny-joey-jones-praises-president-trump-negotiating-return-korean-war-remains"
+                },
+                {
+                    "_id": "5b5bce63421aa9587f48078d",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/VyoMh11ILhwpskvzv8ZTSsf6g1g=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UBZEDKER3QI6RN3J4P77C7YGRE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Eager for progress on North Korea, Trump hails apparent handover of remains of U.S. service members",
+                    "ts": 1532740683,
+                    "twitterid": 1023014689700233217,
+                    "url": "https://www.washingtonpost.com/politics/eager-for-progress-on-north-korea-trump-hails-apparent-handover-of-remains-of-us-service-members/2018/07/27/b4bb95b0-91c8-11e8-bcd5-9d911c784c38_story.html?utm_term=.6ebfa2193884&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5c1491421aa96083f79d3f",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180726230724-03-us-remains-returned-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Using DNA to identify deceased US troops",
+                    "ts": 1532759582,
+                    "twitterid": 1023093960351404033,
+                    "url": "https://www.cnn.com/2018/07/27/health/american-troops-remains-identification-process/index.html?utm_content=2018-07-28T06%3A33%3A01&utm_medium=social&utm_term=image&utm_source=twCNNp"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            21
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Northern California Northern California",
+            "Carr",
+            "Northern California",
+            "Family Says",
+            "Germany California",
+            "White House",
+            "Northern California Wildfire",
+            "California",
+            "Photos",
+            "Carr Fire",
+            "Greece"
+        ],
+        "peaks": [],
+        "theme": [
+            "California",
+            "Fire",
+            "wildfire",
+            "Carr",
+            "Northern",
+            "great",
+            "Deadly"
+        ],
+        "timestamp": "2018-07-28 19:10:24.364113-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5bb23d421aa9515bd8dd71",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/27/df3b3b68-4379-43e4-99d3-a843b22e57f6/thumbnail/1200x630/01162d6ecdf89eead373780b1fbaf99e/redding-calif-wildfire-072618.jpg",
+                    "origin": "CBS News",
+                    "title": "Northern California wildfire turns deadly, forces \"mass evacuations\"",
+                    "ts": 1532735420,
+                    "twitterid": 1022992617410310144,
+                    "url": "https://www.cbsnews.com/news/carr-fire-raging-wildfire-northern-california-turns-deadly-reaches-redding-forces-mass-evacuations/"
+                },
+                {
+                    "_id": "5b5ce79b421aa96a9658d1d1",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/28/fb9701a6-542d-4238-8220-5383234d43fd/thumbnail/1200x630g2/07bd1edc02ce0f28ca6a6da5913e09a1/californiablaze.jpg",
+                    "origin": "CBS News",
+                    "title": "Carr wildfire in California reportedly kills woman and her great grandchildren",
+                    "ts": 1532811685,
+                    "twitterid": 1023312494230679552,
+                    "url": "https://www.cbsnews.com/news/carr-fire-redding-fire-evacuation-shasta-county-california-wildfire-destroys-homes-2018-07-28/?ftag=CNM-00-10aab7e&linkId=54864060"
+                },
+                {
+                    "_id": "5b5bce63421aa9587f480791",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_30/2511161/180727-cali-fires-mc-856_6ab13213e1a12f6828db750a4d664ef0.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "California wildfire: 2 fatalities in Carr fire, Redding evacuates",
+                    "ts": 1532740500,
+                    "twitterid": 1023013921857257473,
+                    "url": "https://www.nbcnews.com/news/weather/smoke-california-s-huge-cranston-fire-creates-its-own-weather-n895081?cid=public-rss_20180727"
+                },
+                {
+                    "_id": "5b5ca147421aa9674df16fc2",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/UTRSrY84HYPXyI1YrwuA5BmmsoY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R2VER6CCXQ37XGUDEX7MFSQQ7U.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018Get out with your life\u2019: California\u2019s deadly Carr Fire doubles in size again",
+                    "ts": 1532797026,
+                    "twitterid": 1023251010226147331,
+                    "url": "https://www.washingtonpost.com/news/post-nation/wp/2018/07/28/get-out-with-your-life-californias-deadly-carr-fire-doubles-in-size/?utm_term=.e207e1c96f3a&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5cf5a5421aa96b0066f024",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/28/aptopix_california_wildfires_37603_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "2 children, great-grandmother perish in California wildfire",
+                    "ts": 1532816248,
+                    "twitterid": 1023331632772784134,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/28/uncontained-wildfire-destroys-500-structures-in-ca/"
+                },
+                {
+                    "_id": "5b5c30b7421aa96217a6cffb",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/27/548f71e5-b57c-44ab-b320-a4f10ffb4bf6/thumbnail/1200x630/a25d58fb98c38f36c2723460fe0b9656/california-wildfire-ap-18208187246627.jpg",
+                    "origin": "CBS News",
+                    "title": "\"Homes were exploding\": Residents describe Carr Fire roaring through Northern California",
+                    "ts": 1532764986,
+                    "twitterid": 1023116622310133761,
+                    "url": "https://www.cbsnews.com/news/carr-fire-evacuation-redding-california-residents-describe-blaze-2018-07-27/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b5c23373ed3f00007ce2b85&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b5cf5a5421aa96b0066f019",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/29/us/29xp-fire/29xp-fire-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Woman and 2 of Her Great-Grandchildren Die in Carr Fire, Family Says",
+                    "ts": 1532817009,
+                    "twitterid": 1023334826525556736,
+                    "url": "https://www.nytimes.com/2018/07/28/us/carr-fire-great-grandmother-children-dead.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b5c5af5421aa96466b09026",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/28/b3d5d1b2-9ac6-4046-8bf7-6e3a5dd0178a/thumbnail/1200x630g2/b6efd3cd4e3646195be3f1bff4c888d3/keswick.jpg",
+                    "origin": "CBS News",
+                    "title": "Wildfire destroys at least 500 structures in Northern California",
+                    "ts": 1532778008,
+                    "twitterid": 1023171240780021760,
+                    "url": "https://www.cbsnews.com/news/carr-fire-redding-fire-evacuation-shasta-county-california-wildfire-destroys-homes-2018-07-28/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b5c561304d3014cd0f8f4ef&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b5cbd67421aa96885bc3907",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/7a2ec93276a2e0b5ab0e6d458b36a353ce0c7b94/c=0-168-3300-2032/local/-/media/2018/07/28/USATODAY/USATODAY/636683459718653729-fire002.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "The flames of this Northern California wildfire are intense enough to generate weather",
+                    "ts": 1532802606,
+                    "twitterid": 1023274412760616960,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/07/28/california-wildfire-near-redding-creating-its-own-weather/854621002/"
+                },
+                {
+                    "_id": "5b5cd988421aa969e9bb8048",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/1c1002994263cfd6e6f21f74b76bbef1f5673fb8/c=0-85-2978-1768/local/-/media/2018/07/28/USATODAY/USATODAY/636683932974484817-AP-APTOPIX-California-Wildfires.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "2 children and great-grandmother dead as death toll jumps to 5 in huge California fire",
+                    "ts": 1532809147,
+                    "twitterid": 1023301849712082946,
+                    "url": "https://www.usatoday.com/story/news/2018/07/28/northern-california-fire-out-control-blaze-destroys-500-homes/854565002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "American Sarasota",
+            "Eagles",
+            "GOP",
+            "Jerry Jones",
+            "Malcolm Jenkins",
+            "African",
+            "NFL",
+            "Dallas Cowboys",
+            "Congress Dallas Cowboys",
+            "Steelers",
+            "Dez Bryant"
+        ],
+        "peaks": [],
+        "theme": [
+            "anthem",
+            "Cowboys",
+            "owner",
+            "calls",
+            "Dallas",
+            "Jenkins",
+            "Jerry"
+        ],
+        "timestamp": "2018-07-28 19:10:24.548199-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5c5af5421aa96466b0902e",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/KYKdqRQHiw4E4nkNvAbkgTVrYCA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L5W6CTGINEYMNPD7EZCMLCZYQA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Malcolm Jenkins calls Cowboys owner Jerry Jones \u2018a bully\u2019 over team\u2019s hard-line anthem policy",
+                    "ts": 1532777509,
+                    "twitterid": 1023169151462977537,
+                    "url": "https://www.washingtonpost.com/news/early-lead/wp/2018/07/27/malcolm-jenkins-calls-cowboys-owner-jerry-jones-a-bully-over-teams-hard-line-anthem-policy/?utm_term=.43671c47675f&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5c9338421aa966db908f76",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/dallascowboysgetty.jpg",
+                    "origin": "The Hill",
+                    "title": "Dallas Cowboys quarterback: Anthem protesting 'takes away from the joy' of football",
+                    "ts": 1532790782,
+                    "twitterid": 1023224819393933314,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/399330-dallas-cowboys-quarterback-anthem-protesting-takes-away-from"
+                },
+                {
+                    "_id": "5b5bdc76421aa95a5767ad64",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/53c07c8408bac60bc4df6d855d05cc0b63055eb0/c=139-89-4337-2461/local/-/media/2018/07/27/USATODAY/USATODAY/636683147704891208-USP-NFL-Dallas-Cowboys-at-Atlanta-Falcons.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Dez Bryant rips Dallas Cowboys' play calling, calls LB Sean Lee 'snake'",
+                    "ts": 1532743803,
+                    "twitterid": 1023027775979106309,
+                    "url": "https://www.usatoday.com/story/sports/nfl/cowboys/2018/07/27/dez-bryant-cowboys-sean-lee-jerry-jones/853526002/"
+                },
+                {
+                    "_id": "5b5bc05d421aa9562b31f9e8",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/presto/2018/07/27/USAT/8a6b991e-2a8d-4809-a8c6-fe0cbf720808-USATSI_10321702.jpg?crop=5223,2938,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Eagles' Malcolm Jenkins issues challenge to supportive NFL owners: Stand up to Jerry Jones and his rhetoric",
+                    "ts": 1532739003,
+                    "twitterid": 1023007643638620160,
+                    "url": "https://www.usatoday.com/story/sports/nfl/columnist/mike-jones/2018/07/27/malcolm-jenkins-jerry-jones-national-anthem-owners-protest/850815002/"
+                },
+                {
+                    "_id": "5b5cd988421aa969e9bb8043",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/xVbG_FYSjcgVkPXrpX7RSlZcoGU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/327GV76NZQ2VHEXIV24MCVXSPA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Steelers owner Art Rooney says \u2018there\u2019s common ground to be found\u2019 on anthem policy",
+                    "ts": 1532809609,
+                    "twitterid": 1023303787136643072,
+                    "url": "https://www.washingtonpost.com/news/sports/wp/2018/07/28/steelers-owner-art-rooney-says-theres-common-ground-to-be-found-on-anthem-policy/?utm_term=.2dc885f7bced&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            49
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "James Comey",
+            "Georgia",
+            "Southern State",
+            "Strong",
+            "Race",
+            "John",
+            "Cambodia Is At Stake",
+            "White House",
+            "Florida Senate",
+            "Jim Jordan",
+            "Democratic",
+            "Hannity",
+            "ACA",
+            "PAC",
+            "Midterms",
+            "Nelson",
+            "Country Heads Into Elections San Juan",
+            "US Senate Cook",
+            "Voters Oppose",
+            "Lifelong Republican Rosenstein",
+            "Truly Wild Weather",
+            "GOP Poll",
+            "Mike Pence",
+            "Centrist Majority Eric Holder",
+            "Congresspeople",
+            "GOP House",
+            "Trump",
+            "Cruz",
+            "Dem",
+            "Tennessee",
+            "Paul Ryan",
+            "Newt Gingrich",
+            "Kavanaugh",
+            "Midwest",
+            "Iran Warning",
+            "Schumer",
+            "House Democrats",
+            "House",
+            "Blue Wave",
+            "Wade Barbara Lee",
+            "DCCC",
+            "GOP",
+            "Fraud",
+            "Trumpism",
+            "McCain",
+            "MeToo",
+            "GDP",
+            "Supreme Court",
+            "Diane Black"
+        ],
+        "peaks": [],
+        "theme": [
+            "GOP",
+            "Trump",
+            "Democratic",
+            "House",
+            "Dem",
+            "race",
+            "Elections"
+        ],
+        "timestamp": "2018-07-28 19:10:25.525014-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5bce63421aa9587f480783",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/poe-ted_052014gn.jpg",
+                    "origin": "The Hill",
+                    "title": "Cook shifts two House GOP seats closer to Dem column",
+                    "ts": 1532741283,
+                    "twitterid": 1023017207989784577,
+                    "url": "http://thehill.com/homenews/campaign/399180-cook-moves-two-house-seats-toward-dems"
+                },
+                {
+                    "_id": "5b5bce63421aa9587f480784",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/u.s._voters.jpg",
+                    "origin": "The Hill",
+                    "title": "Dem pollster: Dem voters feel 'physically and economically' threatened by GOP",
+                    "ts": 1532741104,
+                    "twitterid": 1023016455057694720,
+                    "url": "http://thehill.com/hilltv/what-americas-thinking/399234-dem-pollster-dem-voters-feel-physically-and-economically"
+                },
+                {
+                    "_id": "5b5cf5a5421aa96b0066f003",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/e1/51/2119a53649ec9404efab1c005a04/180726-donald-trump.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump intervenes to save the House",
+                    "ts": 1532818809,
+                    "twitterid": 1023342373592596481,
+                    "url": "https://www.politico.com/story/2018/07/26/trump-fund-democrats-house-fight-743416"
+                },
+                {
+                    "_id": "5b5ce79b421aa96a9658d1ae",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/48AC2t-Vad1HQD2rs5PaZxIQv-0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FJBJIRESOUI6RPGVTWIRY6CMHA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Georgia\u2019s gubernatorial race may be the purest example of politics in the Trump era",
+                    "ts": 1532814544,
+                    "twitterid": 1023324483862573056,
+                    "url": "https://www.washingtonpost.com/politics/georgias-gubernatorial-race-may-be-the-purest-example-of-politics-in-the-trump-era/2018/07/28/2ceb55e4-9272-11e8-bcd5-9d911c784c38_story.html?utm_term=.1256ea50e5fd&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5cbd67421aa96885bc38f6",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/26/0/0/694940094001_5814013482001_5814010447001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump cites 9/11 to back ICE against Democratic calls to abolish agency",
+                    "ts": 1532804313,
+                    "twitterid": 1023281572819161088,
+                    "url": "http://www.foxnews.com/politics/2018/07/28/trump-cites-911-to-back-ice-against-democratic-calls-to-abolish-agency.html"
+                },
+                {
+                    "_id": "5b5c9338421aa966db908f5f",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180410162928-02-rod-rosenstein-lead-image-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Lifelong Republican Rosenstein weathers latest House GOP storm",
+                    "ts": 1532792706,
+                    "twitterid": 1023232890035990530,
+                    "url": "https://www.cnn.com/2018/07/28/politics/rod-rosenstein-house-republicans/index.html?utm_term=image&utm_source=twCNNp&utm_medium=social&utm_content=2018-07-28T15%3A45%3A05"
+                },
+                {
+                    "_id": "5b5cbd67421aa96885bc3910",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/b7/b9/13e69d6643b5b605404621f4444f/180725-pete-sessions-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Role reversal: Architect of 2010 GOP House takeover in trouble",
+                    "ts": 1532802004,
+                    "twitterid": 1023271889924513792,
+                    "url": "https://www.politico.com/story/2018/07/27/pete-sessions-texas-house-trump-democrats-wave-743756"
+                },
+                {
+                    "_id": "5b5c068e421aa95ed7ffd958",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:90f04d837f514d0b984e25bd5153be8a/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "On trade policy, Trump is turning GOP orthodoxy on its head",
+                    "ts": 1532755155,
+                    "twitterid": 1023075390259191808,
+                    "url": "https://apnews.com/57cd042b57054e5790b9b444c561ac3b/On-trade-policy,-Trump-is-turning-GOP-orthodoxy-on-its-head?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b5bc05d421aa9562b31fa0e",
+                    "date_month": "2018-07",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_30/2510706/180726-scott-walker-donald-trump-se-543p_52f7eabdd023807c1990bf1d2598c981.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "Scott Walker, other GOP candidates in key Midwest states trail Democratic rivals",
+                    "ts": 1532736769,
+                    "twitterid": 1022998271973892100,
+                    "url": "https://www.nbcnews.com/politics/first-read/scott-walker-other-gop-candidates-key-midwest-states-trail-democratic-n895001?cid=par-twitter-feed_20180728"
+                },
+                {
+                    "_id": "5b5cf5a5421aa96b0066f015",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/trump.david_.koch_.png",
+                    "origin": "The Hill",
+                    "title": "Top Koch Network officials vent frustration with White House, GOP-led Congress",
+                    "ts": 1532817182,
+                    "twitterid": 1023335550483406848,
+                    "url": "http://thehill.com/homenews/administration/399364-top-koch-network-officials-vent-frustration-with-white-house-gop-led"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,2504 @@
+[
+    {
+        "list": [
+            6
+        ],
+        "months": [
+            "2018-06"
+        ],
+        "ne": [
+            "Hot New Talent",
+            "Workplace Debate",
+            "American",
+            "San Francisco Is So Expensive",
+            "Authoritarian"
+        ],
+        "peaks": [],
+        "theme": [
+            "tech",
+            "Big",
+            "action",
+            "American",
+            "Authoritarian",
+            "College",
+            "Community"
+        ],
+        "timestamp": "2018-07-01 10:10:19.716502-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b37c55b421aa97f6ae28f9a",
+                    "date_month": "2018-06",
+                    "image": "https://images.wsj.net/im-16202/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Big Tech\u2019s Hot New Talent Incubator: Community College",
+                    "ts": 1530379202,
+                    "twitterid": 1013109921397792768,
+                    "url": "https://www.wsj.com/articles/big-techs-hot-new-talent-incubator-community-college-1530277200?mod=e2tw"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03fe",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/putinvladimir_031418upi2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Authoritarian threats to American democracy demand urgent action",
+                    "ts": 1530396064,
+                    "twitterid": 1013180645013639168,
+                    "url": "http://thehill.com/opinion/national-security/394944-authoritarian-threats-to-american-democracy-demand-urgent-action"
+                },
+                {
+                    "_id": "5b379b29421aa97b2bdf60a3",
+                    "date_month": "2018-06",
+                    "image": "https://images.newrepublic.com/c49b01df0078f660739677e07f335077045b03e8.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "How Conservatives Are Hoodwinking Big Tech",
+                    "ts": 1530370804,
+                    "twitterid": 1013074695804112896,
+                    "url": "https://newrepublic.com/article/149483/conservatives-hoodwinking-big-tech"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03db",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/crisis_techcompanies_062818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump era ramps up tech worker revolt",
+                    "ts": 1530398461,
+                    "twitterid": 1013190700782030848,
+                    "url": "http://thehill.com/policy/technology/394597-trump-era-ramps-up-tech-worker-revolt"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            15,
+            3
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "Districts Face",
+            "Ukraine",
+            "IMF",
+            "John Roberts",
+            "Racially Discriminatory",
+            "Supreme Court Upholds",
+            "Iowa Supreme Court",
+            "Wade George Takei",
+            "Unions Anthony Kennedy Was No Moderate",
+            "Cheer",
+            "Supreme Court"
+        ],
+        "peaks": [],
+        "theme": [
+            "Court",
+            "Supreme",
+            "ruling",
+            "ban",
+            "Roberts",
+            "travel",
+            "anti"
+        ],
+        "timestamp": "2018-07-01 10:10:20.255311-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b37fda0421aa904848656dc",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/travel_ban_1.jpg",
+                    "origin": "The Hill",
+                    "title": "Logic of Supreme Court's travel ban ruling leaves a bad taste",
+                    "ts": 1530392941,
+                    "twitterid": 1013167548140019713,
+                    "url": "http://thehill.com/opinion/judiciary/395008-logic-of-supreme-courts-travel-ban-ruling-leaves-a-bad-taste"
+                },
+                {
+                    "_id": "5b3827d1421aa9067ff07770",
+                    "date_month": "2018-06",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180626170958-travel-ban-trump-then-and-now-orig-nws-00002328-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "George Takei: The bitter irony of the travel ban ruling",
+                    "ts": 1530406806,
+                    "twitterid": 1013225701472964608,
+                    "url": "https://www.cnn.com/2018/06/30/opinions/travel-ban-ruling-opinion-george-takei/index.html?utm_source=twCNN&utm_term=image&utm_medium=social&utm_content=2018-07-01T01%3A00%3A05"
+                },
+                {
+                    "_id": "5b38446a421aa9077699c065",
+                    "date_month": "2018-06",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170628161305-chief-justice-roberts-file-01-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Supreme Court: John Roberts played the long game and won",
+                    "ts": 1530412983,
+                    "twitterid": 1013251609260945408,
+                    "url": "https://www.cnn.com/2018/06/29/politics/john-roberts-long-game-supreme-court/index.html?sr=twCNNp062918john-roberts-long-game-supreme-court1112AMVODtop&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28f8d",
+                    "date_month": "2018-06",
+                    "image": "https://images.wsj.net/im-15828/social",
+                    "origin": "Capital Journal",
+                    "title": "As Republicans Cheer Travel-Ban Ruling, Those in Swing Districts Face Headaches",
+                    "ts": 1530380554,
+                    "twitterid": 1013115591719301120,
+                    "url": "https://www.wsj.com/articles/as-republicans-cheer-travel-ban-ruling-those-in-swing-districts-face-headaches-1530058274?mod=e2twp"
+                },
+                {
+                    "_id": "5b3827d1421aa9067ff07771",
+                    "date_month": "2018-06",
+                    "image": "https://images.newrepublic.com/7b7e05e4ce4b9476dcd132116916d63cae16fc57.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The Supreme Court Upholds Presidential Bigotry",
+                    "ts": 1530406806,
+                    "twitterid": 1013225700319514624,
+                    "url": "https://newrepublic.com/article/149395/supreme-court-upholds-presidential-bigotry"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf06e",
+                    "date_month": "2018-06",
+                    "image": "https://images.newrepublic.com/cedd911467f92717778d1b175a54dec5391378b2.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The Supreme Court\u2019s Conservatives Take Their Long-Awaited Shot at Unions",
+                    "ts": 1530392403,
+                    "twitterid": 1013165289842802689,
+                    "url": "https://newrepublic.com/article/149423/supreme-courts-conservatives-take-long-awaited-shot-unions"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd921",
+                    "date_month": "2018-06",
+                    "image": "http://www.trbimg.com/img-5b3772a9/turbine/ct-iowa-abortion-waiting-period-law-20180630",
+                    "origin": "Chicago Tribune",
+                    "title": "Iowa Supreme Court strikes down 72-hour waiting period for abortion",
+                    "ts": 1530375403,
+                    "twitterid": 1013093988054814720,
+                    "url": "http://www.chicagotribune.com/news/nationworld/midwest/ct-iowa-abortion-waiting-period-law-20180630-story.html"
+                },
+                {
+                    "_id": "5b37fda0421aa904848656d8",
+                    "date_month": "2018-06",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2016/09/06/Screen_Shot_2016-09-06_at_3.51.19_PM_s2048x1137.png?c366d87853ce01f4fd68913781288a5be3bc1aa9",
+                    "origin": "The Washington Times",
+                    "title": "Trump administration sued over anti-sex trafficking law",
+                    "ts": 1530393089,
+                    "twitterid": 1013168167521267712,
+                    "url": "https://www.washingtontimes.com/news/2018/jun/30/trump-administration-sued-over-anti-sex-traffickin/"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f30",
+                    "date_month": "2018-06",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2014/01/01/7a394ec5-f380-42da-81b3-5d0d5d1b9683/thumbnail/1200x630/aa68314a5f34476d49bbd5fe5cecac4a/Roberts_103282520.jpg",
+                    "origin": "CBS News",
+                    "title": "Chief Justice Roberts, the new man in the middle?",
+                    "ts": 1530373207,
+                    "twitterid": 1013084774439759874,
+                    "url": "https://www.cbsnews.com/news/chief-justice-roberts-the-new-man-in-the-middle/?ftag=CNM-00-10aab7e&linkId=53704330"
+                },
+                {
+                    "_id": "5b37fda0421aa904848656d2",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/justiceroberts_013018gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Chief Justice Roberts will be the new 'swing' vote",
+                    "ts": 1530393904,
+                    "twitterid": 1013171584587231232,
+                    "url": "http://thehill.com/opinion/judiciary/394940-chief-justice-roberts-will-be-the-new-swing-vote"
+                }
+            ],
+            [
+                {
+                    "_id": "5b38c26f421aa90f07c59bfb",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180626170958-travel-ban-trump-then-and-now-orig-nws-00002328-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Does the Supreme Court have a double standard on religion?",
+                    "ts": 1530444844,
+                    "twitterid": 1013385244991524865,
+                    "url": "https://www.cnn.com/2018/06/26/politics/does-the-supreme-court-have-a-double-standard-on-religion/index.html?sr=twCNNp062618does-the-supreme-court-have-a-double-standard-on-religion0913PMStory&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b385ffc421aa90aab1cc7a9",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2014/04/18/73b77b493884b70f510f6a706700915a_s2048x1490.jpg?089571a00cf081911997d00f81dd48e0f33976a1",
+                    "origin": "The Washington Times",
+                    "title": "Ukraine needs broader IMF anti-corruption court",
+                    "ts": 1530419405,
+                    "twitterid": 1013278545454518273,
+                    "url": "https://www.washingtontimes.com/news/2018/jun/22/ukraine-needs-broader-imf-anti-corruption-court/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            5,
+            4
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "Unknown Reformer Rescued One",
+            "Battle",
+            "Barbs",
+            "New York",
+            "School Districts New Harvard",
+            "Lawrence Bacow",
+            "Bill Gates",
+            "Pay Tuition Later",
+            "Classmate",
+            "Code",
+            "Schools",
+            "Student Highlights",
+            "Seattle",
+            "America",
+            "Computer How"
+        ],
+        "peaks": [],
+        "theme": [
+            "School",
+            "high",
+            "New",
+            "Student",
+            "admired",
+            "America",
+            "american"
+        ],
+        "timestamp": "2018-07-01 10:10:20.839879-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b37ef9c421aa903972bf071",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/crabbeallen_brooklynnets_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "NBA star makes donation to save his high school from closing",
+                    "ts": 1530391983,
+                    "twitterid": 1013163527870337024,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/395012-nba-star-saves-his-former-high-school-from-closing"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28fab",
+                    "date_month": "2018-06",
+                    "image": "https://media.newyorker.com/photos/5b32b7dfc08f3e2877a5c167/16:9/w_1200,h_630,c_limit/Fan-HighSchoolAdmissions.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Why Asian-Americans Feel Powerless in the Battle over New York\u2019s \u00c9lite High Schools",
+                    "ts": 1530378021,
+                    "twitterid": 1013104966049914880,
+                    "url": "https://www.newyorker.com/news/daily-comment/why-asian-americans-feel-powerless-in-the-battle-over-new-yorks-elite-high-schools?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28f86",
+                    "date_month": "2018-06",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:157818cdb7834091a5dafaaaa1ad1f78/800.jpeg",
+                    "origin": "AP West Region",
+                    "title": "Barbs for Bezos but Bill Gates largely admired in Seattle",
+                    "ts": 1530381302,
+                    "twitterid": 1013118730371584000,
+                    "url": "https://apnews.com/4e4240a3d0574b049abab4c3f3520f0c/Barbs-for-Bezos-but-Bill-Gates-largely-admired-in-Seattle?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=APWestRegion"
+                },
+                {
+                    "_id": "5b3827d1421aa9067ff0778b",
+                    "date_month": "2018-06",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Chen63018.jpg?itok=c5dGii8U",
+                    "origin": "Fox News",
+                    "title": "Student Highlights 'Shocking' Backlash After Classmate's Pro-Trump Comment During Debate",
+                    "ts": 1530404440,
+                    "twitterid": 1013215778143965184,
+                    "url": "http://insider.foxnews.com/2018/06/30/student-receives-backlash-after-pro-trump-comment-during-debate"
+                }
+            ],
+            [
+                {
+                    "_id": "5b388a25421aa90cf8ec2497",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/d3/e4/a861656c4ad2a99795f0388341d9/180629-paymon-rouhanifard-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "How an Unknown Reformer Rescued One of America\u2019s Most Troubled School Districts",
+                    "ts": 1530428415,
+                    "twitterid": 1013316335663833088,
+                    "url": "https://www.politico.com/magazine/story/2018/06/30/camden-superintendent-education-reform-paymon-rouhanifard-218940"
+                },
+                {
+                    "_id": "5b386e0c421aa90b19eb5140",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/06/29/ap_17321752938048_wide-62e219b6bcd4057f185c700a1f1b425a2c7df458.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "More States Opting To 'Robo-Grade' Student Essays By Computer",
+                    "ts": 1530423180,
+                    "twitterid": 1013294377337159681,
+                    "url": "https://www.npr.org/2018/06/30/624373367/more-states-opting-to-robo-grade-student-essays-by-computer?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180630&utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180630"
+                },
+                {
+                    "_id": "5b38a649421aa90e050d26d0",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/26/BostonGlobe.com/Metro/Images/turner062618METRO01bacow20.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "New Harvard president Lawrence Bacow promises a more outward-looking university",
+                    "ts": 1530437644,
+                    "twitterid": 1013355045423927298,
+                    "url": "https://www.bostonglobe.com/metro/2018/06/30/bacow-promises-more-outward-looking-harvard/775WSyrNerKqGh8B06TM2O/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            22,
+            1
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "Acting Director",
+            "ICE New",
+            "America Warren",
+            "Harris",
+            "Trump",
+            "Top Border Patrol",
+            "Serve",
+            "Gillibrand",
+            "Donald Trump",
+            "Customs Agency",
+            "Kennedy"
+        ],
+        "peaks": [],
+        "theme": [
+            "ICE",
+            "abolish",
+            "Dems",
+            "Democrats",
+            "immigrants",
+            "Trump",
+            "Agency"
+        ],
+        "timestamp": "2018-07-01 10:10:21.483697-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b37fda0421aa904848656be",
+                    "date_month": "2018-06",
+                    "image": "https://www.gannett-cdn.com/-mm-/eb07251ddb8f1acf141df723f1fdb7ff6a4715c2/c=0-0-4371-2470/local/-/media/2018/06/30/USATODAY/USATODAY/636659711394675810-AFP-AFP-16U9T0-101091089.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Donald Trump: Democrats will be 'beaten so badly' if they campaign to abolish ICE",
+                    "ts": 1530396009,
+                    "twitterid": 1013180414352076800,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/06/30/donald-trump-democrats-lose-if-they-call-abolish-ice/748266002/"
+                },
+                {
+                    "_id": "5b37fda0421aa904848656db",
+                    "date_month": "2018-06",
+                    "image": "https://www.washingtonpost.com/resizer/b1ScnItnOuhSpQfUYgueXJi6It8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GGJI6FD4UAI6RLXOJUCMRLDBLA.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018A political suicide march\u2019: Trump aims to inflict political pain on Democrats over calls to abolish immigration enforcement agency",
+                    "ts": 1530393004,
+                    "twitterid": 1013167809399058432,
+                    "url": "https://www.washingtonpost.com/politics/trump-defends-agency-charged-with-detaining-and-deporting-undocumented-immigrants/2018/06/30/0edca6ea-7c86-11e8-93cc-6d3beccdd7a3_story.html?utm_term=.cb3473ea177e&tid=sm_tw"
+                },
+                {
+                    "_id": "5b37e17f421aa90294e911a5",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald2_062018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump hits Dems pushing to abolish ICE: 'They're going to get beaten so badly'",
+                    "ts": 1530388382,
+                    "twitterid": 1013148423342690304,
+                    "url": "http://thehill.com/homenews/administration/394995-trump-on-dems-pushing-to-abolish-ice-theyre-going-to-get-beaten-so"
+                },
+                {
+                    "_id": "5b37d368421aa90165f4d5e7",
+                    "date_month": "2018-06",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/29/democrats_politics_of_ice_33579_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Some Democrats with eye on 2020: 'Abolish ICE'",
+                    "ts": 1530382031,
+                    "twitterid": 1013121786907713537,
+                    "url": "https://www.washingtontimes.com/news/2018/jun/30/some-democrats-with-eye-on-2020-say-abolish-ice/"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28f9c",
+                    "date_month": "2018-06",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/30/0/0/694940094001_5803895536001_5803878131001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump predicts electoral doom for Democrats with \u2018abolish ICE\u2019 push: \u2018They\u2019re going to get beaten so badly\u2019",
+                    "ts": 1530379094,
+                    "twitterid": 1013109469897687041,
+                    "url": "http://www.foxnews.com/politics/2018/06/30/trump-slaps-down-democrats-abolish-ice-push-it-will-never-happen.html"
+                },
+                {
+                    "_id": "5b3827d1421aa9067ff07782",
+                    "date_month": "2018-06",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2012/05/03/71ab9ac8-a644-11e2-a3f0-029118418759/thumbnail/1200x630/9c15f86d1d5448e0971887c79c23ce77/immigration_customs_enforcement_ice_generic_logo_910423_fullwidth.jpg",
+                    "origin": "CBS News",
+                    "title": "Ex-ICE chief counsel sentenced for stealing undocumented immigrants' identities",
+                    "ts": 1530405183,
+                    "twitterid": 1013218894029475840,
+                    "url": "https://www.cbsnews.com/news/ex-ice-chief-counsel-sentenced-for-stealing-undocumented-immigrants-identities/"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf093",
+                    "date_month": "2018-06",
+                    "image": "https://static.politico.com/32/88/332f65fd47428b5425e103803948/180629-kristen-gillibrand-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "2020 Dems join anti-ICE stampede",
+                    "ts": 1530389733,
+                    "twitterid": 1013154091588046848,
+                    "url": "https://www.politico.com/story/2018/06/29/democrats-2020-abolish-ice-687175"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28fa3",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/jayapalpramila_120517gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Dem lawmaker: ICE has become a \u2018rogue agency\u2019",
+                    "ts": 1530378543,
+                    "twitterid": 1013107157372416000,
+                    "url": "http://thehill.com/latino/394987-dem-lawmaker-ice-has-become-a-rogue-agency"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03ee",
+                    "date_month": "2018-06",
+                    "image": "https://static.politico.com/ce/c7/1a460d97495bb821766b87da8dbb/180630actingicegettyimages-886264970.jpg",
+                    "origin": "POLITICO",
+                    "title": "New acting ICE head named as agency continues to be criticized",
+                    "ts": 1530397090,
+                    "twitterid": 1013184950508679169,
+                    "url": "https://www.politico.com/story/2018/06/30/new-ice-director-ronald-vitiello-689504"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f2c",
+                    "date_month": "2018-06",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/28/0/0/694940094001_5803154633001_5803155194001-vs.jpg?ve=1",
+                    "origin": "Fox News Politics",
+                    "title": "New litmus test? Dems demand elimination of ICE amid immigration furor",
+                    "ts": 1530373500,
+                    "twitterid": 1013086005589610497,
+                    "url": "http://www.foxnews.com/politics/2018/06/28/new-litmus-test-dems-demand-elimination-ice-amid-immigration-furor.html"
+                }
+            ],
+            [
+                {
+                    "_id": "5b388a25421aa90cf8ec248f",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/06/28/fb415448-2e68-4c16-9d4b-3671e250e3f0/thumbnail/1200x630/201bdfe01460e2b2bf979d7811a1e749/ice-1.png",
+                    "origin": "CBS News",
+                    "title": "ICE investigating after attorney says her foot was broken when agent pushed her",
+                    "ts": 1530429484,
+                    "twitterid": 1013320819680907264,
+                    "url": "https://www.cbsnews.com/news/ice-investigating-after-attorney-says-her-foot-was-broken-when-agent-pushed-her/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b38802904d3012a25fad7ee&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            2
+        ],
+        "months": [
+            "2018-06"
+        ],
+        "ne": [
+            "Britain",
+            "US"
+        ],
+        "peaks": [],
+        "theme": [
+            "beer",
+            "aug",
+            "brewery",
+            "Britain",
+            "comes",
+            "craft",
+            "creativity"
+        ],
+        "timestamp": "2018-07-01 10:10:21.593722-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3835d9421aa9070a27166b",
+                    "date_month": "2018-06",
+                    "image": "https://www.gannett-cdn.com/-mm-/9a10d18443197ab9a2a837953a60ea6375b5467c/c=4-0-1916-1080/local/-/media/2018/06/29/USATODAY/USATODAY/636658736060389562-GuinnessExterior-2.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Guinness looks to tap into craft beer creativity with new US brewery, opening Aug. 3",
+                    "ts": 1530410409,
+                    "twitterid": 1013240810643615745,
+                    "url": "https://www.usatoday.com/story/money/business/2018/06/29/guinness-looks-tap-into-craft-beer-creativity-new-us-brewery/744935002/"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28fa7",
+                    "date_month": "2018-06",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_26/2480266/180628-beer-pub-mc-1413_67af5d1e3f7a1064f444e01242d305f3.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Running dry? Britain's beer shortage comes to a head during the World Cup",
+                    "ts": 1530378269,
+                    "twitterid": 1013106006308671490,
+                    "url": "https://www.nbcnews.com/news/world/running-dry-britain-s-beer-shortage-comes-head-during-world-n887291?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            16,
+            2
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "Policy Sows Confusion",
+            "Red Cross Can Teach Trump",
+            "New York Oppose Trump Bid",
+            "Detain Children Trump",
+            "Migrant Family Separations U.S.",
+            "Order Reuniting Families Shows Need",
+            "Anxiety",
+            "Los Angeles",
+            "Mexican Border",
+            "Call",
+            "Media",
+            "DHS",
+            "Rosie",
+            "Flores Five",
+            "Illegal",
+            "Border Patrol",
+            "International Committee",
+            "Atlanta",
+            "Does",
+            "America",
+            "Family Separation"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "families",
+            "separated",
+            "Border",
+            "children",
+            "immigrant",
+            "migrant"
+        ],
+        "timestamp": "2018-07-01 10:10:22.122490-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3827d1421aa9067ff07783",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/immigrant_parent_child_2.jpg",
+                    "origin": "The Hill",
+                    "title": "Media outlets unite to track down migrant children separated from parents under Trump policy",
+                    "ts": 1530405181,
+                    "twitterid": 1013218886727106561,
+                    "url": "http://thehill.com/homenews/media/395031-media-outlets-unite-to-track-down-migrant-children-separated-from-parents"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03f1",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/migrants-mexico_border_06222018.jpg",
+                    "origin": "The Hill",
+                    "title": "Five immigrant children sue Trump administration for \u2018cruel policies and practices\u2019",
+                    "ts": 1530396784,
+                    "twitterid": 1013183663566151680,
+                    "url": "http://thehill.com/latino/394952-five-immigrant-children-sue-trump-administration-for-cruel-policies-and-practices"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f22",
+                    "date_month": "2018-06",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/26/0/0/694940094001_5802060180001_5802049521001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Border Patrol Agent: Trump's wall is the best way to end to the humanitarian crisis on our southern border",
+                    "ts": 1530374160,
+                    "twitterid": 1013088774060994562,
+                    "url": "http://www.foxnews.com/opinion/2018/06/29/border-patrol-agent-trumps-wall-is-best-way-to-end-to-humanitarian-crisis-on-our-southern-border.html"
+                },
+                {
+                    "_id": "5b37e17f421aa90294e911a6",
+                    "date_month": "2018-06",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMXg8SjJoK4A/v0/1200x800.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Los Angeles, New York Oppose Trump Bid to Detain Children",
+                    "ts": 1530388204,
+                    "twitterid": 1013147679118036992,
+                    "url": "https://www.bloomberg.com/news/articles/2018-06-30/los-angeles-new-york-oppose-trump-bid-to-detain-children?utm_source=twitter&cmpid%3D=socialflow-twitter-politics&utm_medium=social&utm_content=politics&utm_campaign=socialflow-organic"
+                },
+                {
+                    "_id": "5b379b29421aa97b2bdf60b3",
+                    "date_month": "2018-06",
+                    "image": "https://media.newyorker.com/photos/5b3693728df4f92ee9c70ec6/16:9/w_1200,h_630,c_limit/Gourevitch-ReunitingFamilies.jpg",
+                    "origin": "The New Yorker",
+                    "title": "What the International Committee of the Red Cross Can Teach Trump About Reuniting Families",
+                    "ts": 1530369303,
+                    "twitterid": 1013068402724933633,
+                    "url": "https://www.newyorker.com/news/daily-comment/what-the-international-committee-of-the-red-cross-can-teach-trump-about-reuniting-families?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b379b29421aa97b2bdf60b0",
+                    "date_month": "2018-06",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_24/2467961/180617-migrants-border-family-se-957a_1d59a6570f589d17f8b6d4ef70571237.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Families belong together: What Trump doesn't understand about parents who risk everything to come to America",
+                    "ts": 1530369531,
+                    "twitterid": 1013069358510329858,
+                    "url": "https://www.nbcnews.com/think/opinion/families-belong-together-what-trump-doesn-t-understand-about-parents-ncna888001?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b379b29421aa97b2bdf60c1",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/borderpatrol_061918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "DHS projected to make fewer border arrests in June: report",
+                    "ts": 1530368223,
+                    "twitterid": 1013063871500865542,
+                    "url": "http://thehill.com/homenews/administration/394964-dhs-projected-to-make-fewer-border-arrests-in-june-report"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf097",
+                    "date_month": "2018-06",
+                    "image": "https://static01.nyt.com/images/2018/07/01/us/01dc-protest-1sub/01dc-protest-1sub-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Protests Across U.S. Call for End to Migrant Family Separations",
+                    "ts": 1530389636,
+                    "twitterid": 1013153684946071553,
+                    "url": "https://www.nytimes.com/2018/06/30/us/politics/trump-protests-family-separation.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03e5",
+                    "date_month": "2018-06",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2iH4ElcQU4Y/v1/1200x800.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "U.S. Says Order Reuniting Families Shows Need to Modify Flores",
+                    "ts": 1530397810,
+                    "twitterid": 1013187968067088390,
+                    "url": "https://www.bloomberg.com/news/articles/2018-06-30/u-s-says-order-reuniting-families-shows-need-to-modify-flores?cmpid%3D=socialflow-twitter-politics&utm_source=twitter&utm_campaign=socialflow-organic&utm_content=politics&utm_medium=social"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd92a",
+                    "date_month": "2018-06",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180618131405-09-border-crying-girl-unfurled-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Government never had specific plan to reunify families, court testimony shows",
+                    "ts": 1530374826,
+                    "twitterid": 1013091568633438209,
+                    "url": "https://www.cnn.com/2018/06/29/politics/family-separations-reunification-never-plan-court/index.html?sr=twCNNp063018family-separations-reunification-never-plan-court1010AMVODtop&CNNPolitics=Tw"
+                }
+            ],
+            [
+                {
+                    "_id": "5b38a649421aa90e050d26d6",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/06/27/1ec71d3a-6779-4875-8561-adba4a3e4ace/thumbnail/1200x630/702f11208b448645ae33f18d55e82c0f/36029906-10156224785507324-5702818530081112064-n.jpg",
+                    "origin": "CBS News",
+                    "title": "Atlanta 6-year-old with lemonade stand raises $13,000 for separated migrant families",
+                    "ts": 1530436683,
+                    "twitterid": 1013351012457943040,
+                    "url": "https://www.cbsnews.com/news/atlanta-6-year-olds-lemonade-stand-raises-13k-for-separated-migrant-families/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b389c4904d3010d4ecdbd14&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59bf1",
+                    "date_month": "2018-07",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imrcU8Cko.6w/v0/1200x800.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Trump Policy Sows Confusion and Anxiety Across the Mexican Border",
+                    "ts": 1530445925,
+                    "twitterid": 1013389778530783232,
+                    "url": "https://www.bloomberg.com/news/articles/2018-06-28/on-u-s-mexico-border-migrants-shuffle-from-detention-to-buses?utm_medium=social&utm_content=politics&utm_campaign=socialflow-organic&utm_source=twitter&cmpid%3D=socialflow-twitter-politics"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            18,
+            2
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "Belong Together",
+            "WATCH",
+            "House",
+            "New Jersey Thousands Gather",
+            "Women",
+            "Farts",
+            "John Lewis",
+            "Families Belong",
+            "Cities Across U.S.",
+            "Susan Sarandon",
+            "Trump",
+            "Philadelphia Protests",
+            "US",
+            "Trump Immigration Policies Thousands",
+            "Portland",
+            "U.S."
+        ],
+        "peaks": [],
+        "theme": [
+            "immigrant",
+            "protest",
+            "Trump",
+            "families",
+            "Policy",
+            "marches",
+            "nationwide"
+        ],
+        "timestamp": "2018-07-01 10:10:22.466990-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b380ba6421aa9050edc03f3",
+                    "date_month": "2018-06",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/30/0/0/694940094001_5803878639001_5803882060001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Thousands rally nationwide for illegal immigrant families separated at border",
+                    "ts": 1530396734,
+                    "twitterid": 1013183454459162624,
+                    "url": "http://www.foxnews.com/us/2018/06/30/hundreds-thousands-rally-nationwide-for-illegal-immigrant-families-separated-at-border.html"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f49",
+                    "date_month": "2018-06",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/06/RTS1UJ61-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Protests planned nationwide over Trump immigration policy",
+                    "ts": 1530370822,
+                    "twitterid": 1013074772949860354,
+                    "url": "https://www.pbs.org/newshour/nation/protests-planned-nationwide-over-trump-immigration-policy"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd91d",
+                    "date_month": "2018-06",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/30/0/0/694940094001_5803878639001_5803882060001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Hundreds of thousands rally nationwide for illegal immigrant families separated at border",
+                    "ts": 1530375839,
+                    "twitterid": 1013095815806636033,
+                    "url": "http://www.foxnews.com/us/2018/06/30/hundreds-thousands-rally-nationwide-for-illegal-immigrant-families-separated-at-border.html"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03e6",
+                    "date_month": "2018-06",
+                    "image": "https://si.wsj.net/public/resources/images/B3-AZ509_0630MA_G_20180630153957.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Marchers Protest Immigration Policy",
+                    "ts": 1530397808,
+                    "twitterid": 1013187958327869440,
+                    "url": "https://www.wsj.com/articles/marchers-protest-immigration-policy-1530392434?mod=e2tw"
+                },
+                {
+                    "_id": "5b37fda0421aa904848656cd",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/dcprotest_063018mayalora.jpg",
+                    "origin": "The Hill",
+                    "title": "Thousands gather in DC to protest Trump immigration policies",
+                    "ts": 1530394383,
+                    "twitterid": 1013173593260347392,
+                    "url": "http://thehill.com/homenews/news/395017-thousands-gather-in-dc-to-protest-trump-immigration-policies"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd913",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/immigration-protest-getty06302018.jpg",
+                    "origin": "The Hill",
+                    "title": "Dem lawmakers join nationwide protests against Trump immigration policies",
+                    "ts": 1530376626,
+                    "twitterid": 1013099114777710592,
+                    "url": "http://thehill.com/latino/394984-democrats-join-nationwide-protests-against-family-separation"
+                },
+                {
+                    "_id": "5b3819b4421aa905c3372ec4",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/celebrities.rally_.png",
+                    "origin": "The Hill",
+                    "title": "Celebrities show their support for #FamiliesBelongTogether marches",
+                    "ts": 1530400624,
+                    "twitterid": 1013199773120303110,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/395030-celebrities-show-their-support-for-familiesbelongtogether"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd929",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/tokyomarch.png",
+                    "origin": "The Hill",
+                    "title": "Activists rally around the globe to protest Trump immigration policies",
+                    "ts": 1530374944,
+                    "twitterid": 1013092062017867777,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/394981-activists-rally-around-the-globe-to-protest-trump-immigration"
+                },
+                {
+                    "_id": "5b37d368421aa90165f4d5d8",
+                    "date_month": "2018-06",
+                    "image": "https://images.wsj.net/im-16435/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Thousands Gather in Cities Across U.S. to Protest Trump Immigration Policies",
+                    "ts": 1530383500,
+                    "twitterid": 1013127946528284672,
+                    "url": "https://www.wsj.com/articles/thousands-gather-in-cities-across-u-s-to-protest-trump-immigration-policies-1530382778?mod=e2tw&page=1&pos=1"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f3f",
+                    "date_month": "2018-06",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_26/2482951/180630-immigration-protest-al-1051_b6baf233c3415d8de71145ae8f714b2a.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Thousands across U.S. join 'Keep Families Together' march to protest family separation",
+                    "ts": 1530371858,
+                    "twitterid": 1013079119121264640,
+                    "url": "https://www.nbcnews.com/news/us-news/thousands-across-u-s-join-keep-families-together-march-protest-n888006?cid=sm_npd_nn_tw_ma"
+                }
+            ],
+            [
+                {
+                    "_id": "5b3851f7421aa90a478d2905",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201806/n_joy_familiestogethermarch3_180630_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "\u2018Families Belong Together\u2019 marches support immigrant families nationwide",
+                    "ts": 1530417609,
+                    "twitterid": 1013271012509659136,
+                    "url": "https://www.msnbc.com/am-joy/watch/-families-belong-together-marches-support-immigrant-families-nationwide-1267715139872?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59bf0",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/portland_riotgear.png",
+                    "origin": "The Hill",
+                    "title": "Clashes break out between opposing protest groups in Portland",
+                    "ts": 1530445982,
+                    "twitterid": 1013390014925942784,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/395043-clashes-break-out-between-opposing-groups-in-portland-protest?__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8,
+            2
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "South Korea",
+            "Uranium Fuel",
+            "North Korea",
+            "Corporate",
+            "North Korea The Elusive",
+            "Trump White House How Big",
+            "White House",
+            "NBC Reports",
+            "US",
+            "Find South Korea",
+            "Few Know How",
+            "Korean Bonds",
+            "Any Number North Korea Steps Up Production"
+        ],
+        "peaks": [],
+        "theme": [
+            "Korea",
+            "North",
+            "envoy",
+            "fuel",
+            "House",
+            "nuclear",
+            "production"
+        ],
+        "timestamp": "2018-07-01 10:10:22.759920-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b37e17f421aa90294e911ac",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/trump-kim_walk_1.jpg",
+                    "origin": "The Hill",
+                    "title": "US intel agencies believe North Korea has increased nuclear fuel production: report",
+                    "ts": 1530387665,
+                    "twitterid": 1013145415728984064,
+                    "url": "http://thehill.com/policy/international/394919-us-intelligence-believes-north-korea-has-increased-nuclear-fuel"
+                },
+                {
+                    "_id": "5b37d368421aa90165f4d5cd",
+                    "date_month": "2018-06",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI9L_NouVOoI/v0/1200x795.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "North Korea Steps Up Production of Uranium Fuel, NBC Reports",
+                    "ts": 1530384609,
+                    "twitterid": 1013132598762201090,
+                    "url": "https://www.bloomberg.com/news/articles/2018-06-30/north-korea-steps-up-production-of-uranium-fuel-nbc-reports?cmpid%3D=socialflow-twitter-politics&utm_source=twitter&utm_campaign=socialflow-organic&utm_content=politics&utm_medium=social"
+                },
+                {
+                    "_id": "5b37d368421aa90165f4d5ea",
+                    "date_month": "2018-06",
+                    "image": "https://static.politico.com/b9/27/de2f8e8442e88a3d5125c6d5430c/180629-mike-pompeo-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "\u2018Nobody in the bullpen\u2019: White House approaches North Korea talks without envoy",
+                    "ts": 1530381714,
+                    "twitterid": 1013120456264699904,
+                    "url": "https://www.politico.com/story/2018/06/30/north-korea-white-houseenvoy-pompeo-687898"
+                },
+                {
+                    "_id": "5b3835d9421aa9070a27166c",
+                    "date_month": "2018-06",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_26/2479681/180627-yongbyon-north-korea-nuclear-fig7-38north-satellite-image-se-618p_015d84b36eda13b9b8983efe4133bc35.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "If North Korea is denuclearizing, why is it expanding a nuclear research center?",
+                    "ts": 1530410407,
+                    "twitterid": 1013240802250772480,
+                    "url": "https://www.nbcnews.com/news/north-korea/if-north-korea-denuclearizing-why-it-expanding-nuclear-research-center-n887056?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03da",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/harrisharry_051818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump's envoy to South Korea sworn in",
+                    "ts": 1530398707,
+                    "twitterid": 1013191733008617473,
+                    "url": "http://thehill.com/homenews/administration/395028-trumps-envoy-to-south-korea-sworn-in"
+                },
+                {
+                    "_id": "5b3851f7421aa90a478d292b",
+                    "date_month": "2018-06",
+                    "image": "https://images.newrepublic.com/a1e9105c85c11087cbdbc148c5fd2806fa5eaa39.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The Corporate Gangs Who Could Profit From Trade With North Korea",
+                    "ts": 1530414024,
+                    "twitterid": 1013255976416358400,
+                    "url": "https://newrepublic.com/article/149374/corporate-gangs-profit-trade-north-korea"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f48",
+                    "date_month": "2018-06",
+                    "image": "https://www.bloomberg.com/graphics/2018-north-korea-economy-size/img/2018-north-korea-economy-facebook.png",
+                    "origin": "Bloomberg Politics",
+                    "title": "How Big Is North Korea\u2019s Economy? Pick a Number, Any Number",
+                    "ts": 1530370823,
+                    "twitterid": 1013074777198747648,
+                    "url": "https://www.bloomberg.com/graphics/2018-north-korea-economy-size/?utm_source=twitter&utm_campaign=socialflow-organic&utm_medium=social&cmpid=socialflow-twitter-business&utm_content=politics&cmpid%3D=socialflow-twitter-politics"
+                },
+                {
+                    "_id": "5b379b29421aa97b2bdf60b8",
+                    "date_month": "2018-06",
+                    "image": "https://www.bloomberg.com/graphics/2018-white-house-staffing/img/2018-white-house-staffing_facebook.png",
+                    "origin": "Bloomberg Politics",
+                    "title": "Here Are All the Officials Who Have Left the Trump White House",
+                    "ts": 1530369015,
+                    "twitterid": 1013067191669977088,
+                    "url": "https://www.bloomberg.com/graphics/2018-white-house-staffing/?utm_medium=social&utm_source=twitter&utm_campaign=socialflow-organic&utm_content=politics&cmpid%3D=socialflow-twitter-politics"
+                }
+            ],
+            [
+                {
+                    "_id": "5b387c1a421aa90c5558a6af",
+                    "date_month": "2018-07",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaJ1lvRtgbMk/v1/1200x639.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "The Elusive North Korean Bonds That Few Know How to Find",
+                    "ts": 1530428412,
+                    "twitterid": 1013316322313363456,
+                    "url": "https://www.bloomberg.com/news/articles/2018-06-14/betting-on-a-bond-bounce-in-north-korea?utm_source=twitter&utm_medium=social&cmpid=socialflow-twitter-businessweek&utm_content=politics&utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-politics"
+                },
+                {
+                    "_id": "5b387c1a421aa90c5558a6c9",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/_31nMedMSRy3ZHJ0zPlIBAfymcA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NV6VFZIOBM5IPJTFCYDL4TUYOM.jpg",
+                    "origin": "Washington Post",
+                    "title": "South Korea soccer fans set goal for World Cup star: No military service",
+                    "ts": 1530425598,
+                    "twitterid": 1013304521492258817,
+                    "url": "https://www.washingtonpost.com/news/worldviews/wp/2018/06/30/south-korea-soccer-fans-set-goal-for-world-cup-star-no-military-service/?utm_term=.a8e132665638&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            11,
+            5
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "FBI",
+            "Steyer",
+            "Capital Gazette Attack Annapolis",
+            "Carl Hiaasen",
+            "Annapolis Mourns Employees Killed",
+            "Maryland",
+            "Capital Gazette",
+            "US",
+            "U.S.",
+            "MAGA",
+            "Jarrod Warren Ramos"
+        ],
+        "peaks": [],
+        "theme": [
+            "shooting",
+            "Annapolis",
+            "Capital",
+            "Gazette",
+            "journalists",
+            "suspect",
+            "killing"
+        ],
+        "timestamp": "2018-07-01 10:10:23.184339-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b37b751421aa97dd1dcd91c",
+                    "date_month": "2018-06",
+                    "image": "https://media.npr.org/assets/img/2018/06/30/gettyimages-987746274_wide-e973f68922da74d4ba886fb0cfe40152571ec788.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Annapolis Mourns Employees Killed In The Capital Gazette Attack",
+                    "ts": 1530375892,
+                    "twitterid": 1013096038930919424,
+                    "url": "https://www.npr.org/2018/06/30/624918653/annapolis-mourns-employees-killed-in-the-capital-gazette-attack?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b37d368421aa90165f4d5e3",
+                    "date_month": "2018-06",
+                    "image": "https://s.abcnews.com/images/US/annapolis-shooting4-ap-ml-180629_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Capital Gazette shooting marks deadliest day for news industry in US since 9/11",
+                    "ts": 1530382360,
+                    "twitterid": 1013123166103851009,
+                    "url": "https://abcnews.go.com/US/capital-gazette-shooting-marks-deadliest-day-news-industry/story?id=56262027&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b38446a421aa9077699c072",
+                    "date_month": "2018-06",
+                    "image": "https://www.washingtonpost.com/resizer/dK6BCMzXXWyMXBWvk4CNvF0pvp4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QMZ5ZG5SLQ355KY2ZYI5IKYY2Q.jpg",
+                    "origin": "Washington Post",
+                    "title": "The Annapolis shooting was an attack on a newspaper \u2014 and on women",
+                    "ts": 1530412025,
+                    "twitterid": 1013247590564016129,
+                    "url": "https://www.washingtonpost.com/news/posteverything/wp/2018/06/30/the-annapolis-shooting-was-an-attack-on-a-newspaper-and-on-women/?utm_term=.ffd17feb471f&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b379b29421aa97b2bdf60b5",
+                    "date_month": "2018-06",
+                    "image": "https://www.washingtonpost.com/resizer/lACgvNF0VuWO1JVOfy3_AmWlXG0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/INH476VVHY44JIC6JW3WZN3APM.png",
+                    "origin": "Washington Post",
+                    "title": "Orioles pay tribute to Capital Gazette victims with pregame moment of silence",
+                    "ts": 1530369264,
+                    "twitterid": 1013068235997155328,
+                    "url": "https://www.washingtonpost.com/news/dc-sports-bog/wp/2018/06/29/orioles-pay-tribute-to-capital-gazette-victims-with-pregame-moment-of-silence/?utm_term=.1d10a2ce083f&tid=sm_tw"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd90d",
+                    "date_month": "2018-06",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/06/30/reporter-resigns-after-false-tweet-that-maryland-shooting-suspect-had-maga-hat/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1530331356559.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Reporter resigns after false tweet that Maryland shooting suspect had MAGA hat",
+                    "ts": 1530376943,
+                    "twitterid": 1013100444137160705,
+                    "url": "http://www.foxnews.com/us/2018/06/30/reporter-resigns-after-false-tweet-that-maryland-shooting-suspect-had-maga-hat.html"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf091",
+                    "date_month": "2018-06",
+                    "image": "http://www.trbimg.com/img-5b36b4ff/turbine/ct-perspec-newsroom-journalists-murder-fake-news-trump-charlie-hebdo-0702",
+                    "origin": "Chicago Tribune",
+                    "title": "The sorry history of journalists murdered in the U.S. for doing their job",
+                    "ts": 1530389848,
+                    "twitterid": 1013154573115158529,
+                    "url": "http://www.chicagotribune.com/news/opinion/commentary/ct-perspec-newsroom-journalists-murder-fake-news-trump-charlie-hebdo-0702-story.html"
+                },
+                {
+                    "_id": "5b3851f7421aa90a478d291d",
+                    "date_month": "2018-06",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/28/shootings_newspaper_15932_s2048x1375.jpg?94b3a8265cf5ebb6d2c642ff6920ad55887adc7b",
+                    "origin": "The Washington Times",
+                    "title": "Jarrod Warren Ramos Twitter-harassed journalists for years, escaping censorship",
+                    "ts": 1530415805,
+                    "twitterid": 1013263445289062400,
+                    "url": "https://www.washingtontimes.com/news/2018/jun/29/jarrod-warren-ramos-twitter-harassed-journalists-y/"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f3d",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/capitalgazetteannapolisshooting3_062818getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Maryland newspaper reporter after shooting: \u2018We are not the enemy\u2019",
+                    "ts": 1530372066,
+                    "twitterid": 1013079989208543233,
+                    "url": "http://thehill.com/homenews/media/394974-maryland-newspaper-reporter-after-shooting-we-are-not-the-enemy"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28fa5",
+                    "date_month": "2018-06",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/30/woman_crying_in_march_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Annapolis holds candlelight vigil for slain newspaper staff: 'They were like our family'",
+                    "ts": 1530378360,
+                    "twitterid": 1013106388564770816,
+                    "url": "https://www.washingtontimes.com/news/2018/jun/30/annapolis-holds-candlelight-vigil-slain-newspaper-/"
+                }
+            ],
+            [
+                {
+                    "_id": "5b38c26f421aa90f07c59c00",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180629135854-capital-gazette-paper-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Capital Gazette suspect blocked entrance, then started 'hunting and killing,' official says",
+                    "ts": 1530444608,
+                    "twitterid": 1013384252732395520,
+                    "url": "https://www.cnn.com/2018/06/30/us/capital-gazette-shooting/index.html?utm_source=twCNN&utm_term=image&utm_medium=social&utm_content=2018-07-01T11%3A30%3A07"
+                },
+                {
+                    "_id": "5b388a25421aa90cf8ec2495",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/06/29/bf2e5a57-f7c1-43bb-9c6f-eca8ae5b723c/thumbnail/1200x630g2/fc9a398c8e0fd45f839a5b821a724d6f/jarrod-ramos-dg2-qg-ucaeynd0.jpg",
+                    "origin": "CBS News",
+                    "title": "Annapolis shooting suspect not cooperating with detectives",
+                    "ts": 1530428585,
+                    "twitterid": 1013317048347299841,
+                    "url": "https://www.cbsnews.com/news/annapolis-shooting-suspect-jarrod-ramos-not-cooperating-with-detectives-2018-06-29/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b387ca63ed3f0000a85bc88&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b388a25421aa90cf8ec2481",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/06/29/fc7c8412-ddc7-4347-9e46-bf27f8ffc6bf/thumbnail/1200x630g7/644b62283fb57be3b87e0daaf786db51/annapolis-shooting-2018-06-29t151459z.jpg",
+                    "origin": "CBS News",
+                    "title": "Annapolis shooting suspect \"an injustice collector,\" former FBI profiler says",
+                    "ts": 1530431284,
+                    "twitterid": 1013328367553335296,
+                    "url": "https://www.cbsnews.com/news/jarrod-ramos-annapolis-shooting-suspect-an-injustice-collector-former-fbi-profiler-says/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b38873104d3013e7b7971bf&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b38a649421aa90e050d26c8",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/06/29/df053bd0-ac39-4282-8519-7aaf90c1dd3b/thumbnail/1200x630/7e111720f392edde076c7a4efaba74c9/36331117-1972363039461633-1267288108513099776-o.jpg",
+                    "origin": "CBS News",
+                    "title": "Carl Hiaasen remembers brother killed in Annapolis shooting",
+                    "ts": 1530438483,
+                    "twitterid": 1013358565418029058,
+                    "url": "https://www.cbsnews.com/news/carl-hiaasen-writer-remembers-rob-hiaasen-killed-annapolis-maryland-shooting-2018-06-29/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b38a35104d3012123b955d6&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b386e0c421aa90b19eb514a",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/mSwFB9yupPaUinZ6o8xAYa_szRM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZC5LOT35AI6RE6MNU56ZTOXUM.jpg",
+                    "origin": "Washington Post",
+                    "title": "Honor the dead journalists by respecting their profession",
+                    "ts": 1530422441,
+                    "twitterid": 1013291276576411648,
+                    "url": "https://www.washingtonpost.com/opinions/honor-the-dead-journalists-by-respecting-their-profession/2018/06/29/8758593c-7bcf-11e8-80be-6d32e182a3bc_story.html?utm_term=.dae97cfdafd2&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            272,
+            110
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "Woman",
+            "Year Women",
+            "Harder",
+            "Global Trade Tensions",
+            "Houston",
+            "Paul George",
+            "National Aston Martin",
+            "Taliban U.S.",
+            "Mystery Illness Complaints Starbucks",
+            "Race Stuck",
+            "Murder Capital New Banksy",
+            "All Times",
+            "City That",
+            "Line Bears",
+            "Survey",
+            "Poll",
+            "Nelson FL Mom",
+            "Kushner Meeting",
+            "Sends Trump",
+            "EPA",
+            "Track Where Much",
+            "People Choose",
+            "Associated",
+            "Florida",
+            "Mulvaney",
+            "Apparel",
+            "Medicare",
+            "United States",
+            "Zara",
+            "FCC",
+            "Vermont",
+            "White House Migration Agency",
+            "Latest",
+            "Manafort",
+            "Estonia",
+            "Giuliani Promises Exiles Trump Will Bring Down Iran",
+            "Marvin Gaye",
+            "Additional",
+            "Song Similarity Boise",
+            "Idaho",
+            "U.S.",
+            "Data Went Nine",
+            "Poland Rattle Europe",
+            "Former Ruling Party Veers Right",
+            "Massachusetts Maher",
+            "Door Open",
+            "Russian",
+            "Join Trump Communication Team",
+            "McDonald",
+            "Mueller",
+            "Risk Tiger Woods",
+            "YouTube",
+            "Michael Flynn Who",
+            "Sources Say",
+            "Tsipras Struggles",
+            "John Kelly The MAGA",
+            "Chicago",
+            "WTO Dave Dombrowski",
+            "Slower Growth U.S.",
+            "Edward Snowden",
+            "Smaller US Ambassador",
+            "Chicken Coop Photo",
+            "New England",
+            "Dummies",
+            "Oklahoma City Ed Sheeran",
+            "MSNBC",
+            "Shapiro",
+            "White House",
+            "White House Major League Soccer",
+            "Trump",
+            "Walgreens",
+            "Memoir Americans",
+            "Yosemite",
+            "Israeli",
+            "Good",
+            "Junior Basketball Association",
+            "Thornton",
+            "House Democrat Tulsi Gabbard",
+            "How America",
+            "Iranian",
+            "Alex Rodriguez",
+            "Congress Democrats",
+            "NBA",
+            "Spicer",
+            "Canada",
+            "Photo Album How Big Pharma Was",
+            "Hello",
+            "Both Parties",
+            "Society Trump",
+            "Janelle Monae",
+            "Computers",
+            "Congressional Elections Dangerous",
+            "Books",
+            "Halfway",
+            "LGBTQ",
+            "Amazon Needs",
+            "Jim Acosta",
+            "State Department",
+            "Michael Flynn US",
+            "European",
+            "German Numbers Fast",
+            "Maria",
+            "Five Primaries",
+            "New York",
+            "Pick Willie",
+            "San Antonio Zoo",
+            "Trey Gowdy",
+            "Supreme Court How Trump",
+            "Texas Well",
+            "Peter Strzok",
+            "Former Charlestown Catholic",
+            "Unprecedented Numbers Wasabi",
+            "MeToo Obama",
+            "Trump Tax Cut Benefits Gets",
+            "Sparks",
+            "Lawmakers Clash",
+            "Intractable Puzzle Where Luxury",
+            "CNN",
+            "LGBT Pride Month Settle",
+            "Sessions",
+            "New Leader",
+            "Puerto Rican",
+            "Arizona ID",
+            "Belong Together",
+            "Cheap",
+            "FEMA",
+            "Trump Problem Major",
+            "House",
+            "Farenthold",
+            "Trump Identity",
+            "United Nations",
+            "Gudrun Burwitz",
+            "New Jersey",
+            "Fashion",
+            "Virginia",
+            "Alexandria",
+            "Fourth",
+            "Climate Change Video Using Game",
+            "Amid",
+            "Quicken Loans National Best",
+            "Tiger Woods",
+            "Brooklyn Bridge Trump",
+            "Donald Trump",
+            "Quicken Loans National Tim Scott",
+            "Mexico",
+            "Lorena Bobbitt",
+            "WikiLeaks",
+            "Moscow",
+            "Matt Cappotelli",
+            "South Sudan Fighting",
+            "Border",
+            "Neighbor Erdogan Arnold Schwarzenegger",
+            "Scaramucci",
+            "Juan Williams",
+            "Losers America",
+            "Holyoke",
+            "America",
+            "Will Trump Finally Turn",
+            "Disney",
+            "Acosta",
+            "Al Hayat Says Drake",
+            "LaMelo Ball",
+            "AMLO May Win",
+            "Pentagon",
+            "Pruitt",
+            "Including Tesla",
+            "Auto Makers",
+            "Alabama",
+            "Define",
+            "Trump Democrats",
+            "Home Buyers",
+            "Global Warming",
+            "Thunder",
+            "Taser",
+            "Ireland",
+            "Watchdog Mauls Brexiteers",
+            "Corey Stewart",
+            "American Family Road Trip",
+            "Your Burger Thieves",
+            "Clinton",
+            "Saudis",
+            "Strange New",
+            "Wisconsin",
+            "ICE Abbas",
+            "Pixar",
+            "Global Investors Sour",
+            "Michelle Obama",
+            "Paris",
+            "Facebook",
+            "Electronics",
+            "Right Words",
+            "Marvel",
+            "Bank Accounts",
+            "Colorado",
+            "CEO",
+            "New York City",
+            "How China",
+            "Toys",
+            "Grisham",
+            "David Price",
+            "NFL",
+            "Quest",
+            "WWII",
+            "Bruins",
+            "Andr\u00e9s Manuel L\u00f3pez Obrador",
+            "Melania Trump",
+            "House Najib Says Freezing",
+            "Says Trump Driving Higher Voter Interest",
+            "New Sheriff",
+            "Show Bus Tickets Heavy",
+            "Comedian",
+            "Afghan",
+            "Global Financial Markets",
+            "Trump Consolidates Power",
+            "Trump Recognizes Teen",
+            "HHS",
+            "Tick Bites Are",
+            "Truth",
+            "EU",
+            "Lipstick",
+            "Senate",
+            "Brooklyn With Tracy Morgan",
+            "Laugh",
+            "Japan",
+            "Robots Career",
+            "WWE",
+            "U.S.-China Spat Pruitt",
+            "DNA",
+            "Louisiana",
+            "Billionaire Tom Steyer",
+            "London",
+            "NYC Leisure",
+            "High Heels Can Teach",
+            "Samaritan",
+            "Hard Rock",
+            "Crimea",
+            "Thailand",
+            "Medical",
+            "Black Ghettos Tessa Thompson",
+            "Trade Tensions",
+            "MLB",
+            "Saudi Arabia",
+            "Congress Trump",
+            "Spanish",
+            "Rules",
+            "Italy",
+            "Esplanade",
+            "Rise How Spain Got",
+            "Tariff From China Woman",
+            "Populist Playbook",
+            "Chris Paul",
+            "DNC",
+            "Highest",
+            "Miami",
+            "LeBron James Effect",
+            "Time Goes By",
+            "How Fortnite Captured",
+            "Brace",
+            "WaPo",
+            "NBC News",
+            "Tax Hikes Schwarzenegger Scolds Trump Bobblehead",
+            "American Mobsters Tiger Woods",
+            "Workers",
+            "Gendered",
+            "GOP Nazi Obama",
+            "NSA",
+            "Michael Moore",
+            "Comcast",
+            "Germany",
+            "Heinrich Himmler",
+            "Syria US",
+            "Malaysian Opposition Waters",
+            "Norway",
+            "Introduce Bill",
+            "Long",
+            "Trump Melania Trump",
+            "Ready",
+            "Chinese",
+            "Stan Lee",
+            "Municipal Socialism",
+            "Dynamite",
+            "Rosenstein Squirm",
+            "Brookfield Zoo House",
+            "Pelosi",
+            "Jamie Laiaddee California",
+            "Brexit",
+            "Mediterranean Jazz Jennings",
+            "Puerto Ricans",
+            "Scottish",
+            "Silicon Valley",
+            "Ted Cruz",
+            "Maryland",
+            "China Just",
+            "Tehran Rhode Island",
+            "Brexit Has",
+            "Secret Service",
+            "Trump U.S.",
+            "Maxine Waters",
+            "Republican",
+            "Impeach Trump Ayers",
+            "End Drake",
+            "Trump Dangerous",
+            "Powell",
+            "Space Force",
+            "FBI",
+            "Pennsylvania",
+            "Giraffe",
+            "Montana Locker Room Privacy Act",
+            "Great",
+            "DVDs",
+            "Animals",
+            "Rocket",
+            "British",
+            "White",
+            "Glenn Beck",
+            "Legal Immigration",
+            "Justin Trudeau",
+            "Philadelphia History Museum",
+            "Trump Says Saudi Arabia Will Increase Oil Production Disney",
+            "Trump Could",
+            "Parker Posey",
+            "Skittish About Turkey"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "say",
+            "New",
+            "calling",
+            "House",
+            "us"
+        ],
+        "timestamp": "2018-07-01 10:10:29.009753-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b37e17f421aa90294e911b8",
+                    "date_month": "2018-06",
+                    "image": "https://static.politico.com/a6/4b/0e2789b74419a5e55bfaa17e9ed2/20-donald-trump-2-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Why a new chief of staff wouldn't change Trump's White House",
+                    "ts": 1530386881,
+                    "twitterid": 1013142127457587201,
+                    "url": "https://www.politico.com/story/2018/06/29/donald-trump-chief-of-staff-white-house-688665"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf092",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/spicersean11092017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump boosts Spicer\u2019s new book: It\u2019s \u2018really good\u2019",
+                    "ts": 1530389826,
+                    "twitterid": 1013154482795016193,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395010-trump-boosts-spicers-new-book-its-really-good?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03e0",
+                    "date_month": "2018-06",
+                    "image": "https://static01.nyt.com/images/2018/06/30/world/30IOM-1/30IOM-1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Migration Agency Picks a New Leader, and Sends Trump a Message",
+                    "ts": 1530398105,
+                    "twitterid": 1013189204535398401,
+                    "url": "https://www.nytimes.com/2018/06/29/world/europe/iom-trump-migration-ken-isaacs.html?smid=tw-nytimes&smtyp=cur"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd91e",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_cancels_nk_summit_05252018.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump to appoint White House lawyer as next DEA chief: report",
+                    "ts": 1530375664,
+                    "twitterid": 1013095083296608257,
+                    "url": "http://thehill.com/homenews/administration/394983-trump-to-appoint-white-house-lawyer-as-next-dea-chief-report"
+                },
+                {
+                    "_id": "5b37d368421aa90165f4d5d9",
+                    "date_month": "2018-06",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipYfDOZ7wSyY/v1/1200x800.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Ex-Fox Chief Bill Shine to Join Trump Communication Team, Sources Say",
+                    "ts": 1530383468,
+                    "twitterid": 1013127815930302464,
+                    "url": "https://www.bloomberg.com/news/articles/2018-06-29/ex-fox-chief-bill-shine-is-said-to-join-trump-communication-team?utm_medium=social&utm_campaign=socialflow-organic&utm_content=politics&cmpid%3D=socialflow-twitter-politics&utm_source=twitter"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf088",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_062618.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump claims he 'never pushed' House Republicans to vote for hard-line immigration bill",
+                    "ts": 1530390542,
+                    "twitterid": 1013157486520668163,
+                    "url": "http://thehill.com/homenews/administration/395009-trump-claims-he-never-pushed-house-republicans-to-vote-for-hardline"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf089",
+                    "date_month": "2018-06",
+                    "image": "https://static.politico.com/9d/94/b99151614ab7842aad02d5bc76a4/trumpdoj.jpeg",
+                    "origin": "POLITICO",
+                    "title": "Trump falsely claims he never told House Republicans to vote for immigration bill",
+                    "ts": 1530390522,
+                    "twitterid": 1013157399287517184,
+                    "url": "https://www.politico.com/story/2018/06/30/donald-trump-immigration-vote-tweets-689501"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03df",
+                    "date_month": "2018-06",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Hill63018.jpg?itok=jasjn2Ff",
+                    "origin": "Fox News",
+                    "title": "FL Mom's Story of Trump Tax Cut Benefits Gets Standing Ovation at White House",
+                    "ts": 1530398164,
+                    "twitterid": 1013189452930473984,
+                    "url": "http://insider.foxnews.com/2018/06/30/lasonya-hill-shares-how-president-trump-tax-reform-has-helped-family"
+                },
+                {
+                    "_id": "5b37e17f421aa90294e911b0",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/wtf_protest_3242017_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "House Republicans are coming for your 401(k)",
+                    "ts": 1530387186,
+                    "twitterid": 1013143406875414528,
+                    "url": "http://thehill.com/opinion/finance/394803-house-republicans-are-coming-for-your-401k"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03e4",
+                    "date_month": "2018-06",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_25/2474701/180621-dirofilaria-repens-upper-lip-al-1417_3d9dd5b8eb66e1a5941e25bba6a4e84c.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Moving lump in woman's face was a worm, doctors say",
+                    "ts": 1530397812,
+                    "twitterid": 1013187977743388674,
+                    "url": "https://www.nbcnews.com/health/health-news/moving-lump-woman-s-face-was-worm-doctors-say-n885846?cid=sm_npd_nn_tw_ma"
+                }
+            ],
+            [
+                {
+                    "_id": "5b389839421aa90da007b26b",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_26/2007121/ss-170520-donald-trump-saudi-arabia-02_4dad9e696bb427a655d24740fc9b88a1.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "White House backs away from Trump claim Saudi Arabia will boost oil production",
+                    "ts": 1530434432,
+                    "twitterid": 1013341572866494464,
+                    "url": "https://www.nbcnews.com/news/world/trump-claims-saudi-arabia-will-boost-oil-production-n888011?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e0e",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/03/20/bc9db1cf-a4a4-4e99-8c50-66d7e4146874/thumbnail/1200x630g2/f23610f2a722b93ced35d11998581e01/ap-18079593671194.jpg",
+                    "origin": "CBS News",
+                    "title": "White House does not specify Saudi Arabia will increase oil production despite Trump tweet",
+                    "ts": 1530442084,
+                    "twitterid": 1013373668712476673,
+                    "url": "https://www.cbsnews.com/news/trump-claims-saudi-arabia-agreed-to-increase-oil-production/"
+                },
+                {
+                    "_id": "5b3851f7421aa90a478d2907",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/24/6_242018_bbabbinlgspaceforce8201_s1638x2048.jpg?298a17f010f9a00a93850611dfe5f17714edb6b8",
+                    "origin": "The Washington Times",
+                    "title": "'Say no to a Space Force'",
+                    "ts": 1530417608,
+                    "twitterid": 1013271009477169152,
+                    "url": "https://www.washingtontimes.com/news/2018/jun/24/say-no-to-a-space-force/"
+                },
+                {
+                    "_id": "5b38a649421aa90e050d26d1",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/06/25/3fd2eeea-6d04-4e34-9fc8-410df9222648/thumbnail/1200x630/8b15315305bb31f06a09d711d501b114/180625-permit-patty-horizontal.jpg",
+                    "origin": "CBS News",
+                    "title": "Woman resigns as CEO of company after backlash from calling police on girl selling water",
+                    "ts": 1530437584,
+                    "twitterid": 1013354790879940608,
+                    "url": "https://www.cbsnews.com/news/permit-patty-alison-ettel-resigns-ceo-cannabis-company-video-calling-police-on-girl-selling-water/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b389fce04d3011805410b06&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c11",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/dam/fox-news/images/2018/07/01/idahostabbing1.jpg.img.png/0/0/1530442220467.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "9 stabbed at Idaho apartment complex; suspect in custody, police say",
+                    "ts": 1530443012,
+                    "twitterid": 1013377559617261570,
+                    "url": "http://www.foxnews.com/us/2018/07/01/9-stabbed-at-idaho-apartment-complex-suspect-in-custody-police-say.html"
+                },
+                {
+                    "_id": "5b388a25421aa90cf8ec2487",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/f6/e7/df84d7214bb6bea9ed85f4e5a571/25-donald-trump-2-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump: U.S. not withdrawing from the WTO",
+                    "ts": 1530430323,
+                    "twitterid": 1013324336072155137,
+                    "url": "https://www.politico.com/story/2018/06/29/donald-trump-no-withdraw-world-trade-organization-688742"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59bf8",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/ba/1f/2ccc4e6f40d98a29b930f5b6acaf/180629-rosenstein-gettyimages-986404186.jpg",
+                    "origin": "POLITICO",
+                    "title": "Week 58: Hot-tempered House Members Make Rosenstein Squirm",
+                    "ts": 1530445205,
+                    "twitterid": 1013386756337659904,
+                    "url": "https://www.politico.com/magazine/story/2018/06/30/week-58-hot-tempered-house-members-make-rosenstein-squirm-218941"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c0d",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/cellphonespying_062918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Foreign spying comes under new scrutiny from lawmakers",
+                    "ts": 1530443342,
+                    "twitterid": 1013378943687254016,
+                    "url": "http://thehill.com/policy/cybersecurity/394923-foreign-spying-comes-under-new-scrutiny-from-lawmakers"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c15",
+                    "date_month": "2018-07",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iynQFLSFqUUc/v0/1200x630.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "The EU Is Emerging as the New Sheriff for Global Financial Markets",
+                    "ts": 1530442815,
+                    "twitterid": 1013376732710174720,
+                    "url": "https://www.bloomberg.com/news/articles/2018-06-15/the-eu-is-emerging-as-the-new-sheriff-for-global-financial-markets?utm_campaign=socialflow-organic&utm_content=politics&utm_source=twitter&utm_medium=social&cmpid=socialflow-twitter-businessweek&cmpid%3D=socialflow-twitter-politics"
+                },
+                {
+                    "_id": "5b389839421aa90da007b272",
+                    "date_month": "2018-07",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180625144340-aston-martin-dbs-superlegger-2-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "Aston Martin unveils powerful new $300,000 supercar",
+                    "ts": 1530433860,
+                    "twitterid": 1013339172856303616,
+                    "url": "http://money.cnn.com/2018/06/26/luxury/aston-martin-dbs-superleggera/index.html?utm_medium=social&utm_source=twmoney&utm_content=2018-06-26T20:30:25"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            12,
+            1
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "Messi",
+            "Lionel Messi",
+            "Portugal Nizhny Novgorod",
+            "Fortnite",
+            "Soviet",
+            "Kylian Mbappe",
+            "France",
+            "Uruguay",
+            "Russia Cristiano Ronaldo",
+            "Antoine Griezmann",
+            "Argentina",
+            "Electronic Arts"
+        ],
+        "peaks": [],
+        "theme": [
+            "Cup",
+            "World",
+            "France",
+            "Argentina",
+            "Ronaldo",
+            "Cristiano",
+            "Messi"
+        ],
+        "timestamp": "2018-07-01 10:10:29.616262-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3819b4421aa905c3372ebb",
+                    "date_month": "2018-06",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180630195244-cristiano-ronaldo-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Cristiano Ronaldo's World Cup ends as Uruguay beats Portugal",
+                    "ts": 1530401406,
+                    "twitterid": 1013203051094708225,
+                    "url": "https://www.cnn.com/2018/06/30/football/portugal-uruguay-cristiano-ronaldo-world-cup-spt-intl/index.html?utm_source=twCNN&utm_term=image&utm_content=2018-06-30T23%3A30%3A05&utm_medium=social"
+                },
+                {
+                    "_id": "5b38446a421aa9077699c084",
+                    "date_month": "2018-06",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180630163613-kylian-mbappe-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Kylian Mbappe scores twice as France knocks Lionel Messi's Argentina out of World Cup",
+                    "ts": 1530410414,
+                    "twitterid": 1013240832667930626,
+                    "url": "https://www.cnn.com/2018/06/30/football/france-argentina-kylian-mbappe-lionel-messi-world-cup-spt-intl/index.html?utm_medium=social&utm_content=2018-07-01T02%3A00%3A13&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd928",
+                    "date_month": "2018-06",
+                    "image": "https://www.gannett-cdn.com/-mm-/dae2eea2a974791652d72fb4b89b49ae4d1dd174/c=0-159-3598-2192/local/-/media/2018/06/30/USATODAY/USATODAY/636659554082839350-EPA-RUSSIA-SOCCER-FIFA-WORLD-CUP-2018-101105363.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Messi comes up short again, new star arises as France eliminates Argentina at World Cup",
+                    "ts": 1530375004,
+                    "twitterid": 1013092314217177088,
+                    "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2018/06/30/world-cup-messi-disappears-argentina-eliminated-france/748017002/"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28f9d",
+                    "date_month": "2018-06",
+                    "image": "https://www.washingtonpost.com/resizer/5iLaBrXqZ9KSYY_8K2aZrnOCmHc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NCR4YO6HHQ6OBIHET7FBLK3XGA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Uruguay vs. Portugal 2018 World Cup: Cristiano Ronaldo needs help",
+                    "ts": 1530379085,
+                    "twitterid": 1013109431788363776,
+                    "url": "https://www.washingtonpost.com/news/soccer-insider/wp/2018/06/30/uruguay-vs-portugal-2018-world-cup/?utm_term=.be6622a055bd&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28f91",
+                    "date_month": "2018-06",
+                    "image": "https://images.wsj.net/im-16433/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "A Teenage Star Speeds France Past Argentina in World Cup",
+                    "ts": 1530380404,
+                    "twitterid": 1013114962720542721,
+                    "url": "https://www.wsj.com/articles/a-teenage-star-speeds-france-past-argentina-in-world-cup-1530378876?mod=e2tw"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf095",
+                    "date_month": "2018-06",
+                    "image": "https://www.gannett-cdn.com/-mm-/1d10ab710ae5d84025ea31a872690ddbee953c2d/c=0-194-2236-1457/local/-/media/2018/06/30/USATODAY/USATODAY/636659707971838502-GTY-988135770-101114641.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Gone for good? Ronaldo and Messi's World Cup dreams come crashing down on the same day",
+                    "ts": 1530389703,
+                    "twitterid": 1013153966379687937,
+                    "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2018/06/30/world-cup-ronaldo-joins-messi-after-portugal-loss/748310002/"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28f8b",
+                    "date_month": "2018-06",
+                    "image": "https://www.gannett-cdn.com/-mm-/ed8a64a5519a7cbd51634417b9836f2e38d58716/c=0-75-3730-2182/local/-/media/2018/06/30/USATODAY/USATODAY/636659514308116758-GTY-987861930-101103099.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "France's Antoine Griezmann celebrates World Cup goal with Fortnite dance",
+                    "ts": 1530380704,
+                    "twitterid": 1013116222005792768,
+                    "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2018/06/30/world-cup-antoine-griezmann-celebrates-fortnite-dance/747953002/"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd924",
+                    "date_month": "2018-06",
+                    "image": "https://www.washingtonpost.com/resizer/HfHRvr7LYwmoVsx1fY0_5ubhkvc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YEBYAKLAOY7J5OGQHFXNFTDGTY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Kylian Mbappe\u2019s two-goal game sends France through to the quarters and Argentina home",
+                    "ts": 1530375300,
+                    "twitterid": 1013093554619547648,
+                    "url": "https://www.washingtonpost.com/news/soccer-insider/wp/2018/06/30/france-vs-argentina-2018-world-cup/?_=dsjkfkslks&utm_term=.954a8106e8c3&tid=sm_tw"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd900",
+                    "date_month": "2018-06",
+                    "image": "https://images.wsj.net/im-15817/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "The World Cup Matters to Electronic Arts\u2019 Money-Maker",
+                    "ts": 1530378007,
+                    "twitterid": 1013104908940271617,
+                    "url": "https://www.wsj.com/articles/the-world-cup-matters-to-electronic-arts-money-maker-1530053627?mod=e2tw"
+                },
+                {
+                    "_id": "5b3851f7421aa90a478d2925",
+                    "date_month": "2018-06",
+                    "image": "https://s.abcnews.com/images/Lifestyle/WireAP_8040b1abe1554a8982977eb7135101d7_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "World Cup fans rev up revenues for sanctions-hobbled Russia",
+                    "ts": 1530414894,
+                    "twitterid": 1013259624647200769,
+                    "url": "https://abcnews.go.com/Travel/wireStory/world-cup-fans-rev-revenues-sanctions-hobbled-russia-56281714?cid=social_twitter_abcn"
+                }
+            ],
+            [
+                {
+                    "_id": "5b386e0c421aa90b19eb5133",
+                    "date_month": "2018-07",
+                    "image": "https://usatftw.files.wordpress.com/2018/06/ap-russia-soccer-wcup-uruguay-portugal_101114239-e1530388303515.jpg?w=1024&h=576&crop=1",
+                    "origin": "USA TODAY",
+                    "title": "Cristiano Ronaldo helped injured opponent in touching display of sportsmanship",
+                    "ts": 1530424808,
+                    "twitterid": 1013301205097963520,
+                    "url": "https://ftw.usatoday.com/2018/06/cristiano-ronaldo-edinson-cavani-uruguay-portugal-world-cup-round-of-16-sportsmanship"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            28,
+            12
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "John Kelly",
+            "Mia Love",
+            "Next Supreme Court",
+            "Headlines Trump",
+            "Anthony Kennedy",
+            "Supreme Court How",
+            "News Quiz",
+            "Michael Moore",
+            "Are",
+            "Jeanine Pirro",
+            "Trump Pardon Himself",
+            "Week",
+            "U.S.",
+            "Can Democrats",
+            "Trump Brief",
+            "Evangelical",
+            "New Jersey",
+            "Flake",
+            "Mitt Romney",
+            "Will Likely",
+            "SCOTUS",
+            "Senate",
+            "Utah",
+            "Graham",
+            "Great",
+            "Let Trump Pick",
+            "Dems Would",
+            "Scaramucci",
+            "Trump",
+            "Wade",
+            "Meghan",
+            "Supreme Court"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Court",
+            "Supreme",
+            "pick",
+            "Justice",
+            "next",
+            "nominee"
+        ],
+        "timestamp": "2018-07-01 10:10:31.184887-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b380ba6421aa9050edc03fc",
+                    "date_month": "2018-06",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/28/0/0/694940094001_5802843920001_5802861224001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Supreme Court justice nominee coming July 9, Trump says",
+                    "ts": 1530396300,
+                    "twitterid": 1013181634512760833,
+                    "url": "http://www.foxnews.com/politics/2018/06/29/supreme-court-justice-nominee-coming-july-9-trump-says.html"
+                },
+                {
+                    "_id": "5b37fda0421aa904848656c5",
+                    "date_month": "2018-06",
+                    "image": "https://www.washingtonpost.com/resizer/qxju3Uykb0LvcbgYXB2YahZ3urs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6MV4YXTZNMI6RLCOIIPPOFSZEM.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018We have to pick a great one\u2019: Inside Trump\u2019s plan for a new Supreme Court justice",
+                    "ts": 1530395162,
+                    "twitterid": 1013176863714369538,
+                    "url": "https://www.washingtonpost.com/politics/we-have-to-pick-a-great-one-inside-trumps-plan-for-a-new-supreme-court-justice/2018/06/30/610dcd4e-7bb0-11e8-80be-6d32e182a3bc_story.html?utm_term=.56b1e5ba0ebd&tid=sm_tw"
+                },
+                {
+                    "_id": "5b37e17f421aa90294e911c9",
+                    "date_month": "2018-06",
+                    "image": "https://media.npr.org/assets/img/2018/06/29/5-pack_wide-89cbe0f6c7100ebc7f2f76e18459264bd751e355.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "5 Senators Who Will Likely Decide The Next Supreme Court Justice",
+                    "ts": 1530385380,
+                    "twitterid": 1013135834739036165,
+                    "url": "https://www.npr.org/2018/06/30/624687831/5-senators-who-will-likely-decide-the-next-supreme-court-justice?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180630&utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180630&utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180630"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf079",
+                    "date_month": "2018-06",
+                    "image": "https://www.washingtonpost.com/resizer/lkgkoSgGE8bESSbZ2fB6CTyVpEQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYDFUID37II6RE6MNU56ZTOXUM.jpg",
+                    "origin": "Washington Post",
+                    "title": "Plenty of drama is coming on the next Supreme Court nominee \u2014 but not in Senate questioning",
+                    "ts": 1530391443,
+                    "twitterid": 1013161262300221440,
+                    "url": "https://www.washingtonpost.com/powerpost/plenty-of-drama-is-coming-on-the-next-supreme-court-nominee--but-not-in-senate-questioning/2018/06/29/caa8b3e6-7bbe-11e8-aeee-4d04c8ac6158_story.html?utm_term=.c3d83e941ae5&tid=sm_tw"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd905",
+                    "date_month": "2018-06",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/28/0/0/694940094001_5803026282001_5802992904001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "With Supreme Court pick, Trump can return us to the framer's vision of the judiciary",
+                    "ts": 1530377544,
+                    "twitterid": 1013102966432260096,
+                    "url": "http://www.foxnews.com/opinion/2018/06/30/with-supreme-court-pick-trump-can-return-us-to-framers-vision-judiciary.html"
+                },
+                {
+                    "_id": "5b379b29421aa97b2bdf60c5",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/gillibrandkirsten_111517cf_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Gillibrand incorrectly claims no Democrats voted for Trump\u2019s first Supreme Court nominee",
+                    "ts": 1530367981,
+                    "twitterid": 1013062857452384256,
+                    "url": "http://thehill.com/homenews/senate/394963-gillibrand-incorrectly-claims-no-democrats-voted-for-trumps-first-supreme"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f46",
+                    "date_month": "2018-06",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2017/10/24/people_michael_moore_39695_s2048x1413.jpg?faa613d9a43bd0028da1fb3f5157f7325c6fa4fa",
+                    "origin": "The Washington Times",
+                    "title": "Michael Moore says he\u2019ll surround the U.S. Capitol to stop Trump\u2019s next SCOTUS pick",
+                    "ts": 1530370932,
+                    "twitterid": 1013075233954324481,
+                    "url": "https://www.washingtontimes.com/news/2018/jun/30/michael-moore-says-hell-surround-capital-building-/"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f33",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/michaelmoore_1.jpg",
+                    "origin": "The Hill",
+                    "title": "Michael Moore: I'll surround Capitol with 'a million other people' to protest Supreme Court pick",
+                    "ts": 1530373022,
+                    "twitterid": 1013083999487610881,
+                    "url": "http://thehill.com/regulation/court-battles/394973-michael-moore-ill-join-a-million-other-people-surrounding-capitol-to"
+                },
+                {
+                    "_id": "5b380ba6421aa9050edc03f8",
+                    "date_month": "2018-06",
+                    "image": "https://static.politico.com/69/cf/97dfa4c44f5cab33f481bfb673fb/180621-trump-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump focused on July 9 date for SCOTUS pick",
+                    "ts": 1530396514,
+                    "twitterid": 1013182532551094272,
+                    "url": "https://www.politico.com/story/2018/06/30/trump-supreme-court-kennedy-689496"
+                },
+                {
+                    "_id": "5b37fda0421aa904848656c7",
+                    "date_month": "2018-06",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/062918_huckabee.jpg?itok=BpS3RZhi",
+                    "origin": "Fox News",
+                    "title": "Huckabee: Trump Could Nominate Moses for Supreme Court & Dems Would Still Oppose It",
+                    "ts": 1530395100,
+                    "twitterid": 1013176601134034944,
+                    "url": "http://insider.foxnews.com/2018/06/29/mike-huckabee-trump-supreme-court-nominee-democratic-opposition"
+                }
+            ],
+            [
+                {
+                    "_id": "5b385ffc421aa90aab1cc796",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b3849fd/turbine/ct-trump-plan-supreme-court-justice-20180630",
+                    "origin": "Chicago Tribune",
+                    "title": "'We have to pick a great one': Inside Trump's plan for a new Supreme Court justice",
+                    "ts": 1530421215,
+                    "twitterid": 1013286134678466560,
+                    "url": "http://www.chicagotribune.com/news/nationworld/politics/ct-trump-plan-supreme-court-justice-20180630-story.html"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c02",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpgorsuch_041017gn.jpg",
+                    "origin": "The Hill",
+                    "title": "Jeanine Pirro predicts Trump\u2019s Supreme Court pick will be \u2018fantastic\u2019",
+                    "ts": 1530444544,
+                    "twitterid": 1013383983797817344,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/395004-jeanine-pirro-predicts-trumps-supreme-court-pick-will-be-fantastic"
+                },
+                {
+                    "_id": "5b389839421aa90da007b27e",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/c3/a7/e293df294f96ab53e9f2320360d8/180628-allison-eid-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "\u2018The optics do matter\u2019: Trump nudged to pick woman for Supreme Court",
+                    "ts": 1530432704,
+                    "twitterid": 1013334326249914368,
+                    "url": "https://www.politico.com/story/2018/06/29/trump-supreme-court-female-justice-abortion-685929"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c10",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/06/30/gettyimages-632853474_wide-7225fb023c04503fc85cf85791fb5aada3a56b03.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "A Lifetime Investment: Big Money Pours Into Supreme Court Battle",
+                    "ts": 1530443103,
+                    "twitterid": 1013377939558129664,
+                    "url": "https://www.npr.org/2018/07/01/624838031/a-lifetime-investment-big-money-pours-into-supreme-court-battle?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b386e0c421aa90b19eb5138",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/06/28/83325b8c-e11f-48dd-8cd5-c9c39a290246/thumbnail/1200x630/31bf69229ac22b9a4409632355bc43e9/amul-thapar.jpg",
+                    "origin": "CBS News",
+                    "title": "Who are the top 5 people being considered to replace Justice Anthony Kennedy?",
+                    "ts": 1530424083,
+                    "twitterid": 1013298166299586560,
+                    "url": "https://www.cbsnews.com/news/who-are-the-top-5-people-being-considered-to-replace-justice-anthony-kennedy/"
+                },
+                {
+                    "_id": "5b389839421aa90da007b282",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/3uIdDJuODGAdlE8EXaP0NbSWehU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5WYDARG5FIZT5E35UY4MBER4HU.JPG",
+                    "origin": "Washington Post",
+                    "title": "How Americans feel about Trump",
+                    "ts": 1530432234,
+                    "twitterid": 1013332352263688192,
+                    "url": "https://www.washingtonpost.com/news/politics/wp/2018/06/29/how-americans-feel-about-trump/?tid=sm_tw"
+                },
+                {
+                    "_id": "5b387c1a421aa90c5558a6ce",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/06/30/3c04e522-d329-4fac-9504-d96bbf23a9ad/thumbnail/1200x630/e0bd82a225647b21bf5796df2a7acc8c/2018-06-29t224740z-1362030690-rc167c162930-rtrmadp-3-usa-trump.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump says \"that I don't know\" when asked if John Kelly is leaving",
+                    "ts": 1530424984,
+                    "twitterid": 1013301943735812096,
+                    "url": "https://www.cbsnews.com/news/john-kelly-white-house-exit-speculation-president-trump-comments-today-2016-06-29/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b386e964b738500076e9384&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b38c26f421aa90f07c59c0b",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_22/2450506/180531-donald-trump-se-428p_b9a360a41d8060a523bcce94a70ce58a.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump loves a good fight more than anything else. And his opponents are unwilling or unable to get on his level.",
+                    "ts": 1530443707,
+                    "twitterid": 1013380472964026370,
+                    "url": "https://www.nbcnews.com/think/opinion/trump-loves-good-fight-more-anything-else-his-opponents-are-ncna888076?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            28,
+            16
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "Leviticus",
+            "Required Reading",
+            "Owen Wilson",
+            "Alabama",
+            "Self",
+            "Know How",
+            "Feminism",
+            "Spinoff",
+            "Into Sexual Fantasies One",
+            "Adult Son Baleen Holds",
+            "Obsessive Search",
+            "Washington",
+            "Earth",
+            "Steve Marshall",
+            "Fourth Wall New Research",
+            "Whales",
+            "Hard",
+            "Tasmanian Tiger Apple",
+            "ABC Want From",
+            "Unmotivated",
+            "Authors Of Color",
+            "Volcanoes May Have Helped",
+            "Amazon",
+            "American",
+            "Article Would",
+            "DNA",
+            "Brand Muse",
+            "Trump",
+            "Tess"
+        ],
+        "peaks": [],
+        "theme": [
+            "best",
+            "families",
+            "helping",
+            "May",
+            "Parenting",
+            "Reads",
+            "Ways"
+        ],
+        "timestamp": "2018-07-01 10:10:33.318027-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3827d1421aa9067ff07785",
+                    "date_month": "2018-06",
+                    "image": "https://dynaimage.cdn.cnn.com/cnn/w_768,h_1024,c_scale/https%3A%2F%2Fdynaimage.cdn.cnn.com%2Fcnn%2Fx_327%2Cy_0%2Cw_913%2Ch_1217%2Cc_crop%2Fhttps%253A%252F%252Fstamp.static.cnn.io%252F5b33d484d045070021cb6c3f%252F180611124421-07-where-to-go-july---conwy-castle-wales.jpg",
+                    "origin": "CNN",
+                    "title": "The best places to visit in July",
+                    "ts": 1530405008,
+                    "twitterid": 1013218158923210752,
+                    "url": "https://www.cnn.com/ampstories/travel/the-best-places-to-visit-in-july?utm_content=2018-07-01T00%3A30%3A06&utm_medium=social&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f29",
+                    "date_month": "2018-06",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/25/6_252018_b3-morici8201_s2048x1289.jpg?5fd9f1ffbf79f870f3fc70aeb8465c6748134379",
+                    "origin": "The Washington Times",
+                    "title": "Apple raises helicopter parenting to dangerous heights",
+                    "ts": 1530373505,
+                    "twitterid": 1013086026024275968,
+                    "url": "https://www.washingtontimes.com/news/2018/jun/25/apple-raises-helicopter-parenting-to-dangerous-hei/"
+                },
+                {
+                    "_id": "5b3827d1421aa9067ff07784",
+                    "date_month": "2018-06",
+                    "image": "https://media2.s-nbcnews.com/j/MSNBC/Components/Video/201805/d_better_qt_WeightLoss_180530.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Three ways to lose weight without exercise",
+                    "ts": 1530405015,
+                    "twitterid": 1013218190250463232,
+                    "url": "https://www.nbcnews.com/better/video/three-ways-to-lose-weight-without-exercise-1245575747796?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28f89",
+                    "date_month": "2018-06",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180628155318-protestors-immigration-capitol---1-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "These children wrote letters to kids separated from their families",
+                    "ts": 1530380724,
+                    "twitterid": 1013116303740211200,
+                    "url": "https://www.cnn.com/us/live-news/immigration-border-separations-protests/h_f4e0b45f3a14f689b82050edd8e371f6?utm_term=video&utm_content=2018-06-30T17%3A45%3A06&utm_medium=social&utm_source=twCNN"
+                }
+            ],
+            [
+                {
+                    "_id": "5b38b45a421aa90e7c086e10",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/06/GettyImages_899188472/facebook.jpg?1530037486",
+                    "origin": "The Atlantic",
+                    "title": "Letters: \u2018Parenting Is Hard. We All Do Our Best.\u2019",
+                    "ts": 1530441906,
+                    "twitterid": 1013372918796038144,
+                    "url": "https://www.theatlantic.com/letters/archive/2018/06/letters-parenting-is-hard-we-all-do-our-best/563642/?utm_source=atltw"
+                },
+                {
+                    "_id": "5b385ffc421aa90aab1cc7a6",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/15/BostonGlobe.com/Metro/Images/kreiter_lgbttaskforce1_met.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "People helping us pull back from the darkness",
+                    "ts": 1530419525,
+                    "twitterid": 1013279046715760640,
+                    "url": "https://www.bostonglobe.com/metro/2018/06/30/people-helping-pull-back-from-darkness/N0rH8YI8XQJto1VyMSqkDI/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b38b45a421aa90e7c086e1b",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/6a6ff76ba734a3b6dcd2b90400430c3fc3b53b4c/c=2-0-1177-664/local/-/media/2018/06/29/USATODAY/USATODAY/636658682326719117-6-29-deals-hero.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Here are Amazon's 5 best deals right now",
+                    "ts": 1530441005,
+                    "twitterid": 1013369142739599360,
+                    "url": "https://www.usatoday.com/story/tech/reviewedcom/2018/06/29/here-amazons-5-best-deals-right-now/36474281/"
+                },
+                {
+                    "_id": "5b385ffc421aa90aab1cc7b8",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/06/29/gettyimages-171625382_wide-0ed27209cd85871a9f80629fa38601f0832b239a.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Step Away From The 'Trauma Buffet' With These 5 Beach Reads By Authors Of Color",
+                    "ts": 1530417720,
+                    "twitterid": 1013271476970119168,
+                    "url": "https://www.npr.org/2018/06/30/624613727/step-away-from-the-trauma-buffet-with-these-5-beach-reads-by-authors-of-color?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180630"
+                },
+                {
+                    "_id": "5b389839421aa90da007b269",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/pbox.php?url=http://www.washingtonpost.com/news/national/wp-content/uploads/sites/9/2018/06/norwalkohio15.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+                    "origin": "Washington Post",
+                    "title": "\u2018Are you alone now?\u2019 After raid, immigrant families are separated in the American heartland",
+                    "ts": 1530434759,
+                    "twitterid": 1013342945305595905,
+                    "url": "https://www.washingtonpost.com/news/national/wp/2018/06/30/feature/are-you-alone-now-after-raid-immigrant-families-are-separated-in-the-american-heartland/?tid=sm_tw"
+                },
+                {
+                    "_id": "5b385ffc421aa90aab1cc79b",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/06/RTSWQX1/facebook.jpg?1530228751",
+                    "origin": "The Atlantic",
+                    "title": "The Self-Defeating Ways Americans Talk About Feminism",
+                    "ts": 1530421136,
+                    "twitterid": 1013285803961782273,
+                    "url": "https://www.theatlantic.com/entertainment/archive/2018/06/the-self-defeating-ways-americans-talk-about-feminism/564098/?utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo&utm_term=2018-06-29T12%3A01%3A25&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3851f7421aa90a478d2908",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/a0187ebcf5235020852417e55af0c21d68b991ac/c=54-0-711-371/local/-/media/2018/06/22/USATODAY/usatsports/MotleyFool-TMOT-d23f204c-58a51020.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Personal savings: 40 pretty easy ways to spend less money",
+                    "ts": 1530417606,
+                    "twitterid": 1013270997842169856,
+                    "url": "https://www.usatoday.com/story/money/personalfinance/budget-and-spending/2018/06/30/savings-easy-ways-to-spend-less-money/36271493/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            14,
+            5
+        ],
+        "months": [
+            "2018-06",
+            "2018-07"
+        ],
+        "ne": [
+            "Boston",
+            "Lafayette Square",
+            "Belong",
+            "U.S.",
+            "New Black",
+            "Country Rally Against Trump",
+            "Markey",
+            "South Bay",
+            "Hundreds",
+            "White House",
+            "Washington Diane Guerrero",
+            "Protest Was Personal Hundreds",
+            "D.C.",
+            "US Capitol",
+            "Washington"
+        ],
+        "peaks": [],
+        "theme": [
+            "protest",
+            "immigration",
+            "family",
+            "policies",
+            "Trump",
+            "rally",
+            "separation"
+        ],
+        "timestamp": "2018-07-01 10:10:33.949464-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b380ba6421aa9050edc03d9",
+                    "date_month": "2018-06",
+                    "image": "https://media.npr.org/assets/img/2018/06/30/gettyimages-987870408_wide-a369d4d23e4a1a1eed3f4948a35cc9358e6bd9fd.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Protesters Across The Country Rally Against Trump's Immigration Policies",
+                    "ts": 1530398934,
+                    "twitterid": 1013192683328802816,
+                    "url": "https://www.npr.org/2018/06/30/624950726/protesters-across-the-country-rally-against-trumps-immigration-policies?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180630"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf07b",
+                    "date_month": "2018-06",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:c364ceed6a044c4bb268a4e1eacfd58d/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "'We care': Family separation protest flood US cities",
+                    "ts": 1530391265,
+                    "twitterid": 1013160518591352832,
+                    "url": "https://www.apnews.com/69ceb617e2c241d29dd123cde6c40ae7/'We-care':-Protesters-of-family-separations-flood-US-cities?utm_medium=AP_Politics&utm_source=Twitter&utm_campaign=SocialFlow&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b37c55b421aa97f6ae28fa4",
+                    "date_month": "2018-06",
+                    "image": "https://www.washingtonpost.com/resizer/SyQsleFdhXaM5elnNJQA7g1xIII=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HIVHDOD4OQI6RLCOIIPPOFSZEM.jpg",
+                    "origin": "Washington Post",
+                    "title": "Thousands rally in Lafayette Square as protest of Trump\u2019s immigration policy kicks off in Washington",
+                    "ts": 1530378533,
+                    "twitterid": 1013107116771594240,
+                    "url": "https://www.washingtonpost.com/local/tens-of-thousands-expected-to-descend-on-washington-to-protest-trumps-immigration-policy/2018/06/30/0e4a6a26-7bde-11e8-93cc-6d3beccdd7a3_story.html?utm_term=.3900bf6ac881&tid=sm_tw"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f45",
+                    "date_month": "2018-06",
+                    "image": "https://www.washingtonpost.com/resizer/UsG3Hos2vSpYwwACPCqLapT6eMA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBWUDBD4OQI6RLCOIIPPOFSZEM.jpg",
+                    "origin": "Washington Post",
+                    "title": "Tens of thousands expected to descend on Washington to protest Trump\u2019s immigration policy",
+                    "ts": 1530371172,
+                    "twitterid": 1013076240843014144,
+                    "url": "https://www.washingtonpost.com/local/tens-of-thousands-expected-to-descend-on-washington-to-protest-trumps-immigration-policy/2018/06/30/0e4a6a26-7bde-11e8-93cc-6d3beccdd7a3_story.html?utm_term=.58bc338546ff&tid=sm_tw"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd906",
+                    "date_month": "2018-06",
+                    "image": "https://static.politico.com/86/6c/afbb25dc40539a61a8a2e4417a90/180630marchap-18181528531975.jpg",
+                    "origin": "POLITICO",
+                    "title": "Marchers around the country protest family separations",
+                    "ts": 1530377529,
+                    "twitterid": 1013102902238502914,
+                    "url": "https://www.politico.com/story/2018/06/30/protest-family-separations-marchers-689498"
+                },
+                {
+                    "_id": "5b37ef9c421aa903972bf07f",
+                    "date_month": "2018-06",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180630105701-06-immigration-rally-0630-dc-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Immigration protest signs reveal a kaleidoscope of outrage",
+                    "ts": 1530391024,
+                    "twitterid": 1013159505117540352,
+                    "url": "https://www.cnn.com/2018/06/30/us/immigration-rally-signs/index.html?utm_medium=social&utm_content=2018-06-30T20%3A37%3A02&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5b37a938421aa97b86d26f41",
+                    "date_month": "2018-06",
+                    "image": "https://dynaimage.cdn.cnn.com/cnn/livestory/org/b76880fe-3404-44ce-87e8-63eefff76846.jpg",
+                    "origin": "CNN",
+                    "title": "Here's how the last immigration protest in Washington went down",
+                    "ts": 1530371710,
+                    "twitterid": 1013078496015536128,
+                    "url": "https://www.cnn.com/us/live-news/immigration-border-separations-protests/h_4fed1cec452c841928f5d789ef533523?utm_term=image&utm_source=twCNN&utm_content=2018-06-30T15%3A15%3A08&utm_medium=social"
+                },
+                {
+                    "_id": "5b3835d9421aa9070a271675",
+                    "date_month": "2018-06",
+                    "image": "http://thehill.com/sites/default/files/guerrerodiane_063018_getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "'Orange is the New Black' star whose parents were deported blasts Trump immigration policy",
+                    "ts": 1530409267,
+                    "twitterid": 1013236021259993090,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/395033-orange-is-the-new-black-star-whose-family-was-deported-blasts"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd920",
+                    "date_month": "2018-06",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/30/BostonGlobe.com/Metro/Images/IMG_4877.JPG",
+                    "origin": "The Boston Globe",
+                    "title": "\u2018America can\u2019t do this.\u2019 Protesters blast separation of migrant families in Boston",
+                    "ts": 1530375444,
+                    "twitterid": 1013094159572488193,
+                    "url": "https://www.bostonglobe.com/metro/2018/06/30/protesters-gather-city-hall-plaza-for-immigration-rally/bVmqe8EcblPnsqPwv8QUIO/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b37b751421aa97dd1dcd90b",
+                    "date_month": "2018-06",
+                    "image": "https://dynaimage.cdn.cnn.com/cnn/livestory/org/5ede26ae-b3f2-47a8-920e-a8da266c65fc.jpg",
+                    "origin": "CNN",
+                    "title": "This mother and daughter are marching to show the importance of family",
+                    "ts": 1530377107,
+                    "twitterid": 1013101134658056192,
+                    "url": "https://www.cnn.com/us/live-news/immigration-border-separations-protests/h_d96baf8d400cdd3a13e44b4432f75432?utm_content=2018-06-30T16%3A45%3A06&utm_medium=social&utm_term=image&utm_source=twCNN"
+                }
+            ],
+            [
+                {
+                    "_id": "5b38b45a421aa90e7c086e25",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/30/BostonGlobe.com/National/Images/986400328.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Markey heads to border to protest immigration policies",
+                    "ts": 1530439865,
+                    "twitterid": 1013364360599756800,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/06/30/markey-heads-border-protest-immigration-policies/5oAeGKV3zsqh4aAST848CM/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b387c1a421aa90c5558a6d0",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/30/BostonGlobe.com/National/Images/988377472.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Hundreds of thousands march across US to protest family separation policy",
+                    "ts": 1530424864,
+                    "twitterid": 1013301440293605376,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/06/30/hundreds-thousands-march-across-protest-family-separation-policy/duMl12y3KbkuvXZ1D6InyL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b385ffc421aa90aab1cc79f",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/06/30/2ae2bc4d-917b-42d0-8254-5d1a00ee937c/thumbnail/1200x630/bc44c301d44266412889b61b3f66796a/gettyimages-987870408.jpg",
+                    "origin": "CBS News",
+                    "title": "Protesters flood U.S. cities to fight Trump immigration policy",
+                    "ts": 1530420484,
+                    "twitterid": 1013283071003684864,
+                    "url": "https://www.cbsnews.com/news/trump-immigration-family-separation-protests-today-nationwide-2018-06-30-live-updates/"
+                },
+                {
+                    "_id": "5b38a649421aa90e050d26dd",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/30/BostonGlobe.com/Metro/Images/lee_063018_noice6_met.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Hundreds rally for undocumented immigrants at South Bay correctional facility",
+                    "ts": 1530435726,
+                    "twitterid": 1013346998840381440,
+                    "url": "https://www.bostonglobe.com/metro/2018/06/30/hundreds-rally-for-undocumented-immigrants-south-bay-correctional-facility/lSuafE8SdlYrGg3DIBlQ8O/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b385ffc421aa90aab1cc7b3",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/06/30/emg-npr-dc12_wide-5d797395b21ca309735a52c132f94ba86c2b9911.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "For Women At D.C.'s 'Families Belong Together,' The Protest Was Personal",
+                    "ts": 1530418143,
+                    "twitterid": 1013273253379371008,
+                    "url": "https://www.npr.org/2018/07/01/625009018/for-women-at-d-c-s-families-belong-together-the-protest-was-more-personal?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    }
+]

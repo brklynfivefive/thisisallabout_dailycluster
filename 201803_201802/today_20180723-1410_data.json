@@ -1,0 +1,2342 @@
+[
+    {
+        "list": [
+            22
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Athens",
+            "California",
+            "US West",
+            "Sox",
+            "Longest",
+            "Greg Gutfeld",
+            "Maryland Photos",
+            "Perseid",
+            "Fukushima",
+            "Chris Sale",
+            "Mars",
+            "Tigers Pitchfork Music",
+            "Italian"
+        ],
+        "peaks": [],
+        "theme": [
+            "eclipse",
+            "lunar",
+            "Maryland",
+            "Pitchfork",
+            "battling",
+            "day",
+            "dies"
+        ],
+        "timestamp": "2018-07-23 14:10:17.086121-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5609f0421aa975facf1906",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/23/firefighter_killed_66359_s1743x2048.jpg?7ba1ddcd27515292ea31650dca027078a75cca25",
+                    "origin": "The Washington Times",
+                    "title": "Firefighter dies battling blaze at Maryland home",
+                    "ts": 1532362715,
+                    "twitterid": 1021429375458336768,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/23/firefighter-dies-battling-blaze-at-maryland-home/?cache"
+                },
+                {
+                    "_id": "5b55fbdc421aa97306365cb9",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/07/23/maryland-firefighter-dies-battling-seven-alarm-inferno/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532357096605.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Maryland firefighter dies battling seven-alarm inferno",
+                    "ts": 1532358385,
+                    "twitterid": 1021411216957329409,
+                    "url": "http://www.foxnews.com/us/2018/07/23/maryland-firefighter-dies-battling-seven-alarm-inferno.html"
+                },
+                {
+                    "_id": "5b54d462421aa964e352bbfd",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b54cde0/turbine/ct-pitchfork-music-festival-2018-updates-20180719",
+                    "origin": "Chicago Tribune",
+                    "title": "Live blog: Pitchfork Music Festival 2018 - day 3",
+                    "ts": 1532283831,
+                    "twitterid": 1021098515878096896,
+                    "url": "http://www.chicagotribune.com/entertainment/music/ct-pitchfork-music-festival-2018-updates-20180719-htmlstory.html"
+                },
+                {
+                    "_id": "5b551ab4421aa9677fa4c04e",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b550675/turbine/ct-pitchfork-music-fest-2018-best-and-worst-day-3-20180722",
+                    "origin": "Chicago Tribune",
+                    "title": "Pitchfork Music Fest 2018: 6 things you should know from day 3",
+                    "ts": 1532301955,
+                    "twitterid": 1021174532789489664,
+                    "url": "http://www.chicagotribune.com/entertainment/music/ct-pitchfork-music-fest-2018-best-and-worst-day-3-20180722-story.html"
+                },
+                {
+                    "_id": "5b55a750421aa96f7e53826e",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/International/super-moon-ap-04-jpo-180131_hpMain_3_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Longest total lunar eclipse of 21st century coming Friday",
+                    "ts": 1532337307,
+                    "twitterid": 1021322809539289088,
+                    "url": "https://abcnews.go.com/International/longest-total-lunar-eclipse-21st-century-coming-friday/story?id=56718699&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b55fbdc421aa97306365caa",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_28/2495501/180712-lunar-eclipse-al-1144_6c2a86d2e418a15fc3c85182b57389c5.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Total lunar eclipse will turn the moon blood red this week",
+                    "ts": 1532358966,
+                    "twitterid": 1021413654015733760,
+                    "url": "https://www.nbcnews.com/mach/science/total-lunar-eclipse-will-turn-moon-blood-red-later-month-ncna891191?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b557d19421aa96e55c81e23",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_29/2503181/180719-skywatching-perseid-mn-1045_188f1f338182d8aa911f8eec3e80f7e5.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Lunar eclipse, Mars & Perseid meteor shower: 3 best summer skywatching events",
+                    "ts": 1532326935,
+                    "twitterid": 1021279304443940864,
+                    "url": "https://www.nbcnews.com/mach/science/lunar-eclipse-mars-perseid-meteor-shower-3-best-summer-skywatching-ncna893156?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b55edd0421aa972613ab9fc",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b555fa0/turbine/ct-pitchfork-music-fest-2018-photos-20180720",
+                    "origin": "Chicago Tribune",
+                    "title": "Photos: Pitchfork 2018",
+                    "ts": 1532357409,
+                    "twitterid": 1021407120531574784,
+                    "url": "http://www.chicagotribune.com/entertainment/music/ct-pitchfork-music-fest-2018-photos-20180720-photogallery.html"
+                },
+                {
+                    "_id": "5b55dfa5421aa971ed460f58",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Washington Post",
+                    "title": "70 cats and a rabbit rescued in \u2018animal welfare\u2019 case in Maryland",
+                    "ts": 1532353121,
+                    "twitterid": 1021389139332255747,
+                    "url": "https://www.washingtonpost.com/local/70-cats-and-a-rabbit-rescued-in-animal-welfare-case-in-maryland/2018/07/23/bf3d1230-8e66-11e8-b769-e3fff17f0689_story.html?utm_term=.c39ccc8a545c&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            56
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Georgia",
+            "Bob Dole",
+            "Mesut",
+            "Lewis Hamilton",
+            "Sandy Hook",
+            "Little Free",
+            "GOP",
+            "Iowa",
+            "Make",
+            "Radio Atlantic",
+            "Glendon Crain",
+            "Facebook",
+            "Economic News",
+            "Picks Up Drake",
+            "Financial",
+            "New York City",
+            "German Star Player",
+            "Deaf Customers Republicans Choose Charlotte",
+            "Waitress",
+            "Turkish Roots",
+            "Brick Ovens",
+            "Air India",
+            "Crackdown",
+            "America",
+            "Crimson Hexagon",
+            "Amazon",
+            "Michael Avenatti",
+            "NBC Left Field",
+            "South Carolina",
+            "Ryan Lochte",
+            "World News",
+            "Jason Spencer",
+            "Chicago",
+            "IV Ohio",
+            "Stormy Daniels",
+            "Perfect",
+            "U.S.",
+            "German Grand Prix",
+            "Wall Street Journal",
+            "New Jersey",
+            "New Strategy",
+            "Sacha Baron Cohen",
+            "MAGA",
+            "Business",
+            "American News",
+            "Quit National Team",
+            "University",
+            "Vettel",
+            "Ikea",
+            "Washington",
+            "Who",
+            "Seattle",
+            "Indian",
+            "Boston",
+            "Don",
+            "Security Check Required Black",
+            "Come Should",
+            "Racism DOJ",
+            "HUD",
+            "Parkland"
+        ],
+        "peaks": [],
+        "theme": [
+            "man",
+            "says",
+            "New",
+            "World",
+            "Baron",
+            "business",
+            "Cohen"
+        ],
+        "timestamp": "2018-07-23 14:10:18.194870-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b55d18f421aa971919c6e87",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/1vR40SQAziseFn82qAMzq-pBxGs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZDDXBJD4M7TTBUU45LAUHRZQ4.png",
+                    "origin": "Washington Post",
+                    "title": "Sacha Baron Cohen target: Georgia lawmaker shows world how baring buttocks terrifies terrorists",
+                    "ts": 1532349611,
+                    "twitterid": 1021374415672659968,
+                    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/07/23/sacha-baron-cohen-target-georgia-lawmaker-shows-millions-how-baring-buttocks-terrifies-terrorists/?utm_term=.7c7f27dee174&tid=sm_tw"
+                },
+                {
+                    "_id": "5b55dfa5421aa971ed460f6e",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/23/sacha-baron-cohen-gets-georgia-lawmaker-to-shout-racial-slurs-drop-his-pants-on-new-show/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532348961381.jpg?ve=1",
+                    "origin": "Fox News Politics",
+                    "title": "Sacha Baron Cohen gets Georgia lawmaker to shout racial slurs, drop his pants on new show",
+                    "ts": 1532351177,
+                    "twitterid": 1021380984955179009,
+                    "url": "http://www.foxnews.com/politics/2018/07/23/sacha-baron-cohen-gets-georgia-lawmaker-to-shout-racial-slurs-drop-his-pants-on-new-show.html"
+                },
+                {
+                    "_id": "5b55dfa5421aa971ed460f60",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/23/jason_spencer_s2048x1261.jpg?8d5f9503ee5badf337093363ee86ab007f3a1feb",
+                    "origin": "The Washington Times",
+                    "title": "Jason Spencer strips, screams N-word on Sacha Baron Cohen\u2019s \u2018Who Is America?\u2019",
+                    "ts": 1532352092,
+                    "twitterid": 1021384822294564870,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/23/jason-spencer-strips-screams-n-word-on-sacha-baron/"
+                },
+                {
+                    "_id": "5b5617f2421aa978e8e6444c",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/23/0/0/694940094001_5812779379001_5812778568001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Amazing Amazon sighting: 'World's loneliest man' spotted in remarkable video footage",
+                    "ts": 1532368493,
+                    "twitterid": 1021453611111460865,
+                    "url": "http://www.foxnews.com/science/2018/07/23/amazing-amazon-sighting-worlds-loneliest-man-spotted-in-remarkable-video-footage.html"
+                },
+                {
+                    "_id": "5b55fbdc421aa97306365cbe",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/presto/2018/07/23/USAT/6eae94d5-9d1c-421a-9e99-a05fc7c039c8-WHOISAMERICA_102_Spencer_6.jpg?crop=1919,1079,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Sacha Baron Cohen\u2019s \u2018Who Is America?' shows GOP lawmaker stripping, screaming racist slurs",
+                    "ts": 1532358184,
+                    "twitterid": 1021410372497133568,
+                    "url": "https://www.usatoday.com/story/life/entertainthis/2018/07/23/rep-jason-spencer-strips-screams-racist-slurs-who-america/817708002/"
+                },
+                {
+                    "_id": "5b5560fc421aa96c8620427f",
+                    "date_month": "2018-07",
+                    "image": "https://ore.wsj.net/fp/assets/images/ico/WSJ_facebook.png",
+                    "origin": "The Wall Street Journal",
+                    "title": "The Wall Street Journal & Breaking News, Business, Financial and Economic News, World News and Video",
+                    "ts": 1532320211,
+                    "twitterid": 1021251103499980800,
+                    "url": "https://www.wsj.com/"
+                },
+                {
+                    "_id": "5b5552f2421aa96bc685b9e1",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/gourmonade_072218.png",
+                    "origin": "The Hill",
+                    "title": "Police called on black man as he was trying to open his own business",
+                    "ts": 1532315467,
+                    "twitterid": 1021231204589326337,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/398297-police-called-on-black-man-trying-to-open-his-own-business"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6e91",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/aNXbxUGBmDRhw3t3RQgQ5B470Kc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B6FT4TJLXMZITBOZ2UGFKEWVGU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Mesut \u00d6zil: World Cup player says he is \u2018a German when we win\u2019 but \u2018an immigrant when we lose,\u2019 quits national team",
+                    "ts": 1532349163,
+                    "twitterid": 1021372536511135749,
+                    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/07/23/quitting-national-team-world-cup-player-says-he-is-a-german-when-we-win-but-an-immigrant-when-we-lose/?utm_term=.fb4de71f1597&tid=sm_tw"
+                },
+                {
+                    "_id": "5b55b55e421aa970052b43f6",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/Hp9_CbdsisATDZUzIw72KiAzGl8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6MT3YBZGE5YVG4D2G3HYKSWKM.jpg",
+                    "origin": "Washington Post",
+                    "title": "A new father was fatally shot after confronting a man who hurled the n-word at his friend, police say",
+                    "ts": 1532342717,
+                    "twitterid": 1021345497896964101,
+                    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/07/23/a-new-father-was-fatally-shot-after-confronting-a-man-who-hurled-the-n-word-at-his-friend-police-say/?utm_term=.8d8588bf7c7f&tid=sm_tw"
+                },
+                {
+                    "_id": "5b558b2e421aa96eac501c9e",
+                    "date_month": "2018-07",
+                    "image": "https://dynaimage.cdn.cnn.com/cnn/w_768,h_1024,c_scale/https%3A%2F%2Fdynaimage.cdn.cnn.com%2Fcnn%2Fx_785%2Cy_0%2Cw_2011%2Ch_2682%2Cc_crop%2Fhttps%253A%252F%252Fstamp.static.cnn.io%252F5b4e33904db3d70020c01bd5%252F180618171149-15-relaxing-places---byron-bay.jpg",
+                    "origin": "CNN",
+                    "title": "16 of the world's most relaxing places",
+                    "ts": 1532331725,
+                    "twitterid": 1021299395097251840,
+                    "url": "https://www.cnn.com/ampstories/travel/16-of-the-worlds-most-relaxing-places?utm_term=image&utm_source=twCNN&utm_medium=social&utm_content=2018-07-23T07%3A42%3A04"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            31
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Jason Bourne",
+            "Trey Gowdy",
+            "Trump Campaign",
+            "Sarah Sanders",
+            "Russia",
+            "FBI",
+            "Donald Trump",
+            "GOP",
+            "Mueller",
+            "Hunt",
+            "Carter Page",
+            "Inspector Gadget",
+            "FISA",
+            "Russian",
+            "House Intel",
+            "Friends",
+            "Fitton Argues"
+        ],
+        "peaks": [],
+        "theme": [
+            "Page",
+            "Carter",
+            "Trump",
+            "surveillance",
+            "documents",
+            "FISA",
+            "Mueller"
+        ],
+        "timestamp": "2018-07-23 14:10:18.868441-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b551ab4421aa9677fa4c058",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180722091320-carter-page-sotu-7-22-2018-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Read the Carter Page surveillance warrant documents",
+                    "ts": 1532300468,
+                    "twitterid": 1021168294580178945,
+                    "url": "https://www.cnn.com/2018/07/22/politics/read-carter-page-fisa-documents/index.html?utm_content=2018-07-22T23%3A01%3A07&utm_medium=social&utm_source=twCNNp&utm_term=image"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6e9d",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/SaKUlXWi5GQTJV2ZhivMtt3gQLk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4AV4LUMLEI6RHKZ3TGCYDFLZ4.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump calls for end of Mueller probe, saying it\u2019s \u2018discredited\u2019 by Carter Page surveillance",
+                    "ts": 1532348347,
+                    "twitterid": 1021369113392963586,
+                    "url": "https://www.washingtonpost.com/politics/trump-calls-for-end-of-mueller-probe-saying-its-discredited-by-carter-page-surveillance/2018/07/23/c166c2a6-8e64-11e8-b769-e3fff17f0689_story.html?utm_term=.cbcb1f506f97&tid=sm_tw"
+                },
+                {
+                    "_id": "5b54d462421aa964e352bbfb",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pagecarter11062017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Release of Carter Page surveillance documents reignites debate",
+                    "ts": 1532284142,
+                    "twitterid": 1021099820407246848,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/398257-release-of-carter-page-surveillance-documents-reignite-debate"
+                },
+                {
+                    "_id": "5b550c99421aa966ecfb51ac",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/d8/c7/7bc366084144ba04f73c1ab2c49b/171212-carter-page.jpg",
+                    "origin": "POLITICO",
+                    "title": "Justice Department releases Carter Page surveillance documents",
+                    "ts": 1532296814,
+                    "twitterid": 1021152967997689856,
+                    "url": "https://www.politico.com/story/2018/07/21/carter-page-surveillance-documents-trump-fbi-justice-department-735554"
+                },
+                {
+                    "_id": "5b55c379421aa970d926581d",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19092/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Carter Page Surveillance Documents Set Off New Skirmish",
+                    "ts": 1532346304,
+                    "twitterid": 1021360546560561152,
+                    "url": "https://www.wsj.com/articles/carter-page-surveillance-documents-set-off-new-skirmish-1532276652?mod=e2tw"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6e8c",
+                    "date_month": "2018-07",
+                    "image": "https://amp.businessinsider.com/images/5b55c8853b49fc2e008b459e-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Trump quotes a 'Fox & Friends' guest to mischaracterize what's in the Carter Page surveillance docs",
+                    "ts": 1532349591,
+                    "twitterid": 1021374332004700160,
+                    "url": "http://www.businessinsider.com/ap-the-latest-trump-mischaracterizes-fbi-docs-2018-7"
+                },
+                {
+                    "_id": "5b5528c3421aa96a5e90a443",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/22/0/0/694940094001_5812399314001_5812396611001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Exclusive: House Intel GOP asked Trump to declassify key parts of Carter Page FISA application",
+                    "ts": 1532305620,
+                    "twitterid": 1021189903558881281,
+                    "url": "http://www.foxnews.com/politics/2018/07/22/exclusive-house-intel-gop-asked-trump-to-declassify-key-parts-carter-page-fisa-application.html"
+                },
+                {
+                    "_id": "5b54f087421aa965eec2ca3a",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pagecarter11032017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Carter Page downplays information in surveillance applications as 'spin'",
+                    "ts": 1532293023,
+                    "twitterid": 1021137067470753792,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/398233-carter-page-downplays-surveillance-warrants-against-him-as-spin"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6e94",
+                    "date_month": "2018-07",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/carterpage_0.jpg?itok=frhIlr_k",
+                    "origin": "Fox News",
+                    "title": "'All About Getting at Trump Campaign': Fitton Argues FBI Misled FISA Court on Carter Page Warrant",
+                    "ts": 1532349003,
+                    "twitterid": 1021371865363820544,
+                    "url": "http://insider.foxnews.com/2018/07/23/tom-fitton-carter-page-fisa-warrant-documents-fbi-doj-misled-court-target-trump"
+                },
+                {
+                    "_id": "5b5536cd421aa96ac20f8c3d",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_joy_fisa_180722_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "FISA warrant application on Carter Page disproves GOP narrative",
+                    "ts": 1532311207,
+                    "twitterid": 1021213337395318785,
+                    "url": "http://www.msnbc.com/am-joy/watch/fisa-warrant-application-on-carter-page-disproves-gop-narrative-1282947139765?cid=sm_npd_ms_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            110
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Scotland",
+            "NYT",
+            "GOP",
+            "Hill",
+            "Trump Waters",
+            "Putin",
+            "Moscow",
+            "Juan Williams",
+            "Former",
+            "North Korea Rand Paul",
+            "Chicken",
+            "Michael Avenatti",
+            "Cohen",
+            "Europe",
+            "IRAN",
+            "Thanks",
+            "Graham",
+            "Robert Mueller",
+            "John Brennan",
+            "Berkeley",
+            "North Korea",
+            "Former Obama",
+            "Trump Holds",
+            "Watergate",
+            "Aides Diverge Further",
+            "Brennan Trump",
+            "Helsinki Summit University",
+            "CIA",
+            "GIF",
+            "Michael Cohen",
+            "Trump Digs",
+            "Tale",
+            "New York City",
+            "Russian",
+            "DONALD TRUMP",
+            "Kremlin",
+            "Biden",
+            "Trump Cohen",
+            "San Francisco Spicer",
+            "Will Sanctions Follow Russia Indictments",
+            "U.S.",
+            "Vladimir Putin",
+            "Queen Elizabeth",
+            "Donald Trump",
+            "Fox News",
+            "Against Criticism",
+            "Rubio",
+            "Pentagon",
+            "Spicer",
+            "Russians",
+            "Clinton",
+            "Kirstjen Nielsen",
+            "David Hogg",
+            "Helsinki Kimberly Guilfoyle",
+            "Russia",
+            "Jon Huntsman",
+            "OZY Fest",
+            "Mexico",
+            "Philly",
+            "Macron",
+            "Republican",
+            "Brian Fitzpatrick",
+            "Virginia",
+            "Washington Post",
+            "Putin Rock",
+            "US",
+            "State Level",
+            "Washington John Kerry",
+            "PAC Gowdy",
+            "Trump Can",
+            "Whoopi Goldberg",
+            "Resistance How",
+            "Brennan",
+            "Manafort",
+            "Deal",
+            "Maxine Waters",
+            "Kimberly Guilfoyle",
+            "Letter",
+            "Putin Kerry",
+            "Helsinki",
+            "Trump",
+            "Richard Nixon",
+            "DCCC",
+            "John Kerry",
+            "Russia Inside Trump",
+            "Rand Paul",
+            "Friend",
+            "Truth Pelosi",
+            "Amazon Rand Paul",
+            "AP",
+            "Sean Spicer Huntsman"
+        ],
+        "peaks": [],
+        "theme": [
+            "TRUMP",
+            "Russia",
+            "Putin",
+            "says",
+            "Poll",
+            "president",
+            "call"
+        ],
+        "timestamp": "2018-07-23 14:10:20.856685-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5617f2421aa978e8e64479",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpputin22_071618twitter.jpg",
+                    "origin": "The Hill",
+                    "title": "Poll: Most Americans back Trump's call for follow-up summit with Putin",
+                    "ts": 1532365625,
+                    "twitterid": 1021441581117771776,
+                    "url": "http://thehill.com/hilltv/what-americas-thinking/398370-majority-of-americans-support-follow-up-summit-with-putin-poll"
+                },
+                {
+                    "_id": "5b54e276421aa9656cd68209",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/22/john-kerry-says-trumps-slam-on-biden-unbecoming-president/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532284950534.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "John Kerry says Trump's slam on Biden 'unbecoming of a president'",
+                    "ts": 1532288372,
+                    "twitterid": 1021117561365200896,
+                    "url": "http://www.foxnews.com/politics/2018/07/22/john-kerry-says-trumps-slam-on-biden-unbecoming-president.html"
+                },
+                {
+                    "_id": "5b54e276421aa9656cd681fb",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/huntsmanjon_120316getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump\u2019s Russia ambassador says he won\u2019t resign",
+                    "ts": 1532289186,
+                    "twitterid": 1021120973486153728,
+                    "url": "http://thehill.com/policy/international/russia/398218-trumps-russia-ambassador-says-he-wont-resign?__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b550c99421aa966ecfb5199",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_071718getty_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Poll: Majority of voters disapprove of Trump on Russia, border policy",
+                    "ts": 1532298786,
+                    "twitterid": 1021161239047811072,
+                    "url": "http://thehill.com/homenews/administration/398280-poll-most-voters-disapprove-of-trumps-handling-of-russia-borders"
+                },
+                {
+                    "_id": "5b54fe9b421aa966487c790a",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump_putin_helsinki_071718getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Poll: Half of Americans disapprove of Trump\u2019s performance during Putin summit",
+                    "ts": 1532296625,
+                    "twitterid": 1021152176348033030,
+                    "url": "http://thehill.com/homenews/administration/398226-poll-half-disapprove-of-trumps-performance-during-putin-summit"
+                },
+                {
+                    "_id": "5b5544df421aa96b5b625990",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/20/0/0/694940094001_5811908835001_5811912433001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump again says Russia controversy is 'all a big hoax'",
+                    "ts": 1532311827,
+                    "twitterid": 1021215938027442177,
+                    "url": "http://www.foxnews.com/politics/2018/07/22/trump-again-says-russia-controversy-is-all-big-hoax.html"
+                },
+                {
+                    "_id": "5b556f09421aa96d04918a0d",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/22/4a58fc0b-0790-4857-a573-dbd336078768/thumbnail/1200x630/b1de7eab3b79291c2e91ac274b87cb36/screen-shot-2018-07-22-at-10-40-54-am.png",
+                    "origin": "CBS News",
+                    "title": "Sen. Lindsey Graham says Trump's tough talk \"not working\" on Putin",
+                    "ts": 1532323985,
+                    "twitterid": 1021266930110525441,
+                    "url": "https://www.cbsnews.com/news/lindsey-graham-urges-trump-to-bolster-election-security-impose-new-sanctions-on-russia/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b55688e04d3011be3af62dd&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b55fbdc421aa97306365cc2",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/22/Trump_58553.jpg-404b2_s2048x1345.jpg?5c082fd5663b566c46d1b5510b2b11056cb14ca0",
+                    "origin": "The Washington Times",
+                    "title": "Trump hits new high in poll, though Russia issues linger",
+                    "ts": 1532358059,
+                    "twitterid": 1021409846938292227,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/23/trump-hits-new-high-poll-though-russia-issues-ling/"
+                },
+                {
+                    "_id": "5b54fe9b421aa966487c7928",
+                    "date_month": "2018-07",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_29/2505596/180722-donald-trump-se-439p_7f7210457409beaadd0d8c7f74efae47.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "NBC/WSJ poll: Public gives Trump thumbs down on Russia, thumbs up on economy",
+                    "ts": 1532293568,
+                    "twitterid": 1021139352271941640,
+                    "url": "https://www.nbcnews.com/politics/first-read/nbc-wsj-poll-public-gives-trump-thumbs-down-russia-thumbs-n893266?cid=par-twitter-feed_20180722"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6e8b",
+                    "date_month": "2018-07",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_29/2505596/180722-donald-trump-se-439p_7f7210457409beaadd0d8c7f74efae47.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "NBC/WSJ poll: Public gives Trump thumbs-down on Russia, thumbs-up on economy",
+                    "ts": 1532349606,
+                    "twitterid": 1021374393870700544,
+                    "url": "https://www.nbcnews.com/politics/first-read/nbc-wsj-poll-public-gives-trump-thumbs-down-russia-thumbs-n893266?cid=sm_npd_ms_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            36
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "U.S. Trump",
+            "Toronto",
+            "EVER",
+            "Endangered Species",
+            "Iran",
+            "Russia",
+            "House Foreign Affairs Dems",
+            "UNITED STATES",
+            "U.S.",
+            "Pompeo",
+            "Rouhani Trump Threatens Iran",
+            "Rouhani",
+            "United States",
+            "Jim Himes",
+            "Donald Trump",
+            "Iran Trump",
+            "EVER THREATEN",
+            "Trump",
+            "Rouhani Trump",
+            "Iranian Americans",
+            "Iran Responds",
+            "Iranian",
+            "Warning Against",
+            "Trump Warns Iran",
+            "US",
+            "Reckless Iran Tweet Trump To Iran",
+            "ALL",
+            "Trump Tweet"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Iran",
+            "threatening",
+            "Warning",
+            "Rouhani",
+            "tweet",
+            "president"
+        ],
+        "timestamp": "2018-07-23 14:10:21.400032-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b557d19421aa96e55c81e19",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/05/08/50d62982-5b90-4646-b8b0-ca0ca591317c/thumbnail/1200x630/57b2325c47480229f23fbfcb4ca9e441/cbsn-fusion-iranian-president-slams-trumps-decision-to-exit-nuclear-deal-thumbnail-1564084-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump warns Iran's president in all-caps tweet to stop threatening U.S.",
+                    "ts": 1532328008,
+                    "twitterid": 1021283806584729600,
+                    "url": "https://www.cbsnews.com/news/trump-warns-iran-all-caps-tweet-stop-threatening-us/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b55784404d301570b560a11&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b556f09421aa96d04918a0c",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/QKbpJcxMacfTYWAdmTu1dYlLPXQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EAKZI3EOEQI6RN3J4P77C7YGRE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump tweets late-night warning to Iran\u2019s Rouhani",
+                    "ts": 1532324201,
+                    "twitterid": 1021267837082644480,
+                    "url": "https://www.washingtonpost.com/world/national-security/pompeo-likens-irans-leaders-to-the-mafia/2018/07/22/e4f559a8-3f06-439c-8b83-a23278956ebe_story.html"
+                },
+                {
+                    "_id": "5b5609f0421aa975facf18e7",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19201/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Iran Responds to Trump Tweet With Warning Against Military Action",
+                    "ts": 1532364472,
+                    "twitterid": 1021436747048259584,
+                    "url": "https://www.wsj.com/articles/iran-responds-to-trump-tweet-with-warning-against-military-action-1532362011?mod=e2tw"
+                },
+                {
+                    "_id": "5b5560fc421aa96c86204279",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b555afd/turbine/ct-trump-iranian-president-threats-20180722",
+                    "origin": "Chicago Tribune",
+                    "title": "In all-caps tweet, Trump warns Iranian President Rouhani not to threaten U.S.",
+                    "ts": 1532320812,
+                    "twitterid": 1021253623953739777,
+                    "url": "http://www.chicagotribune.com/news/nationworld/ct-trump-iranian-president-threats-20180722-story.html"
+                },
+                {
+                    "_id": "5b55b55e421aa970052b43fc",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/_S4ednmkDyH_QnEp1NnZspjBH_M=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OLRA4EEOHQI6RN3J4P77C7YGRE.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018NEVER, EVER THREATEN THE UNITED STATES AGAIN,\u2019 Trump tweets in warning to Iran\u2019s Rouhani",
+                    "ts": 1532342088,
+                    "twitterid": 1021342863521730560,
+                    "url": "https://www.washingtonpost.com/world/national-security/pompeo-likens-irans-leaders-to-the-mafia/2018/07/22/e4f559a8-3f06-439c-8b83-a23278956ebe_story.html?utm_term=.6cec2570bd4d&tid=sm_tw"
+                },
+                {
+                    "_id": "5b55dfa5421aa971ed460f69",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/02/25/AP_17100689216328_s2048x1405.jpg?222969e02b964b9f02b80fae59a124ca42a2a830",
+                    "origin": "The Washington Times",
+                    "title": "Jim Himes: Donald Trump threatening Iran for political points",
+                    "ts": 1532351531,
+                    "twitterid": 1021382468451086338,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/23/jim-himes-donald-trump-threatening-iran-for-politi/"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6e96",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/RTX6CEBD/facebook.jpg?1532345655",
+                    "origin": "The Atlantic",
+                    "title": "Donald Trump\u2019s Reckless Iran Tweet",
+                    "ts": 1532348907,
+                    "twitterid": 1021371463348178946,
+                    "url": "https://www.theatlantic.com/politics/archive/2018/07/donald-trumps-reckless-iran-tweet/565838/?utm_term=2018-07-23T12%3A01%3A13&utm_campaign=the-atlantic&utm_source=twitter&utm_medium=social&utm_content=edit-promo"
+                },
+                {
+                    "_id": "5b556f09421aa96d04918a19",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19153/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Trump Threatens Iran in Late-Night Tweet",
+                    "ts": 1532322904,
+                    "twitterid": 1021262396394999809,
+                    "url": "https://www.wsj.com/articles/trump-threatens-iran-in-late-night-tweet-1532321498?mod=e2tw"
+                },
+                {
+                    "_id": "5b5560fc421aa96c8620427d",
+                    "date_month": "2018-07",
+                    "image": "https://c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/images/logo-bg.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump to Iran\u2019s president: \u2018NEVER, EVER THREATEN\u2019 America",
+                    "ts": 1532320361,
+                    "twitterid": 1021251730682662912,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/07/22/trump-iran-president-never-ever-threaten-america/cFQeBhDoI5Zp61qplD1D0J/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b55c379421aa970d9265816",
+                    "date_month": "2018-07",
+                    "image": "http://www.latimes.com/resizer/8_j4M_fLptfI9P06LBJrn2mYO4U=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/POMCNWHTFJGZVNIRLJEPOUCLMA.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Trump targets Iran in blistering tweet, suddenly escalating tensions",
+                    "ts": 1532346843,
+                    "twitterid": 1021362807466471424,
+                    "url": "https://www.latimes.com/nation/la-na-pol-us-trump-iran-20180723-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            42
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Suspect",
+            "Los Angeles Ends",
+            "Toronto Mass",
+            "Toronto",
+            "Restaurant Shooting Gunman Kills One Person",
+            "Shooter",
+            "Kent",
+            "Brick",
+            "Toronto Sacramento",
+            "Chicago",
+            "Trader Joe",
+            "Mass",
+            "Nevada",
+            "Nine Injured",
+            "Greektown",
+            "Virginia",
+            "Washington Nine",
+            "Nevada Mormon",
+            "BART",
+            "Gunman",
+            "Hostages Freed",
+            "Los Angeles Trader Joe",
+            "Roanoke"
+        ],
+        "peaks": [],
+        "theme": [
+            "Toronto",
+            "shooting",
+            "dead",
+            "gunman",
+            "killed",
+            "firing",
+            "mass"
+        ],
+        "timestamp": "2018-07-23 14:10:21.865814-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b55edd0421aa972613aba30",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/23/4c142da5-aa78-4b1f-bee2-49dac6950eb9/thumbnail/1200x630/49651796c221bab1fe00c0525a1990d4/toronto-gettyimages-1004135624.jpg",
+                    "origin": "CBS News",
+                    "title": "2 killed, 12 wounded in Toronto mass shooting; gunman dead",
+                    "ts": 1532355287,
+                    "twitterid": 1021398222860967936,
+                    "url": "https://www.cbsnews.com/news/toronto-shooting-danforth-logan-broadview-greektown-canada-live-updates-today-2018-07-23/"
+                },
+                {
+                    "_id": "5b559939421aa96f16e8b5f8",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/07/23/mass-shooting-in-toronto-9-shot-shooter-dead/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532320206471.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Mass shooting in Toronto; 1 killed and about 14 shot; gunman dead",
+                    "ts": 1532333328,
+                    "twitterid": 1021306121427054592,
+                    "url": "http://www.foxnews.com/world/2018/07/23/mass-shooting-in-toronto-9-shot-shooter-dead.html"
+                },
+                {
+                    "_id": "5b55c379421aa970d9265825",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/Pe3eZ6rPxJl1SHUXM7uSJQFn-xc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3WEW3AKMNI6NBE26NICQ34JB6Y.jpg",
+                    "origin": "Washington Post",
+                    "title": "Toronto mass shooting: 14 hit, 1 dead as gunman opens fire. Shooter killed.",
+                    "ts": 1532345745,
+                    "twitterid": 1021358199772000256,
+                    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/07/23/toronto-mass-shooting-9-hit-as-gunman-opened-fire-sunday-night-shooter-dead-police-say/?utm_term=.8a5bc278b64f&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5560fc421aa96c8620427a",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/23/9107ab8e-ec0e-4991-98f0-1cb2a2424d6b/thumbnail/1200x630/3ab1bd4c30d3718eef7ce531435934d7/2018-07-23t040241z-668242402-rc19b636e2c0-rtrmadp-3-canada-shooting.jpg",
+                    "origin": "CBS News",
+                    "title": "Mass shooting in Toronto leaves 1 dead, 13 wounded, gunman dead",
+                    "ts": 1532320686,
+                    "twitterid": 1021253096809402368,
+                    "url": "https://www.cbsnews.com/news/mass-shooting-toronto-greektown-9-wounded-gunman-dead/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b555bab04d3016d14d40670&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b556f09421aa96d04918a1d",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/Pe3eZ6rPxJl1SHUXM7uSJQFn-xc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3WEW3AKMNI6NBE26NICQ34JB6Y.jpg",
+                    "origin": "Washington Post",
+                    "title": "Toronto mass shooting: 14 hit, 1 dead, as gunman opens fire Sunday night. Shooter killed.",
+                    "ts": 1532322265,
+                    "twitterid": 1021259718642360321,
+                    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/07/23/toronto-mass-shooting-9-hit-as-gunman-opened-fire-sunday-night-shooter-dead-police-say/?utm_term=.cbb8ddfc2e44&tid=sm_tw"
+                },
+                {
+                    "_id": "5b55c379421aa970d9265824",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/dam/fox-news/images/2018/07/23/toronto2.jpg.img.png/0/0/1532344397922.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "Toronto shooting rampage leaves 2 dead, 12 hurt; gunman dead after firing into restaurants",
+                    "ts": 1532345945,
+                    "twitterid": 1021359039190532096,
+                    "url": "http://www.foxnews.com/world/2018/07/23/mass-shooting-in-toronto-9-shot-shooter-dead.html"
+                },
+                {
+                    "_id": "5b5609f0421aa975facf18ec",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/dam/fox-news/images/2018/07/23/toronto2.jpg.img.png/0/0/1532344398241.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "Toronto shooting rampage leaves 2 dead, 13 hurt; gunman dead after firing into restaurants",
+                    "ts": 1532364020,
+                    "twitterid": 1021434850123964416,
+                    "url": "http://www.foxnews.com/world/2018/07/23/toronto-shooting-rampage-leaves-2-dead-13-hurt-gunman-dead-after-firing-into-restaurants.html"
+                },
+                {
+                    "_id": "5b5560fc421aa96c8620427e",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/07/23/mass-shooting-in-toronto-9-shot-shooter-dead/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532320206471.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Mass shooting in Toronto; 9 shot, shooter dead",
+                    "ts": 1532320246,
+                    "twitterid": 1021251248442552320,
+                    "url": "http://www.foxnews.com/world/2018/07/23/mass-shooting-in-toronto-9-shot-shooter-dead.html"
+                },
+                {
+                    "_id": "5b55edd0421aa972613aba0c",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/23/gettyimages-1004133692_wide-a48d6901200b80cf8a27029beee61ad6decb949f.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Police: 2 Victims Are Dead, As Is Gunman, In Toronto Shooting",
+                    "ts": 1532356800,
+                    "twitterid": 1021404567450267648,
+                    "url": "https://www.npr.org/2018/07/23/631419139/toronto-police-1-woman-is-dead-as-is-gunman-in-restaurant-shooting?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180723"
+                },
+                {
+                    "_id": "5b557d19421aa96e55c81e15",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/23/gettyimages-1004133692_wide-dcc8d071c214aae923a2d1890167c7264d5ff132.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Toronto Police: 1 Woman Is Dead, As Is Gunman, In Restaurant Shooting",
+                    "ts": 1532328666,
+                    "twitterid": 1021286565975240704,
+                    "url": "https://www.npr.org/2018/07/23/631419139/toronto-police-1-woman-is-dead-as-is-gunman-in-restaurant-shooting?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            28
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Lake Villa Deadly",
+            "California",
+            "Duck Boat",
+            "Lake Villa",
+            "Hammond",
+            "Alleged Trader Joe",
+            "England",
+            "British",
+            "Coast Guard",
+            "Branson Sunken",
+            "Branson",
+            "Missouri",
+            "Trader Joe",
+            "Boy",
+            "Florida",
+            "Normandy Beach",
+            "Fatal Missouri"
+        ],
+        "peaks": [],
+        "theme": [
+            "boat",
+            "Duck",
+            "Missouri",
+            "accident",
+            "raised",
+            "Acid",
+            "attack"
+        ],
+        "timestamp": "2018-07-23 14:10:22.303532-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b55dfa5421aa971ed460f72",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/23/BostonGlobe.com/National/Images/6a32c97691cf4a66a14ee770ed898784-e6910cfb55a24625affc09fdf6b9f7dd-4.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Sunken duck boat to be raised after deadly Missouri accident",
+                    "ts": 1532351003,
+                    "twitterid": 1021380254517137409,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/07/23/sunken-duck-boat-raised-after-deadly-missouri-accident/ayF9FBnUhazaZhYsXBaTzK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b5617f2421aa978e8e64470",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b56124b/turbine/ct-missouri-duck-boat-20180723",
+                    "origin": "Chicago Tribune",
+                    "title": "Duck boat that sank in deadly accident is raised from Missouri lake",
+                    "ts": 1532365993,
+                    "twitterid": 1021443124823044096,
+                    "url": "http://www.chicagotribune.com/news/nationworld/ct-missouri-duck-boat-20180723-story.html"
+                },
+                {
+                    "_id": "5b55b55e421aa970052b4412",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/21/a8f7555a-99f1-49ea-92fb-22b492f530ea/thumbnail/1200x630g2/c60697dc323f0e118db933260b8ef274/local.jpg",
+                    "origin": "CBS News",
+                    "title": "Locals rushed to help tourists in Branson, Missouri, duck boat accident",
+                    "ts": 1532340184,
+                    "twitterid": 1021334873674526720,
+                    "url": "https://www.cbsnews.com/news/duck-boat-accident-branson-missouri-locals-rushed-to-help/"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6e81",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19175/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Coast Guard Preparing to Raise Duck Boat in Fatal Missouri Accident",
+                    "ts": 1532349909,
+                    "twitterid": 1021375664015003649,
+                    "url": "https://www.wsj.com/articles/coast-guard-preparing-to-raise-duck-boat-in-fatal-missouri-accident-1532348915?mod=e2tw"
+                },
+                {
+                    "_id": "5b55fbdc421aa97306365cb0",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/dam/fox-news/images/2018/07/23/duck-boat-3.png.img.png/0/0/1532359166152.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "Sunken duck boat raised from Missouri lake days after 17 people killed",
+                    "ts": 1532358855,
+                    "twitterid": 1021413187781046273,
+                    "url": "http://www.foxnews.com/us/2018/07/23/sunken-duck-boat-raised-from-missouri-lake-days-after-17-people-killed.html"
+                },
+                {
+                    "_id": "5b54f087421aa965eec2ca44",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Entertainment/WireAP_dbf250f492dc4a50bcb1c43231b1c640_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "A look at the 17 people killed in the Missouri boat accident",
+                    "ts": 1532292006,
+                    "twitterid": 1021132802778124290,
+                    "url": "https://abcnews.go.com/US/wireStory/17-people-killed-missouri-boat-accident-56745537?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b55a750421aa96f7e538254",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180723100957-01-worcester-uk-acid-attack-0722-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Three more arrests over suspected acid attack on toddler",
+                    "ts": 1532339994,
+                    "twitterid": 1021334078883336193,
+                    "url": "https://www.cnn.com/2018/07/23/uk/acid-attack-toddler-intl/index.html?utm_content=2018-07-23T09%3A59%3A54&utm_medium=social&utm_term=link&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b54e276421aa9656cd68211",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/dam/fox-news/images/2018/07/22/Worcester_attack.jpg.img.png/0/0/1532285746167.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "Boy, 3, seriously hurt in acid attack at store in England, police say",
+                    "ts": 1532287670,
+                    "twitterid": 1021114615009349632,
+                    "url": "http://www.foxnews.com/world/2018/07/22/boy-3-seriously-hurt-in-acid-attack-at-store-in-england-police-say.html"
+                },
+                {
+                    "_id": "5b55edd0421aa972613ab9f5",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/09/18/0/0/694940094001_5579827701001_5579781238001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Acid attack on toddler shows corrosive liquid is new 'weapon of choice'",
+                    "ts": 1532357810,
+                    "twitterid": 1021408804142018561,
+                    "url": "http://www.foxnews.com/world/2018/07/23/acid-attack-on-toddler-shows-corrosive-liquid-is-new-weapon-choice.html"
+                },
+                {
+                    "_id": "5b556f09421aa96d04918a09",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19110/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Federal Officials Probing Duck Boat Sinking Focus on Weather Warnings",
+                    "ts": 1532324702,
+                    "twitterid": 1021269940593209344,
+                    "url": "https://www.wsj.com/articles/federal-officials-probing-tour-boat-sinking-focus-on-weather-warnings-1532280708?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            105
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "GOP",
+            "Paralympic",
+            "CEO Change U.S.",
+            "Francesco Molinari",
+            "FISA",
+            "Seaport",
+            "Chicago",
+            "Asia",
+            "New York Gov",
+            "NHRA Funny Car",
+            "Editorial Staff",
+            "BPD",
+            "North Korea",
+            "Ohio",
+            "Rallies",
+            "Nick Cafardo",
+            "Broadway Symptoms",
+            "Red Sox",
+            "Rainy",
+            "Ole Miss",
+            "Husband",
+            "Sudden",
+            "Cash Back",
+            "Children",
+            "ABC News",
+            "CDC",
+            "Sean Spicer",
+            "Austin",
+            "U.S.",
+            "Donald Trump",
+            "Super Fans Air Force",
+            "Chris Sale",
+            "Shadow Cats All",
+            "Nevada Florida",
+            "Small",
+            "House At Comic-Con",
+            "Noble Too",
+            "Digital World Storms",
+            "Boston",
+            "Neapolitan Ice Cream Francesco Molinari",
+            "Bond Liquidity Rattles Markets",
+            "Retire Top Fiat Chrysler",
+            "John Force",
+            "FBI",
+            "Andrew Cuomo",
+            "Tokyo Luxury",
+            "Vampire Slayer",
+            "Fail",
+            "Minnesota Vikings",
+            "British Open",
+            "Thai Boys Share",
+            "Hemingway",
+            "Ocean City",
+            "Japan",
+            "New York Daily News",
+            "Bossie",
+            "Sergio Marchionne",
+            "Gas Prices New York Daily News",
+            "Waters",
+            "Ocean City Tiger Woods",
+            "Help",
+            "Tiger Woods",
+            "Exit Jolts Ferrari Silly",
+            "Lukewarm Lemonade Air Force",
+            "Maryland Raising",
+            "East Coast First",
+            "Paula Deen",
+            "Others Score",
+            "Tesla Asks Suppliers",
+            "Miami Beach",
+            "Marine Corps",
+            "Scaramucci",
+            "Nicole Maines",
+            "Evans",
+            "NY Daily News",
+            "TSA",
+            "CW",
+            "MGM",
+            "Maryland",
+            "Adidas",
+            "Rugby",
+            "Almanac",
+            "Tony Sparano",
+            "Francesco Molinari Goes",
+            "Mormon",
+            "Wake",
+            "United Airlines",
+            "White House",
+            "Black Ferns",
+            "William Gross",
+            "MeToo Women"
+        ],
+        "peaks": [],
+        "theme": [
+            "News",
+            "Beach",
+            "news",
+            "plane",
+            "record",
+            "Trump",
+            "wins"
+        ],
+        "timestamp": "2018-07-23 14:10:23.264539-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b54fe9b421aa966487c791e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump-golf-bedminster-club-getty.png",
+                    "origin": "The Hill",
+                    "title": "Small plane intercepted near Trump\u2019s NJ golf club",
+                    "ts": 1532294224,
+                    "twitterid": 1021142107002744833,
+                    "url": "http://thehill.com/homenews/administration/398259-small-plane-intercepted-near-trumps-nj-golf-club-report"
+                },
+                {
+                    "_id": "5b54e276421aa9656cd68213",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump-golf-bedminster-club-getty.png",
+                    "origin": "The Hill",
+                    "title": "Small plane intercepted near Trump\u2019s NJ golf club: report",
+                    "ts": 1532287263,
+                    "twitterid": 1021112910687490049,
+                    "url": "http://thehill.com/homenews/administration/398259-small-plane-intercepted-near-trumps-nj-golf-club-report"
+                },
+                {
+                    "_id": "5b54fe9b421aa966487c792e",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/5a/8f/e55e8430476593078ced1a1f7956/180722-trump-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "White House: Plane intercepted after entering 'restricted' Trump golf club airspace",
+                    "ts": 1532293214,
+                    "twitterid": 1021137868666949632,
+                    "url": "https://www.politico.com/story/2018/07/22/trump-restricted-airspace-new-jersey-735615"
+                },
+                {
+                    "_id": "5b550c99421aa966ecfb51a4",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Washington Post",
+                    "title": "Air Force fighter jet intercepts small plane near Trump\u2019s N.J. golf course",
+                    "ts": 1532297413,
+                    "twitterid": 1021155480457089025,
+                    "url": "https://www.washingtonpost.com/politics/air-force-fighter-jet-intercepts-small-plane-near-trumps-nj-golf-course/2018/07/22/b3f7b022-8df5-11e8-8322-b5482bf5e0f5_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b55fbdc421aa97306365caf",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/23/a54e9a01-647c-44ca-b80c-4091f69b3c46/thumbnail/1200x630/43b2d1987d30699004fb7442b587c259/us-air-force-f-16-609872884.jpg",
+                    "origin": "CBS News",
+                    "title": "U.S. Air Force fighter jet intercepts plane near Trump golf course",
+                    "ts": 1532358899,
+                    "twitterid": 1021413373991444481,
+                    "url": "https://www.cbsnews.com/news/small-plane-trump-bedminster-new-jersey-golf-club-intercepted-us-air-force-fighter-jet/?ftag=CNM-00-10aab7e&linkId=54623739"
+                },
+                {
+                    "_id": "5b54d462421aa964e352bbed",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/22/AP_16267331251293_s2048x1269.jpg?04e98764a93483979b3698f97a293c882e4f5c43",
+                    "origin": "The Washington Times",
+                    "title": "Air Force F-16 fighter jet intercepts plane near Donald Trump\u2019s Bedminster golf course",
+                    "ts": 1532285384,
+                    "twitterid": 1021105029233725440,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/22/air-force-f-16-fighter-jet-intercepts-plane-near-d/"
+                },
+                {
+                    "_id": "5b55dfa5421aa971ed460f41",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/a481916a9da4934da6f90fc763e8898a9ede1f3d/c=0-248-4928-3032/local/-/media/2018/05/25/Wilmington/Salisbury/636628785656632129-20180525-MR-OCEANCITY-3.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Beach umbrella impales woman in chest at Maryland beach, official says",
+                    "ts": 1532354342,
+                    "twitterid": 1021394259247878146,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/07/23/umbrella-impales-woman-ocean-city-maryland/817733002/"
+                },
+                {
+                    "_id": "5b55c379421aa970d9265835",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/23/japan_heat_wave_00574_s2048x1338.jpg?09d23c0655da24bad39ad18285848bfd40aa50d2",
+                    "origin": "The Washington Times",
+                    "title": "Record high in Japan as heat wave grips the region",
+                    "ts": 1532344593,
+                    "twitterid": 1021353367392727041,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/23/deadly-heat-wave-hovers-over-japan-and-south-korea/"
+                },
+                {
+                    "_id": "5b5617f2421aa978e8e6447d",
+                    "date_month": "2018-07",
+                    "image": "https://prod-video-us-east-1.pscp.tv/p8C7S1iVmYGOvoLYXeDV2aqhbdeUNbJ5t7j4guUBpxjYZEIsM3VVIQSPntCTit2yqKQzF3ARCrXGmfU1xIw42g/live_thumbnail/us-east-1/eyJkIjowfQ/latest.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMU1ZR05xQnBOQlBLdyIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE1MzIzNjg4NzUsIkdyYW50ZWRUbyI6IndlYi1yYXRlLWxpbWl0ZWQtOGNmMzAwYmU2MzYxNGI1YzBhZDU3Zjg4MWVhYjE1M2YiLCJTdHJlYW1OYW1lIjoicDhDN1MxaVZtWUdPdm9MWVhlRFYyYXFoYmRlVU5iSjV0N2o0Z3VVQnB4allaRUlzTTNWVklRU1BudENUaXQyeXFLUXpGM0FSQ3JYR21mVTF4SXc0MmciLCJleHAiOjE1MzI1NDE2NzV9.farKljibQtevSgj59NdNBz4LQfSLdzOQFaXCJENj4sg&service=proxsee&digest=rKuZ49AlJeiGwhngv_In-vF4aUxZDbsWuRen5vmE9eY&ts=766184437",
+                    "origin": "ABC News",
+                    "title": "ABC News: \"Las Vegas shooting victims hold news conference on MGM lawsuit.\"",
+                    "ts": 1532365490,
+                    "twitterid": 1021441014983286786,
+                    "url": "https://www.periscope.tv/ABC/1MYGNqBpNBPKw?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b55edd0421aa972613aba02",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/gettyimages-1004130196.jpg",
+                    "origin": "The Hill",
+                    "title": "Japan sees record-breaking temperatures in deadly heat wave",
+                    "ts": 1532357166,
+                    "twitterid": 1021406104138289153,
+                    "url": "http://thehill.com/policy/energy-environment/398338-japan-sees-record-breaking-temperatures-in-deadly-heat-wave"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            52
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Georgia",
+            "Germany",
+            "White Helmets",
+            "Russia NATO",
+            "Congress",
+            "Senate Dem",
+            "GOP",
+            "Middle East",
+            "White Helmet",
+            "Barbara Lee",
+            "Democratic Caucus",
+            "Dem Socialists",
+            "James Comey",
+            "NRA",
+            "Obama",
+            "Syrian",
+            "Illinois",
+            "Russian",
+            "Pakistan",
+            "Alleged Russian",
+            "Comey",
+            "Israel House",
+            "Rauner",
+            "Corey Stewart Republican",
+            "Firebrand Candidate Gets Party",
+            "Jordan",
+            "Sanders Socialist",
+            "Syria",
+            "Top Job",
+            "Trump",
+            "Fraud Claims Trail Boyfriend",
+            "Steve Bannon",
+            "Kansas Rep",
+            "Arizona Maria Butina",
+            "Blago",
+            "Primary Debate",
+            "Russia Will",
+            "Democratic Candidate Supporting",
+            "America US",
+            "Maria Butina",
+            "Brussels Socialists",
+            "Montenegro",
+            "Supreme Court Punts",
+            "ICE",
+            "Gun",
+            "Democratic Party",
+            "Sharif",
+            "American",
+            "Brazil",
+            "NSA"
+        ],
+        "peaks": [],
+        "theme": [
+            "Democrats",
+            "Dem",
+            "Russians",
+            "Comey",
+            "Socialist",
+            "Russia",
+            "Trump"
+        ],
+        "timestamp": "2018-07-23 14:10:24.281953-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b55dfa5421aa971ed460f70",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/a8Xo80o3C2gZfvmrKxXSvIBq1iE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CO6OECSCCE7YFJEKRJQQ3VOHDA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Comey cautions Democrats against \u2018socialist left.\u2019 Democrats pounce.",
+                    "ts": 1532351151,
+                    "twitterid": 1021380873961246720,
+                    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/07/23/comey-cautions-democrats-against-socialist-left-democrats-pounce/?utm_term=.f93aa5a9bb18&tid=sm_tw"
+                },
+                {
+                    "_id": "5b54fe9b421aa966487c7915",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/40/93/ef40bb194b6ea55ad233914f657b/180719-graff-putin-ap.jpg",
+                    "origin": "POLITICO",
+                    "title": "Why Russia Will Help the Democrats Next",
+                    "ts": 1532295010,
+                    "twitterid": 1021145402626789376,
+                    "url": "https://www.politico.com/magazine/story/2018/07/19/russia-democrats-election-meddling-219020"
+                },
+                {
+                    "_id": "5b54fe9b421aa966487c7927",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/comeyjames_043018getty_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Comey to Dems: 'Don't lose your minds and rush to the socialist left'",
+                    "ts": 1532293745,
+                    "twitterid": 1021140094533632001,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/398279-comey-to-dems-dont-lose-your-minds-and-rush-to-the-socialist-left"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6e90",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/comeyjames_050718getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Obama intel chiefs gave Russia a pass, and now blame \u2014 Donald Trump?",
+                    "ts": 1532349184,
+                    "twitterid": 1021372625031974912,
+                    "url": "http://thehill.com/opinion/white-house/398299-obama-intel-chiefs-gave-russia-a-pass-and-now-blame-donald-trump"
+                },
+                {
+                    "_id": "5b54fe9b421aa966487c790e",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/22/james-comey-warns-democrats-dont-lose-your-minds-and-vote-for-socialists/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532295074562.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "James Comey warns Democrats: 'Don't lose your minds' and vote for socialists",
+                    "ts": 1532296034,
+                    "twitterid": 1021149698931994624,
+                    "url": "http://www.foxnews.com/politics/2018/07/22/james-comey-warns-democrats-dont-lose-your-minds-and-vote-for-socialists.html"
+                },
+                {
+                    "_id": "5b55fbdc421aa97306365c86",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/23/socialist-group-signs-up-1st-dem-senate-candidate-as-dues-paying-member/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532360097547.jpg?ve=1",
+                    "origin": "Fox News Politics",
+                    "title": "Socialist group signs up 1st Dem Senate candidate as 'dues-paying member'",
+                    "ts": 1532360445,
+                    "twitterid": 1021419854706900993,
+                    "url": "http://www.foxnews.com/politics/2018/07/23/socialist-group-signs-up-1st-dem-senate-candidate-as-dues-paying-member.html?cq_ck=1532360208805"
+                },
+                {
+                    "_id": "5b54e276421aa9656cd6820a",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/07/0/0/694940094001_5794875851001_5794875513001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Dem Civil War: Fury over Trump summit threatens to expose new party divisions",
+                    "ts": 1532288254,
+                    "twitterid": 1021117065720102913,
+                    "url": "http://www.foxnews.com/politics/2018/07/19/dem-civil-war-fury-over-trump-summit-threatens-to-expose-new-party-divisions.html"
+                },
+                {
+                    "_id": "5b551ab4421aa9677fa4c050",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/22/james-comey-warns-democrats-dont-lose-your-minds-and-vote-for-socialists/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532301737102.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "James Comey warns Democrats against socialism: 'Please, please don't lose your minds'",
+                    "ts": 1532301600,
+                    "twitterid": 1021173041970204672,
+                    "url": "http://www.foxnews.com/politics/2018/07/22/james-comey-warns-democrats-dont-lose-your-minds-and-vote-for-socialists.html"
+                },
+                {
+                    "_id": "5b5544df421aa96b5b625989",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/International/votel-gty-er-180722_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "US commander in Middle East hesitant to cooperate with Russians in Syria on refugees",
+                    "ts": 1532312465,
+                    "twitterid": 1021218614425411584,
+                    "url": "https://abcnews.go.com/International/us-commander-middle-east-hesitant-cooperate-russians-syria/story?id=56744641&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b54fe9b421aa966487c7913",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/22/AP_090421023913_s2046x2048.jpg?f454d56ac14553aa05e4a1796d32736c4676315d",
+                    "origin": "The Washington Times",
+                    "title": "Democrats are not patriots, they are criminals",
+                    "ts": 1532295025,
+                    "twitterid": 1021145466543779842,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/22/democrats-are-not-patriots-they-are-criminals/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            29
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Browns",
+            "MLB",
+            "NFL",
+            "Cubs",
+            "Minor League Baseball Team",
+            "Bush",
+            "Houston",
+            "Kelvin Herrera",
+            "Michelle Obama",
+            "Harvard",
+            "British Open",
+            "PSA Former",
+            "Josh Hader",
+            "Rescue",
+            "East Wing",
+            "Tayler Hill",
+            "Noah Syndergaard",
+            "National Zoo",
+            "Johnny Manziel",
+            "Call Soccer",
+            "George",
+            "Beijing Dog",
+            "Britney Spears",
+            "Tell Us",
+            "CFL",
+            "Trump",
+            "Aerial",
+            "New York Mets",
+            "Josh Gordon",
+            "Nationals",
+            "Washington",
+            "Obamas",
+            "Golden",
+            "Golfer"
+        ],
+        "peaks": [],
+        "theme": [
+            "dogs",
+            "former",
+            "get",
+            "baseball",
+            "Fan",
+            "National",
+            "player"
+        ],
+        "timestamp": "2018-07-23 14:10:24.838753-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5552f2421aa96bc685b9c8",
+                    "date_month": "2018-07",
+                    "image": "https://usatftw.files.wordpress.com/2018/07/cubs.jpg?w=1024&h=576&crop=1",
+                    "origin": "USA TODAY",
+                    "title": "Cubs intervene after adult fan shamelessly steals a baseball from a child",
+                    "ts": 1532317349,
+                    "twitterid": 1021239097183166464,
+                    "url": "https://ftw.usatoday.com/2018/07/cubs-fan-baseball-child-kid-adult-steals-video-baez-autographed-mlb-ball"
+                },
+                {
+                    "_id": "5b551ab4421aa9677fa4c04d",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_gura_MarvinII_071822_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Former NFL Player Marvin Washington slams President Trump\u2019s NFL comments: \u201cHe needs a win after the week he\u2019s had\u201d",
+                    "ts": 1532302206,
+                    "twitterid": 1021175585341624321,
+                    "url": "https://www.msnbc.com/david-gura/watch/former-nfl-player-marvin-washington-slams-president-trump-s-nfl-comments-he-needs-a-win-after-the-week-he-s-had-1283004995919?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b5617f2421aa978e8e64468",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/DkFbYizcc3HI7ADlC5Q0QNsSmaI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H7EYIBT2GUI6RLCOIIPPOFSZEM.jpg",
+                    "origin": "Washington Post",
+                    "title": "I bake for dogs, and they eat it up",
+                    "ts": 1532366310,
+                    "twitterid": 1021444457923842049,
+                    "url": "https://www.washingtonpost.com/lifestyle/food/i-bake-for-dogs-and-they-eat-it-up/2018/07/23/e49f582c-853c-11e8-8553-a3ce89036c78_story.html?utm_term=.68429ecd9034&tid=sm_tw"
+                },
+                {
+                    "_id": "5b557d19421aa96e55c81e18",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_29/2503406/180719-hospital-child-dog-therapy-se-136p_698c9fe4363954cf0a69db09a5c8e074.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Therapy dogs love their jobs. Is your pup cut out for it?",
+                    "ts": 1532328183,
+                    "twitterid": 1021284539090468865,
+                    "url": "https://www.nbcnews.com/better/pop-culture/therapy-dogs-love-their-jobs-your-pup-cut-out-it-ncna878676?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5609f0421aa975facf18db",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/22/braves_nationals_baseball_41915_s2048x1335.jpg?ad2a83bcc8e28efb7eae352b5c9cc59a3f8ed57a",
+                    "origin": "The Washington Times",
+                    "title": "Kelvin Herrera shows his stuff in first save as National",
+                    "ts": 1532365131,
+                    "twitterid": 1021439512390533125,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/23/kelvin-herrera-shows-his-stuff-in-first-save-as-na/"
+                },
+                {
+                    "_id": "5b558b2e421aa96eac501c9d",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/21/BostonGlobe.com/Sports/Images/ben1_crop.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Harvard football player Ben Abercrombie fights his way back",
+                    "ts": 1532331845,
+                    "twitterid": 1021299898841485312,
+                    "url": "https://www.bostonglobe.com/sports/2018/07/21/harvard-football-player-ben-abercrombie-fights-his-way-back/Cxhtg5aMXNwOxjZ0jiC7OL/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b55edd0421aa972613aba35",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/Y8dZ5ULmwBpmIq97J4jdXwhtbiU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EECDJ75IZA2IRK5S37QSB6EFTE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Golfer doesn\u2019t let hangover get in way of shooting British Open\u2019s best final round",
+                    "ts": 1532355003,
+                    "twitterid": 1021397031636602880,
+                    "url": "https://www.washingtonpost.com/news/early-lead/wp/2018/07/22/golfer-doesnt-let-hangover-get-in-way-of-shooting-british-opens-best-final-round/?utm_term=.905994eb1d2a&tid=sm_tw"
+                },
+                {
+                    "_id": "5b550c99421aa966ecfb51a8",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/BDzpQAMWOYdC0A-YZ3aIkeHfsz8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QGOOKAUNSYI6RLSZAGEA5LC7DU.jpg",
+                    "origin": "Washington Post",
+                    "title": "No gloves, no water bottles: 19th-century baseball",
+                    "ts": 1532297103,
+                    "twitterid": 1021154181330227202,
+                    "url": "https://www.washingtonpost.com/local/no-gloves-no-water-bottles-baseball-as-it-was-in-the-19th-century/2018/07/22/244977e0-8dbd-11e8-bcd5-9d911c784c38_story.html?utm_term=.cacf554703f9&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5617f2421aa978e8e6444e",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/I34jGNzVXHW-ZUHLq06ncilAmL0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ASTITHN2JI47BDQK2CC3BGDVHI.jpg",
+                    "origin": "Washington Post",
+                    "title": "A giant panda birthday party at the National Zoo: Mei Xiang enjoys apple-juice cake",
+                    "ts": 1532368451,
+                    "twitterid": 1021453436074774528,
+                    "url": "https://www.washingtonpost.com/news/local/wp/2018/07/23/a-giant-panda-birthday-party-at-the-national-zoo-mei-xiang-enjoys-apple-juice-cake/?utm_term=.a76eeae2a09e&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5617f2421aa978e8e6446f",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/23/7da6ecd1-4428-4801-bdce-1d80cfcb11b7/thumbnail/1200x630/5eae2079552161dab1f4997cfdfcbd65/divmrs9uyaaxrmu.jpg",
+                    "origin": "CBS News",
+                    "title": "Fan at MLB game snags foul ball from kid, but the little boy ends up a winner",
+                    "ts": 1532366082,
+                    "twitterid": 1021443498858483714,
+                    "url": "https://www.cbsnews.com/news/fan-at-cubs-baseball-game-steals-foul-ball-from-kid-boy-gets-javier-baez-ball/?ftag=CNM-00-10aab7e&linkId=54633116"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            114
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Couple",
+            "College Loan",
+            "Wipes Investors Out Americans",
+            "Wilkie",
+            "GOP",
+            "Fed",
+            "Elmhurst Metra",
+            "Schools",
+            "Future Employers Tax",
+            "Salmonella Concern Biden",
+            "Terrible",
+            "Texas",
+            "Beacon Hill",
+            "Post",
+            "No Good",
+            "Funds Run Low",
+            "Video",
+            "Cayuga Centers",
+            "Puerto Rico Fox News",
+            "Group",
+            "India",
+            "Ritz Bits",
+            "Ortega",
+            "Nicaraguan",
+            "Oak Brook",
+            "Japanese",
+            "Birthright Citizenship",
+            "Illegal Abortion Will Mean Abortion By Mail Mondelez Recalls Ritz Crackers",
+            "Cardinal Theodore",
+            "Case Against",
+            "Congress",
+            "Mike Pence",
+            "Hunters",
+            "Democrat",
+            "Children",
+            "HPV",
+            "Ayanna",
+            "Book",
+            "Amazon",
+            "Wilbur Ross Could Face Hefty Tax Bill",
+            "Gone Missing Family",
+            "U.S.",
+            "LGBT",
+            "Bill Clinton",
+            "Felon",
+            "Fox News",
+            "Cuba",
+            "Rubio",
+            "Horrible",
+            "New York",
+            "Evanston",
+            "Clinton",
+            "Harley Clarke Mansion",
+            "Sell Stock Watchdog",
+            "Mastermind Behind Malta Journalist Killing",
+            "Defense",
+            "Woman",
+            "Very Racist Argument",
+            "Scott Pruitt",
+            "Special Education",
+            "Alex Azar",
+            "Suicide Bomber Attacks Kabul Airport",
+            "Mike Pence Latino",
+            "Wade How Strict Is Too Strict",
+            "Netanyahu",
+            "US",
+            "Exiled Vice",
+            "Theranos Settles Investor Suit",
+            "Veterans Affairs",
+            "Doctoral Student Compiles Database Of Indigenous Women Who",
+            "Enforcer",
+            "Michael Anton",
+            "Curb Philippine Inflation",
+            "Shuttle",
+            "Lyft",
+            "Unusual Role",
+            "Drain San Francisco Reservoir",
+            "Service Violation India",
+            "Areu",
+            "Michael Capuano",
+            "Interior",
+            "Boston Marathon",
+            "Most Restrictive U.S.",
+            "Alzheimer",
+            "Mass",
+            "Kavanaugh Could Tip Supreme Court Against Gun Control Laws Senate",
+            "Catholic Church",
+            "Spread Wealth Rand Paul",
+            "Pledge",
+            "Supreme Court",
+            "Trump",
+            "Ritz Crackers",
+            "Powell",
+            "Robert Wilkie"
+        ],
+        "peaks": [],
+        "theme": [
+            "News",
+            "crackers",
+            "live",
+            "passengers",
+            "recalled",
+            "Ritz",
+            "salmonella"
+        ],
+        "timestamp": "2018-07-23 14:10:26.692615-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b55dfa5421aa971ed460f57",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2014/05/07/ffba3ec4e3667511530f6a70670004b3_s2048x1412.jpg?727d4cf971aab73ff318fbeeb035ee20dd78e12a",
+                    "origin": "The Washington Times",
+                    "title": "Ritz crackers recalled for possible salmonella contamination",
+                    "ts": 1532353141,
+                    "twitterid": 1021389221775503360,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/23/ritz-crackers-recalled-possible-salmonella-infecti/"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6e8a",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_30/2505856/180723-ritz-bits-mn-0820_4cf981c6c83797974331f3685d182118.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Ritz Crackers, Ritz Bits recalled over salmonella concerns",
+                    "ts": 1532349607,
+                    "twitterid": 1021374399872716801,
+                    "url": "https://www.nbcnews.com/business/consumer/ritz-crackers-ritz-bits-recalled-over-salmonella-concerns-n893581?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b550c99421aa966ecfb51a2",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19122/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Mondelez Recalls Ritz Crackers on Salmonella Concern",
+                    "ts": 1532297709,
+                    "twitterid": 1021156724487655425,
+                    "url": "https://www.wsj.com/articles/mondelez-recalls-ritz-crackers-on-salmonella-concern-1532292598?mod=e2tw"
+                },
+                {
+                    "_id": "5b5544df421aa96b5b625993",
+                    "date_month": "2018-07",
+                    "image": "https://www.apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Eastern US",
+                    "title": "Some Ritz cracker products recalled over salmonella risk",
+                    "ts": 1532311455,
+                    "twitterid": 1021214379507953665,
+                    "url": "https://www.apnews.com/4316723eebde43f9ab308dc1fbe0b369/Some-Ritz-cracker-products-recalled-over-salmonella-risk?utm_source=Twitter&utm_medium=APEastRegion&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6e8e",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/23/BostonGlobe.com/Business/Images/Ritz%20Cracker%202-5804423.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Ritz manufacturer recalls some crackers over salmonella risk",
+                    "ts": 1532349325,
+                    "twitterid": 1021373214688186368,
+                    "url": "https://www.bostonglobe.com/business/2018/07/22/ritz-manufacturer-recalls-some-crackers-over-salmonella-risk/QH0WxHvjDVOUyUgbL42JPM/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b5552f2421aa96bc685b9c2",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/23/8854b9f6-1a68-4ba8-b1c7-73820f4802bc/thumbnail/1200x630/a07d6b68546c1f00b79118483a8000b8/gettyimages-2129861-2.jpg",
+                    "origin": "CBS News",
+                    "title": "Some Ritz Cracker products recalled over possible salmonella risk",
+                    "ts": 1532318286,
+                    "twitterid": 1021243027682209795,
+                    "url": "https://www.cbsnews.com/news/ritz-cracker-ritz-bits-mondelez-global-salmonella-recall-2018-07-22/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b55524a04d30144242bb8c9&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b55dfa5421aa971ed460f77",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/23/a9fb0244-f2c1-4bf8-83a1-4146c88d0ec9/thumbnail/1200x630/06ad45822b68bc5884fbe1989d746352/rts1tt0s.jpg",
+                    "origin": "CBS News",
+                    "title": "Uber and Lyft suspend driver who live-streamed passengers",
+                    "ts": 1532350837,
+                    "twitterid": 1021379559466389504,
+                    "url": "https://www.cbsnews.com/news/uber-and-lyft-suspend-driver-who-live-streamed-passengers/?ftag=CNM-00-10aab7e&linkId=54618266"
+                },
+                {
+                    "_id": "5b55edd0421aa972613aba32",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/uber.jpg",
+                    "origin": "The Hill",
+                    "title": "Uber suspends driver for live-streaming passengers without permission",
+                    "ts": 1532355184,
+                    "twitterid": 1021397791313100801,
+                    "url": "http://thehill.com/policy/transportation/other/398331-uber-suspends-driver-for-live-streaming-passengers-without"
+                },
+                {
+                    "_id": "5b5552f2421aa96bc685b9da",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/tech/2018/07/23/uber-suspends-driver-who-live-streamed-st-louis-passengers/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532315710366.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Uber suspends driver who live-streamed St. Louis passengers",
+                    "ts": 1532315947,
+                    "twitterid": 1021233217364545536,
+                    "url": "http://www.foxnews.com/tech/2018/07/23/uber-suspends-driver-who-live-streamed-st-louis-passengers.html"
+                },
+                {
+                    "_id": "5b5609f0421aa975facf18e0",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/07/05/USATODAY/usatsports/247WallSt.com-247WS-474941-uber-car.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "St. Louis Uber driver fired after he live streamed passengers without consent",
+                    "ts": 1532364770,
+                    "twitterid": 1021437998733381633,
+                    "url": "https://www.usatoday.com/story/tech/news/2018/07/23/uber-driver-fired-after-he-live-streamed-riders-without-consent/817947002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            30
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Global Building Spree Runs Into Trouble",
+            "Fresh Concept",
+            "Policy Shift Rattles Japanese",
+            "National Park Service China",
+            "Mike Pence",
+            "NATO",
+            "North Korea Trump",
+            "Minimize",
+            "Pakistan Chinese Company",
+            "America",
+            "Korean",
+            "Party",
+            "U.S.",
+            "China France",
+            "Telecom Giant Could Dial Up",
+            "Macron",
+            "Into China",
+            "Alibaba G20",
+            "Trump",
+            "Chinese",
+            "Wouldn",
+            "Markets China",
+            "Biggest IPO",
+            "US",
+            "Latest Consumer Scandal",
+            "Jeopardy Outrage",
+            "Mnuchin",
+            "White House",
+            "Tariffs",
+            "U.S.-China",
+            "Yosemite",
+            "Massive",
+            "Trump Might Lose",
+            "Bond Market",
+            "EU",
+            "New York Mall Lindsey Graham"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "China",
+            "trade",
+            "Chinese",
+            "tariffs",
+            "us",
+            "war"
+        ],
+        "timestamp": "2018-07-23 14:10:27.319429-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5536cd421aa96ac20f8c3f",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/8e86512ee9aa4ea46979cd1be2ba66041a03fc98.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Why Trump Might Lose His Trade War With China",
+                    "ts": 1532311202,
+                    "twitterid": 1021213317984149505,
+                    "url": "https://newrepublic.com/article/149683/trump-might-lose-trade-war-china"
+                },
+                {
+                    "_id": "5b55dfa5421aa971ed460f55",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/94000e9b6fdb4fde7057560d3ab87e91b1588432.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Is Trump really about to enter into a \u201cfull-blown trade war\u201d with China?",
+                    "ts": 1532353203,
+                    "twitterid": 1021389479616176128,
+                    "url": "https://newrepublic.com/minutes/150082/trump-really-enter-full-blown-trade-war-china"
+                },
+                {
+                    "_id": "5b55fbdc421aa97306365c8b",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/23/china_eu_korea_steel_74831_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "World media wrestles with broader impact of escalating U.S.-China trade war",
+                    "ts": 1532360085,
+                    "twitterid": 1021418344430428160,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/23/world-media-wrestles-broader-impact-escalating-us-/"
+                },
+                {
+                    "_id": "5b54d462421aa964e352bbf5",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/Ky-LbHal4MxvMBHx0XVuCGuxEIc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BREFUBUMNMI6RHKZ3TGCYDFLZ4.jpg",
+                    "origin": "Washington Post",
+                    "title": "Dependent on trade, Mike Pence\u2019s hometown takes a hit due to Trump\u2019s tariffs",
+                    "ts": 1532284752,
+                    "twitterid": 1021102377200472064,
+                    "url": "https://www.washingtonpost.com/politics/dependent-on-trade-mike-pences-hometown-takes-a-hit-due-to-trumps-tariffs/2018/07/21/25fd2bda-8c2e-11e8-8aea-86e88ae760d8_story.html?utm_term=.259f42045614&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b54fe9b421aa966487c791f",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19059/social",
+                    "origin": "Capital Journal",
+                    "title": "Mnuchin Says He \u2018Wouldn\u2019t Minimize\u2019 Chance of Tariffs on All Chinese Imports",
+                    "ts": 1532294218,
+                    "twitterid": 1021142078531784706,
+                    "url": "https://www.wsj.com/articles/treasury-secretary-mnuchin-says-resolving-trade-issues-with-canada-mexico-is-a-big-priority-1532174708?mod=e2twp"
+                },
+                {
+                    "_id": "5b55d18f421aa971919c6eab",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180503171556-mnuchin-beijing-china-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "G20 finance chiefs talk unity despite trade war",
+                    "ts": 1532347324,
+                    "twitterid": 1021364824553525248,
+                    "url": "https://www.cnn.com/2018/07/22/politics/g20-mnuchin-china-trade/index.html?utm_term=image&utm_source=twCNNp&utm_content=2018-07-23T12%3A02%3A03&utm_medium=social"
+                },
+                {
+                    "_id": "5b54d462421aa964e352bbf2",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pencemike_07062018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Companies in Pence\u2019s hometown hit by Trump tariffs: report",
+                    "ts": 1532284864,
+                    "twitterid": 1021102846178136064,
+                    "url": "http://thehill.com/policy/finance/398230-companies-in-pences-hometown-hit-by-trump-tariffs-report"
+                },
+                {
+                    "_id": "5b556f09421aa96d04918a14",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/91/f8/6f7aa80e4b33a58388b5250ae652/180720-juncker-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump isolated in his push for tariffs on foreign cars",
+                    "ts": 1532323804,
+                    "twitterid": 1021266175014162432,
+                    "url": "https://www.politico.com/story/2018/07/22/trump-foreign-car-tariffs-juncker-735555"
+                },
+                {
+                    "_id": "5b5609f0421aa975facf18d9",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/23/4d69315b-cd77-42b4-8083-fcbccef5d16d/thumbnail/1200x630/694d8438ffda1dc3f15f27b96f90c76a/istock-64548647-medium.jpg",
+                    "origin": "CBS News",
+                    "title": "Despite Trump's contention, trade deals aren't killing farmers",
+                    "ts": 1532365186,
+                    "twitterid": 1021439741374451713,
+                    "url": "https://www.cbsnews.com/news/despite-trumps-contention-trade-deals-arent-killing-farmers/?ftag=CNM-00-10aab7e&linkId=54628271"
+                },
+                {
+                    "_id": "5b550c99421aa966ecfb51a0",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/steelchina_tariff_032018getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump to show off American-made goods amid trade disputes",
+                    "ts": 1532298122,
+                    "twitterid": 1021158454143201280,
+                    "url": "http://thehill.com/homenews/administration/398281-trump-to-show-off-american-made-goods-amid-trade-rows"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            78
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Instagram",
+            "Camp Eighties",
+            "Jerky",
+            "People",
+            "Susan Olsen",
+            "Illegal Drugs Came",
+            "How Babies Learn",
+            "Cruise",
+            "Link Between Creativity",
+            "California How",
+            "FYI",
+            "Dwayne Johnson",
+            "Muscle And Bone Meet Machinery",
+            "Pros Tired",
+            "Olen Steinhauer",
+            "Linguistic Tricks",
+            "Seoul",
+            "Sanctimony Latinos",
+            "Sebastian Maniscalco",
+            "New York City",
+            "Kwon",
+            "Gala",
+            "Sean Spicer",
+            "Comedian",
+            "See Below",
+            "YouTube Stars",
+            "Lorax",
+            "Anthony Anderson",
+            "Beaches",
+            "Brain Science",
+            "Inimitable Jonathan Gold",
+            "Blue Hills",
+            "Netflix",
+            "Life Continued",
+            "Smoking Democrats",
+            "Los Angeles",
+            "DC",
+            "Uncertainty If",
+            "McKenna",
+            "Vermont Victor Espinoza",
+            "Sharpest Political Satire KAWS",
+            "Rapper",
+            "Jonathan Gold",
+            "MacBook Keyboard",
+            "Dark Morality",
+            "Schoolboy Cairo",
+            "Middleman",
+            "Happy Endings Gerhard Steidl",
+            "San Diego",
+            "Costumed Alter Egos Cross Racial Lines",
+            "Bunch",
+            "Morals",
+            "SpaceX",
+            "New Hampshire",
+            "Triple Crown",
+            "James Gunn",
+            "White House",
+            "New Season",
+            "Star Wars",
+            "Artist",
+            "American Pharoah",
+            "Scarlett Johansson",
+            "Indian",
+            "Marvel",
+            "Lori",
+            "Things Go Missing Is",
+            "Grade",
+            "HBO",
+            "Hollywood",
+            "Love",
+            "Sorry",
+            "Books",
+            "Intel Will",
+            "Shark",
+            "Vanished Music Stores"
+        ],
+        "peaks": [],
+        "theme": [
+            "New",
+            "Life",
+            "make",
+            "star",
+            "politics",
+            "Americans",
+            "book"
+        ],
+        "timestamp": "2018-07-23 14:10:29.412130-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b550c99421aa966ecfb519c",
+                    "date_month": "2018-07",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_28/2496036/170712-milky-way-mn-1745_fd0f45dba25fe11af3d3f77b39ab2752.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Are we truly alone in the cosmos? New study casts doubt on rise of alien life in our galaxy",
+                    "ts": 1532298607,
+                    "twitterid": 1021160489370509317,
+                    "url": "https://www.nbcnews.com/mach/science/are-we-truly-alone-cosmos-new-study-casts-doubt-rise-ncna891286?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b556f09421aa96d04918a17",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2016/05/26/88180814-b81a-4423-8d2c-0b2b90b189f0/thumbnail/1200x630/4ed90e0d47d4fddff087074b6e118472/trump-protest-ca.jpg",
+                    "origin": "CBS News",
+                    "title": "Will politics be the death of civility?",
+                    "ts": 1532323083,
+                    "twitterid": 1021263149641752576,
+                    "url": "https://www.cbsnews.com/news/will-politics-be-the-death-of-civility/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b55650904d30111426e6ecc&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b55dfa5421aa971ed460f43",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/6i3t13ULHd0uGRINBxGiyJNNalA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EWJ27WT66QI6RO3LYHFWSHYUAI.jpg",
+                    "origin": "Washington Post",
+                    "title": "The Incendiaries by R.O. Kwon book review",
+                    "ts": 1532354316,
+                    "twitterid": 1021394149579386880,
+                    "url": "https://www.washingtonpost.com/entertainment/books/the-incendiaries-is-the-most-buzzed-about-debut-of-the-summer-as-it-should-be/2018/07/20/b6056d12-8b68-11e8-a345-a1bf7847b375_story.html?utm_term=.55ec380f97c2&tid=sm_tw"
+                },
+                {
+                    "_id": "5b55fbdc421aa97306365c8e",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/AlF8NPbZAZQtT_6ZPKr73E6zRuk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWQJM4JWEBAEJCV6WR2PQJNFTM",
+                    "origin": "Washington Post",
+                    "title": "Why millions of Americans are stuck in dead-end jobs",
+                    "ts": 1532359970,
+                    "twitterid": 1021417864392265733,
+                    "url": "https://www.washingtonpost.com/business/2018/07/23/millions-educated-experienced-workers-have-been-tossed-aside-by-strong-economy/?utm_term=.7ae520e3f7e8&tid=sm_tw"
+                },
+                {
+                    "_id": "5b558b2e421aa96eac501c96",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/06/CLEAN_NP_D12_10/facebook.jpg?1522793814",
+                    "origin": "The Atlantic",
+                    "title": "I Quit Showering, and Life Continued",
+                    "ts": 1532332807,
+                    "twitterid": 1021303932595908608,
+                    "url": "https://www.theatlantic.com/health/archive/2016/06/i-stopped-showering-and-life-continued/486314/?utm_campaign=the-atlantic&utm_content=5b558b0504d30117d14c8f5a_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b54fe9b421aa966487c7919",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/food-drink/2018/07/22/star-trek-vodka-contains-alcohol-from-space/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532279178533.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Star Trek vodka contains alcohol 'from space'",
+                    "ts": 1532294647,
+                    "twitterid": 1021143879947612160,
+                    "url": "http://www.foxnews.com/food-drink/2018/07/22/star-trek-vodka-contains-alcohol-from-space.html"
+                },
+                {
+                    "_id": "5b5552f2421aa96bc685b9e4",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/160504163705-06-donald-trump-0504-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "How reality TV took over politics",
+                    "ts": 1532314816,
+                    "twitterid": 1021228472709021702,
+                    "url": "https://www.cnn.com/2018/07/12/politics/how-reality-tv-took-over-politics/index.html?sr=twCNNp071218how-reality-tv-took-over-politics1039AMVODtop&utm_content=2018-07-23T03%3A00%3A15&utm_term=image&utm_source=twCNNp&utm_medium=social"
+                },
+                {
+                    "_id": "5b54f087421aa965eec2ca5c",
+                    "date_month": "2018-07",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_29/2504731/180720-read-book-good-health-ac-417p_d45a94886721a00630767948819fb120.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Why 'getting lost in a book' is so good for you, according to science",
+                    "ts": 1532289783,
+                    "twitterid": 1021123480199286784,
+                    "url": "https://www.nbcnews.com/better/pop-culture/why-getting-lost-book-so-good-you-according-science-ncna893256?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5609f0421aa975facf18f4",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/tom_cruise.jpg",
+                    "origin": "The Hill",
+                    "title": "Cruise dodges politics at 'Mission: Impossible' premiere in DC",
+                    "ts": 1532363467,
+                    "twitterid": 1021432531558813697,
+                    "url": "http://thehill.com/blogs/in-the-know/398367-cruise-dodges-politics-at-mission-impossible-premiere-in-dc"
+                },
+                {
+                    "_id": "5b55a750421aa96f7e538256",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180220145713-elderly-couple-walking-stock-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "A philosopher asks: Is a longer life a happier one?",
+                    "ts": 1532339522,
+                    "twitterid": 1021332098047774720,
+                    "url": "https://www.cnn.com/2018/07/23/health/living-longer-philosophy-partner/index.html?utm_medium=social&utm_content=2018-07-23T09%3A52%3A01&utm_term=link&utm_source=twCNN"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Papa John"
+        ],
+        "peaks": [],
+        "theme": [
+            "John",
+            "Papa",
+            "founder",
+            "company",
+            "pill",
+            "poison",
+            "Adopt"
+        ],
+        "timestamp": "2018-07-23 14:10:29.519443-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b551ab4421aa9677fa4c040",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-17806/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Papa John\u2019s Board Vote to Adopt \u2018Poison Pill\u2019 Against Founder",
+                    "ts": 1532303565,
+                    "twitterid": 1021181283823702016,
+                    "url": "https://www.wsj.com/articles/papa-johns-board-vote-to-adopt-poison-pill-against-founder-1532303394?mod=e2tw"
+                },
+                {
+                    "_id": "5b5552f2421aa96bc685b9c7",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-17806/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Papa John\u2019s Board Votes to Adopt \u2018Poison Pill\u2019 Against Founder",
+                    "ts": 1532317507,
+                    "twitterid": 1021239760357142529,
+                    "url": "https://www.wsj.com/articles/papa-johns-board-vote-to-adopt-poison-pill-against-founder-1532303394?mod=e2tw"
+                },
+                {
+                    "_id": "5b55c379421aa970d9265844",
+                    "date_month": "2018-07",
+                    "image": "https://twt-assets.washtimes.com/v4/images/favicon.6bd96ab48f85.ico",
+                    "origin": "The Washington Times",
+                    "title": "Papa John's attempts to ward off founder with poison pill",
+                    "ts": 1532343658,
+                    "twitterid": 1021349445651369984,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/23/papa-johns-attempts-to-ward-off-founder-with-poiso/"
+                },
+                {
+                    "_id": "5b5617f2421aa978e8e64461",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/9unhF4U9DHef6UuqqKUnXLMT48I=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7VUTHUONQI6RLSZAGEA5LC7DU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Papa John\u2019s blocks its founder from buying a bigger slice of the company",
+                    "ts": 1532367017,
+                    "twitterid": 1021447423087075328,
+                    "url": "https://www.washingtonpost.com/business/2018/07/23/papa-johns-blocks-its-founder-buying-bigger-slice-company/?utm_term=.c880e5749712&tid=sm_tw"
+                },
+                {
+                    "_id": "5b55edd0421aa972613aba1a",
+                    "date_month": "2018-07",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180717101258-papa-johns-pizza-box-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "Papa John's is worried that Papa John will try to take over the company",
+                    "ts": 1532356207,
+                    "twitterid": 1021402080341356544,
+                    "url": "https://money.cnn.com/2018/07/23/news/companies/papa-johns-stockholder-rights-plan/index.html?utm_content=2018-07-23T14%3A30%3A06&utm_medium=social&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5b55fbdc421aa97306365c8d",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/11/AP_18192769690470_s2048x1407.jpg?bda7b6b6fcf903da06290baebbbe584ea8f04a70",
+                    "origin": "The Washington Times",
+                    "title": "Papa John's tries to prevent founder from gaining control",
+                    "ts": 1532359992,
+                    "twitterid": 1021417955513585664,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/23/papa-johns-attempts-to-ward-off-founder-with-poiso/"
+                },
+                {
+                    "_id": "5b5536cd421aa96ac20f8c40",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/12/0/0/694940094001_5808463879001_5808417067001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Papa John's accused of fostering 'bro' culture within company, report claims",
+                    "ts": 1532310840,
+                    "twitterid": 1021211798320623616,
+                    "url": "http://www.foxnews.com/food-drink/2018/07/20/papa-johns-accused-fostering-bro-culture-within-company-report-claims.html"
+                }
+            ]
+        ]
+    }
+]

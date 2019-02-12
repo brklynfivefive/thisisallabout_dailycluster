@@ -1,0 +1,1975 @@
+[
+    {
+        "list": [
+            13
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "House",
+            "Midterm Election Calendar Democratic",
+            "GOP",
+            "Trump",
+            "Fear",
+            "Delaware Democratic",
+            "Senate First Read"
+        ],
+        "peaks": [],
+        "theme": [
+            "Senate",
+            "Democratic",
+            "polls",
+            "Trump",
+            "Election",
+            "Midterm",
+            "alive"
+        ],
+        "timestamp": "2018-09-08 12:10:18.870796-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b93e425421aa9391b53258b",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170403145336-capitol-dome-senate-shakeup-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Democratic Senate hopes are alive, though precarious",
+                    "ts": 1536417065,
+                    "twitterid": 1038434554334380032,
+                    "url": "https://www.cnn.com/2018/09/08/politics/democrats-senate-democrats-have-chance/index.html?utm_source=twCNNp&utm_content=2018-09-08T14%3A31%3A04&utm_term=image&utm_medium=social"
+                },
+                {
+                    "_id": "5b939dc4421aa93654052834",
+                    "date_month": "2018-09",
+                    "image": "https://si.wsj.net/public/resources/images/BN-XT841_201803_TOP_20180307184754.jpg",
+                    "origin": "Capital Journal",
+                    "title": "The 2018 Midterm Election Calendar",
+                    "ts": 1536398368,
+                    "twitterid": 1038356132513947648,
+                    "url": "https://www.wsj.com/graphics/midterm-election-calendar-2018/?mod=e2twp"
+                },
+                {
+                    "_id": "5b932d60421aa9301bca5087",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/JDcttbBOyUxE8iYKvhzme_c1N2g=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LANGOCVSZ4I6RIQLL5HYIQUWMY.jpg",
+                    "origin": "Washington Post",
+                    "title": "The polls are coming: Four tips for sorting through the wave of pre-election polls this fall",
+                    "ts": 1536369121,
+                    "twitterid": 1038233460257816576,
+                    "url": "https://www.washingtonpost.com/politics/the-polls-are-coming-four-tips-for-sorting-through-the-wave-of-pre-election-polls-this-fall/2018/09/07/a1bf6d98-b29c-11e8-a20b-5f4f84429666_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b936591421aa93408fd7b12",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/BKIT8kevc1Qa2lb57pnA2Al4Z2M=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YQMVOXFOBE67NNES4EVQE72INY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Is the Senate in play?",
+                    "ts": 1536384126,
+                    "twitterid": 1038296398259777536,
+                    "url": "https://www.washingtonpost.com/news/opinions/wp/2018/09/07/is-the-senate-in-play/?utm_term=.9167c7c8939e&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b92cb10421aa92a45ba3a19",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/5midtermsurprises_090618hillillustration.jpg",
+                    "origin": "The Hill",
+                    "title": "Five biggest surprises in midterm fight",
+                    "ts": 1536345067,
+                    "twitterid": 1038132573434773505,
+                    "url": "http://thehill.com/homenews/campaign/405449-five-surprises-in-midterm-fight"
+                },
+                {
+                    "_id": "5b933b71421aa932cfa418db",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/Y4XSmvYafmmHfdBhTa8DgshuU-A=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CJ7FNXVSJAI6RC2TKAIWO2HETE.jpg",
+                    "origin": "Washington Post",
+                    "title": "What happened in the Delaware Democratic primary?",
+                    "ts": 1536374224,
+                    "twitterid": 1038254865636622336,
+                    "url": "https://www.washingtonpost.com/politics/2018/09/07/so-what-happened-delaware-democratic-primary/?utm_term=.28d40b6e9c04&tid=sm_tw"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebc7",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_36/2558696/180907-donald-trump-billings-rally-al-1227_4b59e13956852e84f8de0cf909842794.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Fear and loathing on the Trump campaign trail",
+                    "ts": 1536343145,
+                    "twitterid": 1038124512498397184,
+                    "url": "https://www.nbcnews.com/politics/white-house/fear-loathing-trump-campaign-trail-n907521?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebd4",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/donaldtrump_07242018.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump approval at 47 percent, says Hill.TV poll",
+                    "ts": 1536342366,
+                    "twitterid": 1038121242447028226,
+                    "url": "http://thehill.com/hilltv/what-americas-thinking/405578-trump-approval-at-47-percent-says-hilltv-poll"
+                },
+                {
+                    "_id": "5b931f55421aa92f5f004e56",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_31/2518651/180803-phil-bredesen-1250a_c24c90b5562ad0fb223a1a5aadbc4aa3.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "Yes, Democrats do have a legitimate path to win back the Senate",
+                    "ts": 1536365563,
+                    "twitterid": 1038218536945156096,
+                    "url": "https://www.nbcnews.com/politics/first-read/yes-democrats-do-have-legitimate-path-win-back-senate-n907446?cid=par-twitter-feed_20180908"
+                },
+                {
+                    "_id": "5b931f55421aa92f5f004e58",
+                    "date_month": "2018-09",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2017_52/2273476/171226-phil-bredesen-mn-0930_4da67efdcb0ede8b7c06331c7601032e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "NBC/Marist poll: It's a neck-and-neck Senate race in Tennessee",
+                    "ts": 1536365561,
+                    "twitterid": 1038218532251688962,
+                    "url": "https://www.nbcnews.com/politics/first-read/nbc-marist-poll-it-s-neck-neck-senate-race-tennessee-n907221?cid=par-twitter-feed_20180908"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Killers Murder"
+        ],
+        "peaks": [],
+        "theme": [
+            "co",
+            "Killers",
+            "Murder",
+            "Number",
+            "Shocking",
+            "worker"
+        ],
+        "timestamp": "2018-09-08 12:10:18.911208-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b93f239421aa93a3ccb7800",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/2018/09/DIS_CriminalTendencies_Thumbnail_Web/facebook.jpg?1536168840",
+                    "origin": "The Atlantic",
+                    "title": "A Shocking Number of Killers Murder Their Co-workers",
+                    "ts": 1536422267,
+                    "twitterid": 1038456374336937989,
+                    "url": "https://www.theatlantic.com/magazine/archive/2018/10/the-killer-in-the-cubicle/568303/?utm_term=2018-09-08T13%3A00%3A10&utm_source=twitter&utm_campaign=the-atlantic&utm_medium=social&utm_content=edit-promo"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            73
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Batsheva Hay",
+            "Laugh",
+            "Alex Honnold Climbs Halfway Up",
+            "Odd",
+            "National Zoo",
+            "Ink",
+            "Meltdown Bursting",
+            "Homewrecker Horror",
+            "Bad Seed",
+            "Expert Panel",
+            "John Kass",
+            "Nick Saban",
+            "Biggest Environmental Problem",
+            "Public Policy",
+            "William Shatner",
+            "Look Weird",
+            "Love Him Anyway",
+            "Person",
+            "Ecstatic Sound",
+            "Rosh Hashanah",
+            "Pomegranates",
+            "Cohen",
+            "Netflix",
+            "Unknown",
+            "New Yorker Science Compared Every Diet",
+            "WATCH",
+            "Blind",
+            "Best",
+            "Climate Change Opinion",
+            "LGBTQ",
+            "Cognitive Biases Tricking Your Brain",
+            "Julia Roberts",
+            "Feminine Dress Young",
+            "Voter Fraud",
+            "Michigan",
+            "Sorry",
+            "Buddhist",
+            "Washington Blue",
+            "Winner Is Real Food",
+            "Fight Election Hacking",
+            "Midlife Melancholy Emily Farris",
+            "New Jersey Skyscraper Trump",
+            "Aspen Ideas Festival",
+            "Linguist",
+            "Dolphins Seen Racing Off California Coast",
+            "Judaism",
+            "Ritual Sacrifice",
+            "Atlantic",
+            "Crohn",
+            "Goodyear",
+            "Zeppelin",
+            "Anthony Bourdain",
+            "Right",
+            "Directorial D\u00e9but",
+            "Cool Kids Behind",
+            "Woman",
+            "India",
+            "Man",
+            "Overprotected"
+        ],
+        "peaks": [],
+        "theme": [
+            "Much",
+            "become",
+            "changing",
+            "Happens",
+            "help",
+            "Kid",
+            "say"
+        ],
+        "timestamp": "2018-09-08 12:10:20.594032-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b937391421aa934ea1d8e18",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2014/04/shutterstock_126240794/facebook.jpg?1522691396",
+                    "origin": "The Atlantic",
+                    "title": "What Happens When You Trust Too Much",
+                    "ts": 1536388207,
+                    "twitterid": 1038313516388806657,
+                    "url": "https://www.theatlantic.com/health/archive/2014/05/going-to-work-with-williams-syndrome/361374/?utm_campaign=the-atlantic&utm_content=5b936c6d04d30135ff488113_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c4284",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_36/1330586/gettyimages-170291972_6b8d02c6abcc7f1987ea36cfaaeaaa7e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "How much house can you afford? The 28/36 rule will help you decide",
+                    "ts": 1536352808,
+                    "twitterid": 1038165039822331904,
+                    "url": "https://www.nbcnews.com/better/pop-culture/how-much-house-can-you-afford-28-36-rule-will-ncna907491?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b93d618421aa9388147e338",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/omm2UGEOEh2oZ7C9atDtADvlEEI=/1200x0/arc-anglerfish-washpost-prod-thelily-washpost.s3.amazonaws.com/public/V27SRO5OEZFUFB2URGBNEMHEYE.jpg",
+                    "origin": "Washington Post",
+                    "title": "India decriminalized gay sex. LGBTQ activists say the next step is changing society\u2019s \u2018mindset.\u2019",
+                    "ts": 1536411729,
+                    "twitterid": 1038412174908174337,
+                    "url": "https://www.thelily.com/india-decriminalized-gay-sex-lgbtq-activists-say-the-next-step-is-changing-societys-mindset/?tid=sm_tw"
+                },
+                {
+                    "_id": "5b93c805421aa938207f2ba9",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/2014/03/0414_WEL_Rosin_BrokenGlasses_v1/facebook.jpg?1522694234",
+                    "origin": "The Atlantic",
+                    "title": "The Overprotected Kid",
+                    "ts": 1536411605,
+                    "twitterid": 1038411654738919425,
+                    "url": "https://www.theatlantic.com/magazine/archive/2014/04/hey-parents-leave-those-kids-alone/358631/?utm_campaign=the-atlantic&utm_content=5b93c7d400bd470001d26c03_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b930342421aa92dfd5afcf7",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_36/2558861/180907-queer-eye-cast-al-1514_1567e5641365186557628422e28f2fe8.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "'Queer Eye' stars say hit Netflix series is about much more than 'hip tips'",
+                    "ts": 1536358385,
+                    "twitterid": 1038188433582313472,
+                    "url": "https://www.nbcnews.com/feature/nbc-out/queer-eye-stars-say-hit-netflix-series-about-much-more-n907561?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b93abd7421aa936b24647e5",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/07/a0564684-8848-4ea4-b642-d3fe81f02a06/thumbnail/1200x630/3cbb1abbc09307aff94598b2badbce4a/gettyimages-1027117730.jpg",
+                    "origin": "CBS News",
+                    "title": "Unless we learn to argue better, we will become a nation of grudge holders",
+                    "ts": 1536400985,
+                    "twitterid": 1038367109984792577,
+                    "url": "https://www.cbsnews.com/news/reporters-notebook-john-dickerson-learn-to-argue-better/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b939e579ebbef0001306ff9&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b93abd7421aa936b24647da",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2015/01/baby/facebook.jpg?1522683158",
+                    "origin": "The Atlantic",
+                    "title": "What Happens to a Woman's Brain When She Becomes a Mother",
+                    "ts": 1536402608,
+                    "twitterid": 1038373918241898496,
+                    "url": "https://www.theatlantic.com/health/archive/2015/01/what-happens-to-a-womans-brain-when-she-becomes-a-mother/384179/?utm_campaign=the-atlantic&utm_content=5b93a4ad04d30111f82535f7_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b9381a7421aa9356523dac0",
+                    "date_month": "2018-09",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180711172650-03-headspace-780x439.png",
+                    "origin": "CNN",
+                    "title": "A former Buddhist monk is trying to help the world relax with an app",
+                    "ts": 1536390963,
+                    "twitterid": 1038325074699403264,
+                    "url": "https://money.cnn.com/2018/09/06/smallbusiness/headspace-meditation-app/index.html?utm_source=twCNN&utm_term=image&utm_content=2018-09-08T07%3A16%3A02&utm_medium=social"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c42ad",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/06/BostonGlobe.com/Magazine/Images/0909CUPID.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Blind date: \u2018She struck me as . . . much more logical than emotional\u2019",
+                    "ts": 1536350420,
+                    "twitterid": 1038155024759750657,
+                    "url": "https://www.bostonglobe.com/magazine/2018/09/07/blind-date-she-struck-much-more-logical-than-emotional/1Kufjs2rTGckUonemELa5I/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Harvard",
+            "NFL",
+            "Super Bowl"
+        ],
+        "peaks": [],
+        "theme": [
+            "Bowl",
+            "get",
+            "Harvard",
+            "heap",
+            "linebacker",
+            "NFL",
+            "stock"
+        ],
+        "timestamp": "2018-09-08 12:10:20.672059-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b92bcff421aa927c59cebff",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/eXCnZOyuHIzfRVW1bZTediMZhi0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UJFH4W66UM2JPJWT6MP63PK7AY.jpg",
+                    "origin": "Washington Post",
+                    "title": "NFL tickets for stock tips: A Super Bowl linebacker and a Harvard whiz get themselves in a heap of trouble",
+                    "ts": 1536339971,
+                    "twitterid": 1038111199349678085,
+                    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/09/07/nfl-tickets-for-stock-tips-an-eagles-linebacker-and-a-harvard-whiz-get-themselves-in-a-heap-of-trouble/?utm_term=.19bb0d710e8a&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Prison Manafort",
+            "FBI Papadopoulos",
+            "Sentenced",
+            "New York Times Interview",
+            "Trump",
+            "Mueller",
+            "Russian",
+            "George Papadopoulos",
+            "Russia Probe"
+        ],
+        "peaks": [],
+        "theme": [
+            "Papadopoulos",
+            "sentenced",
+            "Trump",
+            "days",
+            "George",
+            "prison",
+            "adviser"
+        ],
+        "timestamp": "2018-09-08 12:10:20.969360-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b92f537421aa92d13364482",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-25367/social",
+                    "origin": "Capital Journal",
+                    "title": "Ex-Trump Campaign Adviser George Papadopoulos Sentenced to 14 Days In Prison",
+                    "ts": 1536354644,
+                    "twitterid": 1038172739230748677,
+                    "url": "https://www.wsj.com/articles/ex-trump-campaign-adviser-george-papadopoulos-sentenced-to-14-days-in-prison-1536353828?mod=e2twp"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c4274",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/07/Trump_Russia_Probe_Papadopoulos_34444.jpg-0570e_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "George Papadopoulos, former Trump campaign adviser, sentenced to 2 weeks in prison",
+                    "ts": 1536353759,
+                    "twitterid": 1038169027338817537,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/7/george-papadopoulos-sentenced-two-weeks-prison/"
+                },
+                {
+                    "_id": "5b930342421aa92dfd5afd00",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:c5a89bb98fb340e29cf1956d8c7a5fd5/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Ex-Trump campaign adviser sentenced to 14 days in prison",
+                    "ts": 1536357947,
+                    "twitterid": 1038186594405150720,
+                    "url": "https://www.apnews.com/270300c4ced8471a975303ffad27cad6/Ex-Trump-campaign-adviser-sentenced-to-14-days-in-prison?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5b92f537421aa92d13364464",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/07/c71b6e62-1d04-4ee3-a234-0d2a74034b6f/thumbnail/1200x630g2/408ad9588817a23fecb2a2bd4aaf3eb3/rts20gsd.jpg",
+                    "origin": "CBS News",
+                    "title": "George Papadopoulos sentenced to 14 days in prison in Russia probe",
+                    "ts": 1536356385,
+                    "twitterid": 1038180041736310789,
+                    "url": "https://www.cbsnews.com/news/george-papadopoulos-sentence-14-days-in-jail-lied-russian-contacts-2018-09-07/?ftag=CNM-00-10aab7e&linkId=56574522"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c4280",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/o67qLHx240-K1NtfOmgeQRoS8uU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CYCWTNVS2II6RLWZAAJQTGIHO4.jpg",
+                    "origin": "Washington Post",
+                    "title": "Former Trump adviser George Papadopoulos sentenced to 14 days in plea deal with Mueller probe",
+                    "ts": 1536352901,
+                    "twitterid": 1038165431771652096,
+                    "url": "https://www.washingtonpost.com/local/public-safety/former-trump-adviser-george-papadopoulos-sentenced-to-14-days-in-plea-deal-with-mueller-probe/2018/09/07/bef367a2-b210-11e8-aed9-001309990777_story.html"
+                },
+                {
+                    "_id": "5b92f537421aa92d13364475",
+                    "date_month": "2018-09",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/09/papa-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Ex-Trump campaign adviser Papadopoulos sentenced to 14 days in jail",
+                    "ts": 1536355200,
+                    "twitterid": 1038175072463155201,
+                    "url": "https://www.pbs.org/newshour/politics/ex-trump-adviser-papadopoulos-sentenced-to-14-days-in-jail"
+                },
+                {
+                    "_id": "5b931f55421aa92f5f004e3b",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/c8/27/9951ad434938a5c04fd4a6dd1a7a/180907-george-papadopoulos-getty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Papadopoulos sentenced to 14 days in prison",
+                    "ts": 1536366610,
+                    "twitterid": 1038222929224511488,
+                    "url": "https://www.politico.com/story/2018/09/07/george-papadopoulos-jail-sentence-809381"
+                },
+                {
+                    "_id": "5b930342421aa92dfd5afcd6",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/07/ap_18250769765715_wide-bbc1e9804d121b53608d1f3912bc795847be9792.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Ex-Trump Aide Papadopoulos, 1st Charged In Russia Probe, Sentenced To 14 Days",
+                    "ts": 1536360185,
+                    "twitterid": 1038195980984770560,
+                    "url": "https://www.npr.org/2018/09/07/645539743/ex-trump-aide-papadopoulos-1st-charged-in-russia-probe-sentenced-to-14-days?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b92f537421aa92d13364467",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/18/USAT/adee31c4-b21f-4899-90f0-d495478bdc4a-AFP_AFP_TV6IR.JPG?crop=4137,2316,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "Former Trump aide George Papadopoulos gets two-week prison sentence for lying to FBI about Russian election 'dirt'",
+                    "ts": 1536356172,
+                    "twitterid": 1038179151662858240,
+                    "url": "https://www.usatoday.com/story/news/2018/09/07/george-papadopoulos-ex-trump-aide-sentenced-russian-dirt-lie/1223711002/"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c4277",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/papadopoulosgeorge_090718gn4_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Papadopoulos sentenced to 14 days in jail in Mueller probe",
+                    "ts": 1536353523,
+                    "twitterid": 1038168039680876545,
+                    "url": "http://thehill.com/homenews/administration/405636-papadopoulos-sentenced-in-mueller-probe"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            54
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Starr Inquiry",
+            "Hottest Ticket",
+            "Long History Cory Booker",
+            "Wade Brief",
+            "Democratic Norms John Dean",
+            "Democratic",
+            "Supreme Court Confirmation",
+            "Leahy",
+            "Cory Booker",
+            "Mueller Booker",
+            "Watergate",
+            "Zina Bash",
+            "Clinton",
+            "Senate",
+            "Mitch",
+            "Phony",
+            "Children",
+            "Supreme Court Nominee Brett Kavanaugh Confirmation Hearing",
+            "Supreme Court",
+            "Parkland",
+            "Kavanaugh Harris",
+            "Science Does",
+            "Booker Over",
+            "Dems",
+            "Spartacus",
+            "Russia",
+            "John Dean",
+            "Nixon White House",
+            "GOP",
+            "Trump",
+            "Town Witnesses",
+            "McConnell",
+            "Women",
+            "GIF",
+            "Brett Kavanaugh"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "hearings",
+            "confirmation",
+            "Booker",
+            "Court",
+            "Supreme",
+            "Days"
+        ],
+        "timestamp": "2018-09-08 12:10:21.889536-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b93b9f1421aa9371b86f3ba",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/07/gettyimages-1027070798kavphotogs_wide-1560db87aa0fe69cdef7e6f17be7cf1b82daee4a.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Kavanaugh Looks On Path To Supreme Court Confirmation, After 4 Days Of Hearings",
+                    "ts": 1536404886,
+                    "twitterid": 1038383472123961345,
+                    "url": "https://www.npr.org/2018/09/08/645628452/kavanaugh-looks-on-path-to-supreme-court-confirmation-after-4-days-of-hearings?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b92cb10421aa92a45ba3a04",
+                    "date_month": "2018-09",
+                    "image": "https://images.c-span.org/Files/bdf/20180907130712002_hd.jpg/Thumbs/height.630.no_border.width.1200.jpg",
+                    "origin": "CSPAN",
+                    "title": "Supreme Court Nominee Brett Kavanaugh Confirmation Hearing, Day 4, Part 2",
+                    "ts": 1536346302,
+                    "twitterid": 1038137753702227968,
+                    "url": "https://www.c-span.org/video/?449707-3/supreme-court-nominee-brett-kavanaugh-confirmation-hearing-day-4-part-2"
+                },
+                {
+                    "_id": "5b936591421aa93408fd7afa",
+                    "date_month": "2018-09",
+                    "image": "http://v.politico.com/images/1155968404/201809/3588/1155968404_5832252010001_5832250682001-vs.jpg?pubId=1155968404",
+                    "origin": "POLITICO",
+                    "title": "Harris and Booker borrow Trump's tactics in Supreme Court fracas",
+                    "ts": 1536386415,
+                    "twitterid": 1038305997226475520,
+                    "url": "https://www.politico.com/story/2018/09/07/harris-booker-kavanaugh-supreme-court-810654"
+                },
+                {
+                    "_id": "5b93577e421aa933a295bd80",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/06/0/0/694940094001_5831802167001_5831800872001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Sen. Thom Tillis: At Kavanaugh's Supreme Court confirmation hearing, Democrats engage in desperate stunts",
+                    "ts": 1536380101,
+                    "twitterid": 1038279514097242113,
+                    "url": "http://www.foxnews.com/opinion/2018/09/07/sen-thom-tillis-at-kavanaughs-supreme-court-confirmation-hearing-democrats-engage-in-desperate-stunts.html"
+                },
+                {
+                    "_id": "5b93b9f1421aa9371b86f39a",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/05/USAT/058f0071-29de-4273-bde2-3af755ddeacc-14__AP_Senate_Supreme_Court.4.JPG?crop=5498,3093,x1,y573&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Supreme Court nominee Brett Kavanaugh tiptoes through legal minefields on way to confirmation",
+                    "ts": 1536407703,
+                    "twitterid": 1038395286434066432,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/09/08/brett-kavanaugh-supreme-court-nominee-avoids-legal-minefields/1225161002/"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebd9",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:ac608eb9d0194a20b6dd454451c5e302/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Senate begins final day of Supreme Court nominee hearings",
+                    "ts": 1536342294,
+                    "twitterid": 1038120942432608257,
+                    "url": "https://www.apnews.com/0677a5d5bd4e4457b58f25fec805dc67?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5b931147421aa92eaff440f0",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/kavanaughbrett_090618gn19_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump in good shape to secure second Supreme Court confirmation victory",
+                    "ts": 1536361803,
+                    "twitterid": 1038202770405384194,
+                    "url": "http://thehill.com/homenews/senate/405658-trump-in-good-shape-to-secure-second-supreme-court-confirmation-victory"
+                },
+                {
+                    "_id": "5b93577e421aa933a295bd7d",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/05/fb6c4cf2-f449-4fbf-bd1b-d4e2bc45c261/thumbnail/1200x630/441443bc3a93dd04eef9440df0808e08/gettyimages-1026725388.jpg",
+                    "origin": "CBS News",
+                    "title": "Witnesses testify in final day of Brett Kavanaugh confirmation hearings",
+                    "ts": 1536380283,
+                    "twitterid": 1038280277771120641,
+                    "url": "https://www.cbsnews.com/news/brett-kavanaugh-confirmation-hearing-supreme-court-john-dean-live-stream-today-09-07-2018/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b934d7904d301431558845d&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b93e425421aa9391b532578",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/05/aa5ad192-ce78-4ce6-a630-f11a28e8020d/thumbnail/1200x630g2/43c3460e5a55ac2f1a57f12e09dca914/gettyimages-1027064682.jpg",
+                    "origin": "CBS News",
+                    "title": "What we've learned about Brett Kavanaugh from his confirmation hearings",
+                    "ts": 1536418801,
+                    "twitterid": 1038441833607639046,
+                    "url": "https://www.cbsnews.com/news/brett-kavanaugh-what-weve-learned-confirmation-hearings-2018-09-08/?ftag=CNM-00-10aab7e&linkId=56597996"
+                },
+                {
+                    "_id": "5b92d906421aa92b56de953e",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/07/Senate_Supreme_Court_40791.jpg-b684a_s2048x1379.jpg?82eeccd4ec800f12674f17157f0e36c019aba40b",
+                    "origin": "The Washington Times",
+                    "title": "John Dean, Nixon White House lawyer, warns against confirming Kavanaugh to Supreme Court",
+                    "ts": 1536349933,
+                    "twitterid": 1038152981869481991,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/7/john-dean-nixon-white-house-lawyer-warns-against-c/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            457
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "New York",
+            "People Behind Them",
+            "Russia Montana",
+            "Mashpee Wampanoag",
+            "Joseph Randle",
+            "Abigail Hernandez",
+            "Republican House Seats",
+            "John Legend",
+            "Teen",
+            "Philadelphia",
+            "Anxiety",
+            "Red Sox",
+            "Duxbury",
+            "Iraq Boko Haram",
+            "Small Donations Past",
+            "Louisiana",
+            "USC",
+            "Patrick Chung",
+            "YouTube",
+            "League Amazon",
+            "Missouri",
+            "Budapest",
+            "New Way",
+            "Iraqi",
+            "Dana Rohrabacher",
+            "Randy Credico",
+            "New York Kathy Griffin",
+            "DHS",
+            "U.S.",
+            "Parkland",
+            "Juan Martin",
+            "London",
+            "City Jail Rapper Mac Miller",
+            "Woods Facebook",
+            "Lollapalooza",
+            "NYC",
+            "John Schneider",
+            "Colin Kaepernick Good",
+            "Kaepernick Ad",
+            "Mexico Russian",
+            "Ray Allen",
+            "New Orleans",
+            "North Dakota",
+            "BMW",
+            "Cindy",
+            "Basra Torch Iranian Consulate Cruz",
+            "Finance Face",
+            "South Dakota",
+            "Son Has",
+            "US",
+            "Cutback Sends Wrong Message Patriots",
+            "Obama",
+            "Marla Maples",
+            "Tech Won",
+            "Stormy Daniels Blake Shelton",
+            "Rise Herb",
+            "White Sox",
+            "Weinstein",
+            "City Hall",
+            "Mexico",
+            "Laden Atlanta",
+            "Larry Nassar",
+            "Post Malone",
+            "Equal Shreds",
+            "Local Elections",
+            "DeSantis",
+            "Congress",
+            "Review",
+            "Tommy John",
+            "Mistake",
+            "McCain",
+            "Iranian Kurdish",
+            "Michael Moore",
+            "Scott Frost",
+            "Trump Gwyneth Paltrow",
+            "Debra Van Horn",
+            "Donald Trump Army Veteran",
+            "Oklahoma Bill",
+            "Balls",
+            "John Legend Verizon",
+            "Huge Hit",
+            "Assault Charge",
+            "Gettysburg Address Sisters",
+            "House GOP Ends Talks",
+            "Foil Trump",
+            "Alamo",
+            "Stormy Daniels",
+            "Syrian",
+            "Texas Senate Race",
+            "Gordon No",
+            "Hillary Clinton",
+            "Company",
+            "Behind Trump",
+            "Wait",
+            "NFL",
+            "Medical Aid To Palestinians By Trump",
+            "Study",
+            "Far Right",
+            "Chicago",
+            "Elon Musk",
+            "Joe Rogan",
+            "CEO",
+            "South Carolina Jim Carrey",
+            "Autopilot",
+            "McHenry",
+            "New Balance",
+            "Mud Wallow",
+            "Wyoming Heidi Klum",
+            "Boston",
+            "Burt Reynolds",
+            "Kansas House",
+            "California",
+            "Subscribe",
+            "Cancer",
+            "Airbus Looks Windward",
+            "America Carlsberg",
+            "Colin Kaepernick",
+            "Visium Founder",
+            "Elliott Broidy",
+            "Christine Marinoni",
+            "Watch",
+            "Michael Kopech",
+            "GOP",
+            "New York Fashion Week",
+            "Breaking News",
+            "VFW",
+            "Homes",
+            "Unconventional",
+            "Guinness World Record",
+            "Iran",
+            "Beto",
+            "Moscow",
+            "DeMotte",
+            "Service Violation",
+            "Tim Gunn",
+            "Alex Jones Very Rich",
+            "App Store Elon Musk",
+            "Secret Service",
+            "Dissident",
+            "Fame Victims",
+            "Tara Sullivan",
+            "Sam Bodman",
+            "Kevin Garnett",
+            "McConnell",
+            "Mass",
+            "American Retreat",
+            "Taunton",
+            "Armour",
+            "Vermont",
+            "Touch With Their Abusers",
+            "North Carolina",
+            "Long",
+            "Ethanol",
+            "Samuel Bodman",
+            "Robert Mueller",
+            "Grand Central",
+            "Tourism Nike",
+            "Runway",
+            "Executive",
+            "Stormy Daniels How",
+            "Osama",
+            "Arizona Cardinals",
+            "Daniels",
+            "Dallas",
+            "Florida Must Provide Election Materials",
+            "Kevin Paul Dupont",
+            "Infowars Bill Daily",
+            "Ubuntu",
+            "Midwest",
+            "Street Summertime Stock",
+            "Delaware",
+            "Spanish Tesla",
+            "Sweden",
+            "Brexit",
+            "Cincinnati",
+            "Astros",
+            "Trump",
+            "Iranian Consulate",
+            "Hawaii",
+            "Main",
+            "Geoffrey Owens Michael Cohen",
+            "OxyContin",
+            "Discount Jungle",
+            "Adrian Peterson",
+            "America",
+            "Hudson River",
+            "Apparel Line Counters",
+            "Republican Taking",
+            "Feuds",
+            "US Catholic",
+            "Rafael Nadal",
+            "Season",
+            "Quentin Tarantino",
+            "Miss America",
+            "Fargo",
+            "Campaign Ads Social Security",
+            "Original",
+            "Senate Election Pope",
+            "Glass Ceiling",
+            "Michael Cohen",
+            "Israel",
+            "History Classes",
+            "John Lennon",
+            "Chief Accountant",
+            "AOL",
+            "Koh",
+            "America Man",
+            "Nicki Minaj",
+            "Alaska",
+            "Jason Hairston",
+            "Shawn Mendes",
+            "Burger",
+            "Campbell Soup",
+            "Crisis",
+            "Next",
+            "ABC News",
+            "Swedish",
+            "Refugee Road U.S.",
+            "Tax Cuts",
+            "Eddie Goldman",
+            "John Dean",
+            "US Open",
+            "WEEI",
+            "Man",
+            "Blackout",
+            "UFC",
+            "Deported Europe",
+            "Dulles Airport",
+            "Roger Stone",
+            "Massachusetts",
+            "Hyde Park US",
+            "Arctic Ocean Kathy Griffin",
+            "John Hickenlooper",
+            "Grant Park",
+            "Cynthia Nixon",
+            "Men And Women The Pentagon",
+            "Defense Department",
+            "Bill Maher",
+            "Limbaugh",
+            "Slow Struggle",
+            "Fire Woman",
+            "Gloucester",
+            "Donald Trump",
+            "India",
+            "Tom Brady",
+            "Xander Schauffele",
+            "PlaidShirtGuy French",
+            "Marijuana Chicago Park District",
+            "Mother",
+            "Yosemite",
+            "Pony",
+            "Basra Celebrity",
+            "Gary Washburn",
+            "America Maine",
+            "Deep Throat",
+            "McGrath Gets Lift From Video Showcasing Her Career",
+            "Save Us",
+            "George Costanza",
+            "Redskins",
+            "Canada",
+            "Evil Nuns Have Tormented Audiences For Centuries Wages",
+            "Apple",
+            "Trahan",
+            "Amazon New Hampshire",
+            "Serena Williams",
+            "Play Female",
+            "DUI",
+            "WikiLeaks",
+            "Illinois",
+            "Jack Ma",
+            "Brazil Launching Rogue Satellites Into Space",
+            "Native Americans",
+            "Conspiracy",
+            "Cohasset",
+            "Dustin Pedroia",
+            "Permanently Stop",
+            "Brad Pitt",
+            "Blind Football Player Proves Gym Time",
+            "Sexual Violence Often Stay",
+            "Kaepernick",
+            "Nebraska",
+            "LeBron James",
+            "Ships Moving Plane Parts",
+            "Kim",
+            "Elderly",
+            "Cook",
+            "Retail Glory",
+            "Hurricane Olivia",
+            "DC",
+            "Guatemala",
+            "House Jason Hairston",
+            "Argentina Who",
+            "Kaepernick Nike",
+            "Stormy Daniels Utah",
+            "Evidence",
+            "Dick Cheney",
+            "Inside Twitter",
+            "Kate Spade New York",
+            "FEMA",
+            "Nicaragua",
+            "Patriots",
+            "Al Franken",
+            "Colorado",
+            "Steve Nash",
+            "Sarah Weinman",
+            "Oscar",
+            "GoFundMe",
+            "Tribes",
+            "Nigeria Roger Stone",
+            "Google",
+            "West Nile",
+            "U.S. North Korea",
+            "Lonely Planet National",
+            "Midterms",
+            "Vatican",
+            "Belgium",
+            "Mac Miller",
+            "Kansas Dem",
+            "Cambridge Analytica",
+            "Germs",
+            "Boston Calling",
+            "Border Patrol",
+            "Every House",
+            "Trick",
+            "Rapper Mac Miller",
+            "Eagles",
+            "Kanye West",
+            "Renewable Fuel Standard",
+            "Heidi Klum",
+            "Wicker Park",
+            "Nicki Minaj No",
+            "Discontent Heard",
+            "Jeannie",
+            "China Alibaba",
+            "New England",
+            "South Street Diner",
+            "LGBT",
+            "Andrew Gillum",
+            "Russia",
+            "East Coast",
+            "HUBweek",
+            "Third District",
+            "Trainer Arrested",
+            "Great",
+            "Santa Fe",
+            "School",
+            "Idlib",
+            "Security Check Required Full",
+            "Pentagon",
+            "Lock",
+            "Nine",
+            "Tropical Storm Florence",
+            "America Celebrities",
+            "Alex Jones",
+            "Toronto Jason Kidd",
+            "Portland",
+            "Michigan",
+            "Real Lolita",
+            "Will Put Sails",
+            "India Oklahoma",
+            "Marine Pilot Listen",
+            "Buzzards Bay Chelsea",
+            "House",
+            "Interior Department",
+            "NBC News",
+            "Catholic Church",
+            "Sample Ballots"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "says",
+            "News",
+            "Man",
+            "gets",
+            "Kaepernick",
+            "report"
+        ],
+        "timestamp": "2018-09-08 12:10:26.410816-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b92d906421aa92b56de9549",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2016/08/08/Justice_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Social Security's 'Conn' man gets 27 years in prison",
+                    "ts": 1536349453,
+                    "twitterid": 1038150968762875909,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/7/social-securitys-conn-man-gets-27-years-prison/"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c42a3",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/kaepernick_billboard.jpg",
+                    "origin": "The Hill",
+                    "title": "Nike's online sales surge after Kaepernick ads revealed: report",
+                    "ts": 1536351009,
+                    "twitterid": 1038157493581606913,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/405633-nikes-online-sales-surge-after-kaepernick-ads-revealed-report"
+                },
+                {
+                    "_id": "5b92f537421aa92d13364453",
+                    "date_month": "2018-09",
+                    "image": "https://prod-video-us-east-1.pscp.tv/SvABPV65Zgl5v5YBx_itNSdb0Vu6oauP4V_EALGD0wOvzgWWbUX7oFfxRAvMOjM5AE8K3ut9fGf09FFQcpAh6w/live_thumbnail/us-east-1/eyJkIjowfQ/latest.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMXlwS2RZdmF6Wm5HVyIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE1MzYzNTc2MzMsIkdyYW50ZWRUbyI6IndlYi1yYXRlLWxpbWl0ZWQtYjlhMTBiOTE2YWEzMzZhYTU4NDdiNGE1NmQ0NTQ2MzgiLCJTdHJlYW1OYW1lIjoiU3ZBQlBWNjVaZ2w1djVZQnhfaXROU2RiMFZ1Nm9hdVA0Vl9FQUxHRDB3T3Z6Z1dXYlVYN29GZnhSQXZNT2pNNUFFOEszdXQ5ZkdmMDlGRlFjcEFoNnciLCJleHAiOjE1MzY1MzA0MzN9.ZO7cA2Ve331KnWH7hwSFGnrqgqZlyyKxz78UdLQ3cWs&service=proxsee&digest=Rm7wIdB-Pdd_MSjqYEazwuF8hj3XfP10hAvdbCwavFQ&ts=768178816",
+                    "origin": "MSNBC",
+                    "title": "NBC News: \"LIVE: Trump speaks in South Dakota\"",
+                    "ts": 1536356931,
+                    "twitterid": 1038182335563423744,
+                    "url": "http://pscp.tv/w/1ypKdYvazZnGW"
+                },
+                {
+                    "_id": "5b92cb10421aa92a45ba3a28",
+                    "date_month": "2018-09",
+                    "image": "https://prod-video-us-east-1.pscp.tv/pUuHaiSdn_OX6IfN3cBlDRCW_TJRNyYN0S4T9RQ0CN8Q-gva77FY2cahgLqR6Mw7uxdUpmC-lLh0OiMjKyGiQA/replay_thumbnail/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJkIjowfQ/chunk_1536344432091819590_929_a.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMWpNSmdFdlZXV21LTCIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE1MzYzNDQ0OTYsIkdyYW50ZWRUbyI6IndlYi1yYXRlLWxpbWl0ZWQtMTI3OWFkMDY1Mjc2YWU2OTE3NjM5ZWIyMTM1NTk4ZjgiLCJTdHJlYW1OYW1lIjoicFV1SGFpU2RuX09YNklmTjNjQmxEUkNXX1RKUk55WU4wUzRUOVJRMENOOFEtZ3ZhNzdGWTJjYWhnTHFSNk13N3V4ZFVwbUMtbExoME9pTWpLeUdpUUEiLCJleHAiOjE1MzY1MTcyOTZ9.DGRBXpgmNuUNqVvvUzbmCwkNuAjD6s_yWsMahzvtUA8&service=proxsee&digest=cK86j85mVfjSsROji_m_VVlHARp7UUmUG-gHgnF2cm0",
+                    "origin": "ABC News",
+                    "title": "ABC News Politics: \"Pres. Trump delivers remarks in North Dakota.\"",
+                    "ts": 1536344500,
+                    "twitterid": 1038130194941399040,
+                    "url": "https://www.periscope.tv/ABCPolitics/1jMJgEvVWWmKL?t=14s&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b92aee8421aa924f087f13d",
+                    "date_month": "2018-09",
+                    "image": "https://twt-assets.washtimes.com/v4/images/favicon.6bd96ab48f85.ico",
+                    "origin": "The Washington Times",
+                    "title": "Politics, Breaking News, US and World News",
+                    "ts": 1536337302,
+                    "twitterid": 1038100002734780417,
+                    "url": "https://www.washingtontimes.com/"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebd8",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/07/trump_62809_s2048x1296.jpg?1f36b7137a6a2605a8dabb9e7363ae8b942d2b2e",
+                    "origin": "The Washington Times",
+                    "title": "Trump getting letter from Kim Jong-un, expects 'positive' news on denuclearization",
+                    "ts": 1536342295,
+                    "twitterid": 1038120947918807041,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/7/trump-getting-letter-kim-jong-un-expects-positive-/"
+                },
+                {
+                    "_id": "5b934974421aa93338ec2c5a",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/06/8888ac0c-9e78-4bed-a0b6-097d36e9f6b4/thumbnail/1200x630/3bca91f9c31ec3831a1c449979467b2c/pjimage.jpg",
+                    "origin": "CBS News",
+                    "title": "Donald Trump Jr. \"fixed\" Kaepernick Nike ad with father's face",
+                    "ts": 1536375785,
+                    "twitterid": 1038261412236337152,
+                    "url": "https://www.cbsnews.com/news/trump-face-colin-kaepernick-nike-ad-fixed-donald-trump-jr-instagram/"
+                },
+                {
+                    "_id": "5b93d618421aa9388147e326",
+                    "date_month": "2018-09",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/ozarks.jpg?itok=7n25Obze",
+                    "origin": "Fox News",
+                    "title": "Nike Is 'Exploiting' a Divisive Issue: MO College Says It's Dropping Nike After Kaepernick Ad",
+                    "ts": 1536413489,
+                    "twitterid": 1038419554131685376,
+                    "url": "http://insider.foxnews.com/2018/09/07/college-ozarks-drops-nike-over-colin-kaepernick-ad-fox-friends-interview"
+                },
+                {
+                    "_id": "5b934974421aa93338ec2c4f",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/16/0/0/694940094001_5822972601001_5822965166001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Jim Carrey says 'no Trump' can take away innocence from Americans",
+                    "ts": 1536377100,
+                    "twitterid": 1038266927846703105,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/07/jim-carrey-says-no-trump-can-take-away-innocence-from-americans.html"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c4276",
+                    "date_month": "2018-09",
+                    "image": "https://media.newyorker.com/photos/5b91e47f2c0c1035aeefc47a/16:9/w_1200,h_630,c_limit/McGrath-NFL-Opener.jpg",
+                    "origin": "The New Yorker",
+                    "title": "\u201cWe\u2019re All Sleepwalking\u201d: The Original N.F.L. Dissident on Kaepernick, Trump, and the Fate of the League",
+                    "ts": 1536353643,
+                    "twitterid": 1038168544096206848,
+                    "url": "https://www.newyorker.com/news/sporting-scene/were-all-sleepwalking-the-original-nfl-dissident-on-kaepernick-trump-and-the-fate-of-the-league?mbid=social_twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "GOP",
+            "Republican Party"
+        ],
+        "peaks": [],
+        "theme": [
+            "considers",
+            "GOP",
+            "leaving",
+            "Party",
+            "regularly",
+            "Republican",
+            "says"
+        ],
+        "timestamp": "2018-09-08 12:10:26.491643-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b93e425421aa9391b53258a",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/sasseben_061818gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP senator says he 'regularly considers' leaving Republican party",
+                    "ts": 1536417185,
+                    "twitterid": 1038435056942018561,
+                    "url": "http://thehill.com/homenews/senate/405691-gop-senator-acknowledges-that-hes-regularly-considers-leaving-republican?__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b93f239421aa93a3ccb780c",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/sasseben_061818gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP senator says he 'regularly' considers leaving Republican Party",
+                    "ts": 1536421022,
+                    "twitterid": 1038451152386514944,
+                    "url": "http://thehill.com/homenews/senate/405691-gop-senator-acknowledges-that-hes-regularly-considers-leaving-republican"
+                },
+                {
+                    "_id": "5b93f239421aa93a3ccb780b",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/08/5c3c99e2-ad4a-4047-94e0-602383592613/thumbnail/1200x630g2/f6d3f5aac39b6b18d3f1b4d1f65b7a76/sasse.jpg",
+                    "origin": "CBS News",
+                    "title": "GOP Sen. Ben Sasse says he \"regularly\" considers leaving the Republican Party",
+                    "ts": 1536421179,
+                    "twitterid": 1038451808954404864,
+                    "url": "https://www.cbsnews.com/news/senator-ben-sasse-says-he-regularly-considers-leaving-the-republican-party/?ftag=CNM-00-10aab7e&linkId=56599738"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "American",
+            "Trump",
+            "Obama",
+            "Normal",
+            "Speech",
+            "University",
+            "Illinois Obama",
+            "Hardest Stance Against Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Obama",
+            "speech",
+            "Former",
+            "President",
+            "Read",
+            "Transcript",
+            "Trump"
+        ],
+        "timestamp": "2018-09-08 12:10:26.939101-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b92e7a0421aa92c4a2c4272",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/07/USAT/e90768ec-1797-4d7d-bd2f-c1b298b2f545-VPC_OBAMA_SLAMS_TRUMP_DESK_THUMB.jpg?crop=1919,1079,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "Read transcript of former President Obama's speech, blasting President Trump",
+                    "ts": 1536354001,
+                    "twitterid": 1038170043110944768,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/09/07/president-barack-obamas-speech-transcript-slamming-trump/1225554002/"
+                },
+                {
+                    "_id": "5b932d60421aa9301bca5063",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/07/BostonGlobe.com/Politics/Images/6090c20f-5d9c-429b-93b9-4d3fef380ff5.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Read a transcript of former President Obama\u2019s speech in Illinois",
+                    "ts": 1536370987,
+                    "twitterid": 1038241287693131778,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/09/07/read-transcript-former-president-obama-speech-illinois/BMyIcvxxM8RT6DxGECHAQP/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b933b71421aa932cfa418e2",
+                    "date_month": "2018-09",
+                    "image": "http://v.politico.com/images/1155968404/201809/1508/1155968404_5832171261001_5832155601001-vs.jpg?pubId=1155968404",
+                    "origin": "POLITICO",
+                    "title": "Transcript: Former President Obama's speech at the University of Illinois",
+                    "ts": 1536373808,
+                    "twitterid": 1038253122328686592,
+                    "url": "https://www.politico.com/story/2018/09/07/obama-university-of-illinois-speech-811130"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c4285",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/obamabarack_09072018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "READ: Obama rebukes Trump in fiery speech",
+                    "ts": 1536352621,
+                    "twitterid": 1038164256791949312,
+                    "url": "http://thehill.com/homenews/campaign/405640-read-obama-rebukes-trump-in-fiery-speech"
+                },
+                {
+                    "_id": "5b93577e421aa933a295bd6c",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/09/RTS20GAN/facebook.jpg?1536342045",
+                    "origin": "The Atlantic",
+                    "title": "\u2018This Is Not Normal\u2019: Obama Takes His Hardest Stance Against Trump",
+                    "ts": 1536382170,
+                    "twitterid": 1038288195602063360,
+                    "url": "https://www.theatlantic.com/politics/archive/2018/09/barack-obama-american-democracy-trump-speech/569605/?utm_medium=social&utm_content=edit-promo&utm_term=2018-09-07T17%3A41%3A00&utm_source=twitter&utm_campaign=the-atlantic"
+                },
+                {
+                    "_id": "5b932d60421aa9301bca5084",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/07/18cabdeb-d99b-409c-9325-c32432ac466e/thumbnail/1200x630g2/6434846aa5292ac30205623a222fa509/rts20ggc.jpg",
+                    "origin": "CBS News",
+                    "title": "Obama's full speech on the state of American democracy",
+                    "ts": 1536369296,
+                    "twitterid": 1038234195800326145,
+                    "url": "https://www.cbsnews.com/news/barack-obama-speech-full-transcript-2018-09-07/?ftag=CNM-00-10aab7e&linkId=56576844"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebdc",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/09/RTS20GAN/facebook.jpg?1536342045",
+                    "origin": "The Atlantic",
+                    "title": "Obama\u2019s Speech on the State of American Democracy: Full Text",
+                    "ts": 1536342102,
+                    "twitterid": 1038120135498911745,
+                    "url": "https://www.theatlantic.com/politics/archive/2018/09/barack-obama-american-democracy-trump-speech/569605/?utm_medium=social&utm_content=edit-promo&utm_term=2018-09-07T17%3A41%3A00&utm_source=twitter&utm_campaign=the-atlantic"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            15
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Chinese",
+            "Apple Watch",
+            "China",
+            "Eisenhower",
+            "Trump",
+            "AirPods Trump",
+            "China Tariffs Will Set Back U.S.",
+            "China Tariffs",
+            "Air Pods",
+            "Chinese Imports Trump",
+            "U.S.-China Trade Deal Trump",
+            "U.S."
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "tariffs",
+            "China",
+            "Chinese",
+            "says",
+            "hit"
+        ],
+        "timestamp": "2018-09-08 12:10:27.173001-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b92f537421aa92d1336447d",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-25366/social",
+                    "origin": "Capital Journal",
+                    "title": "Apple Says China Tariffs Would Hit Watch, AirPods",
+                    "ts": 1536354762,
+                    "twitterid": 1038173234708004864,
+                    "url": "https://www.wsj.com/articles/apple-says-china-tariffs-would-hit-watch-airpods-1536353245?mod=e2twp"
+                },
+                {
+                    "_id": "5b931147421aa92eaff440cf",
+                    "date_month": "2018-09",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180501180322-apple-store-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "Apple says China tariffs would hit Apple Watch, Air Pods",
+                    "ts": 1536363665,
+                    "twitterid": 1038210576944652288,
+                    "url": "https://money.cnn.com/2018/09/07/technology/apple-china-tariffs-apple-watch-air-pods/index.html?utm_medium=social&utm_term=image&utm_content=2018-09-07T23%3A41%3A02&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebf9",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-25305/social",
+                    "origin": "Capital Journal",
+                    "title": "Trump Says He\u2019s Preparing Tariffs on Further $267 Billion in Chinese Imports",
+                    "ts": 1536340449,
+                    "twitterid": 1038113204063416320,
+                    "url": "https://www.wsj.com/articles/trump-says-hes-preparing-tariffs-on-further-267-billion-in-chinese-imports-1536340041?mod=e2twp"
+                },
+                {
+                    "_id": "5b92d906421aa92b56de954c",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/07/d4692667-2f68-4e0c-8364-cdbcc27cfffa/thumbnail/1200x630/c220a1995bbbe6d66646c953bdd30e74/gettyimages-1027231190.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump: U.S. could move \"very soon\" to hit China with $200B in new tariffs",
+                    "ts": 1536349291,
+                    "twitterid": 1038150290447507456,
+                    "url": "https://www.cbsnews.com/news/trump-us-could-move-very-soon-to-hit-china-with-200b-in-new-tariffs/?ftag=CNM-00-10aab7e&linkId=56569673"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebe5",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald3indiana_083018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump vows an additional $267B in tariffs on Chinese goods",
+                    "ts": 1536341643,
+                    "twitterid": 1038118210351054848,
+                    "url": "http://thehill.com/policy/finance/405584-trump-vows-for-another-267b-in-tariffs-on-chinese-goods"
+                },
+                {
+                    "_id": "5b92cb10421aa92a45ba3a0a",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180705130921-trade-us-china-ships-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump warns of tariffs on another $267 billion of Chinese imports",
+                    "ts": 1536345968,
+                    "twitterid": 1038136350262943745,
+                    "url": "https://www.cnn.com/2018/09/07/politics/trump-china-tariff-war/index.html?utm_content=2018-09-07T18%3A46%3A06&utm_term=image&utm_source=twCNNp&utm_medium=social"
+                },
+                {
+                    "_id": "5b92cb10421aa92a45ba3a10",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_36/2558706/180907-donald-trump-mn-1230_54f115e722fca0fd26613b010d289387.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump: Could impose tariffs 'soon' on $200B in Chinese goods",
+                    "ts": 1536345524,
+                    "twitterid": 1038134490642767872,
+                    "url": "https://www.nbcnews.com/politics/donald-trump/trump-could-soon-impose-tariffs-200b-chinese-goods-n907566?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebee",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/07/Trump_99030.jpg-72f22_s2048x1277.jpg?3567878a4c4f4afc8ea185b5f5052784a1943eb2",
+                    "origin": "The Washington Times",
+                    "title": "Trump: Doubling of China trade tariffs 'ready to go'",
+                    "ts": 1536341237,
+                    "twitterid": 1038116510106112001,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/7/trump-doubling-china-trade-tariffs-ready-go/?cache"
+                },
+                {
+                    "_id": "5b92d906421aa92b56de9561",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/07/rockland-employees-inside-6_wide-058c5c19a71761fe23c78ccb3d0d87aefb650be6.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "This Company Likes Some Of Trump's Tariffs On China, But Not Others",
+                    "ts": 1536348038,
+                    "twitterid": 1038145032669126657,
+                    "url": "https://www.npr.org/2018/09/07/645605000/this-company-likes-some-of-trumps-tariffs-on-china-but-not-others?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b93b9f1421aa9371b86f39d",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:d11e2a8beab94e5fa8529f52b3c4106c/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump poised to tax an additional $200B in Chinese imports",
+                    "ts": 1536407490,
+                    "twitterid": 1038394395014389761,
+                    "url": "https://www.apnews.com/2cd989233ffb432b85af62f41ec2ee13?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            20
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Chinese",
+            "Deputy",
+            "Parkland",
+            "Find Out",
+            "School Start Bill",
+            "Taser",
+            "Maryland",
+            "West Coast Blame",
+            "Daily Spike",
+            "Schools Face Extreme Heat",
+            "Fafsa",
+            "Student",
+            "Surprise",
+            "California Teenagers Could Sleep Later"
+        ],
+        "peaks": [],
+        "theme": [
+            "school",
+            "Students",
+            "kids",
+            "sleeping",
+            "Teacher",
+            "Back",
+            "bus"
+        ],
+        "timestamp": "2018-09-08 12:10:27.595309-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b931f55421aa92f5f004e26",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/lifestyle/2018/09/07/daily-spike-back-to-school-for-kids-and-dogs/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1536342223233.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "The Daily Spike: Back to school for kids - and dogs",
+                    "ts": 1536367980,
+                    "twitterid": 1038228675643289600,
+                    "url": "http://www.foxnews.com/lifestyle/2018/09/07/daily-spike-back-to-school-for-kids-and-dogs.html"
+                },
+                {
+                    "_id": "5b93e425421aa9391b532583",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/09/08/students-steer-school-bus-to-safety-after-driver-has-heart-attack-behind-wheel/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1536415941668.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Students steer school bus to safety after driver has heart attack behind the wheel",
+                    "ts": 1536417796,
+                    "twitterid": 1038437619900866562,
+                    "url": "http://www.foxnews.com/us/2018/09/08/students-steer-school-bus-to-safety-after-driver-has-heart-attack-behind-wheel.html"
+                },
+                {
+                    "_id": "5b93d618421aa9388147e315",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180905111528-virginia-electric-fence-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "A man put up an electric fence near a school bus stop to keep kids off his lawn",
+                    "ts": 1536415209,
+                    "twitterid": 1038426769618034688,
+                    "url": "https://www.cnn.com/2018/09/05/us/bus-stop-electric-fence-trnd/index.html?utm_term=image&utm_medium=social&utm_content=2018-09-08T14%3A00%3A08&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b93e425421aa9391b53258e",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2015/03/2835345552_b8471bfaec_b/facebook.jpg?1522840962",
+                    "origin": "The Atlantic",
+                    "title": "Why I\u2019m a Public-School Teacher but a Private-School Parent",
+                    "ts": 1536417005,
+                    "twitterid": 1038434303099711490,
+                    "url": "https://www.theatlantic.com/education/archive/2015/03/why-im-a-public-school-teacher-but-a-private-school-parent/386797/?utm_campaign=the-atlantic&utm_content=5b93dceb04d30158295eaef2_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b93e425421aa9391b532598",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/_mVx7bIA6GhnKtTeZH53Grpr2XA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SACOZRVQNAI6RC2TKAIWO2HETE.jpg",
+                    "origin": "Washington Post",
+                    "title": "A parental walk of shame through the back-to-school aisles \u2014 and a hope for the new school year",
+                    "ts": 1536416337,
+                    "twitterid": 1038431498695663616,
+                    "url": "https://www.washingtonpost.com/local/a-parental-walk-of-shame-in-the-back-to-school-aisles--and-a-hope-for-the-new-school-year/2018/09/05/798cb63c-b067-11e8-a20b-5f4f84429666_story.html?utm_term=.01dece053074&tid=sm_tw"
+                },
+                {
+                    "_id": "5b937391421aa934ea1d8e13",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/06/10542093-662b-4ab2-9fc2-7efeaee41a71/thumbnail/1200x630/1e1496f570b1f54cdd03b178ffe50868/gettyimages-637549064.jpg",
+                    "origin": "CBS News",
+                    "title": "Report: School resource officer put on leave after using Taser to wake sleeping student",
+                    "ts": 1536388383,
+                    "twitterid": 1038314253277646849,
+                    "url": "https://www.cbsnews.com/news/school-resource-officer-used-taser-to-wake-sleeping-student-smithville-ohio/"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c428c",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/15/aptopix_school_shooting_florida_87330_s2048x1451.jpg?81922372b0a6b62153efed2b1ce774dc6995ef30",
+                    "origin": "The Washington Times",
+                    "title": "Deputy fired for sleeping on job after Parkland shooting",
+                    "ts": 1536352153,
+                    "twitterid": 1038162292708454400,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/7/deputy-fired-for-sleeping-on-job-after-parkland-sh/?cache"
+                },
+                {
+                    "_id": "5b938fb8421aa935fad26895",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2017/07/RTR1V5R7/facebook.jpg?1522774861",
+                    "origin": "The Atlantic",
+                    "title": "How Electronic Devices Are Affecting Kids' Art",
+                    "ts": 1536397206,
+                    "twitterid": 1038351258032189440,
+                    "url": "https://www.theatlantic.com/education/archive/2017/07/the-diminishing-role-of-art-in-childrens-lives/532674/?utm_campaign=the-atlantic&utm_content=5b938f9404d30139baaa586a_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b93b9f1421aa9371b86f3af",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:066b7719a3e3400ca354fb27d4de908e/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Full loan relief rare for students at for-profit colleges",
+                    "ts": 1536406081,
+                    "twitterid": 1038388483277185026,
+                    "url": "https://www.apnews.com/1ad0e96dd277470a86e74eaa0da0e619?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b93b9f1421aa9371b86f3be",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/07/da1b6c62-8f52-4636-9e55-c8f99e30c7e2/thumbnail/1200x630g4/f420f490f8f6bac29aaef99a7a9fe9dc/ap-18249631657190.jpg",
+                    "origin": "CBS News",
+                    "title": "Fights over teacher salaries and working conditions escalate along West Coast",
+                    "ts": 1536404583,
+                    "twitterid": 1038382200796995585,
+                    "url": "https://www.cbsnews.com/news/west-coast-teacher-strikes-washington-california-2018-09-07/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b93ac6504d30132748fadf5&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            67
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Marc Thiessen",
+            "Whoopi Goldberg",
+            "Kathy Griffin",
+            "Mueller",
+            "CNN",
+            "DOJ",
+            "New York Times",
+            "Nikki Haley",
+            "Chris Cuomo",
+            "Watergate",
+            "Everyone",
+            "Donald Trump AP",
+            "Clinton",
+            "Trump Resistance Writer Be",
+            "Oath Stop",
+            "Resistance Should",
+            "Biggest Fear",
+            "Rand Paul",
+            "Justice Dept",
+            "Washington",
+            "Jeff Sessions",
+            "Investigate",
+            "White House Trump",
+            "White House",
+            "Critical Anonymous Opinion Piece Trump",
+            "Trump Wants",
+            "Trump White House",
+            "Maddow",
+            "GOP",
+            "Trump",
+            "Donald Trump",
+            "Pence",
+            "NYT",
+            "NYTimes",
+            "George Papadopoulos",
+            "Elon Musk",
+            "Bob Woodward",
+            "Republican Party Omarosa",
+            "Launch Probe",
+            "Brett Kavanaugh"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "ed",
+            "op",
+            "anonymous",
+            "NYT",
+            "calls",
+            "author"
+        ],
+        "timestamp": "2018-09-08 12:10:28.711464-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b92bcff421aa927c59cebe7",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/07/0/0/694940094001_5832051833001_5832038942001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump calls on Sessions to investigate anonymous NYT op-ed",
+                    "ts": 1536341473,
+                    "twitterid": 1038117499861192705,
+                    "url": "http://www.foxnews.com/politics/2018/09/07/trump-calls-on-doj-to-investigate-new-york-times-publication-anonymous-anti-trump-column-by-senior-administration-official.html"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebfc",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_36/2558736/180907-donald-trump-mn-1245_eedc5f89131223e3da941b8ae365418d.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Trump calls on Sessions to investigate anonymous author of 'resistance' op-ed",
+                    "ts": 1536340119,
+                    "twitterid": 1038111818500202497,
+                    "url": "https://www.nbcnews.com/politics/donald-trump/trump-calls-sessions-investigate-anonymous-author-resistance-op-ed-n907536?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebf7",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/53/f1/fecce5c5450e9cd63f96a0bc2673/180907-donald-trump-getty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump suggests DOJ should find author of anonymous NYT op-ed",
+                    "ts": 1536340588,
+                    "twitterid": 1038113788103483393,
+                    "url": "https://www.politico.com/story/2018/09/07/trump-justice-department-op-ed-810651"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cec00",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/01/04/Trump_Russia_Probe_11640.jpg-deb72_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump calls for Jeff Sessions to launch probe of anonymous New York Times op-ed author",
+                    "ts": 1536339856,
+                    "twitterid": 1038110714085433344,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/7/trump-calls-sessions-probe-anonymous-nyt-op-ed/?cache"
+                },
+                {
+                    "_id": "5b93d618421aa9388147e32f",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/whitehouse_04192005.jpg",
+                    "origin": "The Hill",
+                    "title": "CNN: Trump believes he\u2019s narrowing in on NYT op-ed author",
+                    "ts": 1536412864,
+                    "twitterid": 1038416933346070528,
+                    "url": "http://thehill.com/homenews/administration/405683-cnn-trump-believes-hes-narrowing-in-on-nyt-op-ed-author"
+                },
+                {
+                    "_id": "5b92d906421aa92b56de9539",
+                    "date_month": "2018-09",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/09/RTS206HL-1024x649.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "What\u2019s the global fallout from the anonymous NYT op-ed on Trump?",
+                    "ts": 1536350401,
+                    "twitterid": 1038154945944412160,
+                    "url": "https://www.pbs.org/newshour/world/whats-the-global-fallout-from-the-anonymous-nyt-op-ed-on-trump"
+                },
+                {
+                    "_id": "5b931f55421aa92f5f004e2c",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/53/f1/fecce5c5450e9cd63f96a0bc2673/180907-donald-trump-getty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump pushes Sessions to find author of anonymous NYTimes op-ed",
+                    "ts": 1536367510,
+                    "twitterid": 1038226704282669057,
+                    "url": "https://www.politico.com/story/2018/09/07/trump-justice-department-op-ed-810651"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c42a7",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/anonymousnyt_090518getty.jpg",
+                    "origin": "The Hill",
+                    "title": "NYT blasts Trump's call for DOJ to investigate anonymous op-ed",
+                    "ts": 1536350826,
+                    "twitterid": 1038156726678237194,
+                    "url": "http://thehill.com/homenews/administration/405630-nyt-blasts-trumps-call-for-doj-to-investigate-anonymous-op-ed"
+                },
+                {
+                    "_id": "5b93abd7421aa936b24647cf",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/07/bbb6ddfe-6657-4fc4-a858-252508a0a95e/thumbnail/1200x630/35cbf877a02bba3fb611af48c84898f1/gettyimages-1028045674.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump speculates about author of \"unfair\" op-ed",
+                    "ts": 1536403683,
+                    "twitterid": 1038378427521396736,
+                    "url": "https://www.cbsnews.com/news/trump-continues-to-refute-woodward-book-new-york-times-op-ed/"
+                },
+                {
+                    "_id": "5b937391421aa934ea1d8e15",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180906151601-political-glossary-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "7 terms you need to know to understand the anonymous NYT op-ed",
+                    "ts": 1536388266,
+                    "twitterid": 1038313760186949633,
+                    "url": "https://www.cnn.com/2018/09/06/politics/lodestar-constitutional-treason-glossary-trnd/index.html?utm_medium=social&utm_term=image&utm_content=2018-09-08T06%3A31%3A05&utm_source=twCNNp"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            52
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Illinois Dem",
+            "Islam",
+            "Urging Rebuke Of Trump And Politics Of 'Fear And Anger",
+            "Hillary",
+            "Most Divisive",
+            "Was Black Obama",
+            "Anonymous",
+            "Trump Obama",
+            "Charlottesville Obama",
+            "America",
+            "Lindsey Graham",
+            "Justice",
+            "Woodward Book",
+            "Illinois Obama",
+            "WATCH",
+            "U.S.",
+            "Obama Speech Are",
+            "Hillary Clinton",
+            "California",
+            "Obama Accuses Trump",
+            "Trump Donald Trump",
+            "Obama",
+            "Punch",
+            "Democrats",
+            "Nazis",
+            "DoJ Former",
+            "Robert",
+            "Trump White House",
+            "Watch",
+            "Medicare",
+            "Barack Obama",
+            "Trump",
+            "Barack Obama Trump",
+            "Donald Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Obama",
+            "Trump",
+            "Speech",
+            "Barack",
+            "says",
+            "asleep",
+            "fell"
+        ],
+        "timestamp": "2018-09-08 12:10:29.746119-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b92d906421aa92b56de956c",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/01/USAT/d4d3f911-f6b1-4ca9-8f6c-832ea1494bb7-VPC_OBAMA_HIGHLIGHT_DESK_THUMB.png?crop=1919,1079,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "Former President Barack Obama attacks Trump, who says he 'fell asleep' during speech",
+                    "ts": 1536347624,
+                    "twitterid": 1038143296378261504,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/09/07/barack-obama-preview-midterm-elections-message-chicago-speech/1218153002/"
+                },
+                {
+                    "_id": "5b930342421aa92dfd5afcda",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_09072018abc.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump on Obama speech: 'I fell asleep'",
+                    "ts": 1536360004,
+                    "twitterid": 1038195224013664256,
+                    "url": "http://thehill.com/homenews/administration/405604-trump-on-obama-speech-i-fell-asleep"
+                },
+                {
+                    "_id": "5b93b9f1421aa9371b86f395",
+                    "date_month": "2018-09",
+                    "image": "http://v.politico.com/images/1155968404/201809/2724/1155968404_5832171241001_5832163770001-vs.jpg?pubId=1155968404",
+                    "origin": "POLITICO",
+                    "title": "Trump on Obama's scorching speech: 'I fell asleep'",
+                    "ts": 1536408006,
+                    "twitterid": 1038396555840184320,
+                    "url": "https://www.politico.com/story/2018/09/07/trump-asleep-obama-speech-811129"
+                },
+                {
+                    "_id": "5b92cb10421aa92a45ba3a12",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/07/Trump_17417.jpg-182fe_s2048x1249.jpg?1177919fbb120b6d83b2488335088009a354697c",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump says Barack Obama\u2019s speech a snoozer",
+                    "ts": 1536345479,
+                    "twitterid": 1038134301580296193,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/7/donald-trump-says-barack-obamas-speech-snoozer/"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c429a",
+                    "date_month": "2018-09",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/09/l-1024x632.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Trump claims he fell asleep watching Obama speech",
+                    "ts": 1536351600,
+                    "twitterid": 1038159974650851329,
+                    "url": "https://www.pbs.org/newshour/politics/trump-claims-he-fell-asleep-watching-obama-speech"
+                },
+                {
+                    "_id": "5b92e7a0421aa92c4a2c42a1",
+                    "date_month": "2018-09",
+                    "image": "https://amp.businessinsider.com/images/5b92d42964dce829308b4e70-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "'I fell asleep': Trump unimpressed by Obama's speech taking aim at him",
+                    "ts": 1536351111,
+                    "twitterid": 1038157921014755333,
+                    "url": "https://www.businessinsider.com/trump-fell-asleep-obama-speech-illinois-2018-9"
+                },
+                {
+                    "_id": "5b931f55421aa92f5f004e36",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/07/BostonGlobe.com/Politics/Images/9fc13ba259444ba69e7afded4f3623d0-9fc13ba259444ba69e7afded4f3623d0-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "President Trump claims he fell asleep watching Obama\u2019s speech",
+                    "ts": 1536366786,
+                    "twitterid": 1038223667757547520,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/09/07/president-trump-claims-fell-asleep-watching-obama-speech/dUzesgaMaWvAEsBuXe8mfP/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b932d60421aa9301bca505d",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/Politics/donald-trump-fargo-rally-ap-1-thg-180907_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Trump shrugs off Obama speech that blasted him: 'I fell asleep'",
+                    "ts": 1536371464,
+                    "twitterid": 1038243288640364546,
+                    "url": "https://abcnews.go.com/Politics/trump-shrugs-off-obama-speech-blasted-fell-asleep/story?id=57677110&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b93b9f1421aa9371b86f3b9",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/07/0/0/694940094001_5832130124001_5832130563001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Obama returns to campaign trail with fiery speech; Trump counters, 'I fell asleep'",
+                    "ts": 1536404927,
+                    "twitterid": 1038383644656783361,
+                    "url": "http://www.foxnews.com/politics/2018/09/07/obama-rails-against-trump-republicans-in-fiery-return-to-campaign-trail.html"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebdb",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:f6baa6046dce4257904c80a3e41765e4/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Obama says Trump is 'the symptom, not the cause' of division",
+                    "ts": 1536342164,
+                    "twitterid": 1038120397600903168,
+                    "url": "https://www.apnews.com/a5dce2f480a045c9a7ad3c2c42618f17?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            2
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Trump",
+            "New Supreme Court",
+            "South Carolina",
+            "Planned Parenthood The Future"
+        ],
+        "peaks": [],
+        "theme": [
+            "Abortion",
+            "administration",
+            "Arkansas",
+            "Carolina",
+            "consider",
+            "Court",
+            "defund"
+        ],
+        "timestamp": "2018-09-08 12:10:29.797328-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b92aee8421aa924f087f142",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/prolifeplannedparenthood_093017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump administration to consider South Carolina proposal to defund Planned Parenthood",
+                    "ts": 1536337143,
+                    "twitterid": 1038099336343760896,
+                    "url": "http://thehill.com/policy/healthcare/405561-trump-administration-to-consider-south-carolina-proposal-to-defund-planned"
+                },
+                {
+                    "_id": "5b92bcff421aa927c59cebdd",
+                    "date_month": "2018-09",
+                    "image": "https://static01.nyt.com/images/2018/08/15/us/00arkansas-01/00arkansas-01-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "The Future of Abortion Under a New Supreme Court? Look to Arkansas",
+                    "ts": 1536342064,
+                    "twitterid": 1038119978191478784,
+                    "url": "https://www.nytimes.com/2018/09/07/us/abortion-supreme-court-arkansas.html?smtyp=cur&smid=tw-nytnational"
+                }
+            ]
+        ]
+    }
+]

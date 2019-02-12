@@ -1,0 +1,2344 @@
+[
+    {
+        "list": [
+            42
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "US",
+            "Iran Celebrating Andrea Mitchell",
+            "Melania Trump",
+            "Senate Dem",
+            "Charlottesville",
+            "Bolton",
+            "North Korea",
+            "DNC",
+            "Bush",
+            "Brett Kavanaugh",
+            "Strong Praise Steve Bannon",
+            "NBC News White House",
+            "Ohio",
+            "QAnon",
+            "Donald Trump",
+            "Kim",
+            "Schiff",
+            "Dianne Feinstein",
+            "GOP Candidates Find Key",
+            "White Nationalists Love Corey Stewart",
+            "Swamp",
+            "South Korea",
+            "Iran",
+            "North Korea Warns U.S.",
+            "Fox News",
+            "Europe",
+            "China",
+            "American",
+            "California",
+            "U.S.",
+            "Trump",
+            "Biggest Stories",
+            "Watch",
+            "Chinese",
+            "FBI",
+            "Klobuchar",
+            "North Koreans",
+            "White House",
+            "Trump White House Top Democrat Klobuchar",
+            "Russia",
+            "Salmon"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "says",
+            "North",
+            "election",
+            "Korea",
+            "White"
+        ],
+        "timestamp": "2018-08-05 15:10:17.932595-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b670320421aa97df69910fc",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/78/3f/b8991b3646778f9957a715cd73c9/trump-kim-ap2.jpg",
+                    "origin": "POLITICO",
+                    "title": "White House not \u2018starry-eyed\u2019 about North Korea, Bolton says",
+                    "ts": 1533477443,
+                    "twitterid": 1026104886071644170,
+                    "url": "https://www.politico.com/story/2018/08/05/bolton-north-korea-trump-nuclear-763197"
+                },
+                {
+                    "_id": "5b663e49421aa9732b20fa4c",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/CAAzIECeLjN3BaMO1cg_VNT4egg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BA7364EWR4I6RAML5G3TJDGYPU.jpg",
+                    "origin": "Washington Post",
+                    "title": "South Korea longs for a train to Europe \u2014 but U.S. sanctions on North Korea block the way",
+                    "ts": 1533426513,
+                    "twitterid": 1025891271653699585,
+                    "url": "https://www.washingtonpost.com/world/asia_pacific/south-korea-longs-for-a-train-to-europe--but-us-sanctions-on-north-korea-block-the-way/2018/08/03/1760ef76-9007-11e8-9b0d-749fb254bc3d_story.html?utm_term=.61396ffdf432&tid=sm_tw"
+                },
+                {
+                    "_id": "5b670320421aa97df6991118",
+                    "date_month": "2018-08",
+                    "image": "https://images.wsj.net/im-20886/social",
+                    "origin": "Capital Journal",
+                    "title": "North Korea Warns U.S. of Difficulties Over Nuclear Deal",
+                    "ts": 1533474878,
+                    "twitterid": 1026094126687809536,
+                    "url": "https://www.wsj.com/articles/north-korea-rebuffs-south-at-regional-summit-1533369023?mod=e2twp"
+                },
+                {
+                    "_id": "5b66d8d2421aa97a798d2f34",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/04/b6d25a16-9d20-4349-abd8-426cdc6da2af/thumbnail/1200x630g2/ba658f3b71b04e05a6caae52ec4db155/pompeo4.jpg",
+                    "origin": "CBS News",
+                    "title": "U.S. warns Russia, China and others on enforcing North Korea sanctions",
+                    "ts": 1533464284,
+                    "twitterid": 1026049691295903744,
+                    "url": "https://www.cbsnews.com/news/un-report-says-north-korea-is-continuing-nuclear-and-missile-programs-2018-08-04/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b66ced904d30140da9628c8&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b661405421aa97147f85e0b",
+                    "date_month": "2018-08",
+                    "image": "http://www.latimes.com/resizer/sXXiT3vzbu-tqdKquMOqOUVRMkQ=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/CLXLGGBOB5FXZJZAKIP6WJ3H74.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "U.S. and North Korea trade friendly gestures, and critiques, in torturous diplomatic dance",
+                    "ts": 1533413087,
+                    "twitterid": 1025834958311452672,
+                    "url": "https://www.latimes.com/nation/la-fg-us-north-korea-20180804-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b671127421aa97eb2154274",
+                    "date_month": "2018-08",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_31/2520536/180805-mtp-amy-klobuchar-al-0938_2ca291cffdb07a8171790082010f1192.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Top Democrat Klobuchar says she remains 'very concerned' about a midterm election hack",
+                    "ts": 1533481209,
+                    "twitterid": 1026120679371026435,
+                    "url": "https://www.nbcnews.com/politics/congress/top-democrat-says-she-remains-very-concerned-about-midterm-election-n897756?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b663025421aa9727ff7393c",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/db/70/30b0b2d64c5ea4e8ffca55d84c71/180731-donald-trump3.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump says meeting with Iran is 'up to them'",
+                    "ts": 1533421992,
+                    "twitterid": 1025872308743876609,
+                    "url": "https://www.politico.com/story/2018/08/04/trump-iran-meeting-china-tariffs-762460"
+                },
+                {
+                    "_id": "5b665a54421aa9766ffb27c0",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/3f/a0/6529b827413e907fb4d8ef72a650/180804northkorealetterap-18216404000747.jpg",
+                    "origin": "POLITICO",
+                    "title": "U.S. delivers Trump letter to Kim to North Koreans",
+                    "ts": 1533433102,
+                    "twitterid": 1025918904680542209,
+                    "url": "https://www.politico.com/story/2018/08/04/trump-kim-letter-north-korea-asean-762423"
+                },
+                {
+                    "_id": "5b6605f7421aa970bcdfb5bb",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trumpmelania_070918gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Top aide to Melania Trump leaves White House: report",
+                    "ts": 1533411662,
+                    "twitterid": 1025828981231312896,
+                    "url": "http://thehill.com/homenews/administration/400328-top-aide-to-melania-trump-leaves-white-house?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b670320421aa97df6991102",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/b9/14/f54a5c314e42b77b3ce52565d9ff/180805boltonap-18214654095654.jpg",
+                    "origin": "POLITICO",
+                    "title": "Bolton: No disconnect between Trump and administration on election meddling",
+                    "ts": 1533476718,
+                    "twitterid": 1026101842688860165,
+                    "url": "https://www.politico.com/story/2018/08/05/bolton-trump-russia-election-meddling-762949"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            60
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Silicon Valley",
+            "New Normal",
+            "United States New York Gov",
+            "NATO",
+            "Afghanistan Elected Leaders",
+            "Greece",
+            "Dem Socialism",
+            "West Coast",
+            "Russian",
+            "Markets",
+            "Maria Butina",
+            "Sacha Baron Cohen",
+            "Suit",
+            "Suicide",
+            "Moscow Embassy",
+            "Afghanistan How Long",
+            "Alexandria",
+            "Tech Giants Carry",
+            "Taliban",
+            "Peculiar Bid",
+            "Viable",
+            "Spies Cuomo",
+            "Nicolas Maduro",
+            "Asia",
+            "Afghanistan",
+            "True",
+            "Julian Castro Speaks Netroots Nation",
+            "Africa",
+            "Belarusian",
+            "Human Souls",
+            "Venezuelan Officials Say",
+            "Brexit",
+            "Maduro",
+            "Maduro John Bolton",
+            "Cori Bush",
+            "BuzzFeed",
+            "Mollie Tibbetts House Panel",
+            "Venezuela",
+            "American",
+            "Venzuela",
+            "Zimbabwe",
+            "Dollars Russia",
+            "U.S.",
+            "Fired Miami",
+            "Siberia",
+            "Global Guide",
+            "Invite Twitter",
+            "Left Wing",
+            "Trickiest Riddle",
+            "Scrap",
+            "Indiana",
+            "FBI",
+            "Steven Seagal",
+            "Lawsuit Accusing Him",
+            "DB Cooper",
+            "Venezuelan",
+            "Security Screening Kushner Companies",
+            "Heartland",
+            "Tiny Neighbor",
+            "Moscow Is Cuomo",
+            "Big U.S.",
+            "Case Against Ryan Zinke Trump",
+            "Nicol\u00e1s Maduro Is Unharmed"
+        ],
+        "peaks": [],
+        "theme": [
+            "Maduro",
+            "attack",
+            "killed",
+            "Says",
+            "Russian",
+            "Nicolas"
+        ],
+        "timestamp": "2018-08-05 15:10:18.990316-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b663e49421aa9732b20fa75",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/04/5add0c9c-3cb1-478c-89cb-41c7d12b3a3c/thumbnail/1200x630/22cf2e608463b3954ba7566a337146b4/gettyimages-1011078536.jpg",
+                    "origin": "CBS News",
+                    "title": "Explosions at Venezuela's Nicolas Maduro's speech were attempted attack, government says",
+                    "ts": 1533423728,
+                    "twitterid": 1025879587316752392,
+                    "url": "https://www.cbsnews.com/news/nicolas-maduro-speech-caracas-today-2018-08-04/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b66306c04d3012c93e79c02&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b665a54421aa9766ffb27b8",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/05/BostonGlobe.com/Foreign/Images/AFP_185142.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Drone strikes targeted President Nicolas Maduro, Venezuelan government says",
+                    "ts": 1533433951,
+                    "twitterid": 1025922467267846145,
+                    "url": "https://www.bostonglobe.com/news/world/2018/08/04/drone-strikes-targeted-president-nicolas-maduro-venezuelan-government-says/bbcvSk1ZkW4zNOlo9wYq0M/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b66e6f4421aa97c33ccbfb6",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/05/AP_18217027985890_s2048x1253.jpg?ee6c3c153b6d62af60980c74bcfd95eed70e4b8d",
+                    "origin": "The Washington Times",
+                    "title": "Nicolas Maduro to use assassination attempt for purge, Venezuela expert says",
+                    "ts": 1533469564,
+                    "twitterid": 1026071837644607494,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/5/nicolas-maduro-use-assassination-attempt-purge-ven/"
+                },
+                {
+                    "_id": "5b663e49421aa9732b20fa50",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/04/venezuela_maduro_99080_s2048x1500.jpg?e814cef70e9b92418161bcbb15016ccd894f309a",
+                    "origin": "The Washington Times",
+                    "title": "Nicolas Maduro, Venezuelan president, cuts speech short after apparent attack",
+                    "ts": 1533426079,
+                    "twitterid": 1025889447647301637,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/4/venezuelan-president-speech-cut-short-in-panic/"
+                },
+                {
+                    "_id": "5b673b55421aa902346fceb1",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180803184507-russian-journalists-car-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Bodies of 3 Russian journalists killed in Africa returned to Moscow",
+                    "ts": 1533489310,
+                    "twitterid": 1026154660661481473,
+                    "url": "https://www.cnn.com/2018/08/05/europe/russian-journalists-killed-car-intl/index.html?utm_source=twCNN&utm_term=image&utm_content=2018-08-05T17%3A15%3A09&utm_medium=social"
+                },
+                {
+                    "_id": "5b667675421aa9774bb0919c",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/-mm-/9cc8f51cc75ccc0a502be4401cd8d332187ae908/c=0-17-1376-794/local/-/media/2018/08/04/USATODAY/USATODAY/636690112680139394-AP-Venezuela-Maduro.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Venezuelan President Nicolas Maduro's speech cut short after apparent attack using drones",
+                    "ts": 1533440700,
+                    "twitterid": 1025950773451087872,
+                    "url": "https://www.usatoday.com/story/news/world/2018/08/04/venezuelan-president-nicolas-maduros-speech-cut-short-panic/908510002/"
+                },
+                {
+                    "_id": "5b665a54421aa9766ffb27bd",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/08/04/venezuela-says-explosions-were-attack-on-president-maduro/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1533430537805.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Venezuela says explosions were an attack on President Maduro: 'This was an attempt to kill me'",
+                    "ts": 1533433503,
+                    "twitterid": 1025920588550942720,
+                    "url": "http://www.foxnews.com/world/2018/08/04/venezuela-says-explosions-were-attack-on-president-maduro.html"
+                },
+                {
+                    "_id": "5b667675421aa9774bb09196",
+                    "date_month": "2018-08",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_31/2520346/180804-maduro-event-attack-ew-810p_220d3ccceafc45254167740815485e9b.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Venezuela's Maduro unharmed after reported drone attack",
+                    "ts": 1533441414,
+                    "twitterid": 1025953769153028101,
+                    "url": "https://www.nbcnews.com/news/latin-america/venezuela-s-maduro-unharmed-after-reported-drone-attack-n897696"
+                },
+                {
+                    "_id": "5b671127421aa97eb2154278",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/8zm2QfSBgKXyxDk53v6w5Apizbg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/245CXGUYV4I6RNQLDSEX6F7BQU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Venezuela braces for fallout from apparent drone attack on Maduro",
+                    "ts": 1533480983,
+                    "twitterid": 1026119731680604165,
+                    "url": "https://www.washingtonpost.com/world/venezuela-braces-for-fallout-of-apparent-presidential-assassination-attempt/2018/08/05/445b608e-985d-11e8-818b-e9b7348cd87d_story.html?utm_term=.3ffe7efa4566&tid=sm_tw"
+                },
+                {
+                    "_id": "5b671127421aa97eb215427b",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/05/venezuela_maduro_52029_s2048x1541.jpg?53ba6271c5c6006ea43e78e8dd60c53ce2d68306",
+                    "origin": "The Washington Times",
+                    "title": "John Bolton: No U.S. role in Nicolas Maduro assassination attempt",
+                    "ts": 1533480678,
+                    "twitterid": 1026118455014121472,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/5/john-bolton-no-us-role-nicolas-maduro-assassinatio/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            62
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "US",
+            "CBS News",
+            "Elizabeth Warren",
+            "Corporate America",
+            "Congress",
+            "Statewide Races",
+            "Money Advantage",
+            "Supreme Court Nears Solid Conservative Majority",
+            "Election",
+            "U.S. House",
+            "Senate Race Obama",
+            "Brett Kavanaugh",
+            "Centrist Majority",
+            "Democratic White House",
+            "Ohio",
+            "GOP Trump Loyalist Gets Surprise Fight From Democrat",
+            "Democratic House Could Really Give Trump Hell Trump",
+            "Artful Dodge",
+            "Donald Trump",
+            "Tennessee Trump",
+            "Troy Balderson",
+            "Ball",
+            "Capitol Hill",
+            "Kansas",
+            "GOP Reaps Reward From",
+            "Pelosi",
+            "Are",
+            "Warren",
+            "Stake",
+            "Rod Rosenstein",
+            "Netroots Nation",
+            "U.S.",
+            "Trump",
+            "GOP Will",
+            "Hawaii US House",
+            "Rand",
+            "Diane Black",
+            "Most Key",
+            "Kavanaugh",
+            "Michigan",
+            "Donald Trump Democratic",
+            "Fraud",
+            "Russia",
+            "Medicare"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Democrat",
+            "election",
+            "Ohio",
+            "Republicans",
+            "Midterms",
+            "GOP"
+        ],
+        "timestamp": "2018-08-05 15:10:20.189927-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b673b55421aa902346fce96",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trump_rally_wilkes-barre_080418getty.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP strategist: Trump will be anchor around Republicans' necks in general election",
+                    "ts": 1533491584,
+                    "twitterid": 1026164197003022342,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/400456-gop-strategist-to-republican-candidates-trump-will-be-an-anchor"
+                },
+                {
+                    "_id": "5b6605f7421aa970bcdfb5bd",
+                    "date_month": "2018-08",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_31/2519561/180803-troy-balderson-mike-pence-ew-519p_da09ba2a30b1eb9b91fb80a3269612c1.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump puts himself on the line in Ohio special election, last major test before midterms",
+                    "ts": 1533411545,
+                    "twitterid": 1025828490820677634,
+                    "url": "https://www.nbcnews.com/politics/elections/trump-puts-himself-line-ohio-special-election-last-major-test-n897541?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b671f3a421aa97f459edd72",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/article_images/johnkasich_042516getty_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Kasich: Ohio special election 'doesn't bode well' for GOP",
+                    "ts": 1533483184,
+                    "twitterid": 1026128964887166976,
+                    "url": "http://thehill.com/business-a-lobbying/400454-kasich-ohio-special-election-doesnt-bode-well-for-gop"
+                },
+                {
+                    "_id": "5b672d49421aa901488cf636",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trump_rally_wilkes-barre_080418getty.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP strategist: Trump will be anchor around Republicans' necks in 2020",
+                    "ts": 1533486786,
+                    "twitterid": 1026144073378406400,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/400456-gop-strategist-to-republican-candidates-trump-will-be-an-anchor"
+                },
+                {
+                    "_id": "5b665a54421aa9766ffb27c8",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/04/USAT/3b40ec09-96c2-499c-a948-2d7cd136925f-TRUMP1009950918.JPG?crop=5388,3016,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Trump tells Ohio crowd Congress needs more Republicans",
+                    "ts": 1533432600,
+                    "twitterid": 1025916800184320001,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/08/04/president-trump-ohio-rally-congress-needs-more-republicans/905679002/"
+                },
+                {
+                    "_id": "5b6605f7421aa970bcdfb5ae",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/04/0/0/694940094001_5818069155001_5818066080001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "President Trump to hold rally in Ohio ahead of crucial special election",
+                    "ts": 1533412742,
+                    "twitterid": 1025833511763230720,
+                    "url": "http://www.foxnews.com/politics/2018/08/04/president-trump-to-hold-rally-in-ohio-ahead-crucial-special-election.html"
+                },
+                {
+                    "_id": "5b673b55421aa902346fcea5",
+                    "date_month": "2018-08",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv7N6QPIxmb0/v1/1200x689.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Here\u2019s What\u2019s at Stake for Trump in the Midterms",
+                    "ts": 1533490215,
+                    "twitterid": 1026158456116535296,
+                    "url": "https://www.bloomberg.com/news/articles/2018-07-19/the-huge-stakes-for-trump-in-the-midterm-elections-quicktake?utm_medium=social&utm_content=politics&utm_source=twitter&utm_campaign=socialflow-organic&cmpid=socialflow-twitter-business&cmpid%3D=socialflow-twitter-politics"
+                },
+                {
+                    "_id": "5b671127421aa97eb215427f",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180801122051-danny-oconnor-oh12-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "What Ohio's special election will tell us about November",
+                    "ts": 1533480124,
+                    "twitterid": 1026116131239669761,
+                    "url": "https://www.cnn.com/2018/08/05/politics/ohio-special-what-it-means-for-november/index.html?utm_medium=social&utm_content=2018-08-05T14%3A42%3A03&utm_source=twCNNp&utm_term=image"
+                },
+                {
+                    "_id": "5b671f3a421aa97f459edd75",
+                    "date_month": "2018-08",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPhhBNRXi._o/v0/1200x943.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Trump Loyalist Gets Surprise Fight From Democrat in Senate Race",
+                    "ts": 1533483005,
+                    "twitterid": 1026128214475898880,
+                    "url": "https://www.bloomberg.com/news/articles/2018-07-31/trump-loyalist-gets-surprise-fight-from-democrat-in-senate-race?utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&utm_content=politics&cmpid%3D=socialflow-twitter-politics"
+                },
+                {
+                    "_id": "5b66d8d2421aa97a798d2f2a",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/08/03/b4138f91-317f-4cb7-abfa-c5fa7b7b78fe/thumbnail/1200x630/aaf44fc958ac8cb1636d5e5ecda333f8/rtx6drn7-2.jpg",
+                    "origin": "CBS News",
+                    "title": "Some Republicans worry Trump is muddling midterm strategy",
+                    "ts": 1533465184,
+                    "twitterid": 1026053467222298624,
+                    "url": "https://www.cbsnews.com/news/some-republicans-worry-trump-is-muddling-midterm-strategy/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b66d25d04d3014c177af1f7&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            25
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Calls Don Lemon",
+            "NBA",
+            "Ohio Melania Trump",
+            "Donald Trump",
+            "Russian",
+            "Don Lemon",
+            "Ohio Ohio Dem",
+            "Melania Trump",
+            "Trump Mocks",
+            "CNN",
+            "LeBron",
+            "Unlike Trump",
+            "LeBron James Michael Jordan",
+            "Michael Jordan",
+            "Hillary Clinton",
+            "Melania Trump Trump",
+            "LeBron James",
+            "LeBron James Clinton",
+            "Ohio",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "LeBron",
+            "James",
+            "Melania",
+            "insults",
+            "Ohio",
+            "criticism"
+        ],
+        "timestamp": "2018-08-05 15:10:20.632637-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b66e6f4421aa97c33ccbfbd",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/05/AP_18217034270284_s2048x1391.jpg?09d6f1b78a21bcc23a3572fdbc1e0ca63d8272db",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump avoids LeBron James criticism in Ohio",
+                    "ts": 1533469121,
+                    "twitterid": 1026069979345633280,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/5/donald-trump-avoids-lebron-james-criticism-ohio/"
+                },
+                {
+                    "_id": "5b662212421aa971c049c09b",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/ab/39/62e5364844eb8b5f47e35f67c2a8/180804melaniatrumpgettyimages-999644058.jpg",
+                    "origin": "POLITICO",
+                    "title": "Melania breaks with Trump on LeBron criticism",
+                    "ts": 1533418219,
+                    "twitterid": 1025856480849940483,
+                    "url": "https://www.politico.com/story/2018/08/04/trump-lebron-james-cnn-don-lemon-762420"
+                },
+                {
+                    "_id": "5b666862421aa976d2461240",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/30/c57906b2-c1cd-400a-b647-251f68101216/thumbnail/1200x630/424bdac094d9100f4573c3f50288b06c/gettyimages-540884274.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump insults LeBron James on Twitter",
+                    "ts": 1533436384,
+                    "twitterid": 1025932670528835584,
+                    "url": "https://www.cbsnews.com/news/trump-lebron-james-don-lemon-cnn-twitter-insults-tonight-2018-08-03/"
+                },
+                {
+                    "_id": "5b661405421aa97147f85ddb",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/KEx63S7q9UPMX8sv-N7cD-I3EGA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F7ZPH6FGPM44BCMPF6GM3VF3RA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Melania Trump issues statement in support of LeBron James after president insults him",
+                    "ts": 1533415923,
+                    "twitterid": 1025846853953314819,
+                    "url": "https://www.washingtonpost.com/news/early-lead/wp/2018/08/04/trump-insults-lebron-jamess-intelligence-in-an-echo-of-shut-up-and-dribble/?utm_term=.e7bd508e6391&tid=sm_tw&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b671f3a421aa97f459edd64",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/GH4CGTvXOXITGWZa2goedG9hEJk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DQQ55RF25A3BJM7MLDB2PTVXQI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump, LeBron James and our oracular Melania Trump",
+                    "ts": 1533484670,
+                    "twitterid": 1026135196683431936,
+                    "url": "https://www.washingtonpost.com/blogs/post-partisan/wp/2018/08/04/trump-lebron-james-and-our-oracular-first-lady/?utm_term=.19b8a42c6fc2&tid=sm_tw"
+                },
+                {
+                    "_id": "5b674968421aa902ddf31080",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201808/n_joy_lebron_160805_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Trump doesn\u2019t mention LeBron James in Ohio speech",
+                    "ts": 1533495606,
+                    "twitterid": 1026181065789059072,
+                    "url": "https://www.msnbc.com/am-joy/watch/trump-doesn-t-mention-lebron-james-in-ohio-speech-1292668995997?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b662212421aa971c049c0aa",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/04/BostonGlobe.com/Politics/Images/d3efa9853fad458699e9dfad191eb854-0a6380ef2f114930863671c66a715245-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "After President Trump\u2019s insult, Melania Trump may visit LeBron James\u2019s school",
+                    "ts": 1533417117,
+                    "twitterid": 1025851860996050944,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/08/04/after-president-trump-insult-melania-trump-may-visit-lebron-james-school/hcNePZoA9S9iG51vq46qyJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b664c45421aa976023407bf",
+                    "date_month": "2018-08",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:c184c5a7a02a4451b652ae71759a21ff/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump rips LeBron James' smarts hours before rally in Ohio",
+                    "ts": 1533430204,
+                    "twitterid": 1025906749734309889,
+                    "url": "https://apnews.com/c8b7f9dbd32746b9a9745e9eeae8c11c/Trump-rips-LeBron-James'-smarts-hours-before-rally-in-Ohio?utm_campaign=SocialFlow&utm_medium=AP_Politics&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b664c45421aa976023407c9",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/bAB2i-X9cBd1lpjkM7GRUGeArz8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2IIF57H2PM5HPFG6IWFNZA44VQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Melania Trump and Hillary Clinton praise LeBron James after Donald Trump\u2019s slam",
+                    "ts": 1533429110,
+                    "twitterid": 1025902163590033415,
+                    "url": "https://www.washingtonpost.com/news/reliable-source/wp/2018/08/04/melania-trump-and-hillary-clinton-praise-lebron-james-after-donald-trumps-slam/?tid=sm_tw"
+                },
+                {
+                    "_id": "5b66928c421aa9781a5dc6ef",
+                    "date_month": "2018-08",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:c184c5a7a02a4451b652ae71759a21ff/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump passes on opportunity to criticize James at Ohio rally",
+                    "ts": 1533445790,
+                    "twitterid": 1025972121774813184,
+                    "url": "https://apnews.com/1db1ce9abe1647458a3c333d79f66cb1/Trump-passes-on-opportunity-to-criticize-James-at-Ohio-rally?utm_medium=AP_Politics&utm_source=Twitter&utm_campaign=SocialFlow"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            46
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Ernest Hemingway",
+            "US",
+            "China Trying",
+            "Ore",
+            "Us Against",
+            "Superstar Pastor",
+            "Him",
+            "Identity Feeling",
+            "Are Russia",
+            "Best Restaurants",
+            "Horror",
+            "Deeper Divide",
+            "Modern",
+            "Bamboo Bombers",
+            "Origins",
+            "Most",
+            "Virginia",
+            "Swiss Alps",
+            "Yankees Air Force",
+            "NYT",
+            "American Airlines",
+            "Portland",
+            "Sarah Jeong",
+            "NASA Names Astronauts",
+            "Elie Wiesel",
+            "Earth Don",
+            "Frozen",
+            "Ireland",
+            "Gourmet Whiffs",
+            "Patriots",
+            "SpaceX Flights",
+            "Haley",
+            "Julian Edelman",
+            "U.S.-North Korea Negotiations",
+            "Key Moment",
+            "Syria",
+            "Argentina",
+            "Rowdy",
+            "City Heavy",
+            "International Space Station",
+            "Mars How",
+            "Vintage",
+            "Serial Trespasser",
+            "Oregon Portland Protest Points",
+            "Stone",
+            "Israel",
+            "Space Needle",
+            "Beyond Cronuts"
+        ],
+        "peaks": [],
+        "theme": [
+            "protests",
+            "police",
+            "Portland",
+            "right",
+            "World",
+            "Alps",
+            "crash"
+        ],
+        "timestamp": "2018-08-05 15:10:21.395952-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b663025421aa9727ff7393b",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/03/portland_protest_17354_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Police move to clear rowdy protests in Portland, Oregon",
+                    "ts": 1533422053,
+                    "twitterid": 1025872564021866498,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/4/portland-prepares-for-right-wing-anti-fascist-rall/"
+                },
+                {
+                    "_id": "5b670320421aa97df6991107",
+                    "date_month": "2018-08",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_31/2520511/plane_2_bc232149f8c1847dd16d33f8275d955a.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Vintage tourist plane crash in Swiss Alps kills 20, police say",
+                    "ts": 1533476311,
+                    "twitterid": 1026100139658817536,
+                    "url": "https://www.nbcnews.com/news/world/vintage-tourist-plane-crash-swiss-alps-kills-20-police-say-n897741?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b665a54421aa9766ffb27be",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/OoxSr2fThiiE28oLYsyFlmR9V7c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JTJ4GDKG445RTB2PSL4HTICKWM.jpg",
+                    "origin": "Washington Post",
+                    "title": "Protests again convulse Portland, Ore., as groups on the right and left face off",
+                    "ts": 1533433333,
+                    "twitterid": 1025919874361638912,
+                    "url": "https://www.washingtonpost.com/news/post-nation/wp/2018/08/04/protests-again-convulse-portland-ore-as-groups-on-the-right-and-left-face-off/?tid=sm_tw"
+                },
+                {
+                    "_id": "5b661405421aa97147f85e03",
+                    "date_month": "2018-08",
+                    "image": "http://www.latimes.com/resizer/LacaHMJBsG-pWfV3OfTxwt1ld2w=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/TBJAOMP3AJHADINFWPL4PVCSTU.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Heavy police presence as right-wing rally begins in Portland, Ore.",
+                    "ts": 1533413525,
+                    "twitterid": 1025836795026493440,
+                    "url": "https://www.latimes.com/nation/la-na-right-wing-rally-20180804-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b6605f7421aa970bcdfb5b6",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/-mm-/630f65452017be79c1bc785a837f672f12d9352f/c=0-105-2589-1568/local/-/media/2018/08/04/USATODAY/USATODAY/636689736713614168-AP-Portland-Protest.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Rowdy right-wing rally-goers flood Portland park amid heavy police presence",
+                    "ts": 1533412203,
+                    "twitterid": 1025831249196318720,
+                    "url": "https://www.usatoday.com/story/news/2018/08/04/portland-right-wing-anti-fascist-rallies-patriot-prayer/904871002/"
+                },
+                {
+                    "_id": "5b665a54421aa9766ffb27c4",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/01/0/0/694940094001_5804029591001_5804054996001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Portland police in riot gear called in to clear clashes between right-wing and antifa protesters",
+                    "ts": 1533432685,
+                    "twitterid": 1025917158247858176,
+                    "url": "http://www.foxnews.com/us/2018/08/04/portland-police-in-riot-gear-called-in-to-clear-clashes-between-right-wing-and-antifa-protesters.html"
+                },
+                {
+                    "_id": "5b674968421aa902ddf310a1",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180805092514-01-swiss-alps-plane-crash-0805-restricted-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Vintage plane crash in Swiss Alps kills all 20 people on board",
+                    "ts": 1533492913,
+                    "twitterid": 1026169772973744128,
+                    "url": "https://www.cnn.com/2018/08/05/europe/swiss-alps-plane-crash-vintage-intl/index.html?utm_term=image&utm_source=twCNN&utm_content=2018-08-05T18%3A15%3A12&utm_medium=social"
+                },
+                {
+                    "_id": "5b673b55421aa902346fce90",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/08/05/berkeley-police-warn-against-weapons-masks-ahead-2-protests/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1533482080974.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Berkeley police warn against weapons, masks ahead of 2 protests",
+                    "ts": 1533491884,
+                    "twitterid": 1026165457018122241,
+                    "url": "http://www.foxnews.com/us/2018/08/05/berkeley-police-warn-against-weapons-masks-ahead-2-protests.html"
+                },
+                {
+                    "_id": "5b666862421aa976d2461259",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/08/05/dad0d3ff-56a3-43a9-88ac-c621fc7774b7/thumbnail/1200x630/903518b8a803b08ab36e747cecfe3680/gettyimages-1011134076.jpg",
+                    "origin": "CBS News",
+                    "title": "Portland far-right rally, counter-protest lead to some arrests, injuries",
+                    "ts": 1533434584,
+                    "twitterid": 1025925122321010688,
+                    "url": "https://www.cbsnews.com/news/portland-patriot-prayer-proud-boys-antifa-today-live-updates-2018-08-04/"
+                },
+                {
+                    "_id": "5b673b55421aa902346fce9d",
+                    "date_month": "2018-08",
+                    "image": "https://media.npr.org/assets/img/2018/08/02/gettyimages-674482459_wide-78e8482eb95d80d768813fbbaac3ce62a02fe6d1.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Reading Horror Can Arm Us Against A Horrifying World",
+                    "ts": 1533491100,
+                    "twitterid": 1026162167131893760,
+                    "url": "https://www.npr.org/2018/08/05/635052036/reading-horror-can-arm-us-against-a-horrifying-world?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180805"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            32
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Trump Tower",
+            "Fair",
+            "Clinton Trump",
+            "Life",
+            "Giuliani",
+            "Putin",
+            "Saudi Arabia",
+            "QAnon",
+            "Donald Trump",
+            "DOJ",
+            "Don",
+            "Crown Prince",
+            "Common Thread",
+            "Mueller",
+            "Manafort",
+            "Russia Trump",
+            "Rudolph",
+            "Manhattan",
+            "Russians Sekulow",
+            "U.S.",
+            "Trump",
+            "Us Pastor Van Moody",
+            "Debate",
+            "JFK",
+            "White House"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "meeting",
+            "jr",
+            "Tower",
+            "Russian",
+            "son",
+            "investigation"
+        ],
+        "timestamp": "2018-08-05 15:10:21.963998-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b670320421aa97df6991114",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/05/AP_18217016888936_s2048x1398.jpg?a5f06a7f101cf2acb9f6556c7bdd3bf38a58c834",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump defends Donald Trump Jr. Trump Tower meeting",
+                    "ts": 1533475486,
+                    "twitterid": 1026096678342983681,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/5/donald-trump-defends-donald-trump-jr-trump-tower-m/"
+                },
+                {
+                    "_id": "5b671127421aa97eb2154290",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/39/9e/0dfdeb1843e798fa6c1a91de8aab/180724-trump-getty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump: I\u2019m not worried about Don Jr.\u2019s role in Trump Tower meeting",
+                    "ts": 1533478812,
+                    "twitterid": 1026110626748407808,
+                    "url": "https://www.politico.com/story/2018/08/05/trump-tower-donald-jr-fake-news-762978"
+                },
+                {
+                    "_id": "5b671f3a421aa97f459edd83",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_31/2520546/180805-donald-trump-donald-jr-0944_d4415823beac467aae4e6b87a40cb801.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump says son's Trump Tower meeting with Russians meant to 'get information' on Clinton",
+                    "ts": 1533481760,
+                    "twitterid": 1026122991665594369,
+                    "url": "https://www.nbcnews.com/politics/donald-trump/trump-says-son-s-trump-tower-meeting-russians-meant-get-n897761?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b673b55421aa902346fce93",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/04/0/0/694940094001_5793463693001_5793457650001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump attorney Jay Sekulow blames 'bad information' for Trump Tower statement mixup, says no sign Don Jr. under investigation",
+                    "ts": 1533491700,
+                    "twitterid": 1026164682954919936,
+                    "url": "http://www.foxnews.com/politics/2018/08/05/trump-attorney-jay-sekulow-blames-bad-information-for-trump-tower-statement-mixup-says-no-sign-don-jr-under-investigation.html"
+                },
+                {
+                    "_id": "5b671127421aa97eb2154275",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201808/n_msnbc_brk_TrumpTower_180805_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Trump tweets new info about Trump Tower meeting",
+                    "ts": 1533481164,
+                    "twitterid": 1026120492502196224,
+                    "url": "https://www.msnbc.com/msnbc/watch/trump-tweets-new-info-about-trump-tower-meeting-1292625987505?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b671f3a421aa97f459edd7d",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/XNKCLKvYvwnncOWoMxfcALSQ3vE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TU6KTQI4LQ4YPOBKUDQ7FSXWAA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump just made 2 problematic admissions about the Trump Tower meeting",
+                    "ts": 1533482605,
+                    "twitterid": 1026126535298895874,
+                    "url": "https://www.washingtonpost.com/news/the-fix/wp/2018/08/05/trump-just-made-2-problematic-admissions-about-the-trump-tower-meeting/?utm_term=.cfc73fc09c31&tid=sm_tw"
+                },
+                {
+                    "_id": "5b671f3a421aa97f459edd82",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/05/BostonGlobe.com/Politics/Images/1009181276.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump says his son\u2019s meeting with Russians was \u2018totally legal\u2019",
+                    "ts": 1533481836,
+                    "twitterid": 1026123310579499008,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/08/05/trump-says-his-son-meeting-with-russians-was-totally-legal/55bJfl2AJsXdTmRbIYBrfK/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b671127421aa97eb215428b",
+                    "date_month": "2018-08",
+                    "image": "https://amp.businessinsider.com/images/5b66ff7f80eb351d008b4bef-1536-768.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Trump denies reports he's worried about Don Jr. getting ensnared in Mueller's investigation",
+                    "ts": 1533479290,
+                    "twitterid": 1026112633030799361,
+                    "url": "https://www.businessinsider.com/trump-worried-don-jr-mueller-investigation-tweet-denying-2018-8"
+                },
+                {
+                    "_id": "5b671f3a421aa97f459edd81",
+                    "date_month": "2018-08",
+                    "image": "https://amp.businessinsider.com/images/5b6708761982d837008b4b1e-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Trump lawyer shrugs off 2016 Trump Tower meeting legal troubles",
+                    "ts": 1533482026,
+                    "twitterid": 1026124108269060103,
+                    "url": "https://www.businessinsider.com/trump-lawyer-sekulow-responds-2016-trump-tower-meeting-2018-8"
+                },
+                {
+                    "_id": "5b672d49421aa901488cf644",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/GPdKwfC3pNpjS02uuIK1OwBddjA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RYQDZ4ERUMI6RN3J4P77C7YGRE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump acknowledges, defends 2016 meeting between son, Kremlin-aligned lawyer",
+                    "ts": 1533485767,
+                    "twitterid": 1026139798308761606,
+                    "url": "https://www.washingtonpost.com/politics/trump-acknowledges-defends-2016-meeting-between-son-kremlin-aligned-lawyer/2018/08/05/cc37ea5e-98c1-11e8-843b-36e177f3081c_story.html?utm_term=.b95023440472&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            103
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Canadian Dream",
+            "Marcus Smart",
+            "Uncomfortable",
+            "Books Deal",
+            "Alexa",
+            "Facebook",
+            "Benalla Affair Sink Emmanuel Macron",
+            "Cardinal Sins At Fenway",
+            "Strange",
+            "Big Compromise Can Religion",
+            "American Slangisms",
+            "Brexit",
+            "Jeff Winkler",
+            "Twitter",
+            "Trump",
+            "Accidental Killer",
+            "Camera Crushes Your",
+            "Tank",
+            "Microsoft Surface Go Review",
+            "Sorry",
+            "Sassy",
+            "Buffett",
+            "Science Coexist",
+            "Us Authors",
+            "Wayne",
+            "Jackie Bradley",
+            "Won Fans",
+            "Nancy",
+            "Lesbian Porn",
+            "Grace Jones",
+            "Global Health Inventions",
+            "U.S.",
+            "Diamond Engagement",
+            "Indian Village Turns Rain Into Perfume",
+            "Red Delicious How",
+            "New Dads Get Paternity Leave",
+            "Universal Basic Income",
+            "Ageism Never",
+            "John Green",
+            "Donna Summer",
+            "Alan Burdick",
+            "Fantastic Negrito",
+            "CDC",
+            "Giant Cosmic Void",
+            "Mexico",
+            "Google",
+            "Social Anxiety",
+            "Qanon",
+            "How Pantone",
+            "Old Logo",
+            "Friends First",
+            "Impossible Choice Apple",
+            "James Hamblin Discusses Time Perception",
+            "Burlap",
+            "Anthony Hopkins",
+            "Boise",
+            "Bible",
+            "Rock Concert",
+            "Wozniak",
+            "NASA",
+            "Nature",
+            "New Tech Avengers Are Nevada",
+            "Work",
+            "WNBA Stood Up",
+            "Tronc",
+            "Rural Town Wracked By Drugs And Poverty The Dutch Village Where Everyone Has",
+            "Common Good David Byrne",
+            "Sorrow",
+            "Surprisingly Effective Cure",
+            "Next Crisis Pope",
+            "Companies Push",
+            "Joyful",
+            "Evangelical Church",
+            "Global Authority",
+            "Clinton",
+            "Breakups Harder Than",
+            "Somalia Jimmy Kimmel",
+            "Couple",
+            "Fight Over Women",
+            "Grab Man",
+            "Dudes",
+            "Really Weird Kara Swisher Mark Zuckerberg",
+            "Gangsters",
+            "Apple Appreciation",
+            "Andrea Mitchell",
+            "Awful Reign"
+        ],
+        "peaks": [],
+        "theme": [
+            "Summer",
+            "get",
+            "want",
+            "Old",
+            "Trump",
+            "change",
+            "go"
+        ],
+        "timestamp": "2018-08-05 15:10:24.645363-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b66bcb1421aa979d6f8c3ec",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/02/BostonGlobe.com/Business/Images/50sHouseCopy.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "This old teardown?",
+                    "ts": 1533457685,
+                    "twitterid": 1026022015180963840,
+                    "url": "https://www.bostonglobe.com/business/2018/08/03/this-old-teardown/NWFRHhZjkYEsP8NY0Iu6JK/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b670320421aa97df6991116",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/59096065019dfc3494e9fead/16:9/w_1200,h_630,c_limit/Wu-Airlines-Suffer.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Why Airlines Want to Make You Suffer",
+                    "ts": 1533475055,
+                    "twitterid": 1026094871382306817,
+                    "url": "https://www.newyorker.com/business/currency/airlines-want-you-to-suffer?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b673b55421aa902346fce9f",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/59a9ade5d82660397c5acd71/16:9/w_1200,h_630,c_limit/Brennan-Page-3_06%20copy.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Your Summer BodBot",
+                    "ts": 1533490840,
+                    "twitterid": 1026161076126339072,
+                    "url": "https://www.newyorker.com/humor/daily-shouts/your-summer-bodbot?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b666862421aa976d2461257",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/5a0232391c573b3f0dd1432b/16:9/w_1200,h_630,c_limit/171120_r30961.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Why Ageism Never Gets Old",
+                    "ts": 1533434707,
+                    "twitterid": 1025925637872275456,
+                    "url": "https://www.newyorker.com/magazine/2017/11/20/why-ageism-never-gets-old?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b66cacd421aa97a209dcbf2",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/04/GGs/facebook.jpg?1523302711",
+                    "origin": "The Atlantic",
+                    "title": "The \u2018g\u2019 in Google\u2019s Old Logo Is Really Weird",
+                    "ts": 1533459674,
+                    "twitterid": 1026030355416006656,
+                    "url": "https://www.theatlantic.com/technology/archive/2018/04/lowercase-g/557504/?utm_campaign=the-atlantic&utm_content=5b66bcd94b7385000752c167_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b666862421aa976d2461247",
+                    "date_month": "2018-08",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBa4DGpdH_UI/v0/1200x734.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Engineers Are Leaving Trump\u2019s America for the Canadian Dream",
+                    "ts": 1533436209,
+                    "twitterid": 1025931935665848321,
+                    "url": "https://www.bloomberg.com/news/features/2018-04-20/h-1b-workers-are-leaving-trump-s-america-for-the-canadian-dream?utm_content=politics&cmpid=socialflow-twitter-businessweek&utm_medium=social&utm_source=twitter&utm_campaign=socialflow-organic&cmpid%3D=socialflow-twitter-politics"
+                },
+                {
+                    "_id": "5b66e6f4421aa97c33ccbfb9",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/eoj8Blb8_v-UpkVEnc1VduEjtVU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AAALTIEVSQI6RAML5G3TJDGYPU.jpg",
+                    "origin": "Washington Post",
+                    "title": "How to get the best prices on the wines you love",
+                    "ts": 1533469457,
+                    "twitterid": 1026071388283658240,
+                    "url": "https://www.washingtonpost.com/lifestyle/food/how-to-get-the-best-prices-on-the-wines-you-love/2018/08/03/b45113fe-968a-11e8-a679-b09212fb69c2_story.html?utm_term=.51e8889b5b99&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b662212421aa971c049c0a2",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/5b21569087016730a4fd036b/16:9/w_1200,h_630,c_limit/TNY-What-Were-Reading-This-Summer-2018.jpg",
+                    "origin": "The New Yorker",
+                    "title": "What We\u2019re Reading This Summer",
+                    "ts": 1533417572,
+                    "twitterid": 1025853770104745985,
+                    "url": "https://www.newyorker.com/books/page-turner/what-were-reading-this-summer-2018?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b66bcb1421aa979d6f8c3e6",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/59097824ebe912338a377f70/16:9/w_1200,h_630,c_limit/summer-music-290.png",
+                    "origin": "The New Yorker",
+                    "title": "Summer Songs, Then and Now",
+                    "ts": 1533458033,
+                    "twitterid": 1026023474115031040,
+                    "url": "https://www.newyorker.com/culture/culture-desk/summer-songs-then-and-now?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b666862421aa976d246124e",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/0a/17/06e6dcf04dd09703b639fc470288/wnba.jpg",
+                    "origin": "POLITICO",
+                    "title": "How the WNBA Stood Up to Trump and Won Fans",
+                    "ts": 1533435504,
+                    "twitterid": 1025928980606734337,
+                    "url": "https://www.politico.com/magazine/story/2018/08/04/wnba-trump-protest-politics-sports-219155"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            31
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Drunk Americans",
+            "Minor League Baseball Continues",
+            "SEC Whistleblower Payouts Slow Amid Deluge",
+            "New Obstacles Wells Fargo Faces Probes",
+            "Low Pay",
+            "America Seven",
+            "Newseum",
+            "Mass",
+            "Money Pit",
+            "Good",
+            "NBA",
+            "Reward Seekers Counting",
+            "Chesapeake",
+            "Island",
+            "Fight Against Low",
+            "Meghan Markle",
+            "Fake News",
+            "Webster",
+            "Gilligan",
+            "MoviePass",
+            "Iceland Airwaves",
+            "Venezuela Became China",
+            "Wine Importers",
+            "Bottle Shock",
+            "Ants Britney Spears",
+            "Wells Fargo",
+            "Endangered Quolls French",
+            "Company",
+            "Dad"
+        ],
+        "peaks": [],
+        "theme": [
+            "news",
+            "fake",
+            "Newseum",
+            "shirts",
+            "Fargo",
+            "Wells",
+            "year"
+        ],
+        "timestamp": "2018-08-05 15:10:25.143359-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b661405421aa97147f85dff",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/newseumfakenews_08032018.jpg",
+                    "origin": "The Hill",
+                    "title": "Newseum apologizes for selling \u2018fake news\u2019 T-shirts",
+                    "ts": 1533413823,
+                    "twitterid": 1025838045201920001,
+                    "url": "http://thehill.com/homenews/media/400393-newseum-apologizes-for-selling-fake-news-t-shirts"
+                },
+                {
+                    "_id": "5b6605f7421aa970bcdfb5ab",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/03/USAT/508142c5-ed68-4a2e-a3cd-0ea1a8389c17-IMG_9203.JPG?crop=4031,2268,x0,y452&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Newseum removes controversial 'You Are Very Fake News' shirts amid criticism",
+                    "ts": 1533412808,
+                    "twitterid": 1025833786972487680,
+                    "url": "https://www.usatoday.com/story/news/2018/08/04/newseum-removes-fake-news-shirts-defends-donald-trump-merchandise/906327002/"
+                },
+                {
+                    "_id": "5b66a093421aa97933544b99",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/08/05/fake-news-shirts-pulled-from-newseum-gift-shop-after-media-complaints/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1533449270107.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "'Fake News' shirts pulled from Newseum gift shop after media complaints",
+                    "ts": 1533450372,
+                    "twitterid": 1025991343007571968,
+                    "url": "http://www.foxnews.com/politics/2018/08/05/fake-news-shirts-pulled-from-newseum-gift-shop-after-media-complaints.html"
+                },
+                {
+                    "_id": "5b673b55421aa902346fceb7",
+                    "date_month": "2018-08",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_31/2519526/180803-newseum-merch-tryptich-860x430-ew-452p_74a1f2459fb0a7db242e437c9ff9a789.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Newseum, dedicated to free press, pulls 'Fake News' T-shirts from its shop",
+                    "ts": 1533488484,
+                    "twitterid": 1026151196304834565,
+                    "url": "https://www.nbcnews.com/politics/politics-news/newseum-museum-dedicated-free-press-selling-fake-news-t-shirts-n897516?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b6605f7421aa970bcdfb5b8",
+                    "date_month": "2018-08",
+                    "image": "http://s3-origin-images.politico.com/2013/01/18/130118_gavin_newseum_shinkle_328.jpg",
+                    "origin": "POLITICO",
+                    "title": "Newseum pulls 'fake news' shirt after backlash",
+                    "ts": 1533412126,
+                    "twitterid": 1025830924460666881,
+                    "url": "https://www.politico.com/story/2018/08/04/newseum-fake-news-shirt-backlash-762443"
+                },
+                {
+                    "_id": "5b66f501421aa97d47114426",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/05/AP_18012540572347_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Wells Fargo mistake contributed to hundreds of foreclosures, company says",
+                    "ts": 1533471068,
+                    "twitterid": 1026078145479417856,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/5/wells-fargo-mistake-contributed-hundreds-foreclosu/"
+                },
+                {
+                    "_id": "5b674968421aa902ddf310a6",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/wells_fargo_atm_1.jpg",
+                    "origin": "The Hill",
+                    "title": "Wells Fargo blames computer glitch for customers losing homes",
+                    "ts": 1533492307,
+                    "twitterid": 1026167228633366529,
+                    "url": "http://thehill.com/policy/finance/400467-wells-fargo-blames-computer-glitch-for-customers-losing-homes"
+                },
+                {
+                    "_id": "5b663e49421aa9732b20fa5c",
+                    "date_month": "2018-08",
+                    "image": "https://images.wsj.net/im-20871/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Wells Fargo Faces Probes Over Low-Income Tax Credits",
+                    "ts": 1533425410,
+                    "twitterid": 1025886643109195777,
+                    "url": "https://www.wsj.com/articles/wells-fargo-faces-probes-over-low-income-tax-credits-1533340271?mod=e2tw"
+                },
+                {
+                    "_id": "5b662212421aa971c049c098",
+                    "date_month": "2018-08",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180423105631-wells-fargo-signage-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "Wells Fargo says hundreds of customers lost homes because of computer glitch",
+                    "ts": 1533418260,
+                    "twitterid": 1025856654837985281,
+                    "url": "https://money.cnn.com/2018/08/04/news/companies/wells-fargo-mortgage-modification/index.html?utm_content=2018-08-04T21%3A30%3A59&utm_medium=social&utm_term=image&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b665a54421aa9766ffb27dc",
+                    "date_month": "2018-08",
+                    "image": "https://static01.nyt.com/images/2018/07/27/arts/27airwaves1-goodnews/27airwaves1-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "The Week in Good News: A 92-Year-Old Baseball Fan, Iceland Airwaves, Endangered Quolls",
+                    "ts": 1533430865,
+                    "twitterid": 1025909522089562113,
+                    "url": "https://www.nytimes.com/2018/08/02/briefing/week-in-good-news-baseball-iceland-airwaves-endangered-quolls.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            128
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Oklahoma",
+            "US",
+            "Weeknd",
+            "Extends Life Ian Kinsler",
+            "Kyle",
+            "Ducks",
+            "Melania Trump",
+            "Hotel",
+            "Bush",
+            "Ohio",
+            "Yellowstone Is Arrested",
+            "Wei Wei",
+            "Right",
+            "John Currence",
+            "Mind Herman Cain",
+            "John Gibson",
+            "Wildfire Dayne Walling",
+            "Retired Cells Slows Aging",
+            "Hurricane Hit",
+            "How Mushrooms Became Magic Alcohol",
+            "Iowa",
+            "Value Stocks",
+            "NFL",
+            "Montreal",
+            "Europe",
+            "Cubs News Quiz",
+            "Florida",
+            "Red Sox",
+            "Reward",
+            "Pot Breathalyzer",
+            "FEC",
+            "Air Pollution Weather News",
+            "Disneyland",
+            "Mercedes",
+            "Hard",
+            "Puzzle",
+            "South Side",
+            "FDA",
+            "Long Love Affair",
+            "Somebody",
+            "Anthony Rizzo",
+            "Serena Williams",
+            "Service Violation All",
+            "Body",
+            "Richmond",
+            "Kansas",
+            "Hall",
+            "Hawaii",
+            "Mollie Tibbetts",
+            "Nathan Eovaldi",
+            "Hell",
+            "New Lenox",
+            "McCormick County",
+            "Colorado",
+            "Indiana",
+            "University",
+            "Guinness Opens",
+            "Switch",
+            "Arlington Heights",
+            "Clarke Stearns",
+            "Roasted Granola Caf\u00e9",
+            "Comedy Woman",
+            "Lollapalooza Fort Campbell",
+            "Hormuz",
+            "Dangerous",
+            "Iraqi",
+            "GoPro",
+            "Second Amendment New Exercise Wrinkle",
+            "Park Officials Say",
+            "Paul Manafort",
+            "Eczema",
+            "James Dimon",
+            "Metro Chicago",
+            "Supreme Court",
+            "Chinese Authorities Robert",
+            "Flint Water Crisis",
+            "Picard",
+            "Step Toward Marriage",
+            "Famer Randy Moss",
+            "Zombie Boy",
+            "Congo",
+            "California",
+            "Rick Genest",
+            "Wars",
+            "Chris Hogan",
+            "Lady Gaga",
+            "Red Sox Patrick Stewart",
+            "Richmond Hannibal Buress",
+            "American Marine",
+            "Concord",
+            "Health",
+            "Far South",
+            "Are All Mental Illnesses Related",
+            "Carrie Fisher",
+            "Las Vegas Darth Vader",
+            "New York City",
+            "WATCH",
+            "Vampire Weekend",
+            "Randy Moss",
+            "Beer",
+            "Terrell Owens",
+            "Mark Wahlberg",
+            "Liberty Climber Spews",
+            "NBC News",
+            "Democratic",
+            "Almond Breeze",
+            "U.S. Brewery",
+            "Rocks U.S.",
+            "Bostonian",
+            "Mark Hamill",
+            "Patrick Stewart",
+            "Headlines Confirmed Ebola",
+            "Front Lines",
+            "Trek",
+            "George",
+            "Gordon Ramsay",
+            "Missouri",
+            "Videos Giant"
+        ],
+        "peaks": [],
+        "theme": [
+            "says",
+            "Court",
+            "may",
+            "New",
+            "red",
+            "shootings",
+            "woman"
+        ],
+        "timestamp": "2018-08-05 15:10:26.592667-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b663025421aa9727ff73948",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/-mm-/50f8264383c6872eec739988ef60625ee60ddb01/c=0-283-2860-1899/local/-/media/2018/08/04/USATODAY/USATODAY/636689968894340879-EPA-USA-NEW-YORK-HEARING-FOR-PROTESTOR.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "Woman who climbed Statue of Liberty trolls Melania Trump in court with 'I really care' dress",
+                    "ts": 1533421037,
+                    "twitterid": 1025868300838817793,
+                    "url": "https://www.usatoday.com/story/news/politics/onpolitics/2018/08/04/statue-liberty-climber-therese-okoumou-trolls-melania-trump/907142002/"
+                },
+                {
+                    "_id": "5b661405421aa97147f85e09",
+                    "date_month": "2018-08",
+                    "image": "http://www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650",
+                    "origin": "Chicago Tribune",
+                    "title": "1 worker dead, another wounded in shootings Saturday on South Side",
+                    "ts": 1533413133,
+                    "twitterid": 1025835148888211457,
+                    "url": "http://www.chicagotribune.com/news/local/breaking/ct-met-chicago-shootings-violence-20180804-story.html"
+                },
+                {
+                    "_id": "5b672d49421aa901488cf62d",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/08/05/chicago-shootings-leave-dozens-people-wounded-at-least-3-dead-over-weekend/_jcr_content/par/featured_image/media-0.img.png/0/0/1533480190879.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "Chicago shootings leave dozens of people wounded, at least 3 dead over the weekend",
+                    "ts": 1533487703,
+                    "twitterid": 1026147917529276416,
+                    "url": "http://www.foxnews.com/us/2018/08/05/chicago-shootings-leave-dozens-people-wounded-at-least-3-dead-over-weekend.html"
+                },
+                {
+                    "_id": "5b6605f7421aa970bcdfb5b4",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/03/BostonGlobe.com/Sports/Images/Chin080318GM2RedSox-Yankees_Spt1.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Red Sox-Yankees: Live updates and commentary from Game 3",
+                    "ts": 1533412303,
+                    "twitterid": 1025831669725638656,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/08/04/red-sox-yankees-live-updates-and-commentary-from-game/xiggFQHgU82KCBfzbrGt3N/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b6605f7421aa970bcdfb5ce",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/04/BostonGlobe.com/Sports/Images/aaad74070cd342958dd0a91e2ccff0e8-aaad74070cd342958dd0a91e2ccff0e8-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Game 112: Yankees at Red Sox lineups and notes",
+                    "ts": 1533410041,
+                    "twitterid": 1025822182696517633,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/08/04/game-yankees-red-sox-lineups-and-notes/ZYhEtLvhEXBPranXzZ0LCO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b66e6f4421aa97c33ccbfca",
+                    "date_month": "2018-08",
+                    "image": "https://images.wsj.net/im-20656/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Unions Take a Hit After Supreme Court Ruling",
+                    "ts": 1533467703,
+                    "twitterid": 1026064033563205632,
+                    "url": "https://www.wsj.com/articles/unions-take-a-hit-after-supreme-court-ruling-1533466800?mod=e2tw"
+                },
+                {
+                    "_id": "5b66f501421aa97d47114414",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/RTS32XG/facebook.jpg?1530795141",
+                    "origin": "The Atlantic",
+                    "title": "A Frightening New Reason to Worry About Air Pollution",
+                    "ts": 1533472223,
+                    "twitterid": 1026082989418209281,
+                    "url": "https://www.theatlantic.com/health/archive/2018/07/a-frightening-new-reason-to-worry-about-air-pollution/564428/?utm_campaign=the-atlantic&utm_content=5b66eddd00bd470008e5f6bd_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b673b55421aa902346fce9b",
+                    "date_month": "2018-08",
+                    "image": "https://images.wsj.net/im-20839/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "New Exercise Wrinkle: It\u2019s Time for Your Face to Work Out",
+                    "ts": 1533491110,
+                    "twitterid": 1026162209049792515,
+                    "url": "https://www.wsj.com/articles/new-exercise-wrinkle-its-time-for-your-face-to-work-out-1533489286?mod=e2tw"
+                },
+                {
+                    "_id": "5b66d8d2421aa97a798d2f3c",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/05/BostonGlobe.com/Sports/Images/bbfd5d4c64b748ccbf94b1005210b4a2-bbfd5d4c64b748ccbf94b1005210b4a2-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Hall of Famer Randy Moss says NFL gave him direction",
+                    "ts": 1533463264,
+                    "twitterid": 1026045415270113280,
+                    "url": "https://www.bostonglobe.com/sports/patriots/2018/08/04/hall-famer-randy-moss-says-nfl-gave-him-direction/3jvg5UQxUTUpghumnOdesI/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b662212421aa971c049c08f",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/manafortpaul_080318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Five things to know about Manafort\u2019s first week in court",
+                    "ts": 1533418866,
+                    "twitterid": 1025859197836120069,
+                    "url": "http://thehill.com/regulation/court-battles/400327-five-things-to-know-about-manaforts-first-week-in-court"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Archie Bunker",
+            "ZTE",
+            "Donald Trump",
+            "GOP",
+            "Don Lemon",
+            "Hicks",
+            "ICE Pastor",
+            "White House Trump",
+            "CNN",
+            "Trump",
+            "Schiff",
+            "Kellyanne Conway",
+            "Duncan Kasich",
+            "Clinton",
+            "Brian Stelter",
+            "California",
+            "Air",
+            "Huawei",
+            "Maxine Waters",
+            "Rob Reiner"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Conway",
+            "journalists",
+            "enemy",
+            "people",
+            "rally",
+            "attacks"
+        ],
+        "timestamp": "2018-08-05 15:10:26.833080-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b671f3a421aa97f459edd68",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/conwaykellaynne_060818gn4_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Conway: 'I don't believe journalists are the enemy of the people'",
+                    "ts": 1533484382,
+                    "twitterid": 1026133989684375552,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/400452-conway-i-dont-believe-journalists-are-the-enemy-of-the-people"
+                },
+                {
+                    "_id": "5b671f3a421aa97f459edd8b",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/05/AP_18180765963665_s2048x1359.jpg?94d0dac5a161a88a2c375fcd6b7d6d1cbe1e2fab",
+                    "origin": "The Washington Times",
+                    "title": "Kellyanne Conway rejects Donald Trump charge that journalists are \u2018enemy of the people\u2019",
+                    "ts": 1533481213,
+                    "twitterid": 1026120697465253891,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/5/kellyanne-conway-rejects-donald-trump-charge-journ/"
+                },
+                {
+                    "_id": "5b672d49421aa901488cf630",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180606085124-kellyanne-conway-6-6-02-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Kellyanne Conway: 'I don't believe journalists are the enemy of the people'",
+                    "ts": 1533487385,
+                    "twitterid": 1026146583392538625,
+                    "url": "https://www.cnn.com/2018/08/05/politics/trump-kellyanne-conway-enemy-of-the-people/index.html?utm_medium=social&utm_content=2018-08-05T16%3A43%3A04&utm_source=twCNNp&utm_term=image"
+                },
+                {
+                    "_id": "5b672d49421aa901488cf62a",
+                    "date_month": "2018-08",
+                    "image": "https://amp.businessinsider.com/images/5b6729a51982d835008b4b0d-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Kellyanne Conway says she doesn't believe journalists are the 'enemy of the people'",
+                    "ts": 1533487886,
+                    "twitterid": 1026148685628026880,
+                    "url": "https://www.businessinsider.com/kellyanne-conway-press-not-enemy-of-the-people-2018-8"
+                },
+                {
+                    "_id": "5b66e6f4421aa97c33ccbfb1",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_tennesseerally_052918youtube.png",
+                    "origin": "The Hill",
+                    "title": "Trump ramps up attacks on journalists: 'They can also cause War!'",
+                    "ts": 1533470247,
+                    "twitterid": 1026074704556306432,
+                    "url": "http://thehill.com/homenews/administration/400433-trump-attacks-reporters-as-enemy-of-the-people-says-they-cause-wars"
+                },
+                {
+                    "_id": "5b667675421aa9774bb091bd",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trumpohio0804.png",
+                    "origin": "The Hill",
+                    "title": "Pastor at Trump rally prays to shield Trump from 'jungle journalism'",
+                    "ts": 1533438067,
+                    "twitterid": 1025939732436594689,
+                    "url": "http://thehill.com/homenews/administration/400430-pastor-at-trump-rally-prays-to-shield-trump-from-jungle-journalism"
+                },
+                {
+                    "_id": "5b663e49421aa9732b20fa56",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trumpohio0804.png",
+                    "origin": "The Hill",
+                    "title": "Crowd at Trump rally chants in support of ICE",
+                    "ts": 1533425585,
+                    "twitterid": 1025887376009322496,
+                    "url": "http://thehill.com/homenews/administration/400417-crowd-at-trump-rally-chants-in-support-of-ice"
+                },
+                {
+                    "_id": "5b671127421aa97eb2154277",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/baldersontrump0804.jpg",
+                    "origin": "The Hill",
+                    "title": "Kasich: Ohio candidate didn\u2019t invite Trump to rally",
+                    "ts": 1533481025,
+                    "twitterid": 1026119908025925635,
+                    "url": "http://thehill.com/homenews/campaign/400451-kasich-ohio-candidate-didnt-invite-trump-to-rally"
+                },
+                {
+                    "_id": "5b672d49421aa901488cf632",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/watersmaxine_072717kc2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP senator pushes back on Trump\u2019s attacks on Maxine Waters\u2019s intelligence",
+                    "ts": 1533487266,
+                    "twitterid": 1026146088372322311,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/400458-gop-senator-pushes-back-on-trumps-attacks-on-maxine-waterss"
+                },
+                {
+                    "_id": "5b662212421aa971c049c09c",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_hickshope_03292018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Hope Hicks spotted boarding Air Force One ahead of Trump rally",
+                    "ts": 1533417902,
+                    "twitterid": 1025855152169930754,
+                    "url": "http://thehill.com/homenews/administration/400409-hope-hicks-spotted-boarding-air-force-one-ahead-of-trump-rally"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "US",
+            "Detained U.S.",
+            "Economy",
+            "Empire",
+            "Symbol",
+            "Erdogan Turkey",
+            "Name",
+            "Manafort",
+            "Clock Has",
+            "China",
+            "Family Business",
+            "U.S.",
+            "Pompeo Warns Turkey",
+            "America"
+        ],
+        "peaks": [],
+        "theme": [
+            "Turkey",
+            "Running",
+            "Sanctions",
+            "Addicted",
+            "Allies",
+            "America"
+        ],
+        "timestamp": "2018-08-05 15:10:27.017690-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b66f501421aa97d47114421",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/08/RTX6DRVW/facebook.jpg?1533326175",
+                    "origin": "The Atlantic",
+                    "title": "America Is Addicted to Sanctions. Time for an Intervention.",
+                    "ts": 1533471278,
+                    "twitterid": 1026079027306614785,
+                    "url": "https://www.theatlantic.com/international/archive/2018/08/when-sanctions-go-too-far/566771/?utm_medium=social&utm_source=twitter&utm_term=2018-08-05T12%3A05%3A42&utm_campaign=the-atlantic&utm_content=edit-promo"
+                },
+                {
+                    "_id": "5b66928c421aa9781a5dc6ee",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/turkey_erdogan.jpg",
+                    "origin": "The Hill",
+                    "title": "Turkey retaliates with sanctions on US officials",
+                    "ts": 1533445863,
+                    "twitterid": 1025972427539574784,
+                    "url": "http://thehill.com/policy/finance/400382-turkey-retaliates-with-sanctions-on-us-officials"
+                },
+                {
+                    "_id": "5b66928c421aa9781a5dc6e7",
+                    "date_month": "2018-08",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iADgPrqC7yoI/v0/1200x833.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Running Turkey's Economy Is Now a Family Business for Erdogan",
+                    "ts": 1533447011,
+                    "twitterid": 1025977245805019136,
+                    "url": "https://www.bloomberg.com/news/articles/2018-07-10/meet-the-40-year-old-erdogan-son-in-law-running-turkey-s-economy?cmpid%3D=socialflow-twitter-politics&utm_source=twitter&utm_medium=social&utm_campaign=socialflow-organic&utm_content=politics"
+                },
+                {
+                    "_id": "5b672d49421aa901488cf638",
+                    "date_month": "2018-08",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irHZA7LXp7mA/v1/1200x799.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Allies in Name Only? The U.S. and Turkey Slug It Out",
+                    "ts": 1533486617,
+                    "twitterid": 1026143364541022209,
+                    "url": "https://www.bloomberg.com/news/articles/2018-07-31/allies-in-name-only-the-u-s-and-turkey-slug-it-out-quicktake?cmpid%3D=socialflow-twitter-politics&utm_content=politics&utm_medium=social&utm_source=twitter&utm_campaign=socialflow-organic"
+                },
+                {
+                    "_id": "5b66f501421aa97d47114403",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/05/AP_18175719581577_s2048x1292.jpg?ae2c516124acd26e199ca0992257680e3eeb5099",
+                    "origin": "The Washington Times",
+                    "title": "Turkey freezes assets of U.S. justice, interior ministers",
+                    "ts": 1533473880,
+                    "twitterid": 1026089940998938625,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/5/turkey-freezes-assets-us-justice-interior-minister/"
+                },
+                {
+                    "_id": "5b661405421aa97147f85de8",
+                    "date_month": "2018-08",
+                    "image": "https://static01.nyt.com/images/2018/08/04/world/04pompeo1/04pompeo1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Pompeo Warns Turkey on Detained U.S. Pastor: The Clock Has \u2018Run Out\u2019",
+                    "ts": 1533415024,
+                    "twitterid": 1025843079461388295,
+                    "url": "https://www.nytimes.com/2018/08/03/world/europe/pompeo-andrew-brunson-turkey-singapore.html?smtyp=cur&smid=tw-nytimes"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            84
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Ray Lewis",
+            "Jonathan Allen",
+            "Clark Kent",
+            "Chicago College",
+            "Yosemite",
+            "Pride",
+            "Jos\u00e9",
+            "ISIS",
+            "Huge Sense",
+            "Record",
+            "Brian Dawkins",
+            "DeSclafani",
+            "Toys",
+            "Biden",
+            "Schools Teach Children Morality",
+            "Find Hundreds",
+            "Virginia Temperature",
+            "Europe",
+            "Orlando City",
+            "Broken Corruption",
+            "FEC",
+            "Trump",
+            "South Africa",
+            "Michael Phelps",
+            "NASCAR",
+            "Parkland",
+            "Fix",
+            "Classrooms Iraq",
+            "Justin Thomas",
+            "Mexico Brothers",
+            "Canada Conservative",
+            "Betsy",
+            "NRA",
+            "Steve Addazio",
+            "Spain",
+            "Empathy",
+            "School Websites",
+            "Hall",
+            "McNaughton",
+            "Universities Woo",
+            "Bangladesh",
+            "Senate",
+            "Through Free Play",
+            "Bode Miller",
+            "Harsh",
+            "Sleep Struggles Boston",
+            "Bridgestone",
+            "Fame",
+            "Deported Parents The Bedtime Pass Helps Parents And Kids",
+            "AD Martin Jarmond",
+            "Nationals",
+            "Emanuel",
+            "Children Behave Martin Truex",
+            "Savannah Guthrie An",
+            "Ambassador",
+            "Barack Obama",
+            "Mickey Mantle",
+            "DACA Tiger Woods",
+            "Parton",
+            "History Classes Needham",
+            "Joseph Kirby",
+            "Reds",
+            "Fairfax",
+            "DACA Red",
+            "McGraw Hill",
+            "Iran",
+            "Pakistan",
+            "Gonzalez",
+            "California",
+            "Eurocentric Influence",
+            "LaRaviere",
+            "Tots",
+            "Morgan Beck Miller",
+            "Fairest Way",
+            "Ohio State",
+            "Finland Keeps Kids",
+            "Portugal",
+            "Illinois",
+            "Trump Administration",
+            "Army Vet Completes Armed School Guardian",
+            "Randy Moss",
+            "Al Franken",
+            "Hambletonian",
+            "Iraq Is",
+            "Jesus Ray Lewis",
+            "Amtrak",
+            "Thomas Shaughnessy",
+            "Veteran",
+            "US Open",
+            "Alan Kazdin Method",
+            "America"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "judge",
+            "School",
+            "Students",
+            "Colleges",
+            "parents",
+            "protests"
+        ],
+        "timestamp": "2018-08-05 15:10:28.320999-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b667675421aa9774bb09193",
+                    "date_month": "2018-08",
+                    "image": "https://images.wsj.net/im-20860/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Judge Orders Trump Administration to Find Hundreds of Deported Parents",
+                    "ts": 1533441604,
+                    "twitterid": 1025954566850981888,
+                    "url": "https://www.wsj.com/articles/judge-orders-trump-administration-to-find-hundreds-of-deported-parents-1533334895?mod=e2tw"
+                },
+                {
+                    "_id": "5b66e6f4421aa97c33ccbfbb",
+                    "date_month": "2018-08",
+                    "image": "https://static01.nyt.com/images/2018/08/05/education/learning/05transfer-2/05transfer-2-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Colleges and Universities Woo Once-Overlooked Transfer Students",
+                    "ts": 1533469263,
+                    "twitterid": 1026070574571896833,
+                    "url": "https://www.nytimes.com/2018/08/02/education/learning/transfer-students-colleges-universities.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b665a54421aa9766ffb27d8",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2017/09/05/ed5be3d1-fb14-4a99-aff2-49d52bfd07af/thumbnail/1200x630/e7a846d42a8cc48e22cbdabac021cb95/ap-17248629919334.jpg",
+                    "origin": "CBS News",
+                    "title": "Federal judge orders Trump administration to restore DACA",
+                    "ts": 1533430984,
+                    "twitterid": 1025910021148876801,
+                    "url": "https://www.cbsnews.com/news/daca-judge-john-bates-orders-trump-administration-to-restore-program-today-2018-08-03/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b664cc604d301048bcd1f4f&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b668477421aa977bf380e16",
+                    "date_month": "2018-08",
+                    "image": "https://static01.nyt.com/images/2017/09/05/opinion/04DACA-1/05krugmanWeb-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Judge Upholds Order for Trump Administration to Restore DACA",
+                    "ts": 1533442926,
+                    "twitterid": 1025960111561498624,
+                    "url": "https://www.nytimes.com/2018/08/03/us/federal-judge-daca.html?partner=socialflow&smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b66e6f4421aa97c33ccbfce",
+                    "date_month": "2018-08",
+                    "image": "https://static01.nyt.com/images/2018/08/05/education/learning/05facebook-1/05facebook-1-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "The Information on School Websites Is Not as Safe as You Think",
+                    "ts": 1533466988,
+                    "twitterid": 1026061033939652608,
+                    "url": "https://www.nytimes.com/2018/08/02/education/learning/school-websites-information-tracking.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b66f501421aa97d47114420",
+                    "date_month": "2018-08",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_31/2520161/180804-bangladesh-protest-2-ew-559p_fe0caa2acf9858881ead8771de9d11d7.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "U.S. Ambassador's motorcade attacked as Bangladesh protests enter eighth day",
+                    "ts": 1533471309,
+                    "twitterid": 1026079155987857409,
+                    "url": "https://www.nbcnews.com/news/world/bangladesh-protesters-injured-clashes-police-n897676?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b668477421aa977bf380e14",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/nra_protest_080418gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Protesters including Parkland students rally at NRA offices in Virginia",
+                    "ts": 1533443164,
+                    "twitterid": 1025961110392975360,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/400389-protesters-including-parkland-students-rally-at-nra-offices-in"
+                },
+                {
+                    "_id": "5b668477421aa977bf380e02",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/55/0b/2890769d408da25fc1326753cba8/180803-kirstjen-nielsen-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Judge orders full restart of DACA program",
+                    "ts": 1533445204,
+                    "twitterid": 1025969664554356736,
+                    "url": "https://www.politico.com/story/2018/08/03/daca-trump-administration-court-judge-restart-order-722167"
+                },
+                {
+                    "_id": "5b66a093421aa97933544b8e",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/04/27/0/0/694940094001_5777338749001_5777326207001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "School district bungled Parkland suspect's request for therapeutic services: report",
+                    "ts": 1533451980,
+                    "twitterid": 1025998085279940609,
+                    "url": "http://www.foxnews.com/us/2018/08/05/school-district-bungled-parkland-suspects-request-for-therapeutic-services-report.html"
+                },
+                {
+                    "_id": "5b66bcb1421aa979d6f8c3f2",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/klZUtUYZT_2K9lxkfcB6EYiOCUQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EB4JW5ZTVIZ5DBJTJ4Z5K2CA3M.jpg",
+                    "origin": "Washington Post",
+                    "title": "Protesters paralyze parts of Bangladesh after a speeding bus kills two students",
+                    "ts": 1533456285,
+                    "twitterid": 1026016141376999424,
+                    "url": "https://www.washingtonpost.com/news/worldviews/wp/2018/08/04/protesters-paralyze-parts-of-bangladesh-after-a-speeding-bus-kills-two-students/?utm_term=.46352f7cf62f&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            29
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "New Mexico",
+            "Indonesia",
+            "Mass",
+            "Lombok Island",
+            "Lombok",
+            "Fox River",
+            "Indonesian",
+            "Indonesia Microburst",
+            "Massachusetts",
+            "Seventh",
+            "Boy",
+            "Tornado",
+            "Hurricane Hector",
+            "Jerry Brown",
+            "Wildfires",
+            "Southwest Side Seven",
+            "Quake",
+            "California",
+            "Seattle",
+            "Lithuanian Plaza",
+            "Hawaii Gov",
+            "New Hampshire Bali",
+            "Bali Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "earthquake",
+            "Indonesia",
+            "New",
+            "islands",
+            "tsunami",
+            "California",
+            "compound"
+        ],
+        "timestamp": "2018-08-05 15:10:28.713596-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b66f501421aa97d4711440c",
+                    "date_month": "2018-08",
+                    "image": "https://twt-assets.washtimes.com/v4/images/favicon.6bd96ab48f85.ico",
+                    "origin": "The Washington Times",
+                    "title": "Indonesia earthquake sparks tsunami fears",
+                    "ts": 1533472692,
+                    "twitterid": 1026084957846945792,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/5/indonesia-earthquake-sparks-tsunami-fears/"
+                },
+                {
+                    "_id": "5b674968421aa902ddf31091",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_31/2520576/180805-indonesia-earthquake-al-0951_e64f4781ecd5b78051dccafcda5f4008.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "At least 32 dead after strong earthquake hits Indonesia's Lombok, Bali islands",
+                    "ts": 1533494234,
+                    "twitterid": 1026175311904423936,
+                    "url": "https://www.nbcnews.com/news/world/indonesia-issues-tsunami-warning-after-7-0-quake-n897746?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b66f501421aa97d4711440f",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/08/05/tsunami-warning-issued-after-magnitude-7-0-earthquake-rocks-indonesia-tourist-hotspot-bali/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1533472028700.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Tsunami warning issued after magnitude 7.0 earthquake rocks Indonesia, tourist hotspot Bali",
+                    "ts": 1533472434,
+                    "twitterid": 1026083877411012608,
+                    "url": "http://www.foxnews.com/world/2018/08/05/tsunami-warning-issued-after-magnitude-7-0-earthquake-rocks-indonesia-tourist-hotspot-bali.html"
+                },
+                {
+                    "_id": "5b670320421aa97df699111c",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "7.0-magnitude earthquake hits Indonesia",
+                    "ts": 1533474645,
+                    "twitterid": 1026093149003939840,
+                    "url": "https://www.cnn.com/2018/08/05/asia/indonesia-earthquake/index.html?sr=twCNN080518indonesia-earthquake0904AMVODtop"
+                },
+                {
+                    "_id": "5b670320421aa97df69910fd",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_31/2520576/180805-indonesia-earthquake-al-0951_e64f4781ecd5b78051dccafcda5f4008.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Indonesia lifts tsunami warning after 7.0 quake",
+                    "ts": 1533477337,
+                    "twitterid": 1026104438954577922,
+                    "url": "https://www.nbcnews.com/news/world/indonesia-issues-tsunami-warning-after-7-0-quake-n897746?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b66d8d2421aa97a798d2f2b",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/05/BostonGlobe.com/National/Images/2c63980e41e946b492e5a9017a5774fe-2c63980e41e946b492e5a9017a5774fe-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "New Mexico sheriff: Compound searched, 11 kids removed",
+                    "ts": 1533465065,
+                    "twitterid": 1026052969870098432,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/08/05/new-mexico-sheriff-compound-searched-kids-removed/tDzH6fZ3MuomFAPkIFLgpI/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b674968421aa902ddf310a0",
+                    "date_month": "2018-08",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_31/2520586/180805-siraj-wahhaj-al-0954_35768c99352567c56be4524baaaa3e36.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "11 children found living in filth on New Mexico compound",
+                    "ts": 1533492964,
+                    "twitterid": 1026169985499115520,
+                    "url": "https://www.nbcnews.com/news/us-news/11-children-found-living-filth-new-mexico-compound-n897751?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b670320421aa97df6991115",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/-mm-/c6c03303a7a8d1d2670bd0ce5cb0ba969344ad4d/c=0-142-387-361/local/-/media/2018/08/05/USATODAY/USATODAY/636690554432237357-bali-quake.png?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "7.0 earthquake rocks Indonesian island, tsunami warning issued",
+                    "ts": 1533475294,
+                    "twitterid": 1026095870037696513,
+                    "url": "https://www.usatoday.com/story/news/world/2018/08/05/indonesia-earthquake-earthquake-rocks-lombok-tsunami-possible/909788002/"
+                },
+                {
+                    "_id": "5b667675421aa9774bb091b5",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/05/12a970a5-574d-44db-8b2f-9962c934c501/thumbnail/1200x630/2b76dc5b3eee11a2559f664c4a0ed49f/ap-18217014829155.jpg",
+                    "origin": "CBS News",
+                    "title": "11 children found in \"filthy\" New Mexico compound with little food, authorities say",
+                    "ts": 1533438609,
+                    "twitterid": 1025942002859433984,
+                    "url": "https://www.cbsnews.com/news/amalia-new-mexico-compound-siraj-wahhaj-lucas-morten-arrested-today-2018-08-04/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b666a8a04d30162bb1eec6e&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b66cacd421aa97a209dcbdb",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/08/04/df7ff126-d0dd-41ae-b7c2-d0e93d7c1853/thumbnail/1200x630/4e89705f2328b786f4d273f39033a942/californiaweather.jpg",
+                    "origin": "CBS News",
+                    "title": "Weekend of windy, hot weather could drive California flames into new areas",
+                    "ts": 1533462483,
+                    "twitterid": 1026042140135247874,
+                    "url": "https://www.cbsnews.com/news/northern-california-wildfires-weekend-of-windy-hot-weather-could-drive-flames-into-new-areas-2018-08-04/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b66c7d104d3012450ee2707&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            14
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Collateral Damage From Trade War",
+            "Grocery Carts",
+            "Donald Trump",
+            "Prices Soar Trump",
+            "Canada",
+            "Trump Global Heat Wave Toasts Wheat",
+            "Boycott U.S.A. Movement Starts Rolling",
+            "American",
+            "Toyota",
+            "Retaliatory",
+            "China Trump",
+            "U.S.",
+            "U.S. Cranberry Industry",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "tariffs",
+            "Trump",
+            "China",
+            "cost",
+            "Trade",
+            "War"
+        ],
+        "timestamp": "2018-08-05 15:10:28.946082-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b662212421aa971c049c0b3",
+                    "date_month": "2018-08",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BF573_Luskin_SOC_20180725144152.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "China Is Losing the Trade War With Trump",
+                    "ts": 1533416420,
+                    "twitterid": 1025848938606342144,
+                    "url": "https://www.wsj.com/articles/china-is-losing-the-trade-war-with-trump-1532729725?mod=e2tw"
+                },
+                {
+                    "_id": "5b66a093421aa97933544b97",
+                    "date_month": "2018-08",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIQmY32wgWcM/v0/1200x650.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Hollywood Braces for Collateral Damage From Trade War With China",
+                    "ts": 1533450609,
+                    "twitterid": 1025992337346965504,
+                    "url": "https://www.bloomberg.com/news/articles/2018-07-19/hollywood-braces-for-collateral-damage-from-trade-war-with-china?utm_source=twitter&utm_campaign=socialflow-organic&utm_medium=social&utm_content=politics&cmpid%3D=socialflow-twitter-politics"
+                },
+                {
+                    "_id": "5b662212421aa971c049c0a7",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/tamparally_trumpdonald_080118getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Toyota warns cost of some best-selling models could rise because of Trump tariffs",
+                    "ts": 1533417425,
+                    "twitterid": 1025853150920630273,
+                    "url": "http://thehill.com/policy/international/400347-cost-of-some-cars-could-rise-by-3000-to-because-of-trump-tariffs"
+                },
+                {
+                    "_id": "5b673b55421aa902346fceac",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/99/50/0b4d21e944229bf0f68a483675f8/getty-chinausflags.jpg",
+                    "origin": "POLITICO",
+                    "title": "China hits back with tariffs on $60B in U.S. goods",
+                    "ts": 1533489606,
+                    "twitterid": 1026155902737555457,
+                    "url": "https://www.politico.com/story/2018/08/03/china-will-retaliate-with-tariffs-760862"
+                },
+                {
+                    "_id": "5b66f501421aa97d4711442e",
+                    "date_month": "2018-08",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180524115209-auto-tariffs-america-1-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "The most popular American cars will cost thousands of dollars more because of tariffs",
+                    "ts": 1533470468,
+                    "twitterid": 1026075630062985216,
+                    "url": "https://money.cnn.com/2018/08/02/news/companies/trump-auto-tariffs-costs-new-cars/index.html?utm_content=2018-08-05T12%3A01%3A07&utm_medium=social&utm_term=image&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b662212421aa971c049c0b0",
+                    "date_month": "2018-08",
+                    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/08/0/0/Trump-10.jpg?ve=1&tl=1",
+                    "origin": "Fox News",
+                    "title": "Trump touts effectiveness of tariffs in string of tweets",
+                    "ts": 1533416553,
+                    "twitterid": 1025849495706378241,
+                    "url": "https://www.foxbusiness.com/politics/trump-touts-effectiveness-of-tariffs-in-string-of-tweets"
+                },
+                {
+                    "_id": "5b670320421aa97df6991106",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/05/AP_18217016955498_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump says tariffs \u2018working big time\u2019",
+                    "ts": 1533476451,
+                    "twitterid": 1026100723375845376,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/5/donald-trump-says-tariffs-working-big-time/"
+                },
+                {
+                    "_id": "5b661405421aa97147f85df2",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trump_cabinet_080318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump defends tariffs: When we use them 'foolish people scream!'",
+                    "ts": 1533414543,
+                    "twitterid": 1025841062890360832,
+                    "url": "http://thehill.com/policy/finance/trade/400404-trump-defends-tariffs-when-we-use-them-foolish-people-scream"
+                },
+                {
+                    "_id": "5b66d8d2421aa97a798d2f30",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/07/11/USATODAY/usatsports/international-trade-ship-cargo-containers.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Trump tariffs: Why their impact is tiny and the tactics aren't all they seem",
+                    "ts": 1533465005,
+                    "twitterid": 1026052715259023360,
+                    "url": "https://www.usatoday.com/story/money/columnist/2018/08/05/trump-tariffs-why-their-impact-tiny/894406002/"
+                },
+                {
+                    "_id": "5b665a54421aa9766ffb27db",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trump_rally_wilkes-barre_080418getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump on GDP: It's going a lot higher",
+                    "ts": 1533430865,
+                    "twitterid": 1025909523503034369,
+                    "url": "http://thehill.com/policy/finance/400425-trump-on-41-percent-gdp-its-going-a-lot-higher"
+                }
+            ]
+        ]
+    }
+]

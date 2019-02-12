@@ -1,0 +1,1862 @@
+[
+    {
+        "list": [
+            43
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Sean Hannity",
+            "Russia",
+            "Sessions Pompeo",
+            "Envoys",
+            "North Korea",
+            "NBC",
+            "Mike Pompeo",
+            "DOJ House",
+            "Russia House",
+            "DOJ Pompeo",
+            "U.S.",
+            "State Pompeo",
+            "FISA",
+            "Bloomberg",
+            "FBI",
+            "Ranks",
+            "Rosenstein",
+            "Andrew",
+            "Pompeo",
+            "Republican Party",
+            "Pompeo Adds",
+            "Missouri",
+            "China Gowdy",
+            "US",
+            "Trump Pompeo",
+            "Donald Trump",
+            "CIA",
+            "Syria Pompeo",
+            "Trump",
+            "GOP",
+            "Trump How Trump Could Get Fired",
+            "White House",
+            "UN Pompeo",
+            "Rod Rosenstein",
+            "McCabe",
+            "Rosenstein Schumer",
+            "Specialized Missions",
+            "Kim Jong Un"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Pompeo",
+            "Rosenstein",
+            "Russia",
+            "Fired",
+            "says",
+            "bombshell"
+        ],
+        "timestamp": "2018-09-23 16:10:18.762730-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba6c9a0421aa922205987e4",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/XjkbkDzWA6SeHeKTvrbAeU2JPdg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JGT6NKV52UI6RASD6OXJZGLFRI.jpg",
+                    "origin": "Washington Post",
+                    "title": "One Fox host says Rosenstein should be fired. Another, Sean Hannity, says it\u2019s all \u2018designed to set up the president.\u2019",
+                    "ts": 1537656983,
+                    "twitterid": 1043635145201385472,
+                    "url": "https://www.washingtonpost.com/arts-entertainment/2018/09/22/one-fox-host-says-rosenstein-should-be-fired-sean-hannity-says-its-all-setup/?utm_term=.bd7797c4a508&tid=sm_tw&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5ba7f0fe421aa9379ec8ce21",
+                    "date_month": "2018-09",
+                    "image": "https://media.newyorker.com/photos/59098085c14b3c606c109e62/16:9/w_1200,h_630,c_limit/170508_r29898_rd.jpg",
+                    "origin": "The New Yorker",
+                    "title": "How Trump Could Get Fired",
+                    "ts": 1537729605,
+                    "twitterid": 1043939747012464640,
+                    "url": "https://www.newyorker.com/magazine/2017/05/08/how-trump-could-get-fired?mbid=social_twitter"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d3a0",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/pompeomike_072518am2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Pompeo on Rosenstein bombshell: Maybe you just ought to find something else to do if you can't be on the team",
+                    "ts": 1537708141,
+                    "twitterid": 1043849720332988418,
+                    "url": "https://thehill.com/homenews/administration/407952-pompeo-on-rosenstein-bombshell-if-you-cant-be-on-the-team-maybe-you"
+                },
+                {
+                    "_id": "5ba73a17421aa92ca18d579e",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/22/0/0/694940094001_5838659823001_5838646058001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Pompeo says officials not backing Trump's mission 'ought to find something else to do'",
+                    "ts": 1537685400,
+                    "twitterid": 1043754335669182465,
+                    "url": "http://www.foxnews.com/politics/2018/09/22/pompeo-says-officials-not-backing-trumps-mission-ought-to-find-something-else-to-do.html"
+                },
+                {
+                    "_id": "5ba7b8bc421aa934022d5157",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5ba79b04/turbine/ct-rod-rosenstein-analysis-20180923",
+                    "origin": "Chicago Tribune",
+                    "title": "4 things we need to know about the Rod Rosenstein bombshell",
+                    "ts": 1537715393,
+                    "twitterid": 1043880135286566912,
+                    "url": "http://www.chicagotribune.com/news/nationworld/politics/ct-rod-rosenstein-analysis-20180923-story.html"
+                },
+                {
+                    "_id": "5ba701ea421aa928caf1e6fb",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/9f/c2/eb05b1c5479d9c5bf04429c70da2/180922-gaetz-jordan-meadows-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Rosenstein's Hill tormentors surprisingly cautious after bombshell report",
+                    "ts": 1537668016,
+                    "twitterid": 1043681422857457665,
+                    "url": "https://www.politico.com/story/2018/09/22/rosenstein-congress-trump-836451"
+                },
+                {
+                    "_id": "5ba6bb94421aa92112896235",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/ee/94/16633abf4ec0a666d62bf9d94b2c/180922-mike-pompeo-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Pompeo rips Russia: 'They have not proven helpful'",
+                    "ts": 1537653609,
+                    "twitterid": 1043620995666530306,
+                    "url": "https://www.politico.com/story/2018/09/22/pompeo-russia-us-trump-836455"
+                },
+                {
+                    "_id": "5ba6ad89421aa91ffecfab38",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/pompeomike_072518am6_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Pompeo: 'We've not been successful' in changing US-Russia relations",
+                    "ts": 1537647185,
+                    "twitterid": 1043594051025600512,
+                    "url": "https://thehill.com/homenews/administration/407930-pompeo-weve-not-been-successful-in-changing-us-russia-relations"
+                },
+                {
+                    "_id": "5ba6bb94421aa9211289624b",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/rosenstein_trump_getty01.jpg",
+                    "origin": "The Hill",
+                    "title": "Donald Trump\u2019s Rosenstein dilemma",
+                    "ts": 1537651745,
+                    "twitterid": 1043613176368115713,
+                    "url": "https://thehill.com/opinion/white-house/407908-donald-trumps-rosenstein-dilemma"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d39b",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/34/ff/07a4685747a1b75707642d53bcea/180923-pompeo-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Pompeo: U.S. may hold Russia accountable for chemical weapons in Syria",
+                    "ts": 1537708503,
+                    "twitterid": 1043851237614112769,
+                    "url": "https://www.politico.com/story/2018/09/23/pompeo-russia-syria-chemical-weapons-837299"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            12
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Campus",
+            "Joandrea McAtee",
+            "UMass Amherst",
+            "Wrong Way",
+            "California",
+            "Week",
+            "Elgin",
+            "Grammar Purdue",
+            "New York"
+        ],
+        "peaks": [],
+        "theme": [
+            "school",
+            "accused",
+            "african",
+            "alcohol",
+            "american",
+            "Amherst",
+            "amid"
+        ],
+        "timestamp": "2018-09-23 16:10:19.138175-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba79ca2421aa931c481d37c",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5ba69d9c/turbine/ct-ecn-elgin-settlement-tour-st-0919",
+                    "origin": "Chicago Tribune",
+                    "title": "Elementary school to host walking tour of Elgin's first African-American neighborhood",
+                    "ts": 1537710964,
+                    "twitterid": 1043861561796898816,
+                    "url": "http://www.chicagotribune.com/suburbs/elgin-courier-news/news/ct-ecn-elgin-settlement-tour-st-0919-story.html"
+                },
+                {
+                    "_id": "5ba7b8bc421aa934022d515e",
+                    "date_month": "2018-09",
+                    "image": "https://c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/images/logo-bg.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "UMass Amherst fraternity indicted for hazing, procuring alcohol for a minor",
+                    "ts": 1537714854,
+                    "twitterid": 1043877873642360836,
+                    "url": "https://www.bostonglobe.com/metro/2018/09/22/umass-amherst-fraternity-indicted-for-hazing-procuring-alcohol-for-minor/Iy2voLcwvUJ41Yo1D2dg7J/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d394",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/23/bus-school-school-bus-yellow-159658_s2048x1152.jpeg?b7a87d513031f47829d41b58a5b9b203fe712c1b",
+                    "origin": "The Washington Times",
+                    "title": "Joandrea McAtee, bus driver, accused of letting students drive",
+                    "ts": 1537709016,
+                    "twitterid": 1043853390017691648,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/23/joandrea-mcatee-bus-driver-accused-letting-student/"
+                },
+                {
+                    "_id": "5ba6bb94421aa92112896243",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/pete.png",
+                    "origin": "The Hill",
+                    "title": "California college gets rid of Prospector Pete mascot amid concerns of racism",
+                    "ts": 1537652225,
+                    "twitterid": 1043615191798308864,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/407905-california-college-gets-rid-of-prospector-pete-mascot-over"
+                },
+                {
+                    "_id": "5ba7f0fe421aa9379ec8ce17",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:fe21ec6d462144f2a32a972229efda57/800.jpeg",
+                    "origin": "AP Eastern US",
+                    "title": "High school journalists stand up to censorship and win",
+                    "ts": 1537730680,
+                    "twitterid": 1043944252806500354,
+                    "url": "https://www.apnews.com/6f6d0f48815e426eb6005f9a650c0d98?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=APEastRegion"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Jerusalem",
+            "Savior",
+            "Israel",
+            "U.S.",
+            "Terrorist Groups",
+            "Franco Has",
+            "America Exceptional Again Latin America",
+            "Guatemalan",
+            "American Racism Influenced Hitler",
+            "Kosovo",
+            "Troubles Might Be",
+            "Qanon",
+            "ISIS",
+            "Trump",
+            "Democracy Washington",
+            "Migrant",
+            "Hunger",
+            "MbS",
+            "Sneaker Culture",
+            "Parole My",
+            "Long Political History",
+            "Origins",
+            "Supreme Court",
+            "Nigerian"
+        ],
+        "peaks": [],
+        "theme": [
+            "America",
+            "Crisis",
+            "Democracy",
+            "says",
+            "Trump",
+            "American",
+            "among"
+        ],
+        "timestamp": "2018-09-23 16:10:20.049847-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba74822421aa92cf6b899d5",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/2018/01/WEL_Mounk_Democracy_art/facebook.jpg?1522768692",
+                    "origin": "The Atlantic",
+                    "title": "America Is Not a Democracy",
+                    "ts": 1537689605,
+                    "twitterid": 1043771974374367232,
+                    "url": "https://www.theatlantic.com/magazine/archive/2018/03/america-is-not-a-democracy/550931/"
+                },
+                {
+                    "_id": "5ba70fea421aa929b7896ace",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_31/2520081/180804-qanon-2-al-1515_92fbd2c38fd081adbf5b8334a00bfe4b.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "What is Qanon? A guide to the conspiracy theory taking hold among Trump supporters",
+                    "ts": 1537673523,
+                    "twitterid": 1043704518947557378,
+                    "url": "https://www.nbcnews.com/tech/tech-news/what-qanon-guide-conspiracy-theory-taking-hold-among-trump-supporters-n897271?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5ba7d4e8421aa935afa42624",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2017/02/RTSXWM6/facebook.jpg?1522787516",
+                    "origin": "The Atlantic",
+                    "title": "How Trump Wants to Make America Exceptional Again",
+                    "ts": 1537723804,
+                    "twitterid": 1043915415674638338,
+                    "url": "https://www.theatlantic.com/politics/archive/2017/02/how-trump-wants-to-make-america-exceptional-again/515406/"
+                },
+                {
+                    "_id": "5ba7e2ee421aa936bb397c09",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/09/RTS1XX3V/facebook.jpg?1537548827",
+                    "origin": "The Atlantic",
+                    "title": "Latin America Gets Its Own Migrant Crisis",
+                    "ts": 1537728951,
+                    "twitterid": 1043937000561278976,
+                    "url": "https://www.theatlantic.com/international/archive/2018/09/venezuela-migrants/570979/?utm_campaign=the-atlantic&utm_term=2018-09-23T16%3A03%3A11&utm_medium=social&utm_source=twitter&utm_content=edit-promo"
+                },
+                {
+                    "_id": "5ba78e83421aa930c5a6ce95",
+                    "date_month": "2018-09",
+                    "image": "https://media.newyorker.com/photos/5ad75d81b231f616c3247feb/16:9/w_1200,h_630,c_limit/180430_r31962.jpg",
+                    "origin": "The New Yorker",
+                    "title": "How American Racism Influenced Hitler",
+                    "ts": 1537706604,
+                    "twitterid": 1043843272068800512,
+                    "url": "https://www.newyorker.com/magazine/2018/04/30/how-american-racism-influenced-hitler?mbid=social_twitter"
+                },
+                {
+                    "_id": "5ba7aaae421aa932c88a4d33",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/financial_crisis2_1.jpg",
+                    "origin": "The Hill",
+                    "title": "A decade after the crisis, our vigilance must not wane",
+                    "ts": 1537712703,
+                    "twitterid": 1043868852583649280,
+                    "url": "https://thehill.com/opinion/finance/407772-a-decade-after-the-crisis-our-vigilance-must-not-wane"
+                },
+                {
+                    "_id": "5ba7b8bc421aa934022d5136",
+                    "date_month": "2018-09",
+                    "image": "https://images.newrepublic.com/d518550edd956eb5e359c880aa96167a9d0e19ed.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "What Digging Up Franco Has to Do With Democracy",
+                    "ts": 1537718410,
+                    "twitterid": 1043892789971439616,
+                    "url": "https://newrepublic.com/article/151257/digging-franco-democracy"
+                },
+                {
+                    "_id": "5ba6c9a0421aa922205987f4",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/hTUDh1ne-CG6_1dWwnX8TICzbzk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XWSOGIF5YQI6RASD6OXJZGLFRI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Hunger, not violence, fuels Guatemalan migration surge, U.S. says",
+                    "ts": 1537655325,
+                    "twitterid": 1043628193062825985,
+                    "url": "https://www.washingtonpost.com/world/national-security/hunger-not-violence-fuels-guatemalan-migration-surge-us-says/2018/09/21/65c6a546-bdb3-11e8-be70-52bd11fe18af_story.html?utm_term=.56b1ead0b4f6&tid=sm_tw"
+                },
+                {
+                    "_id": "5ba7e2ee421aa936bb397c37",
+                    "date_month": "2018-09",
+                    "image": "https://images.newrepublic.com/d7851cc541da146cc1f85fd318ec77045831735a.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The Origins of America\u2019s Enduring Divisions",
+                    "ts": 1537725658,
+                    "twitterid": 1043923189078929410,
+                    "url": "https://newrepublic.com/article/151130/these-truths-book-review-jill-lepore-origins-americas-enduring-divisions"
+                },
+                {
+                    "_id": "5ba70fea421aa929b7896ad3",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/ikCLR0dci4PIjz-2Fb69Q6WMq4s=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BU2O4BFSUII6RC2TKAIWO2HETE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Kosovo says it would move its Israel embassy to Jerusalem \u2014 if it had one",
+                    "ts": 1537672984,
+                    "twitterid": 1043702258590994432,
+                    "url": "https://www.washingtonpost.com/world/2018/09/22/kosovo-says-it-would-move-israeli-embassy-jerusalem-if-it-had-one/?utm_term=.2bcb43666347&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            26
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "CDC",
+            "Science",
+            "US",
+            "White Sox",
+            "Cubs",
+            "Matt Fitzgerald",
+            "Alzheimer",
+            "New Book",
+            "Bears",
+            "Woman",
+            "Plastic",
+            "Always Had Haters",
+            "NL Central",
+            "Javon Wims"
+        ],
+        "peaks": [],
+        "theme": [
+            "may",
+            "kids",
+            "comes",
+            "contact",
+            "Cubs",
+            "doctor",
+            "early"
+        ],
+        "timestamp": "2018-09-23 16:10:20.724047-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba7aaae421aa932c88a4d3c",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5ba42879/turbine/ct-met-cubs-superfan-kids-20180920",
+                    "origin": "Chicago Tribune",
+                    "title": "When it comes to initiating kids into Cubs fandom, it's never too early, many fans say",
+                    "ts": 1537712258,
+                    "twitterid": 1043866985782804480,
+                    "url": "http://www.chicagotribune.com/news/ct-met-cubs-superfan-kids-20180920-story.html"
+                },
+                {
+                    "_id": "5ba78075421aa92fd6853275",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_34/1362908/child-football-today-main-180824_c3aa9b06ac15c2bccda39e0d3d1c8213.1200;630;7;70;2.jpg",
+                    "origin": "NBC News",
+                    "title": "'Concussion' doctor warns against contact sports for kids",
+                    "ts": 1537700522,
+                    "twitterid": 1043817762580303872,
+                    "url": "https://www.today.com/health/concussion-doctor-warns-against-contact-sports-kids-t115938?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5ba6e5d3421aa9245d02407b",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/19/0/0/694940094001_5836880298001_5836870081001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Your 'heart age' may be a risk factor for early death",
+                    "ts": 1537662180,
+                    "twitterid": 1043656943812927491,
+                    "url": "http://www.foxnews.com/health/2018/09/22/your-heart-age-may-be-risk-factor-for-early-death.html"
+                },
+                {
+                    "_id": "5ba74822421aa92cf6b899e8",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2014/04/17/a194ecbe-d56b-4838-9555-538755274402/thumbnail/1200x630/5a37b721817a4451f54ce21466f51bcb/contact-lens-stock.jpg",
+                    "origin": "CBS News",
+                    "title": "Why eye doctors say you should never sleep in contact lenses",
+                    "ts": 1537686183,
+                    "twitterid": 1043757620623028225,
+                    "url": "https://www.cbsnews.com/news/why-experts-say-you-should-never-sleep-in-contact-lenses/"
+                },
+                {
+                    "_id": "5ba7b8bc421aa934022d5142",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/19/0/0/694940094001_5837117713001_5837113134001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "USDA kitten killing comes under fire from bipartisan group of lawmakers",
+                    "ts": 1537717500,
+                    "twitterid": 1043888973020422150,
+                    "url": "http://www.foxnews.com/politics/2018/09/19/usda-kitten-killing-comes-under-fire-from-bipartisan-group-lawmakers.html"
+                },
+                {
+                    "_id": "5ba7b8bc421aa934022d5143",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_38/2574511/180921-fortnite-al-1025_eb366178e8883988fe2608a8c5510f5e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "'Fortnite' craze pushes some parents to hire tutors \u2014 for kids and themselves",
+                    "ts": 1537717382,
+                    "twitterid": 1043888480420548610,
+                    "url": "https://www.nbcnews.com/tech/tech-news/fortnite-craze-pushes-some-parents-hire-tutors-kids-themselves-n911881?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5ba701ea421aa928caf1e6d0",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5ba6ff26/turbine/ct-spt-cubs-white-sox-20180922",
+                    "origin": "Chicago Tribune",
+                    "title": "Cubs win 8-3 over White Sox; magic number to win NL Central falls to 6 with Brewers loss",
+                    "ts": 1537671540,
+                    "twitterid": 1043696202351628288,
+                    "url": "http://www.chicagotribune.com/sports/baseball/ct-spt-cubs-white-sox-20180922-story.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            66
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Tale",
+            "Amazon",
+            "Queens",
+            "Sad Bet",
+            "Dana Perino",
+            "Dale Earnhardt",
+            "High Heels Kavanaugh",
+            "Ford",
+            "Space Exploration Who Needs Convertible Slippers",
+            "Paul Simon",
+            "Hollywood",
+            "Taran Killam",
+            "Greatest",
+            "Tanzania",
+            "Alabama",
+            "Alexa",
+            "Anthony Bourdain",
+            "Malden",
+            "Chevy Chase",
+            "Farewell",
+            "Adults For King",
+            "NASCAR",
+            "Vandal",
+            "Struggle",
+            "Bert",
+            "New York Tiffany Haddish",
+            "Stephen Colbert",
+            "Robert Galbraith",
+            "Digital Cities Are Abandoned",
+            "Dietland",
+            "Robert Indiana",
+            "Full Disclosure",
+            "Real Lolita",
+            "Frank Oz",
+            "Harlem Baker Who",
+            "Browser",
+            "Adult Coloring Books",
+            "Natalie Wood",
+            "Grief Florida Georgia Line",
+            "iPhone",
+            "San Diego Rhino",
+            "Stormy Daniels Blind",
+            "Baby",
+            "Salacious",
+            "Type",
+            "Unknown",
+            "Human Promise",
+            "Kenya",
+            "Pahrump",
+            "San Jose Earthquakes",
+            "Superior Rugelach",
+            "Nick Saban",
+            "BoJack Horseman",
+            "Alejandro Escovedo",
+            "Illusions",
+            "Veronica Mars",
+            "New Home",
+            "Schindler",
+            "New American Gospel Robert Wagner",
+            "Meet Nevada",
+            "Jamie Lee Curtis Parents",
+            "Harriet Tubman",
+            "New York",
+            "MeToo"
+        ],
+        "peaks": [],
+        "theme": [
+            "New",
+            "one",
+            "back",
+            "Review",
+            "York",
+            "Book",
+            "museum"
+        ],
+        "timestamp": "2018-09-23 16:10:22.298946-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba71e05421aa92a9f7411c8",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/-mm-/d5a1268c5855e52db213b733edf145528c36e51e/c=0-1046-3222-2866/local/-/media/2018/09/20/USATODAY/USATODAY/636730465401798197-KLP-6713.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "The new Museum of Illusions in New York: It will boggle your mind",
+                    "ts": 1537677602,
+                    "twitterid": 1043721630843846656,
+                    "url": "https://www.usatoday.com/story/travel/2018/09/21/family-friendly-museum-illusions-opens-new-york-city/1377731002/"
+                },
+                {
+                    "_id": "5ba78e83421aa930c5a6ce90",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/nG_s38sGUaTFft_jYruRNDZigdo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JGIFV5F5CEI6RN6SA5Z2UHRT3I.jpg",
+                    "origin": "Washington Post",
+                    "title": "Book review of Full Disclosure by Stormy Daniels",
+                    "ts": 1537706903,
+                    "twitterid": 1043844528380284929,
+                    "url": "https://www.washingtonpost.com/outlook/stormy-danielss-memoir-funny-vulgar-brash-and-believable/2018/09/20/03f0dc6c-bcf3-11e8-8792-78719177250f_story.html?utm_term=.89e3f2d932bd&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5ba78075421aa92fd6853268",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5ba128d8/turbine/sc-books-lethal-white-robert-galbraith-jk-rowling-0926",
+                    "origin": "Chicago Tribune",
+                    "title": "Review: Robert Galbraith (aka J.K. Rowling) is back with 'Lethal White'",
+                    "ts": 1537701942,
+                    "twitterid": 1043823720203255809,
+                    "url": "http://www.chicagotribune.com/lifestyles/books/sc-books-lethal-white-robert-galbraith-jk-rowling-0926-story.html"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d39d",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/Vikm6FomS1c5-uS4fUz-hDy5cKw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BC6Z6EU7BRBYXIMECJZDMCB75M.jpg",
+                    "origin": "Washington Post",
+                    "title": "The new iPhone is in stores. Here are 5 reasons to wait before buying one.",
+                    "ts": 1537708436,
+                    "twitterid": 1043850958172762112,
+                    "url": "https://www.washingtonpost.com/technology/2018/09/21/new-iphone-is-now-stores-heres-reasons-hold-off-buying-one/?utm_term=.8c8747397187&tid=sm_tw"
+                },
+                {
+                    "_id": "5ba6c9a0421aa922205987e7",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/lifestyle/2018/09/21/new-york-barber-goes-viral-for-giving-man-in-wheelchair-haircut-outdoors/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537635817298.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "New York barber goes viral for giving man in wheelchair a haircut outdoors",
+                    "ts": 1537656480,
+                    "twitterid": 1043633036477300742,
+                    "url": "http://www.foxnews.com/lifestyle/2018/09/21/new-york-barber-goes-viral-for-giving-man-in-wheelchair-haircut-outdoors.html"
+                },
+                {
+                    "_id": "5ba73a17421aa92ca18d57a4",
+                    "date_month": "2018-09",
+                    "image": "https://media.newyorker.com/photos/5ba2467d3e36025aa0e46f12/16:9/w_1200,h_630,c_limit/Goldfield-Rugelach-Primary-New.jpg",
+                    "origin": "The New Yorker",
+                    "title": "A Search for Superior Rugelach, and the Harlem Baker Who\u2019s Making the Best in New York",
+                    "ts": 1537684464,
+                    "twitterid": 1043750410845085697,
+                    "url": "https://www.newyorker.com/culture/annals-of-gastronomy/a-search-for-superior-rugelach-and-the-harlem-baker-whos-making-the-best-in-town?mbid=social_twitter"
+                },
+                {
+                    "_id": "5ba7b8bc421aa934022d514c",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2017/09/back_to_school_essay_image/facebook.jpg?1522773627",
+                    "origin": "The Atlantic",
+                    "title": "Why Back-to-School Season Feels Like the New Year\u2014Even for Adults",
+                    "ts": 1537716608,
+                    "twitterid": 1043885233945366528,
+                    "url": "https://www.theatlantic.com/education/archive/2017/09/why-back-to-school-season-feels-like-the-new-year/540054/"
+                },
+                {
+                    "_id": "5ba71e05421aa92a9f7411d8",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/23/6c166190-76bb-4ec4-98e5-9a6111ed6199/thumbnail/1200x630/9b10e850095cbd2ee7da1b44fafe2659/ap-18266028580699.jpg",
+                    "origin": "CBS News",
+                    "title": "Paul Simon ends farewell tour in Queens, New York, not far from where he grew up",
+                    "ts": 1537675925,
+                    "twitterid": 1043714593519009792,
+                    "url": "https://www.cbsnews.com/news/paul-simon-flushing-meadows-corona-park-farewell-tour-tonight-2018-09-22/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5ba7129204d3017b723d9fba&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5ba7d4e8421aa935afa42629",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:e030f80aaae64adbaa3d32c54716e613/800.jpeg",
+                    "origin": "AP Eastern US",
+                    "title": "Robert Indiana's home needs love if it's to be a museum",
+                    "ts": 1537723399,
+                    "twitterid": 1043913716255936513,
+                    "url": "https://www.apnews.com/2957e20265934900b347ff4cfc541e4d?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=APEastRegion"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d3a6",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/20/11dfafd2-15a7-418f-9ee4-ec09e175b825/thumbnail/1200x630g2/0530ce3ec563cc033b22c85b96cfaaf8/schindlers-list-jurassic-park-promo.jpg",
+                    "origin": "CBS News",
+                    "title": "Book excerpt: How \"Schindler's List\" and \"Jurassic Park\" came to be",
+                    "ts": 1537707783,
+                    "twitterid": 1043848217849466880,
+                    "url": "https://www.cbsnews.com/news/book-excerpt-who-is-michael-ovitz-how-schindlers-list-and-jurassic-park-came-to-be/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5ba78f0504d3015d60b55469&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Michelle Obama",
+            "Chicago",
+            "Pennsylvania",
+            "Trump",
+            "GOP"
+        ],
+        "peaks": [],
+        "theme": [
+            "Obama",
+            "Michelle",
+            "voters",
+            "races",
+            "Trump",
+            "airtight",
+            "alum"
+        ],
+        "timestamp": "2018-09-23 16:10:22.501669-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba7aaae421aa932c88a4d28",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/09/20/ohio-guv-race-airtight-as-obama-swoops-in-to-boost-alum-gop-navigates-trump-kasich-rift/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537291059014.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Ohio guv race airtight: As Obama swoops in to boost alum, GOP navigates Trump-Kasich rift",
+                    "ts": 1537713900,
+                    "twitterid": 1043873873555582978,
+                    "url": "http://www.foxnews.com/politics/2018/09/20/ohio-guv-race-airtight-as-obama-swoops-in-to-boost-alum-gop-navigates-trump-kasich-rift.html"
+                },
+                {
+                    "_id": "5ba7aaae421aa932c88a4d35",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:07032421364c42a5aab0ceddfc308f5b/800.jpeg",
+                    "origin": "AP Central U.S.",
+                    "title": "In governor's races, Trump emerges as a defining issue",
+                    "ts": 1537712595,
+                    "twitterid": 1043868401771393024,
+                    "url": "https://apnews.com/3db5e6f6f9454f4f8b4e8728da222ccf?utm_medium=APCentralRegion&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5ba7f0fe421aa9379ec8ce23",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/obamamichelle_09202018getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Michelle Obama officiated Chicago wedding: report",
+                    "ts": 1537729502,
+                    "twitterid": 1043939315334737920,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/407998-michelle-obama-officiated-chicago-wedding-report"
+                },
+                {
+                    "_id": "5ba74822421aa92cf6b899d8",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/21/6bef9dcb-d25b-4bea-b726-34e449acaf4e/thumbnail/1200x630/c43867f043f082b05642bb0f47d935c8/gettyimages-1037427334.jpg",
+                    "origin": "CBS News",
+                    "title": "Obama tells voters in Philly the \"stakes really are higher\" this election",
+                    "ts": 1537688883,
+                    "twitterid": 1043768946703458306,
+                    "url": "https://www.cbsnews.com/news/obama-campaigns-with-democrats-in-philadelphia-today-2018-09-21-live-updates/"
+                },
+                {
+                    "_id": "5ba6ad89421aa91ffecfab1c",
+                    "date_month": "2018-09",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_38/2574806/180921-michelle-obama-al-1421_5216f62af8dc4282950a7dfa85528c93.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Michelle Obama hits the road to push midterm voter turnout",
+                    "ts": 1537649886,
+                    "twitterid": 1043605378255196161,
+                    "url": "https://www.nbcnews.com/news/nbcblk/michelle-obama-hits-road-push-midterm-voter-turnout-n911946?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5ba6f3d3421aa92585b76ee9",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/21/0/0/694940094001_5838376464001_5838372505001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Obama, at Pennsylvania rally, urges voters to 'restore some sanity to our politics'",
+                    "ts": 1537667880,
+                    "twitterid": 1043680851442118656,
+                    "url": "http://www.foxnews.com/politics/2018/09/21/obama-at-pennsylvania-rally-urges-voters-to-restore-some-sanity-to-our-politics.html"
+                },
+                {
+                    "_id": "5ba78075421aa92fd6853257",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/23/AP_18218488827957_s2048x1433.jpg?f7cf4b604c68723765b2f83a991d4313f6167ab5",
+                    "origin": "The Washington Times",
+                    "title": "Michelle Obama \u2018Becoming\u2019 book tour set for arenas common for top musical performers",
+                    "ts": 1537703329,
+                    "twitterid": 1043829536700465152,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/23/michelle-obama-becoming-book-tour-set-arenas-commo/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            342
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "FedExCup",
+            "Sky Kavanaugh",
+            "Mr. Trump",
+            "Louisiana",
+            "Mass",
+            "New York City",
+            "Minuteman Bikeway",
+            "Thanks",
+            "Melania Trump",
+            "Will Democrats",
+            "Sleeper Hit",
+            "Hamilton",
+            "China And Vatican Sign Agreement",
+            "U.S.",
+            "Midterms",
+            "Hurricane Florence Has Gone",
+            "Sky Family",
+            "Nigeria",
+            "California Launches New Effort To Fight Election Disinformation Long",
+            "Somalia",
+            "Red Sox",
+            "House",
+            "Bankers Stayed Out",
+            "Stagnant Wages Bring Renewed Labor Strife Trump",
+            "Portugal Man",
+            "New England Minnesota",
+            "Jail",
+            "Maryland",
+            "Strong",
+            "Nellie Ohr",
+            "Hawaiian",
+            "Trump Administration Will Seek To Limit Green Cards For Immigrants Needing Public Aid Soldier",
+            "US",
+            "Prince Harry Hong Kong",
+            "Croatia",
+            "Florence",
+            "Trump Chicago",
+            "Atlantic Thousands",
+            "FDA",
+            "Danger Death",
+            "Florence Floodwaters Rose",
+            "Rebel Man",
+            "Hong",
+            "Maria Butina Had Russian",
+            "Key House Dem",
+            "Plan",
+            "Apple",
+            "Border Wall",
+            "New York Football Goes Long",
+            "Texans",
+            "White House",
+            "Arizona",
+            "MTA",
+            "Coke",
+            "Israeli",
+            "Will Acquire British Broadcaster Sky Dem",
+            "Ohio State",
+            "Fusion",
+            "Enables Wrongful Convictions",
+            "Woman",
+            "Market Downturns Trump",
+            "Fight Against Harvard",
+            "Gmail",
+            "Steve Bannon",
+            "Jimmy Butler",
+            "National Mall",
+            "Stacey Abrams",
+            "Mookie Betts",
+            "Kentucky",
+            "Rockford",
+            "OPEC Aims",
+            "FEMA",
+            "Blind Eye",
+            "ODU",
+            "Oregon",
+            "College",
+            "Season",
+            "Mike Pompeo",
+            "Volunteer",
+            "LGBT",
+            "Fox News Election Special",
+            "Blue Room Gordon Hayward",
+            "Rihanna",
+            "Emissions Scandal California",
+            "ObamaCare",
+            "Aaron Rodgers",
+            "Debt",
+            "Carolinas Tribal",
+            "China",
+            "Jim Crow",
+            "Samaritan",
+            "Army",
+            "Feinstein",
+            "Good Samaritan",
+            "Italian",
+            "Bloomberg",
+            "FBI",
+            "CBD",
+            "Kirstjen Nielsen",
+            "Incredible",
+            "Climate",
+            "North Carolina",
+            "Dramatic",
+            "Google",
+            "USS Pueblo",
+            "Jennifer Aniston Trump",
+            "Care Center",
+            "Hurricane Florence",
+            "PayPal",
+            "Flynn",
+            "Urban Meyer",
+            "Screen Time Japan",
+            "Major Garrett",
+            "New Cars Get Too Pricey",
+            "Thrones",
+            "Oklahoma",
+            "Jerry",
+            "Munich Nanny",
+            "Taiwan Man",
+            "Florence Boston",
+            "Amway Coaches",
+            "Army Falls Thousands Short",
+            "Trump",
+            "PHOTOS",
+            "American Flag",
+            "NRA",
+            "SpaceX",
+            "Marijuana Addictive",
+            "Every",
+            "Hugger",
+            "Beastie Boys",
+            "Billionaire Backer",
+            "Rosie",
+            "Buying Back Stock Florence",
+            "Turn Maine",
+            "David Burke Warmer Arctic",
+            "Florence Six",
+            "McCain",
+            "Cruz",
+            "Respect",
+            "Titanic",
+            "Dallas",
+            "Abe",
+            "MeToo",
+            "Hatch Act",
+            "Andrea Constand",
+            "Sexual Assault Case Six",
+            "OPEC Sees Competition",
+            "Security Check Required Pros",
+            "Squelch",
+            "Vietnam War",
+            "UCLA",
+            "Bill Cosby",
+            "Ryan Fitzpatrick",
+            "Pelosi",
+            "Colin Kaepernick",
+            "Virginia Tech",
+            "Michael Moore",
+            "Accuse California Doctor",
+            "Notre Dame",
+            "Host Special Fox News Election Show",
+            "InfoWars",
+            "Quick",
+            "Packers Red Sox",
+            "Colorado",
+            "Hundreds Of Animals",
+            "Northern Virginia The Culture",
+            "Meghan Markle",
+            "Minnesota Trump",
+            "Always Been",
+            "Marilyn Lloyd",
+            "Joseph Oberhansley",
+            "NorCal Rapist",
+            "DNA",
+            "New Jersey",
+            "Defense Distributed",
+            "Rob Gronkowski",
+            "Porsche Drops Diesel Engines",
+            "Jerome Corsi",
+            "Giant Market",
+            "Robert Mueller Is",
+            "DHS",
+            "California",
+            "Brexit",
+            "Economy Roars",
+            "Justin Theroux",
+            "Latino",
+            "Photo",
+            "Great American Beer Festival Pope",
+            "Lawrence",
+            "Erdogan",
+            "Carolinas Have Just",
+            "Global Kasie",
+            "Italy",
+            "Texas Get",
+            "U.S. Shale Oil Subsiding",
+            "Jeremy Corbyn",
+            "GOP Congressman",
+            "High",
+            "Rauner",
+            "Al Franken",
+            "European",
+            "Taiwan Companies Buy Earnings Gains",
+            "Oil Below",
+            "Tennessee Trailblazer",
+            "Hong Kong",
+            "Fact",
+            "North Korea",
+            "Japanese Billionaire China",
+            "Burt Reynolds Minnesota",
+            "Chinese",
+            "Paul Gosar",
+            "Back Congress",
+            "Wilson",
+            "Grassley",
+            "Alex Jones",
+            "Swiss",
+            "Bishops China",
+            "Search Results",
+            "Michigan",
+            "Musk Reveals",
+            "Tropical Storm Kirk",
+            "Roger Stone",
+            "Mormon",
+            "Idaho",
+            "GIF",
+            "David Brill",
+            "Pirates",
+            "Putin Really Wants",
+            "Wake Forest Alex Cora",
+            "Syria",
+            "Giffords",
+            "Portfolio Shouldn",
+            "Nelson",
+            "Who",
+            "Political Bias",
+            "Senate",
+            "Florida",
+            "Alzheimer",
+            "Freshman",
+            "Detroit Lions",
+            "Pyongyang",
+            "Antarctica Nearly",
+            "James",
+            "Barbados Turkey",
+            "Clyde",
+            "Bill Belichick Vacuums",
+            "American",
+            "Service Violation",
+            "Comcast",
+            "Richest",
+            "Oktoberfest",
+            "Michael Cohen",
+            "Humankind Moves Back Into Caves",
+            "Penn State",
+            "Stan",
+            "Senseless Legal",
+            "Wake Forest",
+            "Quotas Six",
+            "Medal",
+            "Rescuers",
+            "Honor",
+            "Drew Faust",
+            "Eminem",
+            "Wild Ride",
+            "ICE",
+            "Really Tiny Cars",
+            "Joe Biden",
+            "Jamaica Plain",
+            "Starbucks",
+            "Barbados Nike",
+            "Tiger Woods"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "says",
+            "Florence",
+            "gets",
+            "GOP",
+            "New",
+            "siblings"
+        ],
+        "timestamp": "2018-09-23 16:10:27.724429-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba6ad89421aa91ffecfab2f",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/blogs/gosarpaul08162016getty.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP Rep. to Dem siblings: 'Stalin would be proud'",
+                    "ts": 1537647906,
+                    "twitterid": 1043597076066697216,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/407932-gop-lawmaker-slams-siblings-for-endorsing-dem-opponent-stalin"
+                },
+                {
+                    "_id": "5ba78e83421aa930c5a6ceae",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/23/BostonGlobe.com/Politics/Images/gosar-5511b000-be86-11e8-be70-52bd11fe18af.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "6 siblings of Arizona GOP congressman endorse his opponent",
+                    "ts": 1537704456,
+                    "twitterid": 1043834263848849408,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/09/23/siblings-arizona-gop-congressman-endorse-his-opponent/oyGLItjuaUqdjlJGpbq3zO/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5ba6d7c6421aa9233538dfa8",
+                    "date_month": "2018-09",
+                    "image": "https://www.latimes.com/resizer/MLl4GR_ks9_7WLOwkH20OFAB3cw=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/ZCVMEXGPYNHNNGNNXLXK7XRZCQ.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Six siblings of Arizona GOP congressman endorse his opponent",
+                    "ts": 1537657445,
+                    "twitterid": 1043637086492844032,
+                    "url": "https://www.latimes.com/nation/la-na-congressman-siblings-20180922-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5ba701ea421aa928caf1e6e2",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/22/d1b28dc9-bfab-4065-a812-20a529a800c3/thumbnail/1200x630/c4043c4728b23758bc1dde871def4c57/ap-18264669913167.jpg",
+                    "origin": "CBS News",
+                    "title": "North Carolina governor says floodwaters still \"treacherous\" after Florence",
+                    "ts": 1537669983,
+                    "twitterid": 1043689674450120704,
+                    "url": "https://www.cbsnews.com/news/hurricane-florence-aftermath-north-carolina-governor-roy-cooper-floodwaters-still-treacherous-2018-09-22/"
+                },
+                {
+                    "_id": "5ba71e05421aa92a9f7411be",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180130145749-paul-gosar-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Rep. Paul Gosar's siblings in new ad: Don't vote for our brother",
+                    "ts": 1537678814,
+                    "twitterid": 1043726711764992001,
+                    "url": "https://www.cnn.com/2018/09/21/politics/paul-gosar-siblings-ad/index.html?utm_term=image&utm_medium=social&utm_source=twCNNp&utm_content=2018-09-23T05%3A00%3A13"
+                },
+                {
+                    "_id": "5ba71e05421aa92a9f7411cd",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/22/ae1c7bd2-e080-4ad0-809d-91064a29a667/thumbnail/1200x630g3/37b8206213345eb5023544458caa9713/gosar.jpg",
+                    "origin": "CBS News",
+                    "title": "Six siblings of GOP congressman endorse his opponent in viral campaign ad",
+                    "ts": 1537677184,
+                    "twitterid": 1043719874030317568,
+                    "url": "https://www.cbsnews.com/news/paul-gosar-congressmans-six-siblings-endorse-his-opponent-in-viral-campaign-ad-2018-09-22/"
+                },
+                {
+                    "_id": "5ba6ad89421aa91ffecfab27",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/BBJxDDYPbzoCe3WDRw5jbPffjz8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IJ3RQKVIHII6RLLPBADXBXG5YI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Six siblings of a GOP congressman endorsed his opponent. Here\u2019s how he responded.",
+                    "ts": 1537648723,
+                    "twitterid": 1043600500397101057,
+                    "url": "https://www.washingtonpost.com/politics/2018/09/22/these-six-yes-six-siblings-republican-congressman-just-endorsed-his-opponent/?utm_term=.bee66b4d02ec&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5ba6bb94421aa92112896240",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/blogs/gosarpaul08162016getty.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP lawmaker blasts siblings who backed Dem rival: 'Stalin would be proud'",
+                    "ts": 1537652462,
+                    "twitterid": 1043616185613537283,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/407932-gop-lawmaker-slams-siblings-for-endorsing-dem-opponent-stalin"
+                },
+                {
+                    "_id": "5ba6d7c6421aa9233538df93",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/22/USAT/0fad0e57-3b39-40fd-a48c-cc46c45ebfbf-Axx_analysis_gosar_03.jpg?crop=2475,1392,x49,y49&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "'Stalin would be proud': GOP Congressman responds to viral attack ad by 'crazy' siblings",
+                    "ts": 1537659561,
+                    "twitterid": 1043645961308758017,
+                    "url": "https://www.usatoday.com/story/news/politics/onpolitics/2018/09/22/paul-gosar-arizona-republican-rep-targeted-family-ad-reaction/1398605002/"
+                },
+                {
+                    "_id": "5ba74822421aa92cf6b899e3",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kneelingpanthersnfl_09142018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "NFL owners feared Trump tweets about players kneeling, says journalist",
+                    "ts": 1537687260,
+                    "twitterid": 1043762136990638080,
+                    "url": "https://thehill.com/hilltv/rising/407798-nfl-biographer-owners-feared-trump-tweets-about-kneeling"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            29
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "New Hampshire",
+            "GOP Super",
+            "Ellison",
+            "Mazie Hirono",
+            "Mark Judge",
+            "Christine Blasey Ford",
+            "McConnell",
+            "Sexual",
+            "WhyIDidntReport",
+            "Boys",
+            "Georgetown",
+            "Trump",
+            "Anita Hill",
+            "Much Has",
+            "Alleged Kavanaugh",
+            "Martha Hennessey",
+            "Yale",
+            "Alyssa Milano",
+            "Amid",
+            "Dartmouth College",
+            "GOP SCOTUS",
+            "MeToo"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "report",
+            "assault",
+            "allegation",
+            "GOP",
+            "sexual",
+            "Blasey"
+        ],
+        "timestamp": "2018-09-23 16:10:28.431041-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba7f0fe421aa9379ec8ce00",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/stevekingap.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP lawmaker on Kavanaugh: What man wouldn't face such an allegation?",
+                    "ts": 1537732626,
+                    "twitterid": 1043952416939487233,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/408001-gop-lawmaker-on-kavanaugh-what-man-wouldnt-face-such-an?__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5ba7e2ee421aa936bb397c33",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_msnbc_kavanaughmidtermSCOTUS_180922_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Alleged Kavanaugh assault may hurt GOP SCOTUS, midterm odds",
+                    "ts": 1537725904,
+                    "twitterid": 1043924223922778117,
+                    "url": "https://www.msnbc.com/msnbc/watch/alleged-kavanaugh-assault-may-hurt-gop-scotus-midterm-odds-1326984771624?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5ba701ea421aa928caf1e6d5",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5ba5653d/turbine/ct-life-christine-blasey-ford-sex-assault-survivor-hashtag-20180921",
+                    "origin": "Chicago Tribune",
+                    "title": "Trump asked why Christine Blasey Ford didn't report her allegation sooner. Survivors answered with #WhyIDidntReport",
+                    "ts": 1537671111,
+                    "twitterid": 1043694403951493120,
+                    "url": "http://www.chicagotribune.com/lifestyles/ct-life-christine-blasey-ford-sex-assault-survivor-hashtag-20180921-story.html"
+                },
+                {
+                    "_id": "5ba70fea421aa929b7896ac9",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_trumpdonald_091918gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Sexual assault is not a game \u2014 stop using women to score political points",
+                    "ts": 1537674363,
+                    "twitterid": 1043708042066448384,
+                    "url": "https://thehill.com/opinion/judiciary/407821-sexual-assault-is-not-a-game-stop-using-women-to-score-political-points"
+                },
+                {
+                    "_id": "5ba7d4e8421aa935afa42611",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/22/BostonGlobe.com/Metro/Images/ccb3c84e-ffb4-4a45-a984-90458cc8fd9d.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "A year into #MeToo, Americans wrestle with an explosive charge of sexual assault",
+                    "ts": 1537725007,
+                    "twitterid": 1043920461405532161,
+                    "url": "https://www.bostonglobe.com/metro/2018/09/22/year-into-metoo-americans-wrestle-with-explosive-charge-sexual-assault/2pEQLIpu1Mx99C66gL4NwJ/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5ba76446421aa92df0840a82",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180917095116-blasey-ford-kavanaugh-split-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Most don't report sexual harassment and a majority think that's a real problem",
+                    "ts": 1537694945,
+                    "twitterid": 1043794371274035200,
+                    "url": "https://www.cnn.com/2018/09/21/politics/sexual-assault-harassment-polling/index.html?utm_medium=social&utm_source=twCNNp&utm_content=2018-09-23T09%3A29%3A04&utm_term=image"
+                },
+                {
+                    "_id": "5ba7aaae421aa932c88a4d1e",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_09212018.jpg",
+                    "origin": "The Hill",
+                    "title": "McConnell told Trump criticism of Kavanaugh accuser isn't helpful: report",
+                    "ts": 1537714384,
+                    "twitterid": 1043875902357213190,
+                    "url": "https://thehill.com/homenews/administration/407970-mcconnell-told-trump-attacking-kavanaugh-accuser-wasnt-helpful-report?__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5ba6ad89421aa91ffecfab29",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_090518gn.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP woman on Kavanaugh allegations: 'What boy hasn\u2019t done this in high school?'",
+                    "ts": 1537648623,
+                    "twitterid": 1043600081063170048,
+                    "url": "https://thehill.com/homenews/senate/407927-gop-women-issue-strong-defense-of-kavanaugh"
+                },
+                {
+                    "_id": "5ba6bb94421aa9211289624d",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_090418am11_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Conservative PR firm helped promote unfounded theory about Kavanaugh: report",
+                    "ts": 1537651502,
+                    "twitterid": 1043612159396196353,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/407860-conservative-pr-firm-helped-promote-unfounded-theory-about"
+                },
+                {
+                    "_id": "5ba7aaae421aa932c88a4d49",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/FWvRCzVa4y-XJ17ZAtRuAnmCbYE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QP64VGVRDYI6RC2TKAIWO2HETE.jpg",
+                    "origin": "Washington Post",
+                    "title": "The party of men: Kavanaugh fight risks worsening the Trump GOP\u2019s gender problem",
+                    "ts": 1537711554,
+                    "twitterid": 1043864035782021120,
+                    "url": "https://www.washingtonpost.com/politics/the-party-of-men-kavanaugh-fight-risks-worsening-the-trump-gops-gender-problem/2018/09/23/37d2dd88-bdb5-11e8-b7d2-0773aa1e33da_story.html?utm_term=.8a79184e5519&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            52
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Latest",
+            "Patti Davis",
+            "Christine Blasey Ford Haley",
+            "Ronald Reagan",
+            "Grassley",
+            "Brett",
+            "Clarence",
+            "Senate Dem",
+            "FBI",
+            "Mazie Hirono",
+            "Kavanaugh Republicans",
+            "Kavanaugh To Face Accuser Leland Keyser",
+            "Christine Blasey Ford",
+            "McConnell",
+            "Bill Maher",
+            "Ford Kavanaugh",
+            "Senate",
+            "Incredibly",
+            "Democrats",
+            "Trump",
+            "GOP",
+            "Kavanaugh",
+            "Kavanaugh Doug Jones",
+            "Brett Kavanaugh",
+            "Christine Ford"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "Accuser",
+            "Ford",
+            "Thursday",
+            "Testify",
+            "allegation",
+            "Blasey"
+        ],
+        "timestamp": "2018-09-23 16:10:29.137565-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba7e2ee421aa936bb397c14",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/23/gettyimages-1026663542_wide-4b37ef6a9550b60e472fc136a05fd1afeb6c7e72.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Kavanaugh Accuser Christine Blasey Ford To Testify Thursday",
+                    "ts": 1537727860,
+                    "twitterid": 1043932425309454337,
+                    "url": "https://www.npr.org/2018/09/23/650916906/kavanaugh-accuser-christine-blasey-ford-to-testify-thursday?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5ba6e5d3421aa9245d02406c",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/21/USAT/b5da6c98-2320-45e6-bb7b-05f53eb2915f-AFP_AFP_19A0A0.jpg?crop=3187,1793,x433,y241&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "Kavanaugh accuser Christine Blasey Ford tentatively agrees to testify Thursday",
+                    "ts": 1537663168,
+                    "twitterid": 1043661088221421569,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/09/22/brett-kavanaugh-accuser-christine-blasey-ford-agrees-testify-senate-committee/1393891002/"
+                },
+                {
+                    "_id": "5ba7d4e8421aa935afa4261e",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/23/AP_18259666523838_s2048x1492.jpg?7caa626c623f62ea394d77afbf4341230697182a",
+                    "origin": "The Washington Times",
+                    "title": "Christine Blasey Ford, Kavanaugh accuser, to testify Thursday morning, report",
+                    "ts": 1537724271,
+                    "twitterid": 1043917375106678790,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/23/christine-blasey-ford-kavanaugh-accuser-to-testify/"
+                },
+                {
+                    "_id": "5ba7d4e8421aa935afa4262c",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/-mm-/8fcc3d3e30642750bddc823c7d9160e7429cc46c/c=0-16-580-342/local/-/media/2018/09/21/USATODAY/usatsports/MotleyFool-TMOT-76c4f5fc-7ecf180d.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Christine Ford accepts Senate invitation to testify on Kavanaugh allegation Thursday",
+                    "ts": 1537723224,
+                    "twitterid": 1043912983095771138,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/09/23/brett-kavanaugh-hearings-christine-ford-accepts-senate-invitation/1404028002/"
+                },
+                {
+                    "_id": "5ba78075421aa92fd6853269",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/23/AP_18259666523838_s2048x1492.jpg?7caa626c623f62ea394d77afbf4341230697182a",
+                    "origin": "The Washington Times",
+                    "title": "Christine Blasey Ford, Brett Kavanaugh accuser, reaches tentative deal to testify Thursday",
+                    "ts": 1537701837,
+                    "twitterid": 1043823279998464001,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/23/christine-blasey-ford-brett-kavanaugh-accuser-reac/"
+                },
+                {
+                    "_id": "5ba7d4e8421aa935afa42619",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_witt_brk_kavanaughaccuser_180923_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Kavanaugh accuser Christine Blasey Ford will testify in open hearing",
+                    "ts": 1537724669,
+                    "twitterid": 1043919042443169794,
+                    "url": "https://www.msnbc.com/weekends-with-alex-witt/watch/kavanaugh-accuser-christine-blasey-ford-will-testify-in-open-hearing-1327292483589?v=railb&?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5ba7d4e8421aa935afa42635",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_090618getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Kavanaugh accuser set to testify Thursday",
+                    "ts": 1537722570,
+                    "twitterid": 1043910237886009344,
+                    "url": "https://thehill.com/homenews/senate/407883-kavanaugh-accuser-set-to-testify-after-terms-reached"
+                },
+                {
+                    "_id": "5ba6e5d3421aa9245d024068",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:953b8bc8fd8e43d0ad229fb0c091fce8/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "The Latest: Kavanaugh, Ford agree to testify on Thursday",
+                    "ts": 1537663504,
+                    "twitterid": 1043662499969675264,
+                    "url": "https://www.apnews.com/2ed7ae6ec79649918e2d6dea29cb29a7/The-Latest:-Kavanaugh,-Ford-agree-to-testify-on-Thursday?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5ba7d4e8421aa935afa42628",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_38/2569586/180917-brett-kavanaugh-se-519p_07aa8834888b4c0a6a1e6f63a6507013.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Kavanaugh accuser reaches deal to testify Thursday",
+                    "ts": 1537723614,
+                    "twitterid": 1043914617490210816,
+                    "url": "https://www.nbcnews.com/politics/congress/kavanaugh-accuser-conditionally-accepts-gop-offer-testify-wednesday-n912076?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5ba7d4e8421aa935afa42639",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_msnbc_GOPfordbully_180922_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Blasey Ford able to testify in Kavanaugh nom, faces backlash",
+                    "ts": 1537722186,
+                    "twitterid": 1043908629982859264,
+                    "url": "https://www.msnbc.com/msnbc/watch/blasey-ford-able-to-testify-in-kavanaugh-nom-faces-backlash-1326978627826?v=raila&cid=sm_npd_ms_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Giuliani",
+            "Russia",
+            "US",
+            "Iran Haley",
+            "Are Fast Becoming Economic Rivals Trump",
+            "Nikki Haley",
+            "U.N. Haley",
+            "Military Allies",
+            "Trump",
+            "Iran Iran",
+            "Iran Nikki Haley",
+            "U.S.",
+            "Iran"
+        ],
+        "peaks": [],
+        "theme": [
+            "Iran",
+            "attack",
+            "military",
+            "parade",
+            "Trump",
+            "blaming",
+            "Haley"
+        ],
+        "timestamp": "2018-09-23 16:10:29.483873-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba7e2ee421aa936bb397c24",
+                    "date_month": "2018-09",
+                    "image": "https://amp.businessinsider.com/images/5ba7c8ebde956001368b456a-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Nikki Haley hits back at Iran's president blaming the US after military parade attack",
+                    "ts": 1537727046,
+                    "twitterid": 1043929014346371072,
+                    "url": "https://www.businessinsider.com/nikki-haley-iran-blames-us-after-military-parade-attack-2018-9"
+                },
+                {
+                    "_id": "5ba78075421aa92fd685326d",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/23/AP_18265442850890_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Iran blames U.S. for attack on military parade",
+                    "ts": 1537701335,
+                    "twitterid": 1043821170808811525,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/23/iran-blames-us-attack-military-parade/"
+                },
+                {
+                    "_id": "5ba78075421aa92fd6853256",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:a39c84afd40349eda6d0a1562e4a492a/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Iran's president blames US after attack on military parade",
+                    "ts": 1537703514,
+                    "twitterid": 1043830313254817798,
+                    "url": "https://www.apnews.com/3c63e13f420c485098e2f40da511e99e?utm_medium=AP_Politics&utm_source=Twitter&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5ba7aaae421aa932c88a4d2e",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/cb/9b/a4e0db674bdbb313a602769f52ab/webp.net-resizeimage%20(42).jpg",
+                    "origin": "POLITICO",
+                    "title": "Iran blames U.S. after attack on military parade",
+                    "ts": 1537713007,
+                    "twitterid": 1043870127459061760,
+                    "url": "https://www.politico.com/story/2018/09/23/iran-attack-trump-military-parade-836914"
+                },
+                {
+                    "_id": "5ba701ea421aa928caf1e6f6",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/22/2a8da0c8-0f11-4ff5-b4e3-7d7782bbc629/thumbnail/1200x630g8/064d6a63b95f87ba3449ed0f7fe6a8a8/iran2.jpg",
+                    "origin": "CBS News",
+                    "title": "Gunmen kill at least 25 in attack on annual military parade in Iran",
+                    "ts": 1537668184,
+                    "twitterid": 1043682126468665344,
+                    "url": "https://www.cbsnews.com/news/iran-attack-on-annual-iranian-military-parade-today-2018-09-22/"
+                },
+                {
+                    "_id": "5ba6c9a0421aa922205987f0",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180922130322-01-iran-attack-0922-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Who attacked Iran's military parade?",
+                    "ts": 1537655412,
+                    "twitterid": 1043628558776713216,
+                    "url": "https://www.cnn.com/2018/09/22/middleeast/iran-attack-analysis---intl/index.html?utm_medium=social&utm_source=twCNN&utm_content=2018-09-22T22%3A30%3A11&utm_term=image"
+                },
+                {
+                    "_id": "5ba7c6c1421aa934e4ee178d",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/dc/0c/c8e4aa2440578798e604a07e8872/180923-haley-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Haley: U.S. not to blame for terror attack in Iran",
+                    "ts": 1537722008,
+                    "twitterid": 1043907879714131969,
+                    "url": "https://www.politico.com/story/2018/09/23/haley-iran-terror-attack-rouhani-837443"
+                },
+                {
+                    "_id": "5ba7aaae421aa932c88a4d43",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/FwNndgvHw8GAbV5IdTBhN1Gzbgg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CQ3NPJF574I6RN6SA5Z2UHRT3I.jpg",
+                    "origin": "Washington Post",
+                    "title": "For Nikki Haley, a lower profile as Trump heads back to the U.N.",
+                    "ts": 1537711802,
+                    "twitterid": 1043865076208472064,
+                    "url": "https://www.washingtonpost.com/world/national-security/for-nikki-haley-a-lower-profile-as-trump-heads-back-to-the-un/2018/09/23/e142d872-bd70-11e8-8792-78719177250f_story.html?utm_term=.e74c61fe5051&tid=sm_tw"
+                },
+                {
+                    "_id": "5ba78e83421aa930c5a6ceb7",
+                    "date_month": "2018-09",
+                    "image": "https://www.apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Politics",
+                    "title": "Trump attorney blasts Iran's 'outlaws and murderers'",
+                    "ts": 1537704022,
+                    "twitterid": 1043832440941412353,
+                    "url": "https://www.apnews.com/c3a527c273204de789abd17c7a9d9111?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5ba7e2ee421aa936bb397c1d",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/c4/c3/33defe934dcf8a4816e0953ee6bd/180922-james-clapper-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Foreign policy bigwigs: Trump risking war with Iran",
+                    "ts": 1537727413,
+                    "twitterid": 1043930552158621697,
+                    "url": "https://www.politico.com/story/2018/09/23/trump-iran-war-foreign-policy-836411"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Clinton",
+            "Control Congress",
+            "Fox News Poll",
+            "Brett Kavanaugh",
+            "NBC",
+            "Fox News",
+            "House",
+            "Democrats",
+            "Trump",
+            "Democratic",
+            "CBS News",
+            "Christine Blasey Ford",
+            "New Poll Shows Fox News Poll",
+            "Congress Poll",
+            "Latinos",
+            "Supreme"
+        ],
+        "peaks": [],
+        "theme": [
+            "poll",
+            "Democrats",
+            "news",
+            "Fox",
+            "Kavanaugh",
+            "control",
+            "Dems"
+        ],
+        "timestamp": "2018-09-23 16:10:29.733678-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba7c6c1421aa934e4ee179a",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/electiondayvotevoting_0501818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Fox News poll shows Dems with edge ahead of midterms",
+                    "ts": 1537720623,
+                    "twitterid": 1043902072251437056,
+                    "url": "https://thehill.com/homenews/house/407979-fox-news-poll-shows-dems-with-edge-ahead-of-midterms"
+                },
+                {
+                    "_id": "5ba7c6c1421aa934e4ee17aa",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/23/3ee44d86-7d5d-4109-bffe-0ee0074821ac/thumbnail/1200x630/e09c0fcba128630b7578acf2d216aed3/1200px-us-capitol-east-side.jpg",
+                    "origin": "CBS News Politics",
+                    "title": "House control edges toward Democrats - CBS News poll",
+                    "ts": 1537718768,
+                    "twitterid": 1043894290852777985,
+                    "url": "https://www.cbsnews.com/news/house-control-edges-toward-democrats-cbs-news-poll/?ftag=CNM-00-10aab7i&linkId=57251419"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d3a3",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/21/0/0/694940094001_5838340269001_5838329358001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Fox News Poll: Record number of voters oppose Kavanaugh nomination",
+                    "ts": 1537707951,
+                    "twitterid": 1043848921158701056,
+                    "url": "http://www.foxnews.com/politics/2018/09/23/fox-news-poll-record-number-voters-oppose-kavanaugh-nomination.html"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d392",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/17/0/0/694940094001_5835768041001_5835764948001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Fox News Poll: Health care boosts Democrats in upcoming midterm elections",
+                    "ts": 1537709400,
+                    "twitterid": 1043854999581646848,
+                    "url": "http://www.foxnews.com/politics/2018/09/23/fox-news-poll-health-care-boosts-democrats-in-upcoming-midterm-elections.html"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d37a",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/23/AP_18260551789080_s2048x1378.jpg?73bbd169d514c93b168f0cd1cdd0d0229b39a766",
+                    "origin": "The Washington Times",
+                    "title": "Brett Kavanaugh support slips as public believes accuser Christine Blasey Ford, Fox News poll finds",
+                    "ts": 1537711139,
+                    "twitterid": 1043862294504058880,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/23/brett-kavanaugh-support-slips-public-believes-accu/"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d382",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-27582/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "More Voters Want Democrats to Control Congress, New Poll Shows",
+                    "ts": 1537710365,
+                    "twitterid": 1043859048091799552,
+                    "url": "https://www.wsj.com/articles/more-voters-want-democrats-to-control-congress-new-poll-shows-1537707600?tesla=y&mod=e2tw"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d398",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_35/2547061/180828-florida-primary-vote-ew-1140a_38720bdc124f8c5c07d16ccae74e34bb.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "NBC News/WSJ poll: Democrats hold the advantage in November's elections",
+                    "ts": 1537708690,
+                    "twitterid": 1043852020166414336,
+                    "url": "https://www.nbcnews.com/politics/first-read/nbc-news-wsj-poll-democrats-hold-advantage-november-s-elections-n912046?cid=par-twitter-feed_20180923"
+                },
+                {
+                    "_id": "5ba79ca2421aa931c481d380",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/5thingstowatch_votingbooth_istock.jpg",
+                    "origin": "The Hill",
+                    "title": "Poll: Dems up 12 points ahead of midterms",
+                    "ts": 1537710542,
+                    "twitterid": 1043859789195997184,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/407964-poll-dems-up-12-points-ahead-of-midterms"
+                },
+                {
+                    "_id": "5ba7aaae421aa932c88a4d4e",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_091718upi3.jpg",
+                    "origin": "The Hill",
+                    "title": "Poll: Opposition to Kavanaugh confirmation rises",
+                    "ts": 1537711268,
+                    "twitterid": 1043862835892244480,
+                    "url": "https://thehill.com/homenews/administration/407962-poll-opposition-to-kavanaugh-confirmation-rises"
+                },
+                {
+                    "_id": "5ba7c6c1421aa934e4ee1791",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_31/2516931/180801-latino-vote-2016-ac-424p_8c851922e62f1ec8386e6d8a260eaab9.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Poll: Two-thirds of Latinos favor Democratic control of Congress",
+                    "ts": 1537721406,
+                    "twitterid": 1043905357578424320,
+                    "url": "https://www.nbcnews.com/politics/first-read/poll-two-thirds-latinos-favor-democratic-control-congress-n912016?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            6
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Hurricane Recovery Right",
+            "Florence",
+            "Florida",
+            "Hurricane Maria Maria",
+            "San Juan",
+            "Puerto Rico",
+            "Katrina For the Victims",
+            "Trump Needs"
+        ],
+        "peaks": [],
+        "theme": [
+            "Hurricane",
+            "Maria",
+            "Trump",
+            "Puerto",
+            "Rico",
+            "arrives",
+            "baby"
+        ],
+        "timestamp": "2018-09-23 16:10:29.984101-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba6e5d3421aa9245d02408e",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/17/46b54378-8029-4e84-bcc6-0ff0cdea033d/thumbnail/1200x630/41a768ad217a05d078c16f00924b41a2/flag-cemetery.jpg",
+                    "origin": "CBS News",
+                    "title": "Puerto Rico: The exodus after Hurricane Maria",
+                    "ts": 1537660983,
+                    "twitterid": 1043651925466669056,
+                    "url": "https://www.cbsnews.com/news/puerto-rico-exodus-after-hurricane-maria-cbsn-originals/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5ba6d83504d3012e14aac26d&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5ba6bb94421aa92112896245",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/trump_baby_blimp_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump's baby blimp arrives in Florida for Mar-a-Lago protest",
+                    "ts": 1537651983,
+                    "twitterid": 1043614175719772160,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/407937-trumps-baby-blimp-arrives-in-florida-for-mar-a-lago-protest"
+                },
+                {
+                    "_id": "5ba74822421aa92cf6b899dd",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180829091629-carmen-yulin-cruz-8-29-01-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "San Juan mayor: Hurricane Maria is Trump's Katrina",
+                    "ts": 1537687926,
+                    "twitterid": 1043764929596133377,
+                    "url": "https://www.cnn.com/2018/09/20/politics/san-juan-mayor-hurricane-maria-full-circle-cnntv/index.html?utm_content=2018-09-23T07%3A32%3A05&utm_source=twCNNp&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5ba6d7c6421aa9233538dfa9",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/17/044ba0fc-3af0-46a3-b9bd-7d3dd5931789/thumbnail/1200x630/10524cea7c469015935498794af506e0/puertorico-damage.jpg",
+                    "origin": "CBS News",
+                    "title": "Puerto Rico's grim prognosis: The island may never recover",
+                    "ts": 1537657384,
+                    "twitterid": 1043636828094582785,
+                    "url": "https://www.cbsnews.com/news/puerto-rico-hurricane-maria-by-the-numbers-cbsn-originals/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5ba6ca2604d3017c249349ae&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5ba76446421aa92df0840a78",
+                    "date_month": "2018-09",
+                    "image": "https://media.newyorker.com/photos/5ba3d4dcccec907845ca9f37/16:9/w_1200,h_630,c_limit/Clark-Trump-Hurricane-Florence.jpg",
+                    "origin": "The New Yorker",
+                    "title": "For the Victims of Florence, Trump Needs to Prove that He Can Get Hurricane Recovery Right",
+                    "ts": 1537695581,
+                    "twitterid": 1043797039119847424,
+                    "url": "https://www.newyorker.com/news/dispatch/with-florence-the-trump-administration-gets-a-second-chance-to-do-hurricane-recovery-right"
+                },
+                {
+                    "_id": "5ba71e05421aa92a9f7411ca",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/International/WireAP_db361838033f4765a56459339362fe7e_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Maria's death toll climbed long after rain stopped",
+                    "ts": 1537677469,
+                    "twitterid": 1043721069759266817,
+                    "url": "https://abcnews.go.com/International/wireStory/marias-death-toll-climbed-long-rain-stopped-58012827?cid=social_twitter_abcn"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,1967 @@
+[
+    {
+        "list": [
+            16
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Wild Ride Plane",
+            "Seattle Skies Raises",
+            "Seattle",
+            "Airline",
+            "Airline Employee Crashes Stolen Plane Near Seattle",
+            "Horizon Air",
+            "Seattle Plane",
+            "SeaTac Airport"
+        ],
+        "peaks": [],
+        "theme": [
+            "plane",
+            "crashed",
+            "Seattle",
+            "employee",
+            "airline",
+            "suicidal",
+            "near"
+        ],
+        "timestamp": "2018-08-12 04:10:15.204073-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6eec11421aa97696811d84",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/11/stolen_airplane_30729_s2048x1287.jpg?e521475c28836fd4a24d2e48ed64f2877a0fe08d",
+                    "origin": "The Washington Times",
+                    "title": "Plane stolen by 'suicidal' employee crashes near Seattle",
+                    "ts": 1533994343,
+                    "twitterid": 1028272920731246592,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/11/airline-reports-stolen-aircraft-witnesses-report-c/?cache"
+                },
+                {
+                    "_id": "5b6eec11421aa97696811d8a",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/pFxJMhZD1lBcsHub4E6KRMSqUak=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MPDHWCU5GII6RDK6Y3CZIASJKQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Plane stolen by \u2018suicidal\u2019 employee crashes near Seattle",
+                    "ts": 1533994099,
+                    "twitterid": 1028271899539894272,
+                    "url": "https://www.washingtonpost.com/national/airline-reports-stolen-aircraft-witnesses-report-chase/2018/08/11/a5f9686e-9d20-11e8-a8d8-9b4c13286d6b_story.html?utm_term=.dff1908ebc5a&tid=sm_tw"
+                },
+                {
+                    "_id": "5b6ea5ae421aa974ae6058e3",
+                    "date_month": "2018-08",
+                    "image": "https://images.wsj.net/im-21791/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Airline Employee Crashes Stolen Plane Near Seattle After Wild Ride",
+                    "ts": 1533976215,
+                    "twitterid": 1028196886388371456,
+                    "url": "https://www.wsj.com/articles/alaska-air-confirms-unauthorized-takeoff-of-a-plane-in-seattle-1533964025?mod=e2tw"
+                },
+                {
+                    "_id": "5b6ecfec421aa975d0aaee45",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_32/2527751/stolen_plane_17943-jpg-c26c9_6c31198d4030ab920f3d6ec20bb11cb4.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Airline employee steals plane, takes it for flight before crashing near Seattle",
+                    "ts": 1533987006,
+                    "twitterid": 1028242147714187266,
+                    "url": "https://www.nbcnews.com/news/us-news/seattle-area-authorities-respond-report-plane-stolen-plume-smoke-n899861?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b6f244f421aa97b15a3c2c1",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/gRYYN7QPrPswoK7vZ57t3wKpUjo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MJ6UNCGLYY6LMCQ54EKH7BWF4.jpg",
+                    "origin": "Washington Post",
+                    "title": "Plane stolen by \u2018suicidal\u2019 airline worker crashed as fighter jets pursued it outside Seattle",
+                    "ts": 1534007166,
+                    "twitterid": 1028326702936731649,
+                    "url": "https://www.washingtonpost.com/news/dr-gridlock/wp/2018/08/11/plane-stolen-by-suicidal-airline-worker-crashed-with-fighter-jets-in-pursuit-outside-seattle/?utm_term=.a414a3bab194&tid=sm_tw"
+                },
+                {
+                    "_id": "5b6f4e85421aa90251440c2e",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/11/0/0/694940094001_5820904988001_5820912330001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "'Suicidal' airline employee plane theft started with flick of a switch, officials say",
+                    "ts": 1534020406,
+                    "twitterid": 1028382237870440448,
+                    "url": "http://www.foxnews.com/us/2018/08/11/suicidal-airline-employee-stole-plane-with-flick-switch-officials-say.html"
+                },
+                {
+                    "_id": "5b6f5c91421aa904ed2929c9",
+                    "date_month": "2018-08",
+                    "image": "http://www.latimes.com/resizer/VcQg_iwrp3oE4Z3IwjTPRTdnuLU=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/FUNV7UNQ65B3XCW4EVP77XCQVE.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "'Just a broken guy, got a few screws loose,' says pilot after taking passenger plane that crashed near Seattle",
+                    "ts": 1534024685,
+                    "twitterid": 1028400183191646208,
+                    "url": "https://www.latimes.com/nation/la-na-stolen-plane-crash-20180811-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b6f3260421aa97df983cf9f",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/11/0/0/694940094001_5820892429001_5820894543001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "'Suicidal' airline employee who stole plane from SeaTac Airport had bizarre conversation with air traffic control before crashing",
+                    "ts": 1534011535,
+                    "twitterid": 1028345029616652288,
+                    "url": "http://www.foxnews.com/us/2018/08/11/suicidal-airline-employee-who-stole-plane-from-seatac-airport-had-bizarre-conversation-with-air-traffic-control-before-crashing.html"
+                },
+                {
+                    "_id": "5b6f5c91421aa904ed2929e5",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/travel/2018/08/11/airline-reports-stolen-aircraft-witnesses-report-chase/_jcr_content/par/featured-media/media-0.img.png/0/0/1534016644677.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "Authorities probe how airline employee could steal plane",
+                    "ts": 1534021876,
+                    "twitterid": 1028388403178549249,
+                    "url": "http://www.foxnews.com/travel/2018/08/11/airline-reports-stolen-aircraft-witnesses-report-chase.html"
+                },
+                {
+                    "_id": "5b6fb0f2421aa90b322f9614",
+                    "date_month": "2018-08",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_32/2528171/f_mo_la_russell_family2_180811_7f2601cd85e58509242b2d39504c5ae8.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Family of man who stole plane and crashed it 'stunned and heartbroken'",
+                    "ts": 1534044504,
+                    "twitterid": 1028483310606069764,
+                    "url": "https://www.nbcnews.com/news/us-news/family-man-who-stole-plane-crashed-it-stunned-heartbroken-n899936"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            5
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Trump Michael Avenatti",
+            "Stormy Daniels",
+            "United States",
+            "Poll",
+            "Michael Avenatti",
+            "Iowa",
+            "Democratic"
+        ],
+        "peaks": [],
+        "theme": [
+            "Avenatti",
+            "Daniels",
+            "Michael",
+            "president",
+            "say",
+            "Stormy",
+            "Trump"
+        ],
+        "timestamp": "2018-08-12 04:10:15.322756-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6ede05421aa9763e465790",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/08/09/stormy-daniels-attorney-michael-avenatti-im-exploring-run-for-presidency-united-states/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1533865244529.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Stormy Daniels attorney Michael Avenatti: 'I'm exploring a run for the presidency of the United States'",
+                    "ts": 1533991630,
+                    "twitterid": 1028261543874572288,
+                    "url": "http://www.foxnews.com/politics/2018/08/09/stormy-daniels-attorney-michael-avenatti-im-exploring-run-for-presidency-united-states.html"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674ba",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trumpdanielsstormy2.jpg",
+                    "origin": "The Hill",
+                    "title": "Poll: More Americans believe Stormy Daniels than Trump",
+                    "ts": 1533998709,
+                    "twitterid": 1028291232982872064,
+                    "url": "http://thehill.com/homenews/administration/401237-poll-more-americans-believe-stormy-daniels-than-trump"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674dd",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180810095037-avenatti-2020-presidential-run-1-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Michael Avenatti calls for a fight in Iowa: 'When they go low, I say, we hit harder'",
+                    "ts": 1533996127,
+                    "twitterid": 1028280405378691072,
+                    "url": "https://www.cnn.com/2018/08/10/politics/avenatti-wing-ding-speech/index.html?utm_term=image&utm_source=twCNNp&utm_medium=social&utm_content=2018-08-11T14%3A02%3A06"
+                },
+                {
+                    "_id": "5b6eec11421aa97696811d8e",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/avenattimichael_042618upi3_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Democratic senator says he would not support Avenatti for president",
+                    "ts": 1533993665,
+                    "twitterid": 1028270077144166401,
+                    "url": "http://thehill.com/homenews/campaign/401373-democratic-senator-says-he-would-not-support-avenatti-for-president"
+                },
+                {
+                    "_id": "5b6ecfec421aa975d0aaee3b",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/avenattimichael_042818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Avenatti on potential 2020 challenge to Trump: I won\u2019t bring nail clippers to a gunfight",
+                    "ts": 1533987908,
+                    "twitterid": 1028245932859645952,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/401367-avenatti-on-potential-2020-challenge-to-trump-i-wont-bring-nail"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            46
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "White House",
+            "Truth",
+            "Part Calculation",
+            "Russia",
+            "Manhattan Madam",
+            "Robert Mueller",
+            "Calling Him",
+            "Medicare",
+            "Hope Hicks",
+            "Trump",
+            "Clinton",
+            "Andrew",
+            "Fusion",
+            "Trump Trump",
+            "Russia Peek",
+            "McCabe",
+            "Can",
+            "FBI",
+            "Nixon",
+            "Tom",
+            "Democratic Party",
+            "Ana Navarro",
+            "Mueller",
+            "Letting Trump Be Trump Trump",
+            "Kanye West",
+            "QAnon",
+            "Blame Wildfires",
+            "US",
+            "New Jersey",
+            "Much Has",
+            "Elite Spurs Objections White House",
+            "Mystery",
+            "Racist Remarks Trump Escalates Attack",
+            "Bedminster",
+            "Justice Dept",
+            "Granite Block Commemorating Trump",
+            "AP",
+            "Communications Between Ohr",
+            "Boston Globe",
+            "China",
+            "Steele",
+            "Part Instinct",
+            "New Jersey Oligarch",
+            "Charlottesville",
+            "Jeff Sessions",
+            "Trump Just Condemn Nazis"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Mueller",
+            "get",
+            "Charlottesville",
+            "involved",
+            "Jersey",
+            "know"
+        ],
+        "timestamp": "2018-08-12 04:10:16.162563-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6efa29421aa977247674b3",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/12/0/0/694940094001_5796841876001_5796834291001-vs.jpg?ve=1",
+                    "origin": "Fox News Politics",
+                    "title": "Trump threatens to 'get involved' in fight to obtain McCabe text messages",
+                    "ts": 1533999468,
+                    "twitterid": 1028294418674188293,
+                    "url": "http://www.foxnews.com/politics/2018/08/11/trump-threatens-to-get-involved-in-fight-to-obtain-mccabe-text-messages.html"
+                },
+                {
+                    "_id": "5b6ede05421aa9763e465797",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/11/75/a2fe5fdc4c4083f27d1df327475f/lede-20-donald-trump-65-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "'I know that he listens to Tom': Meet Trump's anti-Mueller ally",
+                    "ts": 1533991098,
+                    "twitterid": 1028259310978179074,
+                    "url": "https://www.politico.com/story/2018/08/07/trump-mueller-attack-judicial-watch-765081"
+                },
+                {
+                    "_id": "5b6eec11421aa97696811d8c",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/mccabeandrew_051117vsj4_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump threatens to 'get involved' in watchdog group's efforts to obtain McCabe text messages",
+                    "ts": 1533993905,
+                    "twitterid": 1028271085920444417,
+                    "url": "http://thehill.com/homenews/administration/401374-trump-threatens-to-get-involved-in-watchdog-groups-efforts-to-obtain"
+                },
+                {
+                    "_id": "5b6f163f421aa9795ad072ab",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/11/USAT/66524389-a2e4-4318-85d6-f2a8b75637a4-AP_Fact_Check_Week.JPG?crop=3026,1703,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Trump threatens 'to get involved' in FBI handling of ex-deputy director Andrew McCabe texts",
+                    "ts": 1534006203,
+                    "twitterid": 1028322666955108352,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/08/11/trump-threatens-get-involved-fbi-handling-andrew-mccabe-texts/965752002/"
+                },
+                {
+                    "_id": "5b6eec11421aa97696811d83",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/nsm_rally_08092018_1.jpg",
+                    "origin": "The Hill",
+                    "title": "Lincoln\u2019s \u2018Know-Nothing\u2019 strategy a lesson for Trump",
+                    "ts": 1533994381,
+                    "twitterid": 1028273080114835456,
+                    "url": "http://thehill.com/opinion/civil-rights/401104-lincolns-know-nothing-strategy-a-lesson-for-trump"
+                },
+                {
+                    "_id": "5b6fa2e5421aa90aae2d2f70",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/12/3ca2c1bc-b530-45af-b997-3f415b91e42c/thumbnail/1200x630/6220043adbe95fe80b3bbb001446e20f/2018-08-11t194631z-387822237-rc186da2f310-rtrmadp-3-usa-trump.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump visits Bikers for Trump rally in Bedminster, New Jersey",
+                    "ts": 1534041873,
+                    "twitterid": 1028472275614556161,
+                    "url": "https://www.cbsnews.com/news/bikers-for-trump-bedminister-new-jersey-trump-omarosa-manigault-newman-comments-today-2018-08-11/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b6f9f0d04d3017e777eb5d8&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b6ecfec421aa975d0aaee59",
+                    "date_month": "2018-08",
+                    "image": "https://media.npr.org/assets/img/2018/08/11/ap_17226618824685_wide-d799d86c0f6f9739566d75a058f7b664cb7d4a8b.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "A Year After Charlottesville, Not Much Has Changed for Trump",
+                    "ts": 1533985324,
+                    "twitterid": 1028235092085198848,
+                    "url": "https://www.npr.org/2018/08/11/637665414/a-year-after-charlottesville-not-much-has-changed-for-trump?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674c3",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180102134935-donald-trump-12-08-2017-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "In Trump's White House, Charlottesville was a moment that wasn't",
+                    "ts": 1533997927,
+                    "twitterid": 1028287953448185859,
+                    "url": "https://www.cnn.com/2018/08/11/politics/donald-trump-charlottesville-one-year-later/index.html?utm_medium=social&utm_content=2018-08-11T14%3A32%3A06&utm_term=image&utm_source=twCNNp"
+                },
+                {
+                    "_id": "5b6ecfec421aa975d0aaee55",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_charlottesville_081517getty.jpg",
+                    "origin": "The Hill",
+                    "title": "The Memo: Charlottesville anniversary puts Trump and race under microscope",
+                    "ts": 1533985742,
+                    "twitterid": 1028236847145734144,
+                    "url": "http://thehill.com/business-a-lobbying/401347-the-memo-charlottesville-anniversary-puts-trump-and-race-under-microscope"
+                },
+                {
+                    "_id": "5b6f163f421aa9795ad072c9",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170611140113-trump-golfing-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Peek inside Trump's total non-vacation in New Jersey",
+                    "ts": 1534003264,
+                    "twitterid": 1028310337634922497,
+                    "url": "https://www.cnn.com/2018/08/11/politics/donald-trump-vacation-new-jersey/index.html?utm_content=2018-08-11T16%3A01%3A03&utm_medium=social&utm_source=twCNNp&utm_term=image"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            52
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Women Choose Children",
+            "Women",
+            "Trump Supporters",
+            "Crazy Rich Asians",
+            "Magic",
+            "Late Show",
+            "Nazis",
+            "Secret Weapon",
+            "Harry Potter",
+            "Colorado",
+            "Social Change",
+            "Cousin Greg",
+            "Difference Between",
+            "History",
+            "How Gangs Took Over Prisons",
+            "Benalla Affair Sink Emmanuel Macron",
+            "Andrei Sakharov",
+            "Seminal Essay",
+            "America",
+            "Angela Merkel Ewan",
+            "Debate",
+            "Jimmy",
+            "Unrepeatable Architectural Moment",
+            "Difficult Things",
+            "Jason Statham",
+            "Alexander Chee Face",
+            "McGregor",
+            "New Spin",
+            "Happier",
+            "Most Misunderstood Movies Ever How Netflix Reverse Engineered Hollywood How",
+            "Ohio State",
+            "Digital Ruins",
+            "GoldLink",
+            "Don",
+            "John David Washington",
+            "Shonda Rhimes",
+            "Career Miami",
+            "Ava DuVernay",
+            "Minority Students Attend Elite",
+            "Lee Child",
+            "Spike Lee",
+            "Where Age",
+            "College",
+            "Consent",
+            "Yugoslavia"
+        ],
+        "peaks": [],
+        "theme": [
+            "movie",
+            "shows",
+            "Hollywood",
+            "Years",
+            "Affair",
+            "fans",
+            "Five"
+        ],
+        "timestamp": "2018-08-12 04:10:18.052005-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6fcd03421aa90c37d569a7",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/5b6b522774b1c00b64470850/16:9/w_1200,h_630,c_limit/Schulman-A-Hollywood-Hedonist-Turns-Ninety-Five.jpg",
+                    "origin": "The New Yorker",
+                    "title": "A Hollywood Hedonist Turns Ninety-Five",
+                    "ts": 1534051938,
+                    "twitterid": 1028514491791826945,
+                    "url": "https://www.newyorker.com/culture/culture-desk/a-hollywood-hedonist-turns-ninety-five?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b6ecfec421aa975d0aaee4a",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/q_yyDori7hoTLcL---poduStXH4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WP4V3GE4DQI6RDK6Y3CZIASJKQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Five myths about 3-D printing",
+                    "ts": 1533986743,
+                    "twitterid": 1028241046508118018,
+                    "url": "https://www.washingtonpost.com/outlook/five-myths/five-myths-about-3-d-printing/2018/08/10/9cb583fe-9c18-11e8-b60b-1c897f17e185_story.html?utm_term=.0c51f48047cc&tid=sm_tw"
+                },
+                {
+                    "_id": "5b6f6a9d421aa905a40c2bef",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/5b621ae64e28d00b7d0632e4/16:9/w_1200,h_630,c_limit/Schwartz-MacronBenalla.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Will the Benalla Affair Sink Emmanuel Macron?",
+                    "ts": 1534025002,
+                    "twitterid": 1028401513650171905,
+                    "url": "https://www.newyorker.com/culture/culture-desk/will-scandal-sink-emmanuel-macron?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b6ec1d5421aa9756a9e33d8",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2014/01/Irrevererent_Reunited_Lovers_Werewolf_Movies/facebook.jpg?1522767230",
+                    "origin": "The Atlantic",
+                    "title": "How Netflix Reverse Engineered Hollywood",
+                    "ts": 1533985207,
+                    "twitterid": 1028234603960709121,
+                    "url": "https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/?utm_campaign=the-atlantic&utm_content=5b6ec1b604d3011fa881d5ed_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b6f86c6421aa9073b37c3fe",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/graphics/2018/lifestyle/science-behind-improv-performance/img/sciencebehindimprov-mainpromo.jpg",
+                    "origin": "Washington Post",
+                    "title": "The science behind improv: GoldLink shows us how the brain improvises",
+                    "ts": 1534034506,
+                    "twitterid": 1028441378798415872,
+                    "url": "https://www.washingtonpost.com/graphics/2018/lifestyle/science-behind-improv-performance/?utm_term=.8a8fadf8e906&tid=sm_tw"
+                },
+                {
+                    "_id": "5b6eec11421aa97696811d6f",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/10/BostonGlobe.com/Business/Images/Chin081018ComicConCostumes_Biz7.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "For true costume fans, money, time are no object",
+                    "ts": 1533995884,
+                    "twitterid": 1028279383486685184,
+                    "url": "https://www.bostonglobe.com/business/2018/08/10/for-true-costume-fans-money-time-are-object/L8yAcZIMS09MqRq82iyiuM/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b6f78b2421aa9063087072f",
+                    "date_month": "2018-08",
+                    "image": "http://www.latimes.com/resizer/KpgjXsTVklC-WGjRH9e71xQBcT8=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/SBDJFMEXL5CMZLSBJP4F4WCGUQ.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Artists, fans want festivals to address sexual harassment",
+                    "ts": 1534030744,
+                    "twitterid": 1028425598413168640,
+                    "url": "https://www.latimes.com/nation/nationnow/la-na-music-festivals-groping-20180811-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b6f163f421aa9795ad072ba",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/09/01_Intro_y/facebook.jpg?1522790371",
+                    "origin": "The Atlantic",
+                    "title": "What Happens to Women's Ambitions in the Years After College",
+                    "ts": 1534005004,
+                    "twitterid": 1028317638756327425,
+                    "url": "https://www.theatlantic.com/business/archive/2016/12/ambition-interview/486479/?utm_campaign=the-atlantic&utm_content=5b6f0f0b04d3012aa75dd9e3_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b6ede05421aa9763e465792",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/YA_Jimmy_O_Yang/facebook.jpg?1532710567",
+                    "origin": "The Atlantic",
+                    "title": "Jimmy O. Yang Spent Years Getting Ready for Crazy Rich Asians",
+                    "ts": 1533991460,
+                    "twitterid": 1028260827516887041,
+                    "url": "https://www.theatlantic.com/entertainment/archive/2018/08/jimmy-yang-crazy-rich-asians/565484/?utm_campaign=the-atlantic&utm_content=edit-promo&utm_source=twitter&utm_term=2018-08-11T12%3A00%3A03&utm_medium=social"
+                },
+                {
+                    "_id": "5b6f244f421aa97b15a3c2ba",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201808/TheMeg.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "'The Meg': Is the terrifying prehistoric shark from Jason Statham's new movie real?",
+                    "ts": 1534007764,
+                    "twitterid": 1028329215186350080,
+                    "url": "https://www.nbcnews.com/mach/video/-the-meg-is-the-terrifying-prehistoric-shark-from-jason-statham-s-new-movie-real-1296670275987?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Trevi Fountain",
+            "Rome"
+        ],
+        "peaks": [],
+        "theme": [
+            "brawl",
+            "Fountain",
+            "Rome",
+            "selfie",
+            "spot",
+            "tourists",
+            "Trevi"
+        ],
+        "timestamp": "2018-08-12 04:10:18.089366-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6eb3ca421aa97511442d6d",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/travel/2018/08/10/8-tourists-brawl-at-rome-s-trevi-fountain-over-selfie-spot/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1533908194951.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "8 tourists brawl at Rome\u2019s Trevi Fountain over selfie spot",
+                    "ts": 1533978240,
+                    "twitterid": 1028205379992412160,
+                    "url": "http://www.foxnews.com/travel/2018/08/10/8-tourists-brawl-at-rome-s-trevi-fountain-over-selfie-spot.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            29
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Fight Climate Change Democrats",
+            "Midterms Approach Bernie",
+            "Midterm Election Calendar Rashida Tlaib",
+            "Kasich",
+            "Arizona",
+            "Trump Bind",
+            "Corey Stewart",
+            "Bongino Says Pelosi",
+            "MeToo",
+            "House Michigan",
+            "Hawaii House",
+            "Alexandria",
+            "Hawaii Democratic",
+            "Minnesota Most Candidates Backed",
+            "Nonstop",
+            "Trump Republican Party",
+            "GOP",
+            "Congress",
+            "Democratic",
+            "First Read",
+            "Bernie Sanders Falter Latest",
+            "Kobach",
+            "Russian",
+            "Newt Gingrich"
+        ],
+        "peaks": [],
+        "theme": [
+            "Republican",
+            "Democratic",
+            "midterms",
+            "primary",
+            "candidate",
+            "Hawaii",
+            "House"
+        ],
+        "timestamp": "2018-08-12 04:10:18.731444-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6efa29421aa977247674d0",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180724220417-kaniela-ing--1-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Hawaii House primary is another test of an Ocasio-Cortez style candidate's appeal",
+                    "ts": 1533997035,
+                    "twitterid": 1028284214393880577,
+                    "url": "https://www.cnn.com/2018/08/11/politics/hawaii-primary-democratic-house-governor-races/index.html?utm_content=2018-08-11T14%3A17%3A14&utm_medium=social&utm_term=image&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b6f4e85421aa90251440c34",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/08/11/hawaiis-false-missile-alert-looms-large-in-close-democratic-primary/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1534015754695.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Hawaii's false missile alert looms large in close Democratic primary",
+                    "ts": 1534019904,
+                    "twitterid": 1028380132652838912,
+                    "url": "http://www.foxnews.com/politics/2018/08/11/hawaiis-false-missile-alert-looms-large-in-close-democratic-primary.html"
+                },
+                {
+                    "_id": "5b6f407a421aa97ff524579f",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/D4HvkB8SpdurIDvii53T3p6HykA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4NEYBCE46II6RBB3G3QXP4YIDQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Hawaii Democratic governor faces tough challenge in bid for another term",
+                    "ts": 1534016923,
+                    "twitterid": 1028367628459540481,
+                    "url": "https://www.washingtonpost.com/powerpost/hawaii-democratic-governor-faces-tough-challenge-in-bid-for-another-term/2018/08/10/dc79c83e-9cad-11e8-8d5e-c6c594024954_story.html?utm_term=.8db2f16d34ed&tid=sm_tw"
+                },
+                {
+                    "_id": "5b6f5c91421aa904ed2929ca",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/07/0/0/694940094001_5819096263001_5819089605001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Newt Gingrich: The Trump Republican Party is arising out of a political revolution",
+                    "ts": 1534024651,
+                    "twitterid": 1028400044049944577,
+                    "url": "http://www.foxnews.com/opinion/2018/08/11/newt-gingrich-trump-republican-party-is-arising-out-political-revolution.html"
+                },
+                {
+                    "_id": "5b6f94d3421aa90a0a229c1e",
+                    "date_month": "2018-08",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:f8bd0e92615446109b2b500d64915dec/800.jpeg",
+                    "origin": "AP Eastern US",
+                    "title": "Connecticut's crowded candidate pool is about to get smaller",
+                    "ts": 1534037641,
+                    "twitterid": 1028454526473461760,
+                    "url": "https://apnews.com/2e361999203c4337975a67b0218df710?utm_medium=APEastRegion&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b6fb0f2421aa90b322f960e",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/02/08/a6256f0c-dcb3-46a4-b45c-012599aab1ae/thumbnail/1200x630/cadaef0fdb222a9bb842c265f3c452a7/gettyimages-915793300.jpg",
+                    "origin": "CBS News",
+                    "title": "Commentary: Believe it or not, the GOP could keep the House",
+                    "ts": 1534044784,
+                    "twitterid": 1028484485648736257,
+                    "url": "https://www.cbsnews.com/news/commentary-believe-it-or-not-the-gop-could-keep-the-house/"
+                },
+                {
+                    "_id": "5b6eec11421aa97696811d85",
+                    "date_month": "2018-08",
+                    "image": "https://static01.nyt.com/images/2018/08/09/us/politics/09michiganexplainer/09michiganexplainer-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Rashida Tlaib Won a Primary This Week. She Also Lost a Primary This Week.",
+                    "ts": 1533994265,
+                    "twitterid": 1028272593034457088,
+                    "url": "https://www.nytimes.com/2018/08/09/us/politics/rashida-tlaib-brenda-jones.html?smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5b6f244f421aa97b15a3c2c0",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/5b6da2a041336f0b7a3b00d1/16:9/w_1200,h_630,c_limit/Cassidy-RepublicanMidterms.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Republicans Are Caught in a Trump Bind as the Midterms Approach",
+                    "ts": 1534007226,
+                    "twitterid": 1028326955370864642,
+                    "url": "https://www.newyorker.com/news/our-columnists/republicans-are-caught-in-a-trump-bind-as-the-midterms-approach?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b6eb3ca421aa97511442d69",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/24/cab28a94-4454-4341-88de-1d43cbf21893/thumbnail/1200x630/f472da7b77d9300d152bb98cc5aedacb/gettyimages-182961849.jpg",
+                    "origin": "CBS News",
+                    "title": "Democrats' hope of taking the House could hit roadblock in Minnesota",
+                    "ts": 1533979083,
+                    "twitterid": 1028208916780539904,
+                    "url": "https://www.cbsnews.com/news/democrats-hope-of-taking-the-house-could-hit-roadblock-in-minnesota/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b6ea9c904d3014e4cf3e7f7&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b6ea5ae421aa974ae6058e4",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/6b/3d/c7c0147544f7bdc467ab968f377f/180810-martha-mcsally-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Republicans ask Trump to intervene in contentious Arizona primary",
+                    "ts": 1533976213,
+                    "twitterid": 1028196878721212416,
+                    "url": "https://www.politico.com/story/2018/08/10/trump-mcsally-ward-arpaio-arizona-primary-endorsement-773222"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            388
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Alewife",
+            "New Mexico",
+            "Campaigns",
+            "Tehran",
+            "Hillary Clinton",
+            "Harley",
+            "Frozen",
+            "Tuskegee",
+            "DNC",
+            "New Face",
+            "Down",
+            "Indonesia",
+            "GOP Florida House",
+            "Kruger National Park",
+            "Puerto Rico",
+            "Inmate Melania Trump",
+            "Associated Press News Oil Shocks",
+            "Same Desperate",
+            "Watson Dilemma North Carolina",
+            "Richard Gere",
+            "Oregon",
+            "Tweet Sam Darnold",
+            "Ohio Man",
+            "Melania Trump",
+            "Gatorade",
+            "Korean Style Boy",
+            "Mollie Tibbetts",
+            "Eisenhower",
+            "NFL",
+            "Child",
+            "Security Check Required",
+            "Heartland",
+            "Philippines Plaque",
+            "Wagon Memories Memo",
+            "Battle Against Puffy Eyes Idris Elba",
+            "Boston Rate",
+            "Dolphins",
+            "Red Sox",
+            "Hawaii",
+            "Service Violation Paul Manafort",
+            "Turkish Crisis Rattles Global Markets Amid Escalating Spat",
+            "Monsanto New York",
+            "Orioles",
+            "Japanese",
+            "Derrius Guice",
+            "Carla Provost",
+            "Debate",
+            "Jack Dorsey",
+            "Comedian Leslie Jones",
+            "America",
+            "Turkey Pakistan",
+            "Elephant",
+            "Left Never Ceases",
+            "Marshmallow Test Really Teaches",
+            "Indonesian",
+            "New Jersey",
+            "Border Patrol",
+            "American Pickers",
+            "NY House",
+            "Islamic",
+            "InfoWars",
+            "Gay Aliens Texas",
+            "Permanence Iran",
+            "Speakership Ends Florida",
+            "European",
+            "Cities Slow",
+            "Himalayan",
+            "Chicago Pastor Calls",
+            "Mike Pence",
+            "Smoke Wife",
+            "Twitter Trekking",
+            "Martinez",
+            "Giants",
+            "Spike Lee",
+            "US Bank",
+            "Texas",
+            "Jeff Sessions",
+            "Russian",
+            "U.S.",
+            "Reward Seekers",
+            "South Austin",
+            "Michigan Watch Jessica Simpson",
+            "White House",
+            "Public Records Request",
+            "Security Is National Security",
+            "Magazine",
+            "Luigi",
+            "Naturalized Citizens No Longer",
+            "Immigration Policy Emotional",
+            "Public Education",
+            "Cubs",
+            "Asian",
+            "Houston",
+            "NRA",
+            "Dubai",
+            "Spaceport Race",
+            "Iceland",
+            "Willow Creek Church Scandal Has",
+            "July Amid Changes",
+            "Arctic Circle Trail Boston Ballet",
+            "California Republican Elizabeth Heng",
+            "Trump",
+            "Brighton",
+            "South Florida",
+            "Greenland",
+            "Cell",
+            "Future Belongs",
+            "Tyler Mitchell",
+            "IDs Are",
+            "Wilmette Harbor",
+            "Willie Nelson",
+            "Beyonce",
+            "LoCicero",
+            "Paul Manafort",
+            "North Korea",
+            "Nebraska",
+            "FBI",
+            "Hungary",
+            "Send Troops",
+            "False Missile Alert Fallout",
+            "Flawed Plan",
+            "Egyptian",
+            "Bill Murray",
+            "Australian",
+            "Tariffs Could",
+            "Adolf Hitler",
+            "PM",
+            "Mueller",
+            "Iceberg",
+            "Roundup",
+            "Trump White House Pavlich",
+            "Village",
+            "Washington",
+            "Strange",
+            "Free Speech Problem",
+            "Cancer Case",
+            "China Steps",
+            "Robert",
+            "Honduras",
+            "South Side Cafardo",
+            "Superior Lettuce Joe Biden",
+            "New Brunswick",
+            "Divide",
+            "NAACP",
+            "Gina Rodriguez",
+            "Los Alamos",
+            "CDC",
+            "Facebook",
+            "IRS",
+            "Monsanto",
+            "Donald Trump",
+            "Silence Sounds",
+            "Cairo",
+            "Bed Baltimore",
+            "Goodell",
+            "Dennis Shields",
+            "Tesla Shareholders John James",
+            "NFL Anthem",
+            "Right Time",
+            "Stephen Curry",
+            "State History Kanye West",
+            "University",
+            "Florida",
+            "Georgia",
+            "Monsanto Hit",
+            "Vineyard",
+            "Jeff Fager",
+            "John Deere",
+            "Eye Push Ups",
+            "Your Phone",
+            "Kim Kardashian",
+            "Atomic Bombing Tim Ryan",
+            "Spot Underage",
+            "Cheek Crunches",
+            "Abbott",
+            "Bank CEO",
+            "Chinese",
+            "Patriots",
+            "Financial",
+            "West Virginia",
+            "Muslims",
+            "Christmas Italy",
+            "Colorado",
+            "Ivan Duque",
+            "New York City",
+            "Papua New Guinea",
+            "WEEI",
+            "WSJ",
+            "Baltimore Violence",
+            "Giants Meet",
+            "NASA",
+            "Missouri",
+            "Michael Brown",
+            "Basketball",
+            "Seattle",
+            "Census Washington",
+            "Willie Mays",
+            "Sacha Baron Cohen Speak",
+            "Beyond Cronuts",
+            "Buoy Economy",
+            "Supreme Court",
+            "Christian",
+            "China Melania Trump",
+            "House Ethics Committee",
+            "Terminally",
+            "Candace Owens Ambushed",
+            "New War",
+            "Famer Jim Brown",
+            "Wall Street Journal",
+            "LGBTQ",
+            "Mountain Biking",
+            "Dutch",
+            "WikiLeaks",
+            "Hong Kong",
+            "Nintendo",
+            "Unicycle Jury",
+            "Democrat Party",
+            "Supreme Court Mexican",
+            "Vogue",
+            "Lowell",
+            "Tom Brady",
+            "Way Paul Ryan",
+            "Business",
+            "TSA",
+            "Kathleen Manafort",
+            "Denmark",
+            "German",
+            "Economic News",
+            "Don Yee",
+            "Colombia",
+            "Twitter Drunk",
+            "Marine Corps",
+            "Closure Due To Fire",
+            "America Are",
+            "New York Jets",
+            "LeBron",
+            "Wealthy Men",
+            "Bijan",
+            "Sports Arson",
+            "Barry Bonds",
+            "ICE",
+            "Brett Kavanaugh",
+            "James Bond",
+            "Arnold Schwarzenegger",
+            "Kylie Jenner",
+            "Evangelical World Photographer",
+            "Vegas",
+            "Texas Gov",
+            "Tiger Woods",
+            "Samsung Introduces Galaxy",
+            "Martha",
+            "Tampon",
+            "Immigrants Dutch",
+            "Woman",
+            "New Jersey Turnpike",
+            "Charges",
+            "Shame Thousands",
+            "Greek",
+            "Daniel Craig",
+            "Romania China",
+            "Doug Gansler",
+            "Maryland",
+            "Willie Dille",
+            "Video Pence Calls Space Force",
+            "Jack Keane",
+            "Alex Jones",
+            "Love",
+            "Bill Clinton",
+            "Carrie Underwood",
+            "ObamaCare Double Whammy",
+            "Omarosa Manigault Newman",
+            "Midwest",
+            "California Suffers Largest Fires",
+            "Redskins",
+            "Saudi Rappers Fight",
+            "Mischa Santora",
+            "Charlottesville Biden",
+            "Iraq War Vet",
+            "Iran",
+            "Hiroshima",
+            "Liberal Protesters Ethics",
+            "Secret Service",
+            "Britain As Gas Boom Falters",
+            "Trump Facebook",
+            "Canada Man",
+            "Mom",
+            "Video",
+            "South Side",
+            "Homeless",
+            "Crocs",
+            "Yosemite Valley",
+            "Nationals IBM",
+            "Crown Prince Picks",
+            "Mariah Carey",
+            "Rahm Emanuel",
+            "Beer",
+            "Apricot Scrub Plays",
+            "Holy Fire",
+            "Treasury",
+            "WWII",
+            "People",
+            "Southern Poverty Law Center",
+            "Auto Industry",
+            "Elon Musk",
+            "Irish",
+            "New US",
+            "EU",
+            "Spokane",
+            "Ferguson City Council Red Sox",
+            "NBC News",
+            "World News",
+            "Gaza",
+            "Carr Fire",
+            "Beautiful Women",
+            "Violent City Takeaways",
+            "SEC Whistleblower Payouts Slow Amid Deluge",
+            "Turkey Ohio",
+            "Indian Murder Epidemic",
+            "English",
+            "Make Me Pull",
+            "Tiger Effect",
+            "Canada",
+            "Perseid",
+            "Mollie Tibbetts Crane",
+            "Chris Hemsworth",
+            "Little",
+            "US Sanctions",
+            "Ryan Widmer",
+            "Illinois",
+            "PGA"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "year",
+            "New",
+            "man",
+            "police",
+            "says",
+            "Cities"
+        ],
+        "timestamp": "2018-08-12 04:10:22.804762-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6fa2e5421aa90aae2d2f85",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/10/42fa1698-1025-4915-ab69-fd98fbcd722a/thumbnail/1200x630/513d1a0f9b0adf0ee71402facfcebe86/untitled-collage-15.jpg",
+                    "origin": "CBS News",
+                    "title": "Man says rabid beaver attacked him, 7-year-old daughter kayaking on river",
+                    "ts": 1534040284,
+                    "twitterid": 1028465613470085120,
+                    "url": "https://www.cbsnews.com/news/pennsylvania-dad-and-7-year-old-daughter-attacked-by-rabid-beaver-while-kayaking/"
+                },
+                {
+                    "_id": "5b6f163f421aa9795ad072b5",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/5b6c62d7895de80b6375c84f/16:9/w_1200,h_630,c_limit/Gessen-TrumpLegalImmigrants.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Trump\u2019s New War on Immigrants",
+                    "ts": 1534005270,
+                    "twitterid": 1028318750943182848,
+                    "url": "https://www.newyorker.com/news/our-columnists/trumps-new-war-on-immigrants?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b6fcd03421aa90c37d569b3",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180809205627-spike-lee-ac360-8-9-18-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Spike Lee says Trump is a 'bullhorn' for racism",
+                    "ts": 1534050065,
+                    "twitterid": 1028506637114454017,
+                    "url": "https://www.cnn.com/2018/08/10/us/spike-lee-blackkklansman-film-anderson-cooper-cnntv/index.html?utm_content=2018-08-12T05%3A01%3A04&utm_medium=social&utm_source=twCNNp&utm_term=image"
+                },
+                {
+                    "_id": "5b6f244f421aa97b15a3c2be",
+                    "date_month": "2018-08",
+                    "image": "https://apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Central U.S.",
+                    "title": "Man charged over loaded gun in 4-year-old son's backpack",
+                    "ts": 1534007357,
+                    "twitterid": 1028327506439495680,
+                    "url": "https://apnews.com/dde83c29a86e425c88239f451e9ff41f?utm_campaign=SocialFlow&utm_medium=APCentralRegion&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b6eec11421aa97696811d9e",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/screen_shot_2018-08-10_at_12.04.05_pm.png",
+                    "origin": "The Hill",
+                    "title": "Florida man threatened to lynch local NAACP president, police say",
+                    "ts": 1533992468,
+                    "twitterid": 1028265055513731072,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/401261-florida-man-threatened-to-lynch-local-naacp-president-police"
+                },
+                {
+                    "_id": "5b6f407a421aa97ff52457ba",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2014/07/07/police-car_s2048x1357.jpg?c74c089b5009d1d2b89c6afa0615e9ae41292ce9",
+                    "origin": "The Washington Times",
+                    "title": "Las Vegas police: Man allegedly posed as cop to coerce sex",
+                    "ts": 1534015449,
+                    "twitterid": 1028361445128450049,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/11/las-vegas-police-man-allegedly-posed-as-cop-to-coe/?cache"
+                },
+                {
+                    "_id": "5b6fa2e5421aa90aae2d2f81",
+                    "date_month": "2018-08",
+                    "image": "http://www.trbimg.com/img-5b6f990a/turbine/ct-met-alma-villalobos-abducted-20180811",
+                    "origin": "Chicago Tribune",
+                    "title": "5-year-old girl abducted by mother, last seen in Little Village: Police",
+                    "ts": 1534040882,
+                    "twitterid": 1028468121009618944,
+                    "url": "http://www.chicagotribune.com/news/local/breaking/ct-met-alma-villalobos-abducted-20180811-story.html"
+                },
+                {
+                    "_id": "5b6f407a421aa97ff52457b2",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/11/USAT/a05015a2-9fd4-4bd2-ac56-b9e6895b7da3-AP_Canada_Shooting.jpg?crop=2999,1681,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Canadian police charge suspect in New Brunswick shooting that left 4 dead",
+                    "ts": 1534015805,
+                    "twitterid": 1028362940280438793,
+                    "url": "https://www.usatoday.com/story/news/world/2018/08/11/matthew-vincent-raymond-canadian-police-charge-suspect-shooting/966062002/"
+                },
+                {
+                    "_id": "5b6f407a421aa97ff5245796",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180811152323-exp-leslie-jone-son-trump-cnntv-00012114-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Comedian Leslie Jones says America is 'way more' than Trump",
+                    "ts": 1534017607,
+                    "twitterid": 1028370497648689152,
+                    "url": "https://www.cnn.com/2018/08/11/politics/leslie-jones-on-trump-cnntv/index.html?sr=twCNN081118leslie-jones-on-trump-cnntv0316PMVODtop&utm_medium=social&utm_content=2018-08-11T20%3A00%3A06&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5b6ede05421aa9763e4657bb",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201808/n_ari_nra_180809_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "NRA 'dark money' gets darker with new Trump policy",
+                    "ts": 1533988824,
+                    "twitterid": 1028249771079884800,
+                    "url": "https://www.msnbc.com/the-beat-with-ari-melber/watch/nra-dark-money-gets-darker-with-new-trump-policy-1295983171517?cid=sm_npd_ms_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Parker Solar Probe",
+            "NASA",
+            "NASA Delays Parker Solar Probe Launch",
+            "Parker Solar"
+        ],
+        "peaks": [],
+        "theme": [
+            "NASA",
+            "Probe",
+            "Solar",
+            "launch",
+            "Parker",
+            "delays",
+            "Sun"
+        ],
+        "timestamp": "2018-08-12 04:10:22.987768-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6ecfec421aa975d0aaee3f",
+                    "date_month": "2018-08",
+                    "image": "https://static01.nyt.com/images/2018/08/11/science/11PARKERQNA1/11PARKERQNA1-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "NASA Delays Parker Solar Probe Launch",
+                    "ts": 1533987606,
+                    "twitterid": 1028244663134826496,
+                    "url": "https://www.nytimes.com/2018/08/10/science/parker-solar-probe-launch.html?partner=socialflow&smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5b6eb3ca421aa97511442d60",
+                    "date_month": "2018-08",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_32/2527761/afp_18a6os_18b58f934df456413b1455a00313a802.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Last-minute technical problem delays launch of NASA's Parker Solar Probe",
+                    "ts": 1533979952,
+                    "twitterid": 1028212561911705600,
+                    "url": "https://www.nbcnews.com/science/space/last-minute-technical-problem-delays-launch-nasa-s-parker-solar-n899871?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b6ecfec421aa975d0aaee53",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/parker_solar_probe_081018rk2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "NASA delays launch of first ever solar probe",
+                    "ts": 1533985985,
+                    "twitterid": 1028237866713980928,
+                    "url": "http://thehill.com/policy/defense/401366-nasa-delays-launch-of-first-ever-solar-probe?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b6fe924421aa90de73fd5ae",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/0qMVchaARSnihG28xRoxt2U7jsY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AI7S7VDTA3OVJ6UBF5NVB4XGU.png",
+                    "origin": "Washington Post",
+                    "title": "NASA\u2019s Parker Solar Probe launches on a mission to study the sun and its dangers",
+                    "ts": 1534059726,
+                    "twitterid": 1028547157022912512,
+                    "url": "https://www.washingtonpost.com/news/speaking-of-science/wp/2018/08/09/this-nasa-spacecraft-is-about-to-probe-one-of-earths-scariest-threats-the-sun/?tid=sm_tw"
+                },
+                {
+                    "_id": "5b6fe924421aa90de73fd5af",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/09/0/0/694940094001_5820074590001_5820075465001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "NASA's Parker Solar Probe blasts off on epic journey to 'touch the Sun'",
+                    "ts": 1534059690,
+                    "twitterid": 1028547005096841216,
+                    "url": "http://www.foxnews.com/science/2018/08/12/nasas-parker-solar-probe-blasts-off-on-epic-journey-to-touch-sun.html"
+                },
+                {
+                    "_id": "5b6ede05421aa9763e46578d",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/11/PBRE/b643dc4e-f83a-457d-816c-0dfe44ea5624-crb091018_delta.jpg?crop=599,333,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Parker Solar Probe: NASA targets early Sunday launch after late scrub",
+                    "ts": 1533991803,
+                    "twitterid": 1028262269732483072,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/08/11/nasa-solar-probe-launch/965518002/"
+                },
+                {
+                    "_id": "5b6fe924421aa90de73fd5b9",
+                    "date_month": "2018-08",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_32/2526871/180810-solar-probe-al-1300_9f45acbd7b541a8fbda34deb17771506.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "NASA set for rescheduled launch of its Parker Solar Probe: How to watch live",
+                    "ts": 1534058801,
+                    "twitterid": 1028543278319366144,
+                    "url": "https://www.nbcnews.com/mach/science/nasa-s-parker-solar-probe-launches-tomorrow-how-watch-live-ncna899681?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b6ecfec421aa975d0aaee54",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/11/BostonGlobe.com/National/Images/1014751710.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Last-minute technical problem delays NASA\u2019s flight to sun",
+                    "ts": 1533985865,
+                    "twitterid": 1028237360289533952,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/08/11/last-minute-technical-problem-delays-nasa-flight-sun/p1xdqk6JjszVK4INz6PgcP/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            34
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Rally Anniversary Trump",
+            "Distance From White",
+            "Donald Trump",
+            "McInnes",
+            "Russia",
+            "Washington",
+            "FBI",
+            "KKK",
+            "Lyft",
+            "Memorials And Heavy",
+            "America",
+            "Charlottesville Twitter",
+            "Gavin",
+            "Charlottesville Trump",
+            "Ivanka Trump",
+            "Charlottesville",
+            "Trump",
+            "Right",
+            "US Airbnb",
+            "CNN"
+        ],
+        "peaks": [],
+        "theme": [
+            "Charlottesville",
+            "rally",
+            "anniversary",
+            "Trump",
+            "condemns",
+            "racism",
+            "Right"
+        ],
+        "timestamp": "2018-08-12 04:10:23.582131-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6f163f421aa9795ad072bc",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_010918getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump says he condemns 'all types of racism' ahead of Charlottesville anniversary",
+                    "ts": 1534004707,
+                    "twitterid": 1028316390615396354,
+                    "url": "http://thehill.com/homenews/administration/401376-trump-says-he-condemns-all-types-of-racism-ahead-of-charlottesville"
+                },
+                {
+                    "_id": "5b6f3260421aa97df983cfa7",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/11/fact_check_week_31433_s2048x1441.jpg?76ae19201fe03803d9f1513b931712aedd5f461c",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump condemns \u2018all types of racism\u2019 on one-year anniversary of Charlottesville",
+                    "ts": 1534010952,
+                    "twitterid": 1028342583414718464,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/11/donald-trump-condemns-all-types-racism-one-year-an/"
+                },
+                {
+                    "_id": "5b6f407a421aa97ff52457bf",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/08/11/trump-calls-for-unity-condemns-all-types-racism-on-anniversary-charlottesville-protest/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1534002819819.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump calls for unity, condemns 'all types of racism' on anniversary of Charlottesville protest",
+                    "ts": 1534015058,
+                    "twitterid": 1028359804534894592,
+                    "url": "http://www.foxnews.com/politics/2018/08/11/trump-calls-for-unity-condemns-all-types-racism-on-anniversary-charlottesville-protest.html"
+                },
+                {
+                    "_id": "5b6f5c91421aa904ed2929e0",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/pencemike_070918gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Pence condemns 'racism and violence' ahead of Charlottesville anniversary",
+                    "ts": 1534022527,
+                    "twitterid": 1028391131636269057,
+                    "url": "http://thehill.com/homenews/administration/401412-pence-condemns-racism-and-violence-on-charlottesville-anniversary"
+                },
+                {
+                    "_id": "5b6eec11421aa97696811d73",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/a0/64/e7bb4faf40a1b8e0d1e4bfe3b2dd/180730-donald-trump-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump calls for unity on anniversary of Charlottesville rally",
+                    "ts": 1533995648,
+                    "twitterid": 1028278394532835328,
+                    "url": "https://www.politico.com/story/2018/08/11/trump-charlottesville-anniversary-racism-773508"
+                },
+                {
+                    "_id": "5b6f082f421aa97780f12a30",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/-mm-/0cf0433683e2149fd98d6a5643e4a4ca5134cf88/c=0-31-2224-1288/local/-/media/2018/05/18/USATODAY/USATODAY/636622261126936036-AP-Journalism-Woes.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Trump calls for peace on Charlottesville anniversary: 'I condemn all types of racism'",
+                    "ts": 1534000804,
+                    "twitterid": 1028300019869405184,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/08/11/donald-trump-charlottesville-anniversary-condemn-all-racism/965715002/"
+                },
+                {
+                    "_id": "5b6ede05421aa9763e46579a",
+                    "date_month": "2018-08",
+                    "image": "http://www.trbimg.com/img-5b6e7e53/turbine/ct-charlottesville-anniversary-20180810",
+                    "origin": "Chicago Tribune",
+                    "title": "Activists rally against hate on Charlottesville anniversary",
+                    "ts": 1533990829,
+                    "twitterid": 1028258184463626245,
+                    "url": "http://www.chicagotribune.com/news/nationworld/ct-charlottesville-anniversary-20180810-story.html"
+                },
+                {
+                    "_id": "5b6fa2e5421aa90aae2d2f89",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/charlottesville_altright_081217getty_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Hundreds to converge on DC for anniversary of Charlottesville rally",
+                    "ts": 1534039745,
+                    "twitterid": 1028463352039780352,
+                    "url": "http://thehill.com/homenews/state-watch/401165-unite-the-right-rally-to-bring-hundeds-to-dc-on-sunday"
+                },
+                {
+                    "_id": "5b6f5c91421aa904ed2929e2",
+                    "date_month": "2018-08",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_32/2118081/ss-unite-the-right-rally-17-546p-rs_e216eb1783d1b9b8c815d97040f9b90f.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Charlottesville focuses on healing as Unite the Right rally heads to Washington",
+                    "ts": 1534022186,
+                    "twitterid": 1028389701856702464,
+                    "url": "https://www.nbcnews.com/news/us-news/charlottesville-focuses-healing-unite-right-rally-heads-washington-n899321?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b6f082f421aa97780f12a1a",
+                    "date_month": "2018-08",
+                    "image": "https://media.npr.org/assets/img/2018/08/11/8.11.18-charlottesville-one-year_wide-86e3d3a25dc757611285d3bc4d44edbbae899a18.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "In Charlottesville, Memorials And Heavy Police Presence On Rally Anniversary",
+                    "ts": 1534002728,
+                    "twitterid": 1028308089928208384,
+                    "url": "https://www.npr.org/2018/08/11/637800505/in-charlottesville-memorials-and-heavy-police-presence-on-rally-anniversary?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            22
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "New York Republican",
+            "Pelosi",
+            "Supreme Court Collins",
+            "Kavanaugh",
+            "Innate Immunotherapeutics",
+            "How Chris Collins",
+            "Again Trump",
+            "Insider",
+            "Chris Collins",
+            "Congress Makes Corruption Too Easy",
+            "New York",
+            "Spoiler"
+        ],
+        "peaks": [],
+        "theme": [
+            "Collins",
+            "Chris",
+            "insider",
+            "suspending",
+            "trading",
+            "campaign",
+            "charges"
+        ],
+        "timestamp": "2018-08-12 04:10:23.939756-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6f4e85421aa90251440c4a",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180811103104-01-chris-collins-insider-trading-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Chris Collins suspends re-election campaign following insider trading charges",
+                    "ts": 1534017666,
+                    "twitterid": 1028370746123407361,
+                    "url": "https://www.cnn.com/2018/08/11/politics/chris-collins-suspends-campaign/index.html?utm_term=image&utm_source=twCNNp&utm_content=2018-08-11T20%3A01%3A05&utm_medium=social"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674bb",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_32/2523886/180808-chris-collins-congress-ny-njs-0925_53202851eea811867293633187abf7e5.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Rep. Chris Collins suspends re-election campaign after insider trading charges",
+                    "ts": 1533998532,
+                    "twitterid": 1028290493141196800,
+                    "url": "https://www.nbcnews.com/politics/politics-news/rep-chris-collins-suspends-re-election-campaign-after-insider-trading-n899881"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674ca",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/08/USAT/405f9239-e8d9-420c-858e-c9dfa5665596-AP_Congressman_Stock_Indictment.JPG?crop=2999,1687,x0,y19&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Rep. Chris Collins suspends re-election campaign days after arrest on insider trading charges",
+                    "ts": 1533997639,
+                    "twitterid": 1028286744427413504,
+                    "url": "https://www.usatoday.com/story/news/2018/08/11/chris-collins-suspends-re-election-campaign-arrest-insider-trading/965940002/"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674d3",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/09/0/0/694940094001_5820214285001_5820209580001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Rep. Chris Collins suspends re-election campaign after being indicted on insider trading charges",
+                    "ts": 1533996969,
+                    "twitterid": 1028283936991006721,
+                    "url": "http://www.foxnews.com/politics/2018/08/11/rep-chris-collins-suspends-re-election-campaign-after-being-indicted-on-insider-trading-charges.html"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674cd",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Washington Post",
+                    "title": "Rep. Chris Collins (R-N.Y.) suspending reelection bid after being charged with insider trading",
+                    "ts": 1533997456,
+                    "twitterid": 1028285980162306048,
+                    "url": "https://www.washingtonpost.com/news/politics/wp/2018/08/11/rep-chris-collins-r-n-y-suspending-reelection-bid-after-being-charged-with-insider-trading/"
+                },
+                {
+                    "_id": "5b6fbef9421aa90b8ff3d255",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/08/08/18c69ff2-6b04-49f4-8af0-a99521a27c49/thumbnail/1200x630g3/8032b17432b6ff424ead1e944dddc7c7/gettyimages-522351932.jpg",
+                    "origin": "CBS News",
+                    "title": "Rep. Chris Collins announces he is suspending his re-election campaign",
+                    "ts": 1534047484,
+                    "twitterid": 1028495812899364864,
+                    "url": "https://www.cbsnews.com/news/rep-chris-collins-announces-he-is-suspending-his-campaign-2018-08-11/"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674c1",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/08/congressman_stock_indictment_38214_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Chris Collins, New York Republican, suspends campaign following arrest for insider trading",
+                    "ts": 1533998082,
+                    "twitterid": 1028288603439423488,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/11/chris-collins-new-york-republican-suspends-campaig/"
+                },
+                {
+                    "_id": "5b6f86c6421aa9073b37c418",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/collinschris_061517gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Collins opponent calls for resignation amid insider trading charges",
+                    "ts": 1534032305,
+                    "twitterid": 1028432146891980801,
+                    "url": "http://thehill.com/homenews/campaign/401415-collins-opponent-rages-against-the-political-machine"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674c9",
+                    "date_month": "2018-08",
+                    "image": "https://media.npr.org/assets/img/2018/08/08/gettyimages-577707850_wide-373a575a24fce5bc933842d54cc458344588dffc.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "New York Congressman Pleads Not Guilty To Insider Trading Charges",
+                    "ts": 1533997662,
+                    "twitterid": 1028286843006148608,
+                    "url": "https://www.npr.org/2018/08/08/636666323/new-york-congressman-indicted-on-insider-trading-charges?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180811"
+                },
+                {
+                    "_id": "5b6f407a421aa97ff52457c8",
+                    "date_month": "2018-08",
+                    "image": "http://www.latimes.com/resizer/cxRMimzG8RWZhTwuv1eAxWR-EWE=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/GKI4LXMPZ5HMRETEYZL4KIFNMI.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "N.Y. Republican Rep. Chris Collins suspends reelection bid after being charged with insider trading",
+                    "ts": 1534014126,
+                    "twitterid": 1028355896290603009,
+                    "url": "https://www.latimes.com/nation/nationnow/la-na-pol-chris-collins-20180811-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            14
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Bible Trump",
+            "Trump White House",
+            "Deal",
+            "Hell",
+            "Omarosa",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Omarosa",
+            "Trump",
+            "book",
+            "claims",
+            "using",
+            "words",
+            "lowlife"
+        ],
+        "timestamp": "2018-08-12 04:10:24.237508-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6f4e85421aa90251440c38",
+                    "date_month": "2018-08",
+                    "image": "https://amp.businessinsider.com/images/5b6f3cad89c8a130008b528e-1136-568.jpg",
+                    "origin": "Politics Insider",
+                    "title": "'She's a lowlife': Trump blasts Omarosa following bombshell claims in upcoming tell-all book",
+                    "ts": 1534019569,
+                    "twitterid": 1028378725728104448,
+                    "url": "https://www.businessinsider.com/trump-omarosa-bombshell-reports-tell-all-book-lowlife-2018-8"
+                },
+                {
+                    "_id": "5b6f6a9d421aa905a40c2bec",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/7_inaug_slideshow_012017gn.jpg",
+                    "origin": "The Hill",
+                    "title": "Omarosa book claims Trump wanted to be sworn in using 'Art of the Deal' instead of the Bible",
+                    "ts": 1534025346,
+                    "twitterid": 1028402959166713862,
+                    "url": "http://thehill.com/homenews/administration/401413-omarosa-trump-wanted-to-be-sworn-in-using-art-of-the-deal-instead-of"
+                },
+                {
+                    "_id": "5b6f5c91421aa904ed2929e9",
+                    "date_month": "2018-08",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:8f6f3e4c7d834c68b35ceb9cdc212703/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "In wake of critical book, Trump calls Omarosa 'a lowlife'",
+                    "ts": 1534021377,
+                    "twitterid": 1028386310430617600,
+                    "url": "https://apnews.com/874a5be028c44be7b69f89d860b93431/In-wake-of-critical-book,-Trump-calls-Omarosa-'a-lowlife?utm_medium=AP_Politics&utm_source=Twitter&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5b6f4e85421aa90251440c41",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/blogs/manigaultomarosa_trumpdonald12062016getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump scorches Omarosa ahead of book release: 'She's a lowlife'",
+                    "ts": 1534018862,
+                    "twitterid": 1028375763341504512,
+                    "url": "http://thehill.com/homenews/administration/401408-trump-scorches-omarosa-ahead-of-book-release-shes-a-lowlife"
+                },
+                {
+                    "_id": "5b6f78b2421aa9063087073f",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/08/11/trump-has-choice-words-for-ex-aide-omarosa/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1534028665753.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump has choice words for ex-aide Omarosa",
+                    "ts": 1534028976,
+                    "twitterid": 1028418181445165056,
+                    "url": "http://www.foxnews.com/us/2018/08/11/trump-has-choice-words-for-ex-aide-omarosa.html"
+                },
+                {
+                    "_id": "5b6eb3ca421aa97511442d67",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/omarosa_shs12142017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Omarosa contradicts own book, says she heard tape of Trump using 'N-word'",
+                    "ts": 1533979262,
+                    "twitterid": 1028209669079281666,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/401327-omarosa-contradicts-own-book-says-she-heard-rumored-trump-n"
+                },
+                {
+                    "_id": "5b6f407a421aa97ff52457a3",
+                    "date_month": "2018-08",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_32/2308586/180129-omarosa-trump-mc-1213_a605b3fdd6250d1a5b8e2e0d95fe77c8.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Omarosa claims in new book: Trump 'racist,' used N-word, tried to buy her silence",
+                    "ts": 1534016852,
+                    "twitterid": 1028367330936606720,
+                    "url": "https://www.nbcnews.com/politics/white-house/omarosa-claims-new-book-trump-racist-used-n-word-n899581"
+                },
+                {
+                    "_id": "5b6f3260421aa97df983cfac",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/manigaultomarosa_gettyimages-867190728.jpg",
+                    "origin": "The Hill",
+                    "title": "Pollster denies Omarosa\u2019s claim he heard Trump using N-word",
+                    "ts": 1534010470,
+                    "twitterid": 1028340564226453504,
+                    "url": "http://thehill.com/homenews/administration/401395-pollster-denies-omarosas-claim-he-heard-trump-using-n-word"
+                },
+                {
+                    "_id": "5b6f244f421aa97b15a3c2a2",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/article_images/piersonkatrina_121316getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Former Trump campaign spokeswoman blasts \u2018disloyal\u2019 Omarosa over tell-all book",
+                    "ts": 1534009985,
+                    "twitterid": 1028338527761825797,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/401393-former-trump-campaign-spokeswoman-blasts-disloyal-omarosa-over"
+                },
+                {
+                    "_id": "5b6f5c91421aa904ed2929db",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/10/USAT/63e69350-fc73-47ad-8ef7-9208d9442757-XXX_IMG_AFP_AFP_LP1YJ_A_GOV__1_1_8AKJ765E.JPG?crop=3886,2204,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "'She's a low life': President Trump attacks Omarosa ahead of scathing tell-all book release",
+                    "ts": 1534023004,
+                    "twitterid": 1028393135469154306,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/08/11/trump-calls-omarosa-low-life-when-asked-her-tell-all-book-unhinged/967661002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Chris Cuomo",
+            "David Duke",
+            "Trump",
+            "Ingraham",
+            "America"
+        ],
+        "peaks": [],
+        "theme": [
+            "Ingraham",
+            "America",
+            "Chris",
+            "Cuomo",
+            "David",
+            "disavows",
+            "Duke"
+        ],
+        "timestamp": "2018-08-12 04:10:24.309804-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6ecfec421aa975d0aaee40",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/ingrahamlaura_022318gn6_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Ingraham disavows ex-KKK leader David Duke's endorsement",
+                    "ts": 1533987423,
+                    "twitterid": 1028243897468837888,
+                    "url": "http://thehill.com/homenews/media/401212-ingraham-disavows-ex-kkk-leaders-endorsement?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b6ec1d5421aa9756a9e33f5",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/cuomochris_ingraham_081018_cnn.png",
+                    "origin": "The Hill",
+                    "title": "Chris Cuomo to Ingraham: If you don\u2019t like what America is, then leave",
+                    "ts": 1533981665,
+                    "twitterid": 1028219746918047744,
+                    "url": "http://thehill.com/homenews/media/401211-chris-cuomo-to-ingraham-if-you-dont-like-what-america-is-then-leave"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "AP",
+            "Evans Maryland",
+            "Maryland",
+            "Durkin",
+            "University"
+        ],
+        "peaks": [],
+        "theme": [
+            "Maryland",
+            "leave",
+            "Durkin",
+            "football",
+            "placed",
+            "coach",
+            "culture"
+        ],
+        "timestamp": "2018-08-12 04:10:24.493569-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6fbef9421aa90b8ff3d23f",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/sports/2018/08/12/maryland-football-coach-dj-durkin-placed-on-leave-after-report-toxic-culture/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1534045694981.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Maryland football coach DJ Durkin placed on leave after report of 'toxic culture'",
+                    "ts": 1534049581,
+                    "twitterid": 1028504604667928576,
+                    "url": "http://www.foxnews.com/sports/2018/08/12/maryland-football-coach-dj-durkin-placed-on-leave-after-report-toxic-culture.html"
+                },
+                {
+                    "_id": "5b6f78b2421aa90630870732",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_32/2528076/180811-dj-durkin-ew-650p_847a84e171a7992b9b7176a330fe90ac.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Maryland places coach Durkin on leave amid concerns over football program's culture",
+                    "ts": 1534030250,
+                    "twitterid": 1028423527475675136,
+                    "url": "https://www.nbcnews.com/news/sports/maryland-places-coach-durkin-administrative-leave-amid-concerns-over-culture-n899926"
+                },
+                {
+                    "_id": "5b6f163f421aa9795ad072c5",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Washington Post",
+                    "title": "Maryland football Coach DJ Durkin needs to go",
+                    "ts": 1534003566,
+                    "twitterid": 1028311604159553536,
+                    "url": "https://www.washingtonpost.com/sports/colleges/maryland-football-coach-dj-durkin-needs-to-go/2018/08/11/0c896812-9d72-11e8-b60b-1c897f17e185_story.html?utm_term=.908d6087f23a&tid=sm_tw"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674b9",
+                    "date_month": "2018-08",
+                    "image": "https://twt-assets.washtimes.com/v4/images/favicon.6bd96ab48f85.ico",
+                    "origin": "The Washington Times",
+                    "title": "Maryland says staffers placed on leave after player death",
+                    "ts": 1533998768,
+                    "twitterid": 1028291482137059330,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/10/maryland-says-staffers-placed-on-leave-after-playe/"
+                },
+                {
+                    "_id": "5b6f244f421aa97b15a3c2b5",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/11/Maryland-Player_Death_Review_Football_08379.jpg-88531_s2048x1409.jpg?65f73b028a29ba355a76060f06c89de86f0639d1",
+                    "origin": "The Washington Times",
+                    "title": "AP source: Maryland places strength coach on leave",
+                    "ts": 1534008325,
+                    "twitterid": 1028331566714564611,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/11/ap-source-maryland-places-strength-coach-on-leave/?cache"
+                },
+                {
+                    "_id": "5b6f082f421aa97780f12a1b",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/ACW57ZxMlfq6K-mdq3kGnys0obI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AECFOSYZ7E3HPDSSWG7FTOCC4E.jpg",
+                    "origin": "Washington Post",
+                    "title": "Maryland football program under fire in wake of reports on toxic culture",
+                    "ts": 1534002588,
+                    "twitterid": 1028307502348333056,
+                    "url": "https://www.washingtonpost.com/news/sports/wp/2018/08/11/maryland-football-program-under-fire-in-wake-of-reports-on-toxic-culture/?utm_term=.f6851c1ca183&tid=sm_tw"
+                },
+                {
+                    "_id": "5b6f6a9d421aa905a40c2bd2",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2016/09/28/9_282016_maryland-offense-football8201_s2048x1523.jpg?8318bcc5d9d61ba5c8ce8f5a5ceadafb39bc2bad",
+                    "origin": "The Washington Times",
+                    "title": "Maryland puts DJ Durkin on leave amid investigation",
+                    "ts": 1534027578,
+                    "twitterid": 1028412320333086721,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/11/maryland-puts-dj-durkin-leave-amid-investigation/"
+                },
+                {
+                    "_id": "5b6efa29421aa977247674c8",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Washington Post",
+                    "title": "Maryland places athletic staffers on leave in wake of football player\u2019s death",
+                    "ts": 1533997663,
+                    "twitterid": 1028286847066226688,
+                    "url": "https://www.washingtonpost.com/sports/colleges/maryland-places-athletic-staffers-on-leave-in-wake-of-football-players-death/2018/08/10/26012958-9ce9-11e8-843b-36e177f3081c_story.html?utm_term=.4d32cedc396e&tid=sm_tw"
+                },
+                {
+                    "_id": "5b6f407a421aa97ff52457a1",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/26/AP_18178041462831_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Ben Jealous, gubernatorial candidate, calls for Maryland to suspend Durkin, Evans",
+                    "ts": 1534016880,
+                    "twitterid": 1028367448075116550,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/11/ben-jealous-candidate-md-governor-calls-evans-durk/?cache"
+                },
+                {
+                    "_id": "5b6f163f421aa9795ad072c4",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/universityofmarylandmarchingband_082817getty.jpg",
+                    "origin": "The Hill",
+                    "title": "University of Maryland suspends athletic staff after allegations of \u2018toxic\u2019 environment",
+                    "ts": 1534003743,
+                    "twitterid": 1028312349235716096,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/401384-university-of-maryland-suspends-athletic-staff-after"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            4
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Controversial Author And Nobel Laureate",
+            "Naipaul"
+        ],
+        "peaks": [],
+        "theme": [
+            "author",
+            "Naipaul",
+            "Nobel",
+            "dies",
+            "win",
+            "prize"
+        ],
+        "timestamp": "2018-08-12 04:10:24.615029-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b6f86c6421aa9073b37c3fd",
+                    "date_month": "2018-08",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_32/2528121/180811-v-s-naipaul-ew-733p_dd6302ea89882461d62907b4a323776e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Nobel Prize-winning author V.S. Naipaul dies at 85",
+                    "ts": 1534034748,
+                    "twitterid": 1028442392859471874,
+                    "url": "https://www.nbcnews.com/news/world/nobel-prize-winning-author-v-s-naipaul-dies-85-n899931"
+                },
+                {
+                    "_id": "5b6fa2e5421aa90aae2d2f68",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/11/USAT/9e534fb8-4307-40f5-bfd1-11511c844e61-V.S._Naipaul_.jpeg?crop=597,336,x0,y146&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "V.S. Naipaul, Nobel Prize-winning author, dies at 85, family says",
+                    "ts": 1534042805,
+                    "twitterid": 1028476184722644999,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/08/11/v-s-naipaul-nobel-prize-winning-author-dies-85-family-says/969067002/"
+                },
+                {
+                    "_id": "5b6f86c6421aa9073b37c40e",
+                    "date_month": "2018-08",
+                    "image": "https://media.npr.org/assets/img/2017/01/10/gettyimages-3287264_wide-84177756f7e684f0f3e3ed39fab0ae35bc2a9459.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "V.S. Naipaul, Controversial Author And Nobel Laureate, Dies At 85",
+                    "ts": 1534032921,
+                    "twitterid": 1028434727206879233,
+                    "url": "https://www.npr.org/2018/08/11/509132512/v-s-naipaul-controversial-author-and-nobel-laureate-dies-at-85?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180811"
+                },
+                {
+                    "_id": "5b6f94d3421aa90a0a229c28",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/08/12/dcf35232-6593-4261-9ff3-b176efb8f9f3/thumbnail/1200x630/3c905c2f2046cb1af58f9bc48ba4b3de/gettyimages-51957407.jpg",
+                    "origin": "CBS News",
+                    "title": "Nobel-winning author V.S. Naipaul dead at 85",
+                    "ts": 1534037191,
+                    "twitterid": 1028452640575942656,
+                    "url": "https://www.cbsnews.com/news/vs-naipaul-dead-today-nobel-winning-author-was-85-2018-08-11/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b6f8cc404d30141aea4a984&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    }
+]

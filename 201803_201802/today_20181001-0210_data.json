@@ -1,0 +1,2466 @@
+[
+    {
+        "list": [
+            29,
+            3
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "Himself",
+            "America US",
+            "Study",
+            "School How Reading Logs Can Ruin Kids",
+            "Terry Branstad",
+            "Cute",
+            "Beijing",
+            "Hard",
+            "New Jersey",
+            "America",
+            "Books Quiet Time Brings Transcendental Meditation",
+            "Trade Conflict",
+            "Public Schools",
+            "American Warship",
+            "Dad",
+            "Central America",
+            "Palestinian",
+            "American",
+            "Father",
+            "Owner",
+            "U.S.-China",
+            "Lindsay Lohan",
+            "Jack Ma",
+            "Alibaba Business Licenses",
+            "Social Media How China Systematically Pries Technology From U.S.",
+            "U.S.",
+            "China",
+            "Israeli",
+            "South China Sea",
+            "US Navy"
+        ],
+        "peaks": [],
+        "theme": [
+            "China",
+            "parent",
+            "baby",
+            "Islands",
+            "Sails",
+            "us"
+        ],
+        "timestamp": "2018-10-01 02:10:19.901940-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb10153421aa92a2c859180",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/navydestroyerusschafee.jpg",
+                    "origin": "The Hill",
+                    "title": "US destroyer sails near islands claimed by China: report",
+                    "ts": 1538324465,
+                    "twitterid": 1046434767640637440,
+                    "url": "https://thehill.com/policy/defense/409137-us-destroyer-sails-near-islands-claimed-by-china-report"
+                },
+                {
+                    "_id": "5bb19bff421aa93b695eb89c",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-28655/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "American Warship Sails Near Disputed Islands, Challenging China",
+                    "ts": 1538363703,
+                    "twitterid": 1046599343950766080,
+                    "url": "https://www.wsj.com/articles/american-warship-sails-near-spratly-islands-challenging-china-1538290867?mod=e2tw"
+                },
+                {
+                    "_id": "5bb10f61421aa92e270a3331",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180930030525-uss-decatur-2-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "US Navy sails past contested islands in South China Sea amid U.S.-China tensions",
+                    "ts": 1538327708,
+                    "twitterid": 1046448372016730112,
+                    "url": "https://www.cnn.com/2018/09/30/politics/us-sails-south-china-sea/index.html?utm_term=image&utm_medium=social&utm_source=twCNNp&utm_content=2018-09-30T17%3A15%3A07"
+                },
+                {
+                    "_id": "5bb0c902421aa924340a3c13",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2017/05/25/0/0/694940094001_5448613711001_5448591137001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "US warship sails by contested island chain in South China Sea in message to Beijing, official says",
+                    "ts": 1538312003,
+                    "twitterid": 1046382499667070977,
+                    "url": "http://www.foxnews.com/world/2018/09/30/us-warship-sails-by-contested-island-chain-in-south-china-sea-in-message-to-beijing-official-says.html"
+                },
+                {
+                    "_id": "5bb0baf2421aa9233e1012e0",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/osrDOBGlnCuyH3mdeSJPoa21lsk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HK5RMJBG7Y4URJAIMP4VDQREYA.JPG",
+                    "origin": "Washington Post",
+                    "title": "Even after a miscarriage, I will always be my baby\u2019s father",
+                    "ts": 1538305441,
+                    "twitterid": 1046354975453052935,
+                    "url": "https://www.washingtonpost.com/news/parenting/wp/2018/09/28/even-after-a-miscarriage-i-will-always-be-my-babys-father/?utm_term=.45b24bb4e408&tid=sm_tw"
+                },
+                {
+                    "_id": "5bb0749a421aa920d21f75e2",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/US/baby-road-02x-ht-jc-180925_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Father charged with neglect after photo of baby crawling in street goes viral",
+                    "ts": 1538290525,
+                    "twitterid": 1046292412925136896,
+                    "url": "https://abcnews.go.com/US/father-charged-neglect-photo-baby-crawling-street-viral/story?id=58167675&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bb0d719421aa92519b30b5f",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/09/30/dad-charged-after-baby-found-crawling-across-new-jersey-road/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1538311057429.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Dad charged after baby found crawling across New Jersey road",
+                    "ts": 1538316000,
+                    "twitterid": 1046399265029935106,
+                    "url": "http://www.foxnews.com/us/2018/09/30/dad-charged-after-baby-found-crawling-across-new-jersey-road.html"
+                },
+                {
+                    "_id": "5bb0c902421aa924340a3c2a",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/n3Ab5rLbi9Iwfuv3uAzUQbM0_M4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DRFB2EF52MI6RASD6OXJZGLFRI.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018I need this\u2019: She lost a baby, then her sister. And now, all she wants is a job.",
+                    "ts": 1538310219,
+                    "twitterid": 1046375019327172609,
+                    "url": "https://www.washingtonpost.com/local/i-need-this-she-lost-a-baby-then-her-sister-and-now-all-she-wants-is-a-job/2018/09/29/0da1d8ca-c2d3-11e8-b338-a3289f6cb742_story.html?utm_term=.6870c9f748b1&tid=sm_tw"
+                },
+                {
+                    "_id": "5bb0f33a421aa92710d34006",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180810161651-china-ai-early-education-2-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Are AI robots the future of parenting in China?",
+                    "ts": 1538321466,
+                    "twitterid": 1046422189321449472,
+                    "url": "https://edition.cnn.com/2018/09/28/health/china-ai-early-education/index.html?utm_medium=social&utm_content=2018-09-30T15%3A31%3A05&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5bb0acd3421aa92295b8edfb",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/02/RTX37OCG/facebook.jpg?1522768612",
+                    "origin": "The Atlantic",
+                    "title": "China's Surveillance State Should Scare Everyone",
+                    "ts": 1538305208,
+                    "twitterid": 1046354000227041282,
+                    "url": "https://www.theatlantic.com/international/archive/2018/02/china-surveillance/552203/"
+                }
+            ],
+            [
+                {
+                    "_id": "5bb1a9ff421aa93c8534296c",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/cb2ucY4DaPv3M-jXD60NnNVxWko=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7PMLHH2FAQ67RI6C3RZIJRTMSE.JPG",
+                    "origin": "Washington Post",
+                    "title": "I\u2019m a mom of twins. The movie \u2018Three Identical Strangers\u2019 changed how I parent them.",
+                    "ts": 1538368360,
+                    "twitterid": 1046618876308533248,
+                    "url": "https://www.washingtonpost.com/news/parenting/wp/2018/09/26/im-a-mom-of-twins-the-movie-three-identical-strangers-changed-how-i-parent-them/?utm_term=.eec85dafea2a&tid=sm_tw"
+                },
+                {
+                    "_id": "5bb1b810421aa93fb3cb7341",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/UqLJkCq066Dq9dbM5-aIWz0uc3Q=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MCES6WYRIQYXVISAS3VJVNWPFE.JPG",
+                    "origin": "Washington Post",
+                    "title": "When I became a single parent, I lost my tribe. So I built a new one.",
+                    "ts": 1538373141,
+                    "twitterid": 1046638930538516481,
+                    "url": "https://www.washingtonpost.com/news/parenting/wp/2018/09/24/when-i-became-a-single-parent-i-lost-my-tribe-so-i-built-a-new-one/?utm_term=.d4d8a96222b3&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            34,
+            4
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "Women California",
+            "Endangered Species Act",
+            "Iraq",
+            "Afghan",
+            "DOJ",
+            "US",
+            "Right Medicine",
+            "All Costs Kavanaugh",
+            "Supreme Court Amid",
+            "Brett Kavanaugh",
+            "Judge",
+            "Michelle Obama",
+            "Supreme Court",
+            "Partisan",
+            "Stephen Breyer",
+            "Red Mass",
+            "Senseless Legal",
+            "Spotlight Team",
+            "Law Has",
+            "Maxine Waters",
+            "Clarence Thomas",
+            "American Rule",
+            "Kavanaugh Supreme Court",
+            "Jerry Brown",
+            "Kentucky",
+            "Russell Office Building",
+            "Malaysian",
+            "Trump",
+            "Enables Wrongful Convictions",
+            "Massachusetts",
+            "Secret",
+            "John Roberts",
+            "U.S.",
+            "Afridi",
+            "Texas",
+            "Australia"
+        ],
+        "peaks": [],
+        "theme": [
+            "Court",
+            "Supreme",
+            "Kavanaugh",
+            "Mass",
+            "justice",
+            "law",
+            "lying"
+        ],
+        "timestamp": "2018-10-01 02:10:21.106786-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb163ca421aa936e4d054d7",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/28/0/0/694940094001_5841637585001_5841631361001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Supreme Court kicks off term without 9th justice, as Kavanaugh vote nears",
+                    "ts": 1538350680,
+                    "twitterid": 1046544722364444672,
+                    "url": "http://www.foxnews.com/politics/2018/09/30/supreme-court-kicks-off-term-without-9th-justice-as-kavanaugh-vote-nears.html"
+                },
+                {
+                    "_id": "5bb155b6421aa935e69bbf63",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/7hPvTJ5EhXxK9lhET2s7sxRXQ9U=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KKQDS2GE2AI6RHAPF75PNVBCVI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Amid fight over Kavanaugh, annual Red Mass for Supreme Court skips the politics",
+                    "ts": 1538345520,
+                    "twitterid": 1046523081982976001,
+                    "url": "https://www.washingtonpost.com/religion/2018/09/30/amid-fight-over-kavanaugh-annual-red-mass-supreme-court-skips-politics/?utm_term=.1ea816f74207&tid=sm_tw"
+                },
+                {
+                    "_id": "5bb10f61421aa92e270a333c",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:f75c9dfb50144e5b94f4cf67b7c05e46/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "3 justices at annual Mass ahead of Supreme Court's new term",
+                    "ts": 1538327015,
+                    "twitterid": 1046445464000897024,
+                    "url": "https://www.apnews.com/5bb1693c23c747e6a03fb61cece6f3d7?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5bb11d75421aa9304f73287a",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/W7gcSNHrT_JSd7txASx1MXNKXzw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZUT2M4FTF47Y5JHUKG2O4C5WLM.jpg",
+                    "origin": "Washington Post",
+                    "title": "If we want to protect the Supreme Court\u2019s legitimacy, Kavanaugh should not be on it",
+                    "ts": 1538330636,
+                    "twitterid": 1046460654192939008,
+                    "url": "https://www.washingtonpost.com/news/opinions/wp/2018/09/29/if-we-want-to-protect-the-supreme-courts-legitimacy-kavanaugh-should-not-be-on-it/?utm_term=.255a26fe58c7&tid=sm_tw"
+                },
+                {
+                    "_id": "5bb171d6421aa93833e3c49c",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/7MJbzH4Juwnkz7PAdyHjwF_5Q04=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UQX7FTWCUQI6RMZYUMUJ63FXII.jpg",
+                    "origin": "Washington Post",
+                    "title": "Kavanaugh is lying. His upbringing explains why.",
+                    "ts": 1538354185,
+                    "twitterid": 1046559425044074496,
+                    "url": "https://www.washingtonpost.com/outlook/kavanaugh-is-lying-his-upbringing-explains-why/2018/09/27/2b596314-c270-11e8-b338-a3289f6cb742_story.html?utm_term=.2bf91ad9775e&tid=sm_tw&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bb090b4421aa921ba4d6322",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/dVywg0JHY0T_7c-kDy7jT2pq5ec=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37PACYGDNEI6RMZYUMUJ63FXII.jpg",
+                    "origin": "Washington Post",
+                    "title": "Partisan politics and Kavanaugh\u2019s defiant words put Supreme Court in unwelcome spotlight",
+                    "ts": 1538295444,
+                    "twitterid": 1046313048020054016,
+                    "url": "https://www.washingtonpost.com/politics/courts_law/partisan-politics-and-kavanaughs-defiant-words-put-supreme-court-in-unwelcome-spotlight/2018/09/29/577657e4-c375-11e8-97a5-ab1e46bb3bc7_story.html?utm_term=.52ec865ff5ee&tid=sm_tw"
+                },
+                {
+                    "_id": "5bb09ec9421aa9222b55f747",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/29/0/0/694940094001_5842168185001_5842169766001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Why is the Kavanaugh Supreme Court fight so vicious? Because government is too important",
+                    "ts": 1538301120,
+                    "twitterid": 1046336852674916352,
+                    "url": "http://www.foxnews.com/opinion/2018/09/30/why-is-kavanaugh-supreme-court-fight-so-vicious-because-government-is-too-important.html"
+                },
+                {
+                    "_id": "5bb10f61421aa92e270a3338",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/30/addition_supreme_court_red_mass_49806_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219",
+                    "origin": "The Washington Times",
+                    "title": "Jeff Sessions, Supreme Court justices John Roberts, Clarence Thomas, Stephen Breyer attend Red Mass",
+                    "ts": 1538327386,
+                    "twitterid": 1046447022872698881,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/jeff-sessions-supreme-court-justices-john-roberts-/"
+                },
+                {
+                    "_id": "5bb147af421aa934c78f3d6b",
+                    "date_month": "2018-09",
+                    "image": "https://static01.nyt.com/images/2018/09/30/us/politics/01dc-scotus/01dc-scotus-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "A Quiet Docket May Be Just the Right Medicine for the Supreme Court",
+                    "ts": 1538342939,
+                    "twitterid": 1046512253258932224,
+                    "url": "https://www.nytimes.com/2018/09/30/us/politics/supreme-court-new-term.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5bb10153421aa92a2c859168",
+                    "date_month": "2018-09",
+                    "image": "https://images.newrepublic.com/e54c8cb4ff0fabc07d2bbf11c9b45ef68497dfdc.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The American Rule of Law Has Failed Women",
+                    "ts": 1538326804,
+                    "twitterid": 1046444581385097222,
+                    "url": "https://newrepublic.com/article/151300/brett-kavanaugh-american-rule-law-failed-women"
+                }
+            ],
+            [
+                {
+                    "_id": "5bb1b810421aa93fb3cb734e",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/28/9295d255-789f-428d-806f-8070eb6cefad/thumbnail/1200x630g2/7f99de9766fa21781efa4d0dd2362579/kav2.jpg",
+                    "origin": "CBS News",
+                    "title": "Brett Kavanaugh's attack on Democrats could pose risk to Supreme Court",
+                    "ts": 1538371084,
+                    "twitterid": 1046630301684969472,
+                    "url": "https://www.cbsnews.com/news/brett-kavanaugh-attack-on-democrats-poses-risk-to-supreme-court/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bb1ae0904d3015eab9cbf9a&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            59,
+            1
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "Kavanaugh Confirmation Flake",
+            "Biden",
+            "Interview",
+            "Bernie Sanders",
+            "Congress",
+            "Jeff Flake",
+            "Brett Kavanaugh",
+            "Christine Blasey Ford",
+            "FBI",
+            "Deborah Ramirez",
+            "Supreme Court",
+            "Kavanaugh Probe Reignites Tensions",
+            "Midterms",
+            "Kavanaugh",
+            "FBI Comey",
+            "Yale",
+            "Clinton",
+            "Graham",
+            "Kavanaugh White House",
+            "FBI Should Investigate Dems",
+            "West Virginia",
+            "Latest",
+            "White House",
+            "Sarah Sanders",
+            "Comey",
+            "Kavanaugh Fight",
+            "Senate",
+            "Trump",
+            "GOP",
+            "Feinstein",
+            "Democrats Kavanaugh",
+            "Pelosi",
+            "Grassley"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "FBI",
+            "investigate",
+            "accuser",
+            "House",
+            "says",
+            "White"
+        ],
+        "timestamp": "2018-10-01 02:10:22.022143-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb0e527421aa926093094f9",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/44/fe/f5215d6343a7887c6fd5824a3f28/180930-sanders-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "White House not \u2018micromanaging\u2019 FBI, Sarah Sanders says",
+                    "ts": 1538316025,
+                    "twitterid": 1046399367920463872,
+                    "url": "https://www.politico.com/story/2018/09/30/white-house-not-micromanaging-fbi-press-sec-says-853934"
+                },
+                {
+                    "_id": "5bb0e527421aa926093094ee",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2015/08/21/f91837778256be257f0f6a7067000360_s2048x1460.jpg?7bf38d5108f590bbf61af377f3ff784a88000849",
+                    "origin": "The Washington Times",
+                    "title": "House could investigate Brett Kavanaugh even if confirmed, Rep. Jerrold Nadler says",
+                    "ts": 1538317117,
+                    "twitterid": 1046403947571892224,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/house-could-investigate-brett-kavanaugh-even-if-co/"
+                },
+                {
+                    "_id": "5bb147af421aa934c78f3d6c",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_joy_FBIandkavanaugh_180930_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "White House Denies Limiting FBI",
+                    "ts": 1538342703,
+                    "twitterid": 1046511264107810817,
+                    "url": "https://www.msnbc.com/am-joy/watch/white-house-denies-limiting-fbi-1333271107864?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bb0749a421aa920d21f75e4",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/26/0/0/694940094001_5840462441001_5840463984001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "White House limits FBI's Kavanaugh inquiry to 2 of 3 accusers: report",
+                    "ts": 1538290320,
+                    "twitterid": 1046291553856024576,
+                    "url": "http://www.foxnews.com/politics/2018/09/29/wh-instructs-fbi-to-question-first-2-kavanaugh-accusers-but-not-3rd-report.html"
+                },
+                {
+                    "_id": "5bb12b81421aa931bdaa767e",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-28672/social",
+                    "origin": "Capital Journal",
+                    "title": "White House Questioned on Its Role in Kavanaugh FBI Probe",
+                    "ts": 1538336173,
+                    "twitterid": 1046483875462098944,
+                    "url": "https://www.wsj.com/articles/white-house-questioned-on-its-role-in-kavanaugh-fbi-probe-1538327753?mod=e2twp"
+                },
+                {
+                    "_id": "5bb155b6421aa935e69bbf40",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/feinsteindianne_092718pool_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Feinstein calls on White House, FBI to release scope of Kavanaugh investigation",
+                    "ts": 1538348225,
+                    "twitterid": 1046534426216353792,
+                    "url": "https://thehill.com/homenews/senate/409168-feinstein-requests-written-directive-sent-by-white-house-to-fbi-for-kavanaugh"
+                },
+                {
+                    "_id": "5bb10153421aa92a2c859196",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/29/USAT/2971e723-c4ce-4ba8-9599-6fc32096b73b-front_kavanaugh.JPG?crop=5999,3374,x1,y626&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "White House is not involved with FBI investigation into Kavanaugh allegations, officials say",
+                    "ts": 1538323241,
+                    "twitterid": 1046429633804210178,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/09/30/brett-kavanaugh-allegations-fbi-investigation/1473687002/"
+                },
+                {
+                    "_id": "5bb0749a421aa920d21f75e8",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/fbi_building_050917getty_lead_0.jpg",
+                    "origin": "The Hill",
+                    "title": "White House limiting scope of FBI investigation: report",
+                    "ts": 1538289663,
+                    "twitterid": 1046288799108661248,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/409100-white-house-limiting-scope-of-fbi-investigation"
+                },
+                {
+                    "_id": "5bb0e527421aa926093094d4",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:1b64a1be0bac4c2c928f24dfc4bdf4c9/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "The Latest: White House not 'micromanaging' Kavanaugh probe",
+                    "ts": 1538318905,
+                    "twitterid": 1046411449655087104,
+                    "url": "https://www.apnews.com/8d75b9fa97114ef28b9fbd96bf7d9f0e?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5bb0baf2421aa9233e1012ba",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/29/0/0/694940094001_5842180131001_5842186525001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "FBI contacts 2nd Kavanaugh accuser; Trump says extra scrutiny may be 'blessing in disguise'",
+                    "ts": 1538308801,
+                    "twitterid": 1046369070713462786,
+                    "url": "http://www.foxnews.com/politics/2018/09/29/fbi-contacts-2nd-kavanaugh-accuser-trump-says-extra-scrutiny-may-be-blessing-in-disguise.html"
+                }
+            ],
+            []
+        ]
+    },
+    {
+        "list": [
+            13,
+            1
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "United States",
+            "Mexico",
+            "NAFTA",
+            "U.S.",
+            "Canadian",
+            "NAFTA U.S.",
+            "Mexico US",
+            "Canada",
+            "Congress U.S.",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Canada",
+            "deal",
+            "NAFTA",
+            "reach",
+            "trade",
+            "us"
+        ],
+        "timestamp": "2018-10-01 02:10:22.295432-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb19bff421aa93b695eb8a1",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/trump_trudeau_g7_06082018.jpg",
+                    "origin": "The Hill",
+                    "title": "US, Canada reach NAFTA deal",
+                    "ts": 1538363165,
+                    "twitterid": 1046597089965281280,
+                    "url": "https://thehill.com/policy/finance/409182-us-canada-reach-nafta-deal-report"
+                },
+                {
+                    "_id": "5bb18ded421aa93a49453f6b",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/trump_trudeau_g7_06082018.jpg",
+                    "origin": "The Hill",
+                    "title": "US, Canada reach NAFTA deal: reports",
+                    "ts": 1538362203,
+                    "twitterid": 1046593055330119680,
+                    "url": "https://thehill.com/policy/finance/409182-us-canada-reach-nafta-deal-report"
+                },
+                {
+                    "_id": "5bb19bff421aa93b695eb897",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:2449072b6739498c92f60ca681a3930f/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Canada-US reach free trade deal with Mexico",
+                    "ts": 1538364400,
+                    "twitterid": 1046602268366245889,
+                    "url": "https://www.apnews.com/bdbf74a7e44b4d269b1130f7e7405016/Official-says-basis-of-Canada-US-deal-has-been-reached?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5bb19bff421aa93b695eb8a2",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/01/BostonGlobe.com/Business/Images/ryan_Trudeau4_biz.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "United States, Canada reach trade deal with hours to spare",
+                    "ts": 1538363124,
+                    "twitterid": 1046596918426701824,
+                    "url": "https://www.bostonglobe.com/business/2018/09/30/united-states-canada-reach-trade-deal-with-hours-spare/3U0xR0V3m3JEOg99x97rfL/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bb18ded421aa93a49453f6f",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/a3/22/617c614c477597666f36a3a3f15b/180930-trump-trudeau-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "U.S. reaches NAFTA deal with Canada, providing Trump crucial trade win",
+                    "ts": 1538361816,
+                    "twitterid": 1046591432721682432,
+                    "url": "https://www.politico.com/story/2018/09/30/nafta-trade-canada-819081"
+                },
+                {
+                    "_id": "5bb18ded421aa93a49453f67",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/20/trump_us_trade_canada_34693_s2048x1436.jpg?4ee6a3dbd1e2cb27317160e10ed72b9e3a7bbb37",
+                    "origin": "The Washington Times",
+                    "title": "Canada reaches trade deal with U.S.",
+                    "ts": 1538362771,
+                    "twitterid": 1046595434754568192,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/canada-reaches-trade-deal-us/"
+                },
+                {
+                    "_id": "5bb17fde421aa93951fa9d08",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Washington Post",
+                    "title": "Canada agrees to join trade accord with U.S. and Mexico, sending new NAFTA deal to Congress",
+                    "ts": 1538359128,
+                    "twitterid": 1046580156301750273,
+                    "url": "https://www.washingtonpost.com/news/business/wp/2018/09/30/canada-agrees-to-join-trade-accord-with-u-s-and-mexico-sending-new-nafta-deal-to-congress/"
+                },
+                {
+                    "_id": "5bb19bff421aa93b695eb883",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/16/PDTF/2b7c5f75-511e-4d4a-9298-00c9503a0a82-Nafta_flags.jpg?crop=1999,1124,x1,y224&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Canada agrees to join U.S. and Mexico in new trade deal to replace NAFTA, say US and Canadian officials",
+                    "ts": 1538365860,
+                    "twitterid": 1046608393031561221,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/09/30/nafta-canada-agrees-join-u-s-mexico-new-trade-agreement/1453244002/"
+                },
+                {
+                    "_id": "5bb17fde421aa93951fa9d11",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/_pzQczrCe5c3wCBBqUUAsFk4CYk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OGGFGUWFCYI6RGY4VEHR3KXDBE.jpg",
+                    "origin": "Washington Post",
+                    "title": "U.S. and Canada agree to new NAFTA deal ahead of deadline",
+                    "ts": 1538358097,
+                    "twitterid": 1046575832007880705,
+                    "url": "https://www.washingtonpost.com/business/economy/us-and-canada-closing-in-on-a-new-nafta-deal-as-deadline-looms/2018/09/30/2ef72018-c50b-11e8-b1ed-1d2d65b86d0c_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5bb19bff421aa93b695eb8a4",
+                    "date_month": "2018-09",
+                    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/nafta-flags.jpg?ve=1&tl=1",
+                    "origin": "Fox News",
+                    "title": "Canada, U.S. confirm new deal with Mexico updating NAFTA",
+                    "ts": 1538363007,
+                    "twitterid": 1046596427911221248,
+                    "url": "https://www.foxbusiness.com/politics/us-canada-likely-to-conclude-nafta-talks-this-weekend-report"
+                }
+            ],
+            [
+                {
+                    "_id": "5bb1a9ff421aa93c85342974",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/01/f8fd7848-458e-4a47-a0c7-0ea3561562ca/thumbnail/1200x630/f3ae7fc00abcd1614f061f4ea5c6e7d5/rts23j5i.jpg",
+                    "origin": "CBS News",
+                    "title": "U.S., Canada reach 11th-hour deal saving, renaming NAFTA, 3-way pact with Mexico",
+                    "ts": 1538367845,
+                    "twitterid": 1046616719941423104,
+                    "url": "https://www.cbsnews.com/news/united-states-canada-mexico-reach-deal-usmca-agreement-today-2018-10-01/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bb1a16204d30129a847d055&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            53
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Susan Collins",
+            "House Dems",
+            "Senator Flake",
+            "Rosenstein",
+            "Medicaid",
+            "Left",
+            "Matt Bevin Discusses Campaign Strategy",
+            "Lawmakers Over",
+            "Cruz",
+            "Politico Playbook Rod Rosenstein",
+            "DC Janelle Monae",
+            "Kavanaugh Hearing Flake",
+            "Liberty",
+            "Brett Kavanaugh",
+            "Democrats",
+            "Email Trump",
+            "Levin",
+            "Bannon",
+            "Duncan Hunter",
+            "Partisan",
+            "Republican Party",
+            "Huckabee Sanders",
+            "Rosenstein Elizabeth Warren",
+            "Kentucky DC",
+            "Texas Senate",
+            "Pelosi Calls",
+            "Rossell\u00f3",
+            "Global Citizen Festival",
+            "Gillum",
+            "Boston",
+            "Election Challenge",
+            "Trump",
+            "Christmas",
+            "Grinch",
+            "GOP",
+            "Campaign",
+            "Muslim",
+            "House",
+            "Elizabeth Warren",
+            "Beto",
+            "Sanders",
+            "White House",
+            "Willie Nelson"
+        ],
+        "peaks": [],
+        "theme": [
+            "midterms",
+            "Kavanaugh",
+            "House",
+            "Rosenstein",
+            "run",
+            "Trump",
+            "Warren"
+        ],
+        "timestamp": "2018-10-01 02:10:23.358023-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb10153421aa92a2c859166",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_30/2511871/180727-elizabeth-warren-town-hall-ew-225p_a930134a0e356a291eb0e85e60402fa9.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Elizabeth Warren says she'll seriously consider White House run",
+                    "ts": 1538326806,
+                    "twitterid": 1046444588205068288,
+                    "url": "https://www.nbcnews.com/news/us-news/elizabeth-warren-says-she-ll-seriously-consider-white-house-run-n915121?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bb10153421aa92a2c859184",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180904132539-elizabeth-warren-0904-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Warren says she'll think about presidential run after the midterms",
+                    "ts": 1538324343,
+                    "twitterid": 1046434259349712897,
+                    "url": "https://www.cnn.com/2018/09/29/politics/warren-2020-presidential-run-midterms/index.html?utm_term=image&utm_source=twCNNp&utm_content=2018-09-30T16%3A19%3A02&utm_medium=social"
+                },
+                {
+                    "_id": "5bb155b6421aa935e69bbf49",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/30/0/0/694940094001_5842505897001_5842500758001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump's tax returns will be target of Democrats' probe if they win House in midterms",
+                    "ts": 1538347500,
+                    "twitterid": 1046531384905543682,
+                    "url": "http://www.foxnews.com/politics/2018/09/30/trumps-tax-returns-will-be-target-democrats-probe-if-win-house-in-midterms.html"
+                },
+                {
+                    "_id": "5bb10f61421aa92e270a333d",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/02/rod_rosenstein_speech_19651_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Rod Rosenstein-Trump meeting could be delayed again amid Brett Kavanaugh chaos",
+                    "ts": 1538326998,
+                    "twitterid": 1046445395298177024,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/rod-rosenstein-trump-meeting-could-be-delayed-agai/"
+                },
+                {
+                    "_id": "5bb155b6421aa935e69bbf62",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/28/Supreme_Court_Kavanaugh_96813.jpg-63da6_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Elizabeth Warren to take \u201chard look\u201d at presidential run",
+                    "ts": 1538345563,
+                    "twitterid": 1046523262086336513,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/elizabeth-warren-take-hard-look-presidential-run/"
+                },
+                {
+                    "_id": "5bb0c902421aa924340a3c22",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/Politics/rod-rosenstein-ap-hb-180725_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Rosenstein agrees to meet with House Republicans next week",
+                    "ts": 1538310656,
+                    "twitterid": 1046376849855709186,
+                    "url": "https://abcnews.go.com/Politics/rosenstein-agrees-meet-house-republicans-week/story?id=58161223&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bb0acd3421aa92295b8ee02",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/warrenelizabeth_092718am_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Warren: I will consider running for president after the midterms",
+                    "ts": 1538304061,
+                    "twitterid": 1046349188479561730,
+                    "url": "https://thehill.com/homenews/campaign/409095-warren-i-will-consider-running-for-president-after-the-midterms"
+                },
+                {
+                    "_id": "5bb0f33a421aa92710d3400a",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/watersmaxine_062718am_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Maxine Waters: Trump will face bipartisan \u2018wrath\u2019 if he fires Rosenstein",
+                    "ts": 1538321343,
+                    "twitterid": 1046421676286775296,
+                    "url": "https://thehill.com/homenews/house/409133-maxine-waters-trump-will-face-bipartisan-wrath-if-he-fires-rosenstein"
+                },
+                {
+                    "_id": "5bb0baf2421aa9233e1012d3",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/senatejudiciary_040317gn3_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "The Memo: GOP risks disaster with Kavanaugh, midterms",
+                    "ts": 1538306704,
+                    "twitterid": 1046360272632451072,
+                    "url": "https://thehill.com/homenews/administration/409074-the-memo-gop-risks-disaster-with-kavanaugh-midterms"
+                },
+                {
+                    "_id": "5bb163ca421aa936e4d054c3",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/9f/7a/8fb1b3f14f0c9be61272a818937a/180928-sarah-sanders-getty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "White House press briefings fade amid Kavanaugh crisis",
+                    "ts": 1538352009,
+                    "twitterid": 1046550295956918272,
+                    "url": "https://www.politico.com/story/2018/09/28/white-house-press-briefings-kavanaugh-852144"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            39
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Prayer",
+            "Democratic Socialist",
+            "South Carolina Shark",
+            "Allentown",
+            "Gage Wilson",
+            "Florida McDonald",
+            "Encinitas",
+            "FBI",
+            "Columbine Surveillance",
+            "New Jersey",
+            "New Hampshire Former Massachusetts",
+            "July Altgeld Gardens",
+            "Track Palin",
+            "Find Vegas Shooter",
+            "Arizona",
+            "Chicago",
+            "Mississippi",
+            "Kentucky",
+            "Person",
+            "Pennsylvania",
+            "Micronesia",
+            "Sarah Palin",
+            "California",
+            "Beto",
+            "Experts Dig Deeper"
+        ],
+        "peaks": [],
+        "theme": [
+            "killed",
+            "shooting",
+            "Car",
+            "says",
+            "explosion",
+            "Pennsylvania",
+            "dead"
+        ],
+        "timestamp": "2018-10-01 02:10:23.882165-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb17fde421aa93951fa9d18",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/30/a00f9315-1b3c-43ca-8712-2e962dedf07b/thumbnail/1200x630/11b9456a61e1f01591e0baf15c4b10a6/tw.jpg",
+                    "origin": "CBS News",
+                    "title": "Car explodes in Allentown, Pennsylvania; 3 dead, coroner says",
+                    "ts": 1538357401,
+                    "twitterid": 1046572911472115712,
+                    "url": "https://www.cbsnews.com/news/allentown-pennsylvania-deadly-car-explosion-criminal-incident-today-live-updates-2018-09-30/?ftag=CNM-00-10aab7e&linkId=57566081"
+                },
+                {
+                    "_id": "5bb1398f421aa932dca99c9f",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/30/0/0/694940094001_5842386997001_5842385055001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Three men killed in Pennsylvania car explosion, officials say",
+                    "ts": 1538341112,
+                    "twitterid": 1046504589955125249,
+                    "url": "http://www.foxnews.com/us/2018/09/30/three-men-killed-in-pennsylvania-car-explosion-officials-say.html"
+                },
+                {
+                    "_id": "5bb1398f421aa932dca99cb7",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/30/Car_Explosion_Pennsylvania_99435.jpg-95849_s2048x1565.jpg?885f7179d8f15948d529e16696fbba33c7002dfa",
+                    "origin": "The Washington Times",
+                    "title": "Car explosion in Allentown, Pennsylvania kills 3",
+                    "ts": 1538339352,
+                    "twitterid": 1046497210932875267,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/car-explosion-allentown-pennsylvania-kills-3/"
+                },
+                {
+                    "_id": "5bb0e527421aa926093094d7",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/US/allentown-explosion-abc-mo-20180930_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "1 dead after car explodes in suburban Pennsylvania neighborhood",
+                    "ts": 1538318711,
+                    "twitterid": 1046410635121242112,
+                    "url": "https://abcnews.go.com/US/dead-car-explodes-suburban-pennsylvania-neighborhood/story?id=58184094&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bb10f61421aa92e270a331e",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_39/2583596/180930-allentown-car-explosion-al-1302_5d64829831238a6c0f6eeda9915accc0.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Pennsylvania car explosion kills one, prompting FBI investigation",
+                    "ts": 1538329326,
+                    "twitterid": 1046455156735438849,
+                    "url": "https://www.nbcnews.com/news/us-news/pennsylvania-car-explosion-kills-one-prompting-fbi-investigation-n915176?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bb1398f421aa932dca99ca8",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_39/2583596/180930-allentown-car-explosion-al-1302_5d64829831238a6c0f6eeda9915accc0.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Pennsylvania car explosion kills three, prompting FBI investigation",
+                    "ts": 1538340218,
+                    "twitterid": 1046500842180931584,
+                    "url": "https://www.nbcnews.com/news/us-news/pennsylvania-car-explosion-kills-one-prompting-fbi-investigation-n915176?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bb0f33a421aa92710d33ffb",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/30/0/0/694940094001_5842386997001_5842385055001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Allentown, Pennsylvania, vehicle explosion leaves at least 1 dead, officials say",
+                    "ts": 1538322900,
+                    "twitterid": 1046428204708200450,
+                    "url": "http://www.foxnews.com/us/2018/09/30/allentown-pennsylvania-vehicle-explosion-leaves-at-least-1-dead-officials-say.html"
+                },
+                {
+                    "_id": "5bb1398f421aa932dca99ca7",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:d60430d69d1746b4a329f4d6126c2179/800.jpeg",
+                    "origin": "AP South U.S. Region",
+                    "title": "Prayer vigil for 2 Mississippi officers killed in shooting",
+                    "ts": 1538340235,
+                    "twitterid": 1046500913551224832,
+                    "url": "https://apnews.com/1fe94ee831c74bddb526bca6676720d1?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=APSouthRegion"
+                },
+                {
+                    "_id": "5bb0baf2421aa9233e1012c8",
+                    "date_month": "2018-09",
+                    "image": "https://c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/images/logo-bg.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Person killed in officer-involved shooting in New Hampshire",
+                    "ts": 1538307564,
+                    "twitterid": 1046363881734635520,
+                    "url": "https://www.bostonglobe.com/metro/2018/09/29/person-killed-officer-involved-shooting-new-hampshire/VaHqzP0oAbQgKKznv3fpeO/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bb147af421aa934c78f3d7c",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/US/WireAP_d60430d69d1746b4a329f4d6126c2179_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Mississippi city mourns 2 police officers killed in shooting",
+                    "ts": 1538341489,
+                    "twitterid": 1046506173220831232,
+                    "url": "https://abcnews.go.com/US/wireStory/prayer-vigil-mississippi-officers-killed-shooting-58188977?cid=social_twitter_abcn"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            76,
+            2
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "Insight",
+            "Camille",
+            "London",
+            "Portugal",
+            "Banana Trick",
+            "Curbed Inequality",
+            "Yep",
+            "Fewer Women",
+            "Brains Enjoy Fear",
+            "Anthony Bourdain",
+            "That",
+            "Blind",
+            "Study Philosophy",
+            "American Colleges",
+            "Morality Mix",
+            "Hilton",
+            "Gassy",
+            "Hurricane Damage",
+            "Only Thing",
+            "Victoria Beckham",
+            "Instant Pot",
+            "Workplace Trader Joe",
+            "Narcan",
+            "Newton",
+            "Didn",
+            "Dark Psychology",
+            "View",
+            "HIV",
+            "Paris",
+            "Corporate Tax Breaks Flu",
+            "Missoni",
+            "Argentines",
+            "Arctic",
+            "Accord",
+            "Origin",
+            "Hotel",
+            "Historically",
+            "Bill Cosby",
+            "Chicago",
+            "Puerto Rico",
+            "Equifax",
+            "Boston",
+            "Acura",
+            "Honda",
+            "Don",
+            "Black Workers Really Do",
+            "City",
+            "Trump",
+            "Seoul",
+            "Evidence Facebook",
+            "STEM Cadillac",
+            "Society Does Steve Bannon",
+            "U.S.",
+            "Indian Cooks",
+            "Computation Meet",
+            "Disney",
+            "Comedian Demi Lovato",
+            "European",
+            "Peculiar Poetry"
+        ],
+        "peaks": [],
+        "theme": [
+            "breach",
+            "Facebook",
+            "food",
+            "make",
+            "may",
+            "need",
+            "new"
+        ],
+        "timestamp": "2018-10-01 02:10:25.795221-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb0baf2421aa9233e1012d1",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/UucDB4yBk0GRjaBsLITt94Ir9aY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XUQGPVA5PM2GNBPPCK4FY2RIQU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Meet your new sous-chef: The food processor",
+                    "ts": 1538306970,
+                    "twitterid": 1046361391433756672,
+                    "url": "https://www.washingtonpost.com/news/voraciously/wp/2018/09/24/meet-your-new-sous-chef-the-food-processor/?utm_term=.26c9c50db187&tid=sm_tw"
+                },
+                {
+                    "_id": "5bb17fde421aa93951fa9d17",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/65/15/1a45c9144b01908a4a212b5a0a09/180928-mark-zuckerberg-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Facebook reveals breach of nearly 50M users' information",
+                    "ts": 1538357410,
+                    "twitterid": 1046572951519330304,
+                    "url": "https://www.politico.com/story/2018/09/28/facebook-says-security-vulnerability-exposed-50m-users-data-852126"
+                },
+                {
+                    "_id": "5bb0acd3421aa92295b8edff",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/09/USAT/252307f1-8a55-424b-ada0-62e235366d5f-AP_Facebook_App_Banned.JPG?crop=4061,2299,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Facebook's 50 million account breach is already its biggest ever -- and may get even worse",
+                    "ts": 1538304303,
+                    "twitterid": 1046350203702456320,
+                    "url": "https://www.usatoday.com/story/tech/2018/09/28/facebook-says-50-million-user-accounts-were-breached/1455988002/"
+                },
+                {
+                    "_id": "5bb163ca421aa936e4d054d5",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/20/USAT/0263d07c-dd24-4ecc-ad30-e3bee75ba585-GettyImages-635671076.jpg?crop=2030,1142,x0,y63&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Freezing your credit is free in all states under a new law following the Equifax breach:",
+                    "ts": 1538350802,
+                    "twitterid": 1046545234644152321,
+                    "url": "https://www.usatoday.com/story/money/2018/09/21/equifax-free-credit-freeze-new-law/1377815002/"
+                },
+                {
+                    "_id": "5bb11d75421aa9304f732869",
+                    "date_month": "2018-09",
+                    "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--78kkrk4L--/b_white,c_fill,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1537458696363/shoesonaledge.png",
+                    "origin": "USA TODAY",
+                    "title": "How to make your shoes smell better",
+                    "ts": 1538332206,
+                    "twitterid": 1046467237027237890,
+                    "url": "https://www.reviewed.com/laundry/features/how-to-make-your-shoes-smell-better"
+                },
+                {
+                    "_id": "5bb0e527421aa926093094e5",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/04/AP_10072815495/facebook.jpg?1523383447",
+                    "origin": "The Atlantic",
+                    "title": "Why Do Puns Make People Groan?",
+                    "ts": 1538317810,
+                    "twitterid": 1046406854631452674,
+                    "url": "https://www.theatlantic.com/technology/archive/2015/07/why-do-puns-make-people-groan/398252/"
+                },
+                {
+                    "_id": "5bb147af421aa934c78f3d6a",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2015/10/RTR3G1E6/facebook.jpg?1522838611",
+                    "origin": "The Atlantic",
+                    "title": "Black Workers Really Do Need to Be Twice as Good",
+                    "ts": 1538343009,
+                    "twitterid": 1046512547283836929,
+                    "url": "https://www.theatlantic.com/business/archive/2015/10/why-black-workers-really-do-need-to-be-twice-as-good/409276/"
+                },
+                {
+                    "_id": "5bb147af421aa934c78f3d70",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_39/2582131/180928-differing-personality-mc-1541_82da49880ddb600e0b7d668fd1ab953b.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Why do we need personality tests to tell us who we are?",
+                    "ts": 1538342164,
+                    "twitterid": 1046509003134709761,
+                    "url": "https://www.nbcnews.com/better/pop-culture/why-do-we-need-personality-tests-tell-us-who-we-ncna914371?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bb090b4421aa921ba4d6314",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/4Bw43kyGD0YcSkqbE2_pLVAe01I=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CALXO7GD6UI6RIPQUQCRW2WRCQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Argentines sacrifice vacations, Internet and even food as economic crisis intensifies",
+                    "ts": 1538297030,
+                    "twitterid": 1046319697787064320,
+                    "url": "https://www.washingtonpost.com/world/the_americas/argentines-sacrifice-vacations-internet-and-even-food-as-economic-crisis-intensifies/2018/09/27/2fc10082-c01e-11e8-9f4f-a1b7af255aa5_story.html?utm_term=.3be650778fb6&tid=sm_tw&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bb090b4421aa921ba4d6326",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2015/08/31/5aa940af-fe8b-4d70-9e80-deda6e8283a2/thumbnail/1200x630/dd2e29914eb77a92b419bdc9092d3ed8/childfastfoodhamburger438873640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "U.S. kids eating more fast food, healthier offerings not helping",
+                    "ts": 1538294583,
+                    "twitterid": 1046309436376199168,
+                    "url": "https://www.cbsnews.com/news/kids-eating-more-fast-food-healthier-offerings-not-helping/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bb083354b73850001083c38&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ],
+            []
+        ]
+    },
+    {
+        "list": [
+            49,
+            8
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "Gar\u00e7ons",
+            "Orson Welles",
+            "David Hume",
+            "Blue Grass",
+            "Maryland",
+            "Close",
+            "Brad Falchuk",
+            "Taylor Swift",
+            "SNL",
+            "Brazil",
+            "McCarrick",
+            "Christian Rock",
+            "Highly Successful",
+            "Jane Fonda",
+            "Asleep",
+            "Ariana Grande Catholic",
+            "Mattis",
+            "Facebook",
+            "Adopted Black Baby",
+            "Watch For This",
+            "Oxford Book",
+            "Stormy",
+            "Clinton",
+            "Denmark",
+            "Indian Village Turns Rain Into Perfume Jim Gaffigan",
+            "Halloween",
+            "New American Gospel",
+            "Bolsonaro Cedric",
+            "Trump Hedi Slimane",
+            "White One Who",
+            "Barbra Streisand Blasts",
+            "Brett Kavanaugh Hearings Rod Dreher",
+            "Die Motivation",
+            "Celine",
+            "Elie Wiesel",
+            "Pete Davidson",
+            "Earth",
+            "Public Radio Ca",
+            "Shadow",
+            "U.S. Takes",
+            "Blake Lively",
+            "British",
+            "Century",
+            "Tragic Lessons",
+            "McDonald",
+            "Headstones",
+            "Song Off",
+            "Struggle",
+            "Black Sisterhood",
+            "Unlikely Endurance",
+            "Gilda",
+            "Pennsylvania",
+            "Gwyneth Paltrow",
+            "Monastic Vision Carving Thousands",
+            "Favorite Money Haven",
+            "Comme",
+            "Jason Isbell",
+            "Dem Senate",
+            "Album Review",
+            "Cinema",
+            "Swedish",
+            "Russia"
+        ],
+        "peaks": [],
+        "theme": [
+            "says",
+            "Catholic",
+            "Gay",
+            "Man",
+            "new",
+            "One",
+            "Trump"
+        ],
+        "timestamp": "2018-10-01 02:10:27.658925-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb10153421aa92a2c85918a",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/US/keith-kozak-fired-wews-mo-20180930_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Catholic minister says he was fired over Facebook post about friends' gay marriage",
+                    "ts": 1538323861,
+                    "twitterid": 1046432236621434880,
+                    "url": "https://abcnews.go.com/US/catholic-minister-fired-facebook-post-friends-gay-marriage/story?id=58183269&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bb0acd3421aa92295b8ee0c",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/isbell_jason.jpg",
+                    "origin": "The Hill",
+                    "title": "Jason Isbell talks support for Dem Senate candidate, says 'Jesus would not have voted' for Trump",
+                    "ts": 1538302863,
+                    "twitterid": 1046344162419888132,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/409092-jason-isbell-talks-support-for-dem-senate-candidate-says-jesus"
+                },
+                {
+                    "_id": "5bb10153421aa92a2c859197",
+                    "date_month": "2018-09",
+                    "image": "https://images.newrepublic.com/28c3c6b05056ed87221bc4bc89c4c1c2d705c46d.png?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The Struggle for a New American Gospel",
+                    "ts": 1538323217,
+                    "twitterid": 1046429536236253189,
+                    "url": "https://newrepublic.com/article/151102/struggle-new-american-gospel-liberal-evangelical-search-god-trumps-america"
+                },
+                {
+                    "_id": "5bb11d75421aa9304f732870",
+                    "date_month": "2018-09",
+                    "image": "https://static01.nyt.com/images/2017/12/31/us/31most-adoption/31most-adoption-facebookJumbo-v3.jpg",
+                    "origin": "NYT National News",
+                    "title": "The Adopted Black Baby, and the White One Who Replaced Her",
+                    "ts": 1538331842,
+                    "twitterid": 1046465712301264896,
+                    "url": "https://www.nytimes.com/2017/12/07/us/the-adopted-black-baby-and-the-white-one-who-replaced-her.html"
+                },
+                {
+                    "_id": "5bb10f61421aa92e270a332e",
+                    "date_month": "2018-09",
+                    "image": "https://media.newyorker.com/photos/5baea50aa51c1f2c4f834600/16:9/w_1200,h_630,c_limit/Viti-SnackChoices-Social.jpg",
+                    "origin": "The New Yorker",
+                    "title": "What Your Snack Choice Says About You",
+                    "ts": 1538328062,
+                    "twitterid": 1046449854334078976,
+                    "url": "https://www.newyorker.com/humor/daily-shouts/what-your-snack-choice-says-about-you?mbid=social_twitter"
+                },
+                {
+                    "_id": "5bb0e527421aa926093094ed",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/29/28179494-2f9d-4cf8-80ee-9115d4b3ca84/thumbnail/1200x630/f658944717756d1361eb61c6fad0db8a/gettyimages-471914370.jpg",
+                    "origin": "CBS News",
+                    "title": "Catholic institute accused of failing to act on McCarrick allegations",
+                    "ts": 1538317180,
+                    "twitterid": 1046404214480621568,
+                    "url": "https://www.cbsnews.com/news/pontifical-north-american-college-theodore-mccarrick-allegations/?ftag=CNM-00-10aab7e&linkId=57551179"
+                },
+                {
+                    "_id": "5bb082a6421aa92158e12e79",
+                    "date_month": "2018-09",
+                    "image": "https://media.newyorker.com/photos/59097e252179605b11ad942d/16:9/w_1200,h_630,c_limit/Wenger-Cinemas-First-Gay-Love-Story-New.jpg",
+                    "origin": "The New Yorker",
+                    "title": "The Tragic Lessons of Cinema\u2019s First Gay Love Story",
+                    "ts": 1538292536,
+                    "twitterid": 1046300850807877632,
+                    "url": "https://www.newyorker.com/culture/cultural-comment/the-tragic-lessons-of-cinemas-first-gay-love-story?mbid=social_twitter"
+                },
+                {
+                    "_id": "5bb1398f421aa932dca99ca2",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/travel/2018/09/30/heroic-tsa-agent-saves-man-having-heart-attack-at-airport/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1538338431133.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "'Heroic' TSA agent saves man having heart attack at airport",
+                    "ts": 1538340660,
+                    "twitterid": 1046502695379456000,
+                    "url": "http://www.foxnews.com/travel/2018/09/30/heroic-tsa-agent-saves-man-having-heart-attack-at-airport.html"
+                },
+                {
+                    "_id": "5bb163ca421aa936e4d054ec",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_39/2580161/180926-penguin-homosexual-ac-832p_2e651bb9c055b207ff3427fb030e3f5a.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Gay penguins 'kidnap' chick from straight parents at Denmark zoo",
+                    "ts": 1538348463,
+                    "twitterid": 1046535424993382400,
+                    "url": "https://www.nbcnews.com/feature/nbc-out/gay-penguins-kidnap-chick-straight-parents-denmark-zoo-n913611?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bb12b81421aa931bdaa7673",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/Nb3TPWYuSG-eIsOQkR1h8lV2AjY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7DGWN3U5WYI6RDK6Y3CZIASJKQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Motivation or abuse? Maryland confronts football\u2019s fine line as new allegations emerge",
+                    "ts": 1538337241,
+                    "twitterid": 1046488357004546049,
+                    "url": "https://www.washingtonpost.com/sports/colleges/motivation-or-abuse-maryland-confronts-footballs-fine-line-as-new-allegations-emerge/2018/09/30/e7ab028e-c3dd-11e8-b338-a3289f6cb742_story.html?utm_term=.3c9653fe64b1&tid=sm_tw&__twitter_impression=true"
+                }
+            ],
+            [
+                {
+                    "_id": "5bb1a9ff421aa93c8534297f",
+                    "date_month": "2018-10",
+                    "image": "http://media2.foxnews.com/BrightCove/694940094001/2018/05/17/694940094001_5786307238001_5786307359001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "'Last Man Standing' star Tim Allen says it's 'nobody's business' what he thinks about politics",
+                    "ts": 1538366460,
+                    "twitterid": 1046610908573655040,
+                    "url": "https://www.foxnews.com/entertainment/2018/09/28/last-man-standing-star-tim-allen-says-its-nobodys-business-what-thinks-about-politics.html"
+                },
+                {
+                    "_id": "5bb1b810421aa93fb3cb7348",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/06/unspecified_1/facebook.jpg?1522792819",
+                    "origin": "The Atlantic",
+                    "title": "Why One Woman Pretended to Be a High-School Cheerleader",
+                    "ts": 1538371809,
+                    "twitterid": 1046633342723125248,
+                    "url": "https://www.theatlantic.com/health/archive/2016/07/wendy-brown/486152/"
+                },
+                {
+                    "_id": "5bb1a9ff421aa93c85342972",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2015/04/RTX10MAW/facebook.jpg?1522840801",
+                    "origin": "The Atlantic",
+                    "title": "How One Indian Village Turns Rain Into Perfume",
+                    "ts": 1538368209,
+                    "twitterid": 1046618243908227072,
+                    "url": "https://www.theatlantic.com/international/archive/2015/04/making-perfume-from-the-rain/391011/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Indonesia Death",
+            "Deadly Earthquake",
+            "Indonesia Quake",
+            "Death Toll Rises",
+            "Photos",
+            "Indonesia Indonesia",
+            "Indonesia Scramble",
+            "Indonesia",
+            "Rescue Survivors",
+            "Tsunami Kill"
+        ],
+        "peaks": [],
+        "theme": [
+            "Indonesia",
+            "Tsunami",
+            "Toll",
+            "Earthquake",
+            "Death",
+            "Rises",
+            "Kill"
+        ],
+        "timestamp": "2018-10-01 02:10:27.889898-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb082a6421aa92158e12e71",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_39/2583426/180930-world-indonesia-toll-sunday-0258_9f51d87f6e7da8fa686cace12f97997e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Indonesia earthquake, tsunami death toll rises to 832",
+                    "ts": 1538293011,
+                    "twitterid": 1046302842871590917,
+                    "url": "https://www.nbcnews.com/news/world/indonesia-earthquake-tsunami-death-tolls-rises-832-n915146?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bb163ca421aa936e4d054cc",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-28708/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Scramble to Rescue Survivors of Indonesia Quake and Tsunami as Death Toll Rises",
+                    "ts": 1538351105,
+                    "twitterid": 1046546505245630464,
+                    "url": "https://www.wsj.com/articles/workers-scramble-to-rescue-survivors-of-indonesia-quake-and-tsunami-as-death-toll-rises-1538304713?mod=e2tw"
+                },
+                {
+                    "_id": "5bb0749a421aa920d21f75ed",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/29/BostonGlobe.com/National/Images/f68246f16c4844289ee98dde6c2c7842-f68246f16c4844289ee98dde6c2c7842-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Earthquake and tsunami kill hundreds in Indonesia",
+                    "ts": 1538289061,
+                    "twitterid": 1046286275454664704,
+                    "url": "https://www.bostonglobe.com/news/world/2018/09/29/earthquake-and-tsunami-kill-hundreds-indonesia/PN45l5KH7R67FZZ47jvpHJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bb0e527421aa926093094d9",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/MrsVoxWApQ_2sHuMp6WjjdNCSqM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AKTRYGEQYI6RIPQUQCRW2WRCQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Death toll soars past 800 in Indonesia earthquake, tsunami",
+                    "ts": 1538318466,
+                    "twitterid": 1046409608519184384,
+                    "url": "https://www.washingtonpost.com/world/death-toll-soars-past-800-in-indonesia-earthquake-tsunami/2018/09/30/70b8aeda-c417-11e8-9451-e878f96be19b_story.html?utm_term=.ab13987b5b85&tid=sm_tw"
+                },
+                {
+                    "_id": "5bb0d719421aa92519b30b7f",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-28630/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Earthquake, Tsunami Kill More Than 800 in Indonesia",
+                    "ts": 1538313303,
+                    "twitterid": 1046387953944207360,
+                    "url": "https://www.wsj.com/articles/earthquake-tsunami-kill-dozens-in-indonesia-1538204545?mod=e2tw"
+                },
+                {
+                    "_id": "5bb0749a421aa920d21f75de",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Washington Post",
+                    "title": "Death toll in Indonesia surpasses 830 after earthquake and tsunami, disaster agency says",
+                    "ts": 1538290770,
+                    "twitterid": 1046293442773614592,
+                    "url": "https://www.washingtonpost.com/news/world/wp/2018/09/30/death-toll-in-indonesia-surpasses-830-after-earthquake-and-tsunami-disaster-agency-says/"
+                },
+                {
+                    "_id": "5bb147af421aa934c78f3d6e",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/photo/2018/09/indonesia-earthquake/q01_RTS23GNE-1/facebook.jpg?1538336163",
+                    "origin": "The Atlantic",
+                    "title": "Photos From the Deadly Earthquake and Tsunami in Indonesia",
+                    "ts": 1538342426,
+                    "twitterid": 1046510104684756992,
+                    "url": "https://www.theatlantic.com/photo/2018/09/photos-from-the-deadly-earthquake-and-tsunami-in-indonesia/571765/?utm_content=edit-promo&utm_medium=social&utm_campaign=the-atlantic&utm_source=twitter&utm_term=2018-09-30T20%3A42%3A43"
+                },
+                {
+                    "_id": "5bb09ec9421aa9222b55f75c",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/09/30/indonesia-tsunami-toll-tops-800-amid-search-for-survivors/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1538291901484.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Indonesia tsunami toll tops 800 amid search for survivors",
+                    "ts": 1538298480,
+                    "twitterid": 1046325779725000704,
+                    "url": "http://www.foxnews.com/world/2018/09/30/indonesia-tsunami-toll-tops-800-amid-search-for-survivors.html"
+                },
+                {
+                    "_id": "5bb0e527421aa926093094e9",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/30/BostonGlobe.com/Foreign/Images/AFP_19M1PJ.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Indonesia tsunami toll tops 800 and is expected to rise further",
+                    "ts": 1538317489,
+                    "twitterid": 1046405511552339968,
+                    "url": "https://www.bostonglobe.com/news/world/2018/09/30/indonesia-tsunami-toll-tops-and-expected-rise-further/PcAao3QOnofyhdWAw9oCfN/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bb11d75421aa9304f73286d",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/30/BostonGlobe.com/Foreign/Images/f846f7eb275747598654730b7dd01ec7-f846f7eb275747598654730b7dd01ec7-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Over 800 dead in Indonesia quake and tsunami; toll may rise",
+                    "ts": 1538332155,
+                    "twitterid": 1046467022685712384,
+                    "url": "https://www.bostonglobe.com/news/world/2018/09/30/indonesia-tsunami-toll-tops-and-expected-rise-further/PcAao3QOnofyhdWAw9oCfN/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            29,
+            2
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "Ford Against",
+            "Kavanaugh Outside",
+            "Pirro Rips Dems",
+            "Catholic",
+            "Brett Kavanaugh Testimony How Americans",
+            "Brett Kavanaugh",
+            "Christine Blasey Ford",
+            "Kavanaugh Hearing Mark",
+            "FBI",
+            "Jeanine Pirro",
+            "Flake",
+            "Kellyanne Conway Says",
+            "Christine Ford",
+            "Testimony Tom Cotton",
+            "Testimony Fox News",
+            "Ford",
+            "Country Are",
+            "Chuck Grassley",
+            "Feinstein",
+            "Brett Kavanaugh Mark",
+            "GoFundMe Account Surge",
+            "Sexual Assault Kavanaugh",
+            "Washington",
+            "Elizabeth Warren",
+            "Investigation Could Address",
+            "White House",
+            "Leland Keyser"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "Ford",
+            "says",
+            "Brett",
+            "Christine",
+            "FBI",
+            "investigates"
+        ],
+        "timestamp": "2018-10-01 02:10:28.344551-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb19bff421aa93b695eb885",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/27/Supreme_Court_Kavanaugh_83470.jpg-b5f3f_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Brett Kavanaugh witnesses stick to denials as FBI investigates",
+                    "ts": 1538365740,
+                    "twitterid": 1046607888913969153,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/brett-kavanaugh-witnesses-stick-denials-fbi-invest/"
+                },
+                {
+                    "_id": "5bb0d719421aa92519b30b66",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/27/Supreme_Court_Kavanaugh_89578.jpg-d99df_s2048x1367.jpg?b2baa6003d604fe8b74385f080b5a1b62233ac5d",
+                    "origin": "The Washington Times",
+                    "title": "Mark Judge says he will cooperate in \u2018confidential\u2019 Brett Kavanaugh investigation",
+                    "ts": 1538315203,
+                    "twitterid": 1046395919946723328,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/mark-judge-says-he-will-cooperate-confidential-bre/"
+                },
+                {
+                    "_id": "5bb0c902421aa924340a3c30",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/28/APTOPIX_Supreme_Court_Kavanaugh_72896.jpg-24c26_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Chuck Grassley asks FBI to probe false allegation against Brett Kavanaugh",
+                    "ts": 1538309753,
+                    "twitterid": 1046373062063591426,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/29/chuck-grassley-asks-fbi-probe-false-allegation-aga/"
+                },
+                {
+                    "_id": "5bb147af421aa934c78f3d7b",
+                    "date_month": "2018-09",
+                    "image": "https://si.wsj.net/public/resources/images/S1-BB170_panel0_OR_20180928145202.jpg",
+                    "origin": "Capital Journal",
+                    "title": "Sen. Chuck Grassley Asks FBI to Look into \u2018Apparent False Statements\u2019 About Brett Kavanaugh",
+                    "ts": 1538341493,
+                    "twitterid": 1046506189952045061,
+                    "url": "https://www.wsj.com/livecoverage/kavanaugh/card/1538313152?mod=e2twp"
+                },
+                {
+                    "_id": "5bb155b6421aa935e69bbf4f",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/09/30/sen-hirono-doesnt-answer-when-asked-whether-dems-leaked-christine-fords-letter-on-kavanaugh/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1538327313236.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Sen. Hirono doesn't answer when asked whether Dems leaked Christine Ford's letter on Kavanaugh",
+                    "ts": 1538347046,
+                    "twitterid": 1046529481266089985,
+                    "url": "http://www.foxnews.com/politics/2018/09/30/sen-hirono-doesnt-answer-when-asked-whether-dems-leaked-christine-fords-letter-on-kavanaugh.html"
+                },
+                {
+                    "_id": "5bb1398f421aa932dca99cbd",
+                    "date_month": "2018-09",
+                    "image": "https://static01.nyt.com/images/2018/09/29/us/28kavanaugh-watching2-print/28kavanaugh-watching2-print-facebookJumbo-v2.jpg",
+                    "origin": "NYT National News",
+                    "title": "How Americans Across the Country Are Reacting to Christine Blasey Ford\u2019s Testimony",
+                    "ts": 1538338922,
+                    "twitterid": 1046495407088553986,
+                    "url": "https://www.nytimes.com/2018/09/27/us/dr-ford-kavanaugh-reaction.html"
+                },
+                {
+                    "_id": "5bb090b4421aa921ba4d631d",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/Politics/kavanaugh-hearing-43-gty-jc-180927_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "GoFundMe campaigns to support Christine Blasey Ford raise more than $700K",
+                    "ts": 1538295794,
+                    "twitterid": 1046314514688487424,
+                    "url": "https://abcnews.go.com/US/gofundme-campaigns-support-ford-raise-700k/story?id=58147904&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bb0c902421aa924340a3c2e",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/27/d26f7efa-8f94-49fb-8ba2-11bd35aebd1b/thumbnail/1200x630/2b66e3aaf3110eb95a48a880ed5a01b6/gettyimages-1041671342.jpg",
+                    "origin": "CBS News",
+                    "title": "GoFundMe campaigns for Christine Blasey Ford raise over $700,000 combined",
+                    "ts": 1538309883,
+                    "twitterid": 1046373609428709376,
+                    "url": "https://www.cbsnews.com/news/christine-blasey-ford-gofundme-brett-kavanaugh-allegations-senate-testimony/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bb0bef904d301227daf9555&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bb171d6421aa93833e3c492",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/30/0949d865-6261-44e5-9c9b-3511f9e9078f/thumbnail/1200x630/3a1b1da513a1024361791e5576faec63/screen-shot-2018-09-30-at-11-21-29-am.png",
+                    "origin": "CBS News",
+                    "title": "Tom Cotton claims Christine Blasey Ford has been \"victimized by Democrats\"",
+                    "ts": 1538354988,
+                    "twitterid": 1046562790872403970,
+                    "url": "https://www.cbsnews.com/news/tom-cotton-face-the-nation-christine-blasey-ford-victimized-by-democrats/?ftag=CNM-00-10aab7e&linkId=57563987"
+                },
+                {
+                    "_id": "5bb0c902421aa924340a3c28",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/whitehousesheldon_calender_getty_092918.jpg",
+                    "origin": "The Hill",
+                    "title": "Kavanaugh 1982 calendar entry could be examined in FBI investigation",
+                    "ts": 1538310307,
+                    "twitterid": 1046375388052692992,
+                    "url": "https://thehill.com/business-a-lobbying/409062-kavanaugh-1982-calendar-entry-could-be-examined-in-fbi-investigation"
+                }
+            ],
+            [
+                {
+                    "_id": "5bb1a9ff421aa93c85342977",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/27/f6f3de83-b6df-4dde-97b4-56e281b4ea75/thumbnail/1200x630/0ba77a04538dd0d39a58f7a1eda730e4/gettyimages-1041966436-copy.jpg",
+                    "origin": "CBS News",
+                    "title": "Christine Blasey Ford's friend clarifies statement about alleged assault by Brett Kavanaugh",
+                    "ts": 1538367483,
+                    "twitterid": 1046615200227610624,
+                    "url": "https://www.cbsnews.com/news/christine-blasey-ford-friend-leland-keyser-clarifies-statement-about-alleged-assault-by-brett-kavanaugh/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bb19ff904d3012741d863b3&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bb1b810421aa93fb3cb7350",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-28733/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Sex-Crimes Prosecutor: Claims From Ford Against Judge Kavanaugh Lack Sufficient Evidence",
+                    "ts": 1538370905,
+                    "twitterid": 1046629551562985472,
+                    "url": "https://www.wsj.com/articles/sex-crimes-prosecutor-claims-from-ford-against-judge-kavanaugh-lack-sufficient-evidence-1538369619?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17,
+            1
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "Global Citizen Festival",
+            "Global Citizen Festival Cardi",
+            "Maxine",
+            "Global Citizen Festival Moment",
+            "Feel My Face",
+            "Nicolle Wallace",
+            "Global Citizen Festival Janet Jackson",
+            "Bodak Yellow",
+            "Global Citizen Festival One",
+            "Senator Elizabeth Warren Cardi",
+            "Global Citizen Festival Flu",
+            "Weeknd",
+            "SCOTUS Janelle Mon\u00e1e",
+            "Global Citizen"
+        ],
+        "peaks": [],
+        "theme": [
+            "Citizen",
+            "Festival",
+            "Global",
+            "performs",
+            "Cardi",
+            "Weeknd"
+        ],
+        "timestamp": "2018-10-01 02:10:28.409717-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb0749a421aa920d21f75f6",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/MSNBC/Components/Video/201809/nbc_gcf_perf_cardi_drip_180929_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Cardi performs 'Drip' at Global Citizen Festival",
+                    "ts": 1538287924,
+                    "twitterid": 1046281504421228545,
+                    "url": "https://www.nbcnews.com/globalcitizen/video/cardi-performs-drip-at-global-citizen-festival-1332930627631?v=raila&"
+                },
+                {
+                    "_id": "5bb11d75421aa9304f73285c",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/MSNBC/Components/Video/201809/nbc_gcf_perf_weeknd_starboy_180929_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "The Weeknd performs 'Starboy' at Global Citizen Festival",
+                    "ts": 1538332922,
+                    "twitterid": 1046470239804895234,
+                    "url": "https://www.nbcnews.com/globalcitizen/video/the-weeknd-performs-starboy-at-global-citizen-festival-1333148739997?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bb10153421aa92a2c859174",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/MSNBC/Components/Video/201809/nbc_gcf_perf_cardi_bodakyellow_180929_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Cardi B performs \u2018Bodak Yellow\u2019 at Global Citizen Festival",
+                    "ts": 1538325123,
+                    "twitterid": 1046437531284377600,
+                    "url": "https://www.nbcnews.com/globalcitizen/video/cardi-b-performs-bodak-yellow-at-global-citizen-festival-1332932675578?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bb163ca421aa936e4d054d0",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/MSNBC/Components/Video/201809/nbc_gcf_perf_weeknd_cantfeelmyface_180929_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "The Weeknd performs 'Can't Feel My Face' at Global Citizen Festival",
+                    "ts": 1538350921,
+                    "twitterid": 1046545732675735558,
+                    "url": "https://www.nbcnews.com/globalcitizen/video/the-weeknd-performs-can-t-feel-my-face-at-global-citizen-festival-1333155907631?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bb17fde421aa93951fa9d0d",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/MSNBC/Components/Video/201809/nbc_gcf_perf_weeknd_calloutmyname_180929_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "The Weeknd performs 'Call Out My Name' at Global Citizen Festival",
+                    "ts": 1538358606,
+                    "twitterid": 1046577967332233217,
+                    "url": "https://www.nbcnews.com/globalcitizen/video/the-weeknd-performs-call-out-my-name-at-global-citizen-festival-1333155395911?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bb1398f421aa932dca99cb3",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/MSNBC/Components/Video/201809/nbc_gcf_cardi_speech_180929_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Cardi B speaks on the importance of voting at the Global Citizen Festival",
+                    "ts": 1538339525,
+                    "twitterid": 1046497935012384774,
+                    "url": "https://www.nbcnews.com/globalcitizen/video/cardi-b-speaks-on-the-importance-of-voting-at-the-global-citizen-festival-1332926531764?v=raila&"
+                },
+                {
+                    "_id": "5bb10f61421aa92e270a3335",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/MSNBC/Components/Video/201809/nbc_gcf_perf_jackson_madefornow_180929_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Janet Jackson performs 'Made For Now' at Global Citizen Festival",
+                    "ts": 1538327524,
+                    "twitterid": 1046447597756567552,
+                    "url": "https://www.nbcnews.com/globalcitizen/video/janet-jackson-performs-made-for-now-at-global-citizen-festival-1333088323932?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bb12b81421aa931bdaa768e",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/MSNBC/Components/Video/201809/nbc_gcf_perf_janelle_djangojane_180929_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Janelle Mon\u00e1e performs 'Django Jane' at Global Citizen Festival",
+                    "ts": 1538334843,
+                    "twitterid": 1046478297117413378,
+                    "url": "https://www.nbcnews.com/globalcitizen/video/janelle-monae-performs-django-jane-at-global-citizen-festival-1333097539505?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bb1398f421aa932dca99cc3",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/MSNBC/Components/Video/201809/nbc_gcf_perf_jackson_rhythmnation_180929_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Janet Jackson performs 'Rhythm Nation' at Global Citizen Festival",
+                    "ts": 1538338448,
+                    "twitterid": 1046493419059777536,
+                    "url": "https://www.nbcnews.com/globalcitizen/video/janet-jackson-performs-rhythm-nation-at-global-citizen-festival-1333090883929?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bb155b6421aa935e69bbf60",
+                    "date_month": "2018-09",
+                    "image": "https://media4.s-nbcnews.com/j/MSNBC/Components/Video/201809/nbc_gcf_perf_janelle_makemefeel_180929_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Janelle Mon\u00e1e performs 'Make Me Feel' at Global Citizen Festival",
+                    "ts": 1538345706,
+                    "twitterid": 1046523858713538567,
+                    "url": "https://www.nbcnews.com/globalcitizen/video/janelle-monae-performs-make-me-feel-at-global-citizen-festival-1333098051902?v=raila&cid=sm_npd_ms_tw_ma"
+                }
+            ],
+            []
+        ]
+    },
+    {
+        "list": [
+            121,
+            8
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "Manny",
+            "Industry Free",
+            "Iraq",
+            "Rookie Quarterbacks",
+            "Business",
+            "Cable",
+            "Atlantic",
+            "Hollywood Movie Scramble",
+            "Josh Gordon",
+            "Struggles",
+            "Francesco Molinari",
+            "Christion Abercrombie",
+            "Hard Deadline",
+            "Financial",
+            "Rules California",
+            "Notre Dame",
+            "Buccaneers Huge",
+            "Waco",
+            "Great Smoky Mountain National Park",
+            "American",
+            "Mueller",
+            "Yard Sale",
+            "Mookie Betts",
+            "Drugs That",
+            "American Heavyweight Infiltrates",
+            "Super Soldier Deaths",
+            "Team USA",
+            "Rob Gronkowski",
+            "Obamacare",
+            "Europe",
+            "AFC East North Carolina",
+            "FCC",
+            "Elon Musk",
+            "Easy",
+            "VA Data Show US",
+            "NL West",
+            "Bravo",
+            "NL Central",
+            "Mitchell Trubisky",
+            "Balkans U.S.",
+            "World News",
+            "Strong Celtics",
+            "National Zoo Mourns Loss Of",
+            "Hurricane Florence",
+            "Michael Darby",
+            "Pentagon",
+            "Bahamas",
+            "CEO",
+            "Smithsonian",
+            "Mike Espy",
+            "Buccaneers Brexit",
+            "Bears",
+            "Service Violation",
+            "Navigate Treacherous Brexit",
+            "Russian",
+            "Him Raise",
+            "New Cars Get Too Pricey",
+            "UK",
+            "Donut",
+            "Andrew Gillum",
+            "Beluga",
+            "U.S.",
+            "Stanford No",
+            "Strait",
+            "Stronger Videogame Doubles",
+            "Saudi Arabia",
+            "Tesla",
+            "Seahawks",
+            "American Democrat",
+            "Tennessee State",
+            "NFL",
+            "Indonesia",
+            "Gibbon Iran",
+            "Ash Baird",
+            "QWERTY Days Are Almost Over College",
+            "Libya",
+            "Young Veterans Committing Suicide",
+            "Kings Canyon National Park Matt Light",
+            "Patriots Red Sox",
+            "Okinawa Ted Turner",
+            "Michigan",
+            "Boris Johnson",
+            "Red Cross",
+            "Ohio",
+            "Bryce Harper",
+            "Greece",
+            "African",
+            "Glenn Kirschner",
+            "Fellow Canadian Oil Firm",
+            "Fame Adam Vinatieri",
+            "Great Smoky Mountains Mitch Trubisky",
+            "Iranian",
+            "SEC",
+            "Tom Brady",
+            "Hawaii",
+            "Texas",
+            "Paris",
+            "Alaska",
+            "Khris Davis",
+            "Virginia",
+            "USS Theodore Roosevelt",
+            "Economic News",
+            "Thai Cave Rescue",
+            "Gillette Stadium",
+            "Central Park Les Moonves",
+            "Tsunami Dog",
+            "Whine For Faster",
+            "Kavanaugh",
+            "Potomac",
+            "Dunkin",
+            "Red Sox",
+            "Mitch Trubisky",
+            "Mississippi Senate",
+            "USA James White",
+            "Beaver Stadium",
+            "Death Toll Rises Sharply",
+            "Sluggish Growth Europe",
+            "Wall Street Journal",
+            "Denny Tamaki",
+            "AL",
+            "Northwestern",
+            "CBS",
+            "Hormuz Washington",
+            "Sarah Huckabee Sanders",
+            "Buffalo",
+            "California",
+            "Weston",
+            "Husky Makes Unsolicited Bid",
+            "White House"
+        ],
+        "peaks": [],
+        "theme": [
+            "Patriots",
+            "win",
+            "state",
+            "California",
+            "National",
+            "require"
+        ],
+        "timestamp": "2018-10-01 02:10:30.291064-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb147af421aa934c78f3d65",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_39/2583696/180930-jerry-brown-al-1716_1a939be5b004f0a70a802b7df4526125.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "California becomes first state to require women on corporate boards",
+                    "ts": 1538343336,
+                    "twitterid": 1046513919353921538,
+                    "url": "https://www.nbcnews.com/news/us-news/california-becomes-first-state-require-women-corporate-boards-n915201?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bb163ca421aa936e4d054e8",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/30/BostonGlobe.com/ReceivedContent/Images/Davis18-001.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "38 thoughts on the Patriots\u2019 win",
+                    "ts": 1538348941,
+                    "twitterid": 1046537427186315264,
+                    "url": "https://www.bostonglobe.com/sports/patriots/2018/09/30/thoughts-patriots-win/bqGltzGzJwgJ9Pk3gCQ0pJ/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bb147af421aa934c78f3d5e",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/article_images/brownjerry_getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "California becomes first state requiring women to sit on corporate boards",
+                    "ts": 1538344144,
+                    "twitterid": 1046517309278474240,
+                    "url": "https://thehill.com/homenews/state-watch/409164-california-becomes-first-state-requiring-women-to-sit-on-corporate"
+                },
+                {
+                    "_id": "5bb171d6421aa93833e3c4a6",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/30/BostonGlobe.com/ReceivedContent/Images/Davis22.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Patriots breeze to win over Dolphins to snap losing streak",
+                    "ts": 1538352938,
+                    "twitterid": 1046554192247238656,
+                    "url": "https://www.bostonglobe.com/sports/2018/09/30/patriots-dolphins-live-updates-from-gillette-stadium/RzNpvDPeFx3jhADJ6NT29K/story.html"
+                },
+                {
+                    "_id": "5bb163ca421aa936e4d054ca",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/09/30/california-woman-reported-missing-while-hiking-in-kings-canyon-national-park/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1538349157476.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "California woman 'found alive and well' after reported missing in Kings Canyon National Park",
+                    "ts": 1538351160,
+                    "twitterid": 1046546735563075584,
+                    "url": "http://www.foxnews.com/us/2018/09/30/california-woman-reported-missing-while-hiking-in-kings-canyon-national-park.html"
+                },
+                {
+                    "_id": "5bb147af421aa934c78f3d76",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/24/Trump_Mileage_Standards_93328.jpg-d913c_s1441x2048.jpg?613c7325fad9a17ae3f18ba678dae191a1ea4727",
+                    "origin": "The Washington Times",
+                    "title": "California law requires companies to have women on boards",
+                    "ts": 1538341711,
+                    "twitterid": 1046507103106551808,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/california-law-requires-companies-have-women-board/"
+                },
+                {
+                    "_id": "5bb10f61421aa92e270a333a",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/30/USAT/643e6239-b98f-465e-86df-b4374bd46e5e-USATSI_11348873.jpg?crop=8090,4551,x0,y446&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "No. 4 Ohio State escapes Beaver Stadium with dramatic victory over No. 9 Penn State",
+                    "ts": 1538327105,
+                    "twitterid": 1046445842398412800,
+                    "url": "https://www.usatoday.com/story/sports/ncaaf/bigten/2018/09/29/ohio-state-beats-penn-state-top-10-showdown/1477243002/"
+                },
+                {
+                    "_id": "5bb155b6421aa935e69bbf41",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/30/BostonGlobe.com/ReceivedContent/Images/Lee8.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "James White to the rescue for the Patriots",
+                    "ts": 1538348224,
+                    "twitterid": 1046534423943041024,
+                    "url": "https://www.bostonglobe.com/sports/patriots/2018/09/30/james-white-rescue-for-patriots/1TO634a9KZ9oOXWfXZAWjN/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bb163ca421aa936e4d054c7",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/30/BostonGlobe.com/ReceivedContent/Images/Davis16-001.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Patriots\u2019 newcomers have huge impact",
+                    "ts": 1538351466,
+                    "twitterid": 1046548018680516608,
+                    "url": "https://www.bostonglobe.com/sports/patriots/2018/09/30/patriots-newcomers-have-huge-impact/nG34VDuV4O2wjkZW7E0hkK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bb163ca421aa936e4d054df",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/30/BostonGlobe.com/ReceivedContent/Images/Lee12.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "With Patriots, things appear back to normal",
+                    "ts": 1538349961,
+                    "twitterid": 1046541708366925827,
+                    "url": "https://www.bostonglobe.com/sports/patriots/2018/09/30/with-patriots-things-appear-back-normal/97cI5X54wf2OyvAgn8vDiO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ],
+            [
+                {
+                    "_id": "5bb1b810421aa93fb3cb7346",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/Politics/WireAP_fac2756f98674a3cba8d6cabe1f838cc_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "California is 1st state to require women on corporate boards",
+                    "ts": 1538371924,
+                    "twitterid": 1046633827484008451,
+                    "url": "https://abcnews.go.com/Politics/wireStory/california-1st-state-require-women-corporate-boards-58191497?cid=social_twitter_abcn"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            47,
+            2
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "Sean Hannity",
+            "Stephen King",
+            "SNL",
+            "Republican",
+            "CNN",
+            "Klobuchar",
+            "Jeff Flake",
+            "ACLU",
+            "Brett Kavanaugh",
+            "Update",
+            "Christine Blasey Ford",
+            "Rachel Maddow",
+            "Union",
+            "MeToo Klobuchar",
+            "Denounce Limits",
+            "Main Protest",
+            "Graham",
+            "Ted Cruz",
+            "Kellyanne Conway",
+            "GoFundMe",
+            "Wikipedia Restaurant",
+            "Chessy Prout Washington",
+            "Matt Damon",
+            "Giving Teenage",
+            "Anita Hill",
+            "Kavanaugh Accusations",
+            "Brett Kavanaugh Kellyanne Conway",
+            "Senate",
+            "Chad Ludington",
+            "Jake Tapper",
+            "Pass Cotton",
+            "Christine Blasey Ford High",
+            "Feinstein",
+            "Grateful Dead",
+            "Will Dehumanize",
+            "Season",
+            "Supreme Fiasco",
+            "DeVos",
+            "White House",
+            "Kavanaugh Drama Just"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "assault",
+            "sexual",
+            "Conway",
+            "victim",
+            "Brett",
+            "Damon"
+        ],
+        "timestamp": "2018-10-01 02:10:31.134080-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb0d719421aa92519b30b69",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/3f/bd/12221a5a442d8084a5b95a65d2f5/180930-conway-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Conway: \u2018I\u2019m a victim of sexual assault\u2019",
+                    "ts": 1538315104,
+                    "twitterid": 1046395507814354944,
+                    "url": "https://www.politico.com/story/2018/09/30/kellyanne-conway-sexual-assault-kavanaugh-853890"
+                },
+                {
+                    "_id": "5bb0e527421aa926093094db",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/Rr0XmJIOWMquLwSwDj_4_svm0eo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4VUOUNV76UI6RH2PUG326JK2UU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Kellyanne Conway: \u2018I\u2019m a victim of sexual assault\u2019",
+                    "ts": 1538318234,
+                    "twitterid": 1046408632894713858,
+                    "url": "https://www.washingtonpost.com/politics/2018/09/30/kellyanne-conway-im-victim-sexual-assault/?utm_term=.639815fd77ac&tid=sm_tw&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bb0e527421aa926093094de",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/conwaykellyanne_022318gn6_lead_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Kellyanne Conway: 'I\u2019m a victim of sexual assault'",
+                    "ts": 1538317983,
+                    "twitterid": 1046407581856665600,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/409123-kellyanne-conway-im-a-victim-of-sexual-assault?__twitter_impression=true"
+                },
+                {
+                    "_id": "5bb10153421aa92a2c859164",
+                    "date_month": "2018-09",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_39/2583571/180930-kellyanne-conway-al-1055_c779847905bad6892ea7ab30c8d28030.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Kellyanne Conway: 'I'm a victim of sexual assault'",
+                    "ts": 1538326811,
+                    "twitterid": 1046444609222660096,
+                    "url": "https://www.nbcnews.com/politics/white-house/kellyanne-conway-i-m-victim-sexual-assault-n915166?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bb10f61421aa92e270a3319",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/30/0/0/694940094001_5842469603001_5842468362001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Kellyanne Conway speaks out: 'I'm a victim of sexual assault'",
+                    "ts": 1538329801,
+                    "twitterid": 1046457149012889601,
+                    "url": "http://www.foxnews.com/politics/2018/09/30/kellyanne-conway-speaks-out-im-victim-sexual-assault.html"
+                },
+                {
+                    "_id": "5bb11d75421aa9304f732873",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/03/16/7f93fd7b-b301-4b06-a96e-0c6887078132/thumbnail/1200x630/829d51a6d9b79fadd970dde18c32dccb/gettyimages-653572434.jpg",
+                    "origin": "CBS News",
+                    "title": "White House adviser Kellyanne Conway: \"I'm a victim of sexual assault\"",
+                    "ts": 1538331595,
+                    "twitterid": 1046464674487824390,
+                    "url": "https://www.cbsnews.com/news/white-house-adviser-kellyanne-conway-im-a-victim-of-sexual-assault/?ftag=CNM-00-10aab7e&linkId=57559549"
+                },
+                {
+                    "_id": "5bb12b81421aa931bdaa7683",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180930090324-kellyanne-conway-sotu-09302018-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Conway: 'I feel very empathetic' toward sexual assault victims ... 'I'm a victim'",
+                    "ts": 1538335770,
+                    "twitterid": 1046482187430907904,
+                    "url": "https://www.cnn.com/2018/09/30/politics/kellyanne-conway-support-kavanaugh-cnntv/index.html?utm_medium=social&utm_content=2018-09-30T19%3A29%3A30&utm_source=twCNN&utm_term=link"
+                },
+                {
+                    "_id": "5bb0d719421aa92519b30b61",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/04/22/AP_17261691197303_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Kellyanne Conway tells Jake Tapper \u2018I\u2019m a victim of sexual assault\u2019 on CNN\u2019s \u2018State of the Union\u2019",
+                    "ts": 1538315836,
+                    "twitterid": 1046398575809363968,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/kellyanne-conway-tells-jake-tapper-im-victim-sexua/"
+                },
+                {
+                    "_id": "5bb090b4421aa921ba4d631e",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/30/mattdamonsnl_wide-899900aa4b800e65e89fd14d96cda4cfcf670045.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Matt Damon Is A Sniffing, Shouting Brett Kavanaugh On 'SNL' Season Premiere",
+                    "ts": 1538295665,
+                    "twitterid": 1046313974529032193,
+                    "url": "https://www.npr.org/2018/09/30/653062763/matt-damon-is-a-sniffing-shouting-brett-kavanaugh-on-snl-season-premiere?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bb090b4421aa921ba4d6320",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/30/BostonGlobe.com/Arts/Images/damon_as_kavanaugh_teze.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Matt Damon really looked like Brett Kavanaugh on \u2018Saturday Night Live\u2019",
+                    "ts": 1538295535,
+                    "twitterid": 1046313428900618240,
+                    "url": "https://www.bostonglobe.com/arts/television/2018/09/30/matt-damon-really-looked-like-brett-kavanaugh-saturday-night-live/TN79iZF2xGiEhUWL9XtzFP/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ],
+            [
+                {
+                    "_id": "5bb1a9ff421aa93c85342961",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/01/us/politics/01dc-kavanaugh1/01dc-kavanaugh1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "On Politics: Democrats Denounce Limits on Kavanaugh Inquiry",
+                    "ts": 1538369952,
+                    "twitterid": 1046625556484288513,
+                    "url": "https://www.nytimes.com/2018/10/01/us/politics/kavanaugh-drinking-supreme-court.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5bb1b810421aa93fb3cb7347",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_39/2581486/180927-gop-senate-judiciary-ew-657p_ba0292eeb65adaa7b62a8446a5646755.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Ashley Pratte With the Kavanaugh hearings, Republicans hurt themselves with women voters yet again",
+                    "ts": 1538371864,
+                    "twitterid": 1046633574454169600,
+                    "url": "https://www.nbcnews.com/think/opinion/kavanaugh-hearings-republicans-hurt-themselves-women-voters-yet-again-ncna914891?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            42,
+            1
+        ],
+        "months": [
+            "2018-09",
+            "2018-10"
+        ],
+        "ne": [
+            "North Korea",
+            "Kim Jong Un",
+            "Donald Trump Jerry Falwell",
+            "SNL",
+            "Trump Robert",
+            "Netanyahu At Odds",
+            "Iran",
+            "SNL Trump",
+            "Democrats",
+            "Melania Trump",
+            "DeNiro",
+            "Kavanaugh",
+            "Macedonia Trump",
+            "NATO",
+            "U.S. Trump",
+            "Kanye West Trump",
+            "Ronaldo",
+            "Africa",
+            "Jerry Brown",
+            "US Trump",
+            "Trump",
+            "U.N.",
+            "Nazi Daniel",
+            "Dems",
+            "Justice Department",
+            "Trump Over",
+            "California",
+            "Kanye West",
+            "Warren"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Kanye",
+            "West",
+            "Kim",
+            "love",
+            "SNL",
+            "fell"
+        ],
+        "timestamp": "2018-10-01 02:10:31.812869-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bb0baf2421aa9233e1012c4",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/trump-and-kim-jong-un-summit.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump: Kim Jong Un and I 'fell in love'",
+                    "ts": 1538307905,
+                    "twitterid": 1046365310083895296,
+                    "url": "https://thehill.com/blogs/ballot-box/409104-trump-kim-jong-un-and-i-fell-in-love"
+                },
+                {
+                    "_id": "5bb0baf2421aa9233e1012db",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/30/BostonGlobe.com/National/Images/e2d33530-c155-4738-9d78-fae6fc436f42-6822.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump on Kim Jong Un: \u2018We fell in love\u2019",
+                    "ts": 1538305760,
+                    "twitterid": 1046356315533119488,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/09/30/trump-kim-jong-fell-love/5RA2O9B5GYODmIjgjFzYjI/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bb0749a421aa920d21f75e3",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:2bfef60e4f5f490cb9259ed9baaf02a0/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump on Kim: Tough talk ... 'and then we fell in love'",
+                    "ts": 1538290368,
+                    "twitterid": 1046291756910882817,
+                    "url": "https://www.apnews.com/4d56f6e8f99d4eefb2f22b7a6dd072d0/Trump-on-Kim:-Tough-talk-...-'and-then-we-fell-in-love?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5bb0f33a421aa92710d34017",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5bb0d281/turbine/ct-trump-kim-jong-un-we-fell-in-love-20180930",
+                    "origin": "Chicago Tribune",
+                    "title": "Trump on Kim Jong Un: Tough talk ... 'and then we fell in love'",
+                    "ts": 1538319731,
+                    "twitterid": 1046414911818133504,
+                    "url": "http://www.chicagotribune.com/news/nationworld/ct-trump-kim-jong-un-we-fell-in-love-20180930-story.html"
+                },
+                {
+                    "_id": "5bb11d75421aa9304f732852",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/05/01/kanye_west-slavery_07944_s2048x1295.jpg?3f754257230821f3cb89f4b22b21b4073b024b4f",
+                    "origin": "The Washington Times",
+                    "title": "Kanye West \u2018SNL\u2019 speech draws praise from Donald Trump",
+                    "ts": 1538333710,
+                    "twitterid": 1046473547374301186,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/30/kanye-west-snl-speech-draws-praise-donald-trump/"
+                },
+                {
+                    "_id": "5bb0baf2421aa9233e1012d2",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/westkanye_snl_09292018.png",
+                    "origin": "The Hill",
+                    "title": "Kanye West goes on pro-Trump rant off-air on SNL",
+                    "ts": 1538306946,
+                    "twitterid": 1046361287901483008,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/409110-kanye-west-goes-on-pro-trump-rant-off-air-on-snl?__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bb10f61421aa92e270a3321",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/Ke4ySjcdJOpRnj7Icb3r3PWOotI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4OBXLY2X7Y44DDSYN7JLMLQITU.JPG",
+                    "origin": "Washington Post",
+                    "title": "Kanye West praised Trump in a meandering speech on SNL. It didn\u2019t air.",
+                    "ts": 1538329061,
+                    "twitterid": 1046454044913553408,
+                    "url": "https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/09/30/kanye-west-praised-trump-in-a-meandering-speech-on-snl-heres-what-didnt-air/?utm_term=.3c461bc255e4&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bb0acd3421aa92295b8edfd",
+                    "date_month": "2018-09",
+                    "image": "https://images.newrepublic.com/e97f75ed37f58bd6529eb8bd91d6a8308e39f1ff.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Trump regales a crowd with the story of how he and Kim Jong Un \u201cfell in love.\u201d",
+                    "ts": 1538304795,
+                    "twitterid": 1046352265886486528,
+                    "url": "https://newrepublic.com/minutes/151464/trump-regales-crowd-story-kim-jong-un-fell-love"
+                },
+                {
+                    "_id": "5bb10153421aa92a2c859169",
+                    "date_month": "2018-09",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Kirk93018.jpg?itok=_RD_NwMo",
+                    "origin": "Fox News",
+                    "title": "'A Profound Cultural Moment': Charlie Kirk Applauds Kanye West's Pro-Trump Speech on 'SNL'",
+                    "ts": 1538326671,
+                    "twitterid": 1046444021718093825,
+                    "url": "http://insider.foxnews.com/2018/09/30/kanye-west-snl-pro-trump-speech-charlie-kirk-reacts-fox-friends"
+                },
+                {
+                    "_id": "5bb09ec9421aa9222b55f756",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/09/29/kanye-west-announces-his-new-name-is-ye-ahead-snl-appearance/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1538241047770.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Kanye West announces his new name is 'Ye' ahead of 'SNL' appearance",
+                    "ts": 1538299380,
+                    "twitterid": 1046329554824880128,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/29/kanye-west-announces-his-new-name-is-ye-ahead-snl-appearance.html"
+                }
+            ],
+            [
+                {
+                    "_id": "5bb1a9ff421aa93c85342965",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/30/a24a8967-aebb-4f16-964d-63f217fc53b9/thumbnail/1200x630g2/b1f01329685df31fb6b71a0e4023ceee/gettyimages-1043380142.jpg",
+                    "origin": "CBS News",
+                    "title": "Kanye West goes on pro-Trump rant after \"SNL\" performance",
+                    "ts": 1538369283,
+                    "twitterid": 1046622749899345920,
+                    "url": "https://www.cbsnews.com/news/kanye-west-donald-trump-rant-maga-saturday-night-live-performance-2019-09-30/"
+                }
+            ]
+        ]
+    }
+]

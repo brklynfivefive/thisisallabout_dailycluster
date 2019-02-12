@@ -1,0 +1,2320 @@
+[
+    {
+        "list": [
+            20
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Blues",
+            "Major Acquisition",
+            "HSBC Logs",
+            "Google May Face Billions",
+            "Red Hat",
+            "Paradise",
+            "New Taxes Across Asia",
+            "Inbound Dan Ryan",
+            "Party",
+            "Acquire Red Hat",
+            "Latin America China",
+            "Tech Investment Mania",
+            "Cancel",
+            "Stock Market",
+            "IBM Will Acquire",
+            "NC",
+            "Financial Markets Strong Earnings Haven",
+            "Boracay Gets Ready",
+            "Third Quarter Net Profit Inbound Dan Ryan",
+            "North Carolina"
+        ],
+        "peaks": [],
+        "theme": [
+            "acquire",
+            "Hat",
+            "IBM",
+            "Red",
+            "school",
+            "shooting",
+            "student"
+        ],
+        "timestamp": "2018-10-29 09:10:19.143628-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd6157f421aa93cbbf6dd77",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-33277/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "IBM to Acquire Red Hat for $190 a Share",
+                    "ts": 1540754108,
+                    "twitterid": 1056625428943781888,
+                    "url": "https://www.wsj.com/articles/ibm-in-advanced-talks-to-buy-red-hat-1540751279?mod=e2tw"
+                },
+                {
+                    "_id": "5bd64dc7421aa941c39d3f27",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181028163845-ibm-red-hat-acquisition-restricted-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "IBM to acquire cloud computing firm Red Hat",
+                    "ts": 1540770306,
+                    "twitterid": 1056693371518021632,
+                    "url": "https://www.cnn.com/2018/10/28/tech/ibm-red-hat/index.html?utm_term=image&utm_content=2018-10-28T23%3A45%3A05&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bd685fa421aa9469165fb66",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/dc8c471a194a6e11d95130f1cf23c3262647d422/c=0-54-580-380/local/-/media/2018/09/28/USATODAY/usatsports/red_hat_lobby_2_lXs7ejm_large.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "IBM to acquire Red Hat open-source software provider for $33B",
+                    "ts": 1540782900,
+                    "twitterid": 1056746194309996544,
+                    "url": "https://www.usatoday.com/story/money/2018/10/28/ibm-red-hat-acquisition/1801268002/"
+                },
+                {
+                    "_id": "5bd63199421aa93eedfe5ebe",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/28/gettyimages-924478844_wide-5c900e12ae8724d84c6900558b717abfc8c4aa43.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "In Major Acquisition, IBM Will Acquire Open-Source Software Company Red Hat",
+                    "ts": 1540763315,
+                    "twitterid": 1056664048849174529,
+                    "url": "https://www.npr.org/2018/10/28/661598557/in-major-acquisition-ibm-will-acquire-open-source-software-company-red-hat?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfbc",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2014/07/07/police-car_s2048x1357.jpg?c74c089b5009d1d2b89c6afa0615e9ae41292ce9",
+                    "origin": "The Washington Times",
+                    "title": "At least one student injured in North Carolina school shooting",
+                    "ts": 1540815563,
+                    "twitterid": 1056883192467206144,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/29/at-least-one-student-injured-in-north-carolina-sch/"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1df98",
+                    "date_month": "2018-10",
+                    "image": "https://nodeassets.nbcnews.com/cdnassets/projects/socialshareimages-bento/og-nbcnews1200x630.png",
+                    "origin": "NBC News",
+                    "title": "Student shoots fellow student at NC high school, police say",
+                    "ts": 1540817613,
+                    "twitterid": 1056891791620915200,
+                    "url": "https://www.nbcnews.com/news/us-news/student-shoots-fellow-student-nc-high-school-police-say-n925546"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfb8",
+                    "date_month": "2018-10",
+                    "origin": "ABC News",
+                    "title": "Student shot at North Carolina school, another student in custody: Police",
+                    "ts": 1540815735,
+                    "twitterid": 1056883912436318210,
+                    "url": "https://abcnews.go.com/US/student-shot-north-carolina-school-student-custody-police/story?id=58823746&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfb7",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/29/6d0dc51e-dc8f-4737-ab16-ab86d888b23c/thumbnail/1200x630/58715540c14cf9d933f0e96e31fe7ce1/butler-highschool-giljaok3sbdh3jqqef775mgicm.jpg",
+                    "origin": "CBS News",
+                    "title": "Student shot at North Carolina high school - live updates",
+                    "ts": 1540815758,
+                    "twitterid": 1056884009123373056,
+                    "url": "https://www.cbsnews.com/news/butler-high-school-shooting-today-2018-10-29-live-stream-updates/?ftag=CNM-00-10aab7e&linkId=58862329"
+                },
+                {
+                    "_id": "5bd6f679421aa9519f6ed872",
+                    "date_month": "2018-10",
+                    "image": "https://www.trbimg.com/img-5bd6f425/turbine/ct-met-dan-ryan-shooting-20181029",
+                    "origin": "Chicago Tribune",
+                    "title": "Inbound Dan Ryan lanes closed near 71st Street after shooting",
+                    "ts": 1540814137,
+                    "twitterid": 1056877209552609281,
+                    "url": "https://www.chicagotribune.com/news/local/breaking/ct-met-dan-ryan-shooting-20181029-story.html?__twitter_impression=true"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfcd",
+                    "date_month": "2018-10",
+                    "image": "https://www.trbimg.com/img-5bd6f75e/turbine/ct-met-dan-ryan-shooting-20181029",
+                    "origin": "Chicago Tribune",
+                    "title": "Inbound Dan Ryan lanes reopened after shooting near 71st Street",
+                    "ts": 1540814805,
+                    "twitterid": 1056880010458480640,
+                    "url": "https://www.chicagotribune.com/news/local/breaking/ct-met-dan-ryan-shooting-20181029-story.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            68
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Life Synagogue Victims Remembered",
+            "Darkest",
+            "Empire State Building",
+            "Bedford",
+            "Sabbath",
+            "Life Synagogue",
+            "Muslim",
+            "Rabbi Jeffrey Myers",
+            "Trump",
+            "Evil",
+            "Israel",
+            "Pittsburgh Married",
+            "Mr. Rogers",
+            "Synagogue Massacre",
+            "Unity",
+            "Victims",
+            "Pope Francis",
+            "Squirrel Hill",
+            "Robert Bowers",
+            "Life",
+            "Loved",
+            "Good Souls",
+            "America",
+            "Will Never Win Out",
+            "Shock",
+            "Nielsen",
+            "March",
+            "WATCH",
+            "Pittsburgh Synagogue",
+            "Orthodox Jews",
+            "History",
+            "Hours",
+            "Netanyahu",
+            "Synagogue Shooting Former Pittsburgh Rabbi",
+            "Authorities Pittsburgh",
+            "Pittsburgh",
+            "Robert Gregory Bowers",
+            "Peaceful Pittsburgh Enclave Pittsburgh"
+        ],
+        "peaks": [],
+        "theme": [
+            "Pittsburgh",
+            "Synagogue",
+            "shooting",
+            "victim",
+            "massacre",
+            "Jews",
+            "says"
+        ],
+        "timestamp": "2018-10-29 09:10:20.063973-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd63fb0421aa93ff444dc1d",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/pittsburghshooting5.jpg",
+                    "origin": "Fox News",
+                    "title": "Pittsburgh synagogue massacre suspect told officers 'I just want to kill Jews,' affidavit says",
+                    "ts": 1540764859,
+                    "twitterid": 1056670522761711618,
+                    "url": "https://www.foxnews.com/us/pittsburgh-synagogue-massacre-suspect-told-officers-i-just-want-to-kill-jews-affidavit-says"
+                },
+                {
+                    "_id": "5bd5dd32421aa937c88a0f2f",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181027130214-05-pittsburgh-shooting-1027-restricted-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Pittsburgh synagogue gunman told SWAT he wanted all Jews to die, criminal complaint says",
+                    "ts": 1540739771,
+                    "twitterid": 1056565298852171777,
+                    "url": "https://www.cnn.com/2018/10/28/us/pittsburgh-synagogue-shooting/index.html?utm_source=twCNN&utm_medium=social&utm_content=2018-10-28T15%3A16%3A10&utm_term=image"
+                },
+                {
+                    "_id": "5bd5dd32421aa937c88a0f10",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/aKt8UOVTjAIqh4hHbT9iwvxQVeU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YNN4TQW2YEI6RBO7PJVU2JOPXM.jpg",
+                    "origin": "Post Politics",
+                    "title": "Pittsburgh mayor says armed guards are not the solution in wake of synagogue shooting",
+                    "ts": 1540742289,
+                    "twitterid": 1056575857882472449,
+                    "url": "https://www.washingtonpost.com/politics/pittsburgh-mayor-says-armed-guards-are-not-the-solution-in-wake-of-synagogue-shooting/2018/10/28/dc8e62da-dabf-11e8-85df-7a6b4d25cfbb_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bd5eb44421aa938d08a3bf9",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/AWQ-yZOdIbKnE0RgvR2fsyzeQdU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZXXNCW2NMI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Washington Post",
+                    "title": "'I just want to kill Jews:\u2019 Documents detail the Pittsburgh synagogue massacre and name the dead",
+                    "ts": 1540742422,
+                    "twitterid": 1056576416672821250,
+                    "url": "https://www.washingtonpost.com/nation/2018/10/28/victims-expected-be-named-after-killed-deadliest-attack-jews-us-history/?utm_term=.ebc01836631a&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd5dd32421aa937c88a0f39",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/28/AP_18300748638752_s2048x1128.jpg?01cc98f44ec5e1d2b3fb64c5b6e79efbe502b904",
+                    "origin": "The Washington Times",
+                    "title": "Robert Gregory Bowers, Pittsburgh synagogue shooting suspect, accused Jews of \u2018committing genocide\u2019",
+                    "ts": 1540739197,
+                    "twitterid": 1056562888473747456,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/robert-gregory-bowers-pittsburgh-synagogue-shootin/"
+                },
+                {
+                    "_id": "5bd5cf2d421aa936cd5d9584",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/bd/64/29225aef43438bab807095ed35be/webp.net-resizeimage%20(20).jpg",
+                    "origin": "POLITICO",
+                    "title": "DHS adviser visited Pittsburgh synagogue in March, Nielsen says",
+                    "ts": 1540736159,
+                    "twitterid": 1056550145473552389,
+                    "url": "https://www.politico.com/story/2018/10/28/pittsburgh-synagogue-shooting-nielsen-943652"
+                },
+                {
+                    "_id": "5bd5f94f421aa93a2efe27da",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/28/694940094001_5854473653001_5854474468001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Pittsburgh shooting was 'a pure act of evil,' DHS Secretary Nielsen says",
+                    "ts": 1540747800,
+                    "twitterid": 1056598972922454022,
+                    "url": "https://www.foxnews.com/politics/pittsburgh-shooting-was-a-act-of-pure-evil-dhs-secretary-nielsen-says"
+                },
+                {
+                    "_id": "5bd64dc7421aa941c39d3f4b",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/pittsburghsynagogue_102818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Pittsburgh shooting suspect said he wanted all Jews to die: police",
+                    "ts": 1540767907,
+                    "twitterid": 1056683310024454144,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/413507-pittsburgh-shooting-suspect-said-he-wanted-all-jews-to-die-police"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfb4",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_44/2622186/181029-pittsburgh-shooting-mc-823_cc57741137f1aee79065c4efcdcadb6d.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Synagogue attack victim Dr. Jerry Rabinowitz rushed at gunfire to help the wounded",
+                    "ts": 1540816141,
+                    "twitterid": 1056885617810989056,
+                    "url": "https://www.nbcnews.com/news/us-news/synagogue-attack-victim-dr-jerry-rabinowitz-rushed-gunfire-help-wounded-n925501?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd5dd32421aa937c88a0f2d",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/7b/26/a6685a324336ac9b8a54a0c26f25/181028-peduto-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "'Up to the families' whether Trump attends memorial for shooting victims, Pittsburgh mayor says",
+                    "ts": 1540740005,
+                    "twitterid": 1056566277093888000,
+                    "url": "https://www.politico.com/story/2018/10/28/pittsburgh-synagogue-shooting-trump-memorial-943829"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            70
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Dodge Poll",
+            "Brian Fitzpatrick",
+            "Order",
+            "Arizona Senate",
+            "Waters",
+            "Bernie Sanders",
+            "DCCC",
+            "New England Tight",
+            "Pittsburgh Shooting",
+            "Embrace",
+            "Schiff",
+            "Kris Kobach",
+            "Democratic",
+            "Midterm Election Kansas Democrats",
+            "Blackburn",
+            "Elect House",
+            "CNN Key",
+            "Trump",
+            "Sinema",
+            "Virginia",
+            "Fear",
+            "Steve King",
+            "GOP Electoral Odds",
+            "Beltway",
+            "America No",
+            "Washington",
+            "Illinois",
+            "Health Care",
+            "Tennessee Can State",
+            "Abigail Spanberger",
+            "Win Indiana Women",
+            "Florida",
+            "Trailer",
+            "Deficit Balloons",
+            "Lara Trump",
+            "GOP",
+            "Wisconsin Senate",
+            "Mueller",
+            "Ben Ray Lujan",
+            "Liberal Agenda",
+            "US",
+            "House Republicans",
+            "John James",
+            "House Republican",
+            "Safety Net Programs",
+            "Rally Voters",
+            "Claire McCaskill",
+            "Paul Ryan",
+            "House",
+            "Dave Brat",
+            "Lindsey Graham",
+            "Devin Nunes",
+            "Pelosi",
+            "Indiana Biggest",
+            "Michigan",
+            "American",
+            "Dems",
+            "Midterm",
+            "Medicaid",
+            "Democrats Focus",
+            "Republican"
+        ],
+        "peaks": [],
+        "theme": [
+            "Democrats",
+            "midterms",
+            "Republican",
+            "election",
+            "Trump",
+            "House",
+            "states"
+        ],
+        "timestamp": "2018-10-29 09:10:21.719963-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd704a1421aa95294c1dfd1",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/cf1cfc9fa3e1f18aae29d80c62fb5f76-3648-2736-70-8-Election_2018_Progressive_Initiatives_39365jpg5764e.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+                    "origin": "Post Politics",
+                    "title": "The Health 202: Four red states will vote on Medicaid expansion in the midterms",
+                    "ts": 1540814560,
+                    "twitterid": 1056878985534152705,
+                    "url": "https://www.washingtonpost.com/news/powerpost/paloma/the-health-202/2018/10/29/the-health-202-four-red-states-will-vote-on-medicaid-expansion-in-the-midterms/5bd5dba81b326b38c0be1232/?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bd6157f421aa93cbbf6dd6e",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_43/2621791/181028-mtp-steve-stivers-al-1043_fccb91373888df458f31cbd356574379.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "House Republican campaign chief defends anti-Soros ads",
+                    "ts": 1540755011,
+                    "twitterid": 1056629219600539649,
+                    "url": "https://www.nbcnews.com/meet-the-press/house-republican-campaign-chief-defends-anti-soros-ads-n925356?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bd6da4d421aa94fb701466d",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/RdoDIsrbnWpfd41vG3jSA4Y-D1E=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DYMZX6GRAUI6RJG3DBBRDUTRFE.jpg",
+                    "origin": "Post Politics",
+                    "title": "In some states, ballot measures offer a Trump-free rallying cry",
+                    "ts": 1540804140,
+                    "twitterid": 1056835280244752387,
+                    "url": "https://www.washingtonpost.com/politics/2018/10/29/some-states-ballot-measures-offer-trump-free-rallying-cry/"
+                },
+                {
+                    "_id": "5bd6be31421aa94dcefb0658",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/c5/30/bffe635745479355f431babea863/181026-gerry-connolly-gtty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "The powerful weapon House Republicans handed Democrats",
+                    "ts": 1540798205,
+                    "twitterid": 1056810385616060416,
+                    "url": "https://www.politico.com/story/2018/10/28/house-republicans-subpoena-trump-943265"
+                },
+                {
+                    "_id": "5bd63fb0421aa93ff444dc09",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180411115022-2018-house-key-races-evergreen-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "CNN Key Races: House cleaning before Election Day",
+                    "ts": 1540766105,
+                    "twitterid": 1056675749351055365,
+                    "url": "https://www.cnn.com/2018/10/27/politics/cnn-house-key-races-late-october-update/index.html?utm_term=image&utm_source=twCNNp&utm_content=2018-10-28T22%3A35%3A04&utm_medium=social"
+                },
+                {
+                    "_id": "5bd63199421aa93eedfe5ec9",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/0kDdUfwUVTRmwuVzHegNXukwKms=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/437RBWWYWEI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Post Politics",
+                    "title": "Is spurning Trump enough? Republican Rep. Brian Fitzpatrick is about to find out.",
+                    "ts": 1540762549,
+                    "twitterid": 1056660835194626049,
+                    "url": "https://www.washingtonpost.com/politics/is-spurning-trump-enough-republican-rep-brian-fitzpatrick-is-about-to-find-out/2018/10/28/53131f60-d21c-11e8-8c22-fa2ef74bd6d6_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfa1",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/14/694940094001_5848613443001_5848620131001-vs.jpg",
+                    "origin": "Fox News Politics",
+                    "title": "State of the Midterms: Republican John James cuts Michigan Sen. Stabenow\u2019s lead in half",
+                    "ts": 1540817203,
+                    "twitterid": 1056890072291835904,
+                    "url": "https://www.foxnews.com/politics/state-of-the-midterms-republican-john-james-cuts-sen-stabenows-lead-in-half-in-michigan"
+                },
+                {
+                    "_id": "5bd6157f421aa93cbbf6dd69",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/electiondayvotevoting_0501818getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Democrats poised to outspend GOP in final two weeks of election: report",
+                    "ts": 1540755184,
+                    "twitterid": 1056629944808300549,
+                    "url": "https://thehill.com/homenews/campaign/413548-democrats-poised-to-outspend-gop-in-final-two-weeks-of-election-report"
+                },
+                {
+                    "_id": "5bd669de421aa944275cf90f",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_43/2617481/181024-impeach-45-ac-449p_21b876d01fa2ff5d50ffe703b2de0f0b.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "The 'I-word' won't be mentioned: Democrats dodge Trump impeachment on campaign trail",
+                    "ts": 1540774817,
+                    "twitterid": 1056712291335450624,
+                    "url": "https://www.nbcnews.com/politics/elections/i-word-won-t-be-mentioned-democrats-dodge-trump-impeachment-n924161?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bd677ef421aa94592e15f9d",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/23/AP_16246575560158_s2048x1534.jpg?e02307a44d6b8388540e6a40cdb14eb5791b4b9f",
+                    "origin": "The Washington Times",
+                    "title": "Ben Ray Lujan, DCCC chair, \u2018confident\u2019 Democrats will win House control in midterm elections",
+                    "ts": 1540779206,
+                    "twitterid": 1056730699368226816,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/ben-ray-lujan-dccc-chair-confident-democrats-will-/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            51
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Anthem Controversy",
+            "Cruz Virginia",
+            "California Biden",
+            "DHS",
+            "LeBron James",
+            "White House Papadopoulos",
+            "List How",
+            "How Trump",
+            "BBC",
+            "Election Hacking Trump",
+            "LA",
+            "Beto",
+            "Montana",
+            "Trump",
+            "People",
+            "Russian",
+            "White House",
+            "Trump Ronald Reagan",
+            "Relentless Red Sox",
+            "Gillum",
+            "Anthony Scaramucci",
+            "iPhone Scaramucci",
+            "Opioid Crisis",
+            "San Antonio",
+            "Washington",
+            "Florida",
+            "NFL",
+            "Clinton",
+            "GOP",
+            "Trolls",
+            "Tester",
+            "US",
+            "Jackson",
+            "China",
+            "DeSantis",
+            "Obama",
+            "Heitkamp Trump",
+            "Tariffs",
+            "Iran",
+            "Texas Senate",
+            "Nelson",
+            "Adam Schiff",
+            "Jim Carrey",
+            "NYC",
+            "Corey Stewart Obama"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "president",
+            "us",
+            "Clinton",
+            "Hillary",
+            "media",
+            "says"
+        ],
+        "timestamp": "2018-10-29 09:10:22.624073-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd6e867421aa950adb18cf4",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/AP18299846221560.jpg",
+                    "origin": "Fox News",
+                    "title": "Hillary Clinton says, 'I'd like to be president,' at NYC event",
+                    "ts": 1540810800,
+                    "twitterid": 1056863213860593664,
+                    "url": "https://www.foxnews.com/politics/id-like-to-be-president-says-hillary-clinton"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfab",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/lVsHWC3jkcBwpcxZmKgC6_aVGfs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FDS3YZWZOQI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Post Politics",
+                    "title": "Hillary Clinton's curious comments on running for president in 2020",
+                    "ts": 1540816490,
+                    "twitterid": 1056887078276026368,
+                    "url": "https://www.washingtonpost.com/politics/2018/10/29/hillary-clintons-curious-comments-about/"
+                },
+                {
+                    "_id": "5bd677ef421aa94592e15f7d",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/clintonhillary_10122018.jpg",
+                    "origin": "The Hill",
+                    "title": "Hillary Clinton leaves door open for 2020 run: 'I'd like to be president'",
+                    "ts": 1540781822,
+                    "twitterid": 1056741670761496577,
+                    "url": "https://thehill.com/homenews/campaign/413572-hillary-clinton-leaves-door-open-for-2020-run-id-like-to-be-president?__twitter_impression=true"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfa9",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/2p7FnacBOwivsiOVZPtho6UMRPc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TGCYZG3OEI6RBO7PJVU2JOPXM.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018Well, I\u2019d like to be president\u2019: Hillary Clinton sends mixed signals on a 2020 White House bid",
+                    "ts": 1540816524,
+                    "twitterid": 1056887222799163392,
+                    "url": "https://www.washingtonpost.com/politics/well-id-like-to-be-president-hillary-clinton-sends-mixed-signals-on-a-2020-white-house-bid/2018/10/29/d17257a0-db6c-11e8-85df-7a6b4d25cfbb_story.html?utm_term=.46178790f46a&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd63199421aa93eedfe5ec6",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_091818gn10_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "BBC journalist says Trump was 'creepy' during interview",
+                    "ts": 1540762622,
+                    "twitterid": 1056661139730374663,
+                    "url": "https://thehill.com/homenews/media/413553-bbc-journalist-says-trump-was-creepy-in-interview"
+                },
+                {
+                    "_id": "5bd65bcf421aa94308e40e97",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonaldnevadarally2_092018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump points finger at media for 'division and hatred' plaguing US",
+                    "ts": 1540774145,
+                    "twitterid": 1056709473560154114,
+                    "url": "https://thehill.com/homenews/administration/413565-trump-points-finger-at-media-for-division-and-hatred-plaguing-us"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1df99",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/OBxlFgYiAYfDvXlU5zbsGIsbdgE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PJ3T6GWZMQI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Post Politics",
+                    "title": "Trump renews attacks on media as \u2018the true Enemy of the People\u2019",
+                    "ts": 1540817579,
+                    "twitterid": 1056891645415825408,
+                    "url": "https://www.washingtonpost.com/politics/trump-renews-attacks-on-media-as-the-true-enemy-of-the-people/2018/10/29/9ebc62ee-db60-11e8-85df-7a6b4d25cfbb_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bd62395421aa93ded4256e9",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_vr_eblock_181025_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "How President Trump misleads about the GOP and healthcare",
+                    "ts": 1540759864,
+                    "twitterid": 1056649575069573120,
+                    "url": "https://www.msnbc.com/velshi-ruhle/watch/how-president-trump-misleads-about-the-gop-and-healthcare-1353011779889?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bd5eb44421aa938d08a3be1",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170727065007-05-anthony-scaramucci-july-27-2017-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Anthony Scaramucci: Trump has 'no need to have a war with the media'",
+                    "ts": 1540744209,
+                    "twitterid": 1056583910648360960,
+                    "url": "https://www.cnn.com/2018/10/28/politics/anthony-scaramucci-trump-rhetoric-sotu-cnntv/index.html?utm_medium=social&utm_content=2018-10-28T16%3A30%3A08&utm_source=twCNNp&utm_term=image"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1df94",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_43/2621431/181027-donald-trump-af1-ew-319p_803aa55d9131c2a8476d7d8260e94641.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump rips the media as critics call for him to 'tone it down'",
+                    "ts": 1540817729,
+                    "twitterid": 1056892276813770752,
+                    "url": "https://www.nbcnews.com/politics/donald-trump/trump-rips-media-critics-call-him-tone-it-down-n925541"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            27
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Red Sox",
+            "Lead Series",
+            "Dodgers",
+            "White House",
+            "Boston Red Sox Beat LA Dodgers To Seal",
+            "Boston Red Sox",
+            "David Price",
+            "Rich Hill",
+            "Donald Trump",
+            "Boston From Kenmore Square",
+            "Beat Dodgers",
+            "Dave Roberts Boston Red Sox",
+            "Boston Common",
+            "Dodgers Red Sox",
+            "Clayton Kershaw",
+            "Steve Pearce",
+            "Alex Cora",
+            "Boston Red Sox Beat LA Dodgers To Win"
+        ],
+        "peaks": [],
+        "theme": [
+            "Red",
+            "Series",
+            "Sox",
+            "World",
+            "Dodgers",
+            "Win",
+            "Boston"
+        ],
+        "timestamp": "2018-10-29 09:10:23.094634-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd685fa421aa9469165fb5e",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/28/World_Series_Red_Sox_Dodgers_Baseball_82101.jpg-ddefb_s2048x1552.jpg?7d7f85c8b25aa56157c77061e5e49be18ff88e04",
+                    "origin": "The Washington Times",
+                    "title": "Boston Red Sox win World Series, beat LA Dodgers",
+                    "ts": 1540783123,
+                    "twitterid": 1056747127764848640,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/boston-red-sox-win-world-series-beat-la-dodgers/"
+                },
+                {
+                    "_id": "5bd6f679421aa9519f6ed897",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/29/gettyimages-1054823646_wide-3f13175ab9d1e5419dd3600f2ff2e2dddd5f3ee0.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Boston Red Sox Beat LA Dodgers To Win World Series",
+                    "ts": 1540811692,
+                    "twitterid": 1056866955238535168,
+                    "url": "https://www.npr.org/2018/10/29/661604227/boston-red-sox-beat-la-dodgers-to-seal-world-series-win?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2057"
+                },
+                {
+                    "_id": "5bd685fa421aa9469165fb43",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/boston.jpg",
+                    "origin": "Fox News",
+                    "title": "Boston Red Sox win the World Series",
+                    "ts": 1540785021,
+                    "twitterid": 1056755089698893824,
+                    "url": "https://www.foxnews.com/sports/boston-red-sox-win-the-world-series"
+                },
+                {
+                    "_id": "5bd69403421aa9478b643c67",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/29/gettyimages-1054823646_wide-3f13175ab9d1e5419dd3600f2ff2e2dddd5f3ee0.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Boston Red Sox Beat LA Dodgers To Seal World Series Win",
+                    "ts": 1540786845,
+                    "twitterid": 1056762738783924225,
+                    "url": "https://www.npr.org/2018/10/29/661604227/boston-red-sox-beat-la-dodgers-to-seal-world-series-win?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bd6a20c421aa9488d6182de",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/29/359b0db0-bbe4-4233-a63a-2007d5bf8ccd/thumbnail/1200x630/8932e0e798bd0c6557c3cfa9aaea16e1/red-sox-fans-celebrate-102818.jpg",
+                    "origin": "CBS News",
+                    "title": "Red Sox fans celebrate World Series win on streets of Boston",
+                    "ts": 1540790645,
+                    "twitterid": 1056778680087797760,
+                    "url": "https://www.cbsnews.com/news/world-series-boston-red-sox-fans-celebrate-world-series-win-on-boston-streets-today-2018-10-28/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bd6997204d301507feede47&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bd6e867421aa950adb18cfd",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/boston.jpg",
+                    "origin": "Fox News",
+                    "title": "Boston Red Sox win the World Series behind two homers from Steve Pearce",
+                    "ts": 1540809900,
+                    "twitterid": 1056859438521344003,
+                    "url": "https://www.foxnews.com/sports/boston-red-sox-win-the-world-series"
+                },
+                {
+                    "_id": "5bd685fa421aa9469165fb4a",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/29/f493828b-84e0-453f-abb4-a5d5fa692b18/thumbnail/1200x630/725c51b6690793d14b779924e336152e/gettyimages-1054822550.jpg",
+                    "origin": "CBS News",
+                    "title": "Red Sox defeat Dodgers 5-1 in Game 5 to win 4th World Series title in 15 years",
+                    "ts": 1540784410,
+                    "twitterid": 1056752524869488641,
+                    "url": "https://www.cbsnews.com/news/boston-red-sox-beat-los-angeles-dodgers-world-series-game-5-live-updates-2018-10-28/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bd6811404d3016fb3e47f4e&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bd685fa421aa9469165fb54",
+                    "date_month": "2018-10",
+                    "image": "https://nbchardballtalk.files.wordpress.com/2018/10/gettyimages-1054782626-e1540780431462.jpg?w=1200",
+                    "origin": "NBC News",
+                    "title": "Red Sox, clearly the better team, win the World Series in five games over Dodgers",
+                    "ts": 1540783888,
+                    "twitterid": 1056750338236211202,
+                    "url": "https://mlb.nbcsports.com/2018/10/28/red-sox-clearly-the-better-team-win-the-world-series-in-five-games-over-dodgers/?cid=eref:nbcnews:text"
+                },
+                {
+                    "_id": "5bd685fa421aa9469165fb5d",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/29/USAT/5ba2dc71-0d20-4edf-8c3b-c649c9e765f4-USATSI_11547435.jpg?crop=4331,2436,x0,y94&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Red Sox beat Dodgers to win fourth World Series championship in 15 years",
+                    "ts": 1540783154,
+                    "twitterid": 1056747257998045185,
+                    "url": "https://www.usatoday.com/story/sports/mlb/2018/10/28/red-sox-win-world-series-championship-beat-dodgers/1803801002/"
+                },
+                {
+                    "_id": "5bd685fa421aa9469165fb61",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/kpm56EfLzozck73QsTAnOLGhbkw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q4BCDDG3FMI6RNZSHRZMX4JR6I.jpg",
+                    "origin": "Washington Post",
+                    "title": "Red Sox close out Dodgers in Game 5 to win fourth World Series title since 2004",
+                    "ts": 1540783074,
+                    "twitterid": 1056746924961906688,
+                    "url": "https://www.washingtonpost.com/sports/red-sox-close-out-dodgers-in-game-5-to-win-fourth-world-series-title-since-2004/2018/10/28/9b947e62-dad9-11e8-b732-3c72cbf131f2_story.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            85
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Athleisure Take",
+            "Mike Francesa Michael Buble",
+            "Campbell",
+            "Reward",
+            "Amway Coaches",
+            "Ben Affleck",
+            "Robot Revolution",
+            "Jeff Bezos",
+            "Favorite",
+            "Johnny Depp",
+            "New York",
+            "Ghost Wakefield",
+            "Trillium Brewing Company",
+            "Capture Abraham Lincoln",
+            "ABCD",
+            "Halloween Parade The Ghosts",
+            "US",
+            "Willy Wonka",
+            "Anjem Choudary",
+            "Los Muertos",
+            "Saints",
+            "Matt Damon",
+            "Soleil",
+            "Past Jacksonville Jaguars",
+            "Teenage Witch",
+            "Barcelona",
+            "ABC Xander Schauffele",
+            "Drew Brees",
+            "Halloween Teen",
+            "Washington",
+            "Diane Williams The BBC",
+            "New England",
+            "Boston",
+            "Impact",
+            "Adolf Hitler",
+            "Macy",
+            "Minnesota Vikings Mahmoud Ahmadinejad",
+            "Gaud\u00ed",
+            "Harlem",
+            "London",
+            "Disney World",
+            "Jimmy Kimmel",
+            "Cavs",
+            "Billerica",
+            "Dang",
+            "American Fashion",
+            "Jayme Closs",
+            "Mark Ulriksen",
+            "Amazon",
+            "FBI Yes",
+            "Mexico City Olympics Jonah Hill",
+            "Sabrina",
+            "Doggie Treat",
+            "Boston College",
+            "Fort Point White",
+            "Boston Red Sox",
+            "Kendall Square",
+            "Years Comes",
+            "Merrimack Valley",
+            "Cirque",
+            "DIY Halloween",
+            "Couple",
+            "MAGA",
+            "Mid90s",
+            "Scatter Family Ashes Cloudy",
+            "Cleveland Cavaliers",
+            "Mass",
+            "Tyronn Lue",
+            "HSBC Champions",
+            "Nature",
+            "Steve Pearce Show",
+            "Beale Street Could Talk",
+            "Georgia",
+            "Marie Antoinette",
+            "Netflix",
+            "No",
+            "NBA",
+            "Culture How",
+            "Tommie Smith",
+            "Master",
+            "Texas",
+            "History",
+            "Thai",
+            "Yosemite",
+            "James Baldwin",
+            "Leslie Odom",
+            "Pets Go",
+            "Coyote",
+            "Caribbean"
+        ],
+        "peaks": [],
+        "theme": [
+            "Halloween",
+            "kids",
+            "like",
+            "New",
+            "years",
+            "Boston",
+            "moment"
+        ],
+        "timestamp": "2018-10-29 09:10:24.652866-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd5cf2d421aa936cd5d9589",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/25/BostonGlobe.com/Business/Images/102518Walker28kirsner5225x.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "These new companies are like Uber or Lyft for kids",
+                    "ts": 1540735763,
+                    "twitterid": 1056548484420157448,
+                    "url": "https://www.bostonglobe.com/business/2018/10/26/these-new-companies-are-like-uber-lyft-for-kids/dSkZUO9wcDUYUS4WJYh9yL/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd63199421aa93eedfe5eba",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_43/2620321/181026-adult-hallloween-costume-ew-110p_ae36a5f8573f3752143fe29ec006910c.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Last minute DIY Halloween costume ideas for adults and kids",
+                    "ts": 1540763464,
+                    "twitterid": 1056664674366881795,
+                    "url": "https://www.nbcnews.com/better/pop-culture/last-minute-diy-halloween-costume-ideas-adults-kids-ncna924851?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd6e867421aa950adb18d1c",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/27/67148b88-45ae-4901-ac79-e11f394524e6/thumbnail/1200x630/bb826c95d87a083ab613927e97986202/1027-satmo-cirquedusoleil-diaz-1696872-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Cirque du Soleil gives the public a closer look: It's \"a bit like a Willy Wonka moment\"",
+                    "ts": 1540807383,
+                    "twitterid": 1056848884113268736,
+                    "url": "https://www.cbsnews.com/news/cirque-du-soleil-gives-the-public-a-closer-look-its-a-bit-like-a-willy-wonka-moment/"
+                },
+                {
+                    "_id": "5bd6be31421aa94dcefb0656",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/27/8bccbb90-3f79-4f94-8ec7-550b94835df9/thumbnail/1200x630/438c8b8aa8983524d72dc85e48d27fc4/sm-nature-spider-in-a-web-carl-mrozek-promo.jpg",
+                    "origin": "CBS News",
+                    "title": "Moment in Nature: Spiders",
+                    "ts": 1540798383,
+                    "twitterid": 1056811134332952576,
+                    "url": "https://www.cbsnews.com/news/moment-in-nature-spiders-carl-mrozek/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bd6b7ae04d3015462848f64&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bd6da4d421aa94fb701465d",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/g7P3LxIVFrVHf-nAs1k7jZHOAPU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZD5XQWXSUI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Kids with autism want to connect. Here\u2019s how other kids can help.",
+                    "ts": 1540805714,
+                    "twitterid": 1056841881861189632,
+                    "url": "https://www.washingtonpost.com/lifestyle/2018/10/25/kids-with-autism-want-connect-heres-how-other-kids-can-help/?utm_term=.0a8852296d18&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd677ef421aa94592e15fa4",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/27/nyregion/27xp-ghosts5/merlin_145601826_162f6ac2-6eda-41b0-88e2-87349d1a6c60-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "The Ghosts of New York\u2019s Past",
+                    "ts": 1540778646,
+                    "twitterid": 1056728350276902912,
+                    "url": "https://www.nytimes.com/2018/10/28/nyregion/halloween-ghost-stories.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5bd5dd32421aa937c88a0f0d",
+                    "date_month": "2018-10",
+                    "image": "https://images.newrepublic.com/56d9666eb00b3e2837cb4b3e2a71eaca20d01237.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The BBC\u2019s Best Drama in Years Comes to Netflix",
+                    "ts": 1540742413,
+                    "twitterid": 1056576379561672705,
+                    "url": "https://newrepublic.com/article/151895/bbcs-best-drama-years-comes-netflix"
+                },
+                {
+                    "_id": "5bd6b01c421aa94ccea4ade4",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-33337/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Boston Red Sox Win the World Series",
+                    "ts": 1540795505,
+                    "twitterid": 1056799061473406978,
+                    "url": "https://www.wsj.com/articles/boston-red-sox-win-the-world-series-1540783069?mod=e2tw"
+                },
+                {
+                    "_id": "5bd6f679421aa9519f6ed88e",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/28/BostonGlobe.com/Business/Images/Groupe-RCM-08.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Modular building growing in popularity in housing-starved Boston area",
+                    "ts": 1540812182,
+                    "twitterid": 1056869011454132224,
+                    "url": "https://www.bostonglobe.com/business/2018/10/28/modular-building-growing-popularity-housing-starved-boston-area/uNRbi9otdJYkzQxwZaDx4L/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd64dc7421aa941c39d3f33",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/AP18292284123311.jpg",
+                    "origin": "Fox News",
+                    "title": "Tourists facing 10 years in Thai jail over \u2018ridiculously drunk\u2019 stunt",
+                    "ts": 1540769760,
+                    "twitterid": 1056691079250997249,
+                    "url": "https://www.foxnews.com/travel/tourists-facing-10-years-in-thai-jail-over-ridiculously-drunk-stunt"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            22
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Red Sox",
+            "Wentworth",
+            "Boston",
+            "Pipe",
+            "Trump Is Culpable",
+            "Cesar Sayoc",
+            "Mueller",
+            "UMass Amherst",
+            "George Soros",
+            "China",
+            "DNA",
+            "FBI",
+            "Fenway"
+        ],
+        "peaks": [],
+        "theme": [
+            "bomb",
+            "suspect",
+            "Cesar",
+            "Sayoc",
+            "FBI",
+            "fire",
+            "pipe"
+        ],
+        "timestamp": "2018-10-29 09:10:25.118621-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd62395421aa93ded4256ee",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181026131258-02-cesar-sayoc-mugshot-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "What to expect in the case against pipe bomb suspect Cesar Sayoc",
+                    "ts": 1540759506,
+                    "twitterid": 1056648072174993409,
+                    "url": "https://www.cnn.com/2018/10/28/opinions/what-to-expect-in-case-against-sayoc-honig/index.html?utm_content=2018-10-28T20%3A45%3A05&utm_medium=social&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5bd669de421aa944275cf8e2",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/27/explosive_devices_suspect_13674_s2048x1257.jpg?c79a8ed0f8116ce8cad35ba23fbadfa1d20822ba",
+                    "origin": "The Washington Times",
+                    "title": "Cesar Sayoc, mail bomb suspect, changed radically",
+                    "ts": 1540777800,
+                    "twitterid": 1056724801774125056,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/cesar-sayoc-mail-bomb-suspect-changed-radically/"
+                },
+                {
+                    "_id": "5bd6157f421aa93cbbf6dd63",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_43/2621396/181027-cesar-sayoc-arrest-al-1025_9f800ad00fe7084c59b059bde436c73c.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Pipe bomb suspect was spinning records as FBI closed in",
+                    "ts": 1540755602,
+                    "twitterid": 1056631697654140929,
+                    "url": "https://www.nbcnews.com/news/us-news/pipe-bomb-suspect-was-spinning-records-fbi-closed-n925386?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd6157f421aa93cbbf6dd7c",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Sayoc.jpg",
+                    "origin": "Fox News",
+                    "title": "Pipe bomb suspect, tracked with DNA and social media posts, was spinning records as FBI closed in",
+                    "ts": 1540753560,
+                    "twitterid": 1056623131467505664,
+                    "url": "https://www.foxnews.com/tech/pipe-bomb-suspect-tracked-with-dna-and-social-media-posts-was-spinning-records-as-fbi-closed-in"
+                },
+                {
+                    "_id": "5bd5f94f421aa93a2efe27ed",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/26/Explosive_Devices_53999.jpg-8d83f_s2048x1152.jpg?b7a87d513031f47829d41b58a5b9b203fe712c1b",
+                    "origin": "The Washington Times",
+                    "title": "Cesar Sayoc obsessed with George Soros, conspiracy theories",
+                    "ts": 1540746374,
+                    "twitterid": 1056592992499351552,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/cesar-sayoc-obsessed-george-soros-conspiracy-theor/"
+                },
+                {
+                    "_id": "5bd6076b421aa93b3ddb2837",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ContentBroker_contentid-3fdc897e34734fec8f7f51237d1707f9.png",
+                    "origin": "Fox News",
+                    "title": "Mail bomb suspect's personality changed radically",
+                    "ts": 1540751249,
+                    "twitterid": 1056613438397521920,
+                    "url": "https://www.foxnews.com/us/mail-bomb-suspects-personality-changed-radically"
+                },
+                {
+                    "_id": "5bd6076b421aa93b3ddb282b",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/26/explosive_devices_69060_s1636x2048.jpg?8179c768fb0ff5d0be09fc8416dea2c89e7458a9",
+                    "origin": "The Washington Times",
+                    "title": "Cesar Sayoc-Rochelle Ritchie tweet: Twitter \u2018deeply sorry\u2019 for refusing to take down threat",
+                    "ts": 1540751998,
+                    "twitterid": 1056616579591479297,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/cesar-sayoc-rochelle-ritchie-tweet-twitter-deeply-/"
+                },
+                {
+                    "_id": "5bd5f94f421aa93a2efe27ec",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/US/ruby-ht-100-jpo-181026_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Fire stations recruit burn survivor dogs to help advocate for fire safety",
+                    "ts": 1540746386,
+                    "twitterid": 1056593043841785858,
+                    "url": "https://abcnews.go.com/US/fire-stations-recruit-burn-survivor-dogs-advocate-fire/story?id=58650333&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bd5eb44421aa938d08a3bdb",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/cesar-sayoc.jpg",
+                    "origin": "Fox News",
+                    "title": "Package bomb suspect told colleagues 'everything that wasn\u2019t white didn\u2019t belong in the world': former boss",
+                    "ts": 1540744826,
+                    "twitterid": 1056586498487803909,
+                    "url": "https://www.foxnews.com/us/package-bomb-suspect-told-colleagues-everything-that-wasnt-white-didnt-belong-in-the-world-former-boss"
+                },
+                {
+                    "_id": "5bd63199421aa93eedfe5eb8",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/wraychristopher_10272018.jpg",
+                    "origin": "The Hill",
+                    "title": "The real FBI gets its man",
+                    "ts": 1540763586,
+                    "twitterid": 1056665182544519169,
+                    "url": "https://thehill.com/opinion/criminal-justice/413499-the-real-fbi-gets-its-man?__twitter_impression=true&__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            20
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Halloween",
+            "Boars",
+            "IKEA",
+            "Borrow",
+            "Yosemite National Park Manchester United",
+            "Six",
+            "Target",
+            "Hardest Climb",
+            "Vichai Srivaddhanaprabha",
+            "Taft Point",
+            "History",
+            "Ina Garten",
+            "Jose Mourinho",
+            "Leicester City"
+        ],
+        "peaks": [],
+        "theme": [
+            "City",
+            "Leicester",
+            "crash",
+            "helicopter",
+            "owner",
+            "Halloween",
+            "soccer"
+        ],
+        "timestamp": "2018-10-29 09:10:25.534782-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd63fb0421aa93ff444dc0f",
+                    "date_month": "2018-10",
+                    "image": "https://nbcprosoccertalk.files.wordpress.com/2018/10/gettyimages-528985996-e1540764697302.jpg?w=1200",
+                    "origin": "NBC News",
+                    "title": "Leicester City confirm owner\u2019s death in helicopter crash",
+                    "ts": 1540765525,
+                    "twitterid": 1056673316591808516,
+                    "url": "https://soccer.nbcsports.com/2018/10/28/leicester-city-confirm-owners-death-in-helicopter-crash/?cid=eref:nbcnews:text"
+                },
+                {
+                    "_id": "5bd63fb0421aa93ff444dc07",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/LeicesterCity-owner.jpg",
+                    "origin": "Fox News",
+                    "title": "Leicester City owner, 4 others killed in helicopter crash after soccer match, team confirms",
+                    "ts": 1540766399,
+                    "twitterid": 1056676984191885313,
+                    "url": "https://www.foxnews.com/world/leicester-city-owner-4-others-killed-in-helicopter-crash-after-soccer-match"
+                },
+                {
+                    "_id": "5bd5dd32421aa937c88a0f14",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181027183309-01-leicester-city-helicopter-crash-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Leicester City: Club owner's helicopter crashes after match",
+                    "ts": 1540741891,
+                    "twitterid": 1056574187941322754,
+                    "url": "https://www.cnn.com/2018/10/27/football/leicester-city-helicopter-crash-intl/index.html?utm_term=image&utm_content=2018-10-28T15%3A51%3A30&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bd5dd32421aa937c88a0f21",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/28/86e7f2f6-0cf9-41b5-b016-30faa2f40543/thumbnail/1200x630/44fa02cb58f1637ebf00534756f86d0f/ap-18300778984333.jpg",
+                    "origin": "CBS News",
+                    "title": "Helicopter crashes in flames outside soccer stadium after Leicester City game",
+                    "ts": 1540741184,
+                    "twitterid": 1056571222429962240,
+                    "url": "https://www.cbsnews.com/news/helicopter-crash-leicester-city-football-club-owner-after-premier-league-game-saturday-condition-unknown/?ftag=CNM-00-10aab7e&linkId=58831837"
+                },
+                {
+                    "_id": "5bd63fb0421aa93ff444dbf9",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/150701114702-vichai-srivaddhanaprabha-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Vichai Srivaddhanaprabha, Leicester City owner and retail magnate, dies at 60",
+                    "ts": 1540767304,
+                    "twitterid": 1056680777805676544,
+                    "url": "https://www.cnn.com/2018/10/28/football/vichai-srivaddhanaprabha-leicester-city-king-power-obit-intl/index.html?utm_content=2018-10-28T22%3A55%3A03&utm_medium=social&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5bd6076b421aa93b3ddb2820",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-33200",
+                    "origin": "The Wall Street Journal",
+                    "title": "Our Guide to Having an All-Out Halloween",
+                    "ts": 1540753212,
+                    "twitterid": 1056621673099771905,
+                    "url": "https://www.wsj.com/news/collection/halloween1028-9669dfb0?mod=e2tw"
+                },
+                {
+                    "_id": "5bd65bcf421aa94308e40e9d",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2014_40/695336/141001-halloween-candy-corn-1700_539e2169509dc704b46829727907d138.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Nutritionists rank Halloween candy from better to worst",
+                    "ts": 1540773845,
+                    "twitterid": 1056708214421704705,
+                    "url": "https://www.nbcnews.com/better/health/nutritionists-rank-halloween-candy-better-worst-ncna809956?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd5cf2d421aa936cd5d956f",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/UG4NaN08tg0KglXv-LTjV3bDJ28=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G2GZVQC5CQ2VHKJY6HQZC3FXDU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Six recipes to use up all of your \u2018extra\u2019 Halloween candy",
+                    "ts": 1540738258,
+                    "twitterid": 1056558949548412928,
+                    "url": "https://www.washingtonpost.com/news/voraciously/wp/2018/10/27/six-recipes-to-use-up-all-of-your-extra-halloween-candy/?utm_term=.419d8450ae15&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd63fb0421aa93ff444dc1c",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181028160120-wild-boars-old-trafford-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Manchester United: Wild Boars soccer team welcomed by Jose Mourinho and his side",
+                    "ts": 1540764908,
+                    "twitterid": 1056670728429453317,
+                    "url": "https://www.cnn.com/2018/10/28/football/thai-cave-soccer-team-manchester-united-spt-intl-duplicate/index.html?utm_term=image&utm_source=twCNN&utm_medium=social&utm_content=2018-10-28T22%3A15%3A07"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            67
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Jerusalem",
+            "Atlantic Synagogue",
+            "DCCC",
+            "Gab",
+            "Death Penalty",
+            "Financial",
+            "Trumpism Is Bent",
+            "America Trump Calls",
+            "Mike Pence",
+            "PA Synagogue",
+            "Trump",
+            "Dutiful Words",
+            "Lankford",
+            "Old City",
+            "European Jews",
+            "Robert Bowers",
+            "Life",
+            "America Synagogue",
+            "Business",
+            "Wall Street Journal",
+            "Jews Social",
+            "Western Wall",
+            "Pittsburgh Power Up",
+            "Pipe Bombs Jolt Voters",
+            "HIAS",
+            "Trump Show",
+            "GOP",
+            "Youngest Pittsburgh",
+            "Next Fight Mike Pence",
+            "Grief",
+            "Election Season Ends",
+            "Donald Trump",
+            "U.S.",
+            "Economic News",
+            "PayPal Pittsburgh",
+            "American",
+            "George Soros",
+            "Pittsburgh",
+            "Instagram Trump",
+            "NRCC",
+            "US How Gab",
+            "Election Winds Down",
+            "World News"
+        ],
+        "peaks": [],
+        "theme": [
+            "Pittsburgh",
+            "shooting",
+            "Synagogue",
+            "Trump",
+            "anti",
+            "semit",
+            "suspected"
+        ],
+        "timestamp": "2018-10-29 09:10:26.742494-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd5eb44421aa938d08a3be4",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/rQ0Rth9A-5IJMARo6e2rqYndAF0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WOPSGSW2NMI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Washington Post",
+                    "title": "How much responsibility does Trump bear for the synagogue shooting in Pittsburgh?",
+                    "ts": 1540744031,
+                    "twitterid": 1056583163819053057,
+                    "url": "https://www.washingtonpost.com/outlook/2018/10/28/how-much-responsibility-does-trump-bear-synagogue-shooting-pittsburgh/?utm_term=.5a53db62b919&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd5cf2d421aa936cd5d9575",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bd5c6e28d2fbe5f231ad242-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Pittsburgh mayor hits back at Trump's calls for armed guards after synagogue shooting",
+                    "ts": 1540737861,
+                    "twitterid": 1056557287991660545,
+                    "url": "https://www.businessinsider.com/pittsburgh-mayor-peduto-rebukes-trump-armed-guards-idea-2018-10"
+                },
+                {
+                    "_id": "5bd6157f421aa93cbbf6dd68",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/28/USAT/608bf7ad-3544-40d5-85d1-f8c87acbd288-pittsburgh_synagogue_anti-semitism.JPG?crop=6719,3762,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Pittsburgh synagogue rampage spotlights rising anti-Semitism in America",
+                    "ts": 1540755303,
+                    "twitterid": 1056630442303123456,
+                    "url": "https://www.usatoday.com/story/news/2018/10/28/pittsburgh-synagogue-shooting-anti-semitism-rise-america/1799933002/"
+                },
+                {
+                    "_id": "5bd5eb44421aa938d08a3be3",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/vigil-pittsburgh_10282018.jpg",
+                    "origin": "The Hill",
+                    "title": "Youngest Pittsburgh synagogue shooting victim was 54",
+                    "ts": 1540744145,
+                    "twitterid": 1056583644851134465,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/413536-youngest-synagogue-shooting-victim-was-54-pittsburgh-police"
+                },
+                {
+                    "_id": "5bd677ef421aa94592e15fa1",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/28/4dc48eec-e96e-4bd1-be31-1ab9f311f59d/thumbnail/1200x630/2f7436dd08442b05eb699b34824441b6/gettyimages-1054700340.jpg",
+                    "origin": "CBS News",
+                    "title": "Pittsburgh shooting suspect wrote anti-Semitic posts on social media",
+                    "ts": 1540778692,
+                    "twitterid": 1056728541646241798,
+                    "url": "https://www.cbsnews.com/news/robert-bowers-pittsburgh-shooting-suspect-anti-semitic-posts-social-media-gab/?ftag=CNM-00-10aab7e&linkId=58842579"
+                },
+                {
+                    "_id": "5bd685fa421aa9469165fb52",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/28/4cc5b92f-e3f1-47d6-89c9-dc91cc8afb09/thumbnail/1200x630/3845262d2ad9fd5c9c8cb78e62c11143/screen-shot-2018-10-28-at-11-22-13-am.png",
+                    "origin": "CBS News",
+                    "title": "Lankford says Trump's rhetoric not to blame for \"deranged\" Pittsburgh shooting",
+                    "ts": 1540783985,
+                    "twitterid": 1056750745456906240,
+                    "url": "https://www.cbsnews.com/news/james-lankford-face-the-nation-denies-connection-between-trumps-rhetoric-and-pittsburgh-shooting/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bd67f6e04d3016a081b1dcb&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bd669de421aa944275cf8f7",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/28/USAT/8df57bb7-6425-4f50-adfc-c30ae5ed2079-tree_of_life.jpg?crop=1023,571,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Pittsburgh synagogue shooting: What makes a crime a hate crime?",
+                    "ts": 1540776600,
+                    "twitterid": 1056719769456513025,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/10/28/pittsburgh-synagogue-shooting-what-makes-hate-crime/1800875002/"
+                },
+                {
+                    "_id": "5bd5c115421aa9359179068a",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/28/aptopix_shooting_synagogue_73931_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Robert Bowers, Pittsburgh synagogue shooting suspect, registered as unaffiliated voter",
+                    "ts": 1540732833,
+                    "twitterid": 1056536195562381314,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/robert-bowers-pittsburgh-synagogue-shooting-suspec/"
+                },
+                {
+                    "_id": "5bd64dc7421aa941c39d3f44",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/28/USAT/054f093c-3116-4f05-8e90-5567d8df5d7c-steelers.jpg?crop=1023,572,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Synagogue president: A straight line from our Charlottesville ordeal to Pittsburgh shooting",
+                    "ts": 1540768501,
+                    "twitterid": 1056685797506772992,
+                    "url": "https://www.usatoday.com/story/opinion/2018/10/28/pittsburgh-shooting-inevitable-after-charlottesville-synagogue-president-column/1799092002/"
+                },
+                {
+                    "_id": "5bd64dc7421aa941c39d3f28",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/28/USAT/82b6fc6b-f9ff-40c0-9a4b-388a4970b33b-AP_Election_2018_Pence_Southwest.JPG?crop=3730,2098,x0,y117&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Pittsburgh shooting: Mike Pence says no link to Trump's angry language",
+                    "ts": 1540770301,
+                    "twitterid": 1056693348231233537,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/10/28/pittsburgh-shooting-political-reaction/1798466002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            34
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Uncertain Trail",
+            "Indonesian Plane",
+            "Sumatra Border",
+            "Board Crashes Off Indonesia Indonesian",
+            "Southern",
+            "Package",
+            "Lion Air",
+            "Kirstjen Nielsen",
+            "LGBTQ Central Americans",
+            "Mattis",
+            "Mexico Trump",
+            "Europe",
+            "Board Crashes Near Jakarta New",
+            "Guatemala",
+            "Indonesia",
+            "JT610",
+            "Jakarta Indonesian",
+            "Mexico Wait",
+            "Mexico Indonesia",
+            "Clashes",
+            "US",
+            "Spain",
+            "Migrant Caravan Plane",
+            "Synagogue",
+            "Brazil",
+            "Honduran Migrant",
+            "U.S.",
+            "Tapanatepec",
+            "James Mattis"
+        ],
+        "peaks": [],
+        "theme": [
+            "Migrant",
+            "caravan",
+            "crashes",
+            "Border",
+            "plane",
+            "Air",
+            "Indonesia"
+        ],
+        "timestamp": "2018-10-29 09:10:27.335261-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd677ef421aa94592e15f8e",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/28/AP_18080700206015_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Lion Air loses contact with Indonesia passenger plane",
+                    "ts": 1540780409,
+                    "twitterid": 1056735743555575808,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/lion-air-loses-contact-indonesia-passenger-plane/"
+                },
+                {
+                    "_id": "5bd685fa421aa9469165fb42",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-33327/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Plane With 188 People on Board Crashes Off Indonesia",
+                    "ts": 1540785184,
+                    "twitterid": 1056755774096109569,
+                    "url": "https://www.wsj.com/articles/plane-with-188-people-on-board-crashes-off-indonesia-1540784983?mod=e2tw"
+                },
+                {
+                    "_id": "5bd6e867421aa950adb18cf7",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/28/indonesia_lion_air_17016_s2048x1368.jpg?fd42bbe046ffd948e034ff7a7a81093fe3f86903",
+                    "origin": "The Washington Times",
+                    "title": "Indonesia says survivors unlikely from Lion Air plane crash",
+                    "ts": 1540810595,
+                    "twitterid": 1056862352518332417,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/indonesias-lion-air-says-its-lost-contact-with-air/"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfb5",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/lionair_102918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Lion Air plane crashes, sinks after takeoff from Jakarta",
+                    "ts": 1540816081,
+                    "twitterid": 1056885365385187329,
+                    "url": "https://thehill.com/policy/transportation/413577-indonesia-lion-air-plane-crashes-sinks-with-189-on-board"
+                },
+                {
+                    "_id": "5bd5c115421aa9359179067c",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/23/e45e76f9-d79c-481f-85b7-0550246fff99/thumbnail/1200x630/07015663e229d79c24b672bb37c13faf/1022-en-caravan-diaznew-1692449-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Migrant caravan: What happens if it reaches the U.S. border?",
+                    "ts": 1540733984,
+                    "twitterid": 1056541024233889792,
+                    "url": "https://www.cbsnews.com/news/migrant-caravan-what-happens-if-it-reaches-the-us-border/?ftag=CNM-00-10aab7e&linkId=58813711"
+                },
+                {
+                    "_id": "5bd677ef421aa94592e15f84",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/29/d96aa3c0-db69-4871-9574-6c1055ef9992/thumbnail/1200x630/91c03a039b02789888b5961c149260e1/gettyimages-519743056.jpg",
+                    "origin": "CBS News",
+                    "title": "Indonesia's Lion Air Flight JT-610 crashes into the sea, according to officials",
+                    "ts": 1540781341,
+                    "twitterid": 1056739652642717696,
+                    "url": "https://www.cbsnews.com/news/lion-air-plane-crash-flight-jt-610-boeing-737-accident-indonesia-live-updates-today/?ftag=CNM-00-10aab7e&linkId=58843968"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfb3",
+                    "date_month": "2018-10",
+                    "image": "https://www.trbimg.com/img-5bd6f409/turbine/ct-indonesia-lion-air-plane-crash-20181029",
+                    "origin": "Chicago Tribune",
+                    "title": "Indonesia says survivors unlikely from Lion Air plane crash with 189 people on board",
+                    "ts": 1540816180,
+                    "twitterid": 1056885779815788545,
+                    "url": "https://www.chicagotribune.com/news/nationworld/ct-indonesia-lion-air-plane-crash-20181029-story.html"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfd4",
+                    "date_month": "2018-10",
+                    "image": "https://media4.s-nbcnews.com/i/MSNBC/Components/Video/201810/Indonesia_Lion_Air_81871-jpg-2c4e8.jpg",
+                    "origin": "NBC News",
+                    "title": "Lion Air flight JT610 crashes minutes after taking off from Jakarta, Indonesia",
+                    "ts": 1540814418,
+                    "twitterid": 1056878389280342016,
+                    "url": "https://www.nbcnews.com/video/lion-air-flight-jt610-crashes-minutes-after-taking-off-from-jakarta-indonesia-1355737155834?v=railb&cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd5c115421aa9359179068e",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/18/macedonia_u.s._56832_s2048x1297.jpg?51a2a61078b6014a8aa4be641a31d9f3c816c531",
+                    "origin": "The Washington Times",
+                    "title": "James Mattis says military moving equipment to U.S.-Mexico border ahead of migrant caravan",
+                    "ts": 1540732334,
+                    "twitterid": 1056534105221939202,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/james-mattis-says-military-moving-equipment-us-mex/"
+                },
+                {
+                    "_id": "5bd6157f421aa93cbbf6dd62",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/28/694940094001_5854473653001_5854474468001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Migrant caravan stops in Mexico same day Mattis says US military is deploying resources to border",
+                    "ts": 1540755660,
+                    "twitterid": 1056631939459764225,
+                    "url": "https://www.foxnews.com/world/migrant-caravan-stops-in-mexico-same-day-mattis-says-us-military-is-deploying-resources-to-border"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            84
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Germany",
+            "Candace Owens",
+            "Great",
+            "Power",
+            "Abrams",
+            "Facebook",
+            "D.C.",
+            "Invictus",
+            "Caravan Crisis",
+            "God",
+            "Climate Change Is Already Damaging American",
+            "Telling Fact",
+            "Georgia",
+            "Khashoggi",
+            "CDU",
+            "Trump",
+            "EU",
+            "DeSantis Would",
+            "Russian",
+            "Opinion Avenatti",
+            "Midterms",
+            "Harvard Doesn",
+            "Actor Will Ferrell Goes",
+            "Found Illegal Megyn Kelly",
+            "Honduras Start",
+            "America Kanye West",
+            "Rabbi",
+            "Online Harassment",
+            "Kemp",
+            "WalkAway",
+            "Georgetown Prep",
+            "Conservative Party",
+            "Angela Merkel Saudi",
+            "Angela Merkel",
+            "Make Admission Any Easier",
+            "Leader",
+            "Democratic GA Gubernatorial Candidate How Dark Money Groups Keep Their Donors Hidden Religion",
+            "Washington",
+            "Back Mattis",
+            "Florida",
+            "Delay Enforcement",
+            "California",
+            "German Chancellor Merkel",
+            "Democratic Party",
+            "Ukraine",
+            "Nielsen",
+            "Political Ad",
+            "Carter",
+            "Saudis Merkel",
+            "US",
+            "AP",
+            "German",
+            "Hero California",
+            "Reagan",
+            "Indiana Soldier Killed",
+            "MeToo",
+            "Will Leave Party Role Donald Trump",
+            "Istanbul",
+            "Democrats",
+            "Security Check Required",
+            "Kanye West",
+            "Kavanaugh Is Hailed",
+            "Andrew Gillum",
+            "Japanese Princess Ayako",
+            "Jamal Khashoggi Case",
+            "Merkel Won",
+            "Civil Rights",
+            "Korean War Laid",
+            "Rest With Military Honors Kanye West",
+            "Obamacare",
+            "Jamal Khashoggi",
+            "U.S.",
+            "ISIS Suspect Is Freed",
+            "German Chancellor Angela Merkel",
+            "Pittsburgh",
+            "Arabia",
+            "College"
+        ],
+        "peaks": [],
+        "theme": [
+            "Party",
+            "Democrats",
+            "Merkel",
+            "elections",
+            "Khashoggi",
+            "Says",
+            "Trump"
+        ],
+        "timestamp": "2018-10-29 09:10:28.957226-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd64dc7421aa941c39d3f30",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/tGb5SfVd7mWsyCTAw-9Hsv3ulOg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P2MIWRW24MI6RNZSHRZMX4JR6I.jpg",
+                    "origin": "Washington Post",
+                    "title": "Merkel\u2019s troubles mount as her party stumbles in German regional elections",
+                    "ts": 1540769968,
+                    "twitterid": 1056691951662235649,
+                    "url": "https://www.washingtonpost.com/world/europe/merkels-troubles-mount-as-her-party-appears-to-stumble-in-german-regional-elections/2018/10/28/121ac32e-d3c4-11e8-a4db-184311d27129_story.html?utm_term=.7eb17bc139f7&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfac",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/29/rtx6gz9o_wide-9c65c24922a7aa9483e73380dbe48bf626a938df.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Germany's Angela Merkel Says She Won't Seek Re-Election; Will Leave Party Role",
+                    "ts": 1540816385,
+                    "twitterid": 1056886637391634433,
+                    "url": "https://www.npr.org/2018/10/29/661716749/germanys-angela-merkel-says-she-won-t-seek-reelection-will-leave-party-role?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bd669de421aa944275cf8dd",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/bd/e3/7ca3585f4a4fa54c5d3b13bed2f3/181028-avenatti-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Avenatti: Democrats can\u2019t fight Trump \u2018without a slingshot\u2019",
+                    "ts": 1540778405,
+                    "twitterid": 1056727337943908354,
+                    "url": "https://www.politico.com/story/2018/10/28/avenatti-trump-democrats-944952"
+                },
+                {
+                    "_id": "5bd5cf2d421aa936cd5d957b",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/b7/45/314a9469403697209100ed8de0c0/181028-voting-gettyimages-1053491428.jpg",
+                    "origin": "POLITICO",
+                    "title": "DHS 'more prepared' than ever to secure midterm elections, Nielsen says",
+                    "ts": 1540737306,
+                    "twitterid": 1056554956860215296,
+                    "url": "https://www.politico.com/story/2018/10/28/2018-elections-security-dhs-943795"
+                },
+                {
+                    "_id": "5bd685fa421aa9469165fb48",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/27/694940094001_5854248471001_5854242306001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "#WalkAway movement urges disgruntled Democrats to leave the party behind",
+                    "ts": 1540784700,
+                    "twitterid": 1056753742731730944,
+                    "url": "https://www.foxnews.com/politics/walkaway-movement-urges-disgruntled-democrats-to-leave-the-party-behind"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfa7",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/merkelangela_06192018.jpg",
+                    "origin": "The Hill",
+                    "title": "German Chancellor Merkel to give up party leadership",
+                    "ts": 1540816624,
+                    "twitterid": 1056887643512942592,
+                    "url": "https://thehill.com/policy/international/413584-merkel-to-give-up-party-leadership-report"
+                },
+                {
+                    "_id": "5bd62395421aa93ded4256fa",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ContentBroker_contentid-33fcd736ee414507a33b4940195067d6.png",
+                    "origin": "Fox News",
+                    "title": "Mattis says Khashoggi's brutal slaying 'undermines regional stability,' doesn't directly blame Saudis",
+                    "ts": 1540757761,
+                    "twitterid": 1056640752116207618,
+                    "url": "https://www.foxnews.com/politics/mattis-says-khashoggis-brutal-slaying-undermines-regional-stability-doesnt-directly-blame-saudis"
+                },
+                {
+                    "_id": "5bd6076b421aa93b3ddb283e",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/kosa1HTqSk7rRdivRKcdcxmeUfw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TCUYV5WOIII6REQP3VJODLSFOA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Kanye West designed \u2018Blexit\u2019 shirts urging black Democrats to leave the party",
+                    "ts": 1540750472,
+                    "twitterid": 1056610179574349825,
+                    "url": "https://www.washingtonpost.com/arts-entertainment/2018/10/28/kanye-west-designed-blexit-shirts-urging-black-democrats-leave-party/?utm_term=.5584fcdecb1d&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bd6e867421aa950adb18d11",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/29/czech_republic_germany_51922_s2048x1473.jpg?d6efd5d767486a5ae1333bf3a016540c931ff38a",
+                    "origin": "The Washington Times",
+                    "title": "Germany's Angela Merkel prepares to give up party job: Reports",
+                    "ts": 1540808205,
+                    "twitterid": 1056852331592069121,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/29/germanys-angela-merkel-prepares-give-party-job-rep/"
+                },
+                {
+                    "_id": "5bd6e867421aa950adb18d15",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-33355/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Germany\u2019s Merkel Won\u2019t Seek Re-Election as Leader of Conservative Party",
+                    "ts": 1540807858,
+                    "twitterid": 1056850873027096576,
+                    "url": "https://www.wsj.com/articles/germanys-merkel-wont-seek-re-election-as-leader-of-conservative-party-1540807633?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            138
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Title IX",
+            "Tara Sullivan",
+            "Roberts",
+            "Sony",
+            "Kate Brown",
+            "Chris Thompson",
+            "Houses",
+            "Redskins",
+            "Pain",
+            "Commercial Air Travel",
+            "Hudson River",
+            "Britain Nazis",
+            "Italy",
+            "Public Life",
+            "New Yorker Subscription Kobe Bryant",
+            "Alabama McDonald",
+            "Iowa",
+            "Kanye West Mass Shootings",
+            "Headphones Adenovirus",
+            "Pittsburgh",
+            "NAFTA",
+            "Hurricane Oscar",
+            "Hawaiian",
+            "Eagles",
+            "Sir Martin Rees",
+            "Steve Pearce",
+            "Trump",
+            "Ja Rule",
+            "Virginia",
+            "Latest World",
+            "Steelers",
+            "Mount Etna",
+            "Billionaire Brawl",
+            "Melissa McCarthy",
+            "Washington",
+            "Patriots Outside Seattle",
+            "Marie Kondo Tropical Storm Oscar",
+            "New U.S",
+            "Florida",
+            "Chris Sale",
+            "Loop",
+            "Indian",
+            "Denver",
+            "Antarctica Justin",
+            "Hurricane Michael",
+            "MVP",
+            "Woman",
+            "Paul Richardson",
+            "Football",
+            "Elizabeth Warren Fox",
+            "Clayton Kershaw",
+            "Honey",
+            "White Darkness",
+            "Aretha Franklin",
+            "Colored Girls",
+            "Larry Bird",
+            "USA",
+            "Jordan Hunt",
+            "NBC News",
+            "Atlantic Ocean Author Ntozake Shange",
+            "White House",
+            "New York The Family",
+            "YouTube",
+            "Patriots Licorice",
+            "How",
+            "China Hubble",
+            "Stephon Gilmore",
+            "New Jersey",
+            "Lou Dobbs",
+            "Nevada",
+            "Breaking News",
+            "Everest",
+            "Dodger Stadium",
+            "Cardboard Box",
+            "Brexit China",
+            "Local News The Sport",
+            "China",
+            "Red Sox",
+            "Boston Globe",
+            "Magic Johnson",
+            "Blame Cruise Ships",
+            "Row",
+            "Verdict",
+            "Rae Carruth",
+            "Sheldon Adelson",
+            "Times Without Schools",
+            "Melancholy",
+            "Giants",
+            "Fox Business News",
+            "Carolina Panthers",
+            "Rob Lowe",
+            "San Francisco",
+            "Jets",
+            "David Price",
+            "Video",
+            "Mookie Betts",
+            "Elite Skills",
+            "Banks Will Be",
+            "Tokyo",
+            "Jermaine Dupri",
+            "Robyn Has",
+            "Jail Activists",
+            "Against All Odds",
+            "Billionaires Buffett",
+            "Five Star",
+            "Oregon",
+            "Markieff Morris",
+            "New York Marcus",
+            "NASA",
+            "Concorde",
+            "Ntozake Shange",
+            "History",
+            "Californians Oldest",
+            "Panama City",
+            "North Carolina",
+            "Lost Glories",
+            "Dodgers",
+            "Walkman",
+            "Army",
+            "Metro",
+            "Adrian Peterson",
+            "New Jersey Hubble Space Telescope",
+            "Black",
+            "Live",
+            "New Suburbia",
+            "Alarm",
+            "Rural Hospitals Keep Closing",
+            "Essential Difference Between Bernie Sanders",
+            "Michelle Kwan",
+            "Alex Cora"
+        ],
+        "peaks": [],
+        "theme": [
+            "New",
+            "Sox",
+            "World",
+            "Game",
+            "Red",
+            "Series",
+            "Pittsburgh"
+        ],
+        "timestamp": "2018-10-29 09:10:30.860299-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd6157f421aa93cbbf6dd56",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/25/BostonGlobe.com/ReceivedContent/Images/102418Chin3.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "World Series Game 5: Red Sox at Dodgers lineups and notes",
+                    "ts": 1540756687,
+                    "twitterid": 1056636247991554055,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/28/world-series-game-red-sox-dodgers-lineups-and-notes/Wf0BY1sppjkqYbzxW8MxQJ/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd6a20c421aa9488d6182ee",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/29/BostonGlobe.com/ReceivedContent/Images/102818grossfeld1.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "David Price pitches Red Sox to World Series championship",
+                    "ts": 1540789234,
+                    "twitterid": 1056772759941009408,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/28/redsox/27ur2O5Gq6p0ypZsnObc6J/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1dfd0",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/29/BostonGlobe.com/ReceivedContent/Images/102818grossfeld1.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "David Price pitches Red Sox to 2018 World Series championship",
+                    "ts": 1540814608,
+                    "twitterid": 1056879187888431104,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/28/redsox/27ur2O5Gq6p0ypZsnObc6J/story.html?s_campaign=bostonglobe:native%20video:twitter"
+                },
+                {
+                    "_id": "5bd6f679421aa9519f6ed86e",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/29/BostonGlobe.com/Sports/Images/davisbla7Aspts.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Here are the all the highlights from Game 5 of the World Series",
+                    "ts": 1540814346,
+                    "twitterid": 1056878085675589633,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/29/here-are-all-highlights-from-game-world-series/8gLXhOiDfsQGVuhlCahhPK/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd6e867421aa950adb18d1a",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/29/BostonGlobe.com/ReceivedContent/Images/WS5davis22.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "With much at stake in Game 5, Red Sox delivered",
+                    "ts": 1540807410,
+                    "twitterid": 1056848995132293120,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/28/with-much-stake-game-red-sox-delivered/CtAr7S9xTJBn2bUhawnkhM/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd669de421aa944275cf8eb",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/29/BostonGlobe.com/Sports/Images/Clipboard-23876.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Larry Bird and Magic Johnson renewed their rivalry before Game 5 of the World Series",
+                    "ts": 1540777489,
+                    "twitterid": 1056723495831420929,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/28/larry-bird-and-magic-johnson-renewed-their-rivalry-before-game-world-series/g61eXwHDvVFWXf6RFpEPgN/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd5cf2d421aa936cd5d9593",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/28/BostonGlobe.com/Sports/Images/Chin102818GM4SoxLA1Spt14.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Chad Finn: After the Red Sox' Game 4 triumph, it might be time to plan for a parade",
+                    "ts": 1540735253,
+                    "twitterid": 1056546345916526593,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/28/after-game-triumph-might-time-plan-for-parade/3Nrfdxtin70RmSkVUpkY0M/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd6b01c421aa94ccea4adeb",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/29/BostonGlobe.com/ReceivedContent/Images/WS5davis24.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Steve Pearce named MVP of World Series",
+                    "ts": 1540794786,
+                    "twitterid": 1056796047631093760,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/28/steve-pearce-named-mvp-world-series/YiV1yv6iQm9mIV0WY6No3N/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd6b01c421aa94ccea4adf6",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/29/BostonGlobe.com/Sports/Images/cora_chin.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Alex Cora made all the right moves for Red Sox",
+                    "ts": 1540793750,
+                    "twitterid": 1056791700750917633,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/29/alex-cora-made-all-right-moves-for-red-sox/SrTvfyXWExZS4E4jk67X6N/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd6f679421aa9519f6ed8a4",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/29/BostonGlobe.com/ReceivedContent/Images/WS5davis8.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Dodgers ace Clayton Kershaw could not stop Red Sox",
+                    "ts": 1540810885,
+                    "twitterid": 1056863571144069120,
+                    "url": "https://www.bostonglobe.com/sports/redsox/2018/10/28/dodgers-manager-dave-roberts-ignores-criticism/M8L8c3w2OALxjItIDYdVMK/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            9
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Wacky",
+            "Tom Steyer",
+            "Donald Trump",
+            "GOP",
+            "Democratic",
+            "Fake News Must End"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Steyer",
+            "bomb",
+            "lunatic",
+            "mocks",
+            "Tom",
+            "Democratic"
+        ],
+        "timestamp": "2018-10-29 09:10:31.050968-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd6076b421aa93b3ddb2828",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/Fwefg02TaoMMzfb1OEeIb5LOXkI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SG4AABGZHYI6RIIPWUKUNMIHKY.jpg",
+                    "origin": "Post Politics",
+                    "title": "Trump mocks Democratic megadonor Tom Steyer, the target of a pipe bomb, as \u2018stumbling lunatic\u2019",
+                    "ts": 1540752133,
+                    "twitterid": 1056617145809940480,
+                    "url": "https://www.washingtonpost.com/politics/trump-mocks-democratic-megadonor-tom-steyer-the-target-of-a-pipe-bomb-as-stumbling-lunatic/2018/10/28/d4bebd0a-dad5-11e8-85df-7a6b4d25cfbb_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bd62395421aa93ded4256f2",
+                    "date_month": "2018-10",
+                    "image": "https://a57.foxnews.com/media2.foxnews.com/thumbnails/i/062514/640/360/062514_mckelway_steyer_640.jpg",
+                    "origin": "Fox News",
+                    "title": "Trump mocks 'crazed & stumbling lunatic' Tom Steyer, after billionaire rips president's rhetoric",
+                    "ts": 1540758660,
+                    "twitterid": 1056644522963218432,
+                    "url": "https://www.foxnews.com/politics/trump-mocks-crazed-stumbling-lunatic-tom-steyer-after-billionaire-rips-presidents-rhetoric"
+                },
+                {
+                    "_id": "5bd5f94f421aa93a2efe27d5",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/18/election_2018-ground_game-money_05662_s2048x1383.jpg?78a003fceec4a53fcff2f2ab1381c20a031c7841",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump mocks \u2018Wacky\u2019 Tom Steyer despite calls for calmer tone",
+                    "ts": 1540747813,
+                    "twitterid": 1056599027314241536,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/donald-trump-mocks-wacky-tom-steyer-despite-calls-/"
+                },
+                {
+                    "_id": "5bd6157f421aa93cbbf6dd7f",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/68/55/62685a1c4962a6d4e9c3738da4e1/181028-steyer-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump, hours after preaching unity, ridicules Democratic bomb target",
+                    "ts": 1540753224,
+                    "twitterid": 1056621723183919104,
+                    "url": "https://www.politico.com/story/2018/10/28/hours-after-preaching-unity-trump-ridicules-democratic-bomb-target-944017"
+                },
+                {
+                    "_id": "5bd6076b421aa93b3ddb282a",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/steyertom_010818gn8_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Steyer: Trump, GOP have helped fuel 'political violence'",
+                    "ts": 1540752062,
+                    "twitterid": 1056616848429629440,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/413543-steyer-on-attempted-bombings-trump-has-created-atmosphere-of"
+                },
+                {
+                    "_id": "5bd5f94f421aa93a2efe27c6",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_102618sr6_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump rips top Dem donor as \u2018lunatic\u2019 days after attempted bombing",
+                    "ts": 1540749545,
+                    "twitterid": 1056606290254925825,
+                    "url": "https://thehill.com/homenews/administration/413541-trump-rips-top-dem-donor-as-lunatic-days-after-attempted-bombing"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1df93",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/28/election_2018_trump_50644_s2048x1535.jpg?5021cf041d6551a438e20c9a51771c46bbd42751",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump: \u2018Fake News Must End!\u2019",
+                    "ts": 1540817873,
+                    "twitterid": 1056892880931971073,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/29/donald-trump-fake-news-must-end/"
+                },
+                {
+                    "_id": "5bd704a1421aa95294c1df9c",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/nMsXSQtl2n1qGNjENqkfrf9KJEs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VWBGZJW24MI6RM7QMJQHFCPP5Y.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump\u2019s grip on power depends on splitting the nation in two",
+                    "ts": 1540817389,
+                    "twitterid": 1056890850838495238,
+                    "url": "https://www.washingtonpost.com/opinions/trumps-grip-on-power-depends-on-splitting-the-nation-in-two/2018/10/28/c7ba9bca-d958-11e8-aeb7-ddcad4a0a54e_story.html?utm_term=.106ca4d7fa51&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd677ef421aa94592e15fa2",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bd65a835827d16103137b45-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Trump blames 'fake news' for the increase in political division felt across the country",
+                    "ts": 1540778666,
+                    "twitterid": 1056728433697394688,
+                    "url": "https://www.businessinsider.com/trump-blames-fake-news-for-political-divisions-across-the-country-2018-10"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            16
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Alex Hochuli Brazil",
+            "Brazil",
+            "Jair Bolsonaro",
+            "Brazilians",
+            "Couldn",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Bolsonaro",
+            "Brazil",
+            "Jair",
+            "rights",
+            "election",
+            "far",
+            "presidency"
+        ],
+        "timestamp": "2018-10-29 09:10:31.472324-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd6b01c421aa94ccea4adea",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/29/c7edf9a5-75a8-4550-86bb-3d643997e9aa/thumbnail/1200x630/25a1ae1f202c4c3b5977e0c224e8bc14/2018-10-29t024835z-2103332861-rc1edfd89370-rtrmadp-3-brazil-election.jpg",
+                    "origin": "CBS News",
+                    "title": "Far-right lawmaker Jair Bolsonaro wins Brazil's presidency, worrying rights groups",
+                    "ts": 1540795086,
+                    "twitterid": 1056797304064274432,
+                    "url": "https://www.cbsnews.com/news/brazil-far-right-lawmaker-jair-bolsonaro-wins-presidency-worrying-rights-groups-today-2018-10-28/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bd6aacb04d3011d03d12850&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bd63fb0421aa93ff444dbfe",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181016150659-bolsonaro-haddad-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Far-right candidate Jair Bolsonaro wins presidential election in Brazil",
+                    "ts": 1540767005,
+                    "twitterid": 1056679526091120645,
+                    "url": "https://www.cnn.com/2018/10/28/americas/brazil-election/index.html?utm_term=image&utm_content=2018-10-28T22%3A50%3A04&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bd6a20c421aa9488d6182db",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/69/c1/438743c8485b911a30aac37bc4c8/181028-bolsonaro-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Brazil elects far-right congressman Bolsonaro to presidency",
+                    "ts": 1540791001,
+                    "twitterid": 1056780170638622721,
+                    "url": "https://www.politico.com/story/2018/10/28/brazil-president-election-bolsonaro-944959"
+                },
+                {
+                    "_id": "5bd6a20c421aa9488d6182d6",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/29/ap_18301836140655_wide-0ed2e9d68d5e7477a45f4c102c663a9bed580af0.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Brazil's Far-Right Jair Bolsonaro Wins Presidential Runoff",
+                    "ts": 1540791351,
+                    "twitterid": 1056781640481918976,
+                    "url": "https://www.npr.org/2018/10/29/661657228/brazils-far-right-jair-bolsonaro-wins-presidential-runoff?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bd62395421aa93ded4256f9",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_43/2618386/181025-jair-bolsonaro-mc-1415_e8e5076c68031fc2c7c6c276afbd37cd.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Alex Hochuli Brazil presidential election: Who is Jair Bolsonaro, the popular candidate more dangerous than Trump?",
+                    "ts": 1540757763,
+                    "twitterid": 1056640761972830210,
+                    "url": "https://www.nbcnews.com/think/opinion/brazil-presidential-election-who-jair-bolsonaro-popular-candidate-more-dangerous-ncna925011?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd6be31421aa94dcefb064b",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_43/2618386/181025-jair-bolsonaro-mc-1415_e8e5076c68031fc2c7c6c276afbd37cd.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Alex Hochuli Brazil presidential election: Who is Jair Bolsonaro and why is he more dangerous than Trump?",
+                    "ts": 1540800008,
+                    "twitterid": 1056817948495622144,
+                    "url": "https://www.nbcnews.com/think/opinion/brazil-presidential-election-who-jair-bolsonaro-popular-candidate-more-dangerous-ncna925011?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd63fb0421aa93ff444dbfa",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/28/Brazil_Elections_20812.jpg-6b5e7_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219",
+                    "origin": "The Washington Times",
+                    "title": "Jair Bolsonaro elected as Brazil president",
+                    "ts": 1540767192,
+                    "twitterid": 1056680308739923969,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/28/jair-bolsonaro-elected-brazil-president/"
+                },
+                {
+                    "_id": "5bd64dc7421aa941c39d3f34",
+                    "date_month": "2018-10",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_43/2621981/181028-jair-bolsonaro-al-1910_7e5bf44e41dcdaea340ec31352a7f731.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Far-right Bolsonaro wins Brazil presidential race",
+                    "ts": 1540769706,
+                    "twitterid": 1056690852939079681,
+                    "url": "https://www.nbcnews.com/news/world/far-right-bolsonaro-wins-brazil-presidential-race-n925411?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd5f94f421aa93a2efe27cb",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/SI7EOtwLXl-EmRx3I3MOPKlkYw4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RS6KLCW2YEI6RM7QMJQHFCPP5Y.jpg",
+                    "origin": "Washington Post",
+                    "title": "Brazilians go the polls with far-right Jair Bolsonaro as front-runner",
+                    "ts": 1540748893,
+                    "twitterid": 1056603556688609282,
+                    "url": "https://www.washingtonpost.com/world/the_americas/brazilians-go-the-polls-with-far-right-jair-bolsonaro-as-front-runner/2018/10/28/880dd53c-d6dd-11e8-8384-bcc5492fef49_story.html?utm_term=.3b0fde71c29f&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd64dc7421aa941c39d3f4c",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/jeFVcQDFBidWUGjAWli7Fzs-vDg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I4ICU4WZJAI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Who is Jair Bolsonaro, the man likely to be Brazil\u2019s next president?",
+                    "ts": 1540767906,
+                    "twitterid": 1056683303489675265,
+                    "url": "https://www.washingtonpost.com/world/2018/10/28/critics-are-afraid-jair-bolsonaro-heres-where-he-stands-issues/?utm_term=.d66d0fdd98af&tid=sm_tw"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,1408 @@
+[
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Trump",
+            "Poll",
+            "Kavanaugh Clinton",
+            "Kavanaugh Brett Kavanaugh",
+            "Supreme Court",
+            "GOP",
+            "Senate"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "Poll",
+            "Americans",
+            "Clinton",
+            "says",
+            "support",
+            "Supreme"
+        ],
+        "timestamp": "2018-09-23 03:10:15.779281-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba6e5d3421aa9245d024088",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_38/2572006/180919-brett-kavanaugh-capitol-hill-njs-1150_744a4ae4584755310cb2d4abfdc74a02.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "Poll: More Americans oppose Kavanaugh confirmation than support it",
+                    "ts": 1537661333,
+                    "twitterid": 1043653390247571456,
+                    "url": "https://www.nbcnews.com/politics/first-read/poll-opposition-kavanaugh-s-confirmation-grows-n911581?cid=par-twitter-feed_20180923"
+                },
+                {
+                    "_id": "5ba604b3421aa91120eb840e",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/hillaryclinton_1_5.jpg",
+                    "origin": "The Hill",
+                    "title": "Clinton's support is too weak to win the presidency, says Dem pollster",
+                    "ts": 1537603800,
+                    "twitterid": 1043412081100435456,
+                    "url": "https://thehill.com/hilltv/what-americas-thinking/407820-clintons-support-is-too-weak-to-win-the-presidency-says-dem"
+                },
+                {
+                    "_id": "5ba5f6a3421aa910c6c97e27",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_090418am8_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Poll: 4 in 10 Americans want Senate to reject Kavanaugh",
+                    "ts": 1537601466,
+                    "twitterid": 1043402292295356416,
+                    "url": "https://thehill.com/homenews/senate/407747-poll-4-in-10-americans-want-senate-to-reject-kavanaugh"
+                },
+                {
+                    "_id": "5ba5f6a3421aa910c6c97e2f",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_091818gn15_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Clinton would beat Trump in landslide in 2016 re-run, says Hill.TV poll",
+                    "ts": 1537600860,
+                    "twitterid": 1043399749137657856,
+                    "url": "https://thehill.com/hilltv/what-americas-thinking/407675-clinton-would-beat-trump-in-landslide-in-2016-re-run-says"
+                },
+                {
+                    "_id": "5ba6754d421aa91b34099ddd",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180916154526-brett-kavanaugh-file-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Brett Kavanaugh is the least popular Supreme Court nominee in 30 years",
+                    "ts": 1537634708,
+                    "twitterid": 1043541720934371328,
+                    "url": "https://www.cnn.com/2018/09/22/politics/brett-kavanaugh-least-popular/index.html?utm_content=2018-09-22T16%3A45%3A08&utm_source=twCNN&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5ba6e5d3421aa9245d024086",
+                    "date_month": "2018-09",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_36/2554206/180904-brett-kavanaugh-hearing-capitol-hill-njs-1040_ff0f6551b1cba6ff265994743bc9e38c.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "Supreme stalemate traces back to the death of the filibuster",
+                    "ts": 1537661334,
+                    "twitterid": 1043653396589371392,
+                    "url": "https://www.nbcnews.com/politics/first-read/supreme-stalemate-traces-back-death-filibuster-n911816?cid=par-twitter-feed_20180923"
+                },
+                {
+                    "_id": "5ba612c3421aa911a4b61476",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/kxu8PpZrbmKlKPRQpWexRo-vX6s=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3JE4AYNHVU4NXEUPWKEWUZF4FI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Voters have turned against Kavanaugh",
+                    "ts": 1537608829,
+                    "twitterid": 1043433173974167553,
+                    "url": "https://www.washingtonpost.com/news/opinions/wp/2018/09/21/voters-have-turned-against-kavanaugh/?utm_term=.1dcb428fc9ae&tid=sm_tw"
+                },
+                {
+                    "_id": "5ba69f75421aa91ec3612b36",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_090518gn.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP woman on Kavanaugh allegations: 'What boy hasn\u2019t done this in high school?'",
+                    "ts": 1537644786,
+                    "twitterid": 1043583989745897473,
+                    "url": "https://thehill.com/homenews/senate/407927-gop-women-issue-strong-defense-of-kavanaugh"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            33
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "ObamaCare",
+            "Arizona",
+            "Medicare",
+            "Trump",
+            "Need",
+            "Marilyn Lloyd",
+            "Midwest",
+            "Stacey Abrams",
+            "POLITICO Race Ratings",
+            "Key House Dem",
+            "DOJ Congress",
+            "Al Franken",
+            "GOP Super",
+            "Control",
+            "Midterms",
+            "GOP",
+            "Mitch",
+            "Lori Trahan",
+            "Missouri",
+            "Debt",
+            "Dems",
+            "Tennessee Trailblazer",
+            "Rosie",
+            "PAC",
+            "Senate",
+            "Democratic Party",
+            "FBI",
+            "Pennsylvania",
+            "Pelosi",
+            "McConnell",
+            "Trouble",
+            "Nelson",
+            "Bloomberg",
+            "McCain",
+            "Likely",
+            "Lean Republican"
+        ],
+        "peaks": [],
+        "theme": [
+            "GOP",
+            "midterms",
+            "campaign",
+            "Care",
+            "Republican",
+            "bill",
+            "Congress"
+        ],
+        "timestamp": "2018-09-23 03:10:16.421438-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba62ee9421aa9155f4067df",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/6e/a3/9a88c0b14ca894159c9453d38876/180921-brian-fitzpatrick-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Republicans cast opioid bill as their health care achievement",
+                    "ts": 1537617610,
+                    "twitterid": 1043470005541765120,
+                    "url": "https://www.politico.com/story/2018/09/22/republicans-defend-opioid-bill-achievement-796837"
+                },
+                {
+                    "_id": "5ba64b13421aa9183ce6d171",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_ruhle_mpp_180917_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Big money Republican donors fleeing the party weeks before midterms",
+                    "ts": 1537621218,
+                    "twitterid": 1043485137747480577,
+                    "url": "https://www.msnbc.com/stephanie-ruhle/watch/big-money-republican-donors-fleeing-the-party-weeks-before-midterms-1322271811662?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5ba66736421aa91a235777dc",
+                    "date_month": "2018-09",
+                    "image": "https://www.apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Politics",
+                    "title": "Top political donor to GOP says he's no longer a Republican",
+                    "ts": 1537629472,
+                    "twitterid": 1043519758837194754,
+                    "url": "https://www.apnews.com/fcee8f6e04e148a9aa35cdb4a3eeccf7?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5ba604b3421aa91120eb8402",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/rothfuskeith_072017gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP House campaign arm cancels remaining ad reservation in Pittsburgh",
+                    "ts": 1537605063,
+                    "twitterid": 1043417377004761089,
+                    "url": "https://thehill.com/homenews/campaign/407842-gop-house-campaign-arm-cancels-remaining-ad-reservation-in-pittsburgh"
+                },
+                {
+                    "_id": "5ba6e5d3421aa9245d024087",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_14/2386446/180403-money-bills-se-354p_91ab836995786ae3a0640dbc4690baf9.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "First Read's Morning Clips: GOP Super PAC throws down more dollars for the midterms",
+                    "ts": 1537661333,
+                    "twitterid": 1043653394098020352,
+                    "url": "https://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-gop-super-pac-throws-down-n911811?cid=par-twitter-feed_20180923"
+                },
+                {
+                    "_id": "5ba63d02421aa916cd62eab4",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/151021062937-gop-paul-ryan-poll-house-speaker-leadership-newday-00021420-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Republican super PAC boosts spending in Likely and Lean Republican districts",
+                    "ts": 1537619583,
+                    "twitterid": 1043478280521814016,
+                    "url": "https://www.cnn.com/2018/09/21/politics/congressional-leadership-pac-new-ad-spending/index.html?utm_source=twCNNp&utm_content=2018-09-22T12%3A33%3A02&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5ba64b13421aa9183ce6d15a",
+                    "date_month": "2018-09",
+                    "image": "https://media.newyorker.com/photos/5ba319f4ebdea25a92882163/16:9/w_1200,h_630,c_limit/BWW-CoreyStewart-Secondary3.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Is the G.O.P. Actually in Trouble in the Midterms?",
+                    "ts": 1537623077,
+                    "twitterid": 1043492933314510848,
+                    "url": "https://www.newyorker.com/news/current/is-the-gop-actually-in-trouble-in-the-midterms?mbid=social_twitter"
+                },
+                {
+                    "_id": "5ba620da421aa9138e32a8f5",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/Health/WireAP_fd11663a78334fd7b5a435b5dcd499dc_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Groups say Medicare discounts threatened in opioids bill",
+                    "ts": 1537612493,
+                    "twitterid": 1043448543900512257,
+                    "url": "https://abcnews.go.com/Health/wireStory/groups-medicare-discounts-threatened-opioid-bill-57993144?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5ba66736421aa91a235777c6",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:57a1de48c0e945df98582ee7821abd78/800.jpeg",
+                    "origin": "AP Central U.S.",
+                    "title": "Control of Congress also at stake in state legislative races",
+                    "ts": 1537631343,
+                    "twitterid": 1043527604257673217,
+                    "url": "https://apnews.com/041e79b88fe44a6486fd8b33321516de?utm_medium=APCentralRegion&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5ba69171421aa91dcc5ab17b",
+                    "date_month": "2018-09",
+                    "image": "https://static01.nyt.com/images/2018/09/22/obituaries/22LLOYD2/22LLOYD2-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Marilyn Lloyd, 89, Tennessee Trailblazer in Congress, Dies",
+                    "ts": 1537639506,
+                    "twitterid": 1043561842809954304,
+                    "url": "https://www.nytimes.com/2018/09/21/obituaries/marilyn-lloyd-dead.html?smtyp=cur&smid=tw-nytpolitics"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            439
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Mike Pompeo",
+            "Kentucky",
+            "Truth",
+            "Host Special Fox News Election Show",
+            "Fight Against Harvard",
+            "Infowars",
+            "FCC",
+            "Struggle",
+            "Putin Really Wants",
+            "American Flag Shame",
+            "Walt Disney",
+            "Salacious",
+            "Rwandan",
+            "Chicago River",
+            "Atlantic",
+            "Flynn",
+            "Demand Inflates",
+            "Honor",
+            "Twitch",
+            "Qanon",
+            "Sleeper Hit",
+            "Trump Credit",
+            "Hurricane Florence Hurricane Florence",
+            "Real Lolita",
+            "Mattapan",
+            "Bulls",
+            "Golf Obsession",
+            "Maine",
+            "Deadly Attack",
+            "Marijuana",
+            "NRA",
+            "Cape",
+            "Prisons Scientists",
+            "NASCAR Google",
+            "NL Central",
+            "Egypt",
+            "Grammar Trump",
+            "Democrats",
+            "Facebook",
+            "Energy",
+            "Superman",
+            "Financial",
+            "Michael Moore",
+            "ICE",
+            "Australia",
+            "Fire Jeff Sessions",
+            "Iran Nanny",
+            "Limits New Findings",
+            "Wareham",
+            "Notre Dame Jerome Corsi",
+            "Florida",
+            "Wisconsin",
+            "North Carolina Beyonce",
+            "Mookie Betts",
+            "Hunger",
+            "Meghan Markle",
+            "Incredible",
+            "How",
+            "UN",
+            "FBI",
+            "European",
+            "UCLA",
+            "Slut Michelle Obama",
+            "HMB Endeavour",
+            "Great Recession",
+            "Goodbye",
+            "Core Teens",
+            "Immigration",
+            "North Korea",
+            "White Sox",
+            "DeVos Calls For Free-Speech Dramatic",
+            "White House",
+            "Hospital Bags",
+            "Michigan",
+            "Japanese",
+            "Boy",
+            "Florida Georgia Line",
+            "Michael Ketterer",
+            "Northwest Side Autumnal",
+            "Terrorist Groups",
+            "CDC",
+            "Nevada",
+            "GOP Congressman",
+            "GIF",
+            "Political Bias",
+            "Turkey",
+            "AP",
+            "DNA",
+            "Dietland",
+            "Iran How",
+            "New Home",
+            "NorCal Rapist",
+            "Hatch Act",
+            "Childbirth New China",
+            "Iran Colombia",
+            "Hawaii",
+            "Dos",
+            "Russian",
+            "Woman",
+            "Colorado Ranch Sells",
+            "Alexa",
+            "Baby",
+            "Chris Evans",
+            "Video",
+            "Logo Tattoo",
+            "Molly",
+            "Science",
+            "Good Samaritan",
+            "Sexual Assault Increasingly Turn To Service Dogs No",
+            "Service Violation",
+            "Alex Jones",
+            "Every",
+            "South Carolina",
+            "Nigerian",
+            "Robert Mueller Several",
+            "iHeartRadio",
+            "Westford",
+            "Malden",
+            "America Vatican",
+            "Orlando",
+            "Will Acquire British Broadcaster Sky Dem",
+            "Who",
+            "Enables Wrongful Convictions",
+            "Farewell",
+            "Brooke High School",
+            "Michael Cohen",
+            "Medal",
+            "Nena",
+            "North Carolina",
+            "KISS",
+            "Illusions",
+            "German",
+            "Partisanship",
+            "Melania Trump",
+            "Endangered Species",
+            "Indiana",
+            "Ink",
+            "Ted Cruz",
+            "Savior",
+            "Frank Oz",
+            "Fact",
+            "Rockford",
+            "Economic News",
+            "World News",
+            "Republican",
+            "Domino",
+            "U.S.",
+            "Carolinas Tribal",
+            "Alaska New",
+            "New York Drew Faust",
+            "PayPal",
+            "Harriet Tubman",
+            "Long Political History",
+            "CNN Nearly",
+            "Oil Below",
+            "Become Orthodox",
+            "Foolish Take",
+            "Billionaire Backer",
+            "Christian",
+            "Japan",
+            "Balance",
+            "Oktoberfest",
+            "MIT",
+            "Maria Butina Had Russian",
+            "Mass",
+            "Twitter",
+            "Sarah Palin",
+            "San Diego Rhino",
+            "Roger Stone",
+            "Sexual Assault Case Puerto Rico",
+            "Columbia Gas",
+            "Somalia",
+            "Trump",
+            "Amateur",
+            "MTA",
+            "Human Promise",
+            "Virginia",
+            "Joe Biden",
+            "Veronica Mars",
+            "Economy ID",
+            "Volkswagen Beetle",
+            "Nike",
+            "United",
+            "Trump Tower",
+            "Respect",
+            "Dallas",
+            "Minnesota Children",
+            "Power Causes Brain Damage Minnesota",
+            "Kosovo",
+            "Hurricane Ravages Your Hometown",
+            "Ted Kennedy",
+            "Kavanaugh",
+            "Gary",
+            "Syria",
+            "Chinese",
+            "Minnesota AG",
+            "Gordon Hayward",
+            "Taiwan",
+            "Clyde",
+            "Captain Cook",
+            "Colleges",
+            "Martin Luther King",
+            "Haddish",
+            "Manchester",
+            "GOP",
+            "Hank Green",
+            "Exchange",
+            "Burt Reynolds",
+            "USA",
+            "Arab",
+            "Richest",
+            "Daily",
+            "Iranian",
+            "SpaceX",
+            "Beto",
+            "Grief Florence",
+            "Villains",
+            "Screen Time Pompeo",
+            "Jason Aldean",
+            "New Jersey",
+            "Portugal Man",
+            "Search Results Maryland",
+            "Market",
+            "Kristen Bell",
+            "Campus",
+            "Lawrence",
+            "Greatest",
+            "RBRM",
+            "Wilbur Ross",
+            "Alejandro Escovedo",
+            "USS Pueblo",
+            "Puerto Rico",
+            "Bill Bennett",
+            "Munich Dale Earnhardt",
+            "Jerusalem",
+            "Stephen Colbert",
+            "Vietnam War",
+            "China Pope",
+            "Accuse California Doctor",
+            "Hollywood",
+            "China",
+            "New York",
+            "Paul Simon",
+            "Loan Forgiveness",
+            "Colin Kaepernick",
+            "Senseless Legal",
+            "Russia",
+            "Barbados Arrest",
+            "Fox News Election Special Billionaires",
+            "Portfolio Shouldn",
+            "David Brill",
+            "Houston Texans",
+            "Hurricane Maria How",
+            "Arizona",
+            "Queens",
+            "Jennifer Aniston Killer",
+            "Democratic",
+            "Jerry",
+            "BoJack Horseman",
+            "San Jose Earthquakes",
+            "ESPN",
+            "Charleston",
+            "Israel",
+            "Commerce",
+            "Cody Wilson",
+            "ISIS",
+            "Washington",
+            "Taiwan Keith Ellison",
+            "Ohio",
+            "Vegas Strong",
+            "National Mall",
+            "GoFundMe",
+            "Amazon",
+            "Wall Street Journal",
+            "FDA",
+            "Musk Reveals",
+            "Quotas Six",
+            "New American Gospel Hurricane Florence",
+            "Rihanna",
+            "Steve Hilton",
+            "Paris Agreement",
+            "Tropical Storm Kirk",
+            "Harlem Baker Who",
+            "OPEC Aims",
+            "Justin Theroux",
+            "Wake Forest",
+            "Mormon",
+            "Obama Foundation",
+            "Back Congress",
+            "Sandwich How",
+            "House Vatican",
+            "Best Planet Texas",
+            "Unredressed Injustice",
+            "Batman",
+            "Prince Harry Hong Kong",
+            "NFL",
+            "Rapper Suge Knight",
+            "Superior Rugelach",
+            "InfoWars",
+            "Digital Cities Are Abandoned",
+            "Bert",
+            "Banana",
+            "Business",
+            "Blue Room Joan Jett",
+            "California",
+            "Mexico",
+            "US",
+            "Vandal",
+            "Pennsylvania",
+            "People Really",
+            "Museum",
+            "MeToo",
+            "Expectant Mothers",
+            "Starbucks Bridezilla",
+            "Military Parade Attack",
+            "Puerto Rico Schools",
+            "Trump Maryland",
+            "White",
+            "National Guard",
+            "Sneaker Culture New Jersey",
+            "Tanzania Meet",
+            "Guatemalan",
+            "Season",
+            "New York City",
+            "Florence Jamie Lee Curtis Parents",
+            "Don",
+            "Wrong Way",
+            "Anthony Bourdain",
+            "Trauma",
+            "Lawsuit Jimmy Butler"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "New",
+            "saying",
+            "killed",
+            "Man",
+            "arrested",
+            "China"
+        ],
+        "timestamp": "2018-09-23 03:10:21.156300-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba68351421aa91c6fbf77ed",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/jkTo1kyr9I1iruhJ92H5Upl_R8A=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OYEPOF3KYI6RGASUOE34ZUQV4.jpg",
+                    "origin": "Washington Post",
+                    "title": "China cancels trade talks with U.S. as new Trump tariffs loom",
+                    "ts": 1537636866,
+                    "twitterid": 1043550770862411781,
+                    "url": "https://www.washingtonpost.com/world/china-cancels-trade-talks-with-us-as-new-trump-tariffs-loom/2018/09/21/c36138ac-be16-11e8-97f6-0cbdd4d9270e_story.html?utm_term=.90028b081b2c&tid=sm_tw"
+                },
+                {
+                    "_id": "5ba66736421aa91a235777c5",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/china_tradewar_092118istock.jpg",
+                    "origin": "The Hill",
+                    "title": "5 things to know about Trump's escalating trade war with China",
+                    "ts": 1537631345,
+                    "twitterid": 1043527614693101568,
+                    "url": "https://thehill.com/policy/finance/407871-5-things-to-know-about-trumps-escalating-trade-war-with-china?__twitter_impression=true"
+                },
+                {
+                    "_id": "5ba620da421aa9138e32a8fc",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/09/21/manhunt-ends-for-pennsylvania-man-who-allegedly-threatened-trump/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537572609965.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Manhunt ends for Pennsylvania man who allegedly threatened Trump",
+                    "ts": 1537612200,
+                    "twitterid": 1043447313656569856,
+                    "url": "http://www.foxnews.com/us/2018/09/21/manhunt-ends-for-pennsylvania-man-who-allegedly-threatened-trump.html"
+                },
+                {
+                    "_id": "5ba612c3421aa911a4b61473",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/13/4d70ccb7-2b09-421a-b216-cde1aff6c413/thumbnail/1200x630/cba5348b1e9d75df0f6f91174e552c04/rtst0cg.jpg",
+                    "origin": "CBS News",
+                    "title": "Walmart warning it'll raise prices as Trump's China tariffs kick in",
+                    "ts": 1537609683,
+                    "twitterid": 1043436755876237313,
+                    "url": "https://www.cbsnews.com/news/walmart-warning-it-will-raise-prices-as-new-trump-china-tariffs-kick-in/"
+                },
+                {
+                    "_id": "5ba62ee9421aa9155f4067fc",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/trump_xi_110917getty.jpg",
+                    "origin": "The Hill",
+                    "title": "China scraps trade talks with US after latest round of Trump tariffs",
+                    "ts": 1537614364,
+                    "twitterid": 1043456388071124992,
+                    "url": "https://thehill.com/policy/finance/407896-china-scraps-trade-talks-with-us-after-latest-round-of-trump-tariffs"
+                },
+                {
+                    "_id": "5ba604b3421aa91120eb8405",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/07/PDTF/47db646b-2bd6-4bce-9f47-37fbfbafb554-IMG_ruck_trump_jobs_cp_1_1_.jpg?crop=2999,1687,x1,y155&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "New China tariff list creates risk of 'downward cycle' for US auto industry",
+                    "ts": 1537605005,
+                    "twitterid": 1043417134884446208,
+                    "url": "https://www.usatoday.com/story/money/nation-now/2018/09/18/china-tariff-auto-industry-impact/1346276002/"
+                },
+                {
+                    "_id": "5ba6c9a0421aa922205987e7",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/lifestyle/2018/09/21/new-york-barber-goes-viral-for-giving-man-in-wheelchair-haircut-outdoors/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1537635817298.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "New York barber goes viral for giving man in wheelchair a haircut outdoors",
+                    "ts": 1537656480,
+                    "twitterid": 1043633036477300742,
+                    "url": "http://www.foxnews.com/lifestyle/2018/09/21/new-york-barber-goes-viral-for-giving-man-in-wheelchair-haircut-outdoors.html"
+                },
+                {
+                    "_id": "5ba64b13421aa9183ce6d14e",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/19/0/0/694940094001_5837219784001_5837213518001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Cody Wilson, man behind 3-D printed gun, arrested in Taiwan amid sex assault allegations, official says",
+                    "ts": 1537624020,
+                    "twitterid": 1043496889734320129,
+                    "url": "http://www.foxnews.com/us/2018/09/21/cody-wilson-man-behind-3-d-printed-gun-arrested-in-taiwan-amid-sex-assault-allegations-official-says.html"
+                },
+                {
+                    "_id": "5ba69f75421aa91ec3612b3d",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/22/0/0/694940094001_5838650446001_5838647779001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Steve Hilton: At the UN President Trump should call for a total economic boycott of China",
+                    "ts": 1537644521,
+                    "twitterid": 1043582877949136897,
+                    "url": "http://www.foxnews.com/opinion/2018/09/22/steve-hilton-at-un-president-trump-should-call-for-total-economic-boycott-china.html"
+                },
+                {
+                    "_id": "5ba64b13421aa9183ce6d163",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/iranflag_051518istock.jpg",
+                    "origin": "The Hill",
+                    "title": "25 killed in attack on military parade in Iran",
+                    "ts": 1537621983,
+                    "twitterid": 1043488344607522816,
+                    "url": "https://thehill.com/policy/defense/407901-24-killed-in-attack-on-military-parade-in-iran"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "DOJ",
+            "FBI",
+            "Gaetz",
+            "Trump",
+            "Documents Likely Will Reveal",
+            "Russia",
+            "FISA Court"
+        ],
+        "peaks": [],
+        "theme": [
+            "declassification",
+            "FISA",
+            "Trump",
+            "back",
+            "blind",
+            "Congressional",
+            "Court"
+        ],
+        "timestamp": "2018-09-23 03:10:21.250456-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba6c9a0421aa922205987f6",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/18/0/0/694940094001_5836511124001_5836512985001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Congressional sources 'blind-sided' by Trump decision to back off FISA declassification",
+                    "ts": 1537655040,
+                    "twitterid": 1043626997233127424,
+                    "url": "http://www.foxnews.com/politics/2018/09/22/congressional-sources-blind-sided-by-trump-decision-to-back-off-fisa-declassification.html"
+                },
+                {
+                    "_id": "5ba71e05421aa92a9f7411c6",
+                    "date_month": "2018-09",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_38/2574646/180921-donald-trump-mn-1216_464ef42bb04ce02122e5e6c5b07d7f00.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump surrenders on demand for declassification of Russia probe docs",
+                    "ts": 1537677962,
+                    "twitterid": 1043723138578755586,
+                    "url": "https://www.nbcnews.com/politics/national-security/trump-surrenders-demand-declassification-russia-probe-docs-n911871?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5ba620da421aa9138e32a901",
+                    "date_month": "2018-09",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/gaetz_oo.jpg?itok=JjRWmfgk",
+                    "origin": "Fox News",
+                    "title": "Gaetz: Declassified Documents Likely Will Reveal What DOJ, FBI 'Hid' From FISA Court",
+                    "ts": 1537611300,
+                    "twitterid": 1043443537562333185,
+                    "url": "http://insider.foxnews.com/2018/09/21/trump-asks-ig-review-fisa-documents-expedited-basis-matt-gaetz-reacts"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            73
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Kavanaugh Amid",
+            "Trump",
+            "Brett",
+            "Grassley",
+            "Bill Maher",
+            "Ford",
+            "Jodi Kantor",
+            "Giving Teenage",
+            "WhyIDidntReport Ford",
+            "Week",
+            "Kavanaugh",
+            "Brett Kavanaugh",
+            "Georgetown",
+            "Patti Davis",
+            "GOP Senate",
+            "Ronald Reagan",
+            "GOP",
+            "Christine Blasey Ford",
+            "Houston",
+            "Losing Kavanaugh",
+            "Anita Hill",
+            "Biggest Stories",
+            "Missouri News Quiz",
+            "Latest",
+            "Pass Pence",
+            "Mike Pence",
+            "Senate",
+            "GOP Can",
+            "Boom Times",
+            "McConnell",
+            "Will Testify Before Senate Committee Fact Check",
+            "Supreme Court",
+            "Murkowski"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "accuser",
+            "Ford",
+            "testify",
+            "allegation",
+            "assault",
+            "saying"
+        ],
+        "timestamp": "2018-09-23 03:10:22.211361-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba69171421aa91dcc5ab15f",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/21/USAT/b5da6c98-2320-45e6-bb7b-05f53eb2915f-AFP_AFP_19A0A0.jpg?crop=3187,1793,x433,y241&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Kavanaugh accuser Christine Blasey Ford agrees to testify about sexual assault allegation",
+                    "ts": 1537642032,
+                    "twitterid": 1043572438947311622,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/09/22/brett-kavanaugh-accuser-christine-blasey-ford-agrees-testify-senate-committee/1393891002/"
+                },
+                {
+                    "_id": "5ba65931421aa91936300235",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_38/2570906/180918-brett-kavanaugh-testify-ew-338p_bd8969be9fd0f7b430a30b7757969344.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Both sides prep for potential Kavanaugh/Ford hearing on sex assault allegation",
+                    "ts": 1537626127,
+                    "twitterid": 1043505727120248832,
+                    "url": "https://www.nbcnews.com/politics/supreme-court/both-sides-prep-potential-monday-kavanaugh-ford-hearing-sex-assault-n911836?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5ba6e5d3421aa9245d02406c",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/21/USAT/b5da6c98-2320-45e6-bb7b-05f53eb2915f-AFP_AFP_19A0A0.jpg?crop=3187,1793,x433,y241&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "Kavanaugh accuser Christine Blasey Ford tentatively agrees to testify Thursday",
+                    "ts": 1537663168,
+                    "twitterid": 1043661088221421569,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/09/22/brett-kavanaugh-accuser-christine-blasey-ford-agrees-testify-senate-committee/1393891002/"
+                },
+                {
+                    "_id": "5ba69171421aa91dcc5ab161",
+                    "date_month": "2018-09",
+                    "image": "http://global.fncstatic.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Ford \u2018accepts\u2019 request to testify about alleged Kavanaugh assault, lawyers request Thursday hearing",
+                    "ts": 1537641953,
+                    "twitterid": 1043572105290366977,
+                    "url": "http://www.foxnews.com/politics/2018/09/22/ford-accepts-request-to-testify-about-alleged-kavanaugh-assault-lawyers-request-thursday-hearing.html"
+                },
+                {
+                    "_id": "5ba69171421aa91dcc5ab158",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/21/BostonGlobe.com/National/Images/1stld-writethru-dbbb7f74-b1ce-11e8-aed9-001309990777.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Kavanaugh accuser will testify, reports say",
+                    "ts": 1537642418,
+                    "twitterid": 1043574056480636929,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/09/21/agreement-yet-with-kavanaugh-accuser-testifying-monday-vote-planned-unless-deal-reached/oCUIfIcaa8ksnxWRDlLOHI/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5ba6e5d3421aa9245d024068",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:953b8bc8fd8e43d0ad229fb0c091fce8/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "The Latest: Kavanaugh, Ford agree to testify on Thursday",
+                    "ts": 1537663504,
+                    "twitterid": 1043662499969675264,
+                    "url": "https://www.apnews.com/2ed7ae6ec79649918e2d6dea29cb29a7/The-Latest:-Kavanaugh,-Ford-agree-to-testify-on-Thursday?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5ba69f75421aa91ec3612b2e",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_090518gn4_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Kavanaugh accuser agrees to testify next week",
+                    "ts": 1537645982,
+                    "twitterid": 1043589005256867847,
+                    "url": "https://thehill.com/homenews/senate/407925-kavanaugh-accuser-agrees-to-testify-next-week"
+                },
+                {
+                    "_id": "5ba63d02421aa916cd62eaba",
+                    "date_month": "2018-09",
+                    "image": "http://v.politico.com/images/1155968404/201809/2866/1155968404_5838340326001_5838338628001-vs.jpg?pubId=1155968404",
+                    "origin": "POLITICO",
+                    "title": "Grassley extends deadline on Kavanaugh accuser\u2019s decision to testify",
+                    "ts": 1537619407,
+                    "twitterid": 1043477542211080192,
+                    "url": "https://www.politico.com/story/2018/09/21/trump-kavanaugh-christine-blasey-ford-charges-834664"
+                },
+                {
+                    "_id": "5ba69171421aa91dcc5ab15e",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/d3/c3/a70d25344dcfaaa4f7d1b5654519/180922-chuck-grassley-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Kavanaugh accuser accepts Senate Judiciary Committee\u2019s request to testify",
+                    "ts": 1537642104,
+                    "twitterid": 1043572738043138048,
+                    "url": "https://www.politico.com/story/2018/09/22/kavanaugh-accuser-accepts-senate-judiciary-committees-request-to-testify-836452"
+                },
+                {
+                    "_id": "5ba6ad89421aa91ffecfab3d",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/21/Supreme_Court_Kavanaugh_07733.jpg-64ed7_s2048x1331.jpg?340072411ab93bfcfc4777cd8365c8a639eec81f",
+                    "origin": "The Washington Times",
+                    "title": "Kavanaugh accuser's attorney says she will testify; doesn't commit to Wednesday",
+                    "ts": 1537646843,
+                    "twitterid": 1043592614669357060,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/22/kavanaugh-accusers-attorneys-say-she-will-testify-/?cache"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            2
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Giant",
+            "Thrones",
+            "Croatia",
+            "Miami Mass"
+        ],
+        "peaks": [],
+        "theme": [
+            "begins",
+            "Carnival",
+            "Croatia",
+            "cruise",
+            "game",
+            "Giant",
+            "Mass"
+        ],
+        "timestamp": "2018-09-23 03:10:22.278340-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba69171421aa91dcc5ab15b",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/-mm-/f02a958f8e3aefc58c09599f576b304b0d6ee476/c=0-105-1023-683/local/-/media/2018/04/23/USATODAY/USATODAY/636601076574988475-001.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Giant new Carnival cruise ship begins sailing from Miami",
+                    "ts": 1537642203,
+                    "twitterid": 1043573155946803200,
+                    "url": "https://www.usatoday.com/story/travel/cruises/2018/09/22/carnival-horizon-cruise-ship-debuts-miami/1380487002/"
+                },
+                {
+                    "_id": "5ba73a17421aa92ca18d57b2",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/Lifestyle/WireAP_0f21d6d3f45e4bce8a524ae01972b028_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Mass tourism threatens Croatia's 'Game of Thrones' town",
+                    "ts": 1537682864,
+                    "twitterid": 1043743701405716481,
+                    "url": "https://abcnews.go.com/Lifestyle/wireStory/mass-tourism-threatens-croatias-game-thrones-town-57982679?cid=social_twitter_abcn"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Hurricane Florence",
+            "Carolinas Have Just Begun",
+            "FEMA",
+            "FEMA Administrator Brock Long",
+            "Hurricane Florence Has Gone",
+            "DHS"
+        ],
+        "peaks": [],
+        "theme": [
+            "FEMA",
+            "government",
+            "used",
+            "vehicles",
+            "Administrator",
+            "Begun",
+            "Carolinas"
+        ],
+        "timestamp": "2018-09-23 03:10:22.438078-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba69171421aa91dcc5ab15c",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/Politics/brock-long-hearing-ap-mo-20180921_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "FEMA Administrator Brock Long chastised for using government vehicles",
+                    "ts": 1537642164,
+                    "twitterid": 1043572991169388545,
+                    "url": "https://abcnews.go.com/Politics/fema-administrator-brock-long-chastised-government-vehicles/story?id=58003206&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5ba65931421aa91936300238",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/aQPAhHwKfiV0z_pu0Y3kJsqH2Bw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7HUAKRF6BUI6RN6SA5Z2UHRT3I.jpg",
+                    "origin": "Washington Post",
+                    "title": "FEMA administrator will reimburse government, won\u2019t face charges from internal probe",
+                    "ts": 1537625885,
+                    "twitterid": 1043504711658352640,
+                    "url": "https://www.washingtonpost.com/world/national-security/fema-administrator-will-reimburse-government-wont-face-charges-from-internal-probe/2018/09/21/79a669e2-be04-11e8-97f6-0cbdd4d9270e_story.html?utm_term=.f66727ceb802&tid=sm_tw"
+                },
+                {
+                    "_id": "5ba63d02421aa916cd62eabc",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/longbrock_091118.jpg",
+                    "origin": "The Hill",
+                    "title": "FEMA head to reimburse government for use of federal vehicles: report",
+                    "ts": 1537619161,
+                    "twitterid": 1043476510114484224,
+                    "url": "https://thehill.com/homenews/administration/407891-fema-head-to-pay-back-government-for-personal-use-of-federal-vehicles"
+                },
+                {
+                    "_id": "5ba70fea421aa929b7896acd",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/16/479482a6-6c6f-479e-964b-d02f5d95fa12/thumbnail/1200x630/0a48dd6ca3a6236cf8dd85e09e8bf9c9/20180916-ftn-long-pre-tape-iso-frame-11046.png",
+                    "origin": "CBS News",
+                    "title": "FEMA chief used vehicles without authorizition, but won't be fired, DHS says",
+                    "ts": 1537673584,
+                    "twitterid": 1043704777035669504,
+                    "url": "https://www.cbsnews.com/news/brock-long-fema-used-vehicles-without-authorization-will-keep-job-kirstjen-nielsen-says-2018-09-21/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5ba7096d04d3015898fcc809&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5ba701ea421aa928caf1e6cb",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/22/BostonGlobe.com/National/Images/FLORENCE_RECOVERY_2.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Hurricane Florence has gone, but challenges for the Carolinas have just begun",
+                    "ts": 1537671613,
+                    "twitterid": 1043696507914993664,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/09/22/hurricane-florence-has-gone-but-challenges-for-carolinas-have-just-begun/yLe8Dm3y6Ugup1XAx88HjP/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5ba701ea421aa928caf1e6f9",
+                    "date_month": "2018-09",
+                    "image": "https://static01.nyt.com/images/2018/09/23/us/23carolinas-jp1-sub/00carolinas-01alt-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Hurricane Florence Has Gone, but Challenges for the Carolinas Have Just Begun",
+                    "ts": 1537668066,
+                    "twitterid": 1043681631779864576,
+                    "url": "https://www.nytimes.com/2018/09/22/us/hurricane-florence-carolina.html?partner=socialflow&smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5ba66736421aa91a235777c1",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:3180b4cf719c48c6b113512536688519/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "DHS secretary: FEMA chief misused cars, but won't lose job",
+                    "ts": 1537631667,
+                    "twitterid": 1043528965531598848,
+                    "url": "https://www.apnews.com/97502a9ebede401c88bba01f7b7b612b?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            27
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Rosenstein Donald Trump",
+            "Schumer",
+            "Rosenstein Report",
+            "Ingraham",
+            "Justice Department",
+            "Trump",
+            "Sean Hannity",
+            "Turley",
+            "Donald Trump",
+            "Obama Trump",
+            "New York Times",
+            "Razor",
+            "Corrupt",
+            "NYT",
+            "Rosenstein",
+            "McCabe",
+            "Mueller",
+            "Trump Responds",
+            "DOJ",
+            "FBI",
+            "Sessions Dershowitz",
+            "Rod Rosenstein",
+            "Horrible",
+            "Rosenstein Report Shows",
+            "Fox",
+            "Russia"
+        ],
+        "peaks": [],
+        "theme": [
+            "Rosenstein",
+            "Trump",
+            "fire",
+            "Report",
+            "Rod",
+            "Amendment",
+            "says"
+        ],
+        "timestamp": "2018-09-23 03:10:22.919329-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba612c3421aa911a4b61487",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/06/28/e933fb8c-c6ea-423a-80a3-cc4ea4ac596a/thumbnail/1200x630/e4aa2cb5034db862ac02cdb174c66d6d/gettyimages-986185524.jpg",
+                    "origin": "CBS News",
+                    "title": "Rod Rosenstein denies report saying he discussed invoking 25th Amendment to remove Trump",
+                    "ts": 1537606982,
+                    "twitterid": 1043425428063629312,
+                    "url": "https://www.cbsnews.com/news/rod-rosenstein-denies-report-saying-he-discussed-invoking-25th-amendment-to-remove-trump/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5ba605451adf6400010e7c7a&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5ba612c3421aa911a4b61484",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/rosensteinrod_091118am_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Hannity urges Trump not to fire 'anybody' after Rosenstein report",
+                    "ts": 1537607463,
+                    "twitterid": 1043427444257116160,
+                    "url": "https://thehill.com/homenews/media/407893-hannity-urges-trump-not-to-fire-anybody-after-rosenstein-report"
+                },
+                {
+                    "_id": "5ba69f75421aa91ec3612b3c",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/rosensteinrod_091118am_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Rosenstein wanted to wear wire on Trump, NYT says",
+                    "ts": 1537644543,
+                    "twitterid": 1043582968676188160,
+                    "url": "https://thehill.com/policy/national-security/407807-rosenstein-discussed-secretly-recorded-conversations-with-trump"
+                },
+                {
+                    "_id": "5ba64b13421aa9183ce6d16d",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/ingrahamlaura2_103017fox.jpg",
+                    "origin": "The Hill",
+                    "title": "Fox's Ingraham calls for Trump to fire Rosenstein",
+                    "ts": 1537621263,
+                    "twitterid": 1043485324889018368,
+                    "url": "https://thehill.com/homenews/media/407829-foxs-ingraham-calls-for-trump-to-fire-rosenstein"
+                },
+                {
+                    "_id": "5ba6754d421aa91b34099df8",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/21/ap_17201538285543_wide-9cd027b5cce87e3024c085559a901a1c8b319b1c.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Rosenstein Denies That He Discussed Recording Trump, Invoking 25th Amendment",
+                    "ts": 1537632445,
+                    "twitterid": 1043532228570025986,
+                    "url": "https://www.npr.org/2018/09/21/650545077/rosenstein-denies-that-he-discussed-recording-trump-invoking-25th-amendment?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180922"
+                },
+                {
+                    "_id": "5ba63d02421aa916cd62eab6",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media.foxbusiness.com/BrightCove/854081161001/201809/82/0/0/854081161001_5838392364001_5838389020001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Schumer rallies behind Rosenstein, warns Trump not to fire him",
+                    "ts": 1537619543,
+                    "twitterid": 1043478111185252353,
+                    "url": "http://www.foxnews.com/politics/2018/09/22/schumer-rallies-behind-rosenstein-warns-trump-not-to-fire-him.html"
+                },
+                {
+                    "_id": "5ba65931421aa91936300240",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/22/election_2018_trump_88762_s2048x1476.jpg?789a7b361f4130e9c0c74b2acedccea95336a38f",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump hints he may \u2018get rid of\u2019 Rod Rosenstein",
+                    "ts": 1537625292,
+                    "twitterid": 1043502224343801856,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/22/donald-trump-hints-he-may-get-rid-rod-rosenstein/"
+                },
+                {
+                    "_id": "5ba6d7c6421aa9233538dfa3",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/zr96PhAYxP-V8Jr9Xba9sryD4xQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GHNF5RV6SQI6RN6SA5Z2UHRT3I.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump holds his fire as advisers urge him not to dismiss Rosenstein",
+                    "ts": 1537658006,
+                    "twitterid": 1043639438994288640,
+                    "url": "https://www.washingtonpost.com/world/national-security/trump-holds-his-fire-as-advisers-urge-him-not-to-dismiss-rosenstein/2018/09/22/cc9c5f14-be93-11e8-b7d2-0773aa1e33da_story.html?__twitter_impression=true&tid=sm_tw"
+                },
+                {
+                    "_id": "5ba6754d421aa91b34099def",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/rosensteinrod_062818.jpg",
+                    "origin": "The Hill",
+                    "title": "NY Times, McCabe give Trump perfect cover to fire Rosenstein, Sessions",
+                    "ts": 1537633501,
+                    "twitterid": 1043536655347531777,
+                    "url": "https://thehill.com/opinion/white-house/407873-trumps-enemies-give-him-perfect-cover-to-fire-rosenstein-and-sessions"
+                },
+                {
+                    "_id": "5ba604b3421aa91120eb83fd",
+                    "date_month": "2018-09",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Jonathan%20Turley%20Reacts%20to%20Times%20Report%20on%20Rod%20Rosenstein.jpg?itok=Qj1PrSIb",
+                    "origin": "Fox News",
+                    "title": "Turley on Rosenstein Report: 'Optics Would Be Perfectly Horrible' If Trump Responds With 'Mass Firing'",
+                    "ts": 1537605900,
+                    "twitterid": 1043420888765530112,
+                    "url": "http://insider.foxnews.com/2018/09/21/jonathan-turley-rod-rosenstein-report-trump-and-25th-amendment"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            6
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "US",
+            "U.S.",
+            "Trump Administration Will Seek To Limit Green Cards For Immigrants Needing Public Aid Kirstjen Nielsen"
+        ],
+        "peaks": [],
+        "theme": [
+            "immigrants",
+            "cards",
+            "green",
+            "seeks",
+            "limits",
+            "public",
+            "Trump"
+        ],
+        "timestamp": "2018-09-23 03:10:23.053262-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba701ea421aa928caf1e6f1",
+                    "date_month": "2018-09",
+                    "image": "https://www.apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Politics",
+                    "title": "US seeks to curtail green cards for immigrants on public aid",
+                    "ts": 1537668914,
+                    "twitterid": 1043685190776905731,
+                    "url": "https://www.apnews.com/73bdc891ce054ffb944eecfa33562ccf/US-seeks-to-curtail-green-cards-for-immigrants-on-public-aid?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5ba6e5d3421aa9245d02408a",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/22/gettyimages-1017761754_wide-ad990c8ceae1bc2e246370ba254e746fa156e66d.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Trump Administration Will Seek To Limit Green Cards For Immigrants Needing Public Aid",
+                    "ts": 1537661284,
+                    "twitterid": 1043653187343855616,
+                    "url": "https://www.npr.org/2018/09/22/650808003/trump-administration-will-seek-to-limit-green-cards-for-immigrants-needing-publi?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5ba70fea421aa929b7896ad4",
+                    "date_month": "2018-09",
+                    "image": "https://thehill.com/sites/default/files/dhshomeland_082517getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump seeks to restrict green cards from those on food, housing assistance",
+                    "ts": 1537672863,
+                    "twitterid": 1043701752099495937,
+                    "url": "https://thehill.com/policy/407939-dhs-proposes-new-rule-to-ensure-immigrant-self-sufficiency"
+                },
+                {
+                    "_id": "5ba6e5d3421aa9245d02407f",
+                    "date_month": "2018-09",
+                    "image": "https://www.latimes.com/resizer/ca1tOfP0nPE1wBN6wx-l0NvceNU=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/I672SNSOOVAUBHHALVY5SXJRDM.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Trump administration seeks to limit access to U.S. for immigrants who use or are likely to use public assistance",
+                    "ts": 1537661945,
+                    "twitterid": 1043655957434183682,
+                    "url": "https://www.latimes.com/nation/nationnow/la-na-pol-immigrants-public-assistance-20180922-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5ba6f3d3421aa92585b76f04",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/05/Homeland_Security_Future_83155.jpg-2957f_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219",
+                    "origin": "The Washington Times",
+                    "title": "Kirstjen Nielsen approves welfare limits on immigrants",
+                    "ts": 1537665314,
+                    "twitterid": 1043670091144069121,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/22/kirstjen-nielsen-approves-welfare-limits-immigrant/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork"
+                },
+                {
+                    "_id": "5ba6c9a0421aa922205987e9",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/91/f9/7893ad4642eab1672396ee527742/180922-miller-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Immigrants may be denied green cards if they\u2019ve received welfare",
+                    "ts": 1537656307,
+                    "twitterid": 1043632311839993856,
+                    "url": "https://www.politico.com/story/2018/09/22/poor-immigrants-green-cards-trump-836456"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            4
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Great Boss",
+            "Army Falls Thousands Short",
+            "Economy Roars",
+            "Army"
+        ],
+        "peaks": [],
+        "theme": [
+            "Army",
+            "economy",
+            "recruits",
+            "Behaviors",
+            "bid",
+            "Boss",
+            "Contagious"
+        ],
+        "timestamp": "2018-09-23 03:10:23.143820-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5ba604b3421aa91120eb83fa",
+                    "date_month": "2018-09",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BV576_CAPTAI_SOC_20180920173528.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "The Two Contagious Behaviors of a Great Boss",
+                    "ts": 1537606263,
+                    "twitterid": 1043422410912030720,
+                    "url": "https://www.wsj.com/articles/the-two-contagious-behaviors-of-a-great-boss-1537588820?mod=e2tw"
+                },
+                {
+                    "_id": "5ba71e05421aa92a9f7411dc",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2015/03/19/a189585e-bb5c-43a9-bcf9-49647f750ea7/thumbnail/1200x630/0a1c96c8d83f267b8f06ca771c53f0ae/army-generic-52156733.jpg",
+                    "origin": "CBS News",
+                    "title": "Strong economy fuels rare shortfall in Army recruits, says major general",
+                    "ts": 1537675384,
+                    "twitterid": 1043712325130313733,
+                    "url": "https://www.cbsnews.com/news/strong-economy-fuels-shortfall-in-army-recruits-says-major-general/"
+                },
+                {
+                    "_id": "5ba72c08421aa92b7e6f1d56",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/09/23/USAT/9a6fc4f1-c1ef-4d05-8ce0-6507935e4773-USATSI_11302829.jpg?crop=4611,2577,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "No. 5 Oklahoma survives upset bid from Army in overtime",
+                    "ts": 1537682408,
+                    "twitterid": 1043741785170829313,
+                    "url": "https://www.usatoday.com/story/sports/ncaaf/2018/09/22/oklahoma-survives-army-upset-bid/1400933002/"
+                },
+                {
+                    "_id": "5ba65931421aa91936300243",
+                    "date_month": "2018-09",
+                    "image": "https://static01.nyt.com/images/2018/09/22/us/22army/22army-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "As Economy Roars, Army Falls Thousands Short of Recruiting Goals",
+                    "ts": 1537625045,
+                    "twitterid": 1043501187897729024,
+                    "url": "https://www.nytimes.com/2018/09/21/us/army-recruiting-shortage.html?smtyp=cur&smid=tw-nytnational"
+                }
+            ]
+        ]
+    }
+]

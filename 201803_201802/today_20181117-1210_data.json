@@ -1,0 +1,2382 @@
+[
+    {
+        "list": [
+            22
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Michael Wilbon",
+            "Panda",
+            "Out ESPN",
+            "Tony Kornheiser",
+            "Allston",
+            "Chicago",
+            "Climate Change Could Sink Amazon",
+            "Washington",
+            "New York Headquarters Republic",
+            "Blasio Fires Head",
+            "Swiss",
+            "Watchdog Agency Bombas",
+            "NYC Council Wants",
+            "Snowstorm",
+            "Amazon Booster",
+            "New York City",
+            "Carlisle",
+            "Hideout",
+            "U.S.",
+            "Northwestern Mayor",
+            "Amazon Scammed America",
+            "VIDEO",
+            "Northeast",
+            "New Jersey Take Heat Over Response",
+            "Second"
+        ],
+        "peaks": [],
+        "theme": [
+            "Cities",
+            "Amazon",
+            "New",
+            "snow",
+            "York",
+            "changing",
+            "fulfills"
+        ],
+        "timestamp": "2018-11-17 12:10:19.337980-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bef2246421aa923a475feee",
+                    "date_month": "2018-11",
+                    "image": "https://images.newrepublic.com/3313e06c00c13f3ef94b9872dd18bcfedb69f16d.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Climate Change Could Sink Amazon\u2019s New York Headquarters",
+                    "ts": 1542394841,
+                    "twitterid": 1063507164944310274,
+                    "url": "https://newrepublic.com/article/152255/climate-change-sink-amazons-new-york-headquarters"
+                },
+                {
+                    "_id": "5bef7692421aa926ecff1aa8",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/16/nyregion/16mayoramazon01/16mayoramazon01-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Can New York City\u2019s Mayor Be an Amazon Booster and Still Be Progressive?",
+                    "ts": 1542418567,
+                    "twitterid": 1063606676161482752,
+                    "url": "https://www.nytimes.com/2018/11/16/nyregion/mayor-de-blasio-amazon-progressive-nyc.html?smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5bf03b54421aa935ebbf6eb0",
+                    "date_month": "2018-11",
+                    "image": "https://images.newrepublic.com/6dfb5bb47ab4b901916ac23cce368091fd422da4.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Amazon Scammed America\u2019s Hurting Cities",
+                    "ts": 1542466857,
+                    "twitterid": 1063809220326420480,
+                    "url": "https://newrepublic.com/article/152190/amazon-scammed-americas-hurting-cities"
+                },
+                {
+                    "_id": "5befcaab421aa92cdb5a86dd",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/B_SfwZsJvix71gyHrVMDioxaUPI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7X7Y36HJLQI6RBCJD7ZGGYE2GE.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Here\u2019s how half a foot of snow led to a commuting nightmare in New York City this week",
+                    "ts": 1542441292,
+                    "twitterid": 1063701995117260801,
+                    "url": "https://www.washingtonpost.com/weather/2018/11/16/heres-how-half-foot-snow-led-commuting-nightmare-new-york-city-thursday/?utm_term=.93f800d709a3&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bf03b54421aa935ebbf6e94",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/17/BostonGlobe.com/Metro/Images/StormTotalSnowWeb-23096.png",
+                    "origin": "The Boston Globe",
+                    "title": "More snow expected Sunday night, changing to rainy mix",
+                    "ts": 1542469925,
+                    "twitterid": 1063822089986043905,
+                    "url": "https://www.bostonglobe.com/metro/2018/11/17/more-snow-expected-sunday-night-changing-rainy-mix/kER6Dy2AsSGRQaNzKCApdM/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb085",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-37586/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "New York City and New Jersey Take Heat Over Response to Snowstorm",
+                    "ts": 1542402906,
+                    "twitterid": 1063540991674724352,
+                    "url": "https://www.wsj.com/articles/nyc-and-nj-take-heat-over-response-to-snowstorm-1542399963?mod=e2tw"
+                },
+                {
+                    "_id": "5bf01f25421aa933c97699e5",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/14/USAT/44f0add6-0c36-440b-a6eb-afa534b0cb0d-GettyImages-905962544.jpg?crop=2768,1557,x0,y372&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Swiss authorities refuse to close brothel, say it \u2018fulfills social need\u2019",
+                    "ts": 1542463203,
+                    "twitterid": 1063793895891525635,
+                    "url": "https://www.usatoday.com/story/news/2018/11/17/swiss-authorities-refuse-close-brothel-fulfills-social-need-population-sex-worker/1808337002/"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee56f",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/jNR7X3dmSpzPa_V1cqMW-kjk6s0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RTS7PUXIVEI6RBCJD7ZGGYE2GE.jpg",
+                    "origin": "Post Politics",
+                    "title": "The biggest cities in the U.S. are getting bigger -- but they are losing political clout",
+                    "ts": 1542391599,
+                    "twitterid": 1063493566993969152,
+                    "url": "https://www.washingtonpost.com/business/2018/11/16/big-city-paradox-theyre-getting-richer-losing-electoral-clout/"
+                },
+                {
+                    "_id": "5bef4c73421aa9254bc9d8e9",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/16/beibei_wide-7f1585f83661ee113a502604b2796e7711313292.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "VIDEO: We Hope Your Day Is As Great As This Snow-Loving Panda's",
+                    "ts": 1542409144,
+                    "twitterid": 1063567156023947264,
+                    "url": "https://www.npr.org/2018/11/16/668700361/video-we-hope-your-day-is-as-great-as-this-snow-loving-pandas?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb089",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/16/BostonGlobe.com/Metro/Images/ryansnowstorm8met.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "\u2018It\u2019s great for business.\u2019 Despite 9.3 inches of snow, Carlisle is not fazed",
+                    "ts": 1542402673,
+                    "twitterid": 1063540012644515842,
+                    "url": "https://www.bostonglobe.com/metro/2018/11/16/despite-inches-snow-carlisle-business-usual/a12RcmB1Lshq9EcTDV75RJ/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            31
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Chico",
+            "San Francisco",
+            "Camp Fire",
+            "Trump",
+            "Camp Fire Trump",
+            "Jerry Brown",
+            "California Eight",
+            "Walmart",
+            "Paramount Ranch",
+            "New Governor",
+            "East Boston",
+            "Hydrogen",
+            "California",
+            "California Wildfires Camp Fire",
+            "Woolsey Fire",
+            "Smoke",
+            "Nature",
+            "Accumulate",
+            "Death",
+            "Snow Days",
+            "California Mayor",
+            "Rockland",
+            "California Tries",
+            "Northern California",
+            "Donald Trump",
+            "Minutes",
+            "Climate"
+        ],
+        "peaks": [],
+        "theme": [
+            "California",
+            "Fire",
+            "wildfire",
+            "Camp",
+            "Trump",
+            "death",
+            "missing"
+        ],
+        "timestamp": "2018-11-17 12:10:20.009960-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bf02d3c421aa93511910eb1",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/11/17/1113ae93-f561-446f-bb9b-0388da22379c/thumbnail/1200x630g2/3d2e12d69cf389d485f75d5582fdbe4d/trumpcalifornia.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump departs for California as wildfire death toll rises",
+                    "ts": 1542465000,
+                    "twitterid": 1063801433915568131,
+                    "url": "https://www.cbsnews.com/news/trump-departs-for-california-as-wildfire-death-toll-rises-2018-11-17/?ftag=CNM-00-10aab7e&linkId=59782320"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e5a",
+                    "date_month": "2018-11",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_46/2645566/181114-camp-fire-evacuate-mc-9142_de627960263b678e9a32628813453465.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Number of missing doubles in Northern California's Camp Fire",
+                    "ts": 1542401022,
+                    "twitterid": 1063533090461675521,
+                    "url": "https://www.nbcnews.com/news/us-news/number-missing-doubles-northern-california-s-camp-fire-seven-more-n937006"
+                },
+                {
+                    "_id": "5bef8493421aa927949e3514",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/16/USAT/6a3b9592-235b-4b74-8bba-96931f3a1ac6-XXX_Paradise_32.JPG?crop=5759,3226,x0,y152&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Eight more bodies bring California wildfire death toll to 71, with 1,000+ people missing",
+                    "ts": 1542422737,
+                    "twitterid": 1063624166451175424,
+                    "url": "https://www.usatoday.com/story/news/2018/11/16/california-wildfires-firefighters-need-2-more-weeks-contain-blaze/2025660002/"
+                },
+                {
+                    "_id": "5befbcb7421aa92a21bfe26d",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/axN237c-JZIw8H_Q-VwPNTALS-s=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D762KAXKEUI6RKJZSRU7CFTPTU.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Death toll rises to 71 in California wildfires as relatives search for the missing",
+                    "ts": 1542434632,
+                    "twitterid": 1063674057823043584,
+                    "url": "https://www.washingtonpost.com/national/death-toll-rises-to-71-in-california-wildfires-as-relatives-search-for-the-missing/2018/11/17/e481fa72-e9f3-11e8-b8dc-66cca409c180_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5bf02d3c421aa93511910eab",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/17/Trump_13838.jpg-535d4_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump visiting California to view wildfire damage, meet with first responders",
+                    "ts": 1542465764,
+                    "twitterid": 1063804638233796608,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/17/donald-trump-visiting-california-view-wildfire-dam/"
+                },
+                {
+                    "_id": "5bef8493421aa927949e3517",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/11/16/782f99ef-0180-4076-b98e-f6b67ec6e98b/thumbnail/1200x630/1719bc179f5efb99d6c0a71353c59ab4/2018-11-14t232242z-447963942-rc1e42db7b80-rtrmadp-3-california-wildfires.jpg",
+                    "origin": "CBS News",
+                    "title": "California throws lifeline to PG&E over potential Camp Fire liability",
+                    "ts": 1542422450,
+                    "twitterid": 1063622963805806592,
+                    "url": "https://www.cbsnews.com/news/pg-e-fires-in-california-camp-wildfire-utility/?ftag=CNM-00-10aab7e&linkId=59760687"
+                },
+                {
+                    "_id": "5bf02d3c421aa93511910ead",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/75/0a/3476438240de97eba65d916c9712/181117-trump-2-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump, en route to California, says more missing in wildfires 'than anyone thought even possible'",
+                    "ts": 1542465603,
+                    "twitterid": 1063803959649992704,
+                    "url": "https://www.politico.com/story/2018/11/17/trump-wildfires-california-trip-missing-1000488"
+                },
+                {
+                    "_id": "5bef92ad421aa9281d70b736",
+                    "date_month": "2018-11",
+                    "image": "https://www.trbimg.com/img-5bef8427/turbine/ct-california-fire-smoke-20181116",
+                    "origin": "Chicago Tribune",
+                    "title": "Northern California wildfire deaths rise to 71 ahead of Trump's visit; more than 1,000 unaccounted for",
+                    "ts": 1542423785,
+                    "twitterid": 1063628562215985152,
+                    "url": "https://www.chicagotribune.com/news/nationworld/ct-california-fire-smoke-20181116-story.html"
+                },
+                {
+                    "_id": "5bef5a6b421aa925c57b7ef7",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/brownjerry_041718.jpg",
+                    "origin": "The Hill",
+                    "title": "Jerry Brown to join Trump for Calif. visit to survey wildfire damage",
+                    "ts": 1542409984,
+                    "twitterid": 1063570676018229248,
+                    "url": "https://thehill.com/homenews/state-watch/417214-jerry-brown-to-join-trump-for-calif-visit-to-survey-wildfire-damage"
+                },
+                {
+                    "_id": "5befa097421aa928a6e149d6",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/11/16/8b3d5335-ff90-4d2f-a519-ef777f4c869a/thumbnail/1200x630/e24e2b1612082135872432c435780842/gettyimages-1062085606.jpg",
+                    "origin": "CBS News",
+                    "title": "Camp Fire evacuees at makeshift camp in Walmart parking lot given deadline to leave",
+                    "ts": 1542429184,
+                    "twitterid": 1063651208701841409,
+                    "url": "https://www.cbsnews.com/news/camp-fire-evacuees-makeshift-camp-walmart-parking-lot-chico-deadline-to-leave/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bef99fe04d30160f3b5b932&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            50
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Mississippi Senate",
+            "Georgia Governor",
+            "Florida",
+            "DeSantis",
+            "Congress Is Meant",
+            "Expert",
+            "Bill Nelson",
+            "Trump",
+            "Abrams And Gillum Are Both Likely",
+            "Midterms Republican Mia Love",
+            "Delayed Gratification",
+            "Kentucky House",
+            "Florida Recount Battle Entrepreneur",
+            "House",
+            "Quite Concede Abrams",
+            "Florida Senate Race",
+            "John Delaney",
+            "Struggle To Match Voters",
+            "Rick Scott",
+            "Bill Nelson Democrat",
+            "Georgia Has",
+            "Democrat Ben",
+            "WATCH",
+            "Manual Recount",
+            "Brian Kemp",
+            "GOP House",
+            "Georgia",
+            "Hand Recounts Progress",
+            "Senate Race Heads",
+            "Stacey Abrams",
+            "Florida Early",
+            "Texas Democrat",
+            "Into Election Week",
+            "Next",
+            "Abrams",
+            "Tight Senate Race",
+            "Stacey Abrams Ends Her Race",
+            "Dems",
+            "Florida Senate",
+            "Doesn",
+            "Mia Love",
+            "Southern California",
+            "Utah",
+            "Orange County",
+            "Says Brian Kemp"
+        ],
+        "peaks": [],
+        "theme": [
+            "race",
+            "Florida",
+            "Abrams",
+            "Georgia",
+            "Recount",
+            "governor",
+            "Democrat"
+        ],
+        "timestamp": "2018-11-17 12:10:20.757563-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bef8493421aa927949e3516",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/abrams_stacey_essence_fest.jpg",
+                    "origin": "The Hill",
+                    "title": "Abrams ends fight in Georgia governor's race",
+                    "ts": 1542422582,
+                    "twitterid": 1063623516875046912,
+                    "url": "https://thehill.com/homenews/campaign/417209-abrams-concedes-georgia-governors-race?rnd=1542406961"
+                },
+                {
+                    "_id": "5bef4c73421aa9254bc9d901",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/12/USAT/fd9dbc9f-ea59-4ab0-b3ad-8d8e44887f39-VPC_ABRAMS_KEMP_LAWSUIT_THUMB.jpg?crop=1919,1079,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Georgia governor election: Democrat Stacey Abrams acknowledges defeat",
+                    "ts": 1542407663,
+                    "twitterid": 1063560941101555712,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/11/16/stacey-abrams-push-new-georgia-governor-vote-race-brian-kemp/2023277002/"
+                },
+                {
+                    "_id": "5bef7692421aa926ecff1ac4",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/17/BostonGlobe.com/National/Images/87ed4f585ca24f7a8099e404af4f0c16-87ed4f585ca24f7a8099e404af4f0c16-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Abrams says she can\u2019t win Georgia governor race",
+                    "ts": 1542416948,
+                    "twitterid": 1063599888141877249,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/11/16/abrams-says-she-can-win-georgia-governor-race/CftpLnThDudnPxB7ym94LN/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef4c73421aa9254bc9d911",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/16/ap_18297031086595_wide-86dca0aea0b8747418527785a2921fcc29145ee9.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Democrat Stacey Abrams Ends Bid For Georgia Governor, Decrying 'Suppression'",
+                    "ts": 1542406771,
+                    "twitterid": 1063557201896382464,
+                    "url": "https://www.npr.org/2018/11/16/668753230/democrat-stacey-abrams-ends-bid-for-georgia-governor-decrying-suppression?utm_source=twitter.com&utm_medium=social&utm_campaign=politics&utm_term=nprnews&utm_content=2045"
+                },
+                {
+                    "_id": "5bef4c73421aa9254bc9d8e7",
+                    "date_month": "2018-11",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/11/Stacey-Abrams_2018-11-07T070543Z_2121801929_RC1BFCE128B0_RTRMADP_3_USA-ELECTION-GEORGIA-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "WATCH: Stacey Abrams says she cannot win Georgia governor\u2019s race",
+                    "ts": 1542409201,
+                    "twitterid": 1063567392226258944,
+                    "url": "https://www.pbs.org/newshour/politics/watch-stacey-abrams-says-she-cannot-win-georgia-governors-race"
+                },
+                {
+                    "_id": "5bef4c73421aa9254bc9d902",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-37648/social",
+                    "origin": "Capital Journal",
+                    "title": "Democrat Stacey Abrams Won\u2019t Concede, but Says Brian Kemp Will Be Georgia\u2019s Next Governor",
+                    "ts": 1542407654,
+                    "twitterid": 1063560905471025154,
+                    "url": "https://www.wsj.com/articles/democrat-stacey-abrams-wont-concede-but-says-brian-kemp-will-be-georgias-next-governor-1542407329?mod=e2twp"
+                },
+                {
+                    "_id": "5bef4c73421aa9254bc9d908",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/08/Election_2018_Governor_Georgia_Kemp_31581.jpg-2461e_s2048x1686.jpg?9571601735edc29789c1c431be7d640f7aa07523",
+                    "origin": "The Washington Times",
+                    "title": "Brian Kemp wins Georgia governor\u2019s race as Stacey Abrams gives up fight",
+                    "ts": 1542407443,
+                    "twitterid": 1063560021601107969,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/brian-kemp-wins-georgia-governors-race/?cache"
+                },
+                {
+                    "_id": "5bef8493421aa927949e3510",
+                    "date_month": "2018-11",
+                    "image": "https://media.newyorker.com/photos/5bef51b06412916d4f60dab7/16:9/w_1200,h_630,c_limit/Bethea-Abrams-Speech.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Stacey Abrams Ends Her Race for Governor of Georgia, but Doesn\u2019t Quite Concede",
+                    "ts": 1542423053,
+                    "twitterid": 1063625491981262848,
+                    "url": "https://www.newyorker.com/news/current/stacey-abrams-ends-her-race-for-governor-of-georgia-but-doesnt-quite-concede?utm_social-type=owned&utm_source=twitter&mbid=social_twitter&utm_medium=social&utm_brand=tny"
+                },
+                {
+                    "_id": "5bef2246421aa923a475fee9",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/17/us/17florida/17florida-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Florida\u2019s Senate Race Heads to the Wire in a Manual Recount",
+                    "ts": 1542394987,
+                    "twitterid": 1063507776037691393,
+                    "url": "https://www.nytimes.com/2018/11/16/us/rick-scott-bill-nelson-recount.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5bef2246421aa923a475feb8",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-37582/social",
+                    "origin": "Capital Journal",
+                    "title": "Manual Recount Under Way in Florida\u2019s Tight Senate Race",
+                    "ts": 1542397721,
+                    "twitterid": 1063519244942487557,
+                    "url": "https://www.wsj.com/articles/manual-recount-under-way-in-floridas-tight-senate-race-1542397579?mod=e2twp"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            60
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "New Mexico",
+            "Gas Explosions",
+            "Election Spending Quiz",
+            "Rape Trial",
+            "Junot Diaz",
+            "Brexit",
+            "ICC",
+            "Golan Heights News Quiz",
+            "Putin",
+            "Pfizer",
+            "Daily Cartoon",
+            "Ban Menthol",
+            "Egypt Trump",
+            "Mugabe",
+            "Billy Idol",
+            "Learn Slavery",
+            "U.N.",
+            "Israeli",
+            "Maduro",
+            "Mexico Marijuana",
+            "Clinton",
+            "America Federal Investigators Pinpoint",
+            "Menthol Cigarettes Man",
+            "Texas",
+            "Iran",
+            "Pulitzer Prize",
+            "Ohio House",
+            "Tinder",
+            "OAS",
+            "Netanyahu Coalition Partner Joins Push",
+            "Luis Almagro",
+            "U.S.",
+            "Mass",
+            "Climb",
+            "Headlines",
+            "American",
+            "Week",
+            "John Lennon",
+            "Khmer Rouge",
+            "Thong Underwear Cited",
+            "Senate Confirms Ally",
+            "Democratic",
+            "Syrian",
+            "FDA Seeks Ban",
+            "Zimbabwe",
+            "Witnesses Against El",
+            "Nation",
+            "Smaller Banks",
+            "Raab",
+            "Irish",
+            "Twelve Days",
+            "Ireland",
+            "Eric Swalwell",
+            "Youth Use",
+            "Early Elections Outrage",
+            "Japan"
+        ],
+        "peaks": [],
+        "theme": [
+            "drug",
+            "Cigarettes",
+            "FDA",
+            "gun",
+            "prices",
+            "Trump"
+        ],
+        "timestamp": "2018-11-17 12:10:21.757491-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bf00303421aa9315cf05cee",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/12/be/02ecd32a493d9a00693bdee6d411/181116-pfizer-getty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Pfizer raises drug prices again, rebuking Trump",
+                    "ts": 1542454212,
+                    "twitterid": 1063756184577064960,
+                    "url": "https://www.politico.com/story/2018/11/16/pfizer-drugs-prices-increase-trump-981010"
+                },
+                {
+                    "_id": "5bf03b54421aa935ebbf6e95",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-36985/social",
+                    "origin": "Capital Journal",
+                    "title": "FDA Seeks Ban on Menthol Cigarettes",
+                    "ts": 1542469892,
+                    "twitterid": 1063821951171473408,
+                    "url": "https://www.wsj.com/articles/big-tobacco-warns-it-may-fight-fda-over-a-menthol-ban-1542277800?mod=e2twp"
+                },
+                {
+                    "_id": "5bef063a421aa92292aa81a7",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/bucshonlarry_010615gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP lawmaker pushes back on Trump drug pricing proposal",
+                    "ts": 1542389104,
+                    "twitterid": 1063483102658469889,
+                    "url": "https://thehill.com/policy/healthcare/417118-gop-lawmaker-pushes-back-on-trump-drug-pricing-proposal"
+                },
+                {
+                    "_id": "5bef8493421aa927949e350a",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/10/23/USATODAY/usatsports/247WallSt.com-247WS-500566-pfizer-logo.png?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Pfizer to raise drug prices in January; says insurance can offset the cost",
+                    "ts": 1542423600,
+                    "twitterid": 1063627787905445888,
+                    "url": "https://www.usatoday.com/story/money/2018/11/16/drug-price-hike-pfizer-raise-cost-41-drugs-january/2029467002/"
+                },
+                {
+                    "_id": "5befaea1421aa928ffaffaa0",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/03/20/d617a1f0-b286-43f5-b250-9333c7fa8eab/thumbnail/1200x630/c991ea9e89dc4ed138b4c4829bd48e48/ap-18079602990691.jpg",
+                    "origin": "CBS News",
+                    "title": "FDA proposes ban on menthol cigarettes, new restrictions on flavored e-cigs",
+                    "ts": 1542432783,
+                    "twitterid": 1063666305021222912,
+                    "url": "https://www.cbsnews.com/news/fda-proposes-ban-on-menthol-cigarettes-restrictions-on-sales-of-flavored-e-cigarettes/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5befa80d04d30110dd86728d&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bef2246421aa923a475feca",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/02/medical_marijuana_employment_87725_s2048x1565.jpg?885f7179d8f15948d529e16696fbba33c7002dfa",
+                    "origin": "The Washington Times",
+                    "title": "Trump admin. sued over rules blocking medical marijuana patients from gun ownership",
+                    "ts": 1542396693,
+                    "twitterid": 1063514932937932802,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/trump-admin-sued-over-rules-blocking-medical-marij/"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e48",
+                    "date_month": "2018-11",
+                    "image": "https://images.newrepublic.com/0d765b7eadfdb8b1f42e0859ff6d4a60813dc851.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Is It Racist to Ban Menthol Cigarettes\u2014or Not To?",
+                    "ts": 1542402006,
+                    "twitterid": 1063537215513481216,
+                    "url": "https://newrepublic.com/article/152262/racist-ban-menthol-cigarettesor-not-to"
+                },
+                {
+                    "_id": "5bef4c73421aa9254bc9d8f7",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/pfizer_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Pfizer to raise prices on 41 drugs in January",
+                    "ts": 1542408365,
+                    "twitterid": 1063563887474286593,
+                    "url": "https://thehill.com/policy/healthcare/417193-pfizer-to-increase-prices-of-41-drugs-in-january"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb05c",
+                    "date_month": "2018-11",
+                    "image": "https://amp.businessinsider.com/images/5bef33fb381507427939aee9-750-375.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Trump's Iran sanctions aren't working as planned",
+                    "ts": 1542405423,
+                    "twitterid": 1063551548108800000,
+                    "url": "https://www.businessinsider.com/trump-iran-us-economic-sanctions-more-effective-2018-11"
+                },
+                {
+                    "_id": "5bef8493421aa927949e351c",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/17/us/politics/17guns-1-print/17gun-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Gun Control Groups Eclipse N.R.A. in Election Spending",
+                    "ts": 1542422165,
+                    "twitterid": 1063621768605245440,
+                    "url": "https://www.nytimes.com/2018/11/16/us/politics/nra-gun-control-fund-raising.html?smid=tw-nytpolitics&smtyp=cur"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            37
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Florida",
+            "Next Congress",
+            "Great Education",
+            "Trump",
+            "ActBlue",
+            "Beatles",
+            "Michigan",
+            "RIP",
+            "House",
+            "Speaker Marcia",
+            "Toscano",
+            "MSNBC",
+            "Broke Congress",
+            "Walters",
+            "House Republicans",
+            "White House Democratic",
+            "California",
+            "GOP",
+            "America",
+            "Match Pelosi",
+            "US",
+            "Political Power Often Don",
+            "Critics Court",
+            "Lisa Lerer",
+            "Elissa Slotkin",
+            "Moulton",
+            "Nancy Pelosi",
+            "Pelosi How"
+        ],
+        "peaks": [],
+        "theme": [
+            "Pelosi",
+            "Democratic",
+            "House",
+            "speaker",
+            "midterm",
+            "Trump",
+            "elections"
+        ],
+        "timestamp": "2018-11-17 12:10:22.439151-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bf02d3c421aa93511910eb9",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/15/Democrats_Pelosi_95330.jpg-ffadd_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Trump backs Pelosi as speaker, says her Democratic opponents \u2018wasting their time\u2019",
+                    "ts": 1542464409,
+                    "twitterid": 1063798953970405376,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/17/trump-backs-pelosi-speaker-says-her-democratic-opp/"
+                },
+                {
+                    "_id": "5bf01f25421aa933c9769a00",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/article_images/trumppelosi.png",
+                    "origin": "The Hill",
+                    "title": "Trump predicts Pelosi will be Speaker: \u2018She deserves this\u2019",
+                    "ts": 1542459903,
+                    "twitterid": 1063780054273073152,
+                    "url": "https://thehill.com/homenews/administration/417244-trump-predicts-pelosi-will-be-speaker-she-deserves-this"
+                },
+                {
+                    "_id": "5bf00303421aa9315cf05cf4",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/V9w0bqmMFKZjwQCLd95lYZ0-u5A=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SHGH5XXJWEI6RO63OL637HKP5U.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Democratic Rep. Moulton draws fire for campaign to deny Pelosi speaker\u2019s job",
+                    "ts": 1542453271,
+                    "twitterid": 1063752238689124353,
+                    "url": "https://www.washingtonpost.com/powerpost/democratic-rep-moulton-draws-fire-for-campaign-to-deny-pelosi-speakers-job/2018/11/16/5e17ea30-e91e-11e8-bbdb-72fdbf9d4fed_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5bf04945421aa936d220bcc1",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/26/PGRF/512a2da6-4049-4d25-9aec-79d53c1cdbb1-AP18299590386130.jpg?crop=3859,2192,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "In most expensive midterm elections in history, the biggest spender didn\u2019t always win",
+                    "ts": 1542472560,
+                    "twitterid": 1063833140215443461,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/11/16/2018-midterm-election-results-record-billion-campaign-spending-house-senate-candidates-fundraising/2017289002/"
+                },
+                {
+                    "_id": "5bf03b54421aa935ebbf6ea2",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/EDb0_boBce1hqqKxGSD_aBjtHUA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QWNRHSXKGYI6RL7R53BJW34SZI.jpg",
+                    "origin": "Post Politics",
+                    "title": "Trump again offers GOP votes to make Pelosi speaker. This time it doesn\u2019t sound like he\u2019s joking.",
+                    "ts": 1542468825,
+                    "twitterid": 1063817474288820224,
+                    "url": "https://www.washingtonpost.com/politics/2018/11/17/trump-again-offers-gop-votes-make-pelosi-speaker-this-time-it-doesnt-sound-like-hes-joking/"
+                },
+                {
+                    "_id": "5bef7692421aa926ecff1ac0",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-37420/social",
+                    "origin": "Capital Journal",
+                    "title": "Pelosi\u2019s Critics Court a Rival for Speaker",
+                    "ts": 1542417015,
+                    "twitterid": 1063600167130157056,
+                    "url": "https://www.wsj.com/articles/pelosis-critics-court-a-rival-for-speaker-1542331137?mod=e2twp"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e7b",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/nfn8qanG76Ym20iB_mCtJROw4u4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XVTLXCQQ6UI6RFLQFHEYGBJV4U.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Va. House Democratic leader Toscano plans to resign leadership post",
+                    "ts": 1542398644,
+                    "twitterid": 1063523112724123649,
+                    "url": "https://www.washingtonpost.com/local/virginia-politics/va-house-democratic-leader-toscano-says-he-will-resign-his-leadership-post/2018/11/16/2511bcfa-e9d4-11e8-a939-9469f1166f9d_story.html?utm_term=.bd5937dc065e&tid=sm_tw"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb066",
+                    "date_month": "2018-11",
+                    "image": "https://amp.businessinsider.com/images/5bef32870591f24e6f420dbb-1536-768.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Energized by their midterm success, Democratic heavy hitters hint at their 2020 presidential aspirations",
+                    "ts": 1542404744,
+                    "twitterid": 1063548701103325186,
+                    "url": "https://www.businessinsider.com/ap-ready-to-fight-2020-democrats-frame-the-race-on-their-terms-2018-11"
+                },
+                {
+                    "_id": "5bef063a421aa92292aa8194",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/A6-R80rw8BeHcdbiHXNluk1GfWI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L4GZAKXJXEI6RO63OL637HKP5U.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Fudge says she might delay a decision on whether to challenge Pelosi for speaker",
+                    "ts": 1542390240,
+                    "twitterid": 1063487865886265345,
+                    "url": "https://www.washingtonpost.com/powerpost/fudge-says-she-might-delay-a-decision-on-whether-to-challenge-pelosi-for-speaker/2018/11/16/a6c39b2c-e9b8-11e8-bbdb-72fdbf9d4fed_story.html?utm_term=.5711a38db68d&tid=sm_tw"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e4d",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/15/Democrats_Pelosi_05462.jpg-d8910_s2048x1529.jpg?213667f4bff9a16dd979f029707a81e1880a4699",
+                    "origin": "The Washington Times",
+                    "title": "Elissa Slotkin, newly elected Democrat from Michigan, won\u2019t back Pelosi for Speaker",
+                    "ts": 1542401833,
+                    "twitterid": 1063536489152290817,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/elissa-slotkin-michigan-democrat-speaker-pelosi-/?cache"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            65
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Rosenstein",
+            "McCarthyism Maria Butina",
+            "Census Pence",
+            "Lindsey Graham",
+            "NRA",
+            "James Comey",
+            "DeFazio House",
+            "Ethics Committee Rebukes Mark Meadows Over Aide",
+            "CBS",
+            "Federalist Society",
+            "Julian Assange Evangelicals",
+            "Trump Kellyanne Conway",
+            "Plaintiff",
+            "Trump",
+            "AG House",
+            "Dispute Over Census Citizenship Question Evidence Supreme Court",
+            "Kihuen",
+            "Assange Raises",
+            "Talks For Plea Deal Trump",
+            "Ruben Kihuen",
+            "DOJ",
+            "FBI",
+            "Mueller",
+            "Charges Against Julian",
+            "Key Facts Are Murky House Ethics Committee",
+            "Julian Assange",
+            "Justice Dept",
+            "Supreme Court To Weigh",
+            "Flake",
+            "Graham Cotton",
+            "Julian Assange Grassley",
+            "Hill",
+            "Sexual Misconduct Oops",
+            "WikiLeaks",
+            "John Ratcliffe",
+            "Russian",
+            "McConnell",
+            "Facebook",
+            "Senate Finance Panel",
+            "Mark Meadows",
+            "Kellyanne Conway",
+            "US",
+            "U.S.",
+            "Trump House",
+            "Trump Maria Butina",
+            "White House",
+            "Australia",
+            "Lawyers Shift Strategies Surprise",
+            "Matt Whitaker",
+            "American Democracy",
+            "Rule",
+            "Supreme Court",
+            "Supreme Court Justices",
+            "House Ethics Committee",
+            "Kavanaugh",
+            "Julian Assange Sears",
+            "Lynch",
+            "George Conway"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Assange",
+            "Court",
+            "charges",
+            "House",
+            "Supreme",
+            "Committee"
+        ],
+        "timestamp": "2018-11-17 12:10:23.369148-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bf00303421aa9315cf05ce6",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/37/60/1e3509a14b52a927331b9d8c534f/181116-julian-assange-gtty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Assange charges could unsettle liberals, conservatives \u2014 and Trump",
+                    "ts": 1542456002,
+                    "twitterid": 1063763692129525760,
+                    "url": "https://www.politico.com/story/2018/11/16/julian-assange-charges-wikileaks-997122"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee538",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/supremecourt_101918sr2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Supreme Court agrees to hear arguments in Trump census case",
+                    "ts": 1542394334,
+                    "twitterid": 1063505036553052160,
+                    "url": "https://thehill.com/regulation/court-battles/417156-supreme-court-agrees-to-hear-arguments-in-trump-census-case"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee570",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/16/gettyimages-685315670_wide-0437223272bb89d53200e9d48f0a6cc25e31baa4.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Court Filing Suggests Prosecutors Are Preparing Charges Against Julian Assange",
+                    "ts": 1542391500,
+                    "twitterid": 1063493150679928833,
+                    "url": "https://www.npr.org/2018/11/16/668528630/court-filing-suggests-prosecutors-may-be-preparing-charges-against-julian-assang?utm_source=twitter.com&utm_medium=social&utm_campaign=politics&utm_term=nprnews&utm_content=2045"
+                },
+                {
+                    "_id": "5befbcb7421aa92a21bfe25d",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2016/05/10/df10bb82-9592-426e-8347-3672b3378f4b/thumbnail/1200x630/2d1ed2ddd98e8a2f33b283bc32c406d7/julianassangekitten.jpg",
+                    "origin": "CBS News",
+                    "title": "Court \"error\" suggests U.S. charges against WikiLeaks boss Julian Assange",
+                    "ts": 1542437282,
+                    "twitterid": 1063685175815667712,
+                    "url": "https://www.cbsnews.com/news/julian-assange-charges-us-error-eastern-district-virginia-court-filing-wikileaks/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5befb9a104d3014ae908f8e0&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bf01f25421aa933c97699f4",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/16/USAT/80f8f0eb-cb4c-4630-879e-31270b448ee9-AFP_AFP_1961SF.jpg?crop=5567,3118,x0,y333&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Supreme Court to hear case on Trump administration plan to add citizenship question to 2020 Census",
+                    "ts": 1542461401,
+                    "twitterid": 1063786335184535553,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/11/16/census-2020-supreme-court-hear-case-adding-citizenship-question/2026725002/"
+                },
+                {
+                    "_id": "5befa097421aa928a6e149c8",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201811/n_hayes_bAssange_181116_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Hayes: Assange charges have 'huge' implications",
+                    "ts": 1542430809,
+                    "twitterid": 1063658023552454657,
+                    "url": "https://www.msnbc.com/all-in/watch/hayes-assange-charges-have-huge-implications-1373111363702?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bf01131421aa932c3b62be4",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-36485/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "With Kavanaugh on Supreme Court, Lawyers Shift Strategies",
+                    "ts": 1542457803,
+                    "twitterid": 1063771244267474945,
+                    "url": "https://www.wsj.com/articles/with-kavanaugh-on-supreme-court-lawyers-shift-strategies-1542456000?mod=e2tw"
+                },
+                {
+                    "_id": "5bef2246421aa923a475fed4",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/04/AP_18102523733293_s2048x1274.jpg?ea428245ff8a30c6f995511cc5a58500eae350af",
+                    "origin": "The Washington Times",
+                    "title": "Supreme Court to hear case in census citizenship question",
+                    "ts": 1542396216,
+                    "twitterid": 1063512930250043392,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/supreme-court-hear-census-citizenship-question/?cache"
+                },
+                {
+                    "_id": "5bef5a6b421aa925c57b7edd",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_46/2649646/181116-matthew-whitaker-cs-459p_cc8211726ce61bab4c520890b2a89762.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Matt Whitaker faces new challenge in Supreme Court",
+                    "ts": 1542412324,
+                    "twitterid": 1063580492572893184,
+                    "url": "https://www.nbcnews.com/politics/politics-news/matt-whitaker-faces-new-challenge-supreme-court-n937436?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bf04945421aa936d220bcb9",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/justicesotomayor_100818gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Sotomayor: Kavanaugh now part of the Supreme Court \u2018family\u2019",
+                    "ts": 1542473583,
+                    "twitterid": 1063837431462600704,
+                    "url": "https://thehill.com/homenews/news/417259-sotomayor-kavanaugh-part-of-the-scotus-family"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Jim Acosta White House",
+            "White House",
+            "Jim Acosta",
+            "CNN",
+            "Fox News",
+            "Obama White House",
+            "Trump",
+            "Latest",
+            "Donald Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Acosta",
+            "House",
+            "White",
+            "CNN",
+            "Trump",
+            "Jim",
+            "ruling"
+        ],
+        "timestamp": "2018-11-17 12:10:23.737864-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bef148a421aa9230b7ee55b",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/q5Lq6t8G_FOwm6_G9KIekUo-n-Y=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DW56WCF5IYY7FOFNWB46YPWEGU.JPG",
+                    "origin": "The Washington Post",
+                    "title": "Trump-appointed judge: Get CNN\u2019s Jim Acosta back in the White House",
+                    "ts": 1542392422,
+                    "twitterid": 1063497016096055297,
+                    "url": "https://www.washingtonpost.com/blogs/erik-wemple/wp/2018/11/16/trump-appointed-judge-get-cnns-jim-acosta-back-in-the-white-house/?utm_term=.3eec7fe01fbc&tid=sm_tw"
+                },
+                {
+                    "_id": "5bef8493421aa927949e352c",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/vlGB2xFd3sXurWe6zHzPlZueXxQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VLP6CLZQX44QBI3GL7QKVKCRNI.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Five takeaways from Friday\u2019s CNN-White House ruling",
+                    "ts": 1542420606,
+                    "twitterid": 1063615231556050951,
+                    "url": "https://www.washingtonpost.com/news/opinions/wp/2018/11/16/five-takeaways-from-fridays-cnn-white-house-ruling/?utm_term=.a5465bb2adc3&tid=sm_tw"
+                },
+                {
+                    "_id": "5bef7692421aa926ecff1ac3",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/08/AP_18311639943333_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump says White House will \u2018throw out\u2019 Jim Acosta if he misbehaves again",
+                    "ts": 1542416969,
+                    "twitterid": 1063599975832129537,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/donald-trump-says-white-house-will-throw-out-jim-a/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork"
+                },
+                {
+                    "_id": "5bef063a421aa92292aa8190",
+                    "date_month": "2018-11",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:d0e1444ae12c4975a361c062dd87f7a5/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "The Latest: CNN\u2019s Acosta returns to work at the White House",
+                    "ts": 1542390639,
+                    "twitterid": 1063489539568734214,
+                    "url": "https://www.apnews.com/9cd7e2c4884b4436b4b169c123aa558a?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e53",
+                    "date_month": "2018-11",
+                    "image": "https://media.newyorker.com/photos/5bef18ac1aa15345aeca3763/16:9/w_1200,h_630,c_limit/Lach-Acosta-Press-Pass.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Can This Possibly Be the End of the Jim Acosta White House Press-Pass Story?",
+                    "ts": 1542401390,
+                    "twitterid": 1063534630371028992,
+                    "url": "https://www.newyorker.com/news/current/can-this-possibly-be-the-end-of-the-jim-acosta-white-house-press-pass-story?mbid=social_twitter&utm_medium=social&utm_brand=tny&utm_social-type=owned&utm_source=twitter"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee543",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/16/media_cnn_vs_trump_77323_s2048x1364.jpg?f9c67f4708cc0e99c4b4cc589081ff5d217c5718",
+                    "origin": "The Washington Times",
+                    "title": "Jim Acosta's smug, and no court ruling changes that",
+                    "ts": 1542393789,
+                    "twitterid": 1063502750745616384,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/jim-acostas-smug-and-no-court-ruling-changes-tha/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork"
+                },
+                {
+                    "_id": "5bef6885421aa9265cea830a",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/16/media_cnn_vs_trump_77323_s2048x1364.jpg?f9c67f4708cc0e99c4b4cc589081ff5d217c5718",
+                    "origin": "The Washington Times",
+                    "title": "Jim Acosta is smug, and no court ruling changes that",
+                    "ts": 1542413104,
+                    "twitterid": 1063583763333033985,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/jim-acostas-smug-and-no-court-ruling-changes-tha/"
+                },
+                {
+                    "_id": "5bef063a421aa92292aa81af",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/acostacourt_111618.jpg",
+                    "origin": "The Hill",
+                    "title": "Judge orders White House to reinstate Acosta's press credentials",
+                    "ts": 1542388743,
+                    "twitterid": 1063481587294240770,
+                    "url": "https://thehill.com/regulation/court-battles/416935-judge-rules-against-white-house-in-cnn-dispute"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e78",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/acostajim_111618sr6_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "'The View' co-host suggests CNN's Acosta sue Trump: 'They defamed him'",
+                    "ts": 1542398824,
+                    "twitterid": 1063523867564609536,
+                    "url": "https://thehill.com/homenews/media/417171-the-view-co-host-suggests-cnns-acosta-sue-trump-they-defamed-him"
+                },
+                {
+                    "_id": "5bef063a421aa92292aa819d",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/acosta-trump_11122018.jpg",
+                    "origin": "The Hill",
+                    "title": "Twitter erupts after judge orders White House to restore Acosta's credentials",
+                    "ts": 1542389646,
+                    "twitterid": 1063485373026902016,
+                    "url": "https://thehill.com/homenews/media/417119-twitter-erupts-after-judge-orders-white-house-to-restore-acostas-credentials"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            79
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Freedom",
+            "Entry",
+            "North Korea",
+            "Environmental Protection Agency",
+            "New York Times",
+            "Ease U.S",
+            "Ruth Marcus",
+            "Pacific Summit Mike Pence",
+            "LGBT",
+            "Permanent",
+            "EU Are Jared",
+            "Arlington National Cemetery",
+            "EPA Trump",
+            "Former White House",
+            "Trump",
+            "Island John Kelly",
+            "Houthi Rebels Agree",
+            "China Trump",
+            "Security",
+            "Michelle Obama",
+            "Congress",
+            "Muslim",
+            "Family Trump",
+            "PTSD",
+            "U.N.",
+            "Into Orbit Pence",
+            "Mike Pence Loyal",
+            "US Trump Set",
+            "Tijuana David Brooks",
+            "Russia",
+            "New Tariffs",
+            "Cheaper",
+            "Andrew Wheeler",
+            "Migrants",
+            "Optimism Trump",
+            "Russian",
+            "Northrop Grumman",
+            "Melania Trump",
+            "Iran",
+            "Turkey Donald Trump",
+            "Brexit Could Mean",
+            "Kirstjen Nielsen",
+            "Peace Talks",
+            "Deport American Who",
+            "New NAFTA",
+            "DHS",
+            "Cabinet Imports Surge",
+            "Thank China",
+            "NATO",
+            "US",
+            "U.S.",
+            "China Clash Over Trade",
+            "Yemeni Government",
+            "White House",
+            "Nominate Andrew Wheeler",
+            "Australia",
+            "DHS Number",
+            "USA",
+            "New Space Odyssey",
+            "Pacific",
+            "EPA",
+            "Paris",
+            "Pence",
+            "North Korea Illegally Kim Jong Un",
+            "Mike Pence",
+            "China",
+            "Donald Trump",
+            "Ivanka Good"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "EPA",
+            "Pence",
+            "says",
+            "Wheeler",
+            "Andrew",
+            "chief"
+        ],
+        "timestamp": "2018-11-17 12:10:24.748180-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bef3081421aa924359a3e6f",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/16/BostonGlobe.com/Politics/Images/697201fc-cc1f-11e8-a360-85875bac0b1f.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump says he will name EPA\u2019s acting chief Andrew Wheeler to head the agency",
+                    "ts": 1542399562,
+                    "twitterid": 1063526966949761025,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/11/16/trump-says-will-name-epa-acting-chief-andrew-wheeler-head-agency/yBYMHjaCk3nTlfPUQrp6aJ/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb08c",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/05/00e3cdd3-0549-468e-9cbd-1bcde1d6f1b3/thumbnail/1200x630/aa5643b6cd5733e65e1699a095adf303/ap-17313567483857.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump says he will name acting EPA chief Andrew Wheeler to post permanently",
+                    "ts": 1542402587,
+                    "twitterid": 1063539653825970176,
+                    "url": "https://www.cbsnews.com/news/andrew-wheeler-trump-says-will-name-epa-acting-chief-to-permanent-post-2018-11-16/?ftag=CNM-00-10aab7e&linkId=59754722"
+                },
+                {
+                    "_id": "5bef5a6b421aa925c57b7eee",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-37637/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Trump Set to Nominate Andrew Wheeler as Permanent EPA Chief",
+                    "ts": 1542411010,
+                    "twitterid": 1063574980531798016,
+                    "url": "https://www.wsj.com/articles/trump-set-to-nominate-andrew-wheeler-as-permanent-epa-chief-1542410196?mod=e2tw"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e5c",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/BJCAoQU34kX6BQIp1bV4Nc6Nd6k=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I2JSIQGXAAI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Trump plans to nominate Andrew Wheeler, former coal lobbyist, as EPA chief",
+                    "ts": 1542400921,
+                    "twitterid": 1063532665729703937,
+                    "url": "https://www.washingtonpost.com/energy-environment/2018/11/16/trump-plans-nominate-andrew-wheeler-former-coal-lobbyist-permanent-epa-chief/?utm_term=.cfd0b5786a19&tid=sm_tw"
+                },
+                {
+                    "_id": "5bef2246421aa923a475fedf",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/BJCAoQU34kX6BQIp1bV4Nc6Nd6k=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I2JSIQGXAAI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Post Politics",
+                    "title": "Trump plans to nominate Andrew Wheeler, former coal lobbyist, as next EPA chief",
+                    "ts": 1542395589,
+                    "twitterid": 1063510301025415169,
+                    "url": "https://www.washingtonpost.com/energy-environment/2018/11/16/trump-plans-nominate-andrew-wheeler-former-coal-lobbyist-permanent-epa-chief/"
+                },
+                {
+                    "_id": "5bef2246421aa923a475feba",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/24/epa_wheeler_mileage_standards_77141_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219",
+                    "origin": "The Washington Times",
+                    "title": "Andrew Wheeler will be Trump\u2019s nominee as permanent head of EPA",
+                    "ts": 1542397480,
+                    "twitterid": 1063518231338598400,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/andrew-wheeler-trumps-nominee-epa-chief/"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e6d",
+                    "date_month": "2018-11",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/11/RTX6AT0U-1024x724.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Trump to nominate Andrew Wheeler as permanent EPA head",
+                    "ts": 1542399600,
+                    "twitterid": 1063527124080971777,
+                    "url": "https://www.pbs.org/newshour/politics/trump-to-nominate-andrew-wheeler-as-permanent-epa-head"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e60",
+                    "date_month": "2018-11",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:106380457425497b98c63ac9ad121c57/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump says will name EPA\u2019s acting chief to post permanently",
+                    "ts": 1542400871,
+                    "twitterid": 1063532453523009536,
+                    "url": "https://www.apnews.com/c5e63d08a3d24190bf4cc00be21ba2fd?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5bef2246421aa923a475fedb",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/wheelerandrew_080118am4_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump to nominate former coal lobbyist Andrew Wheeler as next EPA administrator",
+                    "ts": 1542395764,
+                    "twitterid": 1063511037167714304,
+                    "url": "https://thehill.com/policy/energy-environment/417159-trump-to-nominate-acting-epa-chief-wheeler-for-senate-confirmation"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e65",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180711150841-01-andrew-wheeler-07112018-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump announces Wheeler as EPA nominee",
+                    "ts": 1542400280,
+                    "twitterid": 1063529977466023943,
+                    "url": "https://www.cnn.com/2018/11/16/politics/epa-andrew-wheeler/index.html?utm_term=image&utm_source=twCNNp&utm_medium=social&utm_content=2018-11-16T20%3A31%3A20"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            49
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "UMass Lowell",
+            "William Goldman",
+            "African",
+            "Jimmy Butler",
+            "Alabama",
+            "Video Want",
+            "MBTA",
+            "Harvard",
+            "Chicago Park District",
+            "Astros",
+            "Atlantic",
+            "WEEI",
+            "Amanda Knox",
+            "Yale",
+            "SEC",
+            "Lex Luthor",
+            "Oscar",
+            "Fabiano Caruana",
+            "Kansas",
+            "Suit Every Taste",
+            "Fenway Park",
+            "World News",
+            "Mike Elias",
+            "Business",
+            "Economic News",
+            "College",
+            "Black",
+            "GM No",
+            "Parents",
+            "Financial",
+            "Sundance Kid",
+            "Orioles",
+            "Millennials",
+            "Hudson",
+            "Princess Bride",
+            "Oprah Winfrey",
+            "Wall Street Journal",
+            "Michael Dukakis",
+            "Phil",
+            "NFL",
+            "Vietnam",
+            "Tiger Woods",
+            "Ahead",
+            "Ireland",
+            "Supremes",
+            "Medicaid",
+            "Fenway Hurling"
+        ],
+        "peaks": [],
+        "theme": [
+            "football",
+            "Goldman",
+            "Thanksgiving",
+            "William",
+            "game",
+            "back",
+            "Butch"
+        ],
+        "timestamp": "2018-11-17 12:10:25.809512-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bef063a421aa92292aa818e",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/16/obit_william_goldman_70841_s2048x1435.jpg?7207e006c487a086e06ae4d6875c5444a03a630e",
+                    "origin": "The Washington Times",
+                    "title": "William Goldman, Oscar winner for 'Butch Cassidy,' has died",
+                    "ts": 1542390671,
+                    "twitterid": 1063489674088509440,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/william-goldman-oscar-winner-for-butch-cassidy-has/"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb073",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/11/16/5dc437e1-9d00-4238-bd45-d7f3e67c6007/thumbnail/1200x630g2/522936fe41a989965b20d5750d9f107e/ap-18320552270841.jpg",
+                    "origin": "CBS News",
+                    "title": "William Goldman, writer for \"The Princess Bride\" and \"Butch Cassidy,\" is dead at 87",
+                    "ts": 1542403860,
+                    "twitterid": 1063544992684277761,
+                    "url": "https://www.cbsnews.com/news/william-goldman-writer-for-the-princess-bride-and-butch-cassidy-is-dead-at-87/?ftag=CNM-00-10aab7e&linkId=59756023"
+                },
+                {
+                    "_id": "5bef5a6b421aa925c57b7efd",
+                    "date_month": "2018-11",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_46/2649006/181116-william-goldman-al-1022_c0e9394f725c1864e7c36c445d13a502.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "William Goldman, Oscar-winning writer of 'Butch Cassidy and the Sundance Kid,' dies at 87",
+                    "ts": 1542409603,
+                    "twitterid": 1063569080794456064,
+                    "url": "https://www.nbcnews.com/news/us-news/william-goldman-oscar-winning-writer-butch-cassidy-sundance-kid-dies-n937126?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5befd8c6421aa92d36ec36c6",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2017/11/19/BostonGlobe.com/Metro/Images/greenhouse_20hurling-6_metro.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Hurling, Ireland\u2019s national game, is back at Fenway Park, and back to the future",
+                    "ts": 1542441783,
+                    "twitterid": 1063704052276568064,
+                    "url": "https://www.bostonglobe.com/sports/2018/11/16/hurling-ireland-national-game-back-fenway-park-and-back-future/soB8mRJRtNa5KsMZaYll1O/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb06c",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/16/BostonGlobe.com/ReceivedContent/Images/ben9.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Ahead of The Game, Harvard welcomes back an inspirational visitor",
+                    "ts": 1542404343,
+                    "twitterid": 1063547017459318784,
+                    "url": "https://www.bostonglobe.com/sports/2018/11/16/ahead-the-game-harvard-welcomes-back-inspirational-visitor/IsYWWEJjeaJbicfiDMj61K/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef6885421aa9265cea82fb",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/16/BostonGlobe.com/Arts/Images/3d2996ce61594cd79b259d2c74c4295f-3d2996ce61594cd79b259d2c74c4295f-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "\u2018As you wish\u2019: Remembering William Goldman, storyteller, mentor, friend",
+                    "ts": 1542414006,
+                    "twitterid": 1063587547631288320,
+                    "url": "https://www.bostonglobe.com/arts/2018/11/16/you-wish-remembering-william-goldman-storyteller-mentor-friend/iPfiBUTxAAONcTJodKR3gJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef7692421aa926ecff1abd",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2015/10/27/BostonGlobe.com/Arts/Images/ALL%20THE%20PRESIDENTS%20MEN-1143249.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Here are some of the most memorable lines from movies written by William Goldman",
+                    "ts": 1542417246,
+                    "twitterid": 1063601136588988416,
+                    "url": "https://www.bostonglobe.com/2018/11/16/here-are-some-most-memorable-lines-from-movies-written-william-goldman/CzBKFhpZRqgEmTGq9AahyM/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bf01f25421aa933c97699ee",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/01/BostonGlobe.com/ReceivedContent/Images/180326_MJ_001.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Photos from the \u201868 Harvard, Yale game",
+                    "ts": 1542462303,
+                    "twitterid": 1063790118555799553,
+                    "url": "https://www.bostonglobe.com/sports/colleges/2018/11/17/photos-from-harvard-yale-game/QUOCjWovZ4PjBtXDqAF3FM/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef8493421aa927949e351f",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201811/n_ari_fallback_181116_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "The Supremes\u2019 Mary Wilson tells Millennials to fall back!",
+                    "ts": 1542421812,
+                    "twitterid": 1063620287831437312,
+                    "url": "https://www.msnbc.com/the-beat-with-ari-melber/watch/the-supremes-mary-wilson-tells-millennials-to-fall-back-1373023811925?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bf04945421aa936d220bcd7",
+                    "date_month": "2018-11",
+                    "image": "http://si.wsj.net/public/resources/images/BN-LH908_ONTHEF_J_20151117164905.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Thanksgiving Recipes to Suit Every Taste",
+                    "ts": 1542470417,
+                    "twitterid": 1063824153692815360,
+                    "url": "https://graphics.wsj.com/image-grid/thankgiving-recipes-to-suit-every-taste/?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            186
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Susan Boyle",
+            "Seaport",
+            "Paradise Burned",
+            "Beyond Meat",
+            "NIMBY",
+            "David",
+            "Outcome Alexandria",
+            "Woman",
+            "Partners HealthCare",
+            "Argentina",
+            "Television Soon The CEO",
+            "Green Book",
+            "Mahershala Ali Shine Actress",
+            "Stewart Brand",
+            "PTSD",
+            "Kamala Harris",
+            "Japanese",
+            "Nancy",
+            "Gods",
+            "Georgia",
+            "Indian Cooks",
+            "Symphony Hall Argentine Submarine San Juan Found",
+            "Russian",
+            "IPO How Old",
+            "Kim Porter",
+            "Leonid",
+            "Sean Anders",
+            "Oxford English",
+            "Books Briefing",
+            "Munich Airport",
+            "KKK Unique",
+            "Atlantic Crossword",
+            "Wisconsin",
+            "Vincent Van Gogh",
+            "ABC News",
+            "Hard Swallows Maryland",
+            "Maine",
+            "HoloLens",
+            "Ashwaubenon",
+            "Microsoft",
+            "USAID",
+            "John Hinckley",
+            "Green Beret",
+            "Oregon",
+            "Danish",
+            "Ikigai",
+            "Scratch Flying",
+            "Guide",
+            "Sheryl Sandberg App",
+            "Scooter Business Mika Brzezinski",
+            "Expedition",
+            "Atacama Desert Trish Regan",
+            "Macklemore",
+            "Black",
+            "Anna Gasser",
+            "Argentine Navy",
+            "Climate Change",
+            "Sheryl Sandberg",
+            "FAO Schwarz",
+            "MVP Mookie Betts",
+            "GoFundMe",
+            "Oxford Dictionaries",
+            "Gang",
+            "Sanofi",
+            "NHL",
+            "Parents Influence Kids",
+            "Red Sox",
+            "Things Done The New Yorker Cartoons",
+            "Monica Lewinsky",
+            "Green Bay Packers",
+            "Lauren Underwood",
+            "Hailey Baldwin",
+            "Extreme Weather",
+            "Beto",
+            "Colbert",
+            "Racism",
+            "Betsy",
+            "Illness From Salmonella Arrests",
+            "Turbulent Times",
+            "Compass",
+            "ObamaCare",
+            "New Jersey",
+            "Sonia Sotomayor",
+            "Ukraine",
+            "Weekly Crossword",
+            "Zdeno",
+            "Chicago Kronos",
+            "Samaritan",
+            "John Leguizamo",
+            "Iconic",
+            "Lessons",
+            "Design Biz",
+            "Complicated Legacy",
+            "George",
+            "Breakup Song",
+            "Baker",
+            "Michelle Obama",
+            "Emerges With Barely",
+            "Hillary",
+            "Senate Pro Forma",
+            "Stan Lee",
+            "Apple News Feds",
+            "Fall From Hope Patriots",
+            "Are Allbirds",
+            "Champions",
+            "SEC Whistleblower Program Has",
+            "Connor Clifton",
+            "Defense Dept",
+            "Veteran",
+            "John W. Hinckley",
+            "Recommended Amount Of Exercise North Korea",
+            "Technology",
+            "Stacey Abrams",
+            "KKK Senators",
+            "OT",
+            "Punctured Myth",
+            "Republican",
+            "Massachusetts",
+            "Brad Wanaker",
+            "Robert Indiana",
+            "Raging Wildfires",
+            "Massachusetts Celine Dion",
+            "GOP Fidelity",
+            "Steve Pearce",
+            "Supreme Court",
+            "Hand",
+            "Airbus A380 How Willem Dafoe",
+            "Bill Clinton",
+            "Warpath Massachusetts",
+            "Diddy",
+            "Cindy McCain",
+            "Tuukaa Rask",
+            "Jakub Zboril",
+            "Michelle Obama Memoir Sells Well Boston",
+            "Super Duty Matthew Slater",
+            "Knausgaardian",
+            "Reagan",
+            "Glamorous",
+            "Bridal",
+            "Metal Bull",
+            "Harvard Pilgrim",
+            "Cambridge",
+            "BFFs",
+            "Seattle",
+            "Steve Neff",
+            "Little Drummer Girl",
+            "Rebirth",
+            "Navigator",
+            "Auction",
+            "VA",
+            "Church",
+            "Style",
+            "Merrimack Valley",
+            "Facebook",
+            "Melania Trump",
+            "Instant Pot Protesters",
+            "Bruins",
+            "Good",
+            "Frank Ocean",
+            "CCC",
+            "Billions Into Electric Cars Uncommon",
+            "Broadway",
+            "U.S.",
+            "NBC News",
+            "Toyota",
+            "First Snow",
+            "Eternity",
+            "Could Be The First Female Green Beret Photos",
+            "Nautilus",
+            "Chile",
+            "Music"
+        ],
+        "peaks": [],
+        "theme": [
+            "new",
+            "makes",
+            "top",
+            "First",
+            "Get",
+            "Green",
+            "work"
+        ],
+        "timestamp": "2018-11-17 12:10:28.479672-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bef2246421aa923a475fece",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/14/BostonGlobe.com/Magazine/Images/intro2018tptw.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "The 2018 Top Places to Work in Massachusetts",
+                    "ts": 1542396484,
+                    "twitterid": 1063514054155780096,
+                    "url": "https://www.bostonglobe.com/business/specials/top-places-to-work/2018/11/15/the-top-places-work-massachusetts/WzcMcOAB2dBAMCK9aGmXbI/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e7e",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/15/BostonGlobe.com/Magazine/Images/largest.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "The 2018 top places to work at Massachusetts largest companies",
+                    "ts": 1542398517,
+                    "twitterid": 1063522580542443520,
+                    "url": "https://www.bostonglobe.com/business/specials/top-places-to-work/2018/11/15/greater-boston-top-largest-employers/EUZk8XwaVOGr7XcE9UvMpJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb08f",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/15/BostonGlobe.com/Magazine/Images/medium.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Top medium-size places to work in Massachusetts in 2018",
+                    "ts": 1542402244,
+                    "twitterid": 1063538214114390017,
+                    "url": "https://www.bostonglobe.com/business/specials/top-places-to-work/2018/11/15/top-medium-size-employers-for-mass/6fZE6laDzVSTzmD2mil7gP/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee565",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/15/BostonGlobe.com/Business/Images/A2%20high%20res_view.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Massport makes first Seaport office deal with \u2018public realm\u2019 requirement",
+                    "ts": 1542391818,
+                    "twitterid": 1063494482711187456,
+                    "url": "https://www.bostonglobe.com/business/2018/11/15/massport-makes-first-seaport-office-deal-with-public-realm-requirement/0WaqCKOyiKbj3OQQG1HLVO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef5a6b421aa925c57b7ee7",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/16/ap_537404614460_wide-0c68883631780c5acc324f192e0b58c16215af0c.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Woman Qualifies For Special Forces Training, Could Be The First Female Green Beret",
+                    "ts": 1542411545,
+                    "twitterid": 1063577226522705920,
+                    "url": "https://www.npr.org/2018/11/16/668771232/woman-qualifies-for-special-forces-training-could-be-the-first-female-green-bere?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bef3081421aa924359a3e70",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/rXzZm_79cSAOWoByaKG-4gXNwpk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XPWYILRIRFE3ZDJWWAMBBK6GWQ.jpg",
+                    "origin": "The Washington Post",
+                    "title": "\u2018Green Book\u2019: A new movie evokes the crucial guide for black travelers during segregation",
+                    "ts": 1542399544,
+                    "twitterid": 1063526888717672448,
+                    "url": "https://www.washingtonpost.com/history/2018/11/16/green-book-new-movie-evokes-crucial-guide-black-travelers-during-segregation/?utm_term=.ceacfe1d6d02&tid=sm_tw"
+                },
+                {
+                    "_id": "5bef5a6b421aa925c57b7ef8",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/16/BostonGlobe.com/Metro/Images/Walker_11152018_16baker_6685x-23188.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Once the pay hike\u2019s top critic, Baker will take $100,000 in new compensation in 2019",
+                    "ts": 1542409864,
+                    "twitterid": 1063570174035587074,
+                    "url": "https://www.bostonglobe.com/metro/2018/11/16/once-pay-hike-top-critic-baker-will-take-new-compensation/g2n2ABEEYniy3GT8Kk3ISK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef6885421aa9265cea8308",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/01/BostonGlobe.com/Magazine/Images/light1118mag.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Good lighting at work matters: Workers feel better and work harder",
+                    "ts": 1542413344,
+                    "twitterid": 1063584771010371586,
+                    "url": "https://www.bostonglobe.com/business/specials/top-places-to-work/2018/11/15/let-sunshine/g00162fthhMoIrAXBQParN/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bf01131421aa932c3b62bf6",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/16/BostonGlobe.com/Metro/Images/1062351052.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Beloved toy store FAO Schwarz makes its comeback",
+                    "ts": 1542456243,
+                    "twitterid": 1063764703510433792,
+                    "url": "https://www.bostonglobe.com/metro/2018/11/16/beloved-toy-store-fao-schwarz-makes-its-comeback/wA04QUzH7FqtStDv3oqgaP/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bf01131421aa932c3b62bef",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-37456/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Old-School Watchmakers Get Smart to Counter Apple",
+                    "ts": 1542456902,
+                    "twitterid": 1063767465799356416,
+                    "url": "https://www.wsj.com/articles/old-school-watchmakers-get-smart-to-counter-apple-1542456003?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Washington",
+            "Mueller",
+            "Robert Mueller",
+            "George Papadopoulos",
+            "Mueller Trump",
+            "Russian",
+            "Mueller Doubling Down",
+            "Mueller Are Done",
+            "Assange",
+            "Robert Mueller Trump",
+            "Trump",
+            "Donald Trump",
+            "Written Answers For Mueller",
+            "Stephen",
+            "Left Get",
+            "Mueller Time"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Mueller",
+            "Answers",
+            "questions",
+            "Says",
+            "Robert",
+            "Donald"
+        ],
+        "timestamp": "2018-11-17 12:10:28.855241-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bef148a421aa9230b7ee54f",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/nOTIwGWqv42LeQvGgmnZGhn-HJQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5HPQX3XJZQI6ROG4M3GKICOBQA.jpg",
+                    "origin": "Post Politics",
+                    "title": "Trump says he\u2019s finished writing answers to questions from special counsel Robert Mueller",
+                    "ts": 1542393111,
+                    "twitterid": 1063499908513181697,
+                    "url": "https://www.washingtonpost.com/politics/trump-says-hes-finished-writing-answers-to-questions-from-special-counsel-robert-mueller/2018/11/16/0bae09f4-e9c9-11e8-a939-9469f1166f9d_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee562",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/16/USAT/295aeda7-adbf-43c1-a761-1d998a816d11-AP_Trump_14.JPG?crop=5312,2990,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Donald Trump says he has answered Robert Mueller's questions, but hasn't submitted them yet",
+                    "ts": 1542392058,
+                    "twitterid": 1063495492733202433,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/11/16/donald-trump-says-he-has-answered-mueller-questions-hasnt-submitted/2025604002/"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee55f",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/16/Trump_Russia_Probe_24232.jpg-092d9_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump takes lead in answering Robert Mueller\u2019s questions: \u2018My lawyers aren\u2019t working on it\u2019",
+                    "ts": 1542392240,
+                    "twitterid": 1063496256067112961,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/donald-trump-takes-lead-answering-robert-muellers-/?cache"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb074",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/trumpd_11092018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump says he has finished Mueller questions, but has not submitted answers",
+                    "ts": 1542403860,
+                    "twitterid": 1063544991484542976,
+                    "url": "https://thehill.com/homenews/administration/417131-trump-says-he-has-finished-mueller-questions-but-has-not-submitted"
+                },
+                {
+                    "_id": "5bef2246421aa923a475feae",
+                    "date_month": "2018-11",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/11/RTS24MFC-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Trump says he has answered, but not submitted, written questions from special counsel Robert Mueller",
+                    "ts": 1542398400,
+                    "twitterid": 1063522090412720128,
+                    "url": "https://www.pbs.org/newshour/politics/trump-says-he-has-answered-but-not-submitted-written-questions-from-special-counsel-robert-mueller?12397"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee549",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/16/ap_18320651399513trump_wide-a4d97235dd7e663647e1fcf0c0c772e38ebf7eb0.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Trump Says He's Completed Written Answers For Mueller, But Not Turned Them In",
+                    "ts": 1542393304,
+                    "twitterid": 1063500718689071104,
+                    "url": "https://www.npr.org/2018/11/16/668642399/trump-says-hes-completed-written-answers-for-mueller-but-not-turned-them-in?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bf01131421aa932c3b62bf8",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/16/gettyimages-1062423712trump_wide-c304099a06eac4bb7c858a5df7f4f645a258d377.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "The Russia Investigations: Trump Says His Answers For Mueller Are Done. Now What?",
+                    "ts": 1542456125,
+                    "twitterid": 1063764206896336896,
+                    "url": "https://www.npr.org/2018/11/17/668706214/the-russia-investigations-trump-says-his-answers-for-mueller-are-done-now-what?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bf01f25421aa933c97699f7",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/article_images/trumpmueller_061517getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump to deliver Mueller questions next week",
+                    "ts": 1542460863,
+                    "twitterid": 1063784080419037186,
+                    "url": "https://thehill.com/homenews/administration/417246-trump-to-deliver-mueller-questions-next-week"
+                },
+                {
+                    "_id": "5bef6885421aa9265cea82da",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181116135019-01-trump-medal-of-freedom-1116-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Donald Trump takes it personally",
+                    "ts": 1542416029,
+                    "twitterid": 1063596031181549569,
+                    "url": "https://www.cnn.com/2018/11/16/politics/donald-trump-robert-mueller-week-in-review/index.html?utm_source=twCNN&utm_content=2018-11-17T00%3A53%3A47&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5bef2246421aa923a475fedc",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201811/n_mj_first_181116_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Trump lashes out as his lawyers prep answers for Mueller",
+                    "ts": 1542395706,
+                    "twitterid": 1063510791570231298,
+                    "url": "https://www.msnbc.com/morning-joe/watch/trump-lashes-out-as-his-lawyers-prep-answers-for-mueller-1372369987812?v=railb&cid=sm_npd_ms_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            50
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Seattle University",
+            "Naperville",
+            "Dartmouth",
+            "NYPD",
+            "Boston",
+            "Ease College Liability Woman",
+            "Forest Service",
+            "Ron Galimore",
+            "Canada Goose",
+            "Harvey Weinstein",
+            "MAGA",
+            "Finra Arbitrators Let Thousands",
+            "Melrose Paralysis",
+            "Alleged Brooklyn",
+            "Brokers Purge Infraction Records",
+            "ACLU",
+            "Betsy DeVos",
+            "DeVos Bolster Defendants",
+            "Anguish",
+            "USA Gymnastics",
+            "Sweden",
+            "McHenry",
+            "Former",
+            "Prince George",
+            "School",
+            "Michael Avenatti",
+            "Hyannis Manchester",
+            "MeToo",
+            "Stormy Daniels",
+            "OD",
+            "House Democrats",
+            "French",
+            "Struggle",
+            "Narragansett Bay",
+            "Mass",
+            "Stoneman Douglas",
+            "Washington Post",
+            "Bishops Ended",
+            "Holy Cross",
+            "Assault Rules",
+            "Dixon",
+            "Moncler",
+            "No Action",
+            "Donald Trump",
+            "Title IX"
+        ],
+        "peaks": [],
+        "theme": [
+            "DeVos",
+            "rules",
+            "Schools",
+            "sexual",
+            "assault",
+            "accused",
+            "misconduct"
+        ],
+        "timestamp": "2018-11-17 12:10:29.725748-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bef4c73421aa9254bc9d8fb",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/16/BostonGlobe.com/Politics/Images/fdf18cc87b604813a8c4759137505012-fdf18cc87b604813a8c4759137505012-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Betsy DeVos proposes overhaul to campus sexual misconduct rules",
+                    "ts": 1542408003,
+                    "twitterid": 1063562370801385472,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/11/16/betsy-devos-proposes-overhaul-campus-sexual-misconduct-rules/YQ2A7iXAcgFnpMfuh6tttL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5befaea1421aa928ffaffab1",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/09/22/b3c29291-48ee-4af5-99c7-5233945fe287/thumbnail/1200x630g2/929a423bf4ffb888980745b2bfe55e52/gettyimages-687808708.jpg",
+                    "origin": "CBS News",
+                    "title": "Betsy DeVos proposes major overhaul to campus sexual misconduct rules",
+                    "ts": 1542430982,
+                    "twitterid": 1063658751750750212,
+                    "url": "https://www.cbsnews.com/news/betsy-devos-proposes-major-overhaul-to-campus-sexual-misconduct-rules/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5befa1051adf6400016807d1&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bef2246421aa923a475fed6",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/30/kavanaugh_campus_sex_assault_rule_48373_s2048x1396.jpg?87dc598839a43019824aacbc709a7b1fe1aaf5d4",
+                    "origin": "The Washington Times",
+                    "title": "Betsy DeVos releases campus sexual misconduct rule to balance rights of accuser, accused",
+                    "ts": 1542396034,
+                    "twitterid": 1063512167478149120,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/betsy-devos-releases-campus-sexual-misconduct-rule/"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb086",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/30/PDTF/e6497dd9-7d52-4389-92b2-969af7b88f65-GTY_AFP_18E9O2.jpg?crop=2999,1687,x1,y124&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "Betsy DeVos' sexual assault rules draw ire from survivors, echo recent court rulings",
+                    "ts": 1542402900,
+                    "twitterid": 1063540965028311041,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/11/16/department-education-sexual-assault-survivors-betsy-devos/2026026002/"
+                },
+                {
+                    "_id": "5bf03b54421aa935ebbf6e9a",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/16/BostonGlobe.com/Politics/Images/fdf18cc87b604813a8c4759137505012-fdf18cc87b604813a8c4759137505012-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "DeVos proposed new protections for students accused of assault",
+                    "ts": 1542469589,
+                    "twitterid": 1063820680502943746,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/11/17/devos-proposed-new-protections-for-students-accused-assault/kiUsVRY9m8XJMgtVsTBxBO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef5a6b421aa925c57b7ef5",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/devosbetsey_011818gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Department of Education unveils new rules to protect those accused of sexual harassment",
+                    "ts": 1542410161,
+                    "twitterid": 1063571421769666561,
+                    "url": "https://thehill.com/homenews/administration/417107-devos-proposes-students-accused-of-sexual-assault-be-allowed-to"
+                },
+                {
+                    "_id": "5befbcb7421aa92a21bfe257",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/2d/fd/21b0a8e84a7f97d6865c3fd3a1e7/181116-betsy-devos-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "House Democrats say they will fight DeVos' proposal on school sexual assault",
+                    "ts": 1542438002,
+                    "twitterid": 1063688192568844288,
+                    "url": "https://www.politico.com/story/2018/11/16/devos-title-ix-policy-806251"
+                },
+                {
+                    "_id": "5bef5a6b421aa925c57b7ed6",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/17/us/politics/17dc-sexassault-print/17dc-sexassault-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Sex Assault Rules Under DeVos Bolster Defendants\u2019 Rights and Ease College Liability",
+                    "ts": 1542412722,
+                    "twitterid": 1063582162686017536,
+                    "url": "https://www.nytimes.com/2018/11/16/us/politics/betsy-devos-title-ix.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5befbcb7421aa92a21bfe266",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181115170444-elaine-chao-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump administration creates 'in-flight sexual misconduct' task force",
+                    "ts": 1542435964,
+                    "twitterid": 1063679647186124800,
+                    "url": "https://www.cnn.com/2018/11/15/politics/department-of-transportation-flight-sexual-misconduct/index.html?utm_content=2018-11-17T06%3A26%3A03&utm_medium=social&utm_source=twCNNp&utm_term=image"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee536",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/devosbetsy_060518gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "ACLU slams DeVos's Title IX plan: Changes will make it 'less safe' for sex assault survivors",
+                    "ts": 1542394508,
+                    "twitterid": 1063505766991241217,
+                    "url": "https://thehill.com/regulation/administration/417148-aclu-slams-devos-proposed-changes-to-title-ix-enforcement-makes"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            15
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "GOP",
+            "Did",
+            "Freedom",
+            "Freedom Trump",
+            "Babe Ruth Say",
+            "Freedom Ginsburg",
+            "Miriam Adelson Trump",
+            "Justice Scalia",
+            "Babe Ruth",
+            "Supreme Court",
+            "Elvis Presley",
+            "Elvis",
+            "Adelson Honored",
+            "Donald Trump",
+            "WATCH",
+            "Trump Awards Medal Freedom",
+            "Freedom Watch"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Freedom",
+            "Medal",
+            "award",
+            "presidential",
+            "Elvis",
+            "honors"
+        ],
+        "timestamp": "2018-11-17 12:10:29.972785-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bf03b54421aa935ebbf6eac",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/17/BostonGlobe.com/National/Images/265b2f6a-e9fc-11e8-bbdb-72fdbf9d4fed.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump honors GOP donor, 6 others with presidential award",
+                    "ts": 1542467465,
+                    "twitterid": 1063811768810700801,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/11/16/trump-honors-gop-donor-others-with-presidential-award/yrbfdxtADpn0DeccoGWbeL/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee550",
+                    "date_month": "2018-11",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/11/RTS24ZD5-1024x670.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "WATCH LIVE: Trump to award the Presidential Medal of Freedom",
+                    "ts": 1542393092,
+                    "twitterid": 1063499829337341952,
+                    "url": "https://www.pbs.org/newshour/politics/watch-live-trump-to-award-the-presidential-medal-of-freedom"
+                },
+                {
+                    "_id": "5bef2246421aa923a475fecb",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/11/16/USATODAY/usatsports/247WallSt.com-247WS-505733-b94c2147.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "Donald Trump honors Elvis Presley, Babe Ruth in first Medal of Freedom ceremony",
+                    "ts": 1542396641,
+                    "twitterid": 1063514714116943872,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/11/16/president-trump-medals-freedom-elvis-babe-ruth/2025294002/"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee545",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/16/ap_18314542705460_wide-8c6a3d3540f77b91322de14f97ba7398e193e698.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Viva Las Vegas: Elvis, Adelson Honored With Presidential Medal Of Freedom",
+                    "ts": 1542393580,
+                    "twitterid": 1063501874865819649,
+                    "url": "https://www.npr.org/2018/11/16/667860660/viva-las-vegas-elvis-adelson-to-be-honored-with-presidential-medal-of-freedom?utm_source=twitter.com&utm_medium=social&utm_campaign=politics&utm_term=nprnews&utm_content=2045"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee54a",
+                    "date_month": "2018-11",
+                    "image": "https://s.abcnews.com/images/Politics/WireAP_d14594cb7ebd4e4e8a6fb9f060cb088c_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Trump to honor donor's wife with presidential award",
+                    "ts": 1542393298,
+                    "twitterid": 1063500692554342401,
+                    "url": "https://abcnews.go.com/Politics/wireStory/trump-award-presidential-medal-freedom-donors-wife-59236022"
+                },
+                {
+                    "_id": "5bef4c73421aa9254bc9d900",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/GRABKX9WKM-VzHKLEy1938wWvLE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOEE4KXJ5YI6RO63OL637HKP5U.jpg",
+                    "origin": "Post Politics",
+                    "title": "Trump jokes and jabs as he bestows Presidential Medal of Freedom",
+                    "ts": 1542407684,
+                    "twitterid": 1063561032814219264,
+                    "url": "https://www.washingtonpost.com/politics/trump-jokes-and-jabs-as-he-bestows-presidential-medal-of-freedom/2018/11/16/461cc106-e9de-11e8-bbdb-72fdbf9d4fed_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bef2246421aa923a475fec7",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/16/Trump_Medal_of_Freedom_03158.jpg-d3536_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Trump awards Medal of Freedom to late Justice Scalia, Elvis Presley, five others in ceremony",
+                    "ts": 1542396868,
+                    "twitterid": 1063515664768479232,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/trump-awards-medal-freedom-scalia-elvis/?cache"
+                },
+                {
+                    "_id": "5bef148a421aa9230b7ee546",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/trumpmccloughanmedalofhonor_073117screengrab.jpg",
+                    "origin": "The Hill",
+                    "title": "Watch live: Trump presents the Medal of Freedom",
+                    "ts": 1542393496,
+                    "twitterid": 1063501520581402624,
+                    "url": "https://thehill.com/video/administration/417124-watch-live-trump-presents-the-medal-of-freedom"
+                },
+                {
+                    "_id": "5beff4fb421aa92fae6f5084",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/11/16/482f83d2-3c00-4e5d-bf8c-716c10122024/thumbnail/1200x630/b87e9e77043a0b5789762e58301d9232/ap-18291048184516.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump presents Medal of Freedom to seven honorees",
+                    "ts": 1542451684,
+                    "twitterid": 1063745579677876227,
+                    "url": "https://www.cbsnews.com/news/presidential-medal-of-freedom-trump-presents-medal-to-list-of-seven-honorees-today-live-stream/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5beff1e104d3010f50aa20be&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bef3e61421aa924b3ceb05f",
+                    "date_month": "2018-11",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_46/2649516/181116-miriam-adelson-trump-ew-321p_07faf89de75215620c4053b585d8558d.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump awards Medals of Freedom to Elvis Presley, Justice Scalia, Miriam Adelson",
+                    "ts": 1542405183,
+                    "twitterid": 1063550540641124353,
+                    "url": "https://www.nbcnews.com/politics/white-house/trump-awards-medals-freedom-elvis-presley-justice-scalia-miriam-adelson-n937321?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Washington Post",
+            "Death Penalty",
+            "Saudi Arabia",
+            "CIA Khashoggi",
+            "Turks",
+            "Latest",
+            "Khashoggi",
+            "Khashoggi Killing Donald Trump",
+            "US",
+            "Murder",
+            "Erdo\u011fan",
+            "Jamal Khashoggi",
+            "CIA",
+            "Corker",
+            "Saudis",
+            "Saudi",
+            "Tragic Farce U.S.",
+            "U.S.",
+            "Turkey Saudis"
+        ],
+        "peaks": [],
+        "theme": [
+            "Khashoggi",
+            "Saudi",
+            "CIA",
+            "killing",
+            "prince",
+            "ordering",
+            "crown"
+        ],
+        "timestamp": "2018-11-17 12:10:30.259181-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bf04945421aa936d220bcd0",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/mohammedbinsalmanmbssaudicrownprince_102418getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Corker: 'Everything points' to Saudi crown prince ordering Khashoggi's killing",
+                    "ts": 1542470706,
+                    "twitterid": 1063825366501023744,
+                    "url": "https://thehill.com/homenews/senate/417255-corker-everything-points-to-saudi-crown-prince-ordering-khashoggis-killing"
+                },
+                {
+                    "_id": "5bef92ad421aa9281d70b70d",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/16/BostonGlobe.com/National/Images/AFP_1A879H-8017.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "CIA says Saudi crown prince ordered Jamal Khashoggi\u2019s killing",
+                    "ts": 1542426906,
+                    "twitterid": 1063641654823972864,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/11/16/cia-saudi-crown-prince-ordered-jamal-khashoggi-killing/iNO86wllgqdCkNtWmwzpkN/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bef6885421aa9265cea82d4",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/07/USAT/9744a687-cddf-470c-ad33-44dba4627113-AFP_AFP_19Q2R9.JPG?crop=2116,1190,x0,y1528&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "CIA concludes Saudi crown prince ordered Jamal Khashoggi\u2019s killing: reports",
+                    "ts": 1542416410,
+                    "twitterid": 1063597629395881989,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/11/16/jamal-khashoggis-killing-ordered-saudi-crown-prince-cia-finds/2031439002/"
+                },
+                {
+                    "_id": "5bef5a6b421aa925c57b7ee6",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/mohammedbinsalmanmbssaudicrownprince2_102418getty.jpg",
+                    "origin": "The Hill",
+                    "title": "CIA concludes Saudi crown prince ordered Khashoggi murder: report",
+                    "ts": 1542411607,
+                    "twitterid": 1063577484506161156,
+                    "url": "https://thehill.com/homenews/administration/417220-cia-concludes-saudi-crown-prince-ordered-khashoggi-murder-report"
+                },
+                {
+                    "_id": "5bef6885421aa9265cea82ea",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/15/Saudi_Writer_Killed_96257.jpg-50615_s2048x1397.jpg?be6de853bab7ece72b3e483261bcb1b921a5d800",
+                    "origin": "The Washington Times",
+                    "title": "CIA concludes Saudi crown prince ordered Khashoggi murder, report claims",
+                    "ts": 1542415041,
+                    "twitterid": 1063591887997681666,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/16/cia-concludes-saudi-crown-prince-ordered-khashoggi/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork"
+                },
+                {
+                    "_id": "5bef8493421aa927949e3533",
+                    "date_month": "2018-11",
+                    "image": "https://amp.businessinsider.com/images/5bef5606c957013d2f55eb6b-960-480.jpg",
+                    "origin": "Politics Insider",
+                    "title": "CIA: Saudi crown prince ordered assassination of Washington Post contributor Jamal Khashoggi",
+                    "ts": 1542420109,
+                    "twitterid": 1063613147003711488,
+                    "url": "https://www.businessinsider.com/cia-mohammed-bin-salman-ordered-jamal-khashoggi-killed-report-says-2018-11"
+                },
+                {
+                    "_id": "5befa097421aa928a6e149eb",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/03/18/f1166668-db7c-4859-bdcb-3d995520f38e/thumbnail/1200x630/e84ca71ed9e9156229ee021566f731ab/saudi-arabia-mbs-screengrab-1.jpg",
+                    "origin": "CBS News",
+                    "title": "CIA reportedly concludes Jamal Khashoggi's assassination was ordered by Saudi crown prince",
+                    "ts": 1542427233,
+                    "twitterid": 1063643023916060673,
+                    "url": "https://www.cbsnews.com/news/jamal-khashoggi-killing-connected-to-mohammed-bin-salman-crown-prince-saudi-arabia-cia-says-today-2018-11-16/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bef924f04d30146efbb95f5&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bf02d3c421aa93511910ebd",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/11/saudi_arabia_the_prince_16693_s2048x1546.jpg?72b92da864bc162ac16719dc7e10915611eab522",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump weighs response after CIA link Khashoggi killing to Saudi prince",
+                    "ts": 1542464060,
+                    "twitterid": 1063797490108063745,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/17/donald-trump-weighs-response-after-cia-link-khasho/?utm_campaign=shareaholic&utm_medium=twitter&utm_source=socialnetwork"
+                },
+                {
+                    "_id": "5bef6885421aa9265cea82f4",
+                    "date_month": "2018-11",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:9644e2a04e6d48678a0b41705de61c28/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "The Latest: US intel says prince ordered Khashoggi killing",
+                    "ts": 1542414493,
+                    "twitterid": 1063589591846924288,
+                    "url": "https://www.apnews.com/57c5a961d6fe4cd7bd58398e2d42b579?utm_medium=AP_Politics&utm_source=Twitter&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5bf03b54421aa935ebbf6e97",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/UQsMWosAhcyX_jmy4xyVkhGbXKo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/532JFCHKPQI6RKJZSRU7CFTPTU.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Trump says he\u2019ll speak with CIA about Khashoggi killing",
+                    "ts": 1542469872,
+                    "twitterid": 1063821865817378816,
+                    "url": "https://www.washingtonpost.com/world/national-security/trump-says-hell-speak-with-cia-about-khashoggi-killing/2018/11/17/f5150774-ea72-11e8-bd89-eecf3b178206_story.html?utm_term=.951bbe75266e&tid=sm_tw"
+                }
+            ]
+        ]
+    }
+]

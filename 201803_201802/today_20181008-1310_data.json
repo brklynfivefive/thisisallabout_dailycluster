@@ -1,0 +1,2335 @@
+[
+    {
+        "list": [
+            12
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Chris",
+            "Things",
+            "Hillary Clinton The Economics",
+            "Amazon",
+            "Apple",
+            "FBI",
+            "Jane Austen",
+            "China",
+            "DHS",
+            "Jehovah",
+            "California"
+        ],
+        "peaks": [],
+        "theme": [
+            "China",
+            "protects",
+            "report",
+            "Security",
+            "Apple",
+            "Clinton",
+            "Cybersecurity"
+        ],
+        "timestamp": "2018-10-08 13:10:20.057813-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bbaba53421aa945929b449e",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/5378e1c6-ICEdhsCROPPED.jpg",
+                    "origin": "Fox News",
+                    "title": "DHS backs Apple, Amazon denial of China 'spy' chips report",
+                    "ts": 1538961736,
+                    "twitterid": 1049107676259598336,
+                    "url": "https://www.foxnews.com/tech/dhs-backs-apple-amazon-denial-of-china-spy-chips-report"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e0442",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/apple_technology_128281802_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Apple denies cybersecurity breach to Congress",
+                    "ts": 1539011236,
+                    "twitterid": 1049315296488689664,
+                    "url": "https://thehill.com/policy/technology/410392-apple-denies-cybersecurity-breach-to-congress"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e044e",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/pbox.php?url=https://palomaimages.washingtonpost.com/pr2/8f27806a00949e99b2ffa5d9625b4ade-4847-3485-70-8-California_Legislature_90528jpg370cb.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+                    "origin": "Washington Post",
+                    "title": "The Cybersecurity 202: California's new Internet of Things law only protects against a small portion of cyberthreats",
+                    "ts": 1539010856,
+                    "twitterid": 1049313702284087296,
+                    "url": "https://www.washingtonpost.com/news/powerpost/paloma/the-cybersecurity-202/2018/10/08/the-cybersecurity-202-california-s-new-internet-of-things-law-only-protects-against-a-small-portion-of-cyberthreats/5bba75781b326b7c8a8d1885/?utm_term=.8cc62b2cea15&tid=sm_tw"
+                },
+                {
+                    "_id": "5bba65fb421aa934ff889379",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/clintonhillary_10012018.jpg",
+                    "origin": "The Hill",
+                    "title": "Veteran GOP operative raised thousands in search for stolen Clinton emails: report",
+                    "ts": 1538939825,
+                    "twitterid": 1049015776630509570,
+                    "url": "https://thehill.com/homenews/administration/410303-veteran-republican-operative-raised-thousands-in-search-for-stolen"
+                },
+                {
+                    "_id": "5bba57f4421aa933343e791a",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/amazonshipping_040418getty.jpg",
+                    "origin": "The Hill",
+                    "title": "DHS: No reason to doubt denials of firms named in China hack report",
+                    "ts": 1538937187,
+                    "twitterid": 1049004712278810625,
+                    "url": "https://thehill.com/policy/technology/410306-dhs-sees-no-reason-to-doubt-statement-of-firms-in-china-hack-report"
+                },
+                {
+                    "_id": "5bbb38e3421aa956a7747fb5",
+                    "date_month": "2018-10",
+                    "image": "https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico",
+                    "origin": "Fox News",
+                    "title": "Security Check Required",
+                    "ts": 1538993418,
+                    "twitterid": 1049240559762718720,
+                    "url": "https://www.facebook.com/FoxNewsUpdate"
+                },
+                {
+                    "_id": "5bbb7147421aa95b3e7cdfb5",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/motherboard_10072018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "If China isn\u2019t exploiting our electronics supply chain, it will",
+                    "ts": 1539009965,
+                    "twitterid": 1049309966845263873,
+                    "url": "https://thehill.com/opinion/cybersecurity/410269-if-china-isnt-exploiting-our-electronics-supply-chain-it-will"
+                },
+                {
+                    "_id": "5bba65fb421aa934ff889361",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/wrayrosenstein_052218getty.jpg",
+                    "origin": "The Hill",
+                    "title": "FBI\u2019s smoking-gun: Redactions protected political embarrassment, not \u2018national security\u2019",
+                    "ts": 1538942222,
+                    "twitterid": 1049025829924220928,
+                    "url": "https://thehill.com/opinion/white-house/410287-fbis-smoking-gun-redactions-protected-political-embarrassment-not?__twitter_impression=true&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bbaba53421aa945929b44a8",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/wrayrosenstein_052218getty.jpg",
+                    "origin": "The Hill",
+                    "title": "FBI\u2019s smoking gun: Redactions protected political embarrassment, not \u2018national security\u2019",
+                    "ts": 1538960703,
+                    "twitterid": 1049103343300300801,
+                    "url": "https://thehill.com/opinion/white-house/410287-fbis-smoking-gun-redactions-protected-political-embarrassment-not"
+                },
+                {
+                    "_id": "5bbae488421aa94b52e8538d",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/03/21/AP_18079578888270_s2048x1507.jpg?81d65d4fe1fbd48576d5dbe13612d8a53649fe73",
+                    "origin": "The Washington Times",
+                    "title": "Cindy Hyde-Smith denies Chris McDaniel claim that she voted for Hillary Clinton",
+                    "ts": 1538973900,
+                    "twitterid": 1049158696427827200,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/7/cindy-hyde-smith-denies-chris-mcdaniel-claim-she-v/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            175
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Europa",
+            "Video Want",
+            "Bright Side",
+            "Cuomo",
+            "Rainbow Kitten Surprise",
+            "Banksy",
+            "World News",
+            "Milk Chocolate",
+            "Paul Giamatti",
+            "Michael Cohen",
+            "Bill Cosby",
+            "US Build",
+            "Moscow",
+            "Hate",
+            "Britain",
+            "Insufferableness How Chicago",
+            "Brett Kavanagh",
+            "Massachusetts",
+            "Help VA",
+            "Darkness",
+            "Katt Williams",
+            "Medicare",
+            "COLUMN Amazon Go",
+            "Jacobs Horror",
+            "Meghan Markle",
+            "Blasio",
+            "Doris Kearns Goodwin",
+            "Economic News",
+            "Spanish",
+            "Catholic Church",
+            "Work Convicts",
+            "Electric Car Khabib",
+            "Chinese",
+            "Wall Street Journal",
+            "JLo",
+            "Cindy Adams",
+            "Bane",
+            "Chicago Pizza City",
+            "ABC News My",
+            "Business",
+            "African",
+            "Financial",
+            "Palestinian",
+            "Secret Science Behind",
+            "Bradley Cooper",
+            "American Brawl",
+            "Cool Word",
+            "Fox",
+            "Unusual",
+            "German Party",
+            "Loss",
+            "London",
+            "Vintage Roadster",
+            "Uphill Fight Against Fake",
+            "BU",
+            "Curse",
+            "Samples Kim Kardashian West",
+            "McGregor Is",
+            "MBTA",
+            "Tom Hardy",
+            "Israel",
+            "Kelly Clarkson",
+            "Scott Kelly",
+            "Stormy Daniels",
+            "American Food Hip",
+            "History",
+            "Princess Eugenie",
+            "NYC",
+            "U.S.",
+            "Israeli",
+            "Lifestyle",
+            "Stephen Curry Is",
+            "Nevada",
+            "Tina Turner",
+            "Cold Blood",
+            "Kensington Palace",
+            "Placenta Tries",
+            "Psychology Behind Costco",
+            "Ammunition",
+            "UFC",
+            "Columbus",
+            "Cinema",
+            "New York",
+            "Senate Candidate",
+            "Brain",
+            "Twitter",
+            "Firearms",
+            "Maine",
+            "Kentucky",
+            "Makes Things Cool Alligator",
+            "Angie Thomas",
+            "Scott Wilson",
+            "Us",
+            "Alzheimer",
+            "Motherhood",
+            "Brett Kavanaugh",
+            "Netflix",
+            "Woman",
+            "Khabib Nurmagomedov",
+            "MeToo",
+            "Sleepy",
+            "Louisiana",
+            "Chicago Marathon",
+            "Others Amazon",
+            "Christian",
+            "Kerry Washington",
+            "Japanese",
+            "Veteran",
+            "Brigid Kosgei",
+            "Texas",
+            "Tom Brady Home",
+            "Prospect Park Typhus",
+            "Aren",
+            "Montana",
+            "Born",
+            "Sick",
+            "San Quentin",
+            "Elton John",
+            "Fill",
+            "Florida",
+            "Kids Care",
+            "Disney",
+            "Song",
+            "Canada",
+            "Quiet",
+            "Recovery One",
+            "Gisele Bundchen",
+            "Boston",
+            "Schools Overlook",
+            "Southern",
+            "Explains How",
+            "Monty Python",
+            "Conor McGregor",
+            "Italian",
+            "Toys",
+            "Los Angeles",
+            "Public Schools",
+            "Robotic",
+            "Jupiter",
+            "Laquan",
+            "Camera",
+            "Tragic Lessons",
+            "Kathryn Hahn",
+            "Time",
+            "Kenya",
+            "Wikipedia",
+            "Eric Idle",
+            "Minnesota",
+            "Rush",
+            "Virginia"
+        ],
+        "peaks": [],
+        "theme": [
+            "Chicago",
+            "life",
+            "say",
+            "Americans",
+            "could",
+            "World",
+            "behind"
+        ],
+        "timestamp": "2018-10-08 13:10:23.011595-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bba65fb421aa934ff889366",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181007101946-chicago-gunman-surveillance-video-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "A Chicago community is on edge as police hunt the man behind 2 seemingly random slayings",
+                    "ts": 1538941503,
+                    "twitterid": 1049022814785863680,
+                    "url": "https://www.cnn.com/2018/10/07/us/chicago-killings-rogers-park-reward/index.html?utm_term=image&utm_medium=social&utm_content=2018-10-07T19%3A45%3A02&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bba65fb421aa934ff889385",
+                    "date_month": "2018-10",
+                    "image": "http://www.trbimg.com/img-5bba5d84/turbine/ct-spt-chicago-marathon-mo-farah-men-20181007",
+                    "origin": "Chicago Tribune",
+                    "title": "\u2018Sir Mo\u2019 Farah wins 2018 Chicago Marathon: \u2018I know I could have gone a lot faster today\u2019",
+                    "ts": 1538938915,
+                    "twitterid": 1049011960778563584,
+                    "url": "http://www.chicagotribune.com/sports/chicagomarathon/ct-spt-chicago-marathon-mo-farah-men-20181007-story.html"
+                },
+                {
+                    "_id": "5bbb4704421aa957f10f168c",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/2015/06/WEL_ThompsonWork_Phone/facebook.jpg?1522839282",
+                    "origin": "The Atlantic",
+                    "title": "A World Without Work",
+                    "ts": 1538998211,
+                    "twitterid": 1049260664018153472,
+                    "url": "https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/"
+                },
+                {
+                    "_id": "5bbb8d6a421aa9622d44be8d",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181008103350-100818-best-buy-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Best Buy cashing in as Americans grow older",
+                    "ts": 1539016811,
+                    "twitterid": 1049338678772944898,
+                    "url": "https://www.cnn.com/2018/10/08/business/best-buy-greatcall-jitterbug-phones/index.html?utm_source=twCNN&utm_content=2018-10-08T16%3A40%3A10&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5bbaba53421aa945929b44a9",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_40/2587581/181002-fried-chicken-country-barbecue-georgia-ew-1040a_2da320d4869bb0c7249b3e4af4d221ce.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Southern cooking may be killing African-Americans, study finds",
+                    "ts": 1538960525,
+                    "twitterid": 1049102598593241090,
+                    "url": "https://www.nbcnews.com/health/health-news/southern-cooking-may-be-killing-african-americans-study-finds-n915846?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bbb1cbe421aa953b63ec152",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/07/us/07homemade-01-print/00homemade-01-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Inside the World of D.I.Y. Ammunition",
+                    "ts": 1538989209,
+                    "twitterid": 1049222907308769280,
+                    "url": "https://www.nytimes.com/2018/10/05/us/3d-printed-guns-homemade-ammunition.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5bbaac4b421aa942c109df24",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2014/09/AP071212040746-1/facebook.jpg?1522685652",
+                    "origin": "The Atlantic",
+                    "title": "The Psychology Behind Costco's Free Samples",
+                    "ts": 1538960415,
+                    "twitterid": 1049102138822053888,
+                    "url": "https://www.theatlantic.com/business/archive/2014/10/the-psychology-behind-costcos-free-samples/380969/"
+                },
+                {
+                    "_id": "5bbb38e3421aa956a7747fb6",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/R6JxEATzCrq5gLX4ky8QFDub7iE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BI6L2NGGMII6RMPNDUWWLODNBQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "The Wikipedia contributor behind 2.5 million edits",
+                    "ts": 1538993209,
+                    "twitterid": 1049239683224485888,
+                    "url": "https://www.washingtonpost.com/lifestyle/magazine/meet-the-most-prolific-contributor-to-the-english-version-of-wikipedia/2018/10/02/a6497a74-9411-11e8-a679-b09212fb69c2_story.html?utm_term=.277817cf2258&tid=sm_tw"
+                },
+                {
+                    "_id": "5bbad67c421aa949f1be8a5d",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/07/cf0bc9cd-ac8e-41d7-8ef9-d85e1485858c/thumbnail/1200x630/b3c84b1162fee7c289662a4c79ed9e86/cindy-adams-interview-promo.jpg",
+                    "origin": "CBS News",
+                    "title": "Cindy Adams' bold-faced life",
+                    "ts": 1538969584,
+                    "twitterid": 1049140593467768832,
+                    "url": "https://www.cbsnews.com/news/cindy-adams-bold-faced-life/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bbacfee04d301556ff386b2&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bba7405421aa9381e906e59",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-29761/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Red Sox-Yankees: The World Series of Insufferableness",
+                    "ts": 1538944803,
+                    "twitterid": 1049036654726537217,
+                    "url": "https://www.wsj.com/articles/red-sox-yankees-the-world-series-of-insufferableness-1538934835?tesla=y&mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            131
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "VA Data Show US",
+            "Indonesia Will Stop Digging",
+            "Pope Francis",
+            "China Systematically Pries Technology From",
+            "Vatican",
+            "Financial Advice Is",
+            "U.S. Marines",
+            "Catholic Church John Mahoney",
+            "Australia Is Replaced",
+            "New Chief Executive",
+            "Yellowstone Commander",
+            "New Yorker Subscription",
+            "Cape Cod",
+            "Virgin",
+            "Airwave Auctions",
+            "China Rose McGowan",
+            "Catholic Church",
+            "MBA",
+            "College Dropouts Who Rode Credit Cards",
+            "Weinstein",
+            "Patrick Mahomes",
+            "Florida House",
+            "Rube",
+            "Next Rivalry",
+            "Google",
+            "GE",
+            "Right Spot New",
+            "Golden Week",
+            "People Ages",
+            "Audit Defense Supply",
+            "State",
+            "U.N. Panel Warns Drastic Action",
+            "McGowan",
+            "Corporate Tax Breaks Time",
+            "Statue Toll",
+            "U.S.",
+            "Patriots",
+            "Elliott Management Goes",
+            "Catholic Red Sox",
+            "Infrastructure Is",
+            "NBA Rose",
+            "Alaska",
+            "Ben Volin",
+            "Amazon",
+            "Arizona",
+            "NBC News",
+            "New York",
+            "SUVs",
+            "Hand",
+            "UN",
+            "Vladimir Putin",
+            "Indonesia Airbus Set",
+            "Brett Kavanaugh",
+            "Woman",
+            "Mass",
+            "Russia Ariel Dumas",
+            "MeToo",
+            "Chiefs",
+            "Arctic",
+            "Hollywood",
+            "Melania Trump",
+            "Louisiana",
+            "Global Climate",
+            "US Romania",
+            "Chinese Stocks Lose Shine",
+            "Grim Forecast From U.N.",
+            "Daimler Extends",
+            "Bombshell",
+            "Terry Rozier",
+            "NLDS Southern Poverty Law Center Hate List",
+            "Climate",
+            "Gallup",
+            "Quake Victims Stricter",
+            "U.N.",
+            "Confirmed",
+            "China Moves Again",
+            "Haiti Investment",
+            "Kavanaugh",
+            "Kavanaugh Fight Over",
+            "California",
+            "US",
+            "Rain",
+            "Apple",
+            "Afghanistan",
+            "Zinke",
+            "HPV Vaccine Expanded",
+            "Kenya",
+            "Biggest Mistakes"
+        ],
+        "peaks": [],
+        "theme": [
+            "says",
+            "change",
+            "Climate",
+            "new",
+            "us",
+            "vote"
+        ],
+        "timestamp": "2018-10-08 13:10:24.691263-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bbb7f5a421aa95db49e0441",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/08/BostonGlobe.com/Foreign/Images/AFP_19U9TH.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Climate change could lead to major crises by 2040, report says",
+                    "ts": 1539011246,
+                    "twitterid": 1049315337051824128,
+                    "url": "https://www.bostonglobe.com/news/world/2018/10/07/climate-change-could-lead-major-crises-report-says/hdshTLHeftQz5tJxhU5DOP/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e0416",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/08/RTXRDCW-1024x700.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "\u2018Unprecedented changes\u2019 must be made to stop catastrophic climate change, UN report says",
+                    "ts": 1539013200,
+                    "twitterid": 1049323532675497984,
+                    "url": "https://www.pbs.org/newshour/nation/unprecedented-changes-must-be-made-to-stop-catastrophic-climate-change-un-report-says"
+                },
+                {
+                    "_id": "5bbb2ad2421aa955770bdf03",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/08/ipcc-incheon_wide-4ca1ebb5910e93d96e87b6be2a8591cea3919c9e.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Grim Forecast From U.N. On Global Climate Change",
+                    "ts": 1538992121,
+                    "twitterid": 1049235119855161344,
+                    "url": "https://www.npr.org/2018/10/08/655360909/grim-forecast-from-u-n-on-global-climate-change?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bbaba53421aa945929b449a",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-29796/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "U.N. Panel Warns Drastic Action Needed to Stave Off Climate Change",
+                    "ts": 1538962200,
+                    "twitterid": 1049109624723574784,
+                    "url": "https://www.wsj.com/articles/u-n-panel-warns-drastic-action-needed-to-stave-off-climate-change-1538960400?mod=e2tw"
+                },
+                {
+                    "_id": "5bbb00a6421aa950f3feba96",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_39/1959761/170310-inspecting-coral-reef-cr-0523_5f7223ffafc3c5c0c05b4cb2165f7753.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Teaching coral to toughen up could help reefs survive climate change",
+                    "ts": 1538979305,
+                    "twitterid": 1049181368532525056,
+                    "url": "https://www.nbcnews.com/mach/science/teaching-coral-toughen-could-help-reefs-survive-climate-change-ncna913296?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bbaba53421aa945929b44ab",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/i6gH5vZmlCRLcl3Qd82zkAPNe_o=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CIQIR2CMM4I6RBOBSMTMIUIQGM.jpg",
+                    "origin": "Washington Post",
+                    "title": "The world has barely 10 years to get climate change under control, U.N. scientists say",
+                    "ts": 1538960483,
+                    "twitterid": 1049102423548153856,
+                    "url": "https://www.washingtonpost.com/energy-environment/2018/10/08/world-has-only-years-get-climate-change-under-control-un-scientists-say/?utm_term=.33fa4772a407"
+                },
+                {
+                    "_id": "5bba57f4421aa933343e7917",
+                    "date_month": "2018-10",
+                    "image": "https://subscribe.newyorker.com/circulation/newyorker/images/favicon.ico",
+                    "origin": "The New Yorker",
+                    "title": "The New Yorker Subscription",
+                    "ts": 1538937546,
+                    "twitterid": 1049006219413917696,
+                    "url": "https://subscribe.newyorker.com/subscribe/newyorker/118062?source=TWITTER_FALLSALE&mbid=social_twitter"
+                },
+                {
+                    "_id": "5bba902d421aa93d57e1b52c",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/06/us/politics/06voterregistration/06voterregistration-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "How to Register to Vote: Deadlines for Each State",
+                    "ts": 1538952004,
+                    "twitterid": 1049066860652744704,
+                    "url": "https://www.nytimes.com/2018/10/06/us/politics/state-voter-registration-deadlines.html?rref=collection%2Fsectioncollection%2Fus&smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5bbaac4b421aa942c109df30",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/07/BostonGlobe.com/National/Images/ALASKA_FATTEST_BEAR_1.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "There are fat bears in Alaska, and you can vote on your favorite",
+                    "ts": 1538959447,
+                    "twitterid": 1049098076009517056,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/10/07/there-are-fat-bears-alaska-and-you-can-vote-your-favorite/JLfa2XyUxMMtmJ8ZwU8n9N/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bbaba53421aa945929b44a0",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/08/us/08xp-bears/06xp-bears-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "There Are Fat Bears in Alaska, and You Can Vote on Your Favorite",
+                    "ts": 1538961663,
+                    "twitterid": 1049107372084514816,
+                    "url": "https://www.nytimes.com/2018/10/07/science/fat-bears-alaska.html?smid=tw-nytnational&smtyp=cur"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            35
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Washington Post",
+            "Dominican Republic Interpol",
+            "Mystery Deepens",
+            "Walmart",
+            "Northwest Side Twins",
+            "Saudi Arabia",
+            "Istanbul China",
+            "Jamal Khashoggi",
+            "Ohio",
+            "China",
+            "China Jamal Khashoggi",
+            "Turkish",
+            "Jamal Khashoggi Turkey",
+            "Erdogan",
+            "East Falmouth",
+            "Chicago Husband",
+            "Chelmsford",
+            "Interpol",
+            "Chicago",
+            "Tamir Rice",
+            "Istanbul Jamal Khashoggi",
+            "Saudi",
+            "Miguel Sano",
+            "Fate Turkey",
+            "New York City"
+        ],
+        "peaks": [],
+        "theme": [
+            "Khashoggi",
+            "missing",
+            "Jamal",
+            "Saudi",
+            "journalist",
+            "Interpol",
+            "president"
+        ],
+        "timestamp": "2018-10-08 13:10:25.252913-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bba49d8421aa9319edcaa7b",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/07/gettyimages-1045908558_wide-2e7bd9aa16107befa85c536a75b77448a63e835d.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Mystery Deepens Around Missing Saudi Journalist Jamal Khashoggi",
+                    "ts": 1538933646,
+                    "twitterid": 1048989858608250881,
+                    "url": "https://www.npr.org/2018/10/07/655393080/mystery-deepens-around-missing-saudi-journalist-jamal-khashoggi?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bbb8d6a421aa9622d44be8f",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/10/RTX6E3BV-1024x723.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Turkey summons Saudi ambassador over missing journalist Jamal Khashoggi",
+                    "ts": 1539016800,
+                    "twitterid": 1049338632203468800,
+                    "url": "https://www.pbs.org/newshour/world/turkey-summons-saudi-ambassador-over-missing-journalist-jamal-khashoggi"
+                },
+                {
+                    "_id": "5bbac871421aa947ebd37792",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/jamal-khashoggi.jpg",
+                    "origin": "Fox News",
+                    "title": "Jamal Khashoggi\u2019s friend says missing Saudi journalist was 'killed in a barbaric way'",
+                    "ts": 1538965800,
+                    "twitterid": 1049124722628157440,
+                    "url": "https://www.foxnews.com/world/jamal-khashoggis-friend-says-missing-saudi-journalist-was-killed-in-a-barbaric-way"
+                },
+                {
+                    "_id": "5bbb38e3421aa956a7747fae",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/2YSPYoZchv3k85K-ezkg4b86Jlw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D4SF5UWKNUI6RI7GITNKHU263Y.jpg",
+                    "origin": "Washington Post",
+                    "title": "Disappearance and alleged killing of Saudi journalist Jamal Khashoggi could complicate U.S.-Saudi relations",
+                    "ts": 1538993939,
+                    "twitterid": 1049242745624305664,
+                    "url": "https://www.washingtonpost.com/world/national-security/disappearance-and-alleged-killing-of-saudi-journalist-jamal-khashoggi-could-complicate-us-saudi-relations/2018/10/07/93693ace-ca4f-11e8-a360-85875bac0b1f_story.html?utm_term=.6496e65b2cc4&tid=sm_tw"
+                },
+                {
+                    "_id": "5bbaac4b421aa942c109df27",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_40/2593526/18-10-05t102714z_1541199936_rc1179825080_rtrmadp_3_france-interpol-missing_75640f12ab67a9356ea4796a9d2e2b95.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Interpol president reported missing after trip to China",
+                    "ts": 1538960409,
+                    "twitterid": 1049102110640496641,
+                    "url": "https://www.nbcnews.com/news/world/interpol-president-reported-missing-after-trip-china-n917006?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bbaba53421aa945929b448a",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181005152105-meng-hongwei-file-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Interpol asks China for information on agency's missing president",
+                    "ts": 1538963231,
+                    "twitterid": 1049113950049263621,
+                    "url": "https://www.cnn.com/2018/10/07/europe/missing-interpol-president-china-meng-hongwei/index.html?utm_medium=social&utm_content=2018-10-08T01%3A47%3A11&utm_source=twCNN&utm_term=link"
+                },
+                {
+                    "_id": "5bbb4704421aa957f10f166b",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/International/WireAP_1fd01dad751245ada00e19259da81351_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Missing Saudi journalist once a voice of reform in kingdom",
+                    "ts": 1539000005,
+                    "twitterid": 1049268187697754112,
+                    "url": "https://abcnews.go.com/International/wireStory/missing-saudi-journalist-voice-reform-kingdom-58353436?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bbb633c421aa95a429bade0",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/karmantawakkol_khashoggijamal_10052018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Turkey requests permission to search Saudi consulate for missing journalist",
+                    "ts": 1539005166,
+                    "twitterid": 1049289836673290240,
+                    "url": "https://thehill.com/policy/international/410363-turkey-requests-permission-to-search-saudi-consulate-for-missing"
+                },
+                {
+                    "_id": "5bbaba53421aa945929b4484",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/zQ3zji14VcxzVcrTpaP8Y9JIsWk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2IU7PBWKH4I6RLIKBYA67OR4YE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Jamal Khashoggi is just the latest Saudi dissident to mysteriously disappear",
+                    "ts": 1538963825,
+                    "twitterid": 1049116439830036480,
+                    "url": "https://www.washingtonpost.com/world/2018/10/07/jamal-khashoggi-is-just-latest-saudi-dissident-mysteriously-disappear/?utm_term=.83a455fcf5c5&tid=sm_tw"
+                },
+                {
+                    "_id": "5bbb8d6a421aa9622d44bea0",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/fbN2ux0-tpSjlr-czFJaBmFqV4M=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TO32ZVGLAII6REQP3VJODLSFOA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Turkey demands Saudi Arabia\u2019s \u2018full cooperation\u2019 in probe of missing journalist",
+                    "ts": 1539016077,
+                    "twitterid": 1049335598971019264,
+                    "url": "https://www.washingtonpost.com/world/turkey-demands-saudi-arabias-full-cooperation-in-probe-of-missing-journalist/2018/10/08/2fd48bda-caf9-11e8-ad0a-0e01efba3cc1_story.html?utm_term=.faba6a7c3384&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            65
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Laura Ingraham",
+            "Defiant",
+            "Democratic",
+            "Wet Rag Party Trump",
+            "Kavanaugh Kavanaugh",
+            "Democrats Republicans",
+            "Kansas",
+            "Trump",
+            "SCOTUS",
+            "GOP",
+            "Invisible",
+            "Jamal Khashoggi",
+            "Ohio",
+            "Kavanaugh",
+            "American Public",
+            "Brett Kavanaugh",
+            "Kavanaugh Impeachment",
+            "Senate Democrats",
+            "Kavanaugh Dems",
+            "MeToo",
+            "Beltway",
+            "Kavanaugh Confirmation",
+            "FBI",
+            "House",
+            "Cramer",
+            "FOIA",
+            "Heidi Heitkamp",
+            "Iowa",
+            "CNN Senate Key Races",
+            "Pelosi",
+            "Poll",
+            "Fox News",
+            "Supreme Court",
+            "McConnell",
+            "Saudi",
+            "Midterms Lisa Murkowski",
+            "Kamala Harris",
+            "Congress Kavanaugh",
+            "Blue Wall"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "Democrats",
+            "Confirmation",
+            "Republican",
+            "midterm",
+            "Senate",
+            "Trump"
+        ],
+        "timestamp": "2018-10-08 13:10:26.633728-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bbb7f5a421aa95db49e0421",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/08/Trump_50300.jpg-37c2a_s2048x1288.jpg?5ef25869bfebb55f1e55ec9caafca83822d70255",
+                    "origin": "The Washington Times",
+                    "title": "Trump says attacks on Kavanaugh will prompt many Democrats to vote Republican",
+                    "ts": 1539012702,
+                    "twitterid": 1049321446533713922,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/8/trump-democrats-are-going-end-voting-republican-mi/"
+                },
+                {
+                    "_id": "5bbb633c421aa95a429badf7",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/f37f89cd1c3409d62917a33fa2c747ed271a3bec/c=0-158-4794-2866/local/-/media/2016/09/20/USATODAY/USATODAY/636099977065062454-AP-US-Israel-Iran.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "McConnell predicts Republican 'surge' from Kavanaugh confirmation heading into midterms",
+                    "ts": 1539003989,
+                    "twitterid": 1049284898849263616,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/10/06/brett-kavanaugh-mcconnell-confirmation-gop-surge/1549762002/"
+                },
+                {
+                    "_id": "5bbb1cbe421aa953b63ec153",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/07/694940094001_5845407513001_5845417236001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Trump, at Kansas rally, praises Kavanaugh, slams Democrats",
+                    "ts": 1538989202,
+                    "twitterid": 1049222879450021888,
+                    "url": "https://www.foxnews.com/politics/trump-at-kansas-rally-praises-kavanaugh-slams-democrats"
+                },
+                {
+                    "_id": "5bba902d421aa93d57e1b52e",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/05/Supreme_Court_Kavanaugh_13285.jpg-e2d90_s2048x1377.jpg?ed8add4ce233b0d46539e9b71a78f9521bd20d5e",
+                    "origin": "The Washington Times",
+                    "title": "Senate Democrats seek to put the brakes on Kavanaugh impeachment talk",
+                    "ts": 1538952000,
+                    "twitterid": 1049066841178435584,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/7/senate-democrats-seek-to-put-the-brakes-on-kavanau/"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e0400",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald2_100818.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump calls Kavanaugh allegations a 'hoax set up by the Democrats'",
+                    "ts": 1539014162,
+                    "twitterid": 1049327569991098368,
+                    "url": "https://thehill.com/homenews/administration/410408-trump-calls-kavanaugh-allegations-a-hoax-set-up-by-the-democrats"
+                },
+                {
+                    "_id": "5bbac871421aa947ebd3779e",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180409103549-2018-senate-key-races-evergreen-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "CNN Senate Key Races: Democrats try to rebuild the Blue Wall",
+                    "ts": 1538964544,
+                    "twitterid": 1049119456394444800,
+                    "url": "https://www.cnn.com/2018/10/05/politics/cnn-senate-democrats-rebuild-blue-wall/index.html?utm_source=twCNNp&utm_content=2018-10-08T02%3A09%3A03&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5bba57f4421aa933343e7925",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/snl_100718.png",
+                    "origin": "The Hill",
+                    "title": "'SNL' opens with GOP senators celebrating Kavanaugh win in Republican locker room",
+                    "ts": 1538936464,
+                    "twitterid": 1049001679092441093,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/410266-snl-opens-with-gop-senators-celebrating-kavanaugh-win-in"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e0435",
+                    "date_month": "2018-10",
+                    "image": "https://images.newrepublic.com/49cda634422887be85671c3d9952830592d80865.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "What will Democrats do about Brett Kavanaugh?",
+                    "ts": 1539011897,
+                    "twitterid": 1049318067283656706,
+                    "url": "https://newrepublic.com/minutes/151606/will-democrats-brett-kavanaugh"
+                },
+                {
+                    "_id": "5bba57f4421aa933343e7922",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/mcconnellmitch_kavanaughbrett_100618getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Republicans seize on Kavanaugh confirmation going into midterms",
+                    "ts": 1538936702,
+                    "twitterid": 1049002678083375105,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/410304-republicans-seize-on-benefits-of-kavanaugh-confirmation"
+                },
+                {
+                    "_id": "5bba65fb421aa934ff889378",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/mcconnellmitch_100218sr_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "McConnell calls Kavanaugh confirmation proudest moment as senator",
+                    "ts": 1538940066,
+                    "twitterid": 1049016786912464896,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/410273-mcconnell-calls-kavanaugh-confirmation-proudest-moment-as-senator"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            117
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Colin Powell",
+            "Michael Cohen",
+            "View",
+            "Donald Trump",
+            "Supreme Court Steve Kornacki",
+            "West Coast Democrats Trump",
+            "Oregon",
+            "Kim Seeks Help From Old Friends Rod Rosenstein",
+            "Rosenstein",
+            "China",
+            "Maxine Waters",
+            "Second Round",
+            "Kim Jong Un",
+            "Rod Rosenstein",
+            "American Politics",
+            "Cox",
+            "Army",
+            "MAGA",
+            "Biggest Fan",
+            "Iowa",
+            "White House",
+            "Chinese",
+            "Divided States",
+            "Brazil",
+            "Midterm Elections Melania Trump",
+            "Afghanistan Powell",
+            "ABC",
+            "Biden",
+            "Bill Clinton",
+            "Korean",
+            "Faith Groups Get",
+            "Russia Alexandria",
+            "Fox",
+            "Trump Tower",
+            "Authoritarianism Hope Hicks",
+            "America Newsom",
+            "Kim Jong Un Fox",
+            "Taiwan",
+            "Hillary Clinton",
+            "Fox News Former Trump",
+            "Jared Kushner",
+            "Stormy Daniels",
+            "Albright",
+            "Communications Chief",
+            "Manafort",
+            "U.S.",
+            "United States",
+            "Africa Survey",
+            "Andrew Brunson",
+            "FEC",
+            "Romania",
+            "Chris Hayes",
+            "Trump Baby",
+            "Former Top Trump Aide",
+            "GOP",
+            "Tropics",
+            "New York Times",
+            "Air Force One Trump",
+            "Leverage Against U.S.",
+            "Nunes",
+            "Trump Does Melania Trump Ever Tell",
+            "Juan Williams",
+            "Ivanka Trump",
+            "Melania",
+            "Elizabeth Warren",
+            "Fox Mike Pompeo",
+            "Pentagon",
+            "Clinton",
+            "Watchdog",
+            "Melania Trump",
+            "Indiana Senate",
+            "Dems",
+            "McCain",
+            "Mueller",
+            "Rosenstein Trump",
+            "Turkey",
+            "America Donald Trump",
+            "Rosenstein Hillary",
+            "Meghan",
+            "Trump",
+            "Russian",
+            "Chris Christie",
+            "South Korea",
+            "Florida",
+            "Brink",
+            "Hope Hicks",
+            "Joins Fox",
+            "Russia Putin",
+            "Kavanaugh",
+            "Pompeo",
+            "California",
+            "US",
+            "Brazil Republicans",
+            "Graham",
+            "Florida Pompeo",
+            "North Korea",
+            "Kenya",
+            "Rosenstein John Oliver",
+            "Bill"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "says",
+            "Kim",
+            "Melania",
+            "Rosenstein",
+            "President",
+            "elect"
+        ],
+        "timestamp": "2018-10-08 13:10:28.354031-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bbb7147421aa95b3e7cdfb2",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/-RVgunfT0_BMkPNGBxvwIej_1iQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QVA7G5MIDM4LJPPYDII5VDR5YM.jpg",
+                    "origin": "Washington Post",
+                    "title": "President Trump says first lady Melania Trump represented the U.S. in Africa \u2018like no one has before\u2019",
+                    "ts": 1539010153,
+                    "twitterid": 1049310751486357504,
+                    "url": "https://www.washingtonpost.com/news/reliable-source/wp/2018/10/08/president-trump-says-first-lady-melania-trump-represented-the-u-s-in-africa-like-no-one-has-before/?utm_term=.977935cdf51d&tid=sm_tw"
+                },
+                {
+                    "_id": "5bbb633c421aa95a429badf8",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/DmAvYe96Y_oF4xScKmUtdO41Djg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WANGOXGDGII6RIPQUQCRW2WRCQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Rosenstein to fly with Trump to Florida on Monday, official says",
+                    "ts": 1539003983,
+                    "twitterid": 1049284875629613058,
+                    "url": "https://www.washingtonpost.com/politics/rosenstein-to-fly-with-trump-to-florida-on-monday-official-says/2018/10/08/42e105f2-caed-11e8-a3e6-44daa3d35ede_story.html?utm_term=.8e72479608de&tid=sm_tw"
+                },
+                {
+                    "_id": "5bbae488421aa94b52e8539f",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/06/3ade2b9f-b05d-4878-ad9a-071ae947de31/thumbnail/1200x630g3/e6e63abac58b45c486087ec954cec14c/melania2.jpg",
+                    "origin": "CBS News",
+                    "title": "Melania Trump says Kavanaugh is \"highly qualified\" for the Supreme Court",
+                    "ts": 1538972288,
+                    "twitterid": 1049151937785090048,
+                    "url": "https://www.cbsnews.com/news/melania-trump-says-kavanaugh-is-highly-qualified-for-the-supreme-court-2018-10-06/"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e041f",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_100818.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump says he has no plans to fire Rosenstein",
+                    "ts": 1539012843,
+                    "twitterid": 1049322036991021057,
+                    "url": "https://thehill.com/policy/national-security/410404-trump-says-he-has-no-plans-to-fire-rosenstein"
+                },
+                {
+                    "_id": "5bbb633c421aa95a429badc4",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/08/USAT/43bc45f0-5a9f-4ac5-ab8f-97ca3d6e1279-AP_Trump_8.JPG?crop=1992,1115,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "Deputy Attorney General Rod Rosenstein to travel with President Trump to Florida",
+                    "ts": 1539006600,
+                    "twitterid": 1049295850462015488,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/10/08/rod-rosenstein-donald-trump-meeting/1563389002/"
+                },
+                {
+                    "_id": "5bbb8d6a421aa9622d44bea7",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/10/trumprosenstein-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "WATCH: Trump says he has no plans to fire Rosenstein",
+                    "ts": 1539015600,
+                    "twitterid": 1049333599873511424,
+                    "url": "https://www.pbs.org/newshour/politics/watch-trump-says-he-has-no-plans-to-fire-rosenstein"
+                },
+                {
+                    "_id": "5bbb00a6421aa950f3feba92",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/08/5b55fce4-5f98-4932-8ec1-232f6afc735c/thumbnail/1200x630/95112e245283f9f48069ae53df8e0cd2/2018-10-07t224334z-1664051891-rc1968b22ee0-rtrmadp-3-northkorea-nuclear-pompeo.jpg",
+                    "origin": "CBS News",
+                    "title": "Second Trump-Kim summit almost a done deal, Pompeo says",
+                    "ts": 1538979849,
+                    "twitterid": 1049183651127283712,
+                    "url": "https://www.cbsnews.com/news/second-trump-kim-summit-almost-a-done-deal-pompeo-says/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bbaf80704d3017497b9740b&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bbb4704421aa957f10f167c",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/ZMtqwg4d95SRVvChg9Anc4fxT-o=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AQZPRIGKXQI6REQP3VJODLSFOA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Pompeo says Trump, Kim believe \u2018real progress\u2019 can be made at second summit",
+                    "ts": 1538998965,
+                    "twitterid": 1049263827584471042,
+                    "url": "https://www.washingtonpost.com/world/pompeo-says-trump-kim-believe-real-progress-can-be-made-at-second-summit/2018/10/08/5a6afec0-ca8f-11e8-ad0a-0e01efba3cc1_story.html?utm_term=.1ce0b4800c11&tid=sm_tw"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e0422",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/johnoliverbolsonaro.jpg",
+                    "origin": "The Hill",
+                    "title": "John Oliver begs Brazil not to elect 'Trump of the Tropics'",
+                    "ts": 1539012665,
+                    "twitterid": 1049321291344273408,
+                    "url": "https://thehill.com/policy/international/410399-john-oliver-begs-brazil-not-to-elect-trump-of-the-tropics"
+                },
+                {
+                    "_id": "5bba902d421aa93d57e1b53a",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/07/world/07flotus/07flotus-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Does Melania Trump Ever Tell the President to Put Away His Phone? \u2018Yes!\u2019",
+                    "ts": 1538950926,
+                    "twitterid": 1049062336244436992,
+                    "url": "https://www.nytimes.com/2018/10/06/world/africa/melania-trump-africa-trip-egypt.html?smid=tw-nytpolitics&smtyp=cur"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            88
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "UFC",
+            "Nobel",
+            "Next Kavanaugh Stakes Obamacare",
+            "Kavanaugh Kavanaugh",
+            "How Kavanaugh",
+            "Tropical Storm Michael",
+            "Trump",
+            "Merrick Garland",
+            "Liberals Eye",
+            "MD",
+            "Justice Brett",
+            "SCOTUS",
+            "GOP",
+            "Former Yale Law School",
+            "Stephen Colbert",
+            "McConnell Made Supreme Court Confirmation Process",
+            "Senate",
+            "Kagan",
+            "CBS",
+            "No Return",
+            "Foot",
+            "Beers4Brett",
+            "Kavanaugh",
+            "Kavanaugh Investigation",
+            "Democratic Party Should Brett",
+            "Ford Kavanaugh",
+            "American",
+            "China",
+            "Ford",
+            "Conservative Majority Texas",
+            "Impeachment",
+            "Kavanaugh News",
+            "Mitch",
+            "John Roberts",
+            "Brett Kavanaugh",
+            "All Costs Congressman",
+            "Brett Kavanaugh Confirmation Battle Tests Supreme Court",
+            "Larry Kudlow",
+            "FBI",
+            "Kermit Gosnell",
+            "Justice Brett Kavanaugh",
+            "Pence",
+            "Limousine Crash",
+            "Kavanaugh Holder",
+            "India",
+            "Mazie Hirono",
+            "DKE",
+            "Supreme Court",
+            "Harvard Law School",
+            "Christine Blasey Ford",
+            "Partisan",
+            "Kavanaugh Likely",
+            "McConnell",
+            "CNN",
+            "Record How Kavanaugh Will"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "courts",
+            "Brett",
+            "Supreme",
+            "confirmation",
+            "Justice",
+            "say"
+        ],
+        "timestamp": "2018-10-08 13:10:29.623599-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bbaac4b421aa942c109df3e",
+                    "date_month": "2018-10",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BZ359_COURTP_SOC_20181007165734.jpg",
+                    "origin": "Capital Journal",
+                    "title": "Brett Kavanaugh Confirmation Battle Tests Supreme Court\u2019s Chief Justice",
+                    "ts": 1538958755,
+                    "twitterid": 1049095173005828098,
+                    "url": "https://www.wsj.com/articles/brett-kavanaugh-confirmation-battle-tests-supreme-courts-chief-justice-1538947753?mod=e2twp"
+                },
+                {
+                    "_id": "5bba9e5f421aa94039d9e1b4",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/07/48fd8f02-c11b-48f3-8f62-2963323460c6/thumbnail/1200x630/268d9491649f5f424f00d59c1e2e8490/unnamed-1.jpg",
+                    "origin": "CBS News",
+                    "title": "The confirmation victory of Justice Brett Kavanaugh",
+                    "ts": 1538953386,
+                    "twitterid": 1049072653540188160,
+                    "url": "https://www.cbsnews.com/news/the-confirmation-victory-of-justice-brett-kavanaugh/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bba90a604d3017470dc2359&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e0404",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/06/supreme_court_kavanaugh_68968_s2048x1282.jpg?21d2c98dce8ecdbc67c8947a1cb25e5cb806ba1f",
+                    "origin": "The Washington Times",
+                    "title": "Obamacare defenders say Justice Brett Kavanaugh could determine fate of law",
+                    "ts": 1539014049,
+                    "twitterid": 1049327094357004294,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/8/obamacare-defenders-say-justice-brett-kavanaugh-co/"
+                },
+                {
+                    "_id": "5bba902d421aa93d57e1b521",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_joy_kavanaugh_181007_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Brett Kavanaugh Supreme court confirmation energizes GOP base",
+                    "ts": 1538953208,
+                    "twitterid": 1049071910003400704,
+                    "url": "https://www.msnbc.com/am-joy/watch/brett-kavanaugh-supreme-court-confirmation-energizes-gop-base-1338795587828?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bbad67c421aa949f1be8a73",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/07/107_2018_supreme-court-kavanaugh-t-98201_s2048x1429.jpg?7e97577dcdb67471d6361916889d2829aa213281",
+                    "origin": "The Washington Times",
+                    "title": "Kavanaugh confirmation caps Trump effort to put courts under conservatives' control",
+                    "ts": 1538968117,
+                    "twitterid": 1049134443095629825,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/7/kavanaugh-confirmation-caps-trump-effort-to-put-co/"
+                },
+                {
+                    "_id": "5bbae488421aa94b52e85398",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Kavanaugh-Lentz.jpg",
+                    "origin": "Fox News",
+                    "title": "UFC fighter Nik Lentz congratulates 'homie' Supreme Court Justice Brett Kavanaugh after match win",
+                    "ts": 1538973000,
+                    "twitterid": 1049154921860235264,
+                    "url": "https://www.foxnews.com/sports/ufc-fighter-nik-lentz-congratulates-homie-supreme-court-justice-brett-kavanaugh-after-match-win"
+                },
+                {
+                    "_id": "5bbb551e421aa958ff4cdfaa",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/kavanaughbrett_10072018.jpg",
+                    "origin": "The Hill",
+                    "title": "Holder: Supreme Court's legitimacy can be questioned after Kavanaugh confirmation",
+                    "ts": 1539002645,
+                    "twitterid": 1049279260643528704,
+                    "url": "https://thehill.com/homenews/administration/410356-holder-supreme-courts-legitimacy-can-be-questioned-after-kavanaugh"
+                },
+                {
+                    "_id": "5bbb633c421aa95a429badfc",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/06/Supreme_Court_Kavanaugh_19574.jpg-ef5a1_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Justice Brett Kavanaugh gets to work with all-female law clerk staff",
+                    "ts": 1539003866,
+                    "twitterid": 1049284384304640000,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/8/justice-brett-kavanaugh-gets-to-work-with-all-fema/"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e0430",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/04eb2a78b78112433a2a550789d85b5375de3391/c=0-315-6192-3813/local/-/media/2018/10/06/USATODAY/USATODAY/636744499214876153-XXX-Administration-of-the-Judicial-Oath-dec-64.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "'A profoundly heart-breaking day': Celebration and anger for Brett Kavanaugh confirmation",
+                    "ts": 1539012000,
+                    "twitterid": 1049318499502383104,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/10/06/brett-kavanaughs-confirmation-marked-anger-and-celebration/1550353002/"
+                },
+                {
+                    "_id": "5bbac871421aa947ebd37790",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/43/de/8ec0d91e4804837518119c4d56dd/181005-kagan-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Kagan fears Supreme Court losing swing justice",
+                    "ts": 1538965806,
+                    "twitterid": 1049124747626389504,
+                    "url": "https://www.politico.com/story/2018/10/05/elena-kagan-supreme-court-kennedy-877288"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            38
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Pete Davidson",
+            "Columbus",
+            "Paul Romer",
+            "Harvard Columbus",
+            "GOP",
+            "Great",
+            "Lucy Liu",
+            "Southern California",
+            "Facebook Social",
+            "Physics",
+            "Moustache",
+            "Ohio",
+            "SpaceX",
+            "SNL",
+            "Kanye West",
+            "California",
+            "Indigenous Peoples",
+            "Boston",
+            "Brett Kavanaugh",
+            "Woman",
+            "William Nordhaus",
+            "Nobel Prize",
+            "Argentinian",
+            "Nobel Economic Prize",
+            "Tufts",
+            "Supreme Court",
+            "Awkwafina",
+            "Portal",
+            "American Beard",
+            "Southern California Trump",
+            "Bill Clinton"
+        ],
+        "peaks": [],
+        "theme": [
+            "Nobel",
+            "Day",
+            "Columbus",
+            "Prize",
+            "economics",
+            "SpaceX",
+            "win"
+        ],
+        "timestamp": "2018-10-08 13:10:30.192612-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bbb38e3421aa956a7747f95",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/08/nobel_economics_18296_s2048x1443.jpg?212555046317c2f03ae6feef06ea20c1af02eae8",
+                    "origin": "The Washington Times",
+                    "title": "2 American researchers win Nobel economics prize",
+                    "ts": 1538995927,
+                    "twitterid": 1049251083862900737,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/8/nobels-outlier-the-economics-prize-to-be-announced/"
+                },
+                {
+                    "_id": "5bbb7147421aa95b3e7cdfba",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/vxDjkl2OOTH9FjfTfkuKgk3JMqQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZWAQ7PWK44I6RLIKBYA67OR4YE.jpg",
+                    "origin": "Washington Post",
+                    "title": "William Nordhaus and Paul Romer win Nobel Prize in economics",
+                    "ts": 1539009766,
+                    "twitterid": 1049309130551427075,
+                    "url": "https://www.washingtonpost.com/business/2018/10/08/two-americans-win-nobel-prize-economics/?utm_term=.45182f568efb&tid=sm_tw"
+                },
+                {
+                    "_id": "5bbb633c421aa95a429badf9",
+                    "date_month": "2018-10",
+                    "image": "http://www.trbimg.com/img-5bbb3c81/turbine/ct-nobel-economics-prize-20181008",
+                    "origin": "Chicago Tribune",
+                    "title": "American researchers \u2014 one who thought award call was a spammer \u2014 win Nobel economics prize",
+                    "ts": 1539003951,
+                    "twitterid": 1049284741571203072,
+                    "url": "http://www.chicagotribune.com/news/nationworld/ct-nobel-economics-prize-20181008-story.html"
+                },
+                {
+                    "_id": "5bbb633c421aa95a429baddd",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/nobelprize_100818.jpg",
+                    "origin": "The Hill",
+                    "title": "Americans win Nobel Economic Prize for work on climate and tech innovation",
+                    "ts": 1539005288,
+                    "twitterid": 1049290345941487616,
+                    "url": "https://thehill.com/policy/energy-environment/410370-americans-win-nobel-economic-prize-for-work-on-climate-and-tech"
+                },
+                {
+                    "_id": "5bba65fb421aa934ff889369",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/columbuschristopher_06072018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Columbus, Ohio won't observe Columbus Day",
+                    "ts": 1538941263,
+                    "twitterid": 1049021808345845760,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/410317-columbus-ohio-wont-observe-columbus-day"
+                },
+                {
+                    "_id": "5bbb38e3421aa956a7747faf",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/08/BostonGlobe.com/Foreign/Images/AFP_19V1QT.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Recipients of Nobel in economics have Boston ties",
+                    "ts": 1538993804,
+                    "twitterid": 1049242179250610176,
+                    "url": "https://www.bostonglobe.com/news/world/2018/10/08/recipients-nobel-economics-have-new-england-ties/D6mFEnk9goMBtOpY5J8KxI/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bbb7147421aa95b3e7cdfca",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/07/no_columbus_day_in_columbus_15929_s2048x1430.jpg?e8a6c332f3da7afd414eb9ebee73cc6b126ecbf6",
+                    "origin": "The Washington Times",
+                    "title": "No Columbus Day in Columbus: City to honor veterans instead",
+                    "ts": 1539009056,
+                    "twitterid": 1049306151387627520,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/7/no-columbus-day-in-columbus-city-to-honor-veterans/"
+                },
+                {
+                    "_id": "5bbaba53421aa945929b4482",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/f4b36035d7333e6947a67aec442c573201904cea/c=0-114-2050-1272/local/-/media/USATODAY/USATODAY/2013/10/14/1381776653000-columbus101413-001.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "For first time, Columbus will not observe Columbus Day, its namesake holiday",
+                    "ts": 1538964005,
+                    "twitterid": 1049117195157032962,
+                    "url": "https://www.usatoday.com/story/news/2018/10/07/columbus-ohio-not-observe-columbus-day/1560105002/"
+                },
+                {
+                    "_id": "5bbb551e421aa958ff4cdfe4",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/03/USAT/de3230e3-69b3-4099-94c1-4e1bbfbf0884-EPA_USA_NEW_YORK_COLUMBUS_DAY_PARADE.jpg?crop=3892,2193,x39,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Columbus Day: What's open and closed on Monday?",
+                    "ts": 1539000037,
+                    "twitterid": 1049268325145038848,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/10/03/columbus-day-whats-open-closed-holiday/1507670002/"
+                },
+                {
+                    "_id": "5bbaac4b421aa942c109df48",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/International/nadia-murad-gty-jef-181005_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "How 4 Nobel Prize winners reacted to receiving the awards",
+                    "ts": 1538957736,
+                    "twitterid": 1049090899307876352,
+                    "url": "https://abcnews.go.com/International/nobel-prize-winners-reacted-receiving-awards/story?id=58324288"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            29
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Hurricane Michael",
+            "U.S.",
+            "Hurricane Michael Strengthens",
+            "Hit Florida Panhandle Remnants",
+            "Michael",
+            "Tropical Storm Michael",
+            "New England",
+            "Florida Michael",
+            "Florida Florida State",
+            "Latest",
+            "Florida Tropical Storm Michael",
+            "Florida",
+            "Threatens",
+            "Florida Gulf Coast",
+            "Tropical Storm Michael Florida",
+            "US",
+            "Florida Storm",
+            "Florida Tropical"
+        ],
+        "peaks": [],
+        "theme": [
+            "hurricane",
+            "Michael",
+            "Florida",
+            "Storm",
+            "Tropical",
+            "Coast",
+            "Gulf"
+        ],
+        "timestamp": "2018-10-08 13:10:30.465240-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bba821a421aa93ab6294d5e",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/uF0745RjLHID8PDzfkYTgY_yGHI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7NUBAV56XNGE5LKY73RVJUAYV4.PNG",
+                    "origin": "Washington Post",
+                    "title": "Tropical Storm Michael threatens to strike Florida\u2019s Gulf Coast as a hurricane midweek",
+                    "ts": 1538947918,
+                    "twitterid": 1049049720663035904,
+                    "url": "https://www.washingtonpost.com/weather/2018/10/07/tropical-storm-michael-threatens-strike-floridas-gulf-coast-hurricane-midweek/?tid=sm_tw"
+                },
+                {
+                    "_id": "5bbb1cbe421aa953b63ec174",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/08/2eb1273d-a142-407a-9d1c-f25f261e5e42/thumbnail/1200x630/d17784f517cfcb80db8bce275da7c3c8/tropical-storm-michael-sat-image-ealry-100818.jpg",
+                    "origin": "CBS News",
+                    "title": "Tropical Storm Michael could hit Florida Gulf Coast as Cat 2 hurricane",
+                    "ts": 1538985727,
+                    "twitterid": 1049208302129872896,
+                    "url": "https://www.cbsnews.com/news/tropical-storm-michael-latest-track-path-weather-forecast-today-2018-10-08/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bbb0efc04d301590bdd3744&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bbb551e421aa958ff4cdfd5",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/08/2eb1273d-a142-407a-9d1c-f25f261e5e42/thumbnail/1200x630/d17784f517cfcb80db8bce275da7c3c8/tropical-storm-michael-sat-image-ealry-100818.jpg",
+                    "origin": "CBS News",
+                    "title": "Tropical Storm Michael could hit Florida Gulf Coast as Category 2 hurricane",
+                    "ts": 1539000641,
+                    "twitterid": 1049270856604688384,
+                    "url": "https://www.cbsnews.com/news/tropical-storm-michael-latest-track-path-weather-forecast-today-2018-10-08/?ftag=CNM-00-10aab7e&linkId=57868554"
+                },
+                {
+                    "_id": "5bba9e5f421aa94039d9e18c",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_40/2596041/181007-tropical-storm-michael-se-541p_67f0f65164889fc2294091f0eb4faee2.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Tropical Storm Michael expected to hit Gulf Coast as a hurricane",
+                    "ts": 1538956504,
+                    "twitterid": 1049085731212341253,
+                    "url": "https://www.nbcnews.com/news/us-news/tropical-storm-michael-expected-hit-gulf-coast-hurricane-n917596?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bba7405421aa9381e906e53",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/07/USAT/f708036e-8cdd-47e9-8541-73d298cc0d6e-174338_5day_cone_with_line_and_wind.png?crop=896,506,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Tropical Storm Michael forms, forecast to hit Gulf Coast as a hurricane this week",
+                    "ts": 1538945403,
+                    "twitterid": 1049039170797297664,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/10/07/tropical-storm-michael-forecast-become-hurricane-and-hit-gulf-coast/1557894002/"
+                },
+                {
+                    "_id": "5bba49d8421aa9319edcaa8f",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/International/trop-depression2-14-noaa-mo-20181007_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Possible hurricane, now a tropical depression, could impact Gulf Coast by midweek",
+                    "ts": 1538932323,
+                    "twitterid": 1048984311335141376,
+                    "url": "https://abcnews.go.com/US/hurricane-now-tropical-depression-impact-gulf-coast-midweek/story?id=58338633&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bbad67c421aa949f1be8a6e",
+                    "date_month": "2018-10",
+                    "image": "http://www.trbimg.com/img-5bbac963/turbine/ct-tropical-storm-michael-hurricane-florida-20181007",
+                    "origin": "Chicago Tribune",
+                    "title": "Tropical storm Michael expected to gain hurricane strength nearing Florida",
+                    "ts": 1538968339,
+                    "twitterid": 1049135374616989696,
+                    "url": "http://www.chicagotribune.com/news/nationworld/ct-tropical-storm-michael-hurricane-florida-20181007-story.html"
+                },
+                {
+                    "_id": "5bbb7147421aa95b3e7cdfa8",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/tropical-storm-michael.jpg",
+                    "origin": "Fox News",
+                    "title": "Tropical Storm Michael turns into hurricane as Florida braces for impact",
+                    "ts": 1539010472,
+                    "twitterid": 1049312090652139520,
+                    "url": "https://www.foxnews.com/us/tropical-storm-michael-turns-into-hurricane-as-florida-braces-for-impact"
+                },
+                {
+                    "_id": "5bbb7147421aa95b3e7cdfa4",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/08/USAT/8dd3640c-3549-426d-afea-eaf7244e8277-1000x1000.jpg?crop=999,570,x0,y189&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Michael reaches hurricane strength as it heads for landfall along U.S. Gulf Coast",
+                    "ts": 1539010751,
+                    "twitterid": 1049313262360252417,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/10/08/hurricane-michael-forms-heads-landfall-u-s-gulf-coast/1564798002/"
+                },
+                {
+                    "_id": "5bbb1cbe421aa953b63ec16d",
+                    "date_month": "2018-10",
+                    "image": "http://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Florida declares state of emergency as Tropical Storm Michael forecast to become hurricane",
+                    "ts": 1538986500,
+                    "twitterid": 1049211544603512833,
+                    "url": "https://www.foxnews.com/us/florida-declares-state-of-emergency-as-tropical-storm-michael-forecast-to-become-hurricane"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            14
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Right",
+            "Business Interests House",
+            "Trade Strategy",
+            "Trade New Nafta Shows Trump",
+            "Kudlow",
+            "Russia",
+            "Traders Bet",
+            "Dems",
+            "Canadian",
+            "IMF Bali",
+            "US",
+            "New Nafta Relief New Condo",
+            "Front Lines Of NAFTA"
+        ],
+        "peaks": [],
+        "theme": [
+            "new",
+            "NAFTA",
+            "Trump",
+            "says",
+            "trade",
+            "Oil",
+            "plan"
+        ],
+        "timestamp": "2018-10-08 13:10:30.746904-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bbb7147421aa95b3e7cdff1",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/kudlowlarry_100518upi_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump economic adviser says if Dems support workers they'll vote for new NAFTA plan",
+                    "ts": 1539007564,
+                    "twitterid": 1049299892538150912,
+                    "url": "https://thehill.com/hilltv/rising/410367-trump-economic-adviser-says-if-dems-support-workers-theyll-vote-for-new-nafta"
+                },
+                {
+                    "_id": "5bbad67c421aa949f1be8a76",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-28743/social",
+                    "origin": "Capital Journal",
+                    "title": "New Nafta Shows Trump\u2019s Trade Strategy for Balancing Labor, Business Interests",
+                    "ts": 1538967952,
+                    "twitterid": 1049133750406340608,
+                    "url": "https://www.wsj.com/articles/new-nafta-shows-trumps-trade-strategy-for-balancing-labor-business-interests-1538386203?mod=e2twp"
+                },
+                {
+                    "_id": "5bbac871421aa947ebd377a9",
+                    "date_month": "2018-10",
+                    "image": "https://images.newrepublic.com/0ee05a73a03233b0d9ff1c46c2df97f7d982a3f9.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "What Trump Gets Right on Trade",
+                    "ts": 1538964020,
+                    "twitterid": 1049117256393867264,
+                    "url": "https://newrepublic.com/article/151140/trump-right-free-trade-globalization"
+                },
+                {
+                    "_id": "5bba65fb421aa934ff88935e",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-28897/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "A New Nafta Relief",
+                    "ts": 1538942417,
+                    "twitterid": 1049026647700262912,
+                    "url": "https://www.wsj.com/articles/a-new-nafta-relief-1538436923?mod=e2tw"
+                },
+                {
+                    "_id": "5bbb38e3421aa956a7747f94",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/01/Trump_41693.jpg-fa205_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "EDITORIAL: The new, improved NAFTA",
+                    "ts": 1538995933,
+                    "twitterid": 1049251111880851457,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/8/the-new-improved-nafta/"
+                },
+                {
+                    "_id": "5bbb4704421aa957f10f168d",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181008120555-imf-bali-banner-oct-8-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "IMF Bali summit: Global finance chiefs wrestle with Trump's trade war",
+                    "ts": 1538998209,
+                    "twitterid": 1049260654471905283,
+                    "url": "https://www.cnn.com/2018/10/08/economy/imf-bali-world-bank/index.html?utm_medium=social&utm_content=2018-10-08T11%3A30%3A08&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5bbae488421aa94b52e85392",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/06/d0dcce4d-b041-4475-9e91-f64d7272c1c3/thumbnail/1200x630g3/83cfa2fb6ac93fbffba9f8bf0c24bfd6/ap-18170840751671.jpg",
+                    "origin": "CBS News",
+                    "title": "House GOP candidate says Democrats trying to \"shoot down our values\" in new ad",
+                    "ts": 1538973183,
+                    "twitterid": 1049155689459998720,
+                    "url": "https://www.cbsnews.com/news/yvette-herrell-dont-give-her-a-shot-gun-ad-xochitl-torres-small-new-mexico/"
+                },
+                {
+                    "_id": "5bbb633c421aa95a429badcd",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-29773/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Traders Bet on Return of $100 Oil",
+                    "ts": 1539006004,
+                    "twitterid": 1049293352858992641,
+                    "url": "https://www.wsj.com/articles/traders-bet-on-return-of-100-oil-1539000000?mod=e2tw"
+                },
+                {
+                    "_id": "5bbb551e421aa958ff4cdfa5",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/drugs_0.jpg",
+                    "origin": "The Hill",
+                    "title": "The new NAFTA could thwart president\u2019s promise to lower prescription drug costs",
+                    "ts": 1539002765,
+                    "twitterid": 1049279766711488513,
+                    "url": "https://thehill.com/blogs/congress-blog/healthcare/410349-the-new-nafta-could-thwart-presidents-promise-to-lower"
+                },
+                {
+                    "_id": "5bbb551e421aa958ff4cdf9b",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/kudlowlarry_100518upi2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Kudlow says best way to challenge Russia is US energy competition",
+                    "ts": 1539003245,
+                    "twitterid": 1049281781160194048,
+                    "url": "https://thehill.com/hilltv/rising/410360-kudlow-says-us-needs-to-focus-on-energy-sector-to-challenge-russia"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Craig Coyne",
+            "Maine",
+            "George",
+            "Barbara Bush"
+        ],
+        "peaks": [],
+        "theme": [
+            "Bush",
+            "daughter",
+            "Barbara",
+            "Former",
+            "first",
+            "married",
+            "gets"
+        ],
+        "timestamp": "2018-10-08 13:10:30.830384-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bbb633c421aa95a429badbf",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/08/Barbara_Bush_Wedding_11274.jpg-981e8_s2048x1343.jpg?8ae870273b8c884c854d98793d8a76ca8c0bba84",
+                    "origin": "The Washington Times",
+                    "title": "Barbara Bush, former first daughter, gets married",
+                    "ts": 1539007039,
+                    "twitterid": 1049297694261436418,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/8/former-first-daughter-barbara-bush-gets-married/"
+                },
+                {
+                    "_id": "5bbb7147421aa95b3e7cdfda",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/08/BostonGlobe.com/Lifestyle/Images/6eae94d286e844f7a6c8939ae39061f5-6eae94d286e844f7a6c8939ae39061f5-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Former first daughter Barbara Bush gets married at family\u2019s Maine compound",
+                    "ts": 1539008429,
+                    "twitterid": 1049303522636980224,
+                    "url": "https://www.bostonglobe.com/lifestyle/names/2018/10/08/former-first-daughter-barbara-bush-gets-married-family-maine-compound/TiUWhJU3LXsNO9tRc6BabI/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e03fb",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/08/989f6e1e-38c8-4284-bc93-da5b19846cfb/thumbnail/1200x630/0610ffa5468b3fb4c384d30f12e25fc9/screen-shot-2018-10-08-at-11-12-25-am.png",
+                    "origin": "CBS News",
+                    "title": "Former first daughter Barbara Bush gets married in \"very secret wedding\"",
+                    "ts": 1539014386,
+                    "twitterid": 1049328508881850374,
+                    "url": "https://www.cbsnews.com/news/former-first-daughter-barbara-bush-gets-married/?ftag=CNM-00-10aab7e&linkId=57884980"
+                },
+                {
+                    "_id": "5bbb7147421aa95b3e7cdfaa",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/bushhagerjenna_bushbarbarajr03082017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Barbara Bush, former first daughter, marries screenwriter",
+                    "ts": 1539010325,
+                    "twitterid": 1049311474265612294,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/410378-barbara-bush-former-first-daughter-marries-screenwriter"
+                },
+                {
+                    "_id": "5bbb633c421aa95a429badfb",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_41/1374546/barbara-bush-craig-coyne-wedding-today-main-181008_e84620f43786bfc4da753d938398d53e.1200;630;7;70;2.jpg",
+                    "origin": "NBC News",
+                    "title": "Barbara Bush wedding: Former first daughter marries Craig Coyne, see photos",
+                    "ts": 1539003905,
+                    "twitterid": 1049284545487523840,
+                    "url": "https://www.today.com/news/barbara-bush-wedding-former-first-daughter-marries-craig-coyne-see-t138917?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e0443",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/WausoS5oKegu0LKtekV6savqC7o=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2NMAPKJUQM3MRFE45TPDOOVATM.jpg",
+                    "origin": "Washington Post",
+                    "title": "Former President George W. Bush confirms daughter Barbara Bush has tied the knot",
+                    "ts": 1539011234,
+                    "twitterid": 1049315285835161600,
+                    "url": "https://www.washingtonpost.com/news/reliable-source/wp/2018/10/08/former-president-george-w-bush-confirms-daughter-barbara-bush-has-tied-the-knot/?utm_term=.b505b2c75b44&tid=sm_tw"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e044d",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181008100059-01-barbara-bush-craig-coyne-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "George W. Bush announces wedding of his daughter",
+                    "ts": 1539010866,
+                    "twitterid": 1049313745913237504,
+                    "url": "https://www.cnn.com/2018/10/08/politics/barbara-pierce-bush-wedding/index.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Victim",
+            "New York Limo Crash",
+            "Schoharie",
+            "Deadliest Accident",
+            "New York Limo",
+            "Frankenstein",
+            "New York",
+            "Upstate New York",
+            "Limousine",
+            "Deadly",
+            "Years New York",
+            "NTSB",
+            "US"
+        ],
+        "peaks": [],
+        "theme": [
+            "crash",
+            "New",
+            "York",
+            "Limo",
+            "killed",
+            "says",
+            "limousine"
+        ],
+        "timestamp": "2018-10-08 13:10:31.065378-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bbb8d6a421aa9622d44bea1",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_41/2596376/181008-schoharie-limousing-mn-0821_7a88734ad732819b86cb6ee85f6c0a37.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Limo involved in crash that killed 20 never should have been on the road, New York governor says",
+                    "ts": 1539016031,
+                    "twitterid": 1049335408608387072,
+                    "url": "https://www.nbcnews.com/news/us-news/limo-involved-fatal-crash-never-should-have-been-road-new-n917826?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bba49d8421aa9319edcaa76",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_40/2595841/181007-schoharie-county-fatal-crash-se-1236p_43bda442814a055ee0958c421da7f689.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "20 people killed in limousine crash in New York state, police say",
+                    "ts": 1538934243,
+                    "twitterid": 1048992363140583424,
+                    "url": "https://www.nbcnews.com/news/us-news/20-people-killed-vehicle-crash-new-york-state-police-say-n917541?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bba9e5f421aa94039d9e19f",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/07/limousine_crash_06325_s2048x1372.jpg?63ffe3c28036821cdc195fe7381ce0070e8ffde5",
+                    "origin": "The Washington Times",
+                    "title": "New York Limo crash: Intersection is dangerous Apple Barrel Country Store manager says",
+                    "ts": 1538955138,
+                    "twitterid": 1049080002929680385,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/7/new-york-limo-crash-intersection-dangerous-apple-b/"
+                },
+                {
+                    "_id": "5bbb633c421aa95a429badd3",
+                    "date_month": "2018-10",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_41/2596431/181008-limousine-schoharie-mn-0900_745fd8b02976449acb684a05c833d5a0.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Intersection where limo crash killed 20 is a menace, says store manager",
+                    "ts": 1539005584,
+                    "twitterid": 1049291591347781633,
+                    "url": "https://www.nbcnews.com/news/us-news/intersection-where-limo-crash-killed-20-are-menace-says-store-n917711?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bba57f4421aa933343e7924",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/axfsaGHFIUU5HX9GNcF7a3y5nUc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVSVLTGKJ4I6RLIKBYA67OR4YE.jpg",
+                    "origin": "Washington Post",
+                    "title": "At least 20 killed after limousine crashes in New York, reports say",
+                    "ts": 1538936581,
+                    "twitterid": 1049002169196838915,
+                    "url": "https://www.washingtonpost.com/transportation/2018/10/07/least-killed-after-limousine-crashes-new-york-reports-say/?utm_term=.fa40f85d5a8d&tid=sm_tw"
+                },
+                {
+                    "_id": "5bbb7147421aa95b3e7cdfb1",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/08/USAT/871e41ae-1eef-4344-b2c5-f5353745bb84-AP_Limousine_Crash.6.jpg?crop=2999,1687,x0,y37&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Victim texted limo was in 'terrible condition' minutes before crash killed 20 in New York",
+                    "ts": 1539010163,
+                    "twitterid": 1049310796830916608,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/10/08/limo-crash-new-york-victim-texted-van-terrible-condition/1563414002/"
+                },
+                {
+                    "_id": "5bba902d421aa93d57e1b531",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Erin-Vertucci-and-Shane-McGowan-FB.jpg",
+                    "origin": "Fox News",
+                    "title": "New York limousine crash victims included newlyweds, brothers",
+                    "ts": 1538951820,
+                    "twitterid": 1049066086690435073,
+                    "url": "https://www.foxnews.com/us/new-york-limousine-crash-victims-included-newlyweds-brothers"
+                },
+                {
+                    "_id": "5bba821a421aa93ab6294d58",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/axfsaGHFIUU5HX9GNcF7a3y5nUc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVSVLTGKJ4I6RLIKBYA67OR4YE.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018Just horrific\u2019: At least 20 killed after limousine crashes in New York, authorities say",
+                    "ts": 1538948577,
+                    "twitterid": 1049052486605135872,
+                    "url": "https://www.washingtonpost.com/transportation/2018/10/07/least-killed-after-limousine-crashes-new-york-reports-say/?tid=sm_tw"
+                },
+                {
+                    "_id": "5bba57f4421aa933343e791b",
+                    "date_month": "2018-10",
+                    "image": "https://www.latimes.com/resizer/H2TXHxbygTA_TUI6o4yhshDOxPk=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/L4NEFSY32ZHU3OJIFFFFEKQ4VE.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Tourist-spot crash in upstate New York kills 18 in limo and 2 bystanders",
+                    "ts": 1538937184,
+                    "twitterid": 1049004699523854336,
+                    "url": "https://www.latimes.com/nation/la-na-new-york-limousine-crash-20181007-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bbb1cbe421aa953b63ec155",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/08/6605e2d4-8715-41b1-86ff-eab26dc9e1b1/thumbnail/1200x630/1f6c023a8414a5192d9bc24dda697b8b/ap-18280824371256.jpg",
+                    "origin": "CBS News",
+                    "title": "Scene of horrific limousine crash a longtime known danger, Schoharie, N.Y. resident says",
+                    "ts": 1538989087,
+                    "twitterid": 1049222395486199808,
+                    "url": "https://www.cbsnews.com/news/limo-crash-scene-horrific-longtime-known-danger-schoharie-ny-resident-says/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bbb1c1c04d30104a9205fa8&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            65
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Boys",
+            "Susan Rice",
+            "Democratic",
+            "Arizona",
+            "Kaitlan Collins",
+            "Senate",
+            "GOP",
+            "New Jersey",
+            "Murkowski",
+            "Maine Susan Rice",
+            "Sarsour",
+            "Bredesen Susan Collins",
+            "Maine Senate",
+            "Taylor Swift Ben Shapiro",
+            "Susan Collins",
+            "Kavanaugh",
+            "Valerie Jarrett",
+            "Marsha Blackburn Susan",
+            "Susan Collins Collins",
+            "Tennessee Taylor Swift",
+            "Joe Manchin",
+            "Tennessee Dems",
+            "Brett Kavanaugh",
+            "Phil Bredesen",
+            "Trump Driving Women",
+            "Brett Kavanaugh Taylor Swift",
+            "Kavanaugh Former Obama",
+            "Parenthood",
+            "Good",
+            "Avenatti",
+            "Republican Women Defend Brett Kavanaugh Blackburn",
+            "Tennessee Senate",
+            "Maine End",
+            "Tennessee Democrats Taylor Swift",
+            "Supreme Court",
+            "Christine Blasey Ford",
+            "John Oliver",
+            "CNN",
+            "Tennessee Pop",
+            "Former Obama",
+            "Susan Collins Pence",
+            "College",
+            "Texas",
+            "Taylor Swift"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "Collins",
+            "Susan",
+            "Swift",
+            "Taylor",
+            "Democrats",
+            "votes"
+        ],
+        "timestamp": "2018-10-08 13:10:32.085718-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bbb4704421aa957f10f1683",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/06/694940094001_5845258240001_5845264601001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Susan Collins slams anti-Kavanaugh activists for 'trying to buy votes'",
+                    "ts": 1538998607,
+                    "twitterid": 1049262327395233792,
+                    "url": "https://www.foxnews.com/politics/susan-collins-slams-anti-kavanaugh-activists-for-trying-to-buy-votes"
+                },
+                {
+                    "_id": "5bbb0eb4421aa95296cfe3e5",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180815075737-taylor-swift-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Taylor Swift endorses Democrats in Tennessee midterm races",
+                    "ts": 1538982242,
+                    "twitterid": 1049193684116426753,
+                    "url": "https://www.cnn.com/2018/10/07/entertainment/taylor-swift-politics/index.html?utm_term=link&utm_medium=social&utm_source=twCNN&utm_content=2018-10-08T07%3A04%3A01"
+                },
+                {
+                    "_id": "5bbb7f5a421aa95db49e044b",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/07/BostonGlobe.com/National/Images/eb86e701ec4b4a20b297bcbe1a677795-eb86e701ec4b4a20b297bcbe1a677795-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Collins downplays challenge as Kavanaugh votes spur race threats",
+                    "ts": 1539010870,
+                    "twitterid": 1049313760261885953,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/10/07/collins-downplays-challenge-kavanaugh-votes-spur-race-threats/vqdEXqkxnoB62hpenghMXP/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bbae488421aa94b52e85383",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/08/6f1d7114-4d22-44f4-8bf0-f83980108954/thumbnail/1200x630/d37dabeaaffae59661fd680797115dd8/gettyimages-960657122.jpg",
+                    "origin": "CBS News",
+                    "title": "Taylor Swift breaks political silence to support Tennessee Democrats",
+                    "ts": 1538974797,
+                    "twitterid": 1049162460857556992,
+                    "url": "https://www.cbsnews.com/news/taylor-swift-political-endorsement-tennessee-democrats-instagram-post-today-2018-10-08/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bbae27704d3011869c39bbb&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bbaac4b421aa942c109df34",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/swifttaylor_07272018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Taylor Swift breaks silence on politics, supports Democrats in Tennessee races",
+                    "ts": 1538959264,
+                    "twitterid": 1049097308405739521,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/410338-taylor-swift-breaks-silence-on-politics-supports-democrats-in?__twitter_impression=true"
+                },
+                {
+                    "_id": "5bbac871421aa947ebd37779",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_40/2596171/181007-taylor-swift-ac-1037p_8d475f4af4d10f73a2dd0db45a374a44.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Pop star Taylor Swift breaks silence, endorses two Democrats in Tennessee",
+                    "ts": 1538967605,
+                    "twitterid": 1049132295456743426,
+                    "url": "https://www.nbcnews.com/news/us-news/pop-star-taylor-swift-breaks-silence-endorses-two-democrats-tennessee-n917616?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bbb4704421aa957f10f1686",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/kIDfhACwSgQRX_p1DCe_vBZOtNg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JBZPDXPHZ45JLCOUMVG6FX5JMQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Can Taylor Swift, revered by young Americans, help lead Democrats out of the woods?",
+                    "ts": 1538998453,
+                    "twitterid": 1049261678611902464,
+                    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2018/10/08/can-taylor-swift-revered-by-young-americans-help-lead-democrats-out-of-the-woods/?utm_term=.94cb938a6389&tid=sm_tw"
+                },
+                {
+                    "_id": "5bba9e5f421aa94039d9e196",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2012/10/09/BostonGlobe.com/National/Images/152084097.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Susan Rice considering 2020 challenge to Susan Collins in Maine",
+                    "ts": 1538955781,
+                    "twitterid": 1049082701838524419,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/10/07/susan-rice-considering-challenge-susan-collins-maine/bOKxEmHcR7p2FJobZ18WFI/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bba821a421aa93ab6294d53",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/05/694940094001_5845034832001_5845033972001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Susan Collins reveals she thought Kavanaugh 'perhaps needed to withdraw' after hearing Ford testify",
+                    "ts": 1538948991,
+                    "twitterid": 1049054219981008899,
+                    "url": "https://www.foxnews.com/politics/susan-collins-reveals-she-thought-kavanaugh-perhaps-needed-to-withdraw-after-hearing-ford-testify"
+                },
+                {
+                    "_id": "5bbb7147421aa95b3e7cdfa5",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/swifttaylor11082016getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Progressive activist says Taylor Swift will energize voters",
+                    "ts": 1539010684,
+                    "twitterid": 1049312981723598848,
+                    "url": "https://thehill.com/hilltv/rising/410388-progressive-activist-says-taylor-swift-will-energize-voters"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            24
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Patrick Kane",
+            "Mitch Trubisky",
+            "Eric Reid",
+            "Eagles",
+            "Super Bowl",
+            "Blackhawks",
+            "Odell Beckham",
+            "NFL Eric Reid",
+            "Giants",
+            "Astros",
+            "MLB",
+            "Peyton Manning",
+            "Maple",
+            "Chiefs",
+            "Carolina Panthers",
+            "Pence",
+            "Drew Brees",
+            "Marwin Gonzalez",
+            "FMIA",
+            "Assumption",
+            "Juventus",
+            "Eli Manning",
+            "Bud Light",
+            "Shortcut"
+        ],
+        "peaks": [],
+        "theme": [
+            "anthem",
+            "Eric",
+            "Reid",
+            "game",
+            "NFL",
+            "first",
+            "national"
+        ],
+        "timestamp": "2018-10-08 13:10:32.868481-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bba57f4421aa933343e7921",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/reideric-getty100718.jpg",
+                    "origin": "The Hill",
+                    "title": "Eric Reid kneels during anthem in first game back with NFL team",
+                    "ts": 1538936946,
+                    "twitterid": 1049003701241896965,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/410308-eric-reid-kneels-during-anthem-in-first-game-back-with-nfl-team"
+                },
+                {
+                    "_id": "5bba49d8421aa9319edcaa75",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Eric-Reid-Kneeling-AP2.jpg",
+                    "origin": "Fox News",
+                    "title": "Eric Reid takes a knee during national anthem in first game as Carolina Panthers player",
+                    "ts": 1538934271,
+                    "twitterid": 1048992482581729281,
+                    "url": "https://www.foxnews.com/sports/eric-reid-takes-a-knee-during-national-anthem-in-first-game-as-carolina-panthers-player"
+                },
+                {
+                    "_id": "5bba49d8421aa9319edcaa7a",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/N9mKw7U_xECYYNA4_8tcjpSpwZs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NLGDTZGKKUI6RLIKBYA67OR4YE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Eric Reid, back in the NFL, kneels during the national anthem before Panthers game",
+                    "ts": 1538933768,
+                    "twitterid": 1048990371143995392,
+                    "url": "https://www.washingtonpost.com/sports/2018/10/07/eric-reid-back-nfl-kneels-during-national-anthem-before-panthers-game/?utm_term=.87368824dd41&tid=sm_tw"
+                },
+                {
+                    "_id": "5bbb00a6421aa950f3feba8e",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/07/dff2409a-30eb-42f1-8ec5-61ed7bc7ed44/thumbnail/1200x630/dbe6391e620ff26d5bc2bc199f8fa4ac/ap-18280614596643.jpg",
+                    "origin": "CBS News",
+                    "title": "Eric Reid continues protesting during anthem before first Panthers game",
+                    "ts": 1538980383,
+                    "twitterid": 1049185888444567553,
+                    "url": "https://www.cbsnews.com/news/eric-reid-kneels-during-national-anthem-before-first-game-with-carolina-panthers-2018-10-07/"
+                },
+                {
+                    "_id": "5bba57f4421aa933343e792d",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/07/USAT/c616c011-6539-4974-844c-1ecaa5f95c16-AP_Giants_Panthers_Football_1.jpg?crop=3647,2051,x1,y119&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Panthers' Eric Reid resumes protest, kneels during national anthem in NFL return",
+                    "ts": 1538935738,
+                    "twitterid": 1048998632148652032,
+                    "url": "https://www.usatoday.com/story/sports/nfl/panthers/2018/10/07/eric-reid-carolina-panthers-protest-national-anthem/1558164002/"
+                },
+                {
+                    "_id": "5bba9e5f421aa94039d9e1b5",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/Sports/eric-reid-carolina-panthers-protest-01-ap-mt-181007_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Eric Reid takes a knee during national anthem upon his return to the NFL",
+                    "ts": 1538953379,
+                    "twitterid": 1049072627418124288,
+                    "url": "https://abcnews.go.com/US/eric-reid-takes-knee-national-anthem-return-nfl/story?id=58344081&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bba57f4421aa933343e7926",
+                    "date_month": "2018-10",
+                    "image": "https://nbcprofootballtalk.files.wordpress.com/2018/10/ap_18280614596643-e1538932081484.jpg?w=1200",
+                    "origin": "NBC News",
+                    "title": "Eric Reid takes a knee during first game back",
+                    "ts": 1538936352,
+                    "twitterid": 1049001208751505408,
+                    "url": "https://profootballtalk.nbcsports.com/2018/10/07/eric-reid-takes-a-knee-during-first-game-back/?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bbaba53421aa945929b449f",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/reideric-getty100718.jpg",
+                    "origin": "The Hill",
+                    "title": "Eric Reid: The time \u2018has not come\u2019 to stop kneeling during the anthem",
+                    "ts": 1538961664,
+                    "twitterid": 1049107374345256960,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/410341-eric-reid-the-time-has-not-come-to-stop-kneeling-during-the-anthem"
+                },
+                {
+                    "_id": "5bba9e5f421aa94039d9e190",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/bennett.jpg",
+                    "origin": "The Hill",
+                    "title": "Eagles player sits out national anthem",
+                    "ts": 1538956143,
+                    "twitterid": 1049084218414968839,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/410334-eagles-player-sits-out-national-anthem"
+                },
+                {
+                    "_id": "5bbaf293421aa94f0e4e5bb5",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/08/USAT/cc7c996f-8714-456c-b6c9-91ffac8b1f93-USATSI_11396518.jpg?crop=1783,1003,x0,y86&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "32 things we learned from Week 5 of the 2018 NFL season",
+                    "ts": 1538975703,
+                    "twitterid": 1049166258581753856,
+                    "url": "https://www.usatoday.com/story/sports/nfl/2018/10/07/nfl-week-5-32-things-we-learned/1559050002/"
+                }
+            ]
+        ]
+    }
+]

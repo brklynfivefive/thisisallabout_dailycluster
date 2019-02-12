@@ -1,0 +1,2202 @@
+[
+    {
+        "list": [
+            15
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Blame",
+            "Ryan Lochte",
+            "Dave",
+            "Vegas",
+            "Buster",
+            "Truro",
+            "Rapper Young Thug",
+            "Mark Wahlberg",
+            "Naked",
+            "Chicago Air",
+            "Kevin Spacey",
+            "Open",
+            "Alaska Cod Are Disappearing",
+            "Water Show Rapper Young Thug"
+        ],
+        "peaks": [],
+        "theme": [
+            "sharks",
+            "arrested",
+            "Big",
+            "birthday",
+            "Buster",
+            "Cod",
+            "Dave"
+        ],
+        "timestamp": "2018-08-19 06:10:16.794951-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b78cf53421aa93e503fba24",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/08/18/rapper-young-thug-arrested-at-his-dave-busters-birthday-party/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1534596150014.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Rapper Young Thug arrested at his Dave & Buster's birthday party",
+                    "ts": 1534643880,
+                    "twitterid": 1030997276729196544,
+                    "url": "http://www.foxnews.com/entertainment/2018/08/18/rapper-young-thug-arrested-at-his-dave-busters-birthday-party.html"
+                },
+                {
+                    "_id": "5b78cf53421aa93e503fba31",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/18/d0768468-dd53-4261-89a1-646d46c0a1c8/thumbnail/1200x630g2/456331f471742f79d92b44c878796162/youngthug.jpg",
+                    "origin": "CBS News",
+                    "title": "Rapper Young Thug arrested at Dave & Buster\u2019s during his birthday and album party",
+                    "ts": 1534642383,
+                    "twitterid": 1030990999491956736,
+                    "url": "https://www.cbsnews.com/news/young-thug-arrested-at-dave-busters-during-his-birthday-and-album-party-2018-08-18/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b78c8ce04d30113e5be296c&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b785ed2421aa933b05bd116",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/5b74a24202bc842c940b85d9/16:9/w_1200,h_630,c_limit/Schulman-PrettyWomanBroadway.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Is \u201cPretty Woman\u201d on Broadway a Big Mistake?",
+                    "ts": 1534612506,
+                    "twitterid": 1030865686594285571,
+                    "url": "https://www.newyorker.com/culture/culture-desk/is-pretty-woman-on-broadway-a-big-mistake?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b7842b3421aa932a07020be",
+                    "date_month": "2018-08",
+                    "image": "https://media.npr.org/assets/img/2018/07/24/kodiak-1_wide-b05490541d642c00b8433c0e95784cfab8a6af4b.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Gulf Of Alaska Cod Are Disappearing. Blame 'The Blob'",
+                    "ts": 1534608000,
+                    "twitterid": 1030846787114782720,
+                    "url": "https://www.npr.org/sections/thesalt/2018/07/31/630918766/gulf-of-alaska-cod-are-disappearing-blame-the-blob?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180818"
+                },
+                {
+                    "_id": "5b7931b5421aa942eb50a266",
+                    "date_month": "2018-08",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_33/2533931/180816-sharknado-6-al-1710_c502a89aa29048dba04766934e3cb60c.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "The last 'Sharknado' won't be the end of sharksploitation films. But sharks do need saving.",
+                    "ts": 1534668283,
+                    "twitterid": 1031099628622696448,
+                    "url": "https://www.nbcnews.com/think/opinion/last-sharknado-won-t-be-end-sharksploitation-films-sharks-do-ncna901406?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b78268e421aa9311cb151b6",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_33/2535686/180817-mile-22-movie-still-mark-wahlberg-ac-923p_9ba3c0bef4701260cb93ccbbfecc95ac.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "'Mile 22' is Mark Wahlberg's incoherent ode to mediocre white men with big guns",
+                    "ts": 1534599771,
+                    "twitterid": 1030812272048959489,
+                    "url": "https://www.nbcnews.com/think/opinion/mile-22-mark-wahlberg-s-incoherent-ode-mediocre-white-men-ncna901861?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b78dd63421aa93eeeb31334",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/science/2018/08/18/days-after-shark-attack-town-on-cape-cod-closes-beach-to-swimmers-due-to-continued-shark-activity/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1534646300475.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Days after shark attack, town on Cape Cod closes beach to swimmers 'due to continued shark activity'",
+                    "ts": 1534647034,
+                    "twitterid": 1031010507849908224,
+                    "url": "http://www.foxnews.com/science/2018/08/18/days-after-shark-attack-town-on-cape-cod-closes-beach-to-swimmers-due-to-continued-shark-activity.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            76
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Kellyanne",
+            "America",
+            "Trump Top",
+            "Trump Georgia",
+            "SEC",
+            "Afghanistan",
+            "Bash",
+            "Biggest Stories",
+            "Social Media",
+            "Melania",
+            "Trump Comedian",
+            "George Conway",
+            "John Brennan",
+            "Russia",
+            "FBI Steve Bannon",
+            "Right Georgia",
+            "Russia Inquiry Bolster American",
+            "House",
+            "How Trump Could Get Fired Trump",
+            "Massive Fraud Omarosa",
+            "Deep State",
+            "John Brennan Former",
+            "Immigrant Mother",
+            "Space Force",
+            "Comey",
+            "Brennan",
+            "Melania Trump",
+            "DOJ Sues Ivanka",
+            "Brennan Trump",
+            "GOP",
+            "Trump",
+            "Trump Trump",
+            "AP",
+            "Donald Trump",
+            "Trump Slams",
+            "Conservatives Being Censored",
+            "Reacts",
+            "National Security",
+            "Trump Tower",
+            "Omarosa",
+            "Russia Nixon",
+            "White House",
+            "CIA",
+            "Bruce Ohr",
+            "Russian",
+            "Russia Rand Paul",
+            "China",
+            "Qanon",
+            "Mueller"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Brennan",
+            "media",
+            "social",
+            "clearance",
+            "House",
+            "Russia"
+        ],
+        "timestamp": "2018-08-19 06:10:18.111797-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b7834ac421aa9322ef2237e",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/upYR3oNVZ_5oLF3-UehyGsDxOrQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JNP22GVBQQI6RI65FIMZD4DV2U.jpg",
+                    "origin": "Washington Post",
+                    "title": "White House drafts more clearance cancellations demanded by Trump",
+                    "ts": 1534601405,
+                    "twitterid": 1030819123826225152,
+                    "url": "https://www.washingtonpost.com/politics/former-intelligence-officials-rebuke-trump-for-pulling-brennans-security-clearance/2018/08/17/ea8382f2-a20d-11e8-8e87-c869fe70a721_story.html?utm_term=.9bb37c0c9b88&tid=sm_tw"
+                },
+                {
+                    "_id": "5b78890e421aa934ee5bf3d6",
+                    "date_month": "2018-08",
+                    "image": "https://images.wsj.net/im-22688/social",
+                    "origin": "Capital Journal",
+                    "title": "Trump Slams Social-Media Companies for \u2018Censorship\u2019 of the Right",
+                    "ts": 1534623767,
+                    "twitterid": 1030912917619789824,
+                    "url": "https://www.wsj.com/articles/trump-slams-social-media-companies-for-censorship-of-the-right-1534609973?mod=e2twp"
+                },
+                {
+                    "_id": "5b789714421aa93578d080b4",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_081718.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump: Let 'good and bad' voices speak on social media",
+                    "ts": 1534629185,
+                    "twitterid": 1030935643256512512,
+                    "url": "http://thehill.com/homenews/administration/402449-trump-let-good-and-bad-voices-speak-on-social-media"
+                },
+                {
+                    "_id": "5b78dd63421aa93eeeb3135c",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/18/BostonGlobe.com/Politics/Images/b23c6015-cc80-4a32-a984-1a0ae6cc3c38.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump accuses social media firms of discrimination against conservatives",
+                    "ts": 1534644064,
+                    "twitterid": 1030998047407386624,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/08/18/trump-accuses-social-media-firms-discrimination-against-conservatives/kmGvTZqKTUYGcgj9AEpPTM/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b781881421aa930b27e93e5",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/11/12/dcc872de-21ea-4b47-80e7-7f8327d49fd0/thumbnail/1200x630g3/9bde6e0e592bdf29072f34f032a04b7a/gettyimages-509220334.jpg",
+                    "origin": "CBS News",
+                    "title": "60 ex-CIA members condemn Trump for revoking Brennan\u2019s security clearance",
+                    "ts": 1534593784,
+                    "twitterid": 1030787157995266049,
+                    "url": "https://www.cbsnews.com/news/60-former-cia-officials-sign-letter-against-trumps-security-clearance-decision/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b780af504d30128f220bd76&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b781881421aa930b27e93e6",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/09/26/5936bf4a4ecb886d204bce615a57/180810-donald-trump-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "'We won't let that happen:' Trump alleges social media censorship of conservatives",
+                    "ts": 1534593774,
+                    "twitterid": 1030787117973221377,
+                    "url": "https://www.politico.com/story/2018/08/18/trump-social-media-censorship-conservatives-twitter-facebook-787899"
+                },
+                {
+                    "_id": "5b78268e421aa9311cb151cb",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/u0bRvISwNHeyYLsU4zTF5ecqHMo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OVO2SEXU3Q4IDBGYF5R2VVD6PM.jpg",
+                    "origin": "Post Politics",
+                    "title": "On Twitter, Trump accuses \u2018social media\u2019 of limiting free speech of conservatives",
+                    "ts": 1534597674,
+                    "twitterid": 1030803474613784576,
+                    "url": "https://www.washingtonpost.com/news/post-politics/wp/2018/08/18/on-twitter-trump-accuses-social-media-of-limiting-free-speech-of-conservatives/?tid=sm_tw_pp"
+                },
+                {
+                    "_id": "5b78890e421aa934ee5bf3cd",
+                    "date_month": "2018-08",
+                    "image": "https://www.apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Politics",
+                    "title": "Trump says he 'won't let' social media target conservatives",
+                    "ts": 1534624264,
+                    "twitterid": 1030915000112750592,
+                    "url": "https://www.apnews.com/916808282d72413094d1229c8be28494/Trump-says-he-'won't-let'-social-media-target-conservatives?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b78268e421aa9311cb151aa",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/27/0/0/694940094001_5814370555001_5814359718001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump says 'too many voices are being destroyed' by social media censorship",
+                    "ts": 1534600673,
+                    "twitterid": 1030816054950461441,
+                    "url": "http://www.foxnews.com/politics/2018/08/18/trump-says-too-many-voices-are-being-destroyed-by-social-media-censorship.html"
+                },
+                {
+                    "_id": "5b78a51e421aa936acfaeb2d",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/2yO4dqSC2uoR9k2djW2T7YSPTV4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P3UG5TVCKYI6RDUHZBU744FHEE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Former intelligence officials bite back after Trump goes after Brennan\u2019s clearance",
+                    "ts": 1534631102,
+                    "twitterid": 1030943680809652225,
+                    "url": "https://www.washingtonpost.com/politics/former-intelligence-officials-bite-back-after-trump-goes-after-brennans-clearance/2018/08/18/91efe7a0-a255-11e8-8e87-c869fe70a721_story.html?utm_term=.da5d9a4b2a51&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            55
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Robert",
+            "Instagram",
+            "IBM",
+            "Minnesota Democrats",
+            "Baby",
+            "Boxers",
+            "Objects",
+            "Us Better Storytellers",
+            "Sam Mikulak",
+            "Treats Opioid Addiction",
+            "Germany",
+            "Trump Won Pennsylvania",
+            "Fiji",
+            "South Koreans",
+            "Facebook",
+            "Scientologists Millions Of Muslim Worshipers Flock To Mecca For Hajj",
+            "Ohio",
+            "FDA",
+            "Cars",
+            "Inmate",
+            "Tesla",
+            "Trigger",
+            "Briefs",
+            "US Gymnastics",
+            "United Nations",
+            "Maria Butina",
+            "Desire",
+            "Michael Avenatti",
+            "Elon Musk",
+            "Fantasy",
+            "Line Between",
+            "Rumer",
+            "Meghan Markle",
+            "Arizona",
+            "Transportation Duchess Meghan",
+            "Nerds Science Has",
+            "Nick Jonas",
+            "Ellison",
+            "Wall Street",
+            "Dogs",
+            "Bode Miller",
+            "Mumbai Photo",
+            "EpiPen California",
+            "Priyanka Chopra",
+            "Bruce Willis",
+            "Imagery Princess Diana",
+            "New Hampshire",
+            "Watson Dilemma Strange",
+            "IVF",
+            "Demand",
+            "Animated History",
+            "Russian",
+            "Morgan",
+            "Laurie Hernandez",
+            "Indiana",
+            "Mueller"
+        ],
+        "peaks": [],
+        "theme": [
+            "year",
+            "Making",
+            "briefs",
+            "Chopra",
+            "dad",
+            "engagement",
+            "Jonas"
+        ],
+        "timestamp": "2018-08-19 06:10:19.059845-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b7842b3421aa932a07020d9",
+                    "date_month": "2018-08",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:a19be8274a26416da1cc119b0d0ada4f/800.jpeg",
+                    "origin": "AP Eastern US",
+                    "title": "Priyanka Chopra, Nick Jonas make their engagement official",
+                    "ts": 1534605577,
+                    "twitterid": 1030836620843462656,
+                    "url": "https://www.apnews.com/c307e58244934c28a57b2ea3eee12d95?utm_medium=APEastRegion&utm_source=Twitter&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5b7850c1421aa933252f8367",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/07/27/USAT/0d0c10ee-73bd-46f6-a49d-d70d91f0c5e3-AFP_AFP_16T398.JPG?crop=2872,1640,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Nick Jonas and Priyanka Chopra confirm engagement, have ceremony in Mumbai",
+                    "ts": 1534608031,
+                    "twitterid": 1030846913720016896,
+                    "url": "https://www.usatoday.com/story/life/people/2018/08/18/nick-jonas-priyanka-chopra-officially-announce-their-engagement/1030576002/"
+                },
+                {
+                    "_id": "5b7834ac421aa9322ef22382",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/08/18/priyanka-chopra-and-nick-jonas-confirm-engagement-with-touching-instagram-posts/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1534600369333.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Priyanka Chopra and Nick Jonas confirm engagement with touching Instagram posts",
+                    "ts": 1534601213,
+                    "twitterid": 1030818320210165761,
+                    "url": "http://www.foxnews.com/entertainment/2018/08/18/priyanka-chopra-and-nick-jonas-confirm-engagement-with-touching-instagram-posts.html"
+                },
+                {
+                    "_id": "5b78eb73421aa93f8a8d3afe",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/video/img/2014/09/storytelling_thumb_02/video-featured.jpg",
+                    "origin": "The Atlantic",
+                    "title": "Is Technology Making Us Better Storytellers?",
+                    "ts": 1534651206,
+                    "twitterid": 1031028004233854976,
+                    "url": "https://www.theatlantic.com/video/index/380280/is-technology-making-us-better-storytellers/?utm_campaign=the-atlantic&utm_content=5b78eb4404d30102faa63531_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b780a67421aa9303981775c",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/5b6b24d94117900b728a0c56/16:9/w_1200,h_630,c_limit/Burdick-Boxers-or-Briefs.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Science Has Resolved the Question of Boxers vs. Briefs",
+                    "ts": 1534590549,
+                    "twitterid": 1030773591560937473,
+                    "url": "https://www.newyorker.com/elements/lab-notes/science-has-resolved-the-question-of-boxers-vs-briefs?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b7923a2421aa9421266b0f0",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_32/2524336/180808-boxer-brief-se-339p_2e4ee457364fc4fa86e187704902616c.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Boxers or briefs? For sperm count, one is better, study finds",
+                    "ts": 1534662243,
+                    "twitterid": 1031074298511941633,
+                    "url": "https://www.nbcnews.com/health/mens-health/boxers-or-briefs-sperm-count-one-better-study-finds-n898931?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b7834ac421aa9322ef22361",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/08/RTR2C8WU/facebook.jpg?1533579890",
+                    "origin": "The Atlantic",
+                    "title": "Letters: 'My Dad Was Not My Biological Father'",
+                    "ts": 1534603770,
+                    "twitterid": 1030829045506891776,
+                    "url": "https://www.theatlantic.com/letters/archive/2018/08/letters-my-dad-was-not-my-biological-father/566903/?utm_medium=social&utm_campaign=the-atlantic&utm_source=twitter&utm_term=2018-08-18T13%3A00%3A22&utm_content=edit-promo"
+                },
+                {
+                    "_id": "5b78eb73421aa93f8a8d3b06",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180810201229-declassified-russian-bots-thumb-1-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Meet the Indiana dad who hunts Russian trolls",
+                    "ts": 1534649585,
+                    "twitterid": 1031021205887877121,
+                    "url": "https://www.cnn.com/2018/08/13/politics/dad-hunts-russian-trolls/index.html?utm_content=2018-08-19T03%3A33%3A04&utm_medium=social&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5b789714421aa93578d080c5",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/07/31/USAT/65b99866-bd89-4c5d-b7db-b76ad6816bce-GTY_1008102002.jpg?crop=6599,3712,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Duchess Meghan's dad compares 'cult-like' royal family to Scientologists",
+                    "ts": 1534627804,
+                    "twitterid": 1030929850696122368,
+                    "url": "https://www.usatoday.com/story/life/people/2018/08/18/duchess-meghans-dad-thomas-markle-compares-royal-family-scientologists/1031859002/"
+                },
+                {
+                    "_id": "5b791591421aa9419dd666ac",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/-mm-/d22f989c093ad3741712d04475aae7b111fae841/c=0-96-1000-658/local/-/media/2018/08/15/USATODAY/usatsports/ap_tesla-battery_power_for_homes_72733730.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Elon Musk calls this year 'the most difficult and painful' of his career",
+                    "ts": 1534660204,
+                    "twitterid": 1031065744019214336,
+                    "url": "https://www.usatoday.com/story/money/nation-now/2018/08/17/tesla-elon-musk-difficult-year/1017426002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "MeToo",
+            "America",
+            "Female",
+            "Code",
+            "Lineup",
+            "Kevin Durant",
+            "Marriage Often",
+            "Black Investors Drunk",
+            "Texas",
+            "Elon Musk",
+            "Flyness",
+            "Beltway",
+            "Gina Rodriguez",
+            "Romantic Partners",
+            "India Advice",
+            "Virgin",
+            "Paramount Network",
+            "Black Women",
+            "Will Smith",
+            "Raw Trip",
+            "All Murdered Women Are"
+        ],
+        "peaks": [],
+        "theme": [
+            "Acted",
+            "Black",
+            "women",
+            "get",
+            "Like",
+            "online",
+            "patient"
+        ],
+        "timestamp": "2018-08-19 06:10:19.624786-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b78dd63421aa93eeeb3132c",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/08/GettyImages_1004136740/facebook.jpg?1534541592",
+                    "origin": "The Atlantic",
+                    "title": "What If a Female CEO Acted Like Elon Musk?",
+                    "ts": 1534647609,
+                    "twitterid": 1031012916928110593,
+                    "url": "https://www.theatlantic.com/science/archive/2018/08/elon-musk-new-york-times-interview-ceo/567835/?utm_campaign=the-atlantic&utm_content=5b78dd369ac56400015cd82a_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b7834ac421aa9322ef2235a",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2015/04/image100/facebook.jpg?1522840778",
+                    "origin": "The Atlantic",
+                    "title": "The Economics of Marriage Often Don't Work for Black Women",
+                    "ts": 1534604411,
+                    "twitterid": 1030831731497226241,
+                    "url": "https://www.theatlantic.com/business/archive/2015/04/marrying-your-peer-a-tougher-prospect-for-black-women/391586/?utm_campaign=the-atlantic&utm_content=5b78347904d3012d2c5e5e71_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b7842b3421aa932a07020d6",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/blogs/nurse.jpg",
+                    "origin": "The Hill",
+                    "title": "Michigan nurse sues hospital for obeying patient's request not to be treated by black woman",
+                    "ts": 1534605902,
+                    "twitterid": 1030837987758755840,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/402407-michigan-nurse-sues-hospital-for-obeying-patients-request-not"
+                },
+                {
+                    "_id": "5b78eb73421aa93f8a8d3b0e",
+                    "date_month": "2018-08",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_31/2514416/180730-laptop-martini-se-350p_e99daacf0b40f0f1fd1ccd3622161f4b.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Drunk Americans spend a total of $30B online each year \u2014 but what they drink impacts how crazy they get",
+                    "ts": 1534649406,
+                    "twitterid": 1031020454302109696,
+                    "url": "https://www.nbcnews.com/business/business-news/drunk-americans-spend-total-30b-online-each-year-what-they-n895886?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b789714421aa93578d080e2",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/18/USAT/ed68257e-32ec-4743-8994-49d6f004aa59-quote.png?crop=929,523,x0,y500&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "School removes 'sexist' quote that told girls to 'act like a lady'",
+                    "ts": 1534626017,
+                    "twitterid": 1030922353499426816,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/08/18/texas-school-removes-sexist-quote-told-girls-act-like-lady/1031260002/"
+                },
+                {
+                    "_id": "5b77fc5c421aa92fc2088f20",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2017/07/AP_17045729634262/facebook.jpg?1522774798",
+                    "origin": "The Atlantic",
+                    "title": "Nearly Half of All Murdered Women Are Killed by Romantic Partners",
+                    "ts": 1534588208,
+                    "twitterid": 1030763770669424640,
+                    "url": "https://www.theatlantic.com/health/archive/2017/07/homicides-women/534306/?utm_campaign=the-atlantic&utm_content=5b77f52d04d3015330aa29f3_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b791591421aa9419dd666b2",
+                    "date_month": "2018-08",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_30/2507901/180724-woman-laptop-night-se-407p_ef3bce218c6af4a7925bc491f5f1056b.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "When no one is looking, many women are watching gay porn",
+                    "ts": 1534658526,
+                    "twitterid": 1031058707147366400,
+                    "url": "https://www.nbcnews.com/feature/nbc-out/when-no-one-looking-many-women-are-watching-gay-porn-n894266?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b7834ac421aa9322ef22363",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/lifestyle/2018/08/18/misogynistic-quote-printed-on-texas-school-wall-gets-blasted-online-after-going-viral/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1534598131500.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "'Misogynistic' quote printed on Texas school wall gets blasted online after going viral",
+                    "ts": 1534603707,
+                    "twitterid": 1030828778912669696,
+                    "url": "http://www.foxnews.com/lifestyle/2018/08/18/misogynistic-quote-printed-on-texas-school-wall-gets-blasted-online-after-going-viral.html"
+                },
+                {
+                    "_id": "5b78a51e421aa936acfaeb22",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/18/USAT/db5598ca-1ad0-45ab-bacc-9494abdd73e1-AP_Doctor_Rape_Sentencing.JPG?crop=2496,1404,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Former doctor who raped heavily sedated patient will serve no prison time",
+                    "ts": 1534632004,
+                    "twitterid": 1030947463601905664,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/08/18/no-prison-time-ex-houston-doctor-who-raped-heavily-sedated-patient/1031665002/"
+                },
+                {
+                    "_id": "5b78dd63421aa93eeeb3132d",
+                    "date_month": "2018-08",
+                    "image": "https://images.wsj.net/im-21856/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Kevin Durant, Will Smith Top the Lineup for a New Venture-Capital Fund for Black Investors",
+                    "ts": 1534647607,
+                    "twitterid": 1031012910489841664,
+                    "url": "https://www.wsj.com/articles/kevin-durant-will-smith-top-the-lineup-for-a-new-venture-capital-fund-for-black-investors-1534152601?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            57
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "South Dakota",
+            "Mr.",
+            "Cowboy",
+            "D.C. Is",
+            "Congress Abortion",
+            "Resign",
+            "Cuomo",
+            "California Democrat",
+            "Church",
+            "Army",
+            "Green Beret",
+            "FBI",
+            "Greg Henning Newt Gingrich",
+            "Elizabeth Warren",
+            "Nerdcast",
+            "Manafort",
+            "Abolish Ice",
+            "New York Gov",
+            "Ballot",
+            "Poll",
+            "Political Tracking",
+            "Conley",
+            "Tour\u00e9",
+            "Jahana Hayes",
+            "NFL",
+            "New York",
+            "House",
+            "Trump Boogeywomen",
+            "Avenatti",
+            "Andrew Cuomo",
+            "Obamacare",
+            "Arizona",
+            "McConnell",
+            "Hardest Job",
+            "Bill Nelson",
+            "Senate Race Pioneer",
+            "GOP",
+            "Michigan",
+            "Woman",
+            "Trump",
+            "America Don",
+            "Environmental Catastrophe Could Decide Florida",
+            "Stories",
+            "Washington Times Trump",
+            "Russian",
+            "D.C.",
+            "Scott Walker",
+            "Connecticut",
+            "Senate Corey Stewart"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Democrats",
+            "Cuomo",
+            "GOP",
+            "America",
+            "Candidates",
+            "Dems"
+        ],
+        "timestamp": "2018-08-19 06:10:21.121925-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b7850c1421aa933252f834f",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/18/0/0/694940094001_5823769300001_5823773423001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Top 2020 Democrats under fire for 'collective bashing of America' after Cuomo gaffe",
+                    "ts": 1534610637,
+                    "twitterid": 1030857847557578752,
+                    "url": "http://www.foxnews.com/politics/2018/08/18/top-2020-democrats-under-fire-for-collective-bashing-america-after-cuomo-gaffe.html"
+                },
+                {
+                    "_id": "5b785ed2421aa933b05bd115",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/pelosinancy_watersmaxine_warrenelizabeth_081618gn_am.jpg",
+                    "origin": "The Hill",
+                    "title": "Boogeywomen \u2014 GOP vilifies big-name female Dems",
+                    "ts": 1534612623,
+                    "twitterid": 1030866176006598656,
+                    "url": "http://thehill.com/homenews/campaign/402397-boogeywomen-gop-vilifies-big-name-female-dems"
+                },
+                {
+                    "_id": "5b78b336421aa93874ec28dd",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/11/AP_18158692470027_s2048x1450.jpg?c2020b5609ac2a26385b9cebc00a848dbaf223f2",
+                    "origin": "The Washington Times",
+                    "title": "Andrew Cuomo: America 'was never that great'",
+                    "ts": 1534633218,
+                    "twitterid": 1030952559056482304,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/15/andrew-cuomo-america-was-never-great/"
+                },
+                {
+                    "_id": "5b78c143421aa93a47854cdb",
+                    "date_month": "2018-08",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_16/2403266/180418-andrew-cuomo-al-1521_9229b21de5b0e82d3c53694045baa15e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "First Read's Morning Clips: Cuomo: America \"was never that great\"",
+                    "ts": 1534637529,
+                    "twitterid": 1030970636968095745,
+                    "url": "https://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-cuomo-america-was-never-great-n901216?cid=par-twitter-feed_20180819"
+                },
+                {
+                    "_id": "5b7842b3421aa932a07020c9",
+                    "date_month": "2018-08",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Bongino81818.jpg?itok=216gLWCq",
+                    "origin": "Fox News",
+                    "title": "'Step Aside and Resign': Bongino Slams Cuomo for 'Disgraceful' Remarks About America",
+                    "ts": 1534607073,
+                    "twitterid": 1030842898152128512,
+                    "url": "http://insider.foxnews.com/2018/08/18/andrew-cuomo-says-america-was-never-great-dan-bongino-reacts"
+                },
+                {
+                    "_id": "5b786ce2421aa93419e681fa",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/6b/1a/98dec00c4a6ab0cec2a69d68d533/governor-cuomo.png",
+                    "origin": "POLITICO",
+                    "title": "As Trump and Republicans rage, Cuomo admits comment was \u2018inartful\u2019",
+                    "ts": 1534618735,
+                    "twitterid": 1030891812637081602,
+                    "url": "https://www.politico.com/states/new-york/albany/story/2018/08/17/as-trump-and-republicans-rage-cuomo-admits-comment-was-inartful-562925"
+                },
+                {
+                    "_id": "5b78b336421aa93874ec28d6",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/mcsallymartha_wardkelli_arpaiojoe_081718gn_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump stays out of Arizona's ugly and costly GOP fight",
+                    "ts": 1534633743,
+                    "twitterid": 1030954759392518144,
+                    "url": "http://thehill.com/homenews/campaign/402426-trump-stays-out-of-arizona-gop-primary-leading-to-ugly-and-costly-fight?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b78dd63421aa93eeeb31344",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2014/11/04/98dc0231-14f8-4e03-a3e4-e9167b79cb45/thumbnail/1200x630/3cba80883c46f96bdef33530e77f2a44/458394518.jpg",
+                    "origin": "CBS News",
+                    "title": "New York Gov. Andrew Cuomo says that America \"has always been great\"",
+                    "ts": 1534645983,
+                    "twitterid": 1031006097795174406,
+                    "url": "https://www.cbsnews.com/news/new-york-gov-andrew-cuomo-says-that-america-has-always-been-great/"
+                },
+                {
+                    "_id": "5b7834ac421aa9322ef22387",
+                    "date_month": "2018-08",
+                    "image": "https://images.newrepublic.com/9a9ffc533310eea711b07d1aea2c3820ad7d05e0.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Can the Democrats Fix Washington?",
+                    "ts": 1534600820,
+                    "twitterid": 1030816671555088384,
+                    "url": "https://newrepublic.com/article/150434/can-democrats-fix-washington"
+                },
+                {
+                    "_id": "5b791591421aa9419dd666ad",
+                    "date_month": "2018-08",
+                    "image": "https://media.npr.org/assets/img/2018/08/16/tedracobb_072818_wide-7a7bdfd2d787e429b1001f2cd631ae52e8247ef5.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Local Candidates Are The Subject Of Political Tracking, Too",
+                    "ts": 1534659973,
+                    "twitterid": 1031064777001447424,
+                    "url": "https://www.npr.org/2018/08/16/639149636/local-candidates-find-they-re-the-subject-of-political-tracking?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180819"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            21
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Papadopoulos",
+            "Top Trump",
+            "Steve Bannon",
+            "Report",
+            "Mueller Trump",
+            "FBI",
+            "Roger Stone Next",
+            "Maltese",
+            "Watergate",
+            "Mueller White House Counsel Don",
+            "Russia",
+            "Kong",
+            "Robert Mueller",
+            "John Dean",
+            "Don McGahn",
+            "Papadopoulos Trump",
+            "Papadopoulos Jail",
+            "George Papadopoulos",
+            "White House",
+            "Mueller Says Papadopoulos Hurt Investigation Mueller",
+            "Mueller"
+        ],
+        "peaks": [],
+        "theme": [
+            "Mueller",
+            "probe",
+            "counsel",
+            "House",
+            "Papadopoulos",
+            "Trump",
+            "White"
+        ],
+        "timestamp": "2018-08-19 06:10:21.449149-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b78a51e421aa936acfaeb25",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/c4/a7/7ef1e49246d7b8183ded6f3909a0/180818don-mcgahn-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump claims he allowed White House counsel to 'fully cooperate' with Mueller probe",
+                    "ts": 1534631579,
+                    "twitterid": 1030945682910273541,
+                    "url": "https://www.politico.com/story/2018/08/18/trump-mcgahn-mueller-probe-788040"
+                },
+                {
+                    "_id": "5b78a51e421aa936acfaeb1e",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/mcgahndon_070918gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump claims he instructed White House counsel to cooperate with Mueller",
+                    "ts": 1534632543,
+                    "twitterid": 1030949728157085697,
+                    "url": "http://thehill.com/policy/national-security/402497-trump-claims-he-instructed-mcgahn-to-cooperate-with-mueller"
+                },
+                {
+                    "_id": "5b789714421aa93578d080d7",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/16/Trump_27967.jpg-dc947_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Don McGahn, White House counsel, extensively cooperating with Mueller's office: Report",
+                    "ts": 1534626879,
+                    "twitterid": 1030925967894761472,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/18/don-mcgahn-white-house-counsel-extensively-coopera/"
+                },
+                {
+                    "_id": "5b78a51e421aa936acfaeb2e",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/donmcgahn_cabinet.jpg",
+                    "origin": "The Hill",
+                    "title": "Watergate's John Dean: White House counsel is 'doing right' by cooperating with Mueller",
+                    "ts": 1534630863,
+                    "twitterid": 1030942680686256135,
+                    "url": "http://thehill.com/homenews/administration/402494-watergates-john-dean-white-house-counsel-is-doing-right-by"
+                },
+                {
+                    "_id": "5b78c143421aa93a47854cc0",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/donmcgahn_cabinet.jpg",
+                    "origin": "The Hill",
+                    "title": "White House counsel called Trump 'King Kong' behind his back: report",
+                    "ts": 1534639503,
+                    "twitterid": 1030978918386487296,
+                    "url": "http://thehill.com/homenews/administration/402500-white-house-counsel-called-trump-king-kong-behind-his-back-report?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b78a51e421aa936acfaeb37",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/18/0/0/694940094001_5823863748001_5823861718001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "White House Counsel Don McGahn spoke to Mueller team three times, sources say",
+                    "ts": 1534629843,
+                    "twitterid": 1030938401548189696,
+                    "url": "http://www.foxnews.com/politics/2018/08/18/white-house-counsel-don-mcgahn-spoke-to-mueller-team-three-times-sources-say.html"
+                },
+                {
+                    "_id": "5b793fcb421aa943d65b549a",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/18/0/0/694940094001_5823863748001_5823861718001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump declares White House 'most transparent in history' after reports of McGahn-Mueller talks",
+                    "ts": 1534672351,
+                    "twitterid": 1031116691181367296,
+                    "url": "http://www.foxnews.com/politics/2018/08/19/trump-declares-white-house-most-transparent-in-history-after-reports-mcgahn-mueller-talks.html"
+                },
+                {
+                    "_id": "5b78890e421aa934ee5bf3c4",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2017/10/30/10302017_george-papadopoulos8201_s2048x1369.jpg?b2cdb9b49e95af3272d51b0bdedd76b4c66a9d72",
+                    "origin": "The Washington Times",
+                    "title": "Robert Mueller says George Papadopoulos damaged Russia probe, deserves prison",
+                    "ts": 1534624995,
+                    "twitterid": 1030918069550505984,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/18/robert-mueller-says-george-papadopoulos-damaged-ru/?cache"
+                },
+                {
+                    "_id": "5b787aec421aa934809e1b3e",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/MsWVfTwY3xKjS7oz7wo5FoYvocA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWBISGE7EQI6RE7DETIXAPJKPI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Mueller prosecutors seek up to six months in prison for George Papadopoulos in Russia probe",
+                    "ts": 1534620116,
+                    "twitterid": 1030897604396236800,
+                    "url": "https://www.washingtonpost.com/local/public-safety/mueller-prosecutors-say-prison-is-optional-for-george-papadopoulos-in-russia-probe/2018/08/17/44a194ce-a194-11e8-93e3-24d1703d2a7a_story.html?utm_term=.2541ca2d7980&tid=sm_tw"
+                },
+                {
+                    "_id": "5b787aec421aa934809e1b2c",
+                    "date_month": "2018-08",
+                    "image": "https://images.wsj.net/im-22679/social",
+                    "origin": "Capital Journal",
+                    "title": "Mueller Says Papadopoulos Hurt Investigation",
+                    "ts": 1534622083,
+                    "twitterid": 1030905852025294855,
+                    "url": "https://www.wsj.com/articles/mueller-says-papadopoulos-hurt-investigation-1534562407?mod=e2twp"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            36
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Florida",
+            "Jury",
+            "West Lawn",
+            "Nashville",
+            "Chicago",
+            "Hull",
+            "German",
+            "Arizona",
+            "California",
+            "Dramatic",
+            "Kiera Bergman",
+            "Sacramento",
+            "Lake",
+            "Girls",
+            "Woman",
+            "Raleigh",
+            "Esplanade Whale",
+            "Kansas",
+            "Rahm Emanuel",
+            "Lunch",
+            "NYPD"
+        ],
+        "peaks": [],
+        "theme": [
+            "police",
+            "woman",
+            "man",
+            "arrested",
+            "Chicago",
+            "Video",
+            "another"
+        ],
+        "timestamp": "2018-08-19 06:10:21.825013-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b790786421aa9406a04836f",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/17/d4c5f879-bd7a-481d-a279-50e38e77cda4/thumbnail/1200x630/117dc1f0850f98afef7534bf109ffa47/raleigh-police-beating-video-2018-08-17.png",
+                    "origin": "CBS News",
+                    "title": "Video appears to show Raleigh police officers beating man",
+                    "ts": 1534654985,
+                    "twitterid": 1031043855305596935,
+                    "url": "https://www.cbsnews.com/news/raleigh-police-beating-video-live-updates-today-2018-08-17/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b78fa073ed3f00001a1efd1&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b78dd63421aa93eeeb31348",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/-mm-/10cc64f0b869f41892a33aedf84732975161d6ab/c=0-178-3504-2158/local/-/media/2016/05/17/USATODAY/USATODAY/635991212646516344-AP-Taking-On-The-Traffickers.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Woman arrested after video shows theft of donation jar for slain Florida girl\u2019s family",
+                    "ts": 1534645804,
+                    "twitterid": 1031005347438383104,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/08/18/donation-jar-stolen-woman-arrested-theft-600-girls-family/1033903002/"
+                },
+                {
+                    "_id": "5b78b336421aa93874ec28b9",
+                    "date_month": "2018-08",
+                    "image": "http://www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650",
+                    "origin": "Chicago Tribune",
+                    "title": "Police: Man jumps fence, robs and sexually assaults woman at gunpoint",
+                    "ts": 1534636502,
+                    "twitterid": 1030966330512613376,
+                    "url": "http://www.chicagotribune.com/news/local/breaking/ct-met-rape-robbery-near-west-side-20180818-story.html"
+                },
+                {
+                    "_id": "5b78890e421aa934ee5bf3e3",
+                    "date_month": "2018-08",
+                    "image": "https://apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Eastern US",
+                    "title": "Man bites off another man's finger in golf course brawl",
+                    "ts": 1534622661,
+                    "twitterid": 1030908279084462081,
+                    "url": "https://apnews.com/dbd6a67e48e9441781bc46acee20eed4?utm_medium=APEastRegion&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b780a67421aa9303981774f",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/woman_calls_police_on_black_man.png",
+                    "origin": "The Hill",
+                    "title": "Woman calls police on black man trying to get into his own car",
+                    "ts": 1534592478,
+                    "twitterid": 1030781679756034048,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/402325-woman-calls-police-on-black-man-trying-to-get-into-his-own-car"
+                },
+                {
+                    "_id": "5b789714421aa93578d080be",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/10/0/0/694940094001_5820305331001_5820310478001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Amid new shootings, Chicago girds for yet another weekend of crime and violence",
+                    "ts": 1534628249,
+                    "twitterid": 1030931715227897856,
+                    "url": "http://www.foxnews.com/us/2018/08/18/amid-new-shootings-chicago-girds-for-yet-another-weekend-crime-and-violence.html"
+                },
+                {
+                    "_id": "5b7923a2421aa9421266b0eb",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/10/0/0/694940094001_5820305331001_5820310478001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Chicago 'peace picnic' turns violent: 3 people shot, another is beaten",
+                    "ts": 1534663380,
+                    "twitterid": 1031079065174700032,
+                    "url": "http://www.foxnews.com/us/2018/08/19/chicago-peace-picnic-turns-violent-3-people-shot-another-is-beaten.html"
+                },
+                {
+                    "_id": "5b781881421aa930b27e93e0",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/10/0/0/694940094001_5820305331001_5820310478001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Boy, three, among 25 shot in Chicago at start of yet another violence-fueled weekend",
+                    "ts": 1534594296,
+                    "twitterid": 1030789307206955008,
+                    "url": "http://www.foxnews.com/us/2018/08/18/shootings-3-year-old-others-kick-off-another-violent-chicago-weekend.html"
+                },
+                {
+                    "_id": "5b78b336421aa93874ec28c5",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/13/5e39e2fc-7b6b-4a09-b1ec-98122470a704/thumbnail/1200x630g2/e02ea2aef5db365c92c7c219fecc19ea/kiera-bergman-32013784-1533829427944510-r.jpg",
+                    "origin": "CBS News",
+                    "title": "Boyfriend of missing Arizona woman Kiera Bergman arrested for identity theft, forgery",
+                    "ts": 1534635125,
+                    "twitterid": 1030960556658835456,
+                    "url": "https://www.cbsnews.com/news/kiera-bergman-missing-phoenix-arizona-boyfriend-jon-christopher-clark-charged-identity-theft-forgery-2018-08-18/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b78ac7104d301346834aaf3&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b78b336421aa93874ec28c4",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/15/66b7bb77-32c4-411f-9c6c-c84f51c9bc70/thumbnail/1200x630/01203dc8c91e5dff7732cb3325a6fe05/mandatory-on-screen-credit-hearst-connecticut-media-arnold-gold.jpg",
+                    "origin": "CBS News",
+                    "title": "53-year-old man arrested in connection with over 100 synthetic pot overdoses",
+                    "ts": 1534635183,
+                    "twitterid": 1030960799068684295,
+                    "url": "https://www.cbsnews.com/news/new-haven-overdoses-53-year-old-man-john-parker-arrested-connecticut-k2-2018-08-18/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b78acad04d30134755cd953&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            101
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "U.S.",
+            "Matter Founder Rejects",
+            "Air Force",
+            "Worcester Red Sox",
+            "Kavanaugh Confirmation Fight",
+            "Clergy Abuse Crisis Has",
+            "Voiced Concerns",
+            "Washington Capitals",
+            "Michelle Wolf",
+            "Jackie Bradley",
+            "ESPN",
+            "GOP",
+            "Girl Scouts",
+            "Marty Balin",
+            "Omarosa",
+            "Coal States Regulate Them How",
+            "Babe Ruth",
+            "Gon",
+            "Market Shows Signs",
+            "Venezuela Devalues Currency",
+            "Miss America",
+            "Death Toll Rises",
+            "Backstreet Boys",
+            "Titans",
+            "Nate",
+            "Switzerland Man",
+            "Real Name Too Long",
+            "Oklahoma Netflix",
+            "Farmers Thousands",
+            "Kerala",
+            "Michael Avenatti",
+            "Coal",
+            "Catholic Church",
+            "Lesson",
+            "US Catholic",
+            "Pacers",
+            "Trump",
+            "New Mexico",
+            "Caramel Chocolate Chip",
+            "Obama",
+            "Baltimore",
+            "Genius",
+            "Mourners Gather To Honor Victims Of Italian Bridge",
+            "Florida",
+            "New York Times",
+            "CO2",
+            "Chris Sale",
+            "Strawberry Jam",
+            "Fox News",
+            "Italian Architect Gio Ponti Backpage Seizure",
+            "Bruins",
+            "Stand",
+            "Chicago",
+            "Massachusetts",
+            "British",
+            "Monsoon Floods Have Killed",
+            "Seven Years",
+            "Red Sox",
+            "Live Better",
+            "McCain",
+            "Service Violation Mormon",
+            "Pennsylvania Church Reels Italy",
+            "Beloved Pastor",
+            "Partnership Robot",
+            "Baphomet Like Jalen Ramsey",
+            "Philippines",
+            "Lions",
+            "Cara Mund",
+            "Josh Gordon",
+            "Messy",
+            "Redskins",
+            "Sergei Ending My Marriage",
+            "Alex Ovechkin",
+            "Tweak Keeps Him Running",
+            "Colombia",
+            "Genoa",
+            "Save Money",
+            "ACLU",
+            "Carrie Severino",
+            "Hikes Wages",
+            "India Brett Kavanaugh",
+            "Palm Beach",
+            "John",
+            "Only Country Where Divorce Is",
+            "Catholic Church Trump",
+            "New Hampshire Sex",
+            "Cleveland Browns Disturbing",
+            "Life Trump",
+            "Santa Barbara Jefferson Airplane",
+            "Samaje Perine",
+            "ICE"
+        ],
+        "peaks": [],
+        "theme": [
+            "say",
+            "Trump",
+            "churches",
+            "New",
+            "abuse",
+            "feel",
+            "hospital"
+        ],
+        "timestamp": "2018-08-19 06:10:22.950886-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b78f97d421aa93ffbb8b3e1",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/18/BostonGlobe.com/National/Images/PA_CHURCH_ABUSE_11.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Sex abuse report lists beloved priests, and Pennsylvania churches reel",
+                    "ts": 1534651264,
+                    "twitterid": 1031028248141021184,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/08/18/sex-abuse-report-lists-beloved-priests-and-pennsylvania-churches-reel/ivjznT0GZv46ipOxxw6kHK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b7931b5421aa942eb50a271",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/05/12a970a5-574d-44db-8b2f-9962c934c501/thumbnail/1200x630/2b76dc5b3eee11a2559f664c4a0ed49f/ap-18217014829155.jpg",
+                    "origin": "CBS News",
+                    "title": "Remains found at New Mexico compound are missing boy, authorities say",
+                    "ts": 1534665785,
+                    "twitterid": 1031089152941535232,
+                    "url": "https://www.cbsnews.com/news/new-mexico-compound-remains-missing-boy-abdul-ghani-today-2018-08-16/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b7924379ebbef0001ba014c&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b7842b3421aa932a07020d8",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/joel_arrona_lara-screenshot.jpg",
+                    "origin": "The Hill",
+                    "title": "New mother says ICE detained husband on the way to hospital",
+                    "ts": 1534605662,
+                    "twitterid": 1030836978198216704,
+                    "url": "http://thehill.com/homenews/news/402463-new-mother-says-ice-detained-husband-on-the-way-to-hospital"
+                },
+                {
+                    "_id": "5b78b336421aa93874ec28dc",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201808/n_wh_deadline_mccain_180813_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Trump's digs at John McCain hit a new low with 'chilling' snub",
+                    "ts": 1534633222,
+                    "twitterid": 1030952572910219270,
+                    "url": "https://www.msnbc.com/deadline-white-house/watch/trump-s-digs-at-john-mccain-hit-a-new-low-with-chilling-snub-1298217539512?v=raila"
+                },
+                {
+                    "_id": "5b7850c1421aa933252f8350",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/e_V1bAse2SuNrbgUH6jsPuE4WRE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/74K47VVC7UI6RA6SOAQDXDL3IQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "New Trump power plant plan would release hundreds of millions of tons of CO2 into the air",
+                    "ts": 1534610635,
+                    "twitterid": 1030857838581768192,
+                    "url": "https://www.washingtonpost.com/national/health-science/new-trump-power-plant-plan-would-release-hundreds-of-millions-of-tons-of-co2-into-the-air/2018/08/18/be823078-a28e-11e8-83d2-70203b8d7b44_story.html?utm_term=.61fca66c453f&tid=sm_tw"
+                },
+                {
+                    "_id": "5b793fcb421aa943d65b54ae",
+                    "date_month": "2018-08",
+                    "image": "https://images-cbsn.cbsnews.com/2018/08/18/story_01706628_1534595148.jpg",
+                    "origin": "CBS News",
+                    "title": "Warmer oceans increasing hurricane risk along the west coast, scientists say",
+                    "ts": 1534669386,
+                    "twitterid": 1031104255510368262,
+                    "url": "https://www.cbsnews.com/live/video/20180818122523-warmer-oceans-increasing-hurricane-risk-along-the-west-coast-scientists-say/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b7932479ac5640001f55194&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b78f97d421aa93ffbb8b3de",
+                    "date_month": "2018-08",
+                    "image": "https://images-cbsn.cbsnews.com/2018/08/17/story_01705944_1534548725.jpg",
+                    "origin": "CBS News",
+                    "title": "New York Times reports that Omarosa might have as many as 200 more tapes, and Michael Avenatti heads to New Hampshire",
+                    "ts": 1534651384,
+                    "twitterid": 1031028750778019840,
+                    "url": "https://www.cbsnews.com/live/video/20180817233141-new-york-times-reports-that-omarosa-might-have-as-many-as-200-more-tapes-and-michael-avenatti-heads-to-new-hampshire/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b78ebf51adf6400011a1b77&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b781881421aa930b27e93c7",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/ocasiocortezalexandria_071218getty_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Ocasio-Cortez defends banning press from event: We wanted \u2018residents to feel safe\u2019",
+                    "ts": 1534596546,
+                    "twitterid": 1030798742717431814,
+                    "url": "http://thehill.com/homenews/campaign/402451-ocasio-cortez-defends-banning-press-from-event-we-wanted-residents-to-feel?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b78c143421aa93a47854cce",
+                    "date_month": "2018-08",
+                    "image": "https://media.npr.org/assets/img/2018/08/17/ap_18226657665017_wide-ed1d3dd94ccbec306a90ced332f35239d1129c7a.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "The Clergy Abuse Crisis Has Cost The Catholic Church $3 Billion",
+                    "ts": 1534638600,
+                    "twitterid": 1030975130246078470,
+                    "url": "https://www.npr.org/2018/08/18/639698062/the-clergy-abuse-crisis-has-cost-the-catholic-church-3-billion?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180818"
+                },
+                {
+                    "_id": "5b78f97d421aa93ffbb8b3d1",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/bc/29/b06ef35e4612bcfbec3fc2b2b073/180508-facebook-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump administration charges Facebook with housing discrimination",
+                    "ts": 1534653007,
+                    "twitterid": 1031035559807004673,
+                    "url": "https://www.politico.com/story/2018/08/17/facebook-trump-administration-housing-discrimination-786302"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            38
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Florida",
+            "Facebook",
+            "Report",
+            "Wichita State",
+            "Connecticut School Sexually",
+            "Cubs",
+            "Years Chipotle",
+            "White Sox",
+            "European Southern Observatory Are Helicopter Parents",
+            "Bryce Harper",
+            "New Hampshire ID",
+            "Muslim",
+            "Charles Koch",
+            "Catholic",
+            "Agency Says Lake Mead Could Drop Below Critical Threshold",
+            "Airbnb",
+            "Palm Beach",
+            "Swiss",
+            "George Mason",
+            "Navy",
+            "Hurricane Lane",
+            "Colorado University Professor Assigns",
+            "Rhode Island",
+            "LLWS",
+            "Royals String",
+            "San Diego State University",
+            "NYU",
+            "Betsy DeVos",
+            "Schools",
+            "Required Class Reading"
+        ],
+        "peaks": [],
+        "theme": [
+            "school",
+            "Student",
+            "game",
+            "college",
+            "say",
+            "teacher",
+            "even"
+        ],
+        "timestamp": "2018-08-19 06:10:23.683388-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b78890e421aa934ee5bf3e6",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201808/n_ruhle_gnr_180810_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Student\u2019s family surprises teacher with car",
+                    "ts": 1534622416,
+                    "twitterid": 1030907249760325632,
+                    "url": "https://www.msnbc.com/stephanie-ruhle/watch/student-s-family-surprises-teacher-with-car-1296409155511?v=railb"
+                },
+                {
+                    "_id": "5b793fcb421aa943d65b54ac",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/08/19/shooting-victims-at-high-school-football-game-were-targeted-officials-say/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1534660926042.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Shooting victims at high school football game were targeted, officials say",
+                    "ts": 1534669620,
+                    "twitterid": 1031105237501636608,
+                    "url": "http://www.foxnews.com/us/2018/08/19/shooting-victims-at-high-school-football-game-were-targeted-officials-say.html"
+                },
+                {
+                    "_id": "5b790786421aa9406a04835a",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/17/USAT/4be87a3f-e292-43e7-936c-a8a8ef9e2d88-GettyImages-480803620_1.jpg?crop=4086,2290,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "5 ways to ruin the relationship with your child's teacher and not even know it",
+                    "ts": 1534658406,
+                    "twitterid": 1031058203424051201,
+                    "url": "https://www.usatoday.com/story/life/allthemoms/2018/08/17/5-ways-ruin-relationship-your-childs-teacher/1020142002/"
+                },
+                {
+                    "_id": "5b78eb73421aa93f8a8d3b00",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/18/f8eda3d8-9d9e-4931-815f-fb0cb6842536/thumbnail/1200x630/75fb59d0bcacaa378c8be8638eadcb0f/palm-beach-central-high-school-shooting-2018-08-17.png",
+                    "origin": "CBS News",
+                    "title": "Shooting at Florida high school football game leaves 2 injured",
+                    "ts": 1534650486,
+                    "twitterid": 1031024985664618496,
+                    "url": "https://www.cbsnews.com/news/florida-wellington-high-school-shooting-palm-beach-central-football-game-2018-08-18/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b78e87204d3017d669f479a&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b780a67421aa93039817753",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/eqAXpMMS5B4tXG3loVnkT-9YT7E=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6SNHBKICRMZL5BDIF4QJOFGQIA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Have fun at college, freshmen, but read this first",
+                    "ts": 1534591964,
+                    "twitterid": 1030779527587397632,
+                    "url": "https://www.washingtonpost.com/news/grade-point/wp/2018/08/17/have-fun-at-college-freshmen-but-read-this-first/?utm_term=.f22b238ef27e&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b789714421aa93578d080d5",
+                    "date_month": "2018-08",
+                    "image": "https://media.newyorker.com/photos/5aaad191834caa185c8be8ed/16:9/w_1200,h_630,c_limit/helfand-charles-koch-helped-college-basketball-powerhouse.jpg",
+                    "origin": "The New Yorker",
+                    "title": "How Charles Koch Turned Wichita State into a College-Basketball Powerhouse",
+                    "ts": 1534626994,
+                    "twitterid": 1030926450239721477,
+                    "url": "https://www.newyorker.com/news/sporting-scene/how-charles-koch-turned-wichita-state-into-a-college-basketball-powerhouse?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b78b336421aa93874ec28c3",
+                    "date_month": "2018-08",
+                    "image": "https://apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Eastern US",
+                    "title": "School of Navy chaplains to return to Rhode Island",
+                    "ts": 1534635304,
+                    "twitterid": 1030961307921666048,
+                    "url": "https://apnews.com/0dfed8dbaf5e4e2db6ba3a3f4e35ab39?utm_source=Twitter&utm_medium=APEastRegion&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5b781881421aa930b27e93c5",
+                    "date_month": "2018-08",
+                    "image": "http://www.trbimg.com/img-5b76466a/turbine/ct-spt-cubs-jon-lester-numbers-20180817",
+                    "origin": "Chicago Tribune",
+                    "title": "Cubs\u2019 Jon Lester satisfied with results over numbers: \u2018I don\u2019t even know what WAR is and how it applies to a pitcher\u2019",
+                    "ts": 1534596906,
+                    "twitterid": 1030800253354692608,
+                    "url": "http://www.chicagotribune.com/sports/baseball/cubs/ct-spt-cubs-jon-lester-numbers-20180817-story.html"
+                },
+                {
+                    "_id": "5b7923a2421aa9421266b0ea",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/19/USAT/8f4f1f92-2117-48cf-aac2-b7d00e976e31-AP_Royals_White_Sox_Baseball.JPG?crop=2667,1500,x0,y344&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Sister Mary Jo Sobieck throws out perfect first pitch before White Sox game",
+                    "ts": 1534663804,
+                    "twitterid": 1031080843555627010,
+                    "url": "https://www.usatoday.com/story/sports/mlb/whitesox/2018/08/18/chicago-nun-throws-perfect-first-pitch/1034779002/"
+                },
+                {
+                    "_id": "5b78268e421aa9311cb151af",
+                    "date_month": "2018-08",
+                    "image": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Report Says 7 Former Faculty At Connecticut School Sexually Abused Students For Years",
+                    "ts": 1534600193,
+                    "twitterid": 1030814041084637184,
+                    "url": "https://www.npr.org/2018/08/18/639806407/report-says-7-former-faculty-at-connecticut-school-sexually-abused-students-for-?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "U.S.",
+            "America",
+            "Malaysia Says Trump",
+            "Public Banks Are Suddenly Popular",
+            "Endless Growth Brought Turkey",
+            "Google",
+            "Brink Imran Khan",
+            "Pakistan",
+            "Curb U.S.",
+            "Erdogan",
+            "Push",
+            "Alex Jones",
+            "Pentagon China Only",
+            "New",
+            "India Looks",
+            "Sworn Into Office",
+            "Citi",
+            "North Korea",
+            "Taiwan",
+            "China Loves Trump Turkey",
+            "State",
+            "China"
+        ],
+        "peaks": [],
+        "theme": [
+            "China",
+            "Google",
+            "Trump",
+            "America",
+            "Banks",
+            "Chinese"
+        ],
+        "timestamp": "2018-08-19 06:10:24.148915-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b793fcb421aa943d65b54a7",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/18/0/0/694940094001_5823816715001_5823820062001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump's policies could enable America's economy to outpace China's",
+                    "ts": 1534670913,
+                    "twitterid": 1031110660262965248,
+                    "url": "http://www.foxnews.com/opinion/2018/08/19/trumps-policies-could-enable-americas-economy-to-outpace-chinas.html"
+                },
+                {
+                    "_id": "5b781881421aa930b27e93c2",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/2018/01/WEL_China_Carlson/facebook.jpg?1522768591",
+                    "origin": "The Atlantic",
+                    "title": "China Loves Trump",
+                    "ts": 1534597206,
+                    "twitterid": 1030801511247478784,
+                    "url": "https://www.theatlantic.com/magazine/archive/2018/03/trump-china/550886/?utm_campaign=the-atlantic&utm_content=5b78185404d3014e6b56e627_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b78dd63421aa93eeeb3132b",
+                    "date_month": "2018-08",
+                    "image": "https://images.newrepublic.com/3e3adf05a36292a58565beaa26ca384357d72ad4.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Why Is Google Returning to China?",
+                    "ts": 1534647609,
+                    "twitterid": 1031012919570509824,
+                    "url": "https://newrepublic.com/article/150569/google-returning-china"
+                },
+                {
+                    "_id": "5b78c143421aa93a47854cb5",
+                    "date_month": "2018-08",
+                    "image": "https://images.newrepublic.com/d46f8be28205d8fd3202126c715496e73c0cc006.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Why Public Banks Are Suddenly Popular",
+                    "ts": 1534640412,
+                    "twitterid": 1030982731830886402,
+                    "url": "https://newrepublic.com/article/150594/public-banks-suddenly-popular"
+                },
+                {
+                    "_id": "5b78c143421aa93a47854cbd",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/FSsvbn6GPvSZ02BwXU9qciJfxBQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XC5BRLELOAI6RI2FUG7XQR5TOU.jpg",
+                    "origin": "Washington Post",
+                    "title": "After detente with North Korea, Trump increasingly takes aim at a new foe \u2014 China",
+                    "ts": 1534639640,
+                    "twitterid": 1030979493278699520,
+                    "url": "https://www.washingtonpost.com/politics/after-detente-with-north-korea-trump-increasingly-takes-aim-at-a-new-foe--china/2018/08/18/077ca942-a2ef-11e8-83d2-70203b8d7b44_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b7850c1421aa933252f8369",
+                    "date_month": "2018-08",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BK969_KEYWOR_SOC_20180815165111.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Google Outgrows Its Youthful Ideals",
+                    "ts": 1534608014,
+                    "twitterid": 1030846843872337920,
+                    "url": "https://www.wsj.com/articles/googles-risky-pragmatism-1534427069?mod=e2tw"
+                },
+                {
+                    "_id": "5b791591421aa9419dd666ab",
+                    "date_month": "2018-08",
+                    "image": "https://images.wsj.net/im-21827/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Chinese-Funded Port Gives Myanmar a Sinking Feeling",
+                    "ts": 1534660205,
+                    "twitterid": 1031065748419108864,
+                    "url": "https://www.wsj.com/articles/chinese-funded-port-gives-myanmar-a-sinking-feeling-1534325404?mod=e2tw"
+                },
+                {
+                    "_id": "5b77fc5c421aa92fc2088f19",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2016/08/09/30aaefe3-45be-40d7-ab67-37eba63de035/thumbnail/1200x630/45f13e2b209dc8f90098ba0e303e4378/gettyimages-469216474.jpg",
+                    "origin": "CBS News",
+                    "title": "State won't do business with Bank of America, Citi over their gun policies",
+                    "ts": 1534589283,
+                    "twitterid": 1030768281668542464,
+                    "url": "https://www.cbsnews.com/news/state-wont-do-business-with-bank-of-america-citi-over-their-gun-policies/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b77f96204d301629bf3d587&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b78dd63421aa93eeeb3134e",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/19/8a/6116437c42ad9e779dd7a33583f6/180817-pentagon-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Chinese military steps up strike strength against U.S. targets and Taiwan, says Pentagon",
+                    "ts": 1534645206,
+                    "twitterid": 1031002839005454336,
+                    "url": "https://www.politico.com/story/2018/08/17/china-military-us-taiwan-784302"
+                },
+                {
+                    "_id": "5b7842b3421aa932a07020c2",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/LKhw_S_KNKvkz30JKHbXx6w0Fxk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4UNNFGEWBII6RAML5G3TJDGYPU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Google refused an order to release huge amounts of data. Will other companies bow under pressure?",
+                    "ts": 1534607665,
+                    "twitterid": 1030845379653369857,
+                    "url": "https://www.washingtonpost.com/technology/2018/08/18/google-refused-an-order-release-huge-amounts-data-will-other-companies-bow-under-pressure/?utm_term=.a0a7f28bd169&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            70
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Zinke",
+            "US",
+            "U.S.",
+            "Too Egypt",
+            "Worldview",
+            "Report Finds Photos",
+            "Huntress",
+            "Sandy Hook",
+            "James Bond",
+            "Interior",
+            "Violence Putin",
+            "Kofi Annan Former",
+            "Us Laugh",
+            "Al Qaeda",
+            "David Rothenberg",
+            "Mideast",
+            "Sandy Hook Suits",
+            "Al Sharpton Alex Jones",
+            "Sandhurst",
+            "Paul Manafort Trial Unfolded Aretha Franklin Knew How",
+            "American Soul Jill Janus",
+            "Familiar Message",
+            "Pentagon",
+            "Whose Father Set Him",
+            "Stevie Wonder",
+            "Digital Public Square Syrian",
+            "International Failure",
+            "United Nations",
+            "Music",
+            "Russia",
+            "Alex Jones",
+            "Austrian",
+            "Motion Says Former UN",
+            "Vajpayee",
+            "Sarah Huckabee Sanders",
+            "Disney World",
+            "Jack Dorsey",
+            "Britain",
+            "MAGA",
+            "Her Voice",
+            "California",
+            "Rwanda Shaped Kofi Annan",
+            "Pakistan Pacifist",
+            "Cairo Imran Khan",
+            "Kofi Annan",
+            "Bridge Kofi Annan",
+            "Harvard",
+            "Dubai",
+            "Support Private Caregivers Falls Short",
+            "Ghana",
+            "Video",
+            "Philippines Aretha Franklin",
+            "U.N.",
+            "Indians",
+            "Orlando Twitter",
+            "Merkel",
+            "Syria Idris Elba",
+            "Aretha Franklin",
+            "Rwandan",
+            "Imran Khan",
+            "Boston",
+            "That",
+            "Assad",
+            "Paris VA Initiative",
+            "Only Thing",
+            "Afghanistan Aretha",
+            "Infowars Destroyed Evidence Related",
+            "Historically",
+            "Nobel Peace",
+            "Curbed Inequality",
+            "David McReynolds",
+            "Supersized",
+            "Vladimir Putin",
+            "Civil Rights Stalwart"
+        ],
+        "peaks": [],
+        "theme": [
+            "Annan",
+            "Kofi",
+            "dies",
+            "former",
+            "general",
+            "secretary",
+            "Aretha"
+        ],
+        "timestamp": "2018-08-19 06:10:25.651103-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b78268e421aa9311cb151ab",
+                    "date_month": "2018-08",
+                    "image": "http://thehill.com/sites/default/files/annankofi_20180818.jpg",
+                    "origin": "The Hill",
+                    "title": "Former UN Secretary-General Kofi Annan dies",
+                    "ts": 1534600623,
+                    "twitterid": 1030815842483752960,
+                    "url": "http://thehill.com/policy/international/un-treaties/402459-former-un-secretary-general-kofi-annan-dies"
+                },
+                {
+                    "_id": "5b780a67421aa9303981775f",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/7YlpRbj_QVnN5RMOaZrL2xk6os0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VS4X4NVC2AI6RA6SOAQDXDL3IQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Kofi Annan, former U.N. secretary general, dies at 80",
+                    "ts": 1534590254,
+                    "twitterid": 1030772354232844288,
+                    "url": "https://www.washingtonpost.com/local/obituaries/kofi-annan-former-un-secretary-general-dies-at-80/2018/08/18/12eed974-a2ce-11e8-83d2-70203b8d7b44_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b77fc5c421aa92fc2088f16",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/18/BostonGlobe.com/Obits/Images/Rex_Former_UN_Secretary_General_Kofi_9793472A.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Former UN secretary general Kofi Annan dies at age 80",
+                    "ts": 1534589887,
+                    "twitterid": 1030770814831026177,
+                    "url": "https://www.bostonglobe.com/news/world/2018/08/18/former-secretary-general-kofi-annan-dies-age/YYkQBYiU0MWs5v8yx1c0hK/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b77fc5c421aa92fc2088f1c",
+                    "date_month": "2018-08",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_33/2535806/06955572_6e519abaea86667099eff38d9019dd94.1200;630;7;70;5.JPG",
+                    "origin": "MSNBC",
+                    "title": "Former United Nations Secretary General Kofi Annan dies at 80",
+                    "ts": 1534588418,
+                    "twitterid": 1030764653977198597,
+                    "url": "https://www.nbcnews.com/news/world/former-united-nations-secretary-general-kofi-annan-dies-80-n901856?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b77fc5c421aa92fc2088f17",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/18/ffb33b85-c4ad-4dba-b80b-c764154d1ac2/thumbnail/1200x630g2/d38c4ebc8317026c32dd8c43903feda1/gettyimages-154250046.jpg",
+                    "origin": "CBS News",
+                    "title": "Kofi Annan, former UN secretary-general, dead at 80",
+                    "ts": 1534589644,
+                    "twitterid": 1030769794499399680,
+                    "url": "https://www.cbsnews.com/news/kofi-annan-former-un-secretary-general-dead-at-80/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b77faca04d301645bc3e32e&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b7834ac421aa9322ef2237c",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180818051809-kofi-annan-portrait-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Kofi Annan: Former UN Secretary-General dead at 80",
+                    "ts": 1534601588,
+                    "twitterid": 1030819893078306816,
+                    "url": "https://www.cnn.com/2018/08/18/africa/kofi-annan-obit-intl/index.html?utm_content=2018-08-18T14%3A13%3A07&utm_source=twCNN&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5b7834ac421aa9322ef22372",
+                    "date_month": "2018-08",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_33/2535806/06955572_146a8328628d2e7083e4901495441fe0.1200;630;7;70;5.JPG",
+                    "origin": "MSNBC",
+                    "title": "Kofi Annan, former United Nations secretary general and Nobel Peace Prize winner, dies at 80",
+                    "ts": 1534602608,
+                    "twitterid": 1030824168227581952,
+                    "url": "https://www.nbcnews.com/news/world/former-united-nations-secretary-general-kofi-annan-dies-80-n901856?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b77fc5c421aa92fc2088f1d",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/-mm-/f072f8e0fa6fd350bab04948ea4efd3cdb812d24/c=0-235-3771-2366/local/-/media/2018/08/18/USATODAY/USATODAY/636701681012165127-AP-UN-Mideast-Syria-Annan.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Ex-U.N. Secretary-General Kofi Annan dies at 80, his foundation says",
+                    "ts": 1534588403,
+                    "twitterid": 1030764588554506240,
+                    "url": "https://www.usatoday.com/story/news/world/2018/08/18/kofi-annan-united-nations-secretary-general/1030360002/"
+                },
+                {
+                    "_id": "5b7842b3421aa932a07020d2",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/18/USAT/fd680818-ecfb-4363-9a43-8ffe33dd89f9-05.JPG?crop=2047,1151,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Kofi Annan: Ex-United Nations secretary-general remembered as untiring peace negotiator",
+                    "ts": 1534606206,
+                    "twitterid": 1030839260587409410,
+                    "url": "https://www.usatoday.com/story/news/world/2018/08/18/kofi-annan-secretary-general-united-nations/1030844002/"
+                },
+                {
+                    "_id": "5b77fc5c421aa92fc2088f15",
+                    "date_month": "2018-08",
+                    "image": "https://static.c-span.org/favicon.ico",
+                    "origin": "CSPAN",
+                    "title": "Kofi Annan",
+                    "ts": 1534589983,
+                    "twitterid": 1030771217609969665,
+                    "url": "https://www.c-span.org/person/?kofiannan"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            6
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Chris Watts",
+            "Slain Colorado",
+            "DNA",
+            "Father",
+            "Shanann Watts",
+            "Court"
+        ],
+        "peaks": [],
+        "theme": [
+            "Colorado",
+            "Body",
+            "court",
+            "DNA",
+            "found",
+            "girls",
+            "necks"
+        ],
+        "timestamp": "2018-08-19 06:10:25.809797-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b78c143421aa93a47854cd4",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/18/e94b24c7-832b-45c6-a3b0-4a83ab26c196/thumbnail/1200x630g2/054c93cc9bd1b590aac0a63c292439ce/family2.png",
+                    "origin": "CBS News",
+                    "title": "Court filing requests that DNA swabs be taken from slain girls' necks",
+                    "ts": 1534637884,
+                    "twitterid": 1030972127418228736,
+                    "url": "https://www.cbsnews.com/news/chris-watts-attorney-files-motion-asking-that-dna-swabs-be-taken-from-slain-girls-necks-shanann-watts-frederick-colorado-2018-08-18/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b78b73a04d30158adf40abe&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b789714421aa93578d080da",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/jLt1vGTzHivz93kGVim-b3lN7F0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FQISZXYBOA7SHKWFOPQ2ISIR6E.jpg",
+                    "origin": "Washington Post",
+                    "title": "Were Colorado girls strangled? Father\u2019s lawyers requested DNA swabs from children\u2019s necks.",
+                    "ts": 1534626445,
+                    "twitterid": 1030924151270330368,
+                    "url": "https://www.washingtonpost.com/news/true-crime/wp/2018/08/18/were-colorado-girls-strangled-fathers-lawyers-requested-dna-swabs-from-childrens-necks/?utm_term=.b1ab53008cce&tid=sm_tw"
+                },
+                {
+                    "_id": "5b7923a2421aa9421266b0df",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/08/19/body-shanann-watts-found-in-shallow-grave-court-document-says/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1534657901427.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Body of Shanann Watts was found in shallow grave, court document says",
+                    "ts": 1534665180,
+                    "twitterid": 1031086614716530688,
+                    "url": "http://www.foxnews.com/us/2018/08/19/body-shanann-watts-found-in-shallow-grave-court-document-says.html"
+                },
+                {
+                    "_id": "5b781881421aa930b27e93c8",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/16/4286268b-2977-4524-986d-8f2058fd70af/thumbnail/1200x630/8d765029701a57a3105c0497d7c5878f/missingcoloradomom.jpg",
+                    "origin": "CBS News",
+                    "title": "Officials: Bodies believed to be pregnant Colorado mom, kids found on oil property",
+                    "ts": 1534596485,
+                    "twitterid": 1030798487854698496,
+                    "url": "https://www.cbsnews.com/news/shanann-watts-frederick-colorado-missing-mom-children-husband-chris-watts-charged-murder-today-2018-08-16/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b78158304d301487cab3133&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b781881421aa930b27e93d2",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/08/16/4286268b-2977-4524-986d-8f2058fd70af/thumbnail/1200x630/8d765029701a57a3105c0497d7c5878f/missingcoloradomom.jpg",
+                    "origin": "CBS News",
+                    "title": "Slain Colorado mother painted rosy picture of married life",
+                    "ts": 1534595583,
+                    "twitterid": 1030794706672865280,
+                    "url": "https://www.cbsnews.com/news/shanann-watts-christopher-watts-slain-colorado-mother-painted-rosy-picture-of-married-life/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b7811fe04d301403cb4bed2&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            71
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "Miami",
+            "Somerville",
+            "McHenry",
+            "Maryland",
+            "America An Inordinate Fondness",
+            "Rich",
+            "South Carolina",
+            "Netflix",
+            "Rose How Everlane",
+            "Morty",
+            "Troubled",
+            "Island Lolita",
+            "Kentucky",
+            "Adult Swim The NFL",
+            "Origin Story",
+            "Silicon Valley",
+            "South End",
+            "Bears",
+            "Major Food Group",
+            "Plastic Bag Novak Djokovic",
+            "Maraschino Mogul",
+            "Blue",
+            "Unicycle Welcome",
+            "Popular",
+            "Roquan Smith",
+            "Abolish Prisons",
+            "Same Desperate",
+            "GenoPalate",
+            "Fargo",
+            "Dos",
+            "Dad Who Photoshops",
+            "Nigerian",
+            "Jim Koch",
+            "Superior Lettuce Things",
+            "Broncos Hey",
+            "American Small Talk Summer",
+            "Bill Challenge",
+            "Baby Daughter Into Dangerous Situations How",
+            "August",
+            "Western",
+            "Horse Meat",
+            "Don",
+            "Marie Kondo",
+            "Where",
+            "Trump",
+            "William Corbett",
+            "Kids",
+            "France",
+            "Straight",
+            "Sam Adams",
+            "Built",
+            "New Preschool",
+            "Marshmallow Test The Insta-Celebrity Engagement",
+            "Boston",
+            "TSA",
+            "Cubism",
+            "Secret Life Mountain Biking",
+            "Malden River",
+            "Wasps New",
+            "Refugee",
+            "Sacha Baron Cohen Speak",
+            "Iceberg",
+            "Southern Open"
+        ],
+        "peaks": [],
+        "theme": [
+            "food",
+            "New",
+            "says",
+            "End",
+            "final",
+            "find",
+            "NFL"
+        ],
+        "timestamp": "2018-08-19 06:10:27.796409-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b78eb73421aa93f8a8d3b20",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180815144129-kentucky-marsha-moses-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "This program is helping Kentucky's food stamp recipients find jobs",
+                    "ts": 1534647664,
+                    "twitterid": 1031013149946925056,
+                    "url": "https://www.cnn.com/2018/08/16/politics/kentucky-food-stamps-work/index.html?utm_medium=social&utm_content=2018-08-19T03%3A01%3A03&utm_source=twCNNp&utm_term=image"
+                },
+                {
+                    "_id": "5b780a67421aa9303981775e",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/17/0/0/694940094001_5823471753001_5823464424001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Mary Jo Buttafuoco speaks out in new documentary, says she forgives 'Long Island Lolita' Amy Fisher",
+                    "ts": 1534590413,
+                    "twitterid": 1030773021009686530,
+                    "url": "http://www.foxnews.com/entertainment/2018/08/18/mary-jo-buttafuoco-speaks-out-in-new-documentary-says-forgives-long-island-lolita-amy-fisher.html"
+                },
+                {
+                    "_id": "5b785ed2421aa933b05bd0f6",
+                    "date_month": "2018-08",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/2015/12/DIS_Christakis_LeadPreSchool/facebook.jpg?1522797861",
+                    "origin": "The Atlantic",
+                    "title": "The New Preschool Is Crushing Kids",
+                    "ts": 1534615206,
+                    "twitterid": 1030877010363645957,
+                    "url": "https://www.theatlantic.com/magazine/archive/2016/01/the-new-preschool-is-crushing-kids/419139/?utm_campaign=the-atlantic&utm_content=5b785ea500bd470001f22d0f_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b7923a2421aa9421266b0f2",
+                    "date_month": "2018-08",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/18/BostonGlobe.com/Sports/Images/Rex_EPASELECT_18_Aug_2200_UTC_9793727AL.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Novak Djokovic advances to Western & Southern Open final",
+                    "ts": 1534662182,
+                    "twitterid": 1031074041392771072,
+                    "url": "https://www.bostonglobe.com/sports/2018/08/18/novak-djokovic-advances-western-southern-open-final/eNpIiiMsyfKnkrJuyYS1TO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b78c143421aa93a47854cb6",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/e6/17/9f15ac8344cfa57d3aa9b6b3886a/180815-arrietakenna-getty.jpg",
+                    "origin": "POLITICO",
+                    "title": "\u2018Abolish Prisons\u2019 Is the New \u2018Abolish ICE\u2019",
+                    "ts": 1534640406,
+                    "twitterid": 1030982705733881856,
+                    "url": "https://www.politico.com/magazine/story/2018/08/15/abolish-prisons-is-the-new-abolish-ice-219361"
+                },
+                {
+                    "_id": "5b78268e421aa9311cb151b3",
+                    "date_month": "2018-08",
+                    "image": "https://usatftw.files.wordpress.com/2018/08/2-kingdom-inferno-chicken-sandwich1.jpg?w=1024&h=576&crop=1",
+                    "origin": "USA TODAY",
+                    "title": "The 10 craziest stadium foods for the 2018 NFL season",
+                    "ts": 1534599904,
+                    "twitterid": 1030812829316788227,
+                    "url": "https://ftw.usatoday.com/2018/08/nfl-stadium-foods-craziest-rankings-2018-menu-teams"
+                },
+                {
+                    "_id": "5b78268e421aa9311cb151c2",
+                    "date_month": "2018-08",
+                    "image": "https://s.abcnews.com/images/Lifestyle/WireAP_f7fa24ab87914319bc0a7a616ed01236_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Is yoga more beneficial than stretching for NFL players?",
+                    "ts": 1534598360,
+                    "twitterid": 1030806351029694464,
+                    "url": "https://abcnews.go.com/Lifestyle/wireStory/yoga-beneficial-stretching-nfl-players-57245254?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b793fcb421aa943d65b54a5",
+                    "date_month": "2018-08",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/17/USAT/2dd23660-2f2f-4854-b496-40f91ba78c12-Black-5G-logo-640x400_Med.jpg?crop=639,359,x1,y32&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "New 5G networks aimed at cord cutters",
+                    "ts": 1534671005,
+                    "twitterid": 1031111045971144704,
+                    "url": "https://www.usatoday.com/story/tech/talkingtech/2018/08/18/new-5-g-networks-verizon-and-t-aimed-cord-cutters-and-cable-alternatives/1025250002/"
+                },
+                {
+                    "_id": "5b78890e421aa934ee5bf3bb",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/18/13a9bad8-eaba-4e5d-932f-31e494c69d5d/thumbnail/1200x630/7ca1ba3396b469f508b17645a7efe704/0818-satmo-thedish-1638441-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Major Food Group restaurants aim to turn the familiar into the \"extraordinary\"",
+                    "ts": 1534625980,
+                    "twitterid": 1030922197626441729,
+                    "url": "https://www.cbsnews.com/news/major-food-group-restaurants-aim-to-turn-the-familiar-into-the-extraordinary/?ftag=CNM-00-10aab7e&linkId=55721346"
+                },
+                {
+                    "_id": "5b7842b3421aa932a07020bf",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/10/Consumer_Prices_45603.jpg-aa0d1_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Gas prices drop as end of summer driving season approaches",
+                    "ts": 1534607905,
+                    "twitterid": 1030846386852519937,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/18/gas-prices-drop-as-end-of-summer-driving-season-ap/?cache"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            15
+        ],
+        "months": [
+            "2018-08"
+        ],
+        "ne": [
+            "US",
+            "Manafort",
+            "DOJ",
+            "Messenger",
+            "DACA",
+            "DC",
+            "Guant\u00e1namo Detainees",
+            "Russian",
+            "Facebook",
+            "Jury",
+            "Washington Manafort",
+            "Trump",
+            "Virginia",
+            "Mueller"
+        ],
+        "peaks": [],
+        "theme": [
+            "Manafort",
+            "trial",
+            "Trump",
+            "Judge",
+            "Another",
+            "case",
+            "Day"
+        ],
+        "timestamp": "2018-08-19 06:10:28.073563-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b7842b3421aa932a07020db",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/1b/92/db63bf7847fb8177221c5ab3e302/180817-donald-trump-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump: Manafort trial is a 'very sad day for our country'",
+                    "ts": 1534605304,
+                    "twitterid": 1030835476444393472,
+                    "url": "https://www.politico.com/story/2018/08/17/paul-manafort-trial-trump-pardon-783133"
+                },
+                {
+                    "_id": "5b78890e421aa934ee5bf3c3",
+                    "date_month": "2018-08",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:2126aecdd4c44379a95861a4b8d52644/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Another trial looms for ex-Trump campaign chairman Manafort",
+                    "ts": 1534625048,
+                    "twitterid": 1030918288602222592,
+                    "url": "https://www.apnews.com/3b999f5a776547d7bdb1fb340817a689/Another-trial-looms-for-ex-Trump-campaign-chairman-Manafort?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5b77fc5c421aa92fc2088f27",
+                    "date_month": "2018-08",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/17/0/0/694940094001_5823593408001_5823594275001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Judge in Manafort trial says he's been threatened over case",
+                    "ts": 1534587216,
+                    "twitterid": 1030759610351857664,
+                    "url": "http://www.foxnews.com/politics/2018/08/17/judge-in-manafort-trial-says-hes-been-threatened-over-case.html"
+                },
+                {
+                    "_id": "5b78c143421aa93a47854cbc",
+                    "date_month": "2018-08",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/08/16/da4b63c2-9175-422b-932d-f0edaf459dce/thumbnail/1200x630/a488fbe5c46a404e46f43616318942a4/gettyimages-975251610.jpg",
+                    "origin": "CBS News",
+                    "title": "Another trial looms for Manafort and prosecutors have a new set of charges",
+                    "ts": 1534639685,
+                    "twitterid": 1030979681191911424,
+                    "url": "https://www.cbsnews.com/news/another-trial-looms-for-manafort-and-prosecutors-have-a-new-set-of-charges/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b78be433ed3f00001f4b342&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b7842b3421aa932a07020e2",
+                    "date_month": "2018-08",
+                    "image": "https://static.politico.com/c0/db/eb708df64841924f12773c46a1fa/180717-manafort-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Manafort trial Day 14: Jury 'scared' as it heads home without a verdict",
+                    "ts": 1534604811,
+                    "twitterid": 1030833408832950272,
+                    "url": "https://www.politico.com/story/2018/08/17/manafort-verdict-latest-news-updates-783089"
+                },
+                {
+                    "_id": "5b78c143421aa93a47854cdc",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/xCifrXvaYnEzDViX3BeSD_WhbAI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FTODBMG4EAYVTF5PAZJEJATSAM.jpg",
+                    "origin": "Washington Post",
+                    "title": "Is President Trump trying to tamper with the Manafort jury?",
+                    "ts": 1534637527,
+                    "twitterid": 1030970630483726336,
+                    "url": "https://www.washingtonpost.com/blogs/post-partisan/wp/2018/08/17/is-president-trump-trying-to-tamper-with-the-manafort-jury/?utm_term=.c61ad70bc29a&tid=sm_tw"
+                },
+                {
+                    "_id": "5b7842b3421aa932a07020e1",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/08/immigration_daca_05057_s2048x1447.jpg?e264797c9092a38707a7a0b967d3ef29788370f3",
+                    "origin": "The Washington Times",
+                    "title": "Judge halts full DACA restart",
+                    "ts": 1534604925,
+                    "twitterid": 1030833888418062338,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/18/judge-halts-full-daca-restart/?cache"
+                },
+                {
+                    "_id": "5b7850c1421aa933252f8363",
+                    "date_month": "2018-08",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2016/07/27/facebook_getting_pushy_with_messenger_s2048x1463.jpeg?d5a0182cecc1786a8270eb7f46f8a7dc44496a6a",
+                    "origin": "The Washington Times",
+                    "title": "Facebook pressured by DOJ to decrypt communications in MS-13 gang case: Report",
+                    "ts": 1534608386,
+                    "twitterid": 1030848403926921216,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/18/facebook-pressured-doj-decrypt-communications-ms-1/"
+                },
+                {
+                    "_id": "5b786ce2421aa93419e6820d",
+                    "date_month": "2018-08",
+                    "image": "https://static01.nyt.com/images/2018/08/18/world/18gitmo1_xp/18gitmo1_xp-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Judge Bars Statements Made by Guant\u00e1namo Detainees During F.B.I. Interrogations",
+                    "ts": 1534616524,
+                    "twitterid": 1030882535771918338,
+                    "url": "https://www.nytimes.com/2018/08/17/us/politics/guantanamo-detainees-fbi-interrogations.html"
+                },
+                {
+                    "_id": "5b7850c1421aa933252f835d",
+                    "date_month": "2018-08",
+                    "image": "https://www.washingtonpost.com/resizer/TaCqfjuOw-uSbdF26KDDkrP7J6U=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P5AM7MERHII6RLSZAGEA5LC7DU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Justice Department seeks to halt lawsuit involving President Trump\u2019s business",
+                    "ts": 1534609022,
+                    "twitterid": 1030851071189704707,
+                    "url": "https://www.washingtonpost.com/politics/justice-department-seeks-to-halt-lawsuit-involving-president-trumps-business/2018/08/17/0633c454-a23f-11e8-8e87-c869fe70a721_story.html?utm_term=.b4c2e822e339&tid=sm_tw"
+                }
+            ]
+        ]
+    }
+]

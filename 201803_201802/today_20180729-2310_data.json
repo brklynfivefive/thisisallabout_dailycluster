@@ -1,0 +1,1890 @@
+[
+    {
+        "list": [
+            45
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "New York",
+            "Lincoln",
+            "Democratic Party",
+            "Pennsylvania",
+            "Bannon",
+            "Georgia",
+            "Massachusetts Joaquin Castro",
+            "America",
+            "Blue Wave",
+            "California",
+            "Eric Holder",
+            "Blue Wall",
+            "House",
+            "Barbara Lee",
+            "White House",
+            "Iowa",
+            "Trump",
+            "RNC",
+            "Southern",
+            "Dems",
+            "Michigan Democrats",
+            "Republican",
+            "Cynthia Nixon",
+            "GOP House",
+            "Kochs",
+            "Wilderness",
+            "Race",
+            "Russian",
+            "U.S.",
+            "Health Care",
+            "Partisan Podcast",
+            "Trump Is Right",
+            "Democratic"
+        ],
+        "peaks": [],
+        "theme": [
+            "Democratic",
+            "Trump",
+            "election",
+            "midterms",
+            "House",
+            "poll",
+            "Dems"
+        ],
+        "timestamp": "2018-07-29 23:10:16.141236-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5e7157421aa97cce9854c8",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2017_31/2094381/170803-trump-rally-crowd-ac-844p_3f2e9e6ed6e919766f7eaf6c341925c0.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "NBC/WSJ poll: Trump is stronger with the base, weaker with the middle",
+                    "ts": 1532914076,
+                    "twitterid": 1023741952431407106,
+                    "url": "https://www.nbcnews.com/politics/first-read/nbc-wsj-poll-trump-stronger-base-weaker-middle-n893601?cid=par-twitter-feed_20180730"
+                },
+                {
+                    "_id": "5b5dac6b421aa97438a0cba2",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/lewandowskicorey11082017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Lewandowski: If Dems win control of the House the country will \u2018go backwards\u2019",
+                    "ts": 1532865422,
+                    "twitterid": 1023537885436436481,
+                    "url": "http://thehill.com/homenews/news/399367-lewandowski-if-dems-win-control-of-the-house-the-country-will-go-backwards"
+                },
+                {
+                    "_id": "5b5dac6b421aa97438a0cbbc",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/26/gettyimages-967878464voting_wide-6423313c64aa79060d8ca81ddfe99f1621a7180d.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Anticipating A Russian Attack On The 2018 Election: What If Trump Is Right?",
+                    "ts": 1532862276,
+                    "twitterid": 1023524687345725441,
+                    "url": "https://www.npr.org/2018/07/29/632830295/anticipating-a-russian-attack-on-the-2018-election-what-if-trump-is-right?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b5e5536421aa979c59a30b8",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/26/medical-appointment-doctor-healthcare-40568_s2048x1365.jpeg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Health care heats up election debate",
+                    "ts": 1532907300,
+                    "twitterid": 1023713532280537088,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/29/health-care-heats-election-debate/"
+                },
+                {
+                    "_id": "5b5dba82421aa974a44084f2",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/28/us/politics/28dc-dems-1/28dc-dems-1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Obscure Contest? Not When House Democrats Are This Divided",
+                    "ts": 1532865761,
+                    "twitterid": 1023539304205901824,
+                    "url": "https://www.nytimes.com/2018/07/29/us/politics/house-democrats-leadership-fight.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5b5d49f6421aa970920fc0f6",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/84a688ab3e67f2805b53a6a35b4d39e21b611503.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The 2018 Midterms Are All About Health Care",
+                    "ts": 1532836820,
+                    "twitterid": 1023417917424238592,
+                    "url": "https://newrepublic.com/article/150074/2018-midterms-health-care"
+                },
+                {
+                    "_id": "5b5e6352421aa97c7b7b2453",
+                    "date_month": "2018-07",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_26/2483156/180630-immigration-protest-washington-al-1516_445a7a9e34bd5c4ac3f5dc7b4e79aecd.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "Why the political world may be underestimating Dems in 2018",
+                    "ts": 1532909554,
+                    "twitterid": 1023722986174664704,
+                    "url": "https://www.nbcnews.com/politics/first-read/why-political-world-may-be-underestimating-dems-2018-n895206?cid=par-twitter-feed_20180730"
+                },
+                {
+                    "_id": "5b5de4b2421aa9765b0a48ba",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180706063549-02-trump-montana-07-05-2018-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "There are 100 days to the midterm election. Here's what to watch",
+                    "ts": 1532877310,
+                    "twitterid": 1023587746424741889,
+                    "url": "https://www.cnn.com/2018/07/29/politics/100-days-until-midterms-outlook/index.html?utm_source=twCNN&utm_term=image&utm_medium=social&utm_content=2018-07-29T15%3A15%3A09"
+                },
+                {
+                    "_id": "5b5e00d1421aa9772fe34059",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/electionvotevoters_052318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP rep: \u2018Things are moving our way\u2019 ahead of midterms",
+                    "ts": 1532883904,
+                    "twitterid": 1023615400649674752,
+                    "url": "http://thehill.com/homenews/campaign/399397-gop-rep-things-are-moving-our-way-ahead-of-midterms"
+                },
+                {
+                    "_id": "5b5e0ee8421aa977d0d7a74c",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/voting_110717gn9_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Buckle your seatbelts for 100 days of political drama before midterms",
+                    "ts": 1532887985,
+                    "twitterid": 1023632518384365569,
+                    "url": "http://thehill.com/opinion/campaign/399399-buckle-your-seatbelts-for-100-days-of-political-drama-before-midterms"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            6
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Duchess Meghan",
+            "Thomas Markle",
+            "Wetherspoon",
+            "Brexit",
+            "Impossible Choice",
+            "British Tell Better Children"
+        ],
+        "peaks": [],
+        "theme": [
+            "Brexit",
+            "British",
+            "accents",
+            "alongside",
+            "Americans",
+            "attractive",
+            "Better"
+        ],
+        "timestamp": "2018-07-29 23:10:16.562385-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5dba82421aa974a44084dc",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2016/06/07/7ba623c4-88d6-4688-9855-2c7facf6fbb6/thumbnail/1200x630/abaae66e4f0e14749503cd77e499e821/istock31577648medium.jpg",
+                    "origin": "CBS News",
+                    "title": "The regional accents Americans find the most \u2013 and least \u2013 attractive",
+                    "ts": 1532867584,
+                    "twitterid": 1023546951319662592,
+                    "url": "https://www.cbsnews.com/news/american-accents-most-and-least-attractive-yougov-poll/"
+                },
+                {
+                    "_id": "5b5d742b421aa972d2e0207d",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2016/01/lion_witch_wardrobe/facebook.jpg?1522797779",
+                    "origin": "The Atlantic",
+                    "title": "Why the British Tell Better Children\u2019s Stories",
+                    "ts": 1532849403,
+                    "twitterid": 1023470696083664896,
+                    "url": "https://www.theatlantic.com/entertainment/archive/2016/01/why-the-british-tell-better-childrens-stories/422859/?utm_campaign=the-atlantic&utm_content=5b5d6cfa04d301276f5ea9fa_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b5e0ee8421aa977d0d7a735",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_30/2508486/180725-world-brexit-pub-gv-0250_2474c417f2c92c9a49c1403ef266252e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "J.D. Wetherspoon's pub tycoon pushes Brexit alongside pints",
+                    "ts": 1532889961,
+                    "twitterid": 1023640805846728704,
+                    "url": "https://www.nbcnews.com/storyline/brexit-referendum/j-d-wetherspoon-s-pub-tycoon-pushes-brexit-alongside-pints-n893611?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5e7f67421aa97d230597d7",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/y5QnIGvNMG36TC77Oo93uAGy73Q=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KBYVXPUOS4I6RLSZAGEA5LC7DU.jpg",
+                    "origin": "Washington Post",
+                    "title": "British farmers worry: Who will pick the fruit after Brexit?",
+                    "ts": 1532916808,
+                    "twitterid": 1023753412918366208,
+                    "url": "https://www.washingtonpost.com/world/europe/british-farmers-worry-who-will-pick-the-fruit-after-brexit/2018/07/28/a597b9ec-7f03-11e8-a63f-7b5d2aba7ac5_story.html?tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Orthodox Jewish",
+            "Women",
+            "Hard",
+            "Guinea",
+            "Sexual Harassment Meet New Orleans",
+            "Umpire Uniform",
+            "Bachelorette Party",
+            "Silicon Valley",
+            "Snub Bridezillas"
+        ],
+        "peaks": [],
+        "theme": [
+            "Women",
+            "Female",
+            "act",
+            "Bachelorette",
+            "Biker",
+            "break",
+            "Bridezillas"
+        ],
+        "timestamp": "2018-07-29 23:10:16.979893-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5d9e5b421aa973d9d99733",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19593/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "The Bachelorette Party\u2019s Over: Venues Snub Bridezillas and Their Entourages",
+                    "ts": 1532859306,
+                    "twitterid": 1023512230720167936,
+                    "url": "https://www.wsj.com/articles/the-bachelorette-partys-over-venues-snub-bridezillas-and-their-entourages-1532704297?mod=e2tw"
+                },
+                {
+                    "_id": "5b5d8237421aa973210cf0e7",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/29/arts/29surfacing-curves1/05-surfacing-curves1-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Meet New Orleans\u2019s All-Female Biker Club",
+                    "ts": 1532852466,
+                    "twitterid": 1023483543941345280,
+                    "url": "https://www.nytimes.com/2018/07/28/us/meet-new-orleanss-all-female-biker-club.html?partner=socialflow&smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b5dc891421aa9757b7ec242",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/i9iL1Skyd0E6Ucts3LruIJ1_B7c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36E44JP4RE67TMGGEHVWDUQADA.jpg",
+                    "origin": "Washington Post",
+                    "title": "In a break with tradition, Orthodox Jewish women are leading synagogues",
+                    "ts": 1532869396,
+                    "twitterid": 1023554551394250752,
+                    "url": "https://www.washingtonpost.com/news/acts-of-faith/wp/2018/07/28/in-a-break-with-tradition-orthodox-jewish-women-are-leading-synagogues/?utm_term=.299a7f15bf62&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5de4b2421aa9765b0a48b9",
+                    "date_month": "2018-07",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_30/2087681/170728-kirsten-gillibrand-mn-1325_76d4e16df55d411b283cbd408e9e083a.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "'Giving circles': Female fundraisers are powering women candidates",
+                    "ts": 1532877400,
+                    "twitterid": 1023588120846061569,
+                    "url": "https://www.nbcnews.com/politics/elections/giving-circles-female-fundraisers-are-powering-women-candidates-n895276?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5e0ee8421aa977d0d7a74d",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/dN2D97z6zHL8eeOv8wmQGFOfB0k=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZMJRPE2EC45NVJJENUA6GWNLRM.jpg",
+                    "origin": "Washington Post",
+                    "title": "To succeed in Silicon Valley, you still have to act like a man",
+                    "ts": 1532887827,
+                    "twitterid": 1023631855998984192,
+                    "url": "https://www.washingtonpost.com/news/posteverything/wp/2018/07/24/to-succeed-in-silicon-valley-you-still-have-to-act-like-a-man/?utm_term=.d9cc80b95778&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5e00d1421aa9772fe3403c",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/uniform_discrimination_piece_photo/facebook.jpg?1531856539",
+                    "origin": "The Atlantic",
+                    "title": "Why Is It So Hard to Find an Umpire Uniform for Women?",
+                    "ts": 1532886868,
+                    "twitterid": 1023627834441510913,
+                    "url": "https://www.theatlantic.com/business/archive/2018/07/women-umpires/564641/?utm_content=edit-promo&utm_term=2018-07-25T10%3A59%3A32&utm_source=twitter&utm_campaign=the-atlantic&utm_medium=social"
+                },
+                {
+                    "_id": "5b5dac6b421aa97438a0cbbe",
+                    "date_month": "2018-07",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_30/2507901/180724-woman-laptop-night-se-407p_ef3bce218c6af4a7925bc491f5f1056b.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "When no one is looking, many women are watching gay porn",
+                    "ts": 1532862128,
+                    "twitterid": 1023524067360555009,
+                    "url": "https://www.nbcnews.com/feature/nbc-out/when-no-one-looking-many-women-are-watching-gay-porn-n894266?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            57
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "America Giuliani",
+            "Donald Trump",
+            "Capitol Hill Giuliani",
+            "US Trump",
+            "Trump Tower",
+            "Discredit Michael Cohen Robert Mueller",
+            "Stormy Daniels",
+            "Michael Cohen Giuliani",
+            "John Kelly",
+            "Trump Allies Seek",
+            "Cohen",
+            "Dan Rather",
+            "Mueller",
+            "Giuliani",
+            "Trump Giuliani",
+            "America Great",
+            "Taylor Swift",
+            "Jake Tapper",
+            "Trump Twelve",
+            "Trump",
+            "Russia",
+            "Afghanistan",
+            "China",
+            "Dershowitz",
+            "Nixon",
+            "Avenatti",
+            "Moscow",
+            "German",
+            "SUVs",
+            "Russian",
+            "Cohen Trump",
+            "MSNBC",
+            "Orwell",
+            "Trump Trump",
+            "Dem",
+            "Michael Cohen",
+            "Cohen Clinton",
+            "Senate Dem",
+            "Putin",
+            "WSJ Washington Post"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Cohen",
+            "Giuliani",
+            "Reporter",
+            "Avenatti",
+            "Michael",
+            "lawyer"
+        ],
+        "timestamp": "2018-07-29 23:10:17.756357-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5d3bf9421aa9703e6f0669",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/giuliania_050318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Giuliani targets Cohen lawyer: He and Cohen are 'deceivers'",
+                    "ts": 1532834166,
+                    "twitterid": 1023406788371251201,
+                    "url": "http://thehill.com/homenews/administration/399376-giuliani-targets-cohen-lawyer-he-and-cohen-are-deceivers"
+                },
+                {
+                    "_id": "5b5de4b2421aa9765b0a48c1",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/bc/1f/cdcb17564333bedc27356214e7b5/170112-rudy-giuliani-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Giuliani steps up attacks on 'scoundrel' Michael Cohen",
+                    "ts": 1532876801,
+                    "twitterid": 1023585611498876931,
+                    "url": "https://www.politico.com/story/2018/07/29/giuliani-cohen-scoundrel-747479"
+                },
+                {
+                    "_id": "5b5d5809421aa9717f6ecfd9",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/giuliania_050318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump\u2019s former lawyer criticizes Giuliani for \u2018damaging Trump's case immeasurably\u2019",
+                    "ts": 1532840468,
+                    "twitterid": 1023433218010304512,
+                    "url": "http://thehill.com/homenews/administration/399317-trumps-former-lawyer-criticizes-giuliani-for-damaging-trumps-case?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b5e6352421aa97c7b7b2440",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-20009/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Trump Allies Seek to Discredit Michael Cohen",
+                    "ts": 1532910611,
+                    "twitterid": 1023727418505396225,
+                    "url": "https://www.wsj.com/articles/trump-allies-seek-to-discredit-michael-cohen-1532908913?mod=e2tw"
+                },
+                {
+                    "_id": "5b5d3bf9421aa9703e6f0664",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/05/13/0/0/694940094001_5784113672001_5784110668001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Judge indicates Stormy Daniels' lawyer, Avenatti, unlikely to be gagged",
+                    "ts": 1532834759,
+                    "twitterid": 1023409275115372544,
+                    "url": "http://www.foxnews.com/politics/2018/07/28/judge-indicates-stormy-daniels-lawyer-avenatti-unlikely-to-be-gagged.html"
+                },
+                {
+                    "_id": "5b5dc891421aa9757b7ec21d",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/6b/ce/a58bd32345b0bfe4c6173cec3ff6/180725-michael-cohen-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Clinton fixer engineers Michael Cohen\u2019s turn against Trump",
+                    "ts": 1532872678,
+                    "twitterid": 1023568316080824321,
+                    "url": "https://www.politico.com/story/2018/07/25/michael-cohen-davis-clinton-trump-742734"
+                },
+                {
+                    "_id": "5b5e0ee8421aa977d0d7a74b",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/28/f6/27eac28047ada8a709086da1b85b/20180511-rudy-giuliani-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Giuliani: Cohen and Trump's legal teams have severed ties",
+                    "ts": 1532888040,
+                    "twitterid": 1023632748211257349,
+                    "url": "https://www.politico.com/story/2018/07/28/giuliani-cohen-trump-legal-teams-separated-747466"
+                },
+                {
+                    "_id": "5b5e4725421aa979620706ca",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_witt_cohen_180729_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Dem Congressman: Cohen, Giuliani, Trump 'pathological liars'",
+                    "ts": 1532903527,
+                    "twitterid": 1023697706626281473,
+                    "url": "https://www.msnbc.com/weekends-with-alex-witt/watch/dem-congressman-cohen-giuliani-trump-pathological-liars-1287936067758?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b5de4b2421aa9765b0a48b8",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/cohenmichael_trumpdonald_070218getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Giuliani: Trump 'discussed at any length' on a dozen Cohen recordings",
+                    "ts": 1532877425,
+                    "twitterid": 1023588226378940416,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/399395-giuliani-trump-discussed-at-any-length-on-a-dozen-cohen-recordings"
+                },
+                {
+                    "_id": "5b5de4b2421aa9765b0a48c2",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_cohenmichael_072118getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Giuliani: Cohen claim that Trump knew of Trump Tower meeting 'flat out untrue'",
+                    "ts": 1532876705,
+                    "twitterid": 1023585209189650434,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/399390-giuliani-cohen-claim-that-trump-knew-of-trump-tower-meeting-flat"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            5
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Virginia",
+            "Black",
+            "Civil War Portrayals"
+        ],
+        "peaks": [],
+        "theme": [
+            "anti",
+            "Civil",
+            "white",
+            "Belt",
+            "Black",
+            "counterprotest",
+            "dc"
+        ],
+        "timestamp": "2018-07-29 23:10:17.916369-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5e2b0c421aa978b04d6c7b",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/blm_2016.jpg",
+                    "origin": "The Hill",
+                    "title": "Black Lives Matter to stage counterprotest against 'White Civil Rights' rally in DC",
+                    "ts": 1532897584,
+                    "twitterid": 1023672780351590401,
+                    "url": "http://thehill.com/blogs/ballot-box/399425-black-lives-matter-to-stage-counterprotest-against-white-civil-rights-rally"
+                },
+                {
+                    "_id": "5b5de4b2421aa9765b0a48ad",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/pPkm6QHqiLgjnlyP76FZajOmj0g=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5HUAFZUMG4I6RHKZ3TGCYDFLZ4.jpg",
+                    "origin": "Washington Post",
+                    "title": "How white supremacists split a quiet Rust Belt town",
+                    "ts": 1532878355,
+                    "twitterid": 1023592128923021312,
+                    "url": "https://www.washingtonpost.com/politics/how-white-supremacists-split-a-quiet-rust-belt-town/2018/07/28/15a7e414-85df-11e8-8f6c-46cb43e3f306_story.html?utm_term=.95d56f8601bc&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5d742b421aa972d2e02073",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/26/fashion/29racerelated5/29racerelated5-facebookJumbo-v2.jpg",
+                    "origin": "NYT National News",
+                    "title": "Civil War Portrayals\u2019 Glaring Omission",
+                    "ts": 1532851206,
+                    "twitterid": 1023478258405400576,
+                    "url": "https://www.nytimes.com/2018/07/28/us/civil-war-portrayals-glaring-omission.html?partner=socialflow&smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5b5dc891421aa9757b7ec228",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/swastika_carmelsynagogue.png",
+                    "origin": "The Hill",
+                    "title": "Indiana synagogue vandalized with anti-Semitic graffiti",
+                    "ts": 1532872146,
+                    "twitterid": 1023566084669145088,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/399386-indiana-synagogue-vandalized-with-anti-semitic-graffiti"
+                },
+                {
+                    "_id": "5b5e7f67421aa97d230597c8",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/XJpu_FhXiEPbIDTYz9ljrKWetxk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KZ37VVUR4QI6RLSZAGEA5LC7DU.jpg",
+                    "origin": "Washington Post",
+                    "title": "A racist flier in a Virginia neighborhood led to hundreds of anti-hate displays",
+                    "ts": 1532918512,
+                    "twitterid": 1023760558259163136,
+                    "url": "https://www.washingtonpost.com/local/the-losing-math-of-hate/2018/07/28/87ee562c-91b3-11e8-b769-e3fff17f0689_story.html?utm_term=.f684a1d078e2&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            11
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Dear Life",
+            "Hurricanes",
+            "Holding",
+            "Too Much",
+            "Hitch",
+            "Malaria",
+            "Caribbean Lizards Are Better"
+        ],
+        "peaks": [],
+        "theme": [
+            "one",
+            "much",
+            "pounds",
+            "actually",
+            "aids",
+            "asleep",
+            "beach"
+        ],
+        "timestamp": "2018-07-29 23:10:18.295530-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5e7f67421aa97d230597c4",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2017_21/2015141/170526-better-sleep-main-art-se-1218p_8e28368c85fa247e854bb4b556f9c2ac.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "14 smart products and sleep aids to help you fall asleep faster",
+                    "ts": 1532918768,
+                    "twitterid": 1023761631636008962,
+                    "url": "https://www.nbcnews.com/better/health/14-smart-products-help-you-fall-asleep-faster-ncna765111?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5d9e5b421aa973d9d99726",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_30/2507891/better_lexidannyreed_5e9443e083c8b30aece96f90ff575acf.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "How one couple lost more than 400 pounds",
+                    "ts": 1532860444,
+                    "twitterid": 1023517004693692416,
+                    "url": "https://www.nbcnews.com/better/health/how-one-couple-lost-more-400-pounds-ncna894101?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5d49f6421aa970920fc0e4",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_29/2500816/better_janellewrightweightloss3_0f650f59614d047bac3f46b8b6640e4b.1200;630;7;70;5.jpeg",
+                    "origin": "NBC News",
+                    "title": "How one woman used intermittent fasting to lose 65 pounds in six months",
+                    "ts": 1532838722,
+                    "twitterid": 1023425896437428225,
+                    "url": "https://www.nbcnews.com/better/health/how-one-woman-used-intermittent-fasting-lose-65-pounds-six-ncna892131?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5e7157421aa97cce9854db",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2017_30/2086576/170727-relaxing-beach-umbrellas-ac-446p_fc5a816160860464fb692202890bbb9f.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "What the beach does to your brain",
+                    "ts": 1532912465,
+                    "twitterid": 1023735197798416386,
+                    "url": "https://www.nbcnews.com/better/health/what-beach-does-your-brain-ncna787231?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5e7157421aa97cce9854ba",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/HHC5X5zDQEiuGLLntFVwUMhzRAk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RUGSR2UJ5AI6RHKZ3TGCYDFLZ4.jpg",
+                    "origin": "Washington Post",
+                    "title": "How to actually fit in a workout, at every stage of parenthood",
+                    "ts": 1532915294,
+                    "twitterid": 1023747061928345601,
+                    "url": "https://www.washingtonpost.com/lifestyle/on-parenting/how-to-actually-fit-in-a-workout-at-every-stage-of-parenthood/2018/07/23/dc22e5c0-892d-11e8-85ae-511bc1146b0b_story.html?utm_term=.7f191cdbb7ad&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5d5809421aa9717f6ecfdb",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BE517_WorkFa_SOC_20180720163314.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "You Could Be Too Much of a Team Player",
+                    "ts": 1532840414,
+                    "twitterid": 1023432991455014912,
+                    "url": "https://www.wsj.com/articles/you-could-be-too-much-of-a-team-player-1532352464?mod=e2tw"
+                },
+                {
+                    "_id": "5b5e3921421aa9790a1bc40b",
+                    "date_month": "2018-07",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_30/2511836/180727-vacation-al-1335_bbe43aec3f71de8929b551c1f5d023b5.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "How to take a vacation now \u2014 no matter how much time you have off work",
+                    "ts": 1532898965,
+                    "twitterid": 1023678574950330369,
+                    "url": "https://www.nbcnews.com/better/health/how-take-vacation-now-no-matter-how-much-time-you-ncna895271?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5d8237421aa973210cf0e9",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/26/mosquito-jp_wide-f9b2e30ea021862944888cdd4327a21022e0b95b.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "New Drug Wipes Out Malaria In A Single Dose \u2014 But There's One Hitch",
+                    "ts": 1532852100,
+                    "twitterid": 1023482006166859776,
+                    "url": "https://www.npr.org/sections/goatsandsoda/2018/07/26/631922706/new-drug-wipes-out-malaria-in-a-single-dose-but-theres-one-hitch?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180726&utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180728"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            49
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "AI",
+            "Holy Grail",
+            "None",
+            "Donald Trump",
+            "LeBron James",
+            "Tom Brady",
+            "Nurse",
+            "Feminist Legacy",
+            "Anxiety Student",
+            "Tattoo Father John Misty",
+            "Navajo Nation Arkansas",
+            "Rebuilds For The Future Computer",
+            "Extreme",
+            "Baseball Performance How Essential Oils",
+            "Virtual Reality",
+            "Indiana",
+            "Marginalia How",
+            "Orange",
+            "Cinema",
+            "Amazon Marlene Dietrich",
+            "Nick Jonas",
+            "Garrett Shider",
+            "New Black Is",
+            "Beach",
+            "China",
+            "Boxcar Children",
+            "Worth Watching Family",
+            "Elgin",
+            "Aziz",
+            "NYC",
+            "Himself Hundreds",
+            "Quest",
+            "Ludlow",
+            "Tragic Lessons",
+            "Clark Booth",
+            "Brady",
+            "Write",
+            "Spirit",
+            "NICU"
+        ],
+        "peaks": [],
+        "theme": [
+            "Old",
+            "years",
+            "father",
+            "Summer",
+            "baby",
+            "boat",
+            "captures"
+        ],
+        "timestamp": "2018-07-29 23:10:20.019044-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5d9044421aa9737b707f5e",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2018/07/27/6-year-old-shares-touching-skin-to-skin-moment-with-baby-brother-in-nicu/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532711193476.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "6-year-old shares touching skin-to-skin moment with baby brother in NICU",
+                    "ts": 1532856879,
+                    "twitterid": 1023502052499120128,
+                    "url": "http://www.foxnews.com/health/2018/07/27/6-year-old-shares-touching-skin-to-skin-moment-with-baby-brother-in-nicu.html"
+                },
+                {
+                    "_id": "5b5d9044421aa9737b707f68",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/JBuSYePYISfppd8dOFG9tIesxPY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ULBYFLD3YMI6RLCOIIPPOFSZEM.jpg",
+                    "origin": "Washington Post",
+                    "title": "His father was a P-Funk star. It took Garrett Shider years to appreciate what that meant.",
+                    "ts": 1532855925,
+                    "twitterid": 1023498051850260482,
+                    "url": "https://www.washingtonpost.com/lifestyle/magazine/his-father-was-a-p-funk-star-it-took-garrett-shider-years-to-appreciate-what-that-meant/2018/07/23/0477967a-78b1-11e8-80be-6d32e182a3bc_story.html?utm_term=.4826c2402b6f&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5e00d1421aa9772fe34053",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/59097c75c14b3c606c109658/16:9/w_1200,h_630,c_limit/Hauser-TheFeministLegacyoftheTheBaby-SittersClub_01.jpg",
+                    "origin": "The New Yorker",
+                    "title": "The Feminist Legacy of the Baby-Sitters Club",
+                    "ts": 1532884388,
+                    "twitterid": 1023617431049330688,
+                    "url": "https://www.newyorker.com/books/page-turner/the-feminist-legacy-of-the-baby-sitters-club?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b5dba82421aa974a44084d8",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/5b21569087016730a4fd036b/16:9/w_1200,h_630,c_limit/TNY-What-Were-Reading-This-Summer-2018.jpg",
+                    "origin": "The New Yorker",
+                    "title": "What We\u2019re Reading This Summer",
+                    "ts": 1532868016,
+                    "twitterid": 1023548762323599361,
+                    "url": "https://www.newyorker.com/books/page-turner/what-were-reading-this-summer-2018?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b5dc891421aa9757b7ec232",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/25/7_252018_andrew-alexander-na8201_s1534x2048.jpg?1a115318f4a7c3966d08de5a8dbef60682e76b6e",
+                    "origin": "The Washington Times",
+                    "title": "Remembering a father, husband and veteran",
+                    "ts": 1532871009,
+                    "twitterid": 1023561316731109376,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/25/remembering-a-father-husband-and-veteran/"
+                },
+                {
+                    "_id": "5b5d6618421aa9726f5c0d1e",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BF610_tattoo_SOC_20180725155523.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "You\u2019re Not Too Old for a Tattoo",
+                    "ts": 1532845807,
+                    "twitterid": 1023455612590600192,
+                    "url": "https://www.wsj.com/articles/too-old-for-a-tattoo-not-these-ceos-1532540138?mod=e2tw"
+                },
+                {
+                    "_id": "5b5dba82421aa974a44084d1",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/26/18d97c1e-3426-4051-86db-0e317edc9bad/thumbnail/1200x630/4073a962d74c1a915dd0952621d85250/screen-shot-2018-07-26-at-3-55-37-pm.png",
+                    "origin": "CBS News",
+                    "title": "Nurse captures heartwarming photo of elderly couple in NYC subway",
+                    "ts": 1532868486,
+                    "twitterid": 1023550732895756293,
+                    "url": "https://www.cbsnews.com/news/elderly-couple-photo-subway-nyc-blake-ricker-twitter-social-media-karen-kettering-dimit/"
+                },
+                {
+                    "_id": "5b5d6618421aa9726f5c0d24",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/5942b7a9beb38936ce3f29d6/16:9/w_1200,h_630,c_limit/170626_r30169.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Father John Misty\u2019s Quest to Explain Himself",
+                    "ts": 1532845167,
+                    "twitterid": 1023452928626110469,
+                    "url": "https://www.newyorker.com/magazine/2017/06/26/father-john-mistys-quest-to-explain-himself?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b5d6618421aa9726f5c0d25",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/27/c1274060-abcc-4db7-8e16-9757f71b97a9/thumbnail/1200x630/6f23aec57a553494d08406f2c1170d11/ap-18208709743497.jpg",
+                    "origin": "CBS News",
+                    "title": "Hundreds attend funeral for Indiana family members killed in duck boat accident",
+                    "ts": 1532845084,
+                    "twitterid": 1023452578305269760,
+                    "url": "https://www.cbsnews.com/news/missouri-duck-boat-accident-victims-funeral-father-kids-killed-2018-07-27/"
+                },
+                {
+                    "_id": "5b5e7f67421aa97d230597ce",
+                    "date_month": "2018-07",
+                    "image": "https://apps.bostonglobe.com/sports/graphics/2018/07/lebron-james/assets/images/lebron-og.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "An oral history of LeBron James and the 2003 UMass-Boston Summer League",
+                    "ts": 1532917863,
+                    "twitterid": 1023757838018068480,
+                    "url": "https://apps.bostonglobe.com/sports/graphics/2018/07/lebron-james/?p1=HP_Special&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Trump And New York Times Publisher Clash",
+            "Donald Trump",
+            "America Trump",
+            "NY Times",
+            "NYT",
+            "Trump",
+            "New York Times"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Publisher",
+            "Times",
+            "media",
+            "New",
+            "York",
+            "calls"
+        ],
+        "timestamp": "2018-07-29 23:10:20.256204-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5e2b0c421aa978b04d6c92",
+                    "date_month": "2018-07",
+                    "image": "http://www.latimes.com/resizer/IVJWyWsiCyFQXDgg426HeEw_w7E=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/M4Z66QSZV5GLRAQP5WETCWBSWU.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Trump urged by New York Times publisher to stop his inflammatory rhetoric against the media",
+                    "ts": 1532895307,
+                    "twitterid": 1023663228356710402,
+                    "url": "https://www.latimes.com/nation/la-na-pol-trump-media-20180729-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b5e2b0c421aa978b04d6c90",
+                    "date_month": "2018-07",
+                    "image": "https://amp.businessinsider.com/images/5b5e12080ce5f519008b47fe-1536-768.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Trump lashes out at media hours after revealing 'very good' meeting with New York Times publisher",
+                    "ts": 1532895783,
+                    "twitterid": 1023665227282436096,
+                    "url": "https://www.businessinsider.com/trump-tweet-storm-media-2018-7"
+                },
+                {
+                    "_id": "5b5dc891421aa9757b7ec240",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/trumppressconference2_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump meets with New York Times publisher to discuss \u2018fake news\u2019",
+                    "ts": 1532869554,
+                    "twitterid": 1023555213939097600,
+                    "url": "http://thehill.com/homenews/administration/399381-trump-meets-with-new-york-times-publisher-to-discuss-fake-news"
+                },
+                {
+                    "_id": "5b5e2b0c421aa978b04d6c9b",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/28/0/0/694940094001_5815062829001_5815067742001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump fires back at 'insane' media after NY Times publisher calls rhetoric 'divisive' and 'dangerous'",
+                    "ts": 1532894526,
+                    "twitterid": 1023659954098585600,
+                    "url": "http://www.foxnews.com/politics/2018/07/29/trump-fires-back-at-insane-media-after-ny-times-publisher-calls-rhetoric-divisive-and-dangerous.html"
+                },
+                {
+                    "_id": "5b5e4725421aa979620706bc",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/29/gettyimages-950432724_wide-eba32b26f43579f42e25ae492e0c1ae042342542.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Trump And New York Times Publisher Clash Over Their Private Meeting",
+                    "ts": 1532904904,
+                    "twitterid": 1023703481306083328,
+                    "url": "https://www.npr.org/2018/07/29/633677391/trump-and-new-york-times-publisher-clash-over-their-private-meeting?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b5dc891421aa9757b7ec226",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/27/Trump_14313.jpg-1b4f1_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219",
+                    "origin": "The Washington Times",
+                    "title": "Trump says he met with New York Times publisher, discussed fake news",
+                    "ts": 1532872302,
+                    "twitterid": 1023566738821181440,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/29/trump-says-he-met-with-new-york-times-publisher-di/"
+                },
+                {
+                    "_id": "5b5e1cf7421aa978409ccf5a",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_30/2513436/180729-sulzberger-arthur-gregg-mn-1155_b2b2a1c4d774346f3989c87d4774ad72.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "New York Times publisher says he chided Trump not to call press the enemy",
+                    "ts": 1532891098,
+                    "twitterid": 1023645577438027776,
+                    "url": "https://www.nbcnews.com/news/us-news/new-york-times-publisher-offers-different-take-meeting-trump-n895601?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5e3921421aa9790a1bc405",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/presto/2018/07/27/USAT/6f602c26-33e3-4943-86c6-cf03beb674de-AP_Trump.JPG?crop=3437,1933,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "New York Times publisher A.G. Sulzberger chides President Donald Trump over 'fake news' claims",
+                    "ts": 1532899204,
+                    "twitterid": 1023679573492416512,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/07/29/new-york-times-publisher-chides-donald-trump-over-fake-news-claims/859452002/"
+                },
+                {
+                    "_id": "5b5e1cf7421aa978409ccf44",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/donaldtrumppress_032417getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump blasts media, calls journalists 'very unpatriotic' for reporting on government affairs",
+                    "ts": 1532893266,
+                    "twitterid": 1023654670676500481,
+                    "url": "http://thehill.com/homenews/administration/399421-trump-calls-media-very-unpatriotic-for-reporting-on-government"
+                },
+                {
+                    "_id": "5b5dc891421aa9757b7ec220",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/rz7YVKuz7gkeCHXTvAXeR7Aj2Ng=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IDLMFDURVUI6RLSZAGEA5LC7DU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump says he called media \u2018enemy of the people\u2019 in meeting with N.Y. Times publisher",
+                    "ts": 1532872614,
+                    "twitterid": 1023568047297253377,
+                    "url": "https://www.washingtonpost.com/politics/trump-says-he-called-media-enemy-of-the-people-in-meeting-with-ny-times-publisher/2018/07/29/fec5adee-9330-11e8-810c-5fa705927d54_story.html?utm_term=.e1aa94126ec7&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            5
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Service Outage",
+            "Facebook",
+            "Future Employers Future",
+            "Hard Fall",
+            "MoviePass Is Cast",
+            "Doubt",
+            "New Land",
+            "Hire Try",
+            "Case Against"
+        ],
+        "peaks": [],
+        "theme": [
+            "Employers",
+            "Future",
+            "New",
+            "Big",
+            "Case",
+            "Cast",
+            "CEO"
+        ],
+        "timestamp": "2018-07-29 23:10:20.323725-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5dd6ad421aa975d8bcd4cf",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/89af4664519a5ea0c5c3b04d3716ee53bf22038d.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The Case Against Revealing Your Salary to Future Employers",
+                    "ts": 1532872822,
+                    "twitterid": 1023568921683742721,
+                    "url": "https://newrepublic.com/article/148859/gender-pay-gap-salary-history"
+                },
+                {
+                    "_id": "5b5e7f67421aa97d230597d5",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/30/autossell/30xp-moviepass/30xp-moviepass-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Future of MoviePass Is Cast in Doubt After Service Outage, Experts Say",
+                    "ts": 1532917144,
+                    "twitterid": 1023754820853923841,
+                    "url": "https://www.nytimes.com/2018/07/29/business/moviepass-service-outage-finances.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b5dba82421aa974a44084df",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-19619/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Employers Eager to Hire Try a New Policy: \u2018No Experience Necessary\u2019",
+                    "ts": 1532867404,
+                    "twitterid": 1023546195044696066,
+                    "url": "https://www.wsj.com/articles/employers-eager-to-hire-try-a-new-policy-no-experience-necessary-1532862000?mod=e2tw"
+                },
+                {
+                    "_id": "5b5d5809421aa9717f6ecfbe",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/lgbtequality_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "New Land O'Lakes CEO first openly gay woman to head Fortune 500 company",
+                    "ts": 1532843464,
+                    "twitterid": 1023445782958096384,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/399375-new-land-olakes-ceo-is-first-openly-gay-woman-to-head-fortune"
+                },
+                {
+                    "_id": "5b5d9e5b421aa973d9d9973b",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BG227_ONBIZ0_SOC_20180727124532.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Facebook\u2019s Hard Fall Shows the Pitfalls of Big Data",
+                    "ts": 1532858413,
+                    "twitterid": 1023508486439809024,
+                    "url": "https://www.wsj.com/articles/facebooks-hard-fall-shows-the-pitfalls-of-big-data-1532750496?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            6
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Indonesia",
+            "Earthquake Hits Indonesia Island"
+        ],
+        "peaks": [],
+        "theme": [
+            "Indonesia",
+            "earthquake",
+            "Death",
+            "hits",
+            "island",
+            "dead",
+            "hurt"
+        ],
+        "timestamp": "2018-07-29 23:10:20.400081-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5d49f6421aa970920fc0e7",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BG405_indqua_SOC_20180728225636.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "At Least 10 Dead, 40 Hurt as Earthquake Hits Indonesia Island",
+                    "ts": 1532838611,
+                    "twitterid": 1023425428109844480,
+                    "url": "https://www.wsj.com/articles/at-least-3-dead-12-hurt-as-earthquake-hits-indonesia-island-1532834374?mod=e2tw"
+                },
+                {
+                    "_id": "5b5d49f6421aa970920fc0ed",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b5d3f25/turbine/ct-earthquake-indonesia-island-20180728",
+                    "origin": "Chicago Tribune",
+                    "title": "At least 10 dead, 40 hurt as 6.4 quake hits Indonesia island",
+                    "ts": 1532838304,
+                    "twitterid": 1023424142337560576,
+                    "url": "http://www.chicagotribune.com/news/nationworld/ct-earthquake-indonesia-island-20180728-story.html"
+                },
+                {
+                    "_id": "5b5dc891421aa9757b7ec222",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_30/2513166/afp_1801kf_d8e2fa4868e0580cae82c2d55f2d1315.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Death toll reaches 14 after 6.4 earthquake hits Indonesia island",
+                    "ts": 1532872482,
+                    "twitterid": 1023567493766504448,
+                    "url": "https://www.nbcnews.com/news/world/least-3-dead-after-6-4-earthquake-hits-indonesia-island-n895551?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b5d49f6421aa970920fc0ee",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/07/29/indonesia-earthquake-results-in-multiple-deaths-injuries/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532836390378.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Indonesia earthquake results in multiple deaths, injuries",
+                    "ts": 1532838180,
+                    "twitterid": 1023423621392347136,
+                    "url": "http://www.foxnews.com/world/2018/07/29/indonesia-earthquake-results-in-multiple-deaths-injuries.html"
+                },
+                {
+                    "_id": "5b5dba82421aa974a44084ce",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/dam/fox-news/images/2018/07/29/indonesiaquake5.jpg.img.png/0/0/1532865708440.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "Indonesia earthquake in popular tourist area results in multiple deaths, over 160 people injured",
+                    "ts": 1532868974,
+                    "twitterid": 1023552783574818816,
+                    "url": "http://www.foxnews.com/world/2018/07/29/indonesia-earthquake-results-in-multiple-deaths-injuries.html"
+                },
+                {
+                    "_id": "5b5d6618421aa9726f5c0d18",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/29/rtx6d6ww_wide-f640eda17b899c20f2b9d881679726808e11a128.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Strong 6.4 Magnitude Quake Strikes Indonesia",
+                    "ts": 1532846344,
+                    "twitterid": 1023457865699225601,
+                    "url": "https://www.npr.org/2018/07/29/633512673/strong-6-4-magnitude-quake-strikes-indonesia?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            370
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Medics",
+            "Facebook",
+            "Trump Again Threatens",
+            "How Software",
+            "Former NY",
+            "Martin Luther King",
+            "Wisconsin",
+            "Mexico",
+            "Next Big Telescope",
+            "Keith Ellison",
+            "Andrew Brunson",
+            "Self Defense",
+            "Husband",
+            "Yosemite Valley",
+            "Family Says Services",
+            "Jos\u00e9",
+            "New Veterans Affairs",
+            "Missouri Boy",
+            "Stakes",
+            "EPA",
+            "US",
+            "Bill Shine",
+            "Sephora",
+            "UberPool",
+            "Want Your Money",
+            "Obamas",
+            "House",
+            "New York Soda",
+            "Demi Lovato",
+            "Large Charles Koch",
+            "Larry Fedora",
+            "Ellison",
+            "White House",
+            "Florida Senate",
+            "Mr. Pritzker",
+            "Endangered Species Act",
+            "MAC",
+            "Review",
+            "Manchester United Trump",
+            "Mike Pence",
+            "North Korea",
+            "Chinese Banking System Homeless",
+            "Scotland",
+            "Mizzou",
+            "Afford",
+            "Britain",
+            "Finally",
+            "New Orleans Shooting",
+            "Behavior",
+            "How",
+            "Northern California",
+            "Smiles",
+            "Duck",
+            "Fallout",
+            "Flint Braves",
+            "Germany",
+            "Chicago River",
+            "Rhode Island",
+            "NYC",
+            "Indian Cooks",
+            "Ciara",
+            "Supreme Court",
+            "Israeli",
+            "Europe",
+            "CBS",
+            "Atlanta Braves",
+            "NTSB",
+            "Populism",
+            "Camera Crushes Your",
+            "Sheldon Silver",
+            "Return",
+            "Geraint Thomas",
+            "Bush",
+            "Ferguson Fire",
+            "Erdogan",
+            "Startup Exchange",
+            "New York",
+            "Rudy Giuliani",
+            "Movement",
+            "Mormon Church",
+            "Greece Mourns Wildfire Victims",
+            "Grand Dam",
+            "Deadly California Wildfire Spreads Royals",
+            "Google",
+            "Classrooms",
+            "Jakob Junis",
+            "Mountain Between Us Jackie Bradley",
+            "Turkey",
+            "Associated Press News Red Sox",
+            "Business",
+            "American",
+            "Catholic",
+            "Senator Ben Cardin Neil Diamond",
+            "Bourbon Street",
+            "Jones Beach Toddler",
+            "Japan",
+            "Korean War",
+            "Maryland Report",
+            "Minneapolis",
+            "Box Office",
+            "Main Forms",
+            "JetBlue",
+            "Caroline",
+            "Zimbabwe",
+            "Charges",
+            "John Kelly",
+            "Role Teachers Would Play",
+            "Local Lawyers",
+            "Health",
+            "Great",
+            "Texas Man",
+            "Iranian",
+            "Charles Koch",
+            "How Silicon Valley",
+            "Parkland",
+            "Afghan Peace Process Death",
+            "Earth Cabinet",
+            "Mugabe Rails Against",
+            "Patients With 'Trump Anxiety Disorder",
+            "Mars",
+            "Jane Fonda",
+            "Rhames",
+            "Arkansas",
+            "Pony Swim",
+            "Bible",
+            "Citi Open",
+            "CEOs",
+            "Hollywood",
+            "Green Bay",
+            "Washington Northern California",
+            "John Lewis",
+            "Nationals",
+            "Russian",
+            "August Trump",
+            "Donor Meeting",
+            "Jeannie",
+            "Sean Spicer",
+            "Kim Jong Un",
+            "San Juan",
+            "Bridesmaid",
+            "Fight Trump",
+            "Harvey Weinstein",
+            "Experts Explain",
+            "Devin Lucien",
+            "Flatiron District Gets Back",
+            "Les Moonves Accuser",
+            "Iran Charles Koch",
+            "Floss",
+            "Jim Gaffigan",
+            "Aaron",
+            "Tap How",
+            "Donald Trump",
+            "Pakistan White House",
+            "Yankees",
+            "Global Building Spree Runs Into Trouble",
+            "Pruitt",
+            "Might Be",
+            "Nordstrom Rack",
+            "Team Sky",
+            "SEC Should Get Smart",
+            "Colorado",
+            "Hint",
+            "Mistakes",
+            "CEO Les Moonves Braves",
+            "Jesus",
+            "Alex Lombard",
+            "Tamimi",
+            "Lily Tomlin",
+            "Deleted",
+            "Brett Kavanaugh",
+            "FHFA Director Mel Watt",
+            "Ammonia",
+            "Illinois",
+            "Guam",
+            "Trumps",
+            "Trump",
+            "Taylor Swift",
+            "IKEA",
+            "Netflix",
+            "Southwest",
+            "Puerto Rico",
+            "EU",
+            "Joe Kelly",
+            "Vitro Fertilization",
+            "Dolly Parton",
+            "Paul Manafort",
+            "Aliens",
+            "National Lipstick",
+            "Beltway",
+            "GOP",
+            "WWE",
+            "Giant Financial Startup",
+            "CO2",
+            "Iran Women",
+            "Ethiopia",
+            "Lebanon US",
+            "Latest",
+            "Pakistan Simone Biles",
+            "Kudlow",
+            "Baby",
+            "France Mother",
+            "Pantheon",
+            "Michigan",
+            "Imran Khan",
+            "Bolton",
+            "Ample Hills Creamery",
+            "Cruz",
+            "Pennsylvania Supreme Court",
+            "Josip Peruzovic",
+            "Endangered Species Act Is Twitter Good",
+            "Israeli Prison",
+            "Justice Department Proof",
+            "Northern California Body",
+            "Rafael Devers",
+            "Nikolai Volkoff",
+            "Motorcycle Prices Rise",
+            "Cruise Ship Company",
+            "Pilsen Industrial Corridor Cops",
+            "Instant Pot",
+            "Greek",
+            "Summer",
+            "Oil Industry Recovers",
+            "American Nightmare Austin",
+            "Political Art Trump",
+            "Fatal California Wildfires Spread",
+            "Rauner",
+            "Details",
+            "Blake Swihart",
+            "Florida Conservative",
+            "South End",
+            "North Pole Vegan",
+            "Georgia",
+            "Soviet",
+            "North Carolina",
+            "Shark",
+            "California",
+            "Shutdown Card Video",
+            "Republican Party Deadly Northern California",
+            "Lincoln Park",
+            "Goldilocks Path",
+            "Ohio State",
+            "Patriots Coke",
+            "New Orleans",
+            "AP",
+            "Overwatch",
+            "Vaccine Scandal",
+            "Syrian",
+            "Nandi Aerial",
+            "Mueller",
+            "Power",
+            "Broker Disclosure How Pakistan",
+            "Veterans Advocate",
+            "Elizabeth Warren",
+            "Rosenstein",
+            "Blue Jays",
+            "Chris Cillizza Colorado",
+            "McDonald",
+            "Liverpool",
+            "Beyonc\u00e9",
+            "Dead Woman",
+            "Trial Starts",
+            "Listings Koch Network Criticizes Trump Trade Policy",
+            "White Sox",
+            "China",
+            "Seven",
+            "Cambodian Strongman Claims Victory",
+            "Admissions Secrets",
+            "Colombian",
+            "Cynthia Nixon",
+            "NASA",
+            "Wrong",
+            "Arctic",
+            "Carr Fire",
+            "Italy",
+            "Reunited",
+            "Amazon Which Water",
+            "DCCC",
+            "Massachusetts",
+            "Afghan Conflict Dallas Cowboys",
+            "PewDiePie",
+            "Palestinian Teen Protest Icon",
+            "Killed",
+            "Tariffs Hit Home",
+            "Shut Down",
+            "Sale White House",
+            "U.S.",
+            "Wreaking Destruction Paul Manafort",
+            "Giant Revolver",
+            "Rep John Lewis",
+            "Election",
+            "Paris Top Koch",
+            "DHS",
+            "Nelson",
+            "Jerry Lawler",
+            "Sudden Burst",
+            "Sean Newcomb",
+            "Congress",
+            "Jobless Rate Drops White House",
+            "Kenya"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "say",
+            "new",
+            "fires",
+            "California",
+            "reporter",
+            "hospital"
+        ],
+        "timestamp": "2018-07-29 23:10:23.834273-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5d9044421aa9737b707f60",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/28/0f05d3de-5ca6-4160-b443-6e533992d512/thumbnail/1200x630/b4952d3e29365ef9c7792768115a6d6a/flower.jpg",
+                    "origin": "CBS News",
+                    "title": "Record-breaking heat and fires are worsened by climate change, scientists say",
+                    "ts": 1532856783,
+                    "twitterid": 1023501650537984005,
+                    "url": "https://www.cbsnews.com/news/record-breaking-heat-and-fires-are-worsened-by-climate-change-scientists-say/"
+                },
+                {
+                    "_id": "5b5d5809421aa9717f6ecfc3",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/a443ec32aa00b8723ab7bbc3dd855ec8fc2e05c1/c=0-1153-3000-2848/local/-/media/2018/03/20/USATODAY/USATODAY/636571350697859045-1386097062001-breakingnews5.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "New Orleans shooting: Police say 3 killed, 7 injured",
+                    "ts": 1532843103,
+                    "twitterid": 1023444270173302785,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/07/28/new-orleans-shooting/858649002/"
+                },
+                {
+                    "_id": "5b5d742b421aa972d2e02076",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/29/BostonGlobe.com/National/Images/3b006a56a8984f82a344e1f5b55d49cf-3b006a56a8984f82a344e1f5b55d49cf-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Police say 3 killed, 7 injured in New Orleans shooting",
+                    "ts": 1532850845,
+                    "twitterid": 1023476744014254080,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/07/29/police-say-killed-injured-new-orleans-shooting/Ut8fKExorFh1hEOCqIfMaL/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b5e6352421aa97c7b7b2450",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/07/29/new-york-man-arrested-for-hitting-his-girlfriend-with-bible-police-say/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1532908878311.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "New York man arrested for hitting his girlfriend with Bible, police say",
+                    "ts": 1532909561,
+                    "twitterid": 1023723015413137408,
+                    "url": "http://www.foxnews.com/us/2018/07/29/new-york-man-arrested-for-hitting-his-girlfriend-with-bible-police-say.html"
+                },
+                {
+                    "_id": "5b5e1cf7421aa978409ccf3d",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/juncker_trump_1.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump fostering a new era of prosperity for US-EU relationship",
+                    "ts": 1532893743,
+                    "twitterid": 1023656669904035840,
+                    "url": "http://thehill.com/opinion/finance/399237-trump-fostering-a-new-era-of-prosperity-for-us-eu-relations"
+                },
+                {
+                    "_id": "5b5d3bf9421aa9703e6f0659",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_supremecourt_070318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Therapists say they've seen a rise in anxiety under Trump: report",
+                    "ts": 1532835666,
+                    "twitterid": 1023413077159624704,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/399339-therapists-say-theyve-seen-a-rise-in-anxiety-over-trump-report"
+                },
+                {
+                    "_id": "5b5dac6b421aa97438a0cbb8",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/aJucNXhAAvgi7RVYnk_iQ5-NLwM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3DJBBMESAMI6RAZCWVECX5PA6U.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump prepares to meet with Italy\u2019s new prime minister in a moment of spiritual alignment",
+                    "ts": 1532862600,
+                    "twitterid": 1023526048246497280,
+                    "url": "https://www.washingtonpost.com/world/europe/trump-prepares-to-meet-with-italys-new-prime-minister-in-a-moment-of-spiritual-alignment/2018/07/28/1b00fbce-8c58-11e8-9d59-dccc2c0cabcf_story.html?utm_term=.cb6898c79ecf&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5e7157421aa97cce9854d8",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_joy_bannedreporter_180729_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "White House banning reporter unprecedented move by Bill Shine",
+                    "ts": 1532912525,
+                    "twitterid": 1023735449729343489,
+                    "url": "https://www.msnbc.com/am-joy/watch/white-house-banning-reporter-unprecedented-move-by-bill-shine-1287945283963?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b5e5536421aa979c59a30c4",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/lewisjohn_101117gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "John Lewis released from hospital",
+                    "ts": 1532906465,
+                    "twitterid": 1023710032381263873,
+                    "url": "http://thehill.com/homenews/house/399436-john-lewis-released-from-hospital"
+                },
+                {
+                    "_id": "5b5e4725421aa979620706bf",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/b5/b9/3b53d3184b00966f6af8f622bd0e/180228-john-lewis-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "John Lewis released from Georgia hospital",
+                    "ts": 1532904622,
+                    "twitterid": 1023702299338829824,
+                    "url": "https://www.politico.com/story/2018/07/28/john-lewis-hospitalized-under-routine-observation-747472"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            6
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Service Violation Iceland"
+        ],
+        "peaks": [],
+        "theme": [
+            "guns",
+            "print",
+            "activists",
+            "America",
+            "anti",
+            "available",
+            "away"
+        ],
+        "timestamp": "2018-07-29 23:10:23.958571-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5e7157421aa97cce9854cd",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/KFgHfrMVVnbt35ZNDe2Uc_-l3lk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SSO3ABTWGAI6FMICSSESSAYOMQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "3-D-printed guns put carnage a click away",
+                    "ts": 1532913633,
+                    "twitterid": 1023740095248166912,
+                    "url": "https://www.washingtonpost.com/opinions/3-d-printed-guns-put-carnage-a-click-away/2018/07/28/3b254a18-91cb-11e8-b769-e3fff17f0689_story.html?utm_term=.7b6f94443cc0&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b5dc891421aa9757b7ec243",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/26/a8158a0a-155a-47c7-bbc0-a3b6b11b6cb9/thumbnail/1200x630/0abc972bf250e1242297e80bf6256135/b4-battiste-guns-0726en-frame-933.jpg",
+                    "origin": "CBS News",
+                    "title": "Blueprints for 3D-printed guns will soon be available following legal battle",
+                    "ts": 1532869384,
+                    "twitterid": 1023554501071040512,
+                    "url": "https://www.cbsnews.com/news/blueprints-for-3d-guns-will-soon-be-available-after-lawsuit/"
+                },
+                {
+                    "_id": "5b5e7157421aa97cce9854c5",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/03/26/Remington_Bankruptcy_37615.jpg-5187e_s2048x1461.jpg?9368f4cba21a2d3ddbc12d61a05f61936751e161",
+                    "origin": "The Washington Times",
+                    "title": "Firearms companies fret as background checks level off, anti-gun activists push",
+                    "ts": 1532914183,
+                    "twitterid": 1023742402211790848,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/29/firearms-companies-fret-as-background-checks-level/"
+                },
+                {
+                    "_id": "5b5e4725421aa979620706b6",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/a137cacf79733e12e8edcb9b4be1f79a9d7fc2a2.png?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Is America Insane?",
+                    "ts": 1532905210,
+                    "twitterid": 1023704766474584070,
+                    "url": "https://newrepublic.com/article/149924/america-insane-sacha-baron-cohen-review"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Capitol Hill Hannity",
+            "Speaker",
+            "House",
+            "Meadows",
+            "Nunes",
+            "McCarthy",
+            "Jim Jordan",
+            "Rosenstein",
+            "Trump",
+            "Lifelong Republican Rosenstein"
+        ],
+        "peaks": [],
+        "theme": [
+            "House",
+            "Jordan",
+            "speaker",
+            "Jim",
+            "Republicans",
+            "Rosenstein",
+            "action"
+        ],
+        "timestamp": "2018-07-29 23:10:24.197288-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5d9044421aa9737b707f55",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/b6/3f/69997b0242d8a613b9ec99e8fcb2/180727-jordan-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Hannity endorses Jim Jordan for House speaker",
+                    "ts": 1532858410,
+                    "twitterid": 1023508472401412098,
+                    "url": "https://www.politico.com/story/2018/07/27/jim-jordan-house-speaker-hannity-747462"
+                },
+                {
+                    "_id": "5b5df2cc421aa976c7b92e18",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/dam/fox-news/images/2018/07/26/ap18199592776044.jpg.img.png/0/0/1532623785836.png?ve=1",
+                    "origin": "Fox News Politics",
+                    "title": "Who is Jim Jordan? 3 things to know about the House speaker hopeful",
+                    "ts": 1532880480,
+                    "twitterid": 1023601040648589313,
+                    "url": "http://www.foxnews.com/politics/2018/07/26/who-is-jim-jordan-3-things-to-know-about-house-speaker-hopeful.html"
+                },
+                {
+                    "_id": "5b5e00d1421aa9772fe34055",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/qDpz_00neixGm4bhB9PN4BpSHKg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5FPVTB4O434RBTRDTE2XHS3UE.jpg",
+                    "origin": "Washington Post",
+                    "title": "House Republicans cannot be allowed to obstruct justice",
+                    "ts": 1532884356,
+                    "twitterid": 1023617298215657472,
+                    "url": "https://www.washingtonpost.com/blogs/right-turn/wp/2018/07/29/house-republicans-cannot-be-allowed-to-obstruct-justice/?utm_term=.3fe2b58cb00c&tid=sm_tw"
+                },
+                {
+                    "_id": "5b5dac6b421aa97438a0cbb3",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/meadowsmark_jordanjim_052218gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Jordan: If Rosenstein doesn\u2019t deliver, Meadows and I will force impeachment vote",
+                    "ts": 1532863267,
+                    "twitterid": 1023528845205483525,
+                    "url": "http://thehill.com/homenews/house/399372-jordan-if-rosenstein-doesnt-deliver-meadows-and-i-will-force-impeachment-vote"
+                },
+                {
+                    "_id": "5b5dac6b421aa97438a0cbb7",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180410162928-02-rod-rosenstein-lead-image-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Lifelong Republican Rosenstein weathers latest House GOP storm",
+                    "ts": 1532862666,
+                    "twitterid": 1023526323095056385,
+                    "url": "https://www.cnn.com/2018/07/28/politics/rod-rosenstein-house-republicans/index.html?utm_content=2018-07-29T11%3A11%3A05&utm_medium=social&utm_term=image&utm_source=twCNNp"
+                },
+                {
+                    "_id": "5b5e5536421aa979c59a30b5",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/nunes_devin_getty01.jpg",
+                    "origin": "The Hill",
+                    "title": "Nunes suggests possible legal action against Twitter for 'censoring' conservatives",
+                    "ts": 1532907426,
+                    "twitterid": 1023714062721601537,
+                    "url": "http://thehill.com/homenews/house/399429-nunes-suggests-possible-legal-action-against-twitter-for-censoring"
+                },
+                {
+                    "_id": "5b5dd6ad421aa975d8bcd4b3",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/mccarthykevin_jordanjim_072718gn_am.jpg",
+                    "origin": "The Hill",
+                    "title": "McCarthy's path to Speaker gets more complicated",
+                    "ts": 1532876224,
+                    "twitterid": 1023583190089388032,
+                    "url": "http://thehill.com/homenews/house/399299-mccarthys-path-to-speaker-gets-more-complicated?__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            15
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "China",
+            "Dem Radio Host",
+            "Economy Pence",
+            "GDP",
+            "American",
+            "GOP",
+            "White House Bongino",
+            "Nonsense",
+            "White House",
+            "Economic",
+            "Tariffs",
+            "Obama",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "economic",
+            "Economy",
+            "GOP",
+            "Obama",
+            "adviser",
+            "growth"
+        ],
+        "timestamp": "2018-07-29 23:10:24.538339-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b5e2b0c421aa978b04d6c8f",
+                    "date_month": "2018-07",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/NewPirro72918.jpg?itok=lRAn_mdz",
+                    "origin": "Fox News",
+                    "title": "Judge Pirro Praises Trump for Economic Surge: 'There Was Barely a Pulse' in Obama's Economy",
+                    "ts": 1532895873,
+                    "twitterid": 1023665603993907201,
+                    "url": "http://insider.foxnews.com/2018/07/29/donald-trump-economic-growth-judge-jeanine-praises-president-accomplishments"
+                },
+                {
+                    "_id": "5b5dd6ad421aa975d8bcd4ca",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/11/trump_kudlow_68841_s2048x1396.jpg?87dc598839a43019824aacbc709a7b1fe1aaf5d4",
+                    "origin": "The Washington Times",
+                    "title": "Trump's economic adviser says he'll be 'tougher and tougher on spending'",
+                    "ts": 1532873272,
+                    "twitterid": 1023570807916847104,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/29/trumps-economic-adviser-says-hell-be-tougher-and-t/"
+                },
+                {
+                    "_id": "5b5d3bf9421aa9703e6f0662",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/05/19/2018_Midterms_Trump_11909.jpg-4e898_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Trump economy v. Obama economy -- like pitting an eagle against a wounded field mouse",
+                    "ts": 1532835005,
+                    "twitterid": 1023410306285006848,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/24/trump-economy-v-obama-economy-pitting-eagle-agains/"
+                },
+                {
+                    "_id": "5b5dc891421aa9757b7ec225",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/mnuchinsteven_071218am2_lead_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Mnuchin: 3 percent economic growth possible for '4 or 5 years'",
+                    "ts": 1532872384,
+                    "twitterid": 1023567084280836096,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/399383-mnuchin-3-percent-economic-growth-possible-for-4-or-5-years"
+                },
+                {
+                    "_id": "5b5de4b2421aa9765b0a48bd",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/kudlowlarry_060518getty.jpg",
+                    "origin": "The Hill",
+                    "title": "White House economic adviser: Trump 'inherited a completely broken world trading system'",
+                    "ts": 1532877185,
+                    "twitterid": 1023587220995878912,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/399391-white-house-economic-adviser-trump-inherited-a-completely-broken"
+                },
+                {
+                    "_id": "5b5e7157421aa97cce9854be",
+                    "date_month": "2018-07",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Bongino72928.jpg?itok=hKi12381",
+                    "origin": "Fox News",
+                    "title": "Bongino to Dem Radio Host: 'Spare Us the Nonsense' About Obama's Economy",
+                    "ts": 1532914628,
+                    "twitterid": 1023744267234287616,
+                    "url": "http://insider.foxnews.com/2018/07/29/donald-trump-announces-economic-surge-dan-bongino-chris-hahn-battle-over-effectiveness"
+                },
+                {
+                    "_id": "5b5dba82421aa974a44084d5",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/china_import_tariff_1.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP frets Trump tariffs will hit midterm prospects",
+                    "ts": 1532868063,
+                    "twitterid": 1023548959678193667,
+                    "url": "http://thehill.com/homenews/campaign/399295-gop-frets-trump-tariffs-will-imperil-booming-economy-hitting-midterm"
+                },
+                {
+                    "_id": "5b5e5536421aa979c59a30cc",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/29/0/0/694940094001_5815295453001_5815299432001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Pence touts 'dramatic' economic growth, warns reporters who breach 'decorum' at the White House",
+                    "ts": 1532905929,
+                    "twitterid": 1023707781545844738,
+                    "url": "http://www.foxnews.com/politics/2018/07/29/pence-touts-dramatic-economic-growth-warns-reporters-who-breach-decorum-at-white-house.html"
+                },
+                {
+                    "_id": "5b5e0ee8421aa977d0d7a74a",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/trumprussia1-1024x689.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "On trade policy, Trump is turning GOP orthodoxy on its head",
+                    "ts": 1532888100,
+                    "twitterid": 1023633001593413633,
+                    "url": "https://www.pbs.org/newshour/politics/on-trade-policy-trump-is-turning-gop-orthodoxy-on-its-head"
+                },
+                {
+                    "_id": "5b5d742b421aa972d2e02078",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180727161452-trump-speech-economy-072718-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "The full story on Trump's 'economic turnaround'",
+                    "ts": 1532850122,
+                    "twitterid": 1023473708827074560,
+                    "url": "https://www.cnn.com/2018/07/27/politics/gdp-fact-check/index.html?utm_medium=social&utm_content=2018-07-29T07%3A42%3A00&utm_source=twCNNp&utm_term=image"
+                }
+            ]
+        ]
+    }
+]

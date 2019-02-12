@@ -1,0 +1,1220 @@
+[
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Harvey Weinstein"
+        ],
+        "peaks": [],
+        "theme": [
+            "Harvey",
+            "Weinstein",
+            "face",
+            "new",
+            "sex",
+            "accusations",
+            "additional"
+        ],
+        "timestamp": "2018-07-03 05:10:13.103488-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b2d29421aa92fa4cf0446",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/US/harvey-weinstein-court5-rt-ml-180605_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Harvey Weinstein could face life sentence for new alleged sex crimes",
+                    "ts": 1530602296,
+                    "twitterid": 1014045644560924672,
+                    "url": "https://abcnews.go.com/US/charges-filed-harvey-weinstein/story?id=56316558"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fce6",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/05/25/da95004a-4291-4d2e-9d04-29d4790a62d3/thumbnail/1200x630/819db3d2fdfee0bba1fff9adb8cb9734/cbsn-fusion-harvey-weinstein-arrested-thumbnail-1577639-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Harvey Weinstein indicted on new accusations of sexual assault",
+                    "ts": 1530567183,
+                    "twitterid": 1014034267570102272,
+                    "url": "https://www.cbsnews.com/news/harvey-weinstein-indicted-on-new-accusations-of-sexual-assault/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3b189d04d3010232fea21a&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd0b",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/weinstein_arrest_getty052518.jpg",
+                    "origin": "The Hill",
+                    "title": "Harvey Weinstein facing additional felony sex charges",
+                    "ts": 1530562867,
+                    "twitterid": 1014016161317605376,
+                    "url": "http://thehill.com/blogs/in-the-know/395168-harvey-weinstein-facing-additional-felony-sex-charges"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            11
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Jared Kushner",
+            "Michelle Wolf",
+            "Commerce",
+            "Ivanka Trump",
+            "Russians EU",
+            "Farm",
+            "Dummies",
+            "Pruitt",
+            "NATO",
+            "Global Warming",
+            "Obama",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "tariff",
+            "allies",
+            "foreign",
+            "Pruitt",
+            "allegedly",
+            "anxiety"
+        ],
+        "timestamp": "2018-07-03 05:10:13.590767-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b3b31421aa93026d0a932",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald1_06272018.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump defends tariff moves as allies strike back",
+                    "ts": 1530606362,
+                    "twitterid": 1014062701126045698,
+                    "url": "http://thehill.com/policy/finance/395271-trump-defends-tariff-moves-as-allies-strike-back"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf0448",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/farmer-union.jpg",
+                    "origin": "The Hill",
+                    "title": "Farm group: There\u2019s \u2018a lot of anxiety\u2019 over Trump tariffs",
+                    "ts": 1530602165,
+                    "twitterid": 1014045097674100736,
+                    "url": "http://thehill.com/hilltv/rising/395180-national-farmers-unions-theres-a-lot-of-anxiety-over-trump-tariffs"
+                },
+                {
+                    "_id": "5b3b3b31421aa93026d0a934",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpnato05252017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump demands NATO allies increase their financial contributions",
+                    "ts": 1530606063,
+                    "twitterid": 1014061445322018817,
+                    "url": "http://thehill.com/homenews/administration/395268-trump-wrote-nato-allies-to-call-for-increased-financial-contributions"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd0d",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/kushnerjared_030218getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Comedian who allegedly prank-called Trump: If I duped Jared Kushner, so did the Russians",
+                    "ts": 1530562562,
+                    "twitterid": 1014014884105936896,
+                    "url": "http://thehill.com/homenews/news/395220-comedian-who-allegedly-prank-called-trump-if-i-duped-jared-kushner-so-did-the"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd12",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_062918.jpg",
+                    "origin": "The Hill",
+                    "title": "EU threatens $294B in retaliatory tariffs if Trump imposes foreign car levies",
+                    "ts": 1530562262,
+                    "twitterid": 1014013626934538242,
+                    "url": "http://thehill.com/homenews/administration/395124-eu-threatens-new-retaliatory-tariffs-on-us-if-trump-imposes-foreign"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcfa",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/YgMdp-KgTJR8r9leQ3vStJkCktk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QYMAPXB3YY6VFCAKPO77B6FJ2Y.jpg",
+                    "origin": "Washington Post",
+                    "title": "Obama worried with foreign leaders about Trump. The president has proved them right.",
+                    "ts": 1530564947,
+                    "twitterid": 1014024887999123458,
+                    "url": "https://www.washingtonpost.com/news/posteverything/wp/2018/07/02/obama-worried-with-foreign-leaders-about-trump-the-president-has-proved-them-right/?utm_term=.0d53fbaf6305&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fce2",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/96/78/682ef3994602a48b6d001dc6f3bb/180523-scott-pruitt.jpg",
+                    "origin": "POLITICO",
+                    "title": "Pruitt\u2019s reading list from the public? \u2018Global Warming for Dummies\u2019",
+                    "ts": 1530567642,
+                    "twitterid": 1014036189190508544,
+                    "url": "https://www.politico.com/story/2018/06/30/pruitt-global-warming-books-epa-689500"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf8",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pruittscott_051118getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Woman confronts Pruitt at restaurant, tells him to resign",
+                    "ts": 1530565267,
+                    "twitterid": 1014026228674826240,
+                    "url": "http://thehill.com/policy/energy-environment/395267-woman-confronts-pruitt-at-restaurant-tells-him-to-resign?__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd19",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/wolfmichelle_02222018hbo.jpg",
+                    "origin": "The Hill",
+                    "title": "Michelle Wolf compares Ivanka Trump to herpes",
+                    "ts": 1530561664,
+                    "twitterid": 1014011116928884736,
+                    "url": "http://thehill.com/homenews/administration/395129-michelle-wolf-compares-ivanka-trump-to-an-std"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf5",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump_rutte_070218_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Dutch prime minister counters Trump on tariffs: \u2018It\u2019s not positive\u2019",
+                    "ts": 1530565866,
+                    "twitterid": 1014028740756672512,
+                    "url": "http://thehill.com/homenews/administration/395224-dutch-prime-minister-responds-to-trump-on-tariffs-its-not-positive"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            4
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "NBA",
+            "Golden State Warriors Nunes",
+            "DeMarcus Cousins",
+            "LeBron James",
+            "Lakers",
+            "Russia",
+            "Obama",
+            "California"
+        ],
+        "peaks": [],
+        "theme": [
+            "LeBron",
+            "Nunes",
+            "administration",
+            "Brace",
+            "California",
+            "Cousins",
+            "DeMarcus"
+        ],
+        "timestamp": "2018-07-03 05:10:13.695123-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf9",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/jameslebron12072016getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Nunes to LeBron: Brace yourself for California's taxes",
+                    "ts": 1530564962,
+                    "twitterid": 1014024951119142912,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/395276-nunes-to-lebron-brace-yourself-for-californias-taxes"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf3",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/2f470263022cd4bb1303e7803bc0a3c4df09a9c1/c=0-173-2556-1617/local/-/media/2018/07/02/USATODAY/USATODAY/636661646426970374-demarcus-cousins-warriors.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "NBA reacts to DeMarcus Cousins joining the Golden State Warriors",
+                    "ts": 1530566104,
+                    "twitterid": 1014029739391152128,
+                    "url": "https://www.usatoday.com/story/sports/nba/2018/07/02/demarcus-cousins-warriors-nba-reaction/753599002/"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fce4",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/25/0/0/694940094001_5801544938001_5801568814001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Nunes wants 10 officials who served during Obama administration to testify on Russia probe",
+                    "ts": 1530567480,
+                    "twitterid": 1014035511143526400,
+                    "url": "http://www.foxnews.com/politics/2018/07/02/nunes-wants-10-officials-who-served-during-obama-administration-to-testify-on-russia-probe.html"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf044a",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/f6cee0e6873ecfc2228257709e285203ceb5fb70/c=0-54-5561-3196/local/-/media/2018/07/02/USATODAY/USATODAY/636661654778902985-USATSI-10629859.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "LeBron James will wear No. 23 with Lakers - but fans can't get his jersey yet",
+                    "ts": 1530602104,
+                    "twitterid": 1014044840814874624,
+                    "url": "https://www.usatoday.com/story/sports/nba/2018/07/02/lebron-james-lakers-jersey-orders/753592002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            70
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "DIY",
+            "Associated",
+            "Video Boston",
+            "Florida",
+            "Immigration Rally Mall Vacancy Rate Hits",
+            "Asian Junk Bonds",
+            "Pfizer",
+            "Washington Australian Archbishop",
+            "Les Williams",
+            "Tennessee",
+            "Coffee",
+            "White House",
+            "Business",
+            "Merrimack Valley",
+            "Economic News",
+            "Cleveland",
+            "Home Detention For Sex Abuse",
+            "Lakeith Stanfield",
+            "Facebook",
+            "Fugitive",
+            "West",
+            "Alan Dershowitz",
+            "Pompeo",
+            "Marty Walsh",
+            "Bush",
+            "Michigan GOP",
+            "Journalist Allison Yarrow",
+            "Wall Street Journal",
+            "North Korea",
+            "Nelson Trump",
+            "New Normal",
+            "Roseanne Barr",
+            "Racial Bias",
+            "Bahamas",
+            "Clinton",
+            "Gateway Arch Museum Hope Solo",
+            "Viagra",
+            "Again South Korea",
+            "Puerto Ricans",
+            "Matchup",
+            "Massachusetts Happy Fourth",
+            "Medicaid",
+            "Trump American",
+            "AAA",
+            "John",
+            "Financial",
+            "Capital Gazette",
+            "Amazon",
+            "Obama",
+            "Kaley Cuoco",
+            "Serena Williams",
+            "Manafort",
+            "Ron Paul",
+            "Europe",
+            "UFO",
+            "Gun",
+            "Heat Salad",
+            "Fox News",
+            "Hollywood",
+            "Vineyard",
+            "Army Just Made Him",
+            "Scott",
+            "World News",
+            "Martha",
+            "NCAA",
+            "Emirates Michael Goodwin",
+            "DNA",
+            "North Korea Deal",
+            "Mueller",
+            "LA Times",
+            "FBI"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "New",
+            "Take",
+            "Americans",
+            "business",
+            "cancels",
+            "days"
+        ],
+        "timestamp": "2018-07-03 05:10:14.876247-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b2d29421aa92fa4cf0457",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/AnB-OOQ-R-vIksyHWHn1VC-1exs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O4WYOZTIGQI6RHRYETTJHM4GG4.jpg",
+                    "origin": "Washington Post",
+                    "title": "Jobs for all? Take the idea seriously but not literally.",
+                    "ts": 1530601118,
+                    "twitterid": 1014040706049040385,
+                    "url": "https://www.washingtonpost.com/opinions/jobs-for-all-take-the-idea-seriously-but-not-literally/2018/07/02/32a93c12-7dfa-11e8-bb6b-c1cb691f1402_story.html?utm_term=.eb394fd7d019&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf043f",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/fdd0b1fe7d6d96066840f2f0351626b0d8532e1b/c=0-361-4734-3036&r=x1683&c=3200x1680/local/-/media/2018/06/21/USATODAY/USATODAY/636651679986677054-AP-July-Fourth-New-Jersey.jpg",
+                    "origin": "USA TODAY",
+                    "title": "Record 46.9M Americans to travel this July 4th, AAA predicts",
+                    "ts": 1530603303,
+                    "twitterid": 1014049868074160128,
+                    "url": "https://www.usatoday.com/story/travel/2018/06/21/traffic-increase-over-july-4th-record-number-people-traveling-aaa-says/720820002/"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd16",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180628170556-charles-rettig-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump IRS nominee owns property at Trump-branded hotel",
+                    "ts": 1530561845,
+                    "twitterid": 1014011875384877056,
+                    "url": "https://edition.cnn.com/2018/06/28/politics/trump-irs-nominee-charles-rettig/index.html?sr=twCNNp062818trump-irs-nominee-charles-rettig0503PMStory&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd45",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/06/29/12bd6dc8-f9dd-47c4-8119-2e5857850a90/thumbnail/1200x630/2749676cd9943ed1bc5fbd6da4f67e29/rts1u5mk.jpg",
+                    "origin": "CBS News",
+                    "title": "Pros and cons of that $10,000 Amazon delivery business offer",
+                    "ts": 1530558183,
+                    "twitterid": 1013996517714251776,
+                    "url": "https://www.cbsnews.com/news/pros-and-cons-of-amazon-delivery-business-offer/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3af57504d301063b33d8fe&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf044c",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/02/BostonGlobe.com/Business/Images/CropOneHoldings_03lettuce_001_biz.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Salad days: Millis indoor farmer announces huge \u201cvertical\u201d farm in Emirates",
+                    "ts": 1530601862,
+                    "twitterid": 1014043826808336384,
+                    "url": "https://www.bostonglobe.com/business/2018/07/02/salad-days-millis-indoor-farmer-announces-huge-vertical-farm-emirates/6ayQ1v3e0DONVkyKttqktM/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcef",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/06/19/c7ca6096-19da-41e7-9ece-282beac39643/thumbnail/1200x630/84a6a6cc46fbd6f3f03f2b19cf96e7dd/ap-18170612972825.jpg",
+                    "origin": "CBS News",
+                    "title": "The Fox News employees hired by Trump",
+                    "ts": 1530566283,
+                    "twitterid": 1014030490083430400,
+                    "url": "https://www.cbsnews.com/news/fox-news-employees-hired-by-trump/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3b151904d3017531bfe6e5&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd44",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/02/BostonGlobe.com/Arts/Images/6aff48b2aff740d3b3eabecbd9d8e1b1-6aff48b2aff740d3b3eabecbd9d8e1b1-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "\u2018He\u2019s a sweetie\u2019: Elizabeth Warren gets a new puppy",
+                    "ts": 1530558186,
+                    "twitterid": 1013996529579945984,
+                    "url": "https://www.bostonglobe.com/lifestyle/names/2018/07/02/sweetie-elizabeth-warren-gets-new-puppy/IFuHomsBEvNO6fk9cqTMEN/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf0454",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/03/us/03FIRES-still/03FIRES-still-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "\u2018The New Normal\u2019: Wildfires Roar Across the West, Again",
+                    "ts": 1530601213,
+                    "twitterid": 1014041102142398466,
+                    "url": "https://www.nytimes.com/2018/07/02/us/fires-california-colorado.html?partner=socialflow&smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b3b3b31421aa93026d0a938",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/chipdoctor_091517getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Ky. governor cancels Medicaid dental, vision benefits after losing work requirement ruling",
+                    "ts": 1530605763,
+                    "twitterid": 1014060188180021248,
+                    "url": "http://thehill.com/policy/healthcare/395155-kentucky-governor-cancels-medicaid-dental-vision-benefits-after-losing"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd35",
+                    "date_month": "2018-07",
+                    "image": "https://ore.wsj.net/fp/assets/images/ico/WSJ_facebook.png",
+                    "origin": "The Wall Street Journal",
+                    "title": "The Wall Street Journal & Breaking News, Business, Financial and Economic News, World News and Video",
+                    "ts": 1530559808,
+                    "twitterid": 1014003331923173376,
+                    "url": "https://www.wsj.com/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            13
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "L\u00f3pez Obrador",
+            "NYC",
+            "ICE",
+            "Anonymous",
+            "LeBron James",
+            "Mexican",
+            "New",
+            "Iran",
+            "Cleveland",
+            "Obama",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "criticized",
+            "family",
+            "ICE",
+            "official",
+            "report",
+            "acting"
+        ],
+        "timestamp": "2018-07-03 05:10:15.353019-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd1e",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/ce/c7/1a460d97495bb821766b87da8dbb/180630actingicegettyimages-886264970.jpg",
+                    "origin": "POLITICO",
+                    "title": "New acting ICE head named as agency continues to be criticized",
+                    "ts": 1530561281,
+                    "twitterid": 1014009512582402049,
+                    "url": "https://www.politico.com/story/2018/06/30/new-ice-director-ronald-vitiello-689504"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd03",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/ice_immigration_2.jpg",
+                    "origin": "The Hill",
+                    "title": "Anonymous man saves family\u2019s home after parents are deported: report",
+                    "ts": 1530563765,
+                    "twitterid": 1014019929438326785,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395201-anonymous-man-saves-a-familys-home-after-parents-are-deported"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd07",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/donaldtrump_06202018_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump: Democratic voters will support Republicans because of ICE criticism",
+                    "ts": 1530563468,
+                    "twitterid": 1014018684636016640,
+                    "url": "http://thehill.com/homenews/administration/395292-trump-democratic-voters-will-support-republicans-because-of-criticism"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd24",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/02/obama-administration-granted-citizenship-to-2500-iranians-during-nuclear-deal-iran-official/_jcr_content/image.img.jpg/0/0/1530545117523.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Obama administration granted citizenship to 2,500 Iranians during nuclear deal: Iran official",
+                    "ts": 1530560700,
+                    "twitterid": 1014007074227933186,
+                    "url": "http://www.foxnews.com/politics/2018/07/02/obama-administration-granted-citizenship-to-2500-iranians-during-nuclear-deal-iran-official.html"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd1d",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/O4ikhz05fyuwYEE3luhsiKvOEok=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JTPQG7TIGII6RPVHZDVSRPCSWE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump\u2019s economic agenda is unfocused. Here\u2019s how to fix it.",
+                    "ts": 1530561284,
+                    "twitterid": 1014009522069831680,
+                    "url": "https://www.washingtonpost.com/opinions/trumps-economic-agenda-is-unfocused-heres-how-to-fix-it/2018/07/02/3483400a-7a2b-11e8-93cc-6d3beccdd7a3_story.html?utm_term=.9d7400c82073&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf0452",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpgetty062318.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump just keeps on confounding his hapless detractors",
+                    "ts": 1530601263,
+                    "twitterid": 1014041312641896448,
+                    "url": "http://thehill.com/opinion/white-house/394934-trump-just-keeps-on-confounding-his-hapless-detractors"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf4",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/a0/3e/6d8f94684617a0cbf2304f7838bd/180702-alex-azar-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "As deadline looms, Trump officials struggle to reunite migrant families",
+                    "ts": 1530565884,
+                    "twitterid": 1014028815474020352,
+                    "url": "https://www.politico.com/story/2018/07/02/separated-families-border-children-reunite-664674"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            5
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "LGBT",
+            "Man",
+            "New York",
+            "Run II",
+            "Christian",
+            "Philippines",
+            "Beyonc\u00e9",
+            "Sorry"
+        ],
+        "peaks": [],
+        "theme": [
+            "dies",
+            "man",
+            "stabbing",
+            "attack",
+            "beyonc",
+            "birthday",
+            "call"
+        ],
+        "timestamp": "2018-07-03 05:10:15.477415-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fce1",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/policelinetape11032017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Man charged with murder after child dies following stabbing attack on refugees",
+                    "ts": 1530567662,
+                    "twitterid": 1014036276805296130,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395244-man-charged-with-murder-after-child-dies-following-stabbing?rnd=1530565028&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf0438",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/03/e8742577-e1bd-4a7f-8360-4f2c4bf6a1a6/thumbnail/1200x630/9c8fb05fe26a4911a5e0054a98acfb7c/vigil.jpg",
+                    "origin": "CBS News",
+                    "title": "Vigil for Idaho stabbing victims after birthday girl, 3, dies from wounds",
+                    "ts": 1530604084,
+                    "twitterid": 1014053144509255680,
+                    "url": "https://www.cbsnews.com/news/idaho-mass-stabbing-3-year-old-birthday-girl-dies-from-injuries-today-2018-07-02/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3b2a3104d301407592d968&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3b3b31421aa93026d0a92d",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/02/1f27fd7f-89bd-4301-a92e-45465da5dca7/thumbnail/1200x630/62c42e893928760949a1a5fef5623306/trooper2.jpg",
+                    "origin": "CBS News",
+                    "title": "Cops: New York state trooper shot dead responding to call over suicidal man",
+                    "ts": 1530606783,
+                    "twitterid": 1014064464440844289,
+                    "url": "https://www.cbsnews.com/news/nicholas-clark-cops-new-york-state-trooper-shot-dead-responding-to-call-over-suicidal-man/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3b34bd04d3016819738f5d&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            4
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "North Carolina"
+        ],
+        "peaks": [],
+        "theme": [
+            "bone",
+            "cancer",
+            "donor",
+            "flower",
+            "girl",
+            "marrow",
+            "old"
+        ],
+        "timestamp": "2018-07-03 05:10:15.567906-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b2d29421aa92fa4cf043d",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/02/0/0/694940094001_5804396871001_5804387491001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "3-year-old battling cancer is flower girl in bone marrow donor's wedding",
+                    "ts": 1530603480,
+                    "twitterid": 1014050610407096325,
+                    "url": "http://www.foxnews.com/health/2018/07/02/3-year-old-battling-cancer-is-flower-girl-in-bone-marrow-donors-wedding.html"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf0451",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/02/d4f81c92-2188-45fc-9d85-dce7ba70e811/thumbnail/1200x630/04e8a2d2416860a29a308a20a1d1c46c/bride.jpg",
+                    "origin": "CBS News",
+                    "title": "3-year-old cancer survivor is flower girl in bone marrow donor's wedding",
+                    "ts": 1530601384,
+                    "twitterid": 1014041820303691777,
+                    "url": "https://www.cbsnews.com/news/cancer-survivor-skye-savren-mccormick-flower-girl-wedding-bone-marrow-donor-hayden-hatfield-ryals/"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fcf1",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180702084658-cancer-survivor-flower-girl-2-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "A 3-year-old cancer survivor served as a flower girl in her bone marrow donor's wedding",
+                    "ts": 1530566160,
+                    "twitterid": 1014029975492743168,
+                    "url": "https://edition.cnn.com/2018/07/02/health/cancer-survivor-flower-girl-trnd/index.html?utm_term=multi-image&utm_content=2018-07-02T23%3A46%3A01&utm_source=twCNN&utm_medium=social"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Supreme Court",
+            "White House",
+            "Senate",
+            "Susan Collins",
+            "GOP",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Court",
+            "Supreme",
+            "Trump",
+            "Senate",
+            "abort",
+            "activists",
+            "Amy"
+        ],
+        "timestamp": "2018-07-03 05:10:15.801800-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd09",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/9d/31/cad1e22b49cc870d5ec35a778670/180702supremecourtgettyimages-985658122.jpg",
+                    "origin": "POLITICO",
+                    "title": "How Amy Coney Barrett vaulted onto Trump\u2019s Supreme Court shortlist",
+                    "ts": 1530562998,
+                    "twitterid": 1014016711064944640,
+                    "url": "https://www.politico.com/story/2018/07/02/justice-barrett-amy-coney-feinstein-692199"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd26",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/schumercharles_062818gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Schumer: Senate could force Trump to nominate moderate Supreme Court pick",
+                    "ts": 1530560464,
+                    "twitterid": 1014006084619694086,
+                    "url": "http://thehill.com/homenews/senate/395152-schumer-senate-could-force-trump-to-nominate-moderate-supreme-court-pick"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf044e",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180209135642-mcconnell-01-22-2018-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "The Senate and the next Supreme Court justice: What you need to know",
+                    "ts": 1530601622,
+                    "twitterid": 1014042820133474304,
+                    "url": "https://www.cnn.com/2018/06/28/politics/senate-supreme-court-guide/index.html?sr=twCNNp062818senate-supreme-court-guide0252PMStory&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3b3b31421aa93026d0a92b",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_060618getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump interviews four Supreme Court candidates as decision nears",
+                    "ts": 1530606964,
+                    "twitterid": 1014065225295892480,
+                    "url": "http://thehill.com/homenews/administration/395203-trump-interviews-four-supreme-court-candidates-as-decision-nears"
+                },
+                {
+                    "_id": "5b3b3b31421aa93026d0a930",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_062918.jpg",
+                    "origin": "The Hill",
+                    "title": "White House counsel to lead Trump's Supreme Court search",
+                    "ts": 1530606665,
+                    "twitterid": 1014063971765182465,
+                    "url": "http://thehill.com/homenews/administration/395158-white-house-counsel-to-lead-trumps-supreme-court-search"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fceb",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/vbEAHZF4w99t_WZCXfmNTzLd8NM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TOCXSGEJTY73TADB53BSPPFHGQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "The Supreme Court vacancy is perilous for Republicans",
+                    "ts": 1530566822,
+                    "twitterid": 1014032752419704832,
+                    "url": "https://www.washingtonpost.com/blogs/post-partisan/wp/2018/07/02/the-supreme-court-vacancy-is-perilous-for-republicans/?utm_term=.bf9a1c1ccce6&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd34",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/collinssusan_kingangus_021518gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Pro-abortion rights activists sending coat hangers to GOP senator: report",
+                    "ts": 1530559867,
+                    "twitterid": 1014003578833424384,
+                    "url": "http://thehill.com/homenews/senate/395289-abortion-activists-sending-coat-hangers-to-gop-senator"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            2
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Thailand"
+        ],
+        "peaks": [],
+        "theme": [
+            "cave",
+            "soccer",
+            "team",
+            "alive",
+            "boys",
+            "could",
+            "found"
+        ],
+        "timestamp": "2018-07-03 05:10:15.861658-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd13",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/cavethailand_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Missing boys soccer team found alive in Thailand cave",
+                    "ts": 1530561962,
+                    "twitterid": 1014012368324644864,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/395199-missing-thai-soccer-team-found-alive-after-10-days-of-searching"
+                },
+                {
+                    "_id": "5b3b3b31421aa93026d0a92f",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/mN5-x9tl5YIl65q3GkaXYM_12kQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7O45JQD6S4I6RMHP776KX37ZIY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Rescue of Thai youth soccer team trapped in cave could take months, warn officials",
+                    "ts": 1530606668,
+                    "twitterid": 1014063983312228354,
+                    "url": "https://www.washingtonpost.com/world/asia_pacific/rescue-of-thai-youth-soccer-team-trapped-in-cave-could-take-months-warn-officials/2018/07/03/20b74290-7e92-11e8-b9f0-61b08cdd0ea1_story.html?tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "ABC News",
+            "Michael Cohen",
+            "Brian Ross",
+            "Trump Brian Ross",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Cohen",
+            "report",
+            "Trump",
+            "ABC",
+            "Brian",
+            "Family",
+            "leaves"
+        ],
+        "timestamp": "2018-07-03 05:10:15.970660-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd33",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/12/05/1ddab943-df86-4779-8bc3-0831908d13a5/thumbnail/1200x630/e4ac96cdb9ab7c560a1724762b91e68e/ap-17336854223656.jpg",
+                    "origin": "CBS News",
+                    "title": "Brian Ross, ABC News investigative reporter, leaves company",
+                    "ts": 1530559982,
+                    "twitterid": 1014004064542232576,
+                    "url": "https://www.cbsnews.com/news/brian-ross-abc-news-investigative-reporter-rhonda-schwartz-producer-leaving-company-2018-07-02/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3afc7d04d3011db2368580&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd22",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/rossbrian_12417getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Brian Ross leaving ABC months after false Flynn report",
+                    "ts": 1530560766,
+                    "twitterid": 1014007350557061120,
+                    "url": "http://thehill.com/homenews/media/395208-brian-ross-leaving-abc-months-after-false-flynn-report"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf044b",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/cohenmichael_053018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Cohen: Family, country \u2018first loyalty,\u2019 not Trump",
+                    "ts": 1530601863,
+                    "twitterid": 1014043828846825472,
+                    "url": "http://thehill.com/homenews/administration/395120-cohen-family-country-first-loyalty-not-trump"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd25",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/41/11/83c2f0284adcb20878e7c4566438/180613-cohen-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Michael Cohen: I'll put my family before Trump",
+                    "ts": 1530560635,
+                    "twitterid": 1014006802068004864,
+                    "url": "https://www.politico.com/story/2018/07/02/michael-cohen-interview-gma-trump-689659"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf0458",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/cohenmichael_053018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump\u2019s joint defense agreement with Cohen ending: report",
+                    "ts": 1530600662,
+                    "twitterid": 1014038792125198336,
+                    "url": "http://thehill.com/homenews/administration/395122-trumps-joint-defense-agreement-with-cohen-ending-report"
+                },
+                {
+                    "_id": "5b3b3b31421aa93026d0a921",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_mj_cohen_180702_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Michael Cohen signals a break with Trump",
+                    "ts": 1530608402,
+                    "twitterid": 1014071253446078465,
+                    "url": "https://www.msnbc.com/morning-joe/watch/michael-cohen-signals-a-break-with-trump-1268398147774?playlist=associated&v=a"
+                },
+                {
+                    "_id": "5b3b2d29421aa92fa4cf044f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/cohenmichael_053018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Federal prosecutors get access to over 1M Cohen raid materials: report",
+                    "ts": 1530601561,
+                    "twitterid": 1014042563182039041,
+                    "url": "http://thehill.com/homenews/395235-federal-prosecutors-get-access-to-over-1-million-cohen-raid-materials"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            9
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [],
+        "peaks": [],
+        "theme": [
+            "day",
+            "love",
+            "us",
+            "alive",
+            "anything",
+            "asking",
+            "away"
+        ],
+        "timestamp": "2018-07-03 05:10:16.017345-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd2a",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "'They killed us alive by taking away our children'",
+                    "ts": 1530560407,
+                    "twitterid": 1014005845149999106,
+                    "url": "https://www.latimes.com/nation/immigration/la-na-letter-one-of-the-mothers-20180702-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd2f",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "'I'm asking God every day for us to be together again soon'",
+                    "ts": 1530560403,
+                    "twitterid": 1014005828100153344,
+                    "url": "https://www.latimes.com/nation/immigration/la-na-letter-antonia-20180702-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd28",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "'I love you despite living this nightmare'",
+                    "ts": 1530560408,
+                    "twitterid": 1014005851307175936,
+                    "url": "https://www.latimes.com/nation/immigration/la-na-letter-lesvia-20180702-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd29",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "'I've gone for 23 days without hearing anything about my son'",
+                    "ts": 1530560408,
+                    "twitterid": 1014005848253689856,
+                    "url": "https://www.latimes.com/nation/immigration/la-na-carmen-letter-20180702-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd2d",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "'I love you so much, my child. ... I'm sending you hugs'",
+                    "ts": 1530560405,
+                    "twitterid": 1014005835930800128,
+                    "url": "https://www.latimes.com/nation/immigration/la-na-letter-yenifer-20180702-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Order Flags At Half-Staff To Honor Annapolis Newspaper Staff Vote Resets",
+            "Texas",
+            "Resort",
+            "US",
+            "Thailand Found Alive",
+            "White House",
+            "American",
+            "Capital Gazette",
+            "Trade Indiana",
+            "Cave"
+        ],
+        "peaks": [],
+        "theme": [
+            "Flags",
+            "Annapolis",
+            "drug",
+            "killed",
+            "Mayor",
+            "one",
+            "police"
+        ],
+        "timestamp": "2018-07-03 05:10:16.291326-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd05",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/02/584acb2f-c39f-4d14-b3b9-08158e4b66a3/thumbnail/1200x630/dd8b516b910640fd67ead7e7e2ebc62e/antonio-halili-ap-18183309567303.jpg",
+                    "origin": "CBS News",
+                    "title": "Mayor known for humiliating drug suspects killed by sniper",
+                    "ts": 1530563584,
+                    "twitterid": 1014019170021924864,
+                    "url": "https://www.cbsnews.com/news/philippines-mayor-antonio-halili-tanauan-shot-sniper-drug-suspects-walks-shame/"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fce7",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/capitalgazette_6282018_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Annapolis mayor: Trump declines request to lower US flags after Capital Gazette shootings",
+                    "ts": 1530567065,
+                    "twitterid": 1014033773049114625,
+                    "url": "http://thehill.com/homenews/395253-trump-denies-request-to-lower-us-flags-to-honor-capital-gazette-shooting-victims"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd14",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/06/04/USATODAY/usatsports/tornado-kansas.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "For only the second time on record, no one killed by tornadoes in US in May or June",
+                    "ts": 1530561903,
+                    "twitterid": 1014012120525099008,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/07/02/tornadoes-no-one-killed-us-may-june-2nd-time-record/751634002/"
+                },
+                {
+                    "_id": "5b3b3b31421aa93026d0a93e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpecstasy.jpg",
+                    "origin": "The Hill",
+                    "title": "Indiana police find Trump-shaped ecstasy pills in drug raid",
+                    "ts": 1530604867,
+                    "twitterid": 1014056427139280897,
+                    "url": "http://thehill.com/blogs/in-the-know/395130-indiana-police-find-trump-shaped-ecstasy-pills-in-drug-raid"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd0a",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/02/0/0/694940094001_5804332003001_5804336243001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Texas city to fly 40,000 American flags, one at every home, on 4th of July",
+                    "ts": 1530562980,
+                    "twitterid": 1014016637106827264,
+                    "url": "http://www.foxnews.com/us/2018/06/29/texas-city-to-fly-40000-american-flags-one-at-every-home-on-4th-july.html"
+                },
+                {
+                    "_id": "5b3b3b31421aa93026d0a925",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/03/ap_18183079640886_wide-f81cc62962da0d05d8c2f87a4a2546384c2da756.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "White House Won't Order Flags At Half-Staff To Honor Annapolis Newspaper Staff",
+                    "ts": 1530607799,
+                    "twitterid": 1014068725874507778,
+                    "url": "https://www.npr.org/2018/07/03/625536732/white-house-wont-order-flags-at-half-staff-to-honor-annapolis-newspaper-staff?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd36",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b3b05ac/turbine/ct-met-police-shooting-20180702",
+                    "origin": "Chicago Tribune",
+                    "title": "Police: Officer shoots, seriously injures male who approached him with gun",
+                    "ts": 1530559578,
+                    "twitterid": 1014002366658510848,
+                    "url": "http://www.chicagotribune.com/news/local/breaking/ct-met-police-shooting-20180702-story.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "New Mexico",
+            "CBS Albuquerque",
+            "Service Violation News"
+        ],
+        "peaks": [],
+        "theme": [
+            "dark",
+            "goes",
+            "intruder",
+            "affiliate",
+            "Albuquerque",
+            "CBS",
+            "due"
+        ],
+        "timestamp": "2018-07-03 05:10:16.347711-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b2d29421aa92fa4cf0447",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/02/076719db-4608-4401-809e-172dbbd37441/thumbnail/1200x630/2840ad8b49cad8bfeffac7f76b8f1605/screen-shot-2018-07-02-at-2-46-56-pm.png",
+                    "origin": "CBS News",
+                    "title": "CBS Albuquerque affiliate KRQE-TV goes dark due to intruder",
+                    "ts": 1530602285,
+                    "twitterid": 1014045600768315398,
+                    "url": "https://www.cbsnews.com/news/cbs-albuquerque-affiliate-krqe-tv-goes-dark-due-to-intruder/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3b232904d3012ad01ed0bf&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fd37",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/policelinetape11032017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "News station in New Mexico goes dark for 90 minutes after intruder enters",
+                    "ts": 1530559565,
+                    "twitterid": 1014002313265074176,
+                    "url": "http://thehill.com/homenews/media/395280-news-station-in-new-mexico-goes-dark-for-90-minutes-after-intruder-enters"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Detroit",
+            "Michigan"
+        ],
+        "peaks": [],
+        "theme": [
+            "body",
+            "Crime",
+            "daughter",
+            "dead",
+            "Detroit",
+            "found",
+            "fundamental"
+        ],
+        "timestamp": "2018-07-03 05:10:16.660441-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3b1dfd9b21b3207260fce0",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/3154d4b094905d90c7d29928c67eb2018f3d7902/c=0-26-2400-1382/local/-/media/2017/08/22/DetroitFreeP/DetroitFreePress/636390097886989460-crime-scene-tape.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Detroit mother found living with daughter's dead body for 8 months",
+                    "ts": 1530567818,
+                    "twitterid": 1014036928709185536,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/07/02/detroit-mother-daughter-dead-body/753341002/"
+                },
+                {
+                    "_id": "5b3b3b31421aa93026d0a929",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/59096e231c7a8e33fb38e696/16:9/w_1200,h_630,c_limit/100816_r19881_p646.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Queen of Crime",
+                    "ts": 1530607487,
+                    "twitterid": 1014067415985131520,
+                    "url": "https://www.newyorker.com/magazine/2010/08/16/queen-of-crime?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b3b1dfd9b21b3207260fce5",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/teacherclassroomstudents01272017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Michigan judge rules kids don't have a fundamental right to literacy",
+                    "ts": 1530567364,
+                    "twitterid": 1014035025073930240,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395231-michigan-judge-rules-kids-dont-have-a-fundamental-right-to"
+                }
+            ]
+        ]
+    }
+]

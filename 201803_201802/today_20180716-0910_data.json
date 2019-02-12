@@ -1,0 +1,2062 @@
+[
+    {
+        "list": [
+            35
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "WGBH",
+            "Local Charity",
+            "DNC",
+            "Helsinki Trump",
+            "Jeff Glor",
+            "Scotland",
+            "Expectations",
+            "Donna Brazile",
+            "Hacks Trump",
+            "Rand Paul",
+            "Sanders",
+            "Was",
+            "U.S. Jon Huntsman",
+            "Obama Visits Kenya",
+            "Kentucky",
+            "Iran Tracing",
+            "New EPA Head Andrew Wheeler Vows",
+            "Donald Trump",
+            "Trump Calls",
+            "World",
+            "Trade",
+            "Putin Mueller",
+            "Huge Head Start",
+            "Henry Morgenthau III",
+            "John Bolton",
+            "Donald Trump How Bitcoin",
+            "Harris",
+            "Administration Officials Rein",
+            "Hadn",
+            "Florida",
+            "Barack Obama",
+            "Putin",
+            "Russian",
+            "Mueller",
+            "Land",
+            "Chris Christie",
+            "U.S.",
+            "Booker",
+            "Wildlife",
+            "Pruitt Turmoil Paul Ryan",
+            "China",
+            "China Live",
+            "Vladimir Putin",
+            "European Union"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Putin",
+            "hacked",
+            "Meeting",
+            "election",
+            "indictment",
+            "Russian"
+        ],
+        "timestamp": "2018-07-16 09:10:18.036062-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4b539b421aa914b302b658",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/27/russia_us_89441_s2048x1539.jpg?46aee38aec426183e64e52076817c3f1be9aefb0",
+                    "origin": "The Washington Times",
+                    "title": "John Bolton: New indictment 'strengthens' Trump's hand heading into Putin meeting",
+                    "ts": 1531662803,
+                    "twitterid": 1018493734353276928,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/15/john-bolton-new-indictment-strengthens-trumps-hand/"
+                },
+                {
+                    "_id": "5b4b539b421aa914b302b662",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/15/Trump_Putin_Glance_86024.jpg-1e69f_s2048x1300.jpg?c0a91df607b592bdb59b49ef2e615c8bc2bd5058",
+                    "origin": "The Washington Times",
+                    "title": "President Trump heading into meeting with Russian President Vladimir Putin 'low expectations'",
+                    "ts": 1531661810,
+                    "twitterid": 1018489570772553728,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/15/president-trump-heading-into-meeting-with-russian-/"
+                },
+                {
+                    "_id": "5b4b99f4421aa918c722e419",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/14/2fdfccf0-a2ec-4f00-8c09-150de9ab6d8d/thumbnail/1200x630/f2b9008f555fc6c54dfb60fd97fd67d5/unnamed-3.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump on Putin meeting: \"I go in with low expectations\"",
+                    "ts": 1531678186,
+                    "twitterid": 1018558255423991809,
+                    "url": "https://www.cbsnews.com/news/trump-russia-low-expectations-putin-meeting/"
+                },
+                {
+                    "_id": "5b4c9719421aa92357098eda",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/17/world/17Trump-live8/17Trump-live8-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Live Updates: Trump-Putin Meeting Starts in Helsinki",
+                    "ts": 1531745319,
+                    "twitterid": 1018839832712400901,
+                    "url": "https://www.nytimes.com/2018/07/16/world/europe/trump-putin-summit-helsinki.html?smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5b4b539b421aa914b302b66b",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/33/ba/f938ab3a4f51a6043fd9d79a5178/180314-rand-paul.jpg",
+                    "origin": "POLITICO",
+                    "title": "Rand Paul on Russian election meddling: 'We all do it'",
+                    "ts": 1531661040,
+                    "twitterid": 1018486339644395520,
+                    "url": "https://www.politico.com/story/2018/07/15/rand-paul-election-meddling-russia-722205"
+                },
+                {
+                    "_id": "5b4c9719421aa92357098ede",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/15/5c1ecb77-49cd-4b59-a9cd-9d7d7d148945/thumbnail/1200x630/493549217557c5ac9dbfc16621dd3e36/cbsn-fusion-trump-putin-summit-spectacle-or-substance-thumbnail-1612476-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump says DNC \"should be ashamed of themselves\" for getting hacked",
+                    "ts": 1531745081,
+                    "twitterid": 1018838831087439872,
+                    "url": "https://www.cbsnews.com/news/trump-putin-summit-dnc-should-be-ashamed-of-themselves-for-getting-hacked/?ftag=CNM-00-10aab7e&linkId=54324121"
+                },
+                {
+                    "_id": "5b4bb60a421aa919f21e8fbb",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/03/8f/add6fd9d4e409c8354dde9d38580/180713-mueller-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Mueller indictment sheds light on Russia\u2019s \u2018nasty\u2019 secret election hacking units",
+                    "ts": 1531687504,
+                    "twitterid": 1018597335893467136,
+                    "url": "https://www.politico.com/story/2018/07/13/mueller-indictments-russia-election-hacking-military-intelligence-kremlin-722194"
+                },
+                {
+                    "_id": "5b4b6fcc421aa91679c2663f",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2017/09/28/senate_ambassadors_60130_s2048x1343.jpg?8ae870273b8c884c854d98793d8a76ca8c0bba84",
+                    "origin": "The Washington Times",
+                    "title": "Jon Huntsman, U.S. ambassador: Trump \u2018highly unlikely\u2019 to bend on Crimea in Putin meeting",
+                    "ts": 1531667865,
+                    "twitterid": 1018514964661915651,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/15/jon-huntsman-us-ambassador-trump-highly-unlikely-t/"
+                },
+                {
+                    "_id": "5b4c348d421aa91e772d8b83",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/14/2fdfccf0-a2ec-4f00-8c09-150de9ab6d8d/thumbnail/1200x630/f2b9008f555fc6c54dfb60fd97fd67d5/unnamed-3.jpg",
+                    "origin": "CBS News",
+                    "title": "CBS News' Jeff Glor interviews President Trump in Scotland ahead of Putin meeting",
+                    "ts": 1531720083,
+                    "twitterid": 1018733983406940160,
+                    "url": "https://www.cbsnews.com/news/cbs-news-jeff-glor-interviews-president-trump-scotland-ahead-of-putin-meeting/"
+                },
+                {
+                    "_id": "5b4c8908421aa922b2001714",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/16/Finland_Trump_Putin_Summit_18471.jpg-ded4d_s2048x1423.jpg?c3be9dffecf4da7dcbbfe5afc1d4e79ec48c1d07",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump-Vladimir Putin meeting a \u2018great opportunity\u2019 to discuss trade, nukes, China",
+                    "ts": 1531740358,
+                    "twitterid": 1018819025105801216,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/16/donald-trump-vladimir-putin-meeting-great-opportun/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            48
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Trump With Putin",
+            "Obama",
+            "DNC",
+            "America",
+            "Russians Trump",
+            "Vladimir Putin Trump",
+            "Vladimir Putin",
+            "Donald Trump",
+            "US Russia",
+            "American",
+            "Putin Trump",
+            "Putin For",
+            "Christie",
+            "Snowden",
+            "Hill",
+            "Putin White House",
+            "GOP",
+            "Putin Top Senate Dem",
+            "Putin Russian",
+            "Clinton",
+            "Putin",
+            "Mueller",
+            "Russian",
+            "Schiff",
+            "U.S.",
+            "Bolton",
+            "Helsinki",
+            "Trump",
+            "Carl Bernstein"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Putin",
+            "meeting",
+            "Russian",
+            "summit",
+            "Helsinki",
+            "indictments"
+        ],
+        "timestamp": "2018-07-16 09:10:18.811061-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4bb60a421aa919f21e8fd9",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_joy_trumpputin_180715_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Trump-Putin meeting overshadowed by new indictments of Russians",
+                    "ts": 1531684923,
+                    "twitterid": 1018586512613609472,
+                    "url": "https://www.msnbc.com/am-joy/watch/trump-putin-meeting-overshadowed-by-new-indictments-of-russians-1277404739584?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b4b99f4421aa918c722e3fe",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump_062518getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump arrives in Helsinki ahead of Putin meeting",
+                    "ts": 1531679823,
+                    "twitterid": 1018565122657341442,
+                    "url": "http://thehill.com/homenews/administration/397110-trump-arrives-in-helsinki-ahead-of-putin-summit"
+                },
+                {
+                    "_id": "5b4bc427421aa91a64a52b3c",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_gura_brk_trump_landing_180715_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Trump lands in Helsinki ahead of Putin meeting",
+                    "ts": 1531688463,
+                    "twitterid": 1018601361137651712,
+                    "url": "https://www.msnbc.com/david-gura/watch/trump-lands-in-helsinki-ahead-of-putin-meeting-1277409859826?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b4c7aef421aa9222b8217b5",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/16/BostonGlobe.com/Politics/Images/fb108efdfc1b4e76852ee20624a76b67-fb108efdfc1b4e76852ee20624a76b67-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Putin arrives in Helsinki late for Trump meeting",
+                    "ts": 1531736405,
+                    "twitterid": 1018802441490522114,
+                    "url": "https://www.bostonglobe.com/news/world/2018/07/16/putin-arrives-helsinki-late-for-trump-meeting/uJMK4PMH6Fj6JZiLDHB3sO/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b4c1877421aa91d32dee29c",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/sasseben_061818gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Sasse: Trump shouldn't dignify Putin with Helsinki summit",
+                    "ts": 1531710965,
+                    "twitterid": 1018695740103757824,
+                    "url": "http://thehill.com/homenews/senate/397142-sasse-trump-shouldnt-dignify-putin-with-helsinki-summit?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b4bfc59421aa91c5248445d",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/putintrump_071518getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Bolton: Indictment of Russian hackers 'strengthens' Trump's hand in meeting with Putin",
+                    "ts": 1531702863,
+                    "twitterid": 1018661758872051713,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/397078-bolton-indictment-of-russian-hackers-strengthens-trumps-hand-in"
+                },
+                {
+                    "_id": "5b4ba801421aa9193a963862",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/dcw8d81Ql7py2K_Bd5nca267WIk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H77QHCWNYQYFJBYFJCM4KFBKTY.jpg",
+                    "origin": "Washington Post",
+                    "title": "On Russian state TV, Putin has already won the summit with Trump",
+                    "ts": 1531681399,
+                    "twitterid": 1018571730640662529,
+                    "url": "https://www.washingtonpost.com/news/posteverything/wp/2018/07/15/on-russian-state-tv-putin-has-already-won-the-summit-with-trump/?utm_term=.09aa831858c3&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4c6cd2421aa921c4fd744d",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/16/BostonGlobe.com/Foreign/Images/AFP_17P69W.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump wins sympathy from Russian media ahead of summit",
+                    "ts": 1531732259,
+                    "twitterid": 1018785054212976640,
+                    "url": "https://www.bostonglobe.com/news/world/2018/07/16/trump-wins-sympathy-from-russian-media-ahead-summit/omYWNCjALNcSPW6sL9FEpJ/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b4b7de0421aa91738d8fc83",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump_eu_1.jpg",
+                    "origin": "The Hill",
+                    "title": "For successful summit in Helsinki, Trump must choose words wisely",
+                    "ts": 1531670707,
+                    "twitterid": 1018526885343621120,
+                    "url": "http://thehill.com/opinion/international/397026-for-successful-summit-in-Helskini-trump-must-choose-words-wisely"
+                },
+                {
+                    "_id": "5b4b99f4421aa918c722e3f4",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/54/fd/ddf56f3d4404bb43c06c154817ce/180715-trump-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Why Trump won\u2019t cancel the Putin summit",
+                    "ts": 1531681010,
+                    "twitterid": 1018570098200768519,
+                    "url": "https://www.politico.com/story/2018/07/15/trump-putin-russia-summit-helsinki-722255"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            67
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Win Fourth Wimbledon Novak Djokovic",
+            "NHL",
+            "Pussy Riot",
+            "Chicago",
+            "America",
+            "Kylian Mbappe",
+            "Navy",
+            "Fell Short",
+            "Croatia Allez",
+            "France Wins",
+            "FIFA",
+            "France Revels",
+            "Rooney",
+            "Croatia France",
+            "Washington France Wins",
+            "Wimbledon Title Novak Djokovic",
+            "Thai",
+            "US",
+            "Elon Musk",
+            "Goal Celebrations",
+            "African",
+            "Richie Porte",
+            "Russia",
+            "France",
+            "Industry Conor",
+            "McGregor",
+            "Hamilton",
+            "Croatia Novak Djokovic",
+            "D.C. United",
+            "Novak Djokovic",
+            "Thailand",
+            "AP Interview",
+            "British Diver Exchange Harsh Words Over Thai Cave Rescue Elon Musk",
+            "Washington Politics",
+            "Local Croatian",
+            "Croatia",
+            "Soccer",
+            "Audi Field",
+            "French",
+            "Ontario Fans",
+            "Kevin Anderson",
+            "Paris",
+            "Trump",
+            "Novak Djokovic Rolls",
+            "Former",
+            "Vladimir Putin"
+        ],
+        "peaks": [],
+        "theme": [
+            "Cup",
+            "World",
+            "France",
+            "win",
+            "final",
+            "Croatia",
+            "calling"
+        ],
+        "timestamp": "2018-07-16 09:10:19.873362-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4b61b0421aa9155f372438",
+                    "date_month": "2018-07",
+                    "image": "https://nbcprosoccertalk.files.wordpress.com/2018/06/gettyimages-987938792.jpg",
+                    "origin": "NBC News",
+                    "title": "World Cup final preview: France v Croatia",
+                    "ts": 1531663264,
+                    "twitterid": 1018495666836910080,
+                    "url": "https://soccer.nbcsports.com/2018/07/13/world-cup-final-preview-france-v-croatia/?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b4bd231421aa91adfc26116",
+                    "date_month": "2018-07",
+                    "image": "https://nbcprosoccertalk.files.wordpress.com/2018/07/gettyimages-999517110-e1531677397249.jpg",
+                    "origin": "NBC News",
+                    "title": "France win World Cup after classic final",
+                    "ts": 1531692364,
+                    "twitterid": 1018617721439883265,
+                    "url": "https://soccer.nbcsports.com/2018/07/15/france-win-world-cup-after-classic-final/?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b4ba801421aa9193a96384f",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180715125536-12-world-cup-croatia-france-071518-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Key moments from France's electrifying World Cup final win",
+                    "ts": 1531683009,
+                    "twitterid": 1018578483923116032,
+                    "url": "https://www.cnn.com/2018/07/15/football/world-cup-final-var-mario-mandzukic-own-goal-spt-intl/index.html?utm_medium=social&utm_source=twCNN&utm_content=2018-07-15T19%3A30%3A07&utm_term=image"
+                },
+                {
+                    "_id": "5b4b7de0421aa91738d8fc59",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/f7ff9b284d171bebae84e79f7e742670a6cb4c11/c=0-0-4160-2350/local/-/media/2018/07/15/USATODAY/USATODAY/636672559086536594-AP-APTOPIX-Russia-Soccer-WCup-France-Croatia-101510197.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "France beats Croatia to win World Cup for the second time",
+                    "ts": 1531673736,
+                    "twitterid": 1018539591660339200,
+                    "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2018/07/15/france-wins-world-cup-final-croatia/786415002/"
+                },
+                {
+                    "_id": "5b4b7de0421aa91738d8fc5a",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Sports/WireAP_16ff09a443cc4284b5f504426515de35_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "The Latest: France clinches World Cup with win over Croatia",
+                    "ts": 1531673727,
+                    "twitterid": 1018539551206330368,
+                    "url": "https://abcnews.go.com/Sports/wireStory/latest-putin-passes-torch-qatar-world-cup-2022-56597041?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b4b61b0421aa9155f372422",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/Y81B5AVGmIfkJxbcQyHnXsc8u14=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UPRXAHA3VI64TKHW7RXWUEYYZI.jpeg",
+                    "origin": "Washington Post",
+                    "title": "France vs. Croatia 2018 World Cup final: A whiff of destiny for Croatia?",
+                    "ts": 1531665301,
+                    "twitterid": 1018504212563615745,
+                    "url": "https://www.washingtonpost.com/news/soccer-insider/wp/2018/07/15/france-vs-croatia-2018-world-cup-final/"
+                },
+                {
+                    "_id": "5b4bc427421aa91a64a52b2b",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Sports/WireAP_520f0a5376f94b50bf7fae16d39976ca_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Fans proud despite Croatia's World Cup final loss to France",
+                    "ts": 1531689781,
+                    "twitterid": 1018606885782605824,
+                    "url": "https://abcnews.go.com/Sports/wireStory/fans-proud-croatias-world-cup-final-loss-france-56604004?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b4b7de0421aa91738d8fc5b",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/KOkuzvewXqkIFOe1_GMdH8iocUA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CGCRAGQBLQ5QTAOAPH7XEB6GRI.jpg",
+                    "origin": "Washington Post",
+                    "title": "France vs. Croatia 2018 World Cup final: France wins title for second time",
+                    "ts": 1531673702,
+                    "twitterid": 1018539448814972928,
+                    "url": "https://www.washingtonpost.com/news/soccer-insider/wp/2018/07/15/france-vs-croatia-2018-world-cup-final/"
+                },
+                {
+                    "_id": "5b4b7de0421aa91738d8fc66",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180715090449-croatian-students-protest-0416-2015-file-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Why Kenyans are supporting Croatia in World Cup final",
+                    "ts": 1531673107,
+                    "twitterid": 1018536953459953664,
+                    "url": "https://www.cnn.com/2018/07/15/africa/kenya-croatia-world-cup-garissa-attack/index.html?utm_medium=social&utm_source=twCNN&utm_content=2018-07-15T16%3A45%3A06&utm_term=image"
+                },
+                {
+                    "_id": "5b4bc427421aa91a64a52b26",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/TFxuEOe_3aPvtUptA1U50dVs3Xc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OYGGZ5KK2UZQBMMVBV6HD35COQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Why calling France \u2018the last African team\u2019 in the World Cup is problematic",
+                    "ts": 1531690192,
+                    "twitterid": 1018608611646496775,
+                    "url": "https://www.washingtonpost.com/news/global-opinions/wp/2018/07/10/why-calling-france-the-last-african-team-in-the-world-cup-is-problematic/?utm_term=.4010bc26c5ae&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            75
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "New Technology Spells End",
+            "Space Agencies Put Collaboration",
+            "Farcical Battle",
+            "Acquire Audiobook",
+            "Katy Perry",
+            "Syria Start",
+            "Mercury LLC",
+            "South Global Trade Spat Unnerves Plane Makers Eleven Killed",
+            "Oregon",
+            "Bond Market",
+            "Easy Death",
+            "Dig Schultz",
+            "Straw Ban",
+            "Farm Patch Toronto",
+            "Farnborough Airshow Opens",
+            "Iraq Struggles",
+            "China",
+            "Roughnecks",
+            "Dwight Howard",
+            "Display",
+            "Facebook",
+            "American",
+            "Supreme Court",
+            "Egypt Air Force",
+            "Southern",
+            "NFL",
+            "Roger Goodell",
+            "New Mexico Gotcha",
+            "Mexican",
+            "Commerce",
+            "Wizards",
+            "Lending Startup Greensill Ralph Paige",
+            "New Mexico US",
+            "Instagram",
+            "Walmart",
+            "U.S. Push",
+            "Detroit",
+            "Lending",
+            "Founder",
+            "Nicaragua",
+            "Paula White Edition Colombia",
+            "Boom",
+            "Google",
+            "Signals How",
+            "Stock Market",
+            "House",
+            "Deutsche Bank Says Profit Will Beat Forecasts Arrivals",
+            "Plastic Bag Justin Bieber",
+            "Adidas",
+            "Rules",
+            "ICE Subscribe",
+            "Russian",
+            "U.S.",
+            "Africa",
+            "Activist Looms",
+            "Starbucks",
+            "Infowars",
+            "Emmett Till",
+            "Allies Consider Possible",
+            "Airlines Papa John",
+            "Accra Will Uber",
+            "Gains",
+            "Trump",
+            "Employees Call",
+            "Deloitte"
+        ],
+        "peaks": [],
+        "theme": [
+            "company",
+            "New",
+            "killed",
+            "call",
+            "Government",
+            "Trade"
+        ],
+        "timestamp": "2018-07-16 09:10:20.841505-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4c267d421aa91d87c2dc98",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-18249/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Eleven Killed in Nicaragua as Government Targets Opposition Strongholds",
+                    "ts": 1531714507,
+                    "twitterid": 1018710598199205888,
+                    "url": "https://www.wsj.com/articles/eleven-killed-in-nicaragua-as-government-targets-opposition-strongholds-1531699706?mod=e2tw"
+                },
+                {
+                    "_id": "5b4b7de0421aa91738d8fc79",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/dam/fox-news/images/2018/07/15/37118283_1453076788057879_423366080396787712_o.jpg.img.png/0/0/1531670289511.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "3 people killed, 22 injured after multi-vehicle crash involving tour bus in New Mexico",
+                    "ts": 1531672027,
+                    "twitterid": 1018532423926190080,
+                    "url": "http://www.foxnews.com/us/2018/07/15/3-people-killed-22-injured-after-multi-vehicle-crash-involving-tour-bus-in-new-mexico.html"
+                },
+                {
+                    "_id": "5b4bd231421aa91adfc2610c",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/dam/fox-news/images/2018/07/15/37118283_1453076788057879_423366080396787712_o.jpg.img.png/0/0/1531670290892.png?ve=1",
+                    "origin": "Fox News",
+                    "title": "3 people killed, 24 injured after multi-vehicle crash involving tour bus in New Mexico",
+                    "ts": 1531693491,
+                    "twitterid": 1018622448873426944,
+                    "url": "http://www.foxnews.com/us/2018/07/15/3-people-killed-24-injured-after-multi-vehicle-crash-involving-tour-bus-in-new-mexico.html"
+                },
+                {
+                    "_id": "5b4b7de0421aa91738d8fc73",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/11/trump_nato_summit_35962_s2048x1377.jpg?ed8add4ce233b0d46539e9b71a78f9521bd20d5e",
+                    "origin": "The Washington Times",
+                    "title": "EDITORIAL: Government unions block attempts to demand government excellence",
+                    "ts": 1531672210,
+                    "twitterid": 1018533190540161036,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/11/editorial-government-unions-block-attempts-to-dema/"
+                },
+                {
+                    "_id": "5b4b61b0421aa9155f37242c",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/13/us/13deloitte5/merlin_141184557_49800910-f0dd-4ba7-9c78-48c8c56e4162-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Employees Call on Deloitte to Stop Working With ICE",
+                    "ts": 1531664467,
+                    "twitterid": 1018500714765701120,
+                    "url": "https://www.nytimes.com/2018/07/12/business/deloitte-ice-contract-uproar.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5b4c267d421aa91d87c2dc8f",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-18222/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Global Trade Spat Unnerves Plane Makers",
+                    "ts": 1531715509,
+                    "twitterid": 1018714798941458434,
+                    "url": "https://www.wsj.com/articles/global-trade-spat-unnerves-plane-makers-1531686514?mod=e2tw"
+                },
+                {
+                    "_id": "5b4b7de0421aa91738d8fc5f",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:811cd33820fc47e980c9c42fabc5f4ac/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "US trade, immigration and biofuel policies hit farmers hard",
+                    "ts": 1531673578,
+                    "twitterid": 1018538926271815680,
+                    "url": "https://www.apnews.com/1c189409cf614fa387abf110d8f5e48d?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5b4bb60a421aa919f21e8fc0",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/RTX12B04/facebook.jpg?1531492202",
+                    "origin": "The Atlantic",
+                    "title": "The Farcical Battle Over What to Call Lab-Grown Meat",
+                    "ts": 1531687016,
+                    "twitterid": 1018595289014460416,
+                    "url": "https://www.theatlantic.com/science/archive/2018/07/lab-grown-meat/565049/?utm_source=twitter&utm_content=edit-promo&utm_term=2018-07-13T22%3A50%3A38&utm_campaign=the-atlantic&utm_medium=social"
+                },
+                {
+                    "_id": "5b4b99f4421aa918c722e410",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BC804_iraq07_SOC_20180715121928.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Iraq Struggles to Contain Protests Over Government Dysfunction",
+                    "ts": 1531679041,
+                    "twitterid": 1018561841868439553,
+                    "url": "https://www.wsj.com/articles/iraq-struggles-to-contain-protests-over-government-dysfunction-1531675702?mod=e2tw"
+                },
+                {
+                    "_id": "5b4b539b421aa914b302b656",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/inflation2.jpg",
+                    "origin": "The Hill",
+                    "title": "US has 99 trade war problems, but inflation isn't one",
+                    "ts": 1531663024,
+                    "twitterid": 1018494659327332352,
+                    "url": "http://thehill.com/opinion/finance/396927-us-has-99-trade-war-problems-but-inflation-isnt-one"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            45
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Roy Moore",
+            "Pussy Riot",
+            "America",
+            "NATO Over",
+            "Georgia",
+            "Iran U.S.",
+            "Afghanistan Sacha Baron Cohen",
+            "Secret",
+            "EU",
+            "Gaza",
+            "Sacha Baron Cohen",
+            "Fox News",
+            "Real Growth Numbers",
+            "New Zealand",
+            "Markets How",
+            "Britain",
+            "China",
+            "US",
+            "George",
+            "WTO",
+            "Russia Poll",
+            "Agenda China Cozies Up",
+            "Israeli",
+            "National Politics",
+            "Border Crossers Big Banks Reshape Lobbying Game China",
+            "Births Are",
+            "Joe Walsh",
+            "GOP",
+            "U.S. AP",
+            "Businesses Brace For A Hit Amid Tensions",
+            "Tehran",
+            "Civilian",
+            "Australia",
+            "Trade Spat",
+            "Bash",
+            "Iran Sacha Baron Cohen",
+            "Sarah Palin",
+            "Trade Spat Dings",
+            "U.S.",
+            "Donald Tusk",
+            "Europe",
+            "Trump",
+            "Bill Shine",
+            "Helsiki Summit",
+            "Don"
+        ],
+        "peaks": [],
+        "theme": [
+            "China",
+            "us",
+            "Baron",
+            "Cohen",
+            "Sacha",
+            "trade"
+        ],
+        "timestamp": "2018-07-16 09:10:21.668177-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4b539b421aa914b302b663",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/baroncohensacha_07102018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Who to watch for in Sacha Baron Cohen's upcoming show",
+                    "ts": 1531661582,
+                    "twitterid": 1018488610994229249,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/397033-who-to-watch-for-in-sacha-baron-cohens-upcoming-show"
+                },
+                {
+                    "_id": "5b4bb60a421aa919f21e8fba",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180714231308-who-is-america-sacha-baron-cohen-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Sacha Baron Cohen punks politicians in 'Who is America?'",
+                    "ts": 1531687504,
+                    "twitterid": 1018597339332841477,
+                    "url": "https://www.cnn.com/2018/07/15/entertainment/who-is-america-review/index.html?utm_term=image&utm_content=2018-07-15T20%3A45%3A04&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b4b539b421aa914b302b669",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/baroncohensacha_07102018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Sacha Baron Cohen mulls arming toddlers with guns in inaugural episode",
+                    "ts": 1531661106,
+                    "twitterid": 1018486617881874434,
+                    "url": "http://thehill.com/blogs/in-the-know/in-the-know/397066-sacha-baron-cohen-mulls-arming-toddlers-with-guns-in-inaugural?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b4bd231421aa91adfc260f6",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_joy_sachacohen_180715_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Sacha Baron Cohen pranks Sarah Palin, Roy Moore, and more",
+                    "ts": 1531695611,
+                    "twitterid": 1018631340860821504,
+                    "url": "https://www.msnbc.com/am-joy/watch/sacha-baron-cohen-pranks-sarah-palin-roy-moore-and-more-1277420099911?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b4bb60a421aa919f21e8fc9",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/15/former-rep-joe-walsh-explains-how-who-is-america-star-sacha-baron-cohen-duped-him/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531685370809.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Former Rep. Joe Walsh explains how 'Who Is America?' star Sacha Baron Cohen duped him",
+                    "ts": 1531686150,
+                    "twitterid": 1018591659385344001,
+                    "url": "http://www.foxnews.com/politics/2018/07/15/former-rep-joe-walsh-explains-how-who-is-america-star-sacha-baron-cohen-duped-him.html"
+                },
+                {
+                    "_id": "5b4b8bdf421aa9180c2d5dc2",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/gNtubJhOPldKbNPIlfs2iA5EkHE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AWPEKKUG4AI6RHQGJW2SVRBOAU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Sacha Baron Cohen\u2019s new show offers a pointed critique of America. His targets say he\u2019s a dishonest liberal.",
+                    "ts": 1531676381,
+                    "twitterid": 1018550682008391682,
+                    "url": "https://www.washingtonpost.com/business/2018/07/15/sacha-baron-cohen-seeks-expose-american-hypocrisy-his-targets-say-otherwise/?utm_term=.e56c06a27f9c&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4bb60a421aa919f21e8fcb",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/s6Zc3uq1Q52_XwHYfIXsrsZjnOM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N5RM74WR2Y7PFJOIRU3YLVNEBA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Former congressman Joe Walsh explains how Sacha Baron Cohen tricked him into supporting arming toddlers with guns",
+                    "ts": 1531686122,
+                    "twitterid": 1018591540283928577,
+                    "url": "https://www.washingtonpost.com/news/reliable-source/wp/2018/07/15/former-rep-joe-walsh-explains-how-sacha-baron-cohen-tricked-him-into-supporting-arming-toddlers-with-guns/?utm_term=.8d427e259d5c&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4c0a63421aa91cab29d380",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/5KFjed972P1pypcatXAcK4UCBnY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WMDXGHEIAII6RBKTUPHISA3MPA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Sacha Baron Cohen still knows how to punk America, but his new show erodes what little trust we have left",
+                    "ts": 1531707540,
+                    "twitterid": 1018681374868475906,
+                    "url": "https://www.washingtonpost.com/entertainment/tv/sacha-baron-cohen-still-knows-how-to-punk-america-but-his-new-show-erodes-what-little-trust-we-have-left/2018/07/15/2ef45262-8784-11e8-8f6c-46cb43e3f306_story.html?utm_term=.dc3918d31a36&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4c7aef421aa9222b82179b",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-18280/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "China Cozies Up to EU as Trade Spat With U.S. Escalates",
+                    "ts": 1531738808,
+                    "twitterid": 1018812520327471104,
+                    "url": "https://www.wsj.com/articles/china-cozies-up-to-eu-as-trade-spat-with-u-s-escalates-1531737461?mod=e2tw"
+                },
+                {
+                    "_id": "5b4c9719421aa92357098edb",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/chinaflag_istock.jpg",
+                    "origin": "The Hill",
+                    "title": "EU presses China to open up economy, avoid trade war",
+                    "ts": 1531745106,
+                    "twitterid": 1018838938759454720,
+                    "url": "http://thehill.com/policy/international/397161-eu-presses-china-to-open-up-its-economy-avoid-trade-war"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            108
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Washington Times District",
+            "Drake",
+            "John Cynn",
+            "Franklin Graham",
+            "Battle",
+            "Humankind Magic",
+            "Nancy Barbato Sinatra",
+            "Columbia",
+            "Boston Harbor Islands",
+            "Grand Slam",
+            "Steamy Songs",
+            "Attack",
+            "Wimbledon",
+            "Meghan Markle",
+            "Trippy",
+            "Diverse",
+            "U.S.",
+            "Garden",
+            "Castelluccio",
+            "Indonesia Rare",
+            "Stormy Daniels",
+            "American Wine James Taylor",
+            "ABC News",
+            "Martin Truex",
+            "Brandon",
+            "Demi Moore",
+            "MacNicol",
+            "Women Bed Of Ros\u00e9s",
+            "Dennis Rodman",
+            "Yosemite National Park Testosterone",
+            "Greenland",
+            "Kentucky",
+            "Jessica Luther",
+            "New York",
+            "Free Museum",
+            "California Amid",
+            "Wait",
+            "James Woods",
+            "Serena Williams",
+            "MLB",
+            "Great Plain",
+            "MeToo",
+            "Laura Perille",
+            "Michael Avenatti",
+            "Missouri",
+            "Danez Smith",
+            "Female Friendship Mapping Brooklyn",
+            "Competition",
+            "Sonic Fury",
+            "Ojai Music Festival Stolen",
+            "Jaguar",
+            "London",
+            "Quest",
+            "Drone Racing Wildfire",
+            "Black Abortion Rate",
+            "Glynnis",
+            "New Orleans",
+            "Nick",
+            "Ecstatic Body Language",
+            "Beach",
+            "Bruce Willis",
+            "Blackness",
+            "Killers",
+            "Total",
+            "Study Finds Congressional",
+            "Kabul",
+            "Florida",
+            "Migrant Mother",
+            "Treadmill Stories",
+            "English \u00c9lite",
+            "Frank Sinatra",
+            "Chicago",
+            "Moon",
+            "Chris Pratt",
+            "Poker",
+            "Social",
+            "Italy",
+            "Mob Slaughters Hundreds Of Crocodiles",
+            "US",
+            "Gianni Versace",
+            "Bahamas Cargo Harrison",
+            "Taylor Swift",
+            "New York City",
+            "Nancy Sinatra Shark",
+            "DNA",
+            "Rocky Start Back",
+            "Nicaraguan",
+            "Brain Colors Bloom",
+            "Rod Rosenstein",
+            "Tennessee",
+            "Harry Potter",
+            "Kim Jong Un"
+        ],
+        "peaks": [],
+        "theme": [
+            "New",
+            "family",
+            "killing",
+            "us",
+            "animals",
+            "Get",
+            "life"
+        ],
+        "timestamp": "2018-07-16 09:10:23.714037-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4bee55421aa91bc94ce75c",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/07/15/meghan-markles-dad-believes-his-daughter-is-terrified-adjusting-to-new-life-calls-royal-family-outdated/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531656628933.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Meghan Markle's dad believes his daughter is 'terrified' adjusting to new life, calls royal family 'outdated'",
+                    "ts": 1531699919,
+                    "twitterid": 1018649407577821189,
+                    "url": "http://www.foxnews.com/entertainment/2018/07/15/meghan-markles-dad-believes-his-daughter-is-terrified-adjusting-to-new-life-calls-royal-family-outdated.html"
+                },
+                {
+                    "_id": "5b4c8908421aa922b2001706",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/aM6akV3vSxeWaOB_evm37MqvQ5E=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/56IJN46AEYYT5EON7G624LON5U.jpg",
+                    "origin": "Washington Post",
+                    "title": "Jaguar escapes zoo habitat, moves from enclosure to enclosure, killing trapped animals",
+                    "ts": 1531741554,
+                    "twitterid": 1018824040121847808,
+                    "url": "https://www.washingtonpost.com/news/animalia/wp/2018/07/14/jaguar-escapes-new-orleans-zoo-enclosure-killing-4-alpacas-an-emu-and-a-fox/?utm_term=.3c5913f45a0e&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4c5ebc421aa920a27a9038",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/14/23c4d481-974e-44de-aed8-6c57c10772b2/thumbnail/1200x630g2/bb32e85eda33991b6e118fc66addcc84/jaguar.jpg",
+                    "origin": "CBS News",
+                    "title": "Jaguar escapes, kills 6 animals at New Orleans zoo",
+                    "ts": 1531730505,
+                    "twitterid": 1018777696568999936,
+                    "url": "https://www.cbsnews.com/news/audubon-zoo-new-orleans-jaguar-escapes-kills-6-animals-2018-07-14/"
+                },
+                {
+                    "_id": "5b4bb60a421aa919f21e8fca",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/15/BostonGlobe.com/National/Images/85985edc768e488bb8cf81d44928353f-85985edc768e488bb8cf81d44928353f-6938.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Jaguar escapes New Orleans zoo enclosure, kills six other animals",
+                    "ts": 1531686147,
+                    "twitterid": 1018591643988119552,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/07/15/jaguar-escapes-new-orleans-zoo-enclosure-kills-six-other-animals/GFefwBtxsOpCoIJYgFFCzH/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b4c429f421aa91f9741c6ac",
+                    "date_month": "2018-07",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_28/2496036/170712-milky-way-mn-1745_fd0f45dba25fe11af3d3f77b39ab2752.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Are we truly alone in the cosmos? New study casts doubt on rise of alien life in our galaxy",
+                    "ts": 1531722662,
+                    "twitterid": 1018744802043711490,
+                    "url": "https://www.nbcnews.com/mach/science/are-we-truly-alone-cosmos-new-study-casts-doubt-rise-ncna891286?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b4be03d421aa91b693b9853",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BB655_garden_SOC_20180710180403.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "\u2018Life in the Garden\u2019 Review: Getting Your Hands Dirty",
+                    "ts": 1531695619,
+                    "twitterid": 1018631372800516096,
+                    "url": "https://www.wsj.com/articles/life-in-the-garden-review-getting-your-hands-dirty-1531445041?mod=e2tw"
+                },
+                {
+                    "_id": "5b4c267d421aa91d87c2dc88",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-18146/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "New York City Library Cards Begin New Chapter as Free Museum Passes",
+                    "ts": 1531716304,
+                    "twitterid": 1018718135199895552,
+                    "url": "https://www.wsj.com/articles/new-york-city-library-cards-begin-new-chapter-as-free-museum-passes-1531713661?mod=e2tw"
+                },
+                {
+                    "_id": "5b4be03d421aa91b693b982e",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/13/BostonGlobe.com/Metro/Images/davis_ad1A_met.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Family of slain Lynn teacher honors her with a softball tournament",
+                    "ts": 1531699081,
+                    "twitterid": 1018645894093246464,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/15/family-slain-lynn-teacher-honors-her-with-softball-tournament/8Stcn6dvfS7cZmfpYBj0QP/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b4c9719421aa92357098ee0",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:4daed3d84bb541cc8fa8f2475393c0e9/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Jared Kushner's family firm accused of pushing out tenants",
+                    "ts": 1531745003,
+                    "twitterid": 1018838504548249600,
+                    "url": "https://apnews.com/00b4e72ad95d4580ad3cb258b2c3444d/Jared-Kushner's-family-firm-accused-of-pushing-out-tenants?utm_campaign=SocialFlow&utm_medium=AP_Politics&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b4c429f421aa91f9741c6a4",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/US/abc_whit3_le_180713_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "DNA test 'accidentally unlocks family mystery' for ABC News correspondent",
+                    "ts": 1531723301,
+                    "twitterid": 1018747480773718016,
+                    "url": "https://abcnews.go.com/US/dna-test-accidentally-unlocks-family-mystery-abc-news/story?id=56567642&cid=social_twitter_abcn"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            47
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Chicago",
+            "Illegal",
+            "Newton",
+            "Weymouth",
+            "Crowd Confronts Officers",
+            "Indiana",
+            "Deadly",
+            "California",
+            "Drug Gangs",
+            "Weymoth",
+            "Boston Former",
+            "Kansas City",
+            "DNA",
+            "Florida",
+            "Missouri",
+            "Control How",
+            "Michael Chesna",
+            "CVS",
+            "Relisha Rudd",
+            "Colombian Rebels Once Ruled",
+            "Michael Chesna Arrest"
+        ],
+        "peaks": [],
+        "theme": [
+            "police",
+            "officer",
+            "shooting",
+            "Chicago",
+            "killing",
+            "Man",
+            "shot"
+        ],
+        "timestamp": "2018-07-16 09:10:24.271943-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4b8bdf421aa9180c2d5dca",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:123b45705d2345ec8b1486e795d15928/800.jpeg",
+                    "origin": "AP Central U.S.",
+                    "title": "Chicago police: Video shows fatal officer involved shooting",
+                    "ts": 1531675593,
+                    "twitterid": 1018547378121510912,
+                    "url": "https://apnews.com/299d3ecfc8774edc8dea1d34166f4d07?utm_campaign=SocialFlow&utm_medium=APCentralRegion&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b4c8908421aa922b2001707",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/16/BostonGlobe.com/Metro/Images/fatalshooting1.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Man accused of killing Weymouth officer, bystander will be arraigned today",
+                    "ts": 1531741489,
+                    "twitterid": 1018823766711914496,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/16/man-accused-fatally-shooting-police-officer-and-woman-weymouth-arraigned/48xpo1dyvMSTKYdWfYiFKJ/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b4bb60a421aa919f21e8fd0",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180715012001-01-chicago-police-shooting-protests-0714-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Protests break out in Chicago after a man is fatally shot by police",
+                    "ts": 1531685704,
+                    "twitterid": 1018589785705865217,
+                    "url": "https://www.cnn.com/2018/07/14/us/chicago-officer-involved-shooting/index.html?utm_term=image&utm_content=2018-07-15T20%3A15%3A03&utm_source=twCNN&utm_medium=social"
+                },
+                {
+                    "_id": "5b4bc427421aa91a64a52b14",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/15/0/0/694940094001_5809570396001_5809574283001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Chicago man shot, killed by officers appeared to have gun, police say",
+                    "ts": 1531691543,
+                    "twitterid": 1018614279090696194,
+                    "url": "http://www.foxnews.com/us/2018/07/15/chicago-man-shot-killed-by-officers-appeared-to-have-gun-police-say.html"
+                },
+                {
+                    "_id": "5b4b6fcc421aa91679c26644",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/15/BostonGlobe.com/Metro/Images/weymouth1.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Weymouth police officer shot",
+                    "ts": 1531667484,
+                    "twitterid": 1018513367059910656,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/15/weymouth-police-officer-critically-injured-shooting/WNwetS15HoqUNOJv58O0wI/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b4c0a63421aa91cab29d370",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/augustus_harith_chicagopolice.png",
+                    "origin": "The Hill",
+                    "title": "Chicago police release body cam video of cop fatally shooting black man",
+                    "ts": 1531709108,
+                    "twitterid": 1018687949330886656,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/397141-chicago-police-release-bodycam-video-of-cop-fatally-shooting-black"
+                },
+                {
+                    "_id": "5b4c7aef421aa9222b8217a2",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/US/chicago-shooting-investigation-wls-mo-20180715_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Chicago police officer placed on desk duty after fatal shooting sparks protests",
+                    "ts": 1531737995,
+                    "twitterid": 1018809110605811712,
+                    "url": "https://abcnews.go.com/US/chicago-police-officer-desk-duty-fatal-shooting-sparks/story?id=56595616&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b4ba801421aa9193a963851",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Protests Break Out In Chicago Following Deadly Police Shooting",
+                    "ts": 1531682883,
+                    "twitterid": 1018577956703109120,
+                    "url": "https://www.npr.org/2018/07/15/629226998/protests-break-out-in-chicago-following-deadly-police-shooting?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b4bee55421aa91bc94ce764",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/15/c5e16d94-9a27-4251-abe4-a407d07f5b0f/thumbnail/1200x630/dfc1c27a1944aaa1a2efc0272001767c/south-shore-shooting-still-1.png",
+                    "origin": "CBS News",
+                    "title": "Chicago police release video of deadly shooting amid protests",
+                    "ts": 1531699481,
+                    "twitterid": 1018647571819089922,
+                    "url": "https://www.cbsnews.com/news/chicago-police-release-video-fatal-shooting-harith-augustus-protests-today-2019-07-15/?ftag=CNM-00-10aab7e&linkId=54306101"
+                },
+                {
+                    "_id": "5b4c267d421aa91d87c2dc87",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/15/c93549f7-d2d5-436d-9391-f0cfc1699272/thumbnail/1200x630/7a240fd9da2623dee2cc8b0c97260a26/police-clash.jpg",
+                    "origin": "CBS News",
+                    "title": "Chicago police clash with angry residents after deadly shooting",
+                    "ts": 1531716483,
+                    "twitterid": 1018718884797599754,
+                    "url": "https://www.cbsnews.com/news/chicago-police-clash-with-residents-after-deadly-shooting-harith-augustus-today-2018-07-15/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b4c238104d3013155056d64&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            76
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Putin Get",
+            "Obama",
+            "NATO Bolton",
+            "Helsinki Trump",
+            "Helsinki Trump Greets Putin",
+            "Scotland",
+            "Putin As Trump",
+            "Trump Begins Summit",
+            "Russia Will Have",
+            "Financial",
+            "Wall Street Journal",
+            "Putin Trump Meets Putin",
+            "Trump At Helsinki Summit",
+            "Putin Helsinki",
+            "Make Helsinki Summits",
+            "Video",
+            "Putin To Meet",
+            "Carlson",
+            "Washington Fears Trump Will Be No Match",
+            "Putin Five",
+            "German",
+            "Ambassador Huntsman",
+            "US",
+            "Putin Trump",
+            "America Confronts Russia",
+            "Fox",
+            "Russia Trump",
+            "Latest",
+            "Putin Meet",
+            "United States Reagan",
+            "Finland",
+            "Huntsman",
+            "Terror Expert Compares Reaction",
+            "Hypocrisy",
+            "GOP",
+            "FBI",
+            "White Helmets",
+            "United States",
+            "Merkel",
+            "New Charges Over Russia",
+            "Eastern Europe Questions",
+            "Russia Efforts",
+            "Largest",
+            "Economic News",
+            "Business",
+            "Putin",
+            "Tweet",
+            "Russian",
+            "Mueller",
+            "Amateur Boxer Up Against Muhammad Ali",
+            "U.S.",
+            "Crimea",
+            "Finland Trump",
+            "Helsinki",
+            "Mattis",
+            "World News",
+            "Trump Meets Putin",
+            "Europe",
+            "Hopes",
+            "Trump",
+            "China",
+            "Summit Begins",
+            "Danger",
+            "European Union"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Putin",
+            "summit",
+            "Meets",
+            "Helsinki",
+            "Russia"
+        ],
+        "timestamp": "2018-07-16 09:10:25.510389-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4c9719421aa92357098f04",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/RTS1VZB7/facebook.jpg?1531511351",
+                    "origin": "The Atlantic",
+                    "title": "Trump Meets Putin While America Confronts Russia",
+                    "ts": 1531742834,
+                    "twitterid": 1018829406977101824,
+                    "url": "https://www.theatlantic.com/international/archive/2018/07/trump-putin-russia-helsinki/565121/?utm_term=2018-07-16T09%3A00%3A51&utm_content=edit-promo&utm_source=twitter&utm_medium=social&utm_campaign=the-atlantic"
+                },
+                {
+                    "_id": "5b4c8908421aa922b20016fe",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/27/15/4040eefa478aa47a0b4b663a9f6f/180716-putin-trump-2-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump meets Putin against backdrop of tense U.S.-Russia relations",
+                    "ts": 1531742118,
+                    "twitterid": 1018826406577524736,
+                    "url": "https://www.politico.com/story/2018/07/16/trump-russia-putin-summit-722418"
+                },
+                {
+                    "_id": "5b4c9719421aa92357098eea",
+                    "date_month": "2018-07",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/071618_trump_putin.jpg?itok=yfTNFOyw",
+                    "origin": "Fox News",
+                    "title": "Trump Greets Putin in Helsinki, Predicts US and Russia Will Have 'Extraordinary Relationship'",
+                    "ts": 1531744472,
+                    "twitterid": 1018836276462702592,
+                    "url": "http://insider.foxnews.com/2018/07/16/trump-greets-putin-helsinki-finland-predicts-us-and-russia-will-have-extraordinary"
+                },
+                {
+                    "_id": "5b4b61b0421aa9155f372415",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:c7aaf8995a754a1a80319edc99148494/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump sets expectations low for Helsinki summit with Putin",
+                    "ts": 1531666763,
+                    "twitterid": 1018510343142805504,
+                    "url": "https://www.apnews.com/36fbf998b9d948f3a7e7b9820d223096?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b4b6fcc421aa91679c2663c",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:7dc1a602883948979c5674075f439aef/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "What Trump and Putin hope to achieve at Helsinki summit",
+                    "ts": 1531668033,
+                    "twitterid": 1018515669443375104,
+                    "url": "https://www.apnews.com/d5453116b9c84b2483babfcc547ce858?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5b4c50b0421aa9202107c170",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180402101940-putin-trump-split-0402-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Helsinki summit: Trump blames US -- not Putin -- for sour relationship",
+                    "ts": 1531725544,
+                    "twitterid": 1018756890380169216,
+                    "url": "https://www.cnn.com/2018/07/16/politics/donald-trump-putin-helsinki-summit/index.html?utm_term=image&utm_content=2018-07-16T07%3A19%3A03&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b4c7aef421aa9222b8217a8",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/helsinkifinlnd_07152018.jpg",
+                    "origin": "The Hill",
+                    "title": "The Helsinki summit: 5 things Trump must discuss with Putin",
+                    "ts": 1531737663,
+                    "twitterid": 1018807720164675584,
+                    "url": "http://thehill.com/opinion/white-house/397100-the-helsinki-summit-5-things-trump-must-discuss-with-putin"
+                },
+                {
+                    "_id": "5b4c429f421aa91f9741c69f",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/16/world/16Trump-live1/16Trump-live1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Trump Meets Putin: Live Updates From Finland",
+                    "ts": 1531723894,
+                    "twitterid": 1018749965965910017,
+                    "url": "https://www.nytimes.com/2018/07/16/world/europe/trump-putin-summit-helsinki.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5b4b6fcc421aa91679c26649",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:18bd1a9c77844176901515ec56f412b7/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump, Putin summit in Helsinki to top their past encounters",
+                    "ts": 1531666924,
+                    "twitterid": 1018511017704292352,
+                    "url": "https://www.apnews.com/b72b61520fc0426bac6cd9e5bb132b62?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b4b539b421aa914b302b65c",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/12/ap_18190554079526_wide-1c5ff517ef7e95b49ebc07f6ae4552318b7c7c74.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Russian 'Reset 2.0': What Putin Wants From Trump At Helsinki Summit",
+                    "ts": 1531662184,
+                    "twitterid": 1018491136145575938,
+                    "url": "https://www.npr.org/2018/07/15/628616296/russian-reset-2-0-what-putin-wants-from-trump-at-helsinki-summit?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180715"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            50
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Republican Party",
+            "Pelosi Dianne Feinstein",
+            "California Democratic",
+            "California Dems",
+            "Midwest",
+            "Blue States",
+            "Next Big Democratic",
+            "Charlotte Democrats",
+            "Schumer",
+            "Senate Democrats",
+            "Kavanaugh",
+            "White House",
+            "Rick Scott",
+            "Alabama",
+            "Wade Crowley",
+            "SCOTUS Pick Defeated",
+            "Standard",
+            "Year Arizona Finally Turns Blue",
+            "Slams Hillary",
+            "Supreme Court",
+            "Minnesota Bernie Sanders",
+            "US Senate",
+            "Bill Nelson",
+            "California",
+            "Russia",
+            "Washington Trump",
+            "Fourth",
+            "GOP",
+            "Concerned",
+            "Democrats Mayors",
+            "Trump Supreme Court",
+            "Break Beto",
+            "Mueller",
+            "Supreme Court Kills Roe",
+            "Brett Kavanaugh",
+            "Who May Have Pivotal Supreme Court Vote",
+            "Kennedy Fox News Poll",
+            "Trump",
+            "Senate Key Race",
+            "Dems",
+            "California Democratic Party"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Democratic",
+            "Feinstein",
+            "states",
+            "California",
+            "Court",
+            "party"
+        ],
+        "timestamp": "2018-07-16 09:10:26.502340-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4bc427421aa91a64a52b3a",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/15/Senate_California_16459.jpg-091b1_s2048x1507.jpg?81d65d4fe1fbd48576d5dbe13612d8a53649fe73",
+                    "origin": "The Washington Times",
+                    "title": "Dianne Feinstein snubbed by California Democratic Party",
+                    "ts": 1531688557,
+                    "twitterid": 1018601754148179969,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/15/dianne-feinstein-snubbed-california-democratic-par/"
+                },
+                {
+                    "_id": "5b4bd231421aa91adfc2611b",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_28/2498311/180714-dianne-feinstein-al-1107_b2dc53076f6d9a69d828383ad1dcb170.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "California Democratic Party abandons incumbent Feinstein, endorses opponent",
+                    "ts": 1531692066,
+                    "twitterid": 1018616470278942721,
+                    "url": "https://www.nbcnews.com/politics/politics-news/california-democratic-party-abandons-incumbent-feinstein-endorses-opponent-n891556?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b4c9719421aa92357098ed1",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BC808_FEINST_SOC_20180715153908.jpg",
+                    "origin": "Capital Journal",
+                    "title": "California Democratic Officials Reject Dianne Feinstein",
+                    "ts": 1531745945,
+                    "twitterid": 1018842458262855680,
+                    "url": "https://www.wsj.com/articles/california-democratic-officials-reject-dianne-feinstein-1531685705?mod=e2twp"
+                },
+                {
+                    "_id": "5b4b539b421aa914b302b66a",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/07/15/california-dems-snub-sen-dianne-feinstein-for-longshot-rival-in-clear-eyed-rejection-party-establishment/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531658243167.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "California Dems snub Sen. Dianne Feinstein for longshot rival, in 'clear-eyed rejection' of party establishment",
+                    "ts": 1531661050,
+                    "twitterid": 1018486382900150274,
+                    "url": "http://www.foxnews.com/politics/2018/07/15/california-dems-snub-sen-dianne-feinstein-for-longshot-rival-in-clear-eyed-rejection-party-establishment.html"
+                },
+                {
+                    "_id": "5b4be03d421aa91b693b9841",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:ec263616a63e45fd8d6580e96935a56e/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Feinstein remains favorite in California race despite snub",
+                    "ts": 1531697305,
+                    "twitterid": 1018638443608453120,
+                    "url": "https://apnews.com/63ecdfd7f3dc4c3baa7b6e26527d08ba?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5b4bd231421aa91adfc2611a",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_joy_supremecourt_180715_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Senate Democrats vow to fight Trump Supreme Court pick",
+                    "ts": 1531692124,
+                    "twitterid": 1018616713317961729,
+                    "url": "https://www.msnbc.com/am-joy/watch/senate-democrats-vowing-to-fight-trump-supreme-court-pick-1277416003710?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b4bc427421aa91a64a52b15",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/YKwnaHVNodyY2pwbEOoPZUedYCk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B5GBFJUF6QI6RBKTUPHISA3MPA.jpg",
+                    "origin": "Washington Post",
+                    "title": "The Midwest eases its Trump swoon and flirts again with Democratic candidates",
+                    "ts": 1531691523,
+                    "twitterid": 1018614194147643392,
+                    "url": "https://www.washingtonpost.com/powerpost/the-midwest-eases-its-trump-swoon-and-flirts-again-with-democratic-candidates/2018/07/15/92ef34ae-8530-11e8-8f6c-46cb43e3f306_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b4c429f421aa91f9741c69e",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/fae052bef9123c9cf85936529d3cb9ef63839522/c=0-64-2996-1756/local/-/media/2018/07/14/USATODAY/USATODAY/636671414859065190-AFP-AFP-17L1BO.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Trump started the summer with nearly $54 million for his re-election and his party",
+                    "ts": 1531723938,
+                    "twitterid": 1018750152092389376,
+                    "url": "https://www.usatoday.com/story/news/2018/07/15/trump-fundraising-team-started-summer-54-million-bank/786650002/"
+                },
+                {
+                    "_id": "5b4c0a63421aa91cab29d37f",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/uVNHiBucxvDQSeVZ9iEDAV6z9_c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MBOZP4O4MM5YPAMUWZOSM7DFIA.jpg",
+                    "origin": "Post Politics",
+                    "title": "Trump raises $90 million for his reelection bid and the Republican Party, with less going to legal fees",
+                    "ts": 1531707544,
+                    "twitterid": 1018681390768979968,
+                    "url": "https://www.washingtonpost.com/news/post-politics/wp/2018/07/15/trump-raises-90-million-for-his-reelection-bid-and-gop-with-less-going-to-legal-fees/?tid=sm_tw_pp"
+                },
+                {
+                    "_id": "5b4bfc59421aa91c5248445f",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/d98f34abea81bdd57e77a2e1a247c723a2e9cad2.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Blue States\u2019 Regressive Abortion Laws",
+                    "ts": 1531702818,
+                    "twitterid": 1018661570203799554,
+                    "url": "https://newrepublic.com/article/149800/blue-states-regressive-abortion-laws"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            39
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Extreme Lawn Care Tara Sullivan",
+            "Netflix Takes Over Amazon",
+            "Prince Louis",
+            "Vudu",
+            "Dipped",
+            "Hulu",
+            "Service Violation Jabari Parker",
+            "Emmys Nominations",
+            "Manager",
+            "Which Kindle",
+            "Joseph",
+            "Trim Doesn",
+            "Apparel",
+            "Sweaty",
+            "America Results",
+            "History",
+            "Computers",
+            "NFL",
+            "Twitch Baby",
+            "Elsie Fisher",
+            "HBO",
+            "Eduardo Rodriguez",
+            "David Ortiz",
+            "Serena Williams",
+            "Amazon",
+            "Electronics",
+            "Wimbledon",
+            "Bulls Smartphones Killed Handwriting",
+            "Novak Djokovic",
+            "Strong",
+            "Queen Elizabeth II",
+            "DVDs",
+            "U.S.",
+            "Books",
+            "Bank",
+            "Tennis",
+            "Blue Jays",
+            "Palace"
+        ],
+        "peaks": [],
+        "theme": [
+            "Amazon",
+            "Day",
+            "Prime",
+            "get",
+            "Sales",
+            "best",
+            "christening"
+        ],
+        "timestamp": "2018-07-16 09:10:26.981764-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4bc427421aa91a64a52b24",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/0312fd40748217e06bba607f93c148d92392bf92/c=8-0-3298-1859/local/-/media/2018/07/13/USATODAY/USATODAY/636671001884192448-prime-day-hero.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Here are all the best Amazon Prime Day deals you can get right now",
+                    "ts": 1531690204,
+                    "twitterid": 1018608662384922626,
+                    "url": "https://www.usatoday.com/story/tech/reviewedcom/2018/07/13/here-all-best-amazon-prime-day-deals-you-can-get-before-prime-day/36436683/"
+                },
+                {
+                    "_id": "5b4bee55421aa91bc94ce750",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_25/2473831/180622-amazon-mc-1124_ca7e2984e0ba8ed3075b96f56cb97e97.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "How to get the most out of Amazon Prime Day without overspending",
+                    "ts": 1531701066,
+                    "twitterid": 1018654220814307340,
+                    "url": "https://www.nbcnews.com/better/business/how-get-most-amazon-prime-day-without-overspending-ncna890561?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b4c267d421aa91d87c2dc9a",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/7c24463c5241683c28659c69159f92cad4f5a0da/c=13-0-6003-3384/local/-/media/2018/07/13/USATODAY/USATODAY/636670736528079761-GettyImages-534203250.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "These stores are having amazing sales to compete with Amazon Prime Day",
+                    "ts": 1531714504,
+                    "twitterid": 1018710583523315712,
+                    "url": "https://www.usatoday.com/story/tech/reviewedcom/2018/07/13/all-other-stores-having-sales-amazon-prime-day/36436381/"
+                },
+                {
+                    "_id": "5b4c267d421aa91d87c2dc83",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/8049dc393cdeece50722dbd82e4d29c0bef3d702/c=78-0-1060-555/local/-/media/2018/07/02/USATODAY/USATODAY/636661433870847317-Screen-Shot-2018-07-02-at-12.48.40-PM.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Are Amazon Prime Day sales a steal? We asked 4 pricing firms to find out",
+                    "ts": 1531717209,
+                    "twitterid": 1018721927387602944,
+                    "url": "https://www.usatoday.com/story/tech/talkingtech/2018/07/10/amazon-prime-day-sales-steal-we-asked-4-pricing-firms/737990002/"
+                },
+                {
+                    "_id": "5b4bee55421aa91bc94ce73d",
+                    "date_month": "2018-07",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/160712103646-amazon-prime-day-graphic-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "Why Prime Day is important to Amazon",
+                    "ts": 1531702813,
+                    "twitterid": 1018661547298770944,
+                    "url": "https://money.cnn.com/2018/07/15/news/companies/amazon-prime-day-2018-deals-sales-echo-alexa/index.html?utm_source=twCNN&utm_medium=social&utm_term=image&utm_content=2018-07-16T01%3A00%3A11"
+                },
+                {
+                    "_id": "5b4c1877421aa91d32dee29e",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/b2a70fad29eb51d002871e82a65d12be1e63b624/c=0-275-5400-3326/local/-/media/2018/07/12/USATODAY/USATODAY/636669980864874473-ap-prime-day-small-businesses-101422679.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Stores that will match Amazon's Prime Day prices -- and those that won't",
+                    "ts": 1531710903,
+                    "twitterid": 1018695478249213959,
+                    "url": "https://www.usatoday.com/story/tech/nation-now/2018/07/15/prime-day-2018-some-amazon-competitors-match-sale-prices/779952002/"
+                },
+                {
+                    "_id": "5b4c0a63421aa91cab29d36b",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/07/09/USATODAY/usatsports/amazon-companies-with-the-best-reputations.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Amazon Prime Day 2018: Is it worth paying $119 to take part?",
+                    "ts": 1531709404,
+                    "twitterid": 1018689190500995074,
+                    "url": "https://www.usatoday.com/story/tech/2018/07/12/amazon-prime-day-worth-price/776088002/"
+                },
+                {
+                    "_id": "5b4c6cd2421aa921c4fd7434",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/05/22/fe2c1f57-9621-4c1a-b6f8-e6e3e803c6af/thumbnail/1200x630/f078756ade086bb763307924aa31ab1f/2018-04-22t183146z-862811522-rc15a59ba930-rtrmadp-3-amazon-com-india.jpg",
+                    "origin": "CBS News",
+                    "title": "Amazon Prime Day vs Black Friday: 1 out of 3 items cost more",
+                    "ts": 1531734845,
+                    "twitterid": 1018795897981952001,
+                    "url": "https://www.cbsnews.com/news/amazon-prime-day-deals-vs-black-friday-1-out-of-3-items-cost-more/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b4c6b3a04d301379949355a&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b4b539b421aa914b302b664",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/fcb89a48538e8aa13a230d4c3ef10fd670aabf1c/c=0-77-580-405/local/-/media/2018/06/22/USATODAY/usatsports/MotleyFool-TMOT-6bb6b66e-streaming-tv_large.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Is Netflix best bet for cord-cutters or should you consider Amazon, Hulu or Vudu?",
+                    "ts": 1531661406,
+                    "twitterid": 1018487872888983553,
+                    "url": "https://www.usatoday.com/story/tech/columnist/komando/2018/07/13/best-streaming-service-netflix-vs-vudu-vs-amazon-prime-vs-hulu/763752002/"
+                },
+                {
+                    "_id": "5b4c0a63421aa91cab29d379",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/07/15/official-royal-christening-photos-prince-louis-prince-william-and-kate-middletons-3rd-child-released/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531706343746.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Prince Louis' official royal christening photos unveiled",
+                    "ts": 1531707905,
+                    "twitterid": 1018682907270025216,
+                    "url": "http://www.foxnews.com/entertainment/2018/07/15/prince-louis-official-royal-christening-photos-unveiled.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            53
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "London",
+            "Theresa May",
+            "Theresa May Could Actually Help Her Man",
+            "MAGA",
+            "Scotland",
+            "Israel",
+            "White House",
+            "Brexit London",
+            "Trump DC",
+            "New Jersey",
+            "Korean War",
+            "EU",
+            "Melania",
+            "Donald Trump",
+            "Netanyahu",
+            "Capitol Hill",
+            "North Koreans",
+            "Britain",
+            "Bannon",
+            "Dark",
+            "Pruitt Michelle Obama",
+            "Scotland U.S.",
+            "Trump Won British",
+            "Trump White House Biden",
+            "Acosta",
+            "US",
+            "LGBT Pride",
+            "Kushner",
+            "Beyonce",
+            "Nuclear Secrets Biden",
+            "Labor",
+            "Syria",
+            "Europe Is",
+            "Russia",
+            "William",
+            "GOP",
+            "Andrew Johnson",
+            "NATO Paraglider",
+            "Paris Retired U.S.",
+            "PHOTOS",
+            "United States Trump",
+            "Brexit Media",
+            "Kenya",
+            "Iran",
+            "Night",
+            "Scotland Donald Trump",
+            "Brexit",
+            "North Korea",
+            "U.S.",
+            "CNN",
+            "Bolton",
+            "Trump Arrives",
+            "Homeland",
+            "British",
+            "Trump Trump",
+            "Europe",
+            "Trump",
+            "Helsinki",
+            "Pompeo",
+            "China",
+            "Baby",
+            "Blimp",
+            "Vladimir Putin",
+            "European Union"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "says",
+            "may",
+            "Brexit",
+            "protests",
+            "Theresa"
+        ],
+        "timestamp": "2018-07-16 09:10:27.808453-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4b6fcc421aa91679c26642",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/z2d7-BWCZTiEIWZOH_s664z8xUY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/B256VTEIDMI6RI2FUG7XQR5TOU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump told Britain to \u2018sue\u2019 European Union to speed Brexit, Theresa May says",
+                    "ts": 1531667644,
+                    "twitterid": 1018514039125741570,
+                    "url": "https://www.washingtonpost.com/politics/trump-told-britain-to-sue-european-union-to-speed-brexit-prime-minister-says/2018/07/15/1b5178a0-8817-11e8-8b20-60521f27434e_story.html?utm_term=.b37964c1c2ab&tid=sm_tw"
+                },
+                {
+                    "_id": "5b4b61b0421aa9155f372424",
+                    "date_month": "2018-07",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_28/2498116/180715-theresa-may-bbc-interview-al-0837_fe219f13afba2fe57ee902d79f767947.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "British Prime Minister Theresa May says Trump told her to sue the E.U. over Brexit",
+                    "ts": 1531665063,
+                    "twitterid": 1018503212188479488,
+                    "url": "https://www.nbcnews.com/news/world/british-prime-minister-theresa-may-says-trump-told-her-sue-n891516?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b4c50b0421aa9202107c17b",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:9afdefdc76a7435d9eaf3bf1b07ab513/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "In TV interview, Trump says queen called Brexit 'complex'",
+                    "ts": 1531724523,
+                    "twitterid": 1018752605969842178,
+                    "url": "https://apnews.com/00d7c0f90ac34f1786d2256bd88c6c67/In-TV-interview,-Trump-says-queen-called-Brexit-'complex?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5b4c7aef421aa9222b8217a7",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/16/BostonGlobe.com/Politics/Images/00d7c0f90ac34f1786d2256bd88c6c67-6b7ca19a8f8b498fb254eb4b218e7c03-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "In TV interview, Trump says queen called Brexit \u2018complex\u2019",
+                    "ts": 1531737744,
+                    "twitterid": 1018808058942754816,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/07/16/interview-trump-says-queen-called-brexit-complex/Qu2iumfrOC6fonUH1M6NML/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b4b6fcc421aa91679c26645",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump_may_nato_071418.jpg",
+                    "origin": "The Hill",
+                    "title": "Theresa May: Trump told me to sue the EU instead of negotiating Brexit",
+                    "ts": 1531667342,
+                    "twitterid": 1018512772009746433,
+                    "url": "http://thehill.com/policy/international/397073-theresa-may-trump-told-me-to-sue-the-eu-instead-of-negotiating-brexit"
+                },
+                {
+                    "_id": "5b4b61b0421aa9155f37242d",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/13/Britain_Trump_Visit_32125.jpg-7d026_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Theresa May, British prime minister: Trump advised me to sue European Union over Brexit",
+                    "ts": 1531664238,
+                    "twitterid": 1018499752697180169,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/15/theresa-may-british-prime-minister-trump-advised-m/"
+                },
+                {
+                    "_id": "5b4be03d421aa91b693b9831",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BC791_trumpu_SOC_20180714194822.jpg",
+                    "origin": "Capital Journal",
+                    "title": "More Protests Erupt as Trump Arrives in Scotland",
+                    "ts": 1531698585,
+                    "twitterid": 1018643815714914304,
+                    "url": "https://www.wsj.com/articles/more-protests-erupt-as-trump-arrives-in-scotland-1531613249?mod=e2twp"
+                },
+                {
+                    "_id": "5b4c1877421aa91d32dee2a9",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180715120951-06-helsinki-protest-0715-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Protests followed Trump through Europe all weekend",
+                    "ts": 1531710017,
+                    "twitterid": 1018691764864061451,
+                    "url": "https://www.cnn.com/2018/07/15/europe/trump-europe-protests/index.html?utm_source=twCNN&utm_medium=social&utm_content=2018-07-16T03%3A00%3A16&utm_term=image"
+                },
+                {
+                    "_id": "5b4ba801421aa9193a963865",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/RTX6B479/facebook.jpg?1531500911",
+                    "origin": "The Atlantic",
+                    "title": "Trump's Jabs at Theresa May Could Actually Help Her",
+                    "ts": 1531681221,
+                    "twitterid": 1018570985350496262,
+                    "url": "https://www.theatlantic.com/international/archive/2018/07/trump-may-uk-visit/565100/?utm_campaign=the-atlantic&utm_content=edit-promo&utm_term=2018-07-13T20%3A04%3A33&utm_source=twitter&utm_medium=social"
+                },
+                {
+                    "_id": "5b4c9719421aa92357098f05",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpbabyblimp_071318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "'Trump Baby' Blimp used in UK protests may be heading to New Jersey",
+                    "ts": 1531742704,
+                    "twitterid": 1018828864674566144,
+                    "url": "http://thehill.com/homenews/397156-trump-baby-blimp-used-in-london-protest-may-be-heading-to-new-jersey"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Comey",
+            "FBI Agent Strzok",
+            "Putin",
+            "Russian",
+            "Mueller",
+            "Strzok",
+            "Gowdy",
+            "South Carolina Republican",
+            "Peter Strzok",
+            "Trump",
+            "United Front",
+            "House Strzok",
+            "Rosenstein",
+            "Michael Goodwin",
+            "Deep State"
+        ],
+        "peaks": [],
+        "theme": [
+            "Strzok",
+            "FBI",
+            "Trump",
+            "disgraced",
+            "Gowdy",
+            "Peter",
+            "Rosenstein"
+        ],
+        "timestamp": "2018-07-16 09:10:28.189385-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4b6fcc421aa91679c2661e",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/12/belgium_nato_summit_70773_s2048x1290.jpg?930610635e90a20261d2275733a31c457dd10084",
+                    "origin": "The Washington Times",
+                    "title": "President Trump calls FBI agent Peter Strzok a 'disgrace to our country'",
+                    "ts": 1531669670,
+                    "twitterid": 1018522537913913344,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/15/president-trump-calls-fbi-agent-peter-strzok-a-dis/"
+                },
+                {
+                    "_id": "5b4c1877421aa91d32dee28a",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/12/0/0/694940094001_5808589361001_5808593273001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "A Purple Heart for disgraced FBI agent Strzok? The very suggestion is an insult to the military",
+                    "ts": 1531712280,
+                    "twitterid": 1018701254711758850,
+                    "url": "http://www.foxnews.com/opinion/2018/07/14/purple-heart-for-disgraced-fbi-agent-strzok-very-suggestion-is-insult-to-military.html"
+                },
+                {
+                    "_id": "5b4bd231421aa91adfc2611e",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/opinion/2018/07/15/michael-goodwin-peter-strzoks-arrogance-is-product-corrupt-fbi/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1531691383262.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Michael Goodwin: Peter Strzok's arrogance is the product of a corrupt FBI",
+                    "ts": 1531692018,
+                    "twitterid": 1018616268541300741,
+                    "url": "http://www.foxnews.com/opinion/2018/07/15/michael-goodwin-peter-strzoks-arrogance-is-product-corrupt-fbi.html"
+                },
+                {
+                    "_id": "5b4bc427421aa91a64a52b21",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/gowdytrey_rosensteinrod_062818am_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Gowdy rules out Rosenstein impeachment",
+                    "ts": 1531690383,
+                    "twitterid": 1018609411504463872,
+                    "url": "http://thehill.com/homenews/sunday-talk-shows/397127-gowdy-rules-out-rosenstein-impeachment"
+                },
+                {
+                    "_id": "5b4b7de0421aa91738d8fc68",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/a8/31/a17f05ab4974b30d6dfab32fc9ad/171024-tre-gowdy.jpg",
+                    "origin": "POLITICO",
+                    "title": "Gowdy says he won't support Rosenstein impeachment",
+                    "ts": 1531673106,
+                    "twitterid": 1018536946019241987,
+                    "url": "https://www.politico.com/story/2018/07/15/gowdy-rosenstein-impeachment-722237?__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b4b61b0421aa9155f372420",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/strzokpeter_071218.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump: Strzok's testimony 'a disgrace to our country'",
+                    "ts": 1531665425,
+                    "twitterid": 1018504730916589568,
+                    "url": "http://thehill.com/policy/national-security/397085-trump-strzoks-testimony-a-disgrace-to-our-country"
+                },
+                {
+                    "_id": "5b4ba801421aa9193a963843",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/strzok_3.jpg",
+                    "origin": "The Hill",
+                    "title": "10 things we learned from Peter Strzok's congressional testimony",
+                    "ts": 1531684386,
+                    "twitterid": 1018584258850541568,
+                    "url": "http://thehill.com/opinion/campaign/397115-ten-things-we-learned-from-peter-strzoks-congressional-testimony?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b4b6fcc421aa91679c26619",
+                    "date_month": "2018-07",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Judge71518.jpg?itok=53HuhGOG",
+                    "origin": "Fox News",
+                    "title": "Pirro on 'Unapologetic' Peter Strzok: He's the 'Personification of the Deep State'",
+                    "ts": 1531670246,
+                    "twitterid": 1018524954084691968,
+                    "url": "http://insider.foxnews.com/2018/07/15/peter-strzok-house-hearing-judge-jeanine-pirro-says-he-personification-deep-state"
+                },
+                {
+                    "_id": "5b4b99f4421aa918c722e404",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/15/3f729519-745b-4ad3-81e7-43f067254d7d/thumbnail/1200x630/069e47796646cb597e00b7647a46afad/screen-shot-2018-07-15-at-11-06-05-am.png",
+                    "origin": "CBS News",
+                    "title": "Gowdy to Trump: Ask Putin where \"we can pick up the 25 Russians\" indicted in Mueller probe",
+                    "ts": 1531679449,
+                    "twitterid": 1018563551663935489,
+                    "url": "https://www.cbsnews.com/news/gowdy-to-trump-ask-putin-where-we-can-pick-up-the-25-russians-indicted-in-mueller-probe/"
+                },
+                {
+                    "_id": "5b4bfc59421aa91c52484445",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/12/0/0/694940094001_5808646379001_5808645577001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trumps blasts FBI Agent Strzok as 'disgrace to our country'",
+                    "ts": 1531705080,
+                    "twitterid": 1018671055815102464,
+                    "url": "http://www.foxnews.com/politics/2018/07/15/trumps-blasts-fbi-agent-strzok-as-disgrace-to-our-country.html"
+                }
+            ]
+        ]
+    }
+]

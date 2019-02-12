@@ -1,0 +1,2192 @@
+[
+    {
+        "list": [
+            13
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "North Korea Submarine",
+            "North",
+            "Pompeo",
+            "Nuclear Threat Pompeo",
+            "Elton John",
+            "Korean",
+            "Rocket Man",
+            "Kim Jong Un",
+            "U.S.",
+            "North Korea Slams U.S.",
+            "State Department",
+            "North Korea",
+            "State Pompeo",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Pompeo",
+            "North",
+            "Korea",
+            "talks",
+            "regrettable",
+            "says",
+            "cd"
+        ],
+        "timestamp": "2018-07-07 13:10:18.568636-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b40c795421aa9552d8f6b9f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pompeokimjongun_042618tw.jpg",
+                    "origin": "The Hill",
+                    "title": "North Korea says talks with Pompeo 'regrettable': report",
+                    "ts": 1530969184,
+                    "twitterid": 1015584484371156992,
+                    "url": "http://thehill.com/policy/international/395925-north-korea-says-talks-with-pompeo-regrettable-report"
+                },
+                {
+                    "_id": "5b40d5a6421aa9559a41d456",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/07/0/0/694940094001_5806400174001_5806412641001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "North Korea says denuclearization talks with Pompeo 'regrettable'",
+                    "ts": 1530974764,
+                    "twitterid": 1015607888172240896,
+                    "url": "http://www.foxnews.com/politics/2018/07/07/north-korea-says-denuclearization-talks-with-pompeo-regrettable.html"
+                },
+                {
+                    "_id": "5b40c795421aa9552d8f6b98",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/efe08d3cf847b317ad8102272728c723059b31ba/c=0-82-2496-1492/local/-/media/2018/07/07/USATODAY/USATODAY/636665338799342099-AFP-AFP-17A6ZO.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "North Korea slams talks with Secretary of State Pompeo as 'regrettable'",
+                    "ts": 1530969967,
+                    "twitterid": 1015587769219940352,
+                    "url": "https://www.usatoday.com/story/news/world/2018/07/07/mike-pompeo-north-korea-denuclearization-trump-kim-jong-un/765232002/"
+                },
+                {
+                    "_id": "5b40e3b3421aa956021075cc",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/07/ap_18188359976535_wide-e5843de92e5236fcfd1d707648c484d7ce3117aa.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "North Korea Slams U.S. Talks As 'Regrettable' After Pompeo Called Them 'Productive'",
+                    "ts": 1530976543,
+                    "twitterid": 1015615352560971776,
+                    "url": "https://www.npr.org/2018/07/07/626828951/north-korea-slams-u-s-talks-as-regrettable-after-pompeo-called-them-productive?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b40c795421aa9552d8f6b90",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/I4C8evIi4LggKJVQvyHO840F04s=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NPSDFKEBUAI6RONFPYOACP4MGM.jpg",
+                    "origin": "Washington Post",
+                    "title": "North Korea calls U.S. attitude toward talks \u2018regrettable,\u2019 rejecting Pompeo\u2019s claim meetings were \u2018productive\u2019",
+                    "ts": 1530970806,
+                    "twitterid": 1015591286563393536,
+                    "url": "https://www.washingtonpost.com/world/national-security/north-korean-negotiator-teases-and-flatters-as-pompeo-enters-second-day-of-talks/2018/07/07/d2a06324-8175-4589-bf08-def6e56aa962_story.html"
+                },
+                {
+                    "_id": "5b40d5a6421aa9559a41d465",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/EU9xw6nNoQuKIHmPItq-pMDGnDk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3X5V6OSCYZVNEE5CTGVLX4KCA.jpg",
+                    "origin": "Washington Post",
+                    "title": "No, Pompeo did not give Kim Jong Un a \u2018Rocket Man\u2019 CD, State Department says",
+                    "ts": 1530973273,
+                    "twitterid": 1015601636398518272,
+                    "url": "https://www.washingtonpost.com/news/worldviews/wp/2018/07/07/no-pompeo-did-not-give-kim-jong-un-a-rocket-man-cd-state-department-says/?utm_term=.121775c36094&tid=sm_tw"
+                },
+                {
+                    "_id": "5b40e3b3421aa956021075d4",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/07/north_korea_us_pompeo_48424_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "North Korea bucks in nuke talks: 'Our resolve for denuclearization ... may falter'",
+                    "ts": 1530975645,
+                    "twitterid": 1015611582846521344,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/7/north-korea-bucks-nuke-talks-resolve-denuclearizat/"
+                },
+                {
+                    "_id": "5b40570a421aa94e5898d3b2",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/I4C8evIi4LggKJVQvyHO840F04s=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NPSDFKEBUAI6RONFPYOACP4MGM.jpg",
+                    "origin": "Washington Post",
+                    "title": "North Korean negotiator teases and flatters as Pompeo enters second day of talks",
+                    "ts": 1530940090,
+                    "twitterid": 1015462454149763072,
+                    "url": "https://www.washingtonpost.com/world/national-security/north-korean-negotiator-teases-and-flatters-as-pompeo-enters-second-day-of-talks/2018/07/07/d2a06324-8175-4589-bf08-def6e56aa962_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b3ff4b7421aa94a6e877f70",
+                    "date_month": "2018-07",
+                    "image": "https://www.latimes.com/pb/resources/assets/img/fallback-promo-image.png?token=false",
+                    "origin": "L.A. Times National",
+                    "title": "Pompeo meets with North Korea's former spy chief on nuclear weapons to build 'trust'",
+                    "ts": 1530916743,
+                    "twitterid": 1015364530535198725,
+                    "url": "https://www.latimes.com/nation/la-na-pol-pompeo-northkorea-nuclear-20180706-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d08e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pompeokimjongun_042618tw.jpg",
+                    "origin": "The Hill",
+                    "title": "Pompeo is gifting Kim Jong Un a Trump-signed \u2018Rocket Man\u2019 CD: Korean media",
+                    "ts": 1530900787,
+                    "twitterid": 1015297607541907457,
+                    "url": "http://thehill.com/policy/international/asia-pacific/395758-pompeo-is-gifting-kim-jong-un-a-trump-signed-rocket-man-cd"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            34
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Financial",
+            "Chinese",
+            "North Korea",
+            "China",
+            "Trade War Will Fail Trump",
+            "Mexico",
+            "Beijing US",
+            "Short Hairs",
+            "Ford",
+            "U.S. Tariffs",
+            "Wall Street Journal",
+            "American",
+            "Trade Fight",
+            "Romney",
+            "Donald Trump",
+            "U.S.",
+            "China Strikes Back",
+            "Obama",
+            "China Mike Pompeo",
+            "AMSC",
+            "Trump",
+            "Path",
+            "Success Remains",
+            "World News",
+            "Fox Business",
+            "Indian",
+            "Ivanka Trump",
+            "Video Analysis",
+            "Economic News"
+        ],
+        "peaks": [],
+        "theme": [
+            "trade",
+            "war",
+            "China",
+            "Trump",
+            "Tariffs",
+            "us"
+        ],
+        "timestamp": "2018-07-07 13:10:19.139148-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b403afb421aa94d4cd8fdb4",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/04/07/13b15798-3fc9-4295-a905-159bc1ae1b23/thumbnail/1200x630/56768e180a81514154ca63df5ee94927/cbsn-fusion-trade-war-tensions-leave-republicans-uneasy-ahead-of-midterms-thumbnail-1540941-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Is President Trump already winning the trade war with China?",
+                    "ts": 1530932584,
+                    "twitterid": 1015430971628445697,
+                    "url": "https://www.cbsnews.com/news/china-trade-war-with-u-s-is-president-trump-already-winning-the-tariff-fight/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b402d6519694a000725e0e6&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3fae73421aa9474d644bf5",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/c0/ba/c0a158944666adfb2baae3e7d3ea/180706-china-tariffs.jpg",
+                    "origin": "POLITICO",
+                    "title": "China hits retaliation button, launching tariffs as trade war with U.S. starts",
+                    "ts": 1530898062,
+                    "twitterid": 1015286178784870400,
+                    "url": "https://www.politico.com/story/2018/07/06/china-retaliation-us-tariffs-672127"
+                },
+                {
+                    "_id": "5b40d5a6421aa9559a41d475",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/0a816e47287276ddec5ce3a87caa99130f4e3852.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Trump\u2019s Big Trade War Bluff",
+                    "ts": 1530972017,
+                    "twitterid": 1015596368851857408,
+                    "url": "https://newrepublic.com/article/149609/trumps-big-trade-war-bluff"
+                },
+                {
+                    "_id": "5b401ed5421aa94c160d3c0a",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/07/business/07chinatrade-subalpha/merlin_140769996_31bbdcf2-d0f1-4c8f-bac6-c5afd78d135e-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "China Strikes Back at Trump\u2019s Tariffs, but Its Consumers Worry",
+                    "ts": 1530926528,
+                    "twitterid": 1015405572294959104,
+                    "url": "https://www.nytimes.com/2018/07/06/business/china-trump-trade-war-tariffs.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b40c795421aa9552d8f6b8c",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/RTX6A95V/facebook.jpg?1530907461",
+                    "origin": "The Atlantic",
+                    "title": "Why Donald Trump\u2019s Trade War Will Fail",
+                    "ts": 1530970981,
+                    "twitterid": 1015592020256190464,
+                    "url": "https://www.theatlantic.com/international/archive/2018/07/why-donald-trumps-trade-war-will-fail/564605/?utm_campaign=the-atlantic&utm_source=twitter&utm_medium=social&utm_content=edit-promo&utm_term=2018-07-07T09%3A00%3A09"
+                },
+                {
+                    "_id": "5b3fcaac421aa9489e37302a",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/trump_romney.jpg",
+                    "origin": "The Hill",
+                    "title": "Romney rips Trump tariffs: \u2018Trade wars are a tax on Americans\u2019",
+                    "ts": 1530904924,
+                    "twitterid": 1015314957272051712,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395851-romney-rips-trump-tariffs-trade-wars-at-a-tax-on-americans"
+                },
+                {
+                    "_id": "5b3fd8a6421aa9494f77b122",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/06/0/0/694940094001_5806174214001_5806171315001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "The US-China trade war has begun - a shooting war could be next",
+                    "ts": 1530909079,
+                    "twitterid": 1015332388245733377,
+                    "url": "http://www.foxnews.com/opinion/2018/07/06/us-china-trade-war-has-begun-shooting-war-could-be-next.html"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d08d",
+                    "date_month": "2018-07",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180404113156-china-trade-780x439.jpg",
+                    "origin": "CNN Politics",
+                    "title": "China: The US has started 'the biggest trade war' in history",
+                    "ts": 1530900843,
+                    "twitterid": 1015297840858435584,
+                    "url": "http://money.cnn.com/2018/07/06/news/economy/us-china-trade-war-tariffs/index.html?sr=twCNNp070618economy0726AMStory&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3fd8a6421aa9494f77b12d",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:71142308b2f14c0bab062f290bbfa3f6/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "US-China trade war elevates the risks to the global economy",
+                    "ts": 1530908491,
+                    "twitterid": 1015329919365152768,
+                    "url": "https://apnews.com/f8afd2ff1c41409783095052f1dcfb6b/US-China-trade-war-could-drive-prices-up-and-growth-down?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b3fd8a6421aa9494f77b110",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-9774/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "U.S. Economic Strength Gives Trump Leeway in Trade Fight With China",
+                    "ts": 1530909967,
+                    "twitterid": 1015336108815765505,
+                    "url": "https://www.wsj.com/articles/u-s-economic-strength-gives-trump-leeway-in-trade-fight-with-china-1530908909?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            44
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Bill Shine",
+            "Brooks",
+            "EPA",
+            "Pruitt",
+            "Francis",
+            "Climate Negligence Remains Scott Pruitt",
+            "EPA Pruitt",
+            "Inside Track",
+            "EPA Greens",
+            "Klein",
+            "Warren",
+            "Bill Shine New",
+            "Energy Lobbyist Named",
+            "Policy Battles",
+            "Earth",
+            "Scott Pruitt",
+            "How Fmr",
+            "EPA Krystal Ball",
+            "Scott Pruitt Is Gone",
+            "Congress",
+            "Rocky Relationship",
+            "Daniel Walsh",
+            "Aides Set",
+            "Know Andrew Wheeler",
+            "Supreme Court",
+            "Americans New York City",
+            "Nicolle Wallace",
+            "Will Miss Him Matt Drudge",
+            "White House",
+            "Trump Administration"
+        ],
+        "peaks": [],
+        "theme": [
+            "Pruitt",
+            "EPA",
+            "Scott",
+            "Trump",
+            "chief",
+            "gone",
+            "Aides"
+        ],
+        "timestamp": "2018-07-07 13:10:19.839041-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4002c6421aa94b2a82754a",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/5b3f7e13bb8c9728e340847c/16:9/w_1200,h_630,c_limit/Talbot-Pruitt.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Scott Pruitt Is Gone, But The Trump Administration\u2019s Climate Negligence Remains",
+                    "ts": 1530921615,
+                    "twitterid": 1015384963951267840,
+                    "url": "https://www.newyorker.com/news/news-desk/scott-pruitt-is-gone-but-the-trump-administrations-climate-negligence-remains?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b402cde421aa94ca11d8a56",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/8d/91/17aeb2af483f9c55f6e8387dd7c3/180504-andrew-wheeler-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "New EPA chief in 2016: Trump\u2019s a \u2018bully\u2019",
+                    "ts": 1530931204,
+                    "twitterid": 1015425183279210496,
+                    "url": "https://www.politico.com/story/2018/07/06/andrew-wheeler-epa-donald-trump-673046"
+                },
+                {
+                    "_id": "5b4010d4421aa94ba3c11fba",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/07/climate/07CLI-EPAPRUITT-print/07CLI-EPAPRUITT1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Scott Pruitt\u2019s Strained Ties With Aides Set the Stage for His Fall",
+                    "ts": 1530924596,
+                    "twitterid": 1015397467792248832,
+                    "url": "https://www.nytimes.com/2018/07/06/climate/scott-pruitt-epa-aides.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5b40b97f421aa954b8f641c6",
+                    "date_month": "2018-07",
+                    "image": "https://images.newrepublic.com/b7a1587d874923f62cf49c5e4e63312dbbe79555.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Scott Pruitt Is Gone. His Assault on the Environment Continues.",
+                    "ts": 1530968404,
+                    "twitterid": 1015581213061500928,
+                    "url": "https://newrepublic.com/article/149639/scott-pruitt-gone-assault-environment-continues"
+                },
+                {
+                    "_id": "5b40e3b3421aa956021075ba",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/07/climate/07CLI-EPAPRUITT-print/07CLI-EPAPRUITT1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Scott Pruitt\u2019s Rocky Relationship With His Aides Set the Stage for His Fall",
+                    "ts": 1530978486,
+                    "twitterid": 1015623500411916291,
+                    "url": "https://www.nytimes.com/2018/07/06/climate/scott-pruitt-epa-aides.html?smtyp=cur&smid=tw-nytclimate"
+                },
+                {
+                    "_id": "5b407329421aa94fc529177f",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/ed00a509623e4ca47c97f0c30108187c0c6e8473/c=0-281-5513-3396/local/-/media/2018/07/05/USATODAY/USATODAY/636664090339344050-Pruitt004.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "7 ways Scott Pruitt's legacy at EPA will live on",
+                    "ts": 1530946814,
+                    "twitterid": 1015490658159808513,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/07/06/7-ways-which-epa-administrator-scott-pruitts-legacy-carry/762583002/"
+                },
+                {
+                    "_id": "5b3fcaac421aa9489e373014",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_vr_pruittbreakdown_180706_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "How Fmr. EPA Chief Pruitt\u2019s legacy will still affect Americans",
+                    "ts": 1530906307,
+                    "twitterid": 1015320760074883074,
+                    "url": "https://www.msnbc.com/velshi-ruhle/watch/how-fmr-epa-chief-pruitt-s-legacy-will-still-affect-americans-1271555651976?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b4002c6421aa94b2a827568",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/SB1-e1530919547869-1024x563.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Brooks and Klein on Trump\u2019s Supreme Court shortlist, Scott Pruitt\u2019s scandals",
+                    "ts": 1530919800,
+                    "twitterid": 1015377353760002054,
+                    "url": "https://www.pbs.org/newshour/show/brooks-and-klein-on-trumps-supreme-court-shortlist-scott-pruitts-scandals"
+                },
+                {
+                    "_id": "5b40e3b3421aa956021075d2",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180705160657-01-andrew-wheeler-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "EPA interim chief lobbied for company seeking EPA contracts",
+                    "ts": 1530975667,
+                    "twitterid": 1015611674898976768,
+                    "url": "https://www.cnn.com/2018/07/06/politics/epa-andrew-wheeler-contracts/index.html?sr=twCNNp070718epa-andrew-wheeler-contracts0936AMVODtop&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b4048fb421aa94dc4153b93",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/Pm9XSh0kDtfTge25QA3W1n7KsRw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D4QNZ3DEYUZHPL4NAR6IMQGFLA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Incoming EPA chief: \u2018This is the right job for me.\u2019",
+                    "ts": 1530938707,
+                    "twitterid": 1015456653087559680,
+                    "url": "https://www.washingtonpost.com/news/energy-environment/wp/2018/07/06/incoming-epa-chief-this-is-the-right-job-for-me/?tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            76
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "FAA",
+            "Boston Dynamics",
+            "Puerto Rico",
+            "Away",
+            "How Control",
+            "Cuomo",
+            "Zika",
+            "Washington",
+            "West Nile",
+            "Postal Service",
+            "CNN",
+            "Hudson",
+            "Peach Wars",
+            "Spar Over Which",
+            "Disney",
+            "Jamaica Plain",
+            "Arizona Feud",
+            "Marine Corps",
+            "Congress Could Swing",
+            "Atlantic Season",
+            "Gas",
+            "Bob Massie",
+            "GOP",
+            "Southern California",
+            "Kentucky",
+            "Walmart Widow",
+            "China",
+            "Pennsylvania",
+            "Mexico Torrents",
+            "YouTube",
+            "Mistake Costs Postal",
+            "Gay Rights",
+            "Caribbean",
+            "Tom Brady",
+            "Liberty Puerto Rico",
+            "Most Juice Thousands",
+            "Cheap",
+            "Figure Out How To Cheaply Fix Algae Blooms And Win",
+            "Sale",
+            "Repeal California",
+            "Mount Washington",
+            "Atlantic",
+            "Americans Will Be",
+            "Beryl Becomes",
+            "MSNBC",
+            "Lake Okeechobee How",
+            "Los Angeles",
+            "Deal Playbook",
+            "Twitter",
+            "Japan Toxic",
+            "Americas",
+            "European Central Bank",
+            "NFL",
+            "U.S.",
+            "Secret",
+            "Flooding",
+            "Hurricane Maria One",
+            "Milwaukee Brewers",
+            "Tultepec",
+            "Hurricane Beryl",
+            "New Jersey",
+            "Fourth",
+            "Mosquito",
+            "Weymouth",
+            "Fox News",
+            "Unpaid Taxes",
+            "Universal Basic Income",
+            "Daily Spike",
+            "Tiny",
+            "Florida"
+        ],
+        "peaks": [],
+        "theme": [
+            "California",
+            "new",
+            "wildfires",
+            "Million",
+            "records",
+            "tax",
+            "accounts"
+        ],
+        "timestamp": "2018-07-07 13:10:21.064608-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b40ab6d421aa952014e0c8e",
+                    "date_month": "2018-07",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_27/2489421/180706-hornbrook-california-fire-highway-patrol-ew-403p_3a80865f47c0d034026579dd51ef9ae9.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "One person dead as new wildfires sweep through California, burning homes",
+                    "ts": 1530963905,
+                    "twitterid": 1015562341298196483,
+                    "url": "https://www.nbcnews.com/storyline/western-wildfires/one-person-dead-wildfire-near-california-oregon-border-n889406?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b4002c6421aa94b2a827552",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/06/79fd6b18-d06e-447a-8906-1c7b5383a546/thumbnail/1200x630g2/b2864500ab9e514c84eeee0d73f0ca07/southern-california-heat-992371294.jpg",
+                    "origin": "CBS News",
+                    "title": "Southern California heat wave breaks records",
+                    "ts": 1530920982,
+                    "twitterid": 1015382309443338240,
+                    "url": "https://www.cbsnews.com/news/southern-california-heat-wave-breaks-records-in-los-angeles-today-2018-07-06/?ftag=CNM-00-10aab7e&linkId=53972453"
+                },
+                {
+                    "_id": "5b3fcaac421aa9489e373028",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/07/us/07calgastax-01/07calgastax-01-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "How Control of Congress Could Swing on a Fight to Repeal California\u2019s Gas Tax",
+                    "ts": 1530905043,
+                    "twitterid": 1015315459485388801,
+                    "url": "https://www.nytimes.com/2018/07/06/us/midterm-congressional-races-california-gas-tax.html?smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5b40b97f421aa954b8f641c7",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b402330/turbine/ct-twitter-removes-fake-accounts-bots-20180706",
+                    "origin": "Chicago Tribune",
+                    "title": "Twitter is sweeping out fake accounts, suspending more than 70 million in 2 months",
+                    "ts": 1530968065,
+                    "twitterid": 1015579790018076673,
+                    "url": "http://www.chicagotribune.com/business/national/ct-twitter-removes-fake-accounts-bots-20180706-story.html?f"
+                },
+                {
+                    "_id": "5b3fe6ae421aa949ca1b92f6",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/ViXkWmLckp3PEyJvTNXI2idgTRA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QQTSEQCOXEZGNMWN5VRRX5L7AY.png",
+                    "origin": "Washington Post",
+                    "title": "Monster heat dome threatens all-time temperature records Friday in Southern California",
+                    "ts": 1530910865,
+                    "twitterid": 1015339877494386689,
+                    "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/07/06/monster-heat-dome-threatens-all-time-high-temperature-records-in-southern-california-friday/?utm_term=.cb2eaadb625e&tid=sm_tw"
+                },
+                {
+                    "_id": "5b40570a421aa94e5898d3b5",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/ViXkWmLckp3PEyJvTNXI2idgTRA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QQTSEQCOXEZGNMWN5VRRX5L7AY.png",
+                    "origin": "Washington Post",
+                    "title": "All-time temperature records set throughout Southern California, including Los Angeles",
+                    "ts": 1530939671,
+                    "twitterid": 1015460700196671489,
+                    "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/07/06/monster-heat-dome-threatens-all-time-high-temperature-records-in-southern-california-friday/?tid=sm_tw"
+                },
+                {
+                    "_id": "5b406515421aa94f592b3a67",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/06/eb63df90-1ecf-4cbe-a4a5-20ddf60f832c/thumbnail/1200x630/1af00fdc60dc9f992a75286866f931ae/california-wildfire-ap-18187696398646.jpg",
+                    "origin": "CBS News",
+                    "title": "Millions in the West are dealing with fast-moving wildfires",
+                    "ts": 1530943383,
+                    "twitterid": 1015476269679554560,
+                    "url": "https://www.cbsnews.com/news/colorado-wildfires-california-wildfires-millions-in-west-dealing-with-fast-moving-blazes-2018-07-06/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b40579600bd470008c58736&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b40e3b3421aa956021075c5",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/05/AP_18038799704737_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Twitter tackles fake accounts with surge of suspensions",
+                    "ts": 1530977003,
+                    "twitterid": 1015617280175157249,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/7/twitter-tackles-fake-accounts-surge-suspensions/"
+                },
+                {
+                    "_id": "5b403afb421aa94d4cd8fda1",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/06/8dcfcfeb-f011-4f95-9533-03f86ad8082c/thumbnail/1200x630/2d915c2a9bd84179c957f983f71a9bca/western-wildfires-2018-07-05t213441z.jpg",
+                    "origin": "CBS News",
+                    "title": "More than 60 large wildfires burning across U.S.",
+                    "ts": 1530934383,
+                    "twitterid": 1015438519597137920,
+                    "url": "https://www.cbsnews.com/news/spring-creek-fire-in-colorado-among-more-than-60-large-wildfires-burning-across-us/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b40346d04d3012b6b83af30&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3fe6ae421aa949ca1b92e3",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180706151905-california-klamanthon-fire-01-070616-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "1 person killed by California wildfire",
+                    "ts": 1530912068,
+                    "twitterid": 1015344921463676928,
+                    "url": "https://www.cnn.com/2018/07/06/us/california-deadly-wildfire/index.html?utm_term=image&utm_content=2018-07-06T21%3A21%3A05&utm_source=twCNN&utm_medium=social"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            82
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Obamacare",
+            "Baldwin",
+            "Washington Job",
+            "Adam Shapiro Trump",
+            "ObamaCare",
+            "Bill Shine",
+            "Maxine Waters",
+            "Light",
+            "Tennessee",
+            "Curtis Hill",
+            "Chrissy Teigen",
+            "Iran",
+            "European",
+            "CNN",
+            "NATO",
+            "Putin",
+            "Woman",
+            "Trump Campaigns",
+            "Putting Medicaid Expansion",
+            "Accused",
+            "Warren",
+            "Trump Administration Trump",
+            "Epic Turnover",
+            "Dems",
+            "Black Exit",
+            "HALF",
+            "Alan Dershowitz",
+            "Nevada",
+            "Scott Pruitt",
+            "Trump Rally",
+            "Faces Calls",
+            "George",
+            "Britain",
+            "Planned Parenthood",
+            "Elton John",
+            "Sean Hannity",
+            "Democratic Party",
+            "Could Break New York Trump",
+            "California Congressional Race Leaves State",
+            "CFPB States Aren",
+            "South",
+            "US",
+            "American",
+            "Divides Republicans Indiana",
+            "Florida",
+            "Joe Scarborough",
+            "Montana Rally",
+            "Elizabeth Warren",
+            "Slogan Trump",
+            "Donald Trump",
+            "Beat",
+            "Leandra English",
+            "Laura Ingraham",
+            "Voters Ahead",
+            "Gwen Graham",
+            "Trump",
+            "Bush",
+            "Trump Trump",
+            "Trump Tapes",
+            "Michael Cohen Flap John Kelly",
+            "London Celebrities",
+            "GOP Senate",
+            "Supreme Court",
+            "MeToo",
+            "White House",
+            "Tom Arnold",
+            "AP",
+            "DC",
+            "Idaho",
+            "Indiana"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "calls",
+            "Points",
+            "candidate",
+            "General",
+            "ObamaCare",
+            "president"
+        ],
+        "timestamp": "2018-07-07 13:10:22.416697-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b4002c6421aa94b2a82754c",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/89dc6cf39dbbd051a12e05cdce7097a8587f75bb/c=0-191-3000-1886/local/-/media/2018/07/06/USATODAY/USATODAY/636664705772520908-GTY-992399372.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "President Trump takes swipe at George H.W. Bush's 'thousand points of light'",
+                    "ts": 1530921600,
+                    "twitterid": 1015384904228581376,
+                    "url": "https://www.usatoday.com/story/news/politics/onpolitics/2018/07/06/donald-trump-critiques-george-h-w-bushs-thousand-points-light/762631002/"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d05f",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/07/us/07xp-indiana/07xp-indiana-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Indiana Attorney General, Accused of Groping, Faces Calls for Resignation",
+                    "ts": 1530903566,
+                    "twitterid": 1015309262006910979,
+                    "url": "https://www.nytimes.com/2018/07/06/us/politics/curtis-hill-groping-resignation.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5b3fd8a6421aa9494f77b13d",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/06/hill_wide-e3ace8bd43e27f6a042d85fc8eed857eaa551fa6.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Indiana Attorney General Calls For Investigation Into Groping Accusations Against Him",
+                    "ts": 1530907786,
+                    "twitterid": 1015326963899105280,
+                    "url": "https://www.npr.org/2018/07/06/626495562/indiana-attorney-general-calls-for-investigation-into-groping-accusations-agains?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3fe6ae421aa949ca1b92c8",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/iNhxbRcncAAUNrVJCZ4V2wyCgm4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JBHQM7UBJMI6RONFPYOACP4MGM.jpg",
+                    "origin": "Washington Post",
+                    "title": "Indiana Attorney General Curtis Hill rejects calls to resign in wake of groping allegations",
+                    "ts": 1530914157,
+                    "twitterid": 1015353686376288256,
+                    "url": "https://www.washingtonpost.com/politics/indiana-attorney-general-curtis-hill-faces-calls-to-resign-after-groping-allegations/2018/07/06/ccf6cd38-813e-11e8-b9a5-7e1c013f8c33_story.html?utm_term=.a6629ab21ff3&tid=sm_tw"
+                },
+                {
+                    "_id": "5b409d58421aa9514e2d8267",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/07/BostonGlobe.com/Politics/Images/trumpelton.gif",
+                    "origin": "The Boston Globe",
+                    "title": "What\u2019s the deal with President Trump and Elton John?",
+                    "ts": 1530961114,
+                    "twitterid": 1015550637516443648,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/07/06/what-deal-with-president-trump-and-elton-john/agJart3oEM2Sesuxp3T4dJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b402cde421aa94ca11d8a6a",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:ae958754eb9542548bda741a2e3dfb26/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump disses Bush's 'Points of Light' volunteerism program",
+                    "ts": 1530929471,
+                    "twitterid": 1015417914445516800,
+                    "url": "https://apnews.com/bf442b8b6070423d855a1e708dd04f83/Trump-disses-Bush's-'Points-of-Light'-volunteerism-program?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5b408137421aa9504ca049c7",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/06/BostonGlobe.com/Politics/Images/992388354.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump mocks George H.W. Bush\u2019s \u2018Points of Light\u2019",
+                    "ts": 1530952264,
+                    "twitterid": 1015513517959581696,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/07/06/trump-mocks-george-bush-points-light/KI7BAnk4sGrLoyymazbCLJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3fcaac421aa9489e373039",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/05/gettyimages-992377580trump_wide-6b46773d90168323e286cc9fee8f051ec5fc8328.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "President Trump Campaigns In Montana But Democratic Senator May Be Hard To Beat",
+                    "ts": 1530903900,
+                    "twitterid": 1015310665903374336,
+                    "url": "https://www.npr.org/2018/07/05/626201664/president-trump-campaigns-in-montana-but-democratic-senator-may-be-hard-to-beat?utm_source=twitter.com&utm_medium=social&utm_campaign=politics&utm_term=nprnews&utm_content=20180706"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d092",
+                    "date_month": "2018-07",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/trumpbush_0.jpg?itok=Zf6JAIZM",
+                    "origin": "Fox News",
+                    "title": "Trump Raises Eyebrows With Criticism of Bush 41's 'Thousand Points of Light' Slogan",
+                    "ts": 1530900588,
+                    "twitterid": 1015296770472071169,
+                    "url": "http://insider.foxnews.com/2018/07/06/trump-raises-eyebrows-criticism-bush-41s-thousand-points-light-slogan"
+                },
+                {
+                    "_id": "5b4010d4421aa94ba3c11fc3",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/watersmaxine_062718am2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "CNN analyst calls Trump racist for saying Maxine Waters is 'low IQ'",
+                    "ts": 1530923642,
+                    "twitterid": 1015393469756530689,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395905-cnn-analyst-calls-trump-racist-for-saying-maxine-waters-is-low-iq"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            50
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Adam Bloom",
+            "Unrest",
+            "North Carolina",
+            "Video",
+            "Evanston",
+            "Tennessee",
+            "Justin Trudeau Says Amid",
+            "Canada",
+            "Fatal",
+            "Northwestern",
+            "Pool",
+            "France Nun",
+            "Us Your",
+            "Pamplona",
+            "Rose Knight",
+            "Fox River",
+            "Mother Teresa",
+            "Justin Trudeau",
+            "Chicago",
+            "Missouri Man",
+            "Nantes",
+            "South",
+            "Facebook Live",
+            "Cops",
+            "Colorado",
+            "IDAdam",
+            "Virginia",
+            "Torched Cars",
+            "Harasser",
+            "Ohio",
+            "Capital Gazette",
+            "Trudeau",
+            "Lynn",
+            "Dorchester White House",
+            "Detroit",
+            "Caught",
+            "Black Woman",
+            "African",
+            "Delaware",
+            "MAGA",
+            "Sonic",
+            "Fourth",
+            "Bizarre Case",
+            "Elgin",
+            "White House",
+            "Missouri Difficult",
+            "India",
+            "Pastor Glasgow Airman",
+            "Florida",
+            "Kill Supporters Of Trump And New York"
+        ],
+        "peaks": [],
+        "theme": [
+            "man",
+            "pool",
+            "black",
+            "woman",
+            "police",
+            "Accused",
+            "teen"
+        ],
+        "timestamp": "2018-07-07 13:10:23.019102-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b40ab6d421aa952014e0c9b",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/07/us/07XP-POOL/merlin_140875122_3a3f1641-4417-49f6-8251-6d19bfd9d799-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Man Labeled \u2018ID Adam\u2019 Is Fired After Calling the Police on a Black Woman at Pool",
+                    "ts": 1530962583,
+                    "twitterid": 1015556798940622848,
+                    "url": "https://www.nytimes.com/2018/07/06/us/pool-racial-profiling-white-man.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d096",
+                    "date_month": "2018-07",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_27/2489141/180706-pool-profiling-video-mn-1135_5b5abc6045029d596c64b075b20542d4.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Man who called police on black woman at North Carolina pool no longer has job",
+                    "ts": 1530900426,
+                    "twitterid": 1015296091770834946,
+                    "url": "https://www.nbcnews.com/news/nbcblk/man-who-called-police-black-woman-north-carolina-pool-no-n889371?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b3fd8a6421aa9494f77b10b",
+                    "date_month": "2018-07",
+                    "image": "https://apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP South U.S. Region",
+                    "title": "Cops called on black man in socks, woman at her complex pool",
+                    "ts": 1530910454,
+                    "twitterid": 1015338154746875904,
+                    "url": "https://apnews.com/d81d82189dc641dc800b5a86778e14f4/Cops-called-on-black-man-in-socks,-woman-at-her-complex-pool?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=APSouthRegion"
+                },
+                {
+                    "_id": "5b3fae73421aa9474d644bd0",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/idadam-screenshot-060618.jpg",
+                    "origin": "The Hill",
+                    "title": "Video of white man asking black woman for ID at community pool goes viral",
+                    "ts": 1530899885,
+                    "twitterid": 1015293824057466880,
+                    "url": "http://thehill.com/homenews/news/395761-video-of-white-man-asking-black-woman-for-id-at-community-pool-goes-viral"
+                },
+                {
+                    "_id": "5b40f1c9421aa956954b34ff",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/07/07/tennessee-woman-fired-after-calling-cops-on-black-man-wearing-socks-in-neighborhood-pool/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1530976307854.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Tennessee woman fired after calling cops on black man wearing socks in neighborhood pool",
+                    "ts": 1530981106,
+                    "twitterid": 1015634487659651073,
+                    "url": "http://www.foxnews.com/us/2018/07/07/tennessee-woman-fired-after-calling-cops-on-black-man-wearing-socks-in-neighborhood-pool.html"
+                },
+                {
+                    "_id": "5b3fcaac421aa9489e373027",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/01cuIHqpaZF2I79ASVY-YKD-kRs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LAZ6V4CKD4ZW3PLUY5GW3FVX2Q.jpg",
+                    "origin": "Washington Post",
+                    "title": "#IDAdam, the white man who called police on a woman at their neighborhood pool, loses his job",
+                    "ts": 1530905081,
+                    "twitterid": 1015315616826384385,
+                    "url": "https://www.washingtonpost.com/news/post-nation/wp/2018/07/06/idadam-the-white-man-who-called-police-on-a-woman-at-their-neighborhood-pool-loses-his-job/?utm_term=.922bf4ed792c&tid=sm_tw"
+                },
+                {
+                    "_id": "5b401ed5421aa94c160d3c0b",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/idadam-screenshot-060618.jpg",
+                    "origin": "The Hill",
+                    "title": "Man fired after video of him asking black woman for ID at community pool goes viral",
+                    "ts": 1530926527,
+                    "twitterid": 1015405567307845632,
+                    "url": "http://thehill.com/homenews/395820-man-fired-after-video-of-him-asking-black-woman-for-id-at-community-pool-goes-viral"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d081",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/screen_shot_2018-07-05_at_9.38.01_am.png",
+                    "origin": "The Hill",
+                    "title": "Man accused of stealing pro-Trump teen's MAGA hat arrested",
+                    "ts": 1530901685,
+                    "twitterid": 1015301372294594563,
+                    "url": "http://thehill.com/homenews/395805-man-accused-of-stealing-pro-trump-teens-maga-hat-arrested"
+                },
+                {
+                    "_id": "5b3fcaac421aa9489e37303c",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/06/adam_bloom_s2048x1427.jpg?861db8636f1be4d707a0f5785e0c41255438ea0e",
+                    "origin": "The Washington Times",
+                    "title": "Adam Bloom, N.C. man who demanded black woman\u2019s ID at pool in viral video, out of a job",
+                    "ts": 1530903664,
+                    "twitterid": 1015309675401764866,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/6/adam-bloom-nc-man-who-demanded-black-womans-id-at-/"
+                },
+                {
+                    "_id": "5b3fae73421aa9474d644be5",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/05/0/0/694940094001_5805678295001_5805676477001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Man accused of tossing drink at pro-Trump teen inside Whataburger arrested",
+                    "ts": 1530898839,
+                    "twitterid": 1015289435519356929,
+                    "url": "http://www.foxnews.com/us/2018/07/06/man-accused-tossing-drink-at-pro-trump-teen-inside-whataburger-arrested.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            209
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Report",
+            "CFPB",
+            "Pete Davidson",
+            "Deadly",
+            "HNA",
+            "Rockwell",
+            "Diver",
+            "Jon Ronson",
+            "Tesla",
+            "Jim Jordan",
+            "Hornets Freak",
+            "Fusion Media Group",
+            "EgyptAir Crash Stephen Ditko",
+            "GOP",
+            "Richard Spencer",
+            "ESPN",
+            "Nevada",
+            "Louvre",
+            "Francis Willughby",
+            "North",
+            "Elvis Costello Cancels European Tour",
+            "Color News Quiz",
+            "India Mahdavi",
+            "Gillian Flynn",
+            "FBI",
+            "BSO",
+            "American",
+            "Elon Musk",
+            "Affirmative Action And School Admissions Subscribe",
+            "Parkland",
+            "Marcus Smart",
+            "Mark Zuckerberg",
+            "Dave",
+            "CEO",
+            "Ohio State Dave Grohl",
+            "Trump",
+            "Constance Adams Helped",
+            "Tom Shillue",
+            "Otherworldly Fiction",
+            "Top Supreme Court Contenders",
+            "NewsHour",
+            "Kurt Cobain",
+            "Official Debut Black",
+            "Gigi Hadid",
+            "Can Reading Make",
+            "Phil Mickelson",
+            "UAE",
+            "Nicaragua Major",
+            "Cave Grinds",
+            "Jeff Bezos",
+            "Forbidden Love Thailand Cave Rescue",
+            "Warren Buffett",
+            "New Bruce Lee",
+            "God",
+            "Frida Kahlo",
+            "Elvis Costello",
+            "TLC",
+            "Chen Feng Steps",
+            "Alcoholism Anthony Bourdain",
+            "Say Fire Likely",
+            "False",
+            "Ground",
+            "Fellow",
+            "Mulvaney",
+            "PBS",
+            "United Center Ohio State",
+            "Jordanian",
+            "Sweden Regional",
+            "Red Hen",
+            "Cutest",
+            "Yemen From",
+            "New Frontier",
+            "Beyonce",
+            "US Thai",
+            "Russian",
+            "OxyContin",
+            "Millennial",
+            "Toys",
+            "Nick Cafardo",
+            "London",
+            "Objects",
+            "Reach Millennials",
+            "Reason",
+            "Wasp",
+            "Kidnapped Pig Radiohead",
+            "Buzz Aldrin",
+            "Happy Fourth",
+            "Rio Gomez",
+            "Michael Cohen",
+            "Sarah Huckabee Sanders",
+            "Florida",
+            "Chip Gaines",
+            "Pedro Gomez",
+            "Xiaomi Shares Slip Ahead",
+            "UK",
+            "Sexual Abuse",
+            "Allegations Mount",
+            "Beach Full",
+            "Great",
+            "California",
+            "Islamic State",
+            "OSU Elon Musk",
+            "Chicago",
+            "Karl Marx",
+            "Afghanistan Biogen",
+            "Phuket My Night",
+            "Furious",
+            "Doctor Strange",
+            "Chris Brown",
+            "Deep State",
+            "Virtuoso",
+            "George Mason University Foundation",
+            "How George Clinton Made",
+            "Kaley Cuoco",
+            "Congress",
+            "Anne Tyler",
+            "Red Sox",
+            "U.S.",
+            "Mass",
+            "Alzheimer",
+            "Disco",
+            "Dan Ryan",
+            "Stan Lee Claude Lanzmann",
+            "Mark Sanford",
+            "Marvel",
+            "Dangerous",
+            "Which",
+            "Largest Dairy Herd Syrian",
+            "Maine",
+            "Beach Read",
+            "Chris Sale Virginia",
+            "Joanna Gaines",
+            "Swift Solution Oprah Winfrey",
+            "Canned",
+            "Gillette",
+            "ABC News Dozens",
+            "Patricia Highsmith",
+            "RNC",
+            "Barbra Streisand",
+            "NBC News",
+            "French Investigators",
+            "Jim Jordan Is Defiant",
+            "Fifth Ohio State",
+            "Todd Starnes",
+            "Female",
+            "Katie Arrington",
+            "Damonte Dodd",
+            "Week",
+            "Tiger Woods",
+            "Rohingya",
+            "Anne Frank",
+            "Waffle House",
+            "Brazil",
+            "Link Between Creativity",
+            "Walsh",
+            "NHL",
+            "Brendon Urie",
+            "Support",
+            "Dan Ryan Expressway",
+            "Twisted",
+            "Marines",
+            "South Carolina",
+            "Shaw",
+            "Dennis Hof",
+            "Tech",
+            "Brothel",
+            "Steve Ditko",
+            "Danielle Busby",
+            "Georgia",
+            "Sharp",
+            "Qatar",
+            "Son Tells",
+            "Pedro Martinez",
+            "Boston Symphony Orchestra",
+            "Cabinet Over Brexit Plan",
+            "Royals Woman",
+            "Episcopal Church",
+            "Western Europe",
+            "Bill Gates",
+            "Radical Right Come From",
+            "Paul Ryan",
+            "Taylor Swift",
+            "Hamilton",
+            "Stormy Daniels"
+        ],
+        "peaks": [],
+        "theme": [
+            "Say",
+            "Cave",
+            "Jordan",
+            "State",
+            "make",
+            "Man",
+            "protesters"
+        ],
+        "timestamp": "2018-07-07 13:10:26.140546-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3fcaac421aa9489e373032",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/06/BostonGlobe.com/Foreign/Images/AFP_178470.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Thai cave rescue will be murky, desperate ordeal, divers say",
+                    "ts": 1530904251,
+                    "twitterid": 1015312138007703552,
+                    "url": "https://www.bostonglobe.com/news/world/2018/07/06/thai-cave-rescue-will-murky-desperate-ordeal-divers-say/g3xjOGxx6OLx7LUzeGyn9O/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b401ed5421aa94c160d3c13",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/07/us/politics/07dc-jordan-print/07dc-jordan-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Jim Jordan Is Defiant as Allegations Mount, and Supporters Point to \u2018Deep State\u2019",
+                    "ts": 1530925743,
+                    "twitterid": 1015402282186428416,
+                    "url": "https://www.nytimes.com/2018/07/06/us/politics/jim-jordan-sexual-misconduct.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5b401ed5421aa94c160d3c17",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/jordanjim_060718gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Fifth Ohio State wrestler claims Jordan ignored sexual abuse",
+                    "ts": 1530925267,
+                    "twitterid": 1015400285546704896,
+                    "url": "http://thehill.com/homenews/house/395839-fifth-ohio-state-wrestler-claims-jordan-ignored-sexual-abuse"
+                },
+                {
+                    "_id": "5b3fd8a6421aa9494f77b121",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/IaVd0SQiuPX62Au8tbPBr0HtXIM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EQTQVYSKVYI6NEFI7OCCAHQGIU.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018I was a poser,\u2019 says young man caught with Islamic State propaganda and child porn",
+                    "ts": 1530909229,
+                    "twitterid": 1015333015608848384,
+                    "url": "https://www.washingtonpost.com/local/public-safety/i-was-a-poser-says-young-man-caught-with-islamic-state-propaganda-and-child-porn/2018/07/05/f5ef3354-8069-11e8-bb6b-c1cb691f1402_story.html?utm_term=.8af93423fd70&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3ff4b7421aa94a6e877f7b",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/06/0/0/694940094001_5806142935001_5806138303001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Ex-Ohio State wrestler's emails to Rep. Jim Jordan allege cover-up of 'vile' sex abuse",
+                    "ts": 1530915765,
+                    "twitterid": 1015360427398713345,
+                    "url": "http://www.foxnews.com/politics/2018/07/06/ex-ohio-state-wrestlers-emails-to-rep-jim-jordan-allege-cover-up-vile-sex-abuse.html"
+                },
+                {
+                    "_id": "5b4048fb421aa94dc4153ba4",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/t8y-kzmXfzLH2-mi9VM7T70AilA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K724GUEQYU6RDLL2BNMIBPJVEQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018It\u2019s false\u2019: Rep. Jim Jordan slams accusers amid accusations he ignored sexual abuse at Ohio State",
+                    "ts": 1530936963,
+                    "twitterid": 1015449339873972225,
+                    "url": "https://www.washingtonpost.com/news/powerpost/wp/2018/07/06/its-false-jim-jordan-slams-accusers-amid-accusations-he-ignored-sex-abuse-at-ohio-state/?tid=sm_tw"
+                },
+                {
+                    "_id": "5b40c795421aa9552d8f6ba8",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/59097cc68b51cf59fc423f0c/16:9/w_1200,h_630,c_limit/Dovey-Can-Reading-Make-Us-Feel-Better.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Can Reading Make You Happier?",
+                    "ts": 1530968418,
+                    "twitterid": 1015581270481522690,
+                    "url": "https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier"
+                },
+                {
+                    "_id": "5b409d58421aa9514e2d826f",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/5aa1bda0c395203237517736/16:9/w_1200,h_630,c_limit/180319_r31691.jpg",
+                    "origin": "The New Yorker",
+                    "title": "The Flowers that Make Chanel No. 5",
+                    "ts": 1530959580,
+                    "twitterid": 1015544202959171584,
+                    "url": "https://www.newyorker.com/magazine/2018/03/19/fragrant-harvest?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b3fcaac421aa9489e373010",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/UI4i3LHV_H8HevBYEosQV8llAAc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U4SEEEEASAI6RO3LYHFWSHYUAI.jpg",
+                    "origin": "Washington Post",
+                    "title": "What it\u2019s like to be trapped in a cave",
+                    "ts": 1530906606,
+                    "twitterid": 1015322014930882560,
+                    "url": "https://www.washingtonpost.com/outlook/what-its-like-to-be-trapped-in-a-cave/2018/07/06/1eee531e-8076-11e8-b0ef-fffcabeff946_story.html?utm_term=.25d9a1042a28&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d072",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/06/08/6e668ac4-7f21-41c1-8e96-325cb71ddacc/thumbnail/1200x630g4/3b0247127a5d55ab0850adfe9417b4ed/anthony-bourdain-ap-8034623591.jpg",
+                    "origin": "CBS News",
+                    "title": "Anthony Bourdain\u2019s will reveals net worth of $1.2M, reports say",
+                    "ts": 1530902392,
+                    "twitterid": 1015304339026477057,
+                    "url": "https://www.cbsnews.com/news/anthony-bourdains-will-reveals-net-worth-of-1-2m/?ftag=CNM-00-10aab7e&linkId=53961008"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            50
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "ICE Mexico",
+            "Border Patrol",
+            "Abolish ICE",
+            "Texas Brzezinski",
+            "Fact",
+            "GOP",
+            "Weigh Politics",
+            "Phoenix",
+            "Slams Democrats Nevada",
+            "Mexico",
+            "U.S. Army",
+            "Which Company Will",
+            "Illegal",
+            "American",
+            "South Carolina",
+            "Trump US Army",
+            "U.S.-Mexico Border Drop",
+            "TPS",
+            "Trump Administration Seeks",
+            "U.S.",
+            "Army",
+            "Laredo",
+            "Trump",
+            "ICE",
+            "Trump Trump",
+            "White House",
+            "Border Tucker Carlson",
+            "Months",
+            "Ivanka Trump",
+            "Virginia Immigrant",
+            "Calls",
+            "AP"
+        ],
+        "peaks": [],
+        "theme": [
+            "Separated",
+            "immigrant",
+            "Trump",
+            "Families",
+            "ICE",
+            "migrant",
+            "Army"
+        ],
+        "timestamp": "2018-07-07 13:10:26.953271-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3fae73421aa9474d644bef",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/06f47f504a13d2f06163473484da7cafa62ede69/c=0-212-4107-2532/local/-/media/2018/06/22/USATODAY/USATODAY/636652614756449836-AFP-tent.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Trump administration says it may not meet deadline to reunite separated families",
+                    "ts": 1530898403,
+                    "twitterid": 1015287609936023554,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/07/06/trump-team-says-may-not-meet-deadline-reunite-migrant-families/763421002/"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d05e",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-17166/social",
+                    "origin": "Capital Journal",
+                    "title": "Trump Administration Seeks More Time to Reunite Families Separated at Border",
+                    "ts": 1530903572,
+                    "twitterid": 1015309288099778563,
+                    "url": "https://www.wsj.com/articles/trump-administration-seeks-more-time-to-reunite-families-separated-at-border-1530903306?mod=e2twp"
+                },
+                {
+                    "_id": "5b3fae73421aa9474d644be3",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/06/BostonGlobe.com/Politics/Images/d9480e970a63406790c4f274e8926494-d9480e970a63406790c4f274e8926494-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump administration seeks to extend deadline for reuniting some migrant families",
+                    "ts": 1530898893,
+                    "twitterid": 1015289663563722760,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/07/06/trump-administration-seeks-extend-deadline-for-reuniting-some-migrant-families/IdCtt4UXzYyIBpOYkwHtyL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b401ed5421aa94c160d3c0c",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/brzezinskimika_120916getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Brzezinski calls Ivanka Trump 'sick' and 'twisted' for thanking President Trump for reunited migrant families",
+                    "ts": 1530926164,
+                    "twitterid": 1015404044041510912,
+                    "url": "http://thehill.com/homenews/media/395798-brzezinski-calls-ivanka-trump-sick-and-twisted-for-thanking-trump-for-reunited?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b40ab6d421aa952014e0c9a",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumptowerdonald.jpg",
+                    "origin": "The Hill",
+                    "title": "Judge will not give Trump admin more time to reunite all separated families",
+                    "ts": 1530962752,
+                    "twitterid": 1015557508860137472,
+                    "url": "http://thehill.com/homenews/administration/395916-judge-will-not-give-trump-admin-more-time-to-reunite-all-separated"
+                },
+                {
+                    "_id": "5b40570a421aa94e5898d3b7",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2017/09/16/us/16military/16military--facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Have You Been Discharged From the Army Because You Are an Immigrant?",
+                    "ts": 1530939669,
+                    "twitterid": 1015460690965028864,
+                    "url": "https://www.nytimes.com/2018/07/06/magazine/army-recruit-immigrants.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b40d5a6421aa9559a41d468",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumptowerdonald.jpg",
+                    "origin": "The Hill",
+                    "title": "Judge does not give Trump admin more time to reunite all separated families",
+                    "ts": 1530973024,
+                    "twitterid": 1015600591274430465,
+                    "url": "http://thehill.com/homenews/administration/395916-judge-will-not-give-trump-admin-more-time-to-reunite-all-separated"
+                },
+                {
+                    "_id": "5b3fae73421aa9474d644bdf",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/military_army_040914getty_1.jpg",
+                    "origin": "The Hill",
+                    "title": "Army discharging some immigrant recruits: report",
+                    "ts": 1530899165,
+                    "twitterid": 1015290802522742785,
+                    "url": "http://thehill.com/policy/defense/army/395718-army-discharging-some-immigrant-recruits-report"
+                },
+                {
+                    "_id": "5b40d5a6421aa9559a41d46f",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/AP_18184073644574/facebook.jpg?1530902662",
+                    "origin": "The Atlantic",
+                    "title": "Which Company Will Test the DNA of Separated Families?",
+                    "ts": 1530972439,
+                    "twitterid": 1015598138193825792,
+                    "url": "https://www.theatlantic.com/science/archive/2018/07/when-dna-tests-are-used-to-reunite-immigrant-families/564584/?utm_content=edit-promo&utm_term=2018-07-07T11%3A00%3A12&utm_campaign=the-atlantic&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b40570a421aa94e5898d3ad",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/06/BostonGlobe.com/National/Images/66eb2285126a42d1b505d80123ebbf54-66eb2285126a42d1b505d80123ebbf54-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Immigrant grad student shocked by abrupt Army discharge",
+                    "ts": 1530940627,
+                    "twitterid": 1015464706755252224,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/07/06/immigrant-grad-student-shocked-abrupt-army-discharge/IjnGLjvOeMpSv5rvXcE71L/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Style Jobs",
+            "Hello",
+            "Las Vegas",
+            "Unpaid Internships",
+            "Full Employment",
+            "Jobless",
+            "Current Rate Policy Trump",
+            "Latino Americans",
+            "U.S.",
+            "American",
+            "Florida"
+        ],
+        "peaks": [],
+        "theme": [
+            "jobs",
+            "Trump",
+            "hire",
+            "June",
+            "lago",
+            "mar",
+            "workers"
+        ],
+        "timestamp": "2018-07-07 13:10:27.181846-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3fae73421aa9474d644bf2",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/06/BostonGlobe.com/Business/Images/a6065da05c95444ebc00e0d450840f2f-a6065da05c95444ebc00e0d450840f2f-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump\u2019s Mar-a-Lago Club in Florida petitions to hire 40 foreign workers",
+                    "ts": 1530898325,
+                    "twitterid": 1015287280330788864,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/07/06/trump-mar-lago-club-florida-petitions-hire-foreign-workers/IbFdmdO0NPgWqq5NwbCU1N/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3fcaac421aa9489e373034",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/blogs/maralago01252017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump's Mar-a-Lago resort requests permission to hire 40 foreign workers",
+                    "ts": 1530904207,
+                    "twitterid": 1015311949754781696,
+                    "url": "http://thehill.com/homenews/administration/395699-trump-is-requesting-to-hire-40-foreign-workers-at-mar-a-lago"
+                },
+                {
+                    "_id": "5b4010d4421aa94ba3c11fbe",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/cd5af5a6725b6ffa0dfd162c0ddb6b24a2305d0f/c=0-78-2994-1769/local/-/media/2016/05/27/USATODAY/USATODAY/635999544004977000-GettyImages-97212033.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Trump's Mar-a-Lago asks Labor for permission to hire 61 foreign workers",
+                    "ts": 1530924003,
+                    "twitterid": 1015394982398709760,
+                    "url": "https://www.usatoday.com/story/news/politics/onpolitics/2018/07/06/mar-lago-foreign-worker-visas/764053002/"
+                },
+                {
+                    "_id": "5b3ff4b7421aa94a6e877f82",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Politics/mar-a-lago-gty-jt-180706_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Trump\u2019s Mar-a-Lago asks to hire 61 additional foreign workers using visa program",
+                    "ts": 1530915243,
+                    "twitterid": 1015358238165028864,
+                    "url": "https://abcnews.go.com/Politics/trumps-mar-lago-asks-hire-61-additional-foreign/story?id=56410651&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d07e",
+                    "date_month": "2018-07",
+                    "image": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--1_91-1--1200x630/public/afp_ji3n7.jpg?itok=B0X8avWj",
+                    "origin": "MSNBC",
+                    "title": "Trump\u2019s \u2018hire American\u2019 rule doesn\u2019t seem to apply to Mar-a-Lago",
+                    "ts": 1530901808,
+                    "twitterid": 1015301888647028736,
+                    "url": "http://www.msnbc.com/rachel-maddow-show/trumps-hire-american-rule-doesnt-seem-apply-mar-lago?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b3fae73421aa9474d644be8",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/01/RTX4EG8O-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "5 important takeaways from the June jobs report",
+                    "ts": 1530898800,
+                    "twitterid": 1015289273925369862,
+                    "url": "https://www.pbs.org/newshour/economy/5-important-takeaways-from-the-june-jobs-report"
+                },
+                {
+                    "_id": "5b3fcaac421aa9489e373015",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/05/ap_18030781785205_wide-12d89f99677743f8d6dd23a3c27d786858a47b7b.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "U.S. Added 213,000 Jobs In June",
+                    "ts": 1530906300,
+                    "twitterid": 1015320730421080066,
+                    "url": "https://www.npr.org/2018/07/06/626102133/the-economy-keeps-adding-jobs-but-filling-them-gets-harder?utm_source=twitter.com&utm_medium=social&utm_campaign=politics&utm_term=nprnews&utm_content=20180706"
+                },
+                {
+                    "_id": "5b403afb421aa94d4cd8fd92",
+                    "date_month": "2018-07",
+                    "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/adb1be39777de510VgnVCM100000d7c1a8c0____-jobs-2.png?ve=1&tl=1",
+                    "origin": "Fox News",
+                    "title": "June jobs growth jumps with 213K jobs added while unemployment rises",
+                    "ts": 1530936000,
+                    "twitterid": 1015445300641714176,
+                    "url": "https://www.foxbusiness.com/markets/june-jobs-growth-accelerates-while-unemployment-rises"
+                },
+                {
+                    "_id": "5b3ff4b7421aa94a6e877f67",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-14208/social",
+                    "origin": "Capital Journal",
+                    "title": "Analysis: June Jobs Report Offers Fed Officials Comfort With Current Rate Policy",
+                    "ts": 1530917085,
+                    "twitterid": 1015365966946021376,
+                    "url": "https://www.wsj.com/articles/analysis-june-jobs-report-offers-fed-officials-comfort-with-current-rate-policy-1530886546?mod=e2twp"
+                },
+                {
+                    "_id": "5b4002c6421aa94b2a82756d",
+                    "date_month": "2018-07",
+                    "image": "http://www.latimes.com/resizer/G66b79x0y_2LcdlliszwugR60m4=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/ECM4R4QM5ZG4VHSAYK6PY5FUFE.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Union workers picket in Las Vegas, worried about pay, security and robots taking their jobs",
+                    "ts": 1530919443,
+                    "twitterid": 1015375857177595904,
+                    "url": "https://www.latimes.com/nation/la-na-union-picket-casinos-20180706-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            19
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Grayson Allen England",
+            "David Beckham",
+            "LGBTQ Pride Night Dan",
+            "New York",
+            "Tony Parker",
+            "MLB",
+            "Hornets Loyalties Are Tested",
+            "Bob Ryan",
+            "Clark Kent Soccer",
+            "NBA",
+            "Deandre Ayton",
+            "U.S.",
+            "English Soccer",
+            "Championship",
+            "PED Julian Edelman",
+            "Zlatan Ibrahimovic",
+            "New Favorite",
+            "Sweden",
+            "LeBron James"
+        ],
+        "peaks": [],
+        "theme": [
+            "Cup",
+            "World",
+            "England",
+            "Sweden",
+            "new",
+            "reach",
+            "semifinals"
+        ],
+        "timestamp": "2018-07-07 13:10:27.633725-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b40f1c9421aa956954b350c",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/8d7dc1ef3f13d65a4eb74e8cbccc2c313380fe24/c=1051-628-4221-2419/local/-/media/2018/07/07/USATODAY/USATODAY/636665608068422705-GTY-993326054-101298814.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "England dominates Sweden to reach World Cup semifinals",
+                    "ts": 1530980103,
+                    "twitterid": 1015630284249796611,
+                    "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2018/07/07/england-semifinals-sweden-world-cup/765380002/"
+                },
+                {
+                    "_id": "5b40f1c9421aa956954b3512",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/07/BostonGlobe.com/Sports/Images/4909378e64904358bdd0235c39221529-4909378e64904358bdd0235c39221529-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "England shuts out Sweden to reach World Cup semifinals",
+                    "ts": 1530979375,
+                    "twitterid": 1015627227969544192,
+                    "url": "https://www.bostonglobe.com/sports/soccer/2018/07/07/england-shuts-out-sweden-reach-world-cup-semifinals/g1Wk9YcMD4XFOLa4QfH44K/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b40f1c9421aa956954b3509",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/07/Russia_Soccer_WCup_Sweden_England_64905.jpg-bd97d_s2048x1454.jpg?55da187c6a1a515468f8210fc6ffc31bcdde4370",
+                    "origin": "The Washington Times",
+                    "title": "England reaches World Cup semifinals, beats Sweden 2-0",
+                    "ts": 1530980282,
+                    "twitterid": 1015631034283646976,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/7/england-reaches-world-cup-semifinals-beats-sweden-/"
+                },
+                {
+                    "_id": "5b40f1c9421aa956954b350b",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180707110943-06-world-cup-england-vs-sweden-070718-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "England beats Sweden to reach first World Cup semifinal since 1990",
+                    "ts": 1530980110,
+                    "twitterid": 1015630313408606208,
+                    "url": "https://www.cnn.com/2018/07/07/football/england-sweden-world-cup-russia-2018-spt-intl/index.html?utm_source=twCNN&utm_medium=social&utm_term=image&utm_content=2018-07-07T16%3A15%3A09"
+                },
+                {
+                    "_id": "5b407329421aa94fc5291763",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/57340c690f9e08bd3f3d8376afb918ad50c3b63f/c=0-29-999-593/local/-/media/2018/07/06/USATODAY/USATODAY/636665012815910429-BeckhamZlatan.png?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Zlatan Ibrahimovic, David Beckham place bet on England-Sweden game at World Cup",
+                    "ts": 1530950410,
+                    "twitterid": 1015505741350924288,
+                    "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2018/07/06/zlatan-ibrahimovic-and-david-beckham-make-england-sweden-bet/764898002/"
+                },
+                {
+                    "_id": "5b40ab6d421aa952014e0c9d",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-17008/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "How to Use the World Cup to Build a World-Class Sports Apparel Brand From Scratch",
+                    "ts": 1530962409,
+                    "twitterid": 1015556069395980290,
+                    "url": "https://www.wsj.com/articles/how-to-use-the-world-cup-to-build-a-world-class-sports-apparel-brand-from-scratch-1530961201?mod=e2tw"
+                },
+                {
+                    "_id": "5b3fd8a6421aa9494f77b11c",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/health/2018/07/06/world-cup-trophy-presented-to-5-year-old-boy-battling-cancer/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1530908716605.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "'World Cup' trophy presented to 5-year-old boy battling cancer",
+                    "ts": 1530909443,
+                    "twitterid": 1015333912392949760,
+                    "url": "http://www.foxnews.com/health/2018/07/06/world-cup-trophy-presented-to-5-year-old-boy-battling-cancer.html"
+                },
+                {
+                    "_id": "5b40c795421aa9552d8f6b91",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16862/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Soccer\u2019s New Favorite Pantomime",
+                    "ts": 1530970805,
+                    "twitterid": 1015591284722094081,
+                    "url": "https://www.wsj.com/articles/soccers-new-favorite-pantomime-1530875250?mod=e2tw"
+                },
+                {
+                    "_id": "5b4002c6421aa94b2a827575",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2016/04/05/31ee4605-8180-4816-99de-948463230bd6/thumbnail/1200x630/d28f2a110e05ea9950ec521377bfa33c/yankeestadium.jpg",
+                    "origin": "CBS News",
+                    "title": "New York Yankees are set to become only MLB team not to host LGBTQ Pride Night",
+                    "ts": 1530918884,
+                    "twitterid": 1015373513056751616,
+                    "url": "https://www.cbsnews.com/news/new-york-yankees-are-set-to-become-only-mlb-team-not-to-host-lgbtq-pride-night/?ftag=CNM-00-10aab7e&linkId=53972450"
+                },
+                {
+                    "_id": "5b401ed5421aa94c160d3c06",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/06/BostonGlobe.com/Sports/Images/c748adf4b15449a59007357309d65305-c748adf4b15449a59007357309d65305-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Bob Ryan: One dominant team in NBA is nothing new, and it\u2019s never been bad for the league",
+                    "ts": 1530926820,
+                    "twitterid": 1015406798919041024,
+                    "url": "https://www.bostonglobe.com/sports/2018/07/06/one-dominant-team-nba-nothing-new-and-never-been-bad-for-league/ygzAwg5iNs15b9uCk8UjCK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            42
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Bureau",
+            "Trump Foundation",
+            "Fine",
+            "WaPo",
+            "Putin",
+            "Rosenberg",
+            "McMaster",
+            "Turn",
+            "Charges Against Trump Inauguration Protesters Manafort",
+            "Northern Virginia",
+            "Kimberley Strassel",
+            "Comey",
+            "Hefner",
+            "Will Drop",
+            "FBI Come Clean",
+            "Mueller Interview Trump",
+            "Mueller",
+            "House",
+            "Strategy",
+            "Devin Nunes",
+            "Giuliani",
+            "Trump Philippine",
+            "Donald Trump",
+            "Eight",
+            "DNC",
+            "NYT",
+            "Russian",
+            "Trump",
+            "Roanoke DOJ",
+            "Asian Past Trump",
+            "Paul Manafort"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Manafort",
+            "FBI",
+            "Day",
+            "Inauguration",
+            "Mueller",
+            "Prosecutors"
+        ],
+        "timestamp": "2018-07-07 13:10:28.233576-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b40b97f421aa954b8f641d5",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/06/gettyimages-632261262_wide-d0d49fefa49bbec5548e3a32a48283dec01ed34f.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Prosecutors Will Drop Remaining Cases Against Inauguration Day Protesters",
+                    "ts": 1530966784,
+                    "twitterid": 1015574419811418112,
+                    "url": "https://www.npr.org/2018/07/06/626728667/prosecutors-will-drop-remaining-cases-from-inauguration-day-riots?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3fd8a6421aa9494f77b11a",
+                    "date_month": "2018-07",
+                    "image": "http://www.latimes.com/resizer/JRJOzM-CeoH1woHaU8QZn6UNFSM=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/BR4O64VLINDU5N6OMC2E3CCFWY.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Federal prosecutors dismiss all remaining Inauguration Day rioting cases",
+                    "ts": 1530909588,
+                    "twitterid": 1015334521141489665,
+                    "url": "https://www.latimes.com/nation/nationnow/la-na-inauguration-day-protests-20180706-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3fe6ae421aa949ca1b92dc",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/ECvGj8utfAejl2NDZVICQplxqgM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CMRO3YSPR4I6PPRFHJIZGNJYDQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Federal prosecutors abruptly dismiss all remaining Inauguration Day rioting cases",
+                    "ts": 1530912483,
+                    "twitterid": 1015346663567822848,
+                    "url": "https://www.washingtonpost.com/local/public-safety/federal-prosecutors-abruptly-dismiss-all-remaining-inauguration-day-rioting-cases/2018/07/06/d7055ffe-7ee8-11e8-bb6b-c1cb691f1402_story.html?utm_term=.e1b85b31f703&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3fd8a6421aa9494f77b129",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpinaugurationprotest_07062018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Prosecutors drop remaining Trump inauguration protester cases",
+                    "ts": 1530908708,
+                    "twitterid": 1015330831559217152,
+                    "url": "http://thehill.com/regulation/court-battles/395867-federal-prosecutors-request-dismissal-of-remaining-inauguration"
+                },
+                {
+                    "_id": "5b4002c6421aa94b2a82755a",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/07/business/07dc-arrests/merlin_116960975_972d8a1b-1f74-4390-a4c7-2c14609ab1d2-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Prosecutors Dropping Remaining Charges Against Trump Inauguration Protesters",
+                    "ts": 1530920569,
+                    "twitterid": 1015380577757941764,
+                    "url": "https://www.nytimes.com/2018/07/06/us/politics/inauguration-protests-charges-dropped.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5b407329421aa94fc529176d",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180615095948-02-paul-manafort-06-15-2018-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Manafort trial does have Trump link, Mueller team says",
+                    "ts": 1530948723,
+                    "twitterid": 1015498666268905472,
+                    "url": "https://www.cnn.com/2018/07/06/politics/paul-manafort-trial-public/index.html?sr=twCNNp070618paul-manafort-trial-public0447PMStory&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d099",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/manafortpaul_061518am4_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Manafort being kept in solitary confinement 23 hours per day to \u2018guarantee his safety\u2019",
+                    "ts": 1530900064,
+                    "twitterid": 1015294576280719361,
+                    "url": "http://thehill.com/homenews/395826-manafort-being-kept-in-solitary-confinement-23-hours-per-day-to-guarantee-his-safety"
+                },
+                {
+                    "_id": "5b4010d4421aa94ba3c11fd3",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/06/07/us/-09dc-investigate-1/-09dc-investigate-1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Shifting Strategy, Trump\u2019s Lawyers Set New Conditions for Mueller Interview",
+                    "ts": 1530922793,
+                    "twitterid": 1015389907785846785,
+                    "url": "https://www.nytimes.com/2018/07/06/us/politics/trump-special-counsel-interview.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5b40b97f421aa954b8f641e5",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/strzokpeter_07052018.jpg",
+                    "origin": "The Hill",
+                    "title": "Memos detail FBI\u2019s \u2018Hurry the F up pressure\u2019 to probe Trump campaign",
+                    "ts": 1530965106,
+                    "twitterid": 1015567378531405824,
+                    "url": "http://thehill.com/hilltv/rising/395776-memos-detail-fbis-hurry-the-f-up-pressure-to-probe-trump-campaign"
+                },
+                {
+                    "_id": "5b401ed5421aa94c160d3bfc",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpmueller_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Giuliani: Mueller needs to prove Trump committed crime before agreeing to interview",
+                    "ts": 1530927604,
+                    "twitterid": 1015410087312199680,
+                    "url": "http://thehill.com/homenews/administration/395907-giuliani-mueller-needs-to-prove-trump-committed-crime-before-agreeing?__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            30
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Amy Coney Barrett",
+            "Waltham",
+            "Trump Tries",
+            "Health Care",
+            "Praise",
+            "Supreme Court",
+            "Kansas Democratic",
+            "HLN",
+            "Marc Thiessen",
+            "Supreme Court Contenders Have",
+            "Wade Youth",
+            "Kavanaugh",
+            "White House",
+            "SCOTUS",
+            "Battle",
+            "Orrin Hatch",
+            "NRA",
+            "Wade Could Remake American",
+            "Supreme Court Decisions",
+            "Dems"
+        ],
+        "peaks": [],
+        "theme": [
+            "Court",
+            "Supreme",
+            "Trump",
+            "Conservatives",
+            "Democrats",
+            "pick",
+            "Roe"
+        ],
+        "timestamp": "2018-07-07 13:10:28.866492-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b408f43421aa950dc1aa09e",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/06/0/0/694940094001_5806245193001_5806253163001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Marc Thiessen: Helpless Democrats can't block Trump's Supreme Court pick \u2013 And it's all their fault",
+                    "ts": 1530957600,
+                    "twitterid": 1015535899512168448,
+                    "url": "http://www.foxnews.com/opinion/2018/07/06/marc-thiessen-helpless-democrats-cant-block-trumps-supreme-court-pick-and-its-all-their-fault.html"
+                },
+                {
+                    "_id": "5b40f1c9421aa956954b34f6",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/06/0/0/694940094001_5806083650001_5806112150001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Orrin Hatch may have given a clue about Trump's Supreme Court pick",
+                    "ts": 1530981760,
+                    "twitterid": 1015637230419955712,
+                    "url": "http://www.foxnews.com/politics/2018/07/07/orrin-hatch-may-have-given-clue-about-trumps-supreme-court-pick.html"
+                },
+                {
+                    "_id": "5b408f43421aa950dc1aa0ad",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/03/0/0/694940094001_5804820857001_5804830710001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Liz Peek: Democrats are furious about Trump and the Supreme Court \u2013 They have only Obama to blame",
+                    "ts": 1530954901,
+                    "twitterid": 1015524576116129793,
+                    "url": "http://www.foxnews.com/opinion/2018/07/06/liz-peek-democrats-are-furious-about-trump-and-supreme-court-have-only-obama-to-blame.html"
+                },
+                {
+                    "_id": "5b3fae73421aa9474d644c01",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/sWrE9ipUz2v7C_Csa5cSx26Vb_s=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GMJYC4UAQMI6RO3LYHFWSHYUAI.jpg",
+                    "origin": "Washington Post",
+                    "title": "On the Supreme Court, Democrats have only themselves to blame",
+                    "ts": 1530897304,
+                    "twitterid": 1015283000022585348,
+                    "url": "https://www.washingtonpost.com/opinions/with-judicial-nominees-democrats-have-only-themselves-to-blame/2018/07/05/2225c65c-8067-11e8-b660-4d0f9f0351f1_story.html?utm_term=.3ece2ba3f7b2&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3fe6ae421aa949ca1b92c3",
+                    "date_month": "2018-07",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_27/2487741/180705-amy-coney-barrett-se-306p_24fe570bf77959333478abc066dea277.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump's potential court picks scrutinized for 'code' words on Roe v. Wade",
+                    "ts": 1530914346,
+                    "twitterid": 1015354477774299137,
+                    "url": "https://www.nbcnews.com/politics/supreme-court/trump-s-potential-court-picks-scrutinized-code-words-roe-v-n889426?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b40ab6d421aa952014e0c8f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/kavanaughbrett_070418gn.jpg",
+                    "origin": "The Hill",
+                    "title": "Supreme Court contender Kavanaugh faces pushback from social conservatives",
+                    "ts": 1530963905,
+                    "twitterid": 1015562341059059712,
+                    "url": "http://thehill.com/regulation/court-battles/395871-supreme-court-contender-kavanaugh-faces-pushback-from-conservatives"
+                },
+                {
+                    "_id": "5b3fcaac421aa9489e373023",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/07/autossell/07frontrunners-1/frontrunners-1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Roe v. Wade and Abortion: Watch What Supreme Court Contenders Have Said",
+                    "ts": 1530905177,
+                    "twitterid": 1015316018066018304,
+                    "url": "https://www.nytimes.com/2018/07/06/us/politics/supreme-court-contenders-abortion.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5b403afb421aa94d4cd8fdb3",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180625132828-01-scotus-building-lead-image-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "After Supreme Court pick, expect talk of family, sports or fish",
+                    "ts": 1530932587,
+                    "twitterid": 1015430984546897920,
+                    "url": "https://www.cnn.com/2018/07/06/politics/donald-trump-supreme-court-pick-personal-stories/index.html?sr=twCNNp070618donald-trump-supreme-court-pick-personal-stories0646AMVODtop&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d077",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/TKg21IYB_jUFeD-hzyrXCNUeoSA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UCPLU2D6JYI6RJR7PNOSVOT2YU.jpg",
+                    "origin": "Washington Post",
+                    "title": "Kavanaugh\u2019s unorthodox path to Trump\u2019s Supreme Court shortlist",
+                    "ts": 1530902285,
+                    "twitterid": 1015303890542190593,
+                    "url": "https://www.washingtonpost.com/politics/kavanaughs-unorthodox-path-to-trumps-supreme-court-shortlist/2018/07/06/dbf3c9de-8077-11e8-b0ef-fffcabeff946_story.html?utm_term=.21baca5d7967&tid=sm_tw"
+                },
+                {
+                    "_id": "5b403afb421aa94d4cd8fdb2",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/06/BostonGlobe.com/Politics/Images/ed385901e0a84ca184f0c39c23ee5d50-8975c3b4a8404d3095feb85543460976-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Waltham native is on Trump\u2019s short list for Supreme Court",
+                    "ts": 1530932641,
+                    "twitterid": 1015431211978842113,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/07/06/waltham-native-trump-short-list-for-supreme-court/4dCxapfo6BIaYxsor8VEtJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            16
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Wimbledon Belgium",
+            "Nationals",
+            "Neymar",
+            "Golden Generation Delivers",
+            "Lukaku",
+            "Serena Williams",
+            "Improbable Beauty",
+            "Joe Ross",
+            "European",
+            "Venus Williams",
+            "Belgium",
+            "Stephen Strasburg",
+            "Simona Halep",
+            "France",
+            "Mark Reynolds",
+            "Brazil"
+        ],
+        "peaks": [],
+        "theme": [
+            "World",
+            "Cup",
+            "Belgium",
+            "Semifinal",
+            "Brazil",
+            "comeback",
+            "reach"
+        ],
+        "timestamp": "2018-07-07 13:10:29.215738-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3fd8a6421aa9494f77b112",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/0c5b1fba9c656d306f46e4c9b9547987865a54d4/c=135-27-2519-1374/local/-/media/2018/07/06/USATODAY/USATODAY/636664891191002098-AFP-AFP-1795Z8-101278985.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Belgium fights off Brazil's comeback to reach World Cup semifinals",
+                    "ts": 1530909903,
+                    "twitterid": 1015335843333058560,
+                    "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2018/07/06/belgium-brazil-world-cup/764264002/"
+                },
+                {
+                    "_id": "5b4010d4421aa94ba3c11fc4",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/06/BostonGlobe.com/Sports/Images/AFP_17A3OM.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Belgium holds off Brazil\u2019s comeback effort to reach World Cup semifinals",
+                    "ts": 1530923525,
+                    "twitterid": 1015392977722728449,
+                    "url": "https://www.bostonglobe.com/sports/soccer/2018/07/06/belgium-holds-off-brazil-comeback-effort-reach-world-cup-semifinals/mOJCI3RFhBh5fR1p1bnZwJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b40ab6d421aa952014e0ca7",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/06/fce6a9de-e69f-46b9-bef3-545e134d1011/thumbnail/1200x630g1/130b49bb98b3e6670a9782f2a4f61902/gettyimages-993010452.jpg",
+                    "origin": "CBS News",
+                    "title": "Belgium beats Brazil and advances to World Cup semifinals",
+                    "ts": 1530961383,
+                    "twitterid": 1015551766694449153,
+                    "url": "https://www.cbsnews.com/news/belgium-beat-brazil-today-advances-to-world-cup-semifinals-2018-07-06/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b409de504d3011771849187&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b40c795421aa9552d8f6b9b",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-17191/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Belgium\u2019s Golden Generation Delivers on Promise With a Run to World Cup Semifinal",
+                    "ts": 1530969606,
+                    "twitterid": 1015586252970741760,
+                    "url": "https://www.wsj.com/articles/belgiums-golden-generation-delivers-on-promise-with-a-run-to-world-cup-semifinal-1530910297?mod=e2tw"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d074",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/06/BostonGlobe.com/Sports/Images/AFP_1788OU-20626.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "France beats Uruguay to reach World Cup semifinals",
+                    "ts": 1530902345,
+                    "twitterid": 1015304139889414146,
+                    "url": "https://www.bostonglobe.com/sports/soccer/2018/07/06/france-beats-uruguay-reach-world-cup-semifinals/KI7FA2eHnihi4XvAdp4BBP/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3fe6ae421aa949ca1b92e7",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/cE0GYgv-3hinqwc1Kj4hx_2Q80Q=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYNNC2VDOI575NCBM7R5BTKVFQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "What France and Belgium\u2019s World Cup success says about European immigration",
+                    "ts": 1530911827,
+                    "twitterid": 1015343911194243073,
+                    "url": "https://www.washingtonpost.com/news/global-opinions/wp/2018/07/06/what-france-and-belgiums-world-cup-success-says-about-european-immigration/?utm_term=.a88a4b2b9c3c&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3fbc73421aa9480674d073",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/06/BostonGlobe.com/Sports/Images/AFP_17877S.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "The 2018 World Cup is getting hot. Here's what you need to know",
+                    "ts": 1530902346,
+                    "twitterid": 1015304144666742784,
+                    "url": "https://www.bostonglobe.com/sports/soccer/2018/07/06/the-world-cup-getting-hot-you-haven-been-watching-this-will-catch-you/czQB1eNjArQjxwpK5LIdiJ/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3fae73421aa9474d644bf1",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/OEDubcabyHfLXnGhSTp1gnSmUp0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVVI3U7WDU4HRIRGX2PJBIVSX4.jpg",
+                    "origin": "Washington Post",
+                    "title": "The Nationals\u2019 largest comeback win in team history, by the numbers",
+                    "ts": 1530898381,
+                    "twitterid": 1015287514377187328,
+                    "url": "https://www.washingtonpost.com/news/dc-sports-bog/wp/2018/07/06/the-nationals-largest-comeback-win-in-team-history-by-the-numbers/?utm_term=.2060d6e8b67b&tid=sm_tw"
+                },
+                {
+                    "_id": "5b40f1c9421aa956954b3518",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/75e7a2d6dbc8409c5b5c4c19e800dba73ac82cba/c=0-461-2742-2010/local/-/media/2018/07/07/USATODAY/USATODAY/636665567189331758-EPA-BRITAIN-TENNIS-WIMBLEDON-2018-GRAND-SLAM.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "World No. 1 Simona Halep upset in third round at Wimbledon after blowing final set",
+                    "ts": 1530979222,
+                    "twitterid": 1015626586429763584,
+                    "url": "https://www.usatoday.com/story/sports/tennis/wimb/2018/07/07/wimbledon-2018-world-no-1-simona-halep-upset-third-round/765330002/"
+                }
+            ]
+        ]
+    }
+]

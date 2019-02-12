@@ -1,0 +1,2009 @@
+[
+    {
+        "list": [
+            18
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Senate",
+            "Noisy",
+            "Texas",
+            "Montana",
+            "Kamala Harris",
+            "Arizona",
+            "Wisconsin",
+            "Kemp Donald Trump",
+            "Parkland",
+            "Joe Kennedy",
+            "Trump",
+            "Joe Biden",
+            "Cruz Kamala Harris",
+            "Jeb Bush",
+            "NAACP",
+            "GOP",
+            "Minnesota",
+            "Iowa Authenticity",
+            "Democratic",
+            "CNN",
+            "Nikolas Cruz",
+            "Iowa Democrats",
+            "Nevada Democrats",
+            "Julian",
+            "Beto"
+        ],
+        "peaks": [],
+        "theme": [
+            "Democrats",
+            "campaign",
+            "Cruz",
+            "first",
+            "Iowa",
+            "leads",
+            "poll"
+        ],
+        "timestamp": "2018-10-14 18:10:18.321776-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc2db90421aa90d155dde7f",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/harriskamala_092818gn4_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Kamala Harris to campaign in Iowa for first time",
+                    "ts": 1539495063,
+                    "twitterid": 1051344614962225152,
+                    "url": "https://thehill.com/homenews/campaign/411269-kamala-harris-to-campaign-in-iowa-for-first-tie"
+                },
+                {
+                    "_id": "5bc2873a421aa97d4f8d511a",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/f7/73/8ff6b96643c89d4a2fd229507917/181013-kamala-harris-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Kamala Harris books first trip to Iowa",
+                    "ts": 1539475207,
+                    "twitterid": 1051261331247120385,
+                    "url": "https://www.politico.com/story/2018/10/13/kamala-harris-iowa-trip-898606"
+                },
+                {
+                    "_id": "5bc35a36421aa9199d4b3655",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/bidenjoe_050818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Biden leads crowded field of Dems in potential 2020 matchup: poll",
+                    "ts": 1539525902,
+                    "twitterid": 1051473962453135361,
+                    "url": "https://thehill.com/homenews/campaign/411310-biden-leads-crowded-field-of-dems-in-potential-2020-matchup-poll"
+                },
+                {
+                    "_id": "5bc3ae82421aa9208ba983d9",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/150524113047-julian-castro-2014-super-169.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Julian Castro rallying Iowa Democrats as he ponders his 2020 future",
+                    "ts": 1539548108,
+                    "twitterid": 1051567101616504834,
+                    "url": "https://www.cnn.com/2018/10/14/politics/julian-castro-iowa-2020-democrats/index.html?utm_source=twCNNp&utm_content=2018-10-14T20%3A15%3A07&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5bc3845e421aa91cc35418c1",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bc3785298a1800da67acba4-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Joe Biden leads a wide field of Democratic contenders for the 2020 presidential election, according to new CNN poll",
+                    "ts": 1539539445,
+                    "twitterid": 1051530765673132034,
+                    "url": "https://www.businessinsider.com/joe-biden-leads-2020-democratic-contenders-for-2020-cnn-poll-2018-10"
+                },
+                {
+                    "_id": "5bc2873a421aa97d4f8d511f",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_mtpd_clip_mtmwismin_181011_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Democrats lead in major Wisconsin, Minnesota races in new NBC News/Marist poll",
+                    "ts": 1539474309,
+                    "twitterid": 1051257565462564865,
+                    "url": "https://www.msnbc.com/mtp-daily/watch/democrats-lead-in-major-wisconsin-minnesota-races-in-new-nbc-news-marist-poll-1342200387634?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bc27937421aa97c7641175a",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/orourkebeto_091118getty.jpg",
+                    "origin": "The Hill",
+                    "title": "O\u2019Rourke faces pivotal point in Texas battle with Cruz",
+                    "ts": 1539469261,
+                    "twitterid": 1051236393136123904,
+                    "url": "https://thehill.com/homenews/campaign/411224-orourke-faces-critical-moment-after-record-haul"
+                },
+                {
+                    "_id": "5bc35a36421aa9199d4b362f",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/14/BostonGlobe.com/Politics/Images/2d4be7009b0f401c9a53402230d1f9ef-2d4be7009b0f401c9a53402230d1f9ef-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Ted Cruz makes a Chappaquiddick joke at Joe Kennedy\u2019s expense",
+                    "ts": 1539528931,
+                    "twitterid": 1051486667335450624,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/10/14/ted-cruz-makes-chappaquiddick-joke-joe-kennedy-expense/QYcablSbmANNUcmR8AGKBJ/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc2955f421aa97e4044f497",
+                    "date_month": "2018-10",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_41/2599741/181010-brian-kemp-ew-413p_f067444e5332935e598c0e2fffac0fdc.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "First Read's Morning Clips: NAACP readies lawsuit against Kemp",
+                    "ts": 1539477258,
+                    "twitterid": 1051269933009723392,
+                    "url": "https://www.nbcnews.com/politics/first-read/first-read-s-morning-clips-naacp-readies-lawsuit-against-kemp-n919406?cid=par-twitter-feed_20181014"
+                },
+                {
+                    "_id": "5bc3684d421aa91aa6643f17",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonaldmsrally_100218getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump adds campaign stops for Senate candidates in Montana, Arizona, Nevada",
+                    "ts": 1539530226,
+                    "twitterid": 1051492099487543297,
+                    "url": "https://thehill.com/homenews/campaign/411316-trump-adds-campaign-stops-for-senate-candidates-in-montana-arizona-nevada"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "West Virginia",
+            "Supreme Court",
+            "Manafort",
+            "Washington State Supreme Court Deems Death Penalty Unconstitutional John Kelly",
+            "Supreme Court White House",
+            "Circuit",
+            "Abortion Case Likely Headed",
+            "Elizabeth Warren"
+        ],
+        "peaks": [],
+        "theme": [
+            "Court",
+            "Supreme",
+            "Virginia",
+            "Abortion",
+            "action",
+            "arrogant",
+            "attention"
+        ],
+        "timestamp": "2018-10-14 18:10:18.485113-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc313c7421aa913909d567b",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/SupremeCourtiStock1.jpg",
+                    "origin": "Fox News",
+                    "title": "Supreme Court fight over Kavanaugh got lots of attention, but most federal court action is elsewhere",
+                    "ts": 1539508020,
+                    "twitterid": 1051398958118043650,
+                    "url": "https://www.foxnews.com/opinion/supreme-court-fight-over-kavanaugh-got-lots-of-attention-but-most-federal-court-action-is-elsewhere"
+                },
+                {
+                    "_id": "5bc2873a421aa97d4f8d5148",
+                    "date_month": "2018-10",
+                    "image": "https://images.newrepublic.com/d074af8182c3ce229fca916c75e378841a932e23.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The Abortion Case Likely Headed for the Supreme Court",
+                    "ts": 1539471632,
+                    "twitterid": 1051246336199282688,
+                    "url": "https://newrepublic.com/article/151656/abortion-case-likely-headed-supreme-court"
+                },
+                {
+                    "_id": "5bc321d7421aa9150e29b975",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/02/supreme_court_west_virginia_53386_s2048x1468.jpg?580e82a2bc76ca7fb660a78834d754d4db18f819",
+                    "origin": "The Washington Times",
+                    "title": "West Virginia to vote on Supreme Court justices after impeachments",
+                    "ts": 1539514484,
+                    "twitterid": 1051426070996619265,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/14/west-virginia-vote-supreme-court-justices-after-im/"
+                },
+                {
+                    "_id": "5bc2a35e421aa97f2c5e24d9",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/12/us/12deathpenalty/12deathpenalty-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Washington State Supreme Court Deems Death Penalty Unconstitutional",
+                    "ts": 1539480064,
+                    "twitterid": 1051281703967354880,
+                    "url": "https://www.nytimes.com/2018/10/11/us/death-penalty-ruling-washington-state.html?rref=collection%2Fsectioncollection%2Fus&smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5bc313c7421aa913909d566d",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ae366f60-warren.jpg",
+                    "origin": "Fox News",
+                    "title": "John Kelly called Elizabeth Warren 'impolite arrogant woman' after 'insulting' conversation",
+                    "ts": 1539509820,
+                    "twitterid": 1051406507768721408,
+                    "url": "https://www.foxnews.com/politics/gen-john-kelly-called-elizabeth-warren-impolite-arrogant-woman-after-insulting-conversation"
+                },
+                {
+                    "_id": "5bc27937421aa97c7641174c",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_34/2538956/180821-paul-manafort-ew-434p_2aa949b0181d59bd01c0b70632dcd8e8.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Manafort is cooperating with investigators but a Virginia retrial still looms",
+                    "ts": 1539469923,
+                    "twitterid": 1051239167420710912,
+                    "url": "https://www.nbcnews.com/politics/politics-news/manafort-cooperating-investigators-virginia-retrial-still-looms-n919851?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            35
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Texas",
+            "New York",
+            "Kansas",
+            "Roseland",
+            "Antifa",
+            "Nepal",
+            "American",
+            "Himalayan",
+            "CPR",
+            "British Airways",
+            "Proud Boys",
+            "Portland Patriot Prayer",
+            "Tamir Rice",
+            "Ted Wheeler",
+            "Lake Erie",
+            "South Austin",
+            "New York City",
+            "Michigan Best Buy",
+            "Samuel Project",
+            "New Jersey",
+            "White",
+            "Woburn",
+            "Wales",
+            "Ohio Tennessee",
+            "French Alps",
+            "Portland Tennessee"
+        ],
+        "peaks": [],
+        "theme": [
+            "man",
+            "black",
+            "found",
+            "kills",
+            "police",
+            "shoots",
+            "Boys"
+        ],
+        "timestamp": "2018-10-14 18:10:18.973725-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc3845e421aa91cc35418d5",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Mark-Sutton-f.jpg",
+                    "origin": "Fox News",
+                    "title": "Hunter shoots, kills British bicyclist in French Alps, official says",
+                    "ts": 1539538342,
+                    "twitterid": 1051526140265984000,
+                    "url": "https://www.foxnews.com/world/hunter-shoots-kills-british-bicyclist-in-french-alps-official-says"
+                },
+                {
+                    "_id": "5bc2955f421aa97e4044f498",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/12/d649576e-2daa-40b9-bbba-d517d85ce750/thumbnail/1200x630/7f74dd6713432e43541d057cf7318eb6/screen-shot-2018-10-12-at-5-29-18-pm.png",
+                    "origin": "CBS News",
+                    "title": "Michigan man who shot at black teen on front porch found guilty",
+                    "ts": 1539477185,
+                    "twitterid": 1051269626896748544,
+                    "url": "https://www.cbsnews.com/news/michigan-man-who-shot-at-black-teen-who-knocked-on-his-door-found-guilty/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bc28ebe04d30107ab21e544&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bc3a071421aa91f4d17c6fd",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/Alligator-OPD1.jpg",
+                    "origin": "Fox News",
+                    "title": "Alligator found underneath car in Kansas, police say",
+                    "ts": 1539544441,
+                    "twitterid": 1051551717844799489,
+                    "url": "https://www.foxnews.com/science/alligator-found-underneath-car-in-kansas-police-say"
+                },
+                {
+                    "_id": "5bc32fef421aa91660f2db22",
+                    "date_month": "2018-10",
+                    "image": "http://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Man convicted in death of wife found in Lake Erie",
+                    "ts": 1539515100,
+                    "twitterid": 1051428654268538880,
+                    "url": "https://www.foxnews.com/us/man-convicted-in-death-of-wife-found-in-lake-erie"
+                },
+                {
+                    "_id": "5bc2955f421aa97e4044f49e",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/ziegler_jeffrey.jpg",
+                    "origin": "The Hill",
+                    "title": "White man convicted after shooting at black teen asking for directions",
+                    "ts": 1539476946,
+                    "twitterid": 1051268627138314240,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/411211-white-man-convicted-after-shooting-at-black-teen-asking-for"
+                },
+                {
+                    "_id": "5bc27937421aa97c7641174b",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/brooklyn_woman_1012.png",
+                    "origin": "The Hill",
+                    "title": "White woman called police on black child she falsely accused of groping her",
+                    "ts": 1539469984,
+                    "twitterid": 1051239424607117312,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/411241-white-woman-called-police-to-falsely-accuse-black-child-of?rnd=1539397315"
+                },
+                {
+                    "_id": "5bc2bf75421aa90435d0359a",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/Gv-oeH-NWk21WFV5gA-gqzB75qM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALT3ORGOK4I6RLIKBYA67OR4YE.jpg",
+                    "origin": "Washington Post",
+                    "title": "He was the only black boy in his class. The day he found out why changed him",
+                    "ts": 1539486152,
+                    "twitterid": 1051307238491652096,
+                    "url": "https://www.washingtonpost.com/local/he-was-the-only-black-boy-in-his-class-the-day-he-found-out-why-changed-him/2018/10/12/09084798-ce5b-11e8-920f-dd52e1ae4570_story.html?utm_term=.19a8066baf5b&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bc35a36421aa9199d4b3632",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/kiosk_getIMG.jpg",
+                    "origin": "Fox News",
+                    "title": "Tennessee man accused of killing girlfriend by running her over with car found dead in jail cell",
+                    "ts": 1539528515,
+                    "twitterid": 1051484921439621121,
+                    "url": "https://www.foxnews.com/us/tennessee-man-accused-of-killing-girlfriend-by-running-her-over-with-car-found-dead-in-jail-cell"
+                },
+                {
+                    "_id": "5bc3bc94421aa92197afcda9",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/ySPyjXNQGKHVtYbQcv-vw54WcPE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6SVBHGRJZ5GMHN2MZJQZ5MCEGQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Political violence goes coast to coast as Proud Boys and antifa activists clash in New York, Portland",
+                    "ts": 1539552400,
+                    "twitterid": 1051585101056958465,
+                    "url": "https://www.washingtonpost.com/nation/2018/10/14/political-violence-goes-coast-coast-proud-boys-antifa-activists-clash-new-york-portland/?utm_term=.d9ff23eb5b08&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bc2db90421aa90d155dde90",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/US/Babysitter-Corey-Lewis3-ABC-ka-181010_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "In 'babysitting while black' video, black dads see echoes of reality they know all too well",
+                    "ts": 1539493243,
+                    "twitterid": 1051336977956659200,
+                    "url": "https://abcnews.go.com/US/babysitting-black-video-black-dads-echoes-reality/story?id=58461050&cid=social_twitter_abcn"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            26
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Season Gay",
+            "Australian",
+            "Senate Race National Dessert",
+            "Bahamas",
+            "Jamaica",
+            "Britain",
+            "Lokokitchen",
+            "Picky",
+            "Sand",
+            "Party Host",
+            "How Red",
+            "Sheep",
+            "Fed Up",
+            "Hurricanes",
+            "Washington",
+            "Chef Angie Mar",
+            "Florida",
+            "Vertical",
+            "Food Scientists",
+            "Hurricane Michael",
+            "Green Slime",
+            "Anyone",
+            "Kangaroo",
+            "Keep Coming",
+            "Really"
+        ],
+        "peaks": [],
+        "theme": [
+            "Florida",
+            "Hurricanes",
+            "beach",
+            "boat",
+            "call",
+            "change",
+            "climate"
+        ],
+        "timestamp": "2018-10-14 18:10:19.691770-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc3a071421aa91f4d17c6f8",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/11/us/11michael-video3/11michael-video3-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "The Hurricanes, and Climate-Change Questions, Keep Coming. Yes, They\u2019re Linked.",
+                    "ts": 1539544864,
+                    "twitterid": 1051553494065397769,
+                    "url": "https://www.nytimes.com/2018/10/10/climate/hurricane-michael-climate-change.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5bc2e98f421aa90f192616aa",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_39/1959761/170310-inspecting-coral-reef-cr-0523_5f7223ffafc3c5c0c05b4cb2165f7753.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Teaching coral to toughen up could help reefs survive climate change",
+                    "ts": 1539496863,
+                    "twitterid": 1051352162570260480,
+                    "url": "https://www.nbcnews.com/mach/science/teaching-coral-toughen-could-help-reefs-survive-climate-change-ncna913296?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc35a36421aa9199d4b363d",
+                    "date_month": "2018-10",
+                    "image": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F181007112151-01-piggies-of-paradise-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "The Bahamas beach where piggies swim",
+                    "ts": 1539527460,
+                    "twitterid": 1051480495807115267,
+                    "url": "https://edition.cnn.com/travel/article/swimming-pigs-bahamas/index.html?utm_medium=social&utm_source=twCNN&utm_content=2018-10-09T21:21:21"
+                },
+                {
+                    "_id": "5bc313c7421aa913909d566e",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_40/2594581/181005-orca-san-juan-island-ew-653p_7ebde2e3e588d48d4250723613adc2a2.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "A baby orca's death, a mother's grief and a state's call to action",
+                    "ts": 1539509750,
+                    "twitterid": 1051406215497089024,
+                    "url": "https://www.nbcnews.com/news/us-news/baby-orca-s-death-mother-s-grief-state-s-call-n917186?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc39261421aa91e48b9daad",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/fd9230bc-shark.jpg",
+                    "origin": "Fox News",
+                    "title": "6-foot bull shark leaps into family fishing boat, \u2018petrifies\u2019 kids",
+                    "ts": 1539543571,
+                    "twitterid": 1051548069463031808,
+                    "url": "https://www.foxnews.com/great-outdoors/6-foot-bull-shark-leaps-into-family-fishing-boat-petrifies-kids-theyre-never-going-fishing-again"
+                },
+                {
+                    "_id": "5bc2db90421aa90d155dde80",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_41/2603581/181013-lake-worth-red-tide-ew-1040a_5a27a9c68017686d59234c892afd4f56.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Hurricane Michael may have disrupted Florida's red tide",
+                    "ts": 1539495063,
+                    "twitterid": 1051344614488252417,
+                    "url": "https://www.nbcnews.com/news/us-news/hurricane-michael-may-have-disrupted-florida-s-red-tide-n919826?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc2bf75421aa90435d0359d",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/International/WireAP_690b38e8800f4717bb7238a178e04294_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Cape Town artist fights gang violence with beach calligraphy",
+                    "ts": 1539486028,
+                    "twitterid": 1051306718452432899,
+                    "url": "https://abcnews.go.com/International/wireStory/cape-town-artist-fights-gang-violence-beach-calligraphy-58474251?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bc2a35e421aa97f2c5e24e1",
+                    "date_month": "2018-10",
+                    "image": "https://www.latimes.com/resizer/Szxh8fxw7WiTxTKYv6pdS4j4khY=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/EDL4HNK5VVCR7LIWLPI24EP7RY.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "For a beachside Florida village wiped out by Hurricane Michael, tales of despair and survival",
+                    "ts": 1539479645,
+                    "twitterid": 1051279946247630848,
+                    "url": "http://www.latimes.com/nation/la-na-florida-hurricane-mexico-beach-20181013-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bc35a36421aa9199d4b3640",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/46/2e/a65fe8d84f9f9bff2cfeed6fa9ef/florida-algae-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "How Red and Green Slime (Really) Could Swing Florida\u2019s Senate Race",
+                    "ts": 1539527413,
+                    "twitterid": 1051480300482646016,
+                    "url": "https://www.politico.com/magazine/story/2018/10/14/florida-senate-race-rick-scott-bill-nelson-algae-221272"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            1
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Ryn Zinke"
+        ],
+        "peaks": [],
+        "theme": [
+            "calendar",
+            "date",
+            "day",
+            "first",
+            "office",
+            "omissions",
+            "Ryn"
+        ],
+        "timestamp": "2018-10-14 18:10:19.757844-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc2873a421aa97d4f8d512d",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/171206183120-ryan-zinke-hedshot-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Ryn Zinke's calendar omissions date to first day in office",
+                    "ts": 1539473403,
+                    "twitterid": 1051253765184077825,
+                    "url": "https://www.cnn.com/2018/10/13/politics/ryan-zinke-calendars-interior-secretary/index.html?utm_content=2018-10-13T23%3A30%3A02&utm_source=twCNN&utm_medium=social&utm_term=image"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            469
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Lavazza",
+            "Mexico Beach",
+            "Turkey Newt Gingrich",
+            "Lindsey Buckingham",
+            "Chicago",
+            "Chris Thompson",
+            "Pope Paul VI",
+            "Maryland",
+            "Trump Iconic",
+            "Runner",
+            "Trump",
+            "France",
+            "Tesla",
+            "Airbnb Trump",
+            "White House",
+            "Miranda Sings",
+            "Bavaria",
+            "Michigan State",
+            "Pictures Calls",
+            "Simone Biles",
+            "Midterms Playoff",
+            "Syria Oscar Romero",
+            "Washington Archbishop",
+            "Badass Grannies",
+            "New England",
+            "NASA",
+            "Nikki Haley",
+            "Change",
+            "New Hampshire",
+            "FEMA",
+            "Family",
+            "MeToo Michael Cohen",
+            "Sarah",
+            "Fafsa",
+            "Vine Street Community Center",
+            "Virginia",
+            "Boomerang Nine",
+            "Left And Right Kansas City Chiefs",
+            "Hurricane Michael Jenn Guardino",
+            "Southerners Planted Trees",
+            "Hurricane Michael Claims",
+            "Fox News Update Josh Norman",
+            "Boom British",
+            "NFL De Blasio",
+            "Bloomberg",
+            "Get",
+            "Florida ISIS",
+            "Taliban Taliban",
+            "Rosenstein",
+            "School",
+            "Studio",
+            "Trey Flowers",
+            "New York",
+            "Bears",
+            "United States",
+            "XL Fleet",
+            "Model Bishop Female",
+            "Good",
+            "Mount Washington",
+            "Twin Towers",
+            "Kushner",
+            "Vermont Major League Baseball",
+            "Machine",
+            "Nirvana",
+            "Streets And Skies Edward Lampert",
+            "Italian",
+            "NBC News",
+            "Kilimanjaro",
+            "Move",
+            "Panhandle",
+            "Andrew Cuomo",
+            "NFL Cleats",
+            "Halloween",
+            "Oval Office",
+            "American History US",
+            "Faces Fresh Blow",
+            "Pope Paul",
+            "Parkland",
+            "Hawaiian Sunrise",
+            "ICE Ronald Reagan",
+            "Search",
+            "U.N.",
+            "Death Valley",
+            "Marian Anderson Award",
+            "Organizers",
+            "Wife",
+            "Sound",
+            "Shot Hillary Clinton",
+            "Next White House",
+            "Passage",
+            "Ian Schrager Steve Rattner",
+            "Temperatures",
+            "Investors Put Trust",
+            "Celebrated Abroad",
+            "Fruit",
+            "Historical Stronghold",
+            "YouTube Stars Are Being",
+            "Robert",
+            "Naysayers How",
+            "Off Fans",
+            "Global Stocks Fall",
+            "Free Society",
+            "Sony Michel",
+            "Jack Brooksbank",
+            "Scraps",
+            "Brooke Baldwin",
+            "Flavor Graveyard",
+            "Bavarian Exit Polls Show Germany",
+            "Martyred Archbishop Romero Eddie Vedder",
+            "Open House Chicago",
+            "Democratic",
+            "Salvadoran",
+            "Wealthy Women",
+            "Northern Irish",
+            "Pacific Ocean Astronomers",
+            "Mattis",
+            "Eric Gryba",
+            "HS Student Forced",
+            "Burgundy Cipollone",
+            "Address Unfinished Business From Civil",
+            "Fort Jackson",
+            "Ogunquit Bank",
+            "Oscar Romero",
+            "Suspect",
+            "Julian Edelman",
+            "American Idol",
+            "Massive Rally To Support",
+            "Power Heineken",
+            "Regional Elections",
+            "Oval Office Campaign",
+            "Secret",
+            "Australian",
+            "Seth Moulton",
+            "Brian Scalabrine",
+            "Wisconsin",
+            "Pope Francis Is",
+            "Hill House",
+            "Save Sears Businesses",
+            "Malaysia",
+            "Cool",
+            "Antonella Barba",
+            "West",
+            "New England Trump",
+            "Trump Likely",
+            "David Davis",
+            "Flu Put Him",
+            "Eastern Conference",
+            "Wonderful",
+            "Marreese Speights",
+            "Born",
+            "Hurricane Michael",
+            "CT",
+            "Migrant Children",
+            "Couples",
+            "Macron",
+            "EPA",
+            "Iran Unease",
+            "Alex Speier",
+            "Lindsey Horan",
+            "Monica Lewinsky",
+            "Patriotic Football Game Bodies",
+            "Faces Isolation",
+            "Nepal",
+            "Brewers",
+            "Hardest Climb",
+            "Wisconsin Economy",
+            "Mother Nature Vulnerable",
+            "Taylor Swift",
+            "Red Sox",
+            "GOP",
+            "Smash Windows",
+            "CNN",
+            "Supersize Sculptures Will Soon Arrive",
+            "Scandalmongers Feast",
+            "Hondurans",
+            "Wall Street",
+            "Neil Armstrong",
+            "Zac Posen Hundreds",
+            "Confederate",
+            "Trump Defends",
+            "Iowa",
+            "Facebook",
+            "Pope Grants",
+            "Catholic",
+            "McGahn",
+            "Medicare",
+            "Powerball",
+            "Brexit",
+            "Los Angeles",
+            "John Cox",
+            "Pearl Jam",
+            "County Fair",
+            "Kudlow",
+            "Rihanna Romney",
+            "Myanmar",
+            "Afghan",
+            "New England Patriots",
+            "David Price",
+            "California",
+            "Jamison Crowder",
+            "Patrick Mahomes",
+            "Rakhine",
+            "Mr. Giuliani",
+            "Washington National",
+            "Shuttered Detroit Funeral Home Mental",
+            "Arizona",
+            "USA Gymnastics CEO",
+            "South Carolina Trump",
+            "Trump Praises Robert",
+            "Amway Coaches",
+            "Europe",
+            "NOT",
+            "Amalfi Coast",
+            "Into Harvard Were Once Closely Guarded",
+            "Venezuela",
+            "Georgia",
+            "Flake",
+            "Heavy Toll",
+            "Andrew Brunson",
+            "Live",
+            "Room",
+            "Fusion GPS",
+            "Tennessee",
+            "ALCS Salesforce",
+            "Elizabeth Warren",
+            "MeToo",
+            "Justin Verlander",
+            "Pentagon",
+            "Same",
+            "Richard Pinedo",
+            "Kevin",
+            "Hawaii Princess Eugenie",
+            "Pastor",
+            "Warren Melania Trump",
+            "Defense",
+            "US",
+            "Fleetwood Mac",
+            "National Museum",
+            "Cardinal Wuerl",
+            "Immigration Court Excerpt",
+            "Tornillo",
+            "First",
+            "Yep",
+            "Newt Gingrich",
+            "Cracker Barrel",
+            "Patriot Rob Ninkovich",
+            "Redskins",
+            "CSU",
+            "Angela Merkel",
+            "Dan Shaughnessy",
+            "Border Wall Funding",
+            "Mary Bono",
+            "Stephen Miller",
+            "Calls Him",
+            "Stress Test",
+            "Jake Tapper",
+            "SEC",
+            "DeSantis",
+            "Beat Scott Walker",
+            "Affordable Care",
+            "Scott Frost",
+            "Robert Bausch",
+            "Freshest Tinfoil Hats",
+            "Mueller",
+            "Help Dodgers",
+            "Michael",
+            "Colorado",
+            "Canadian",
+            "Blackhawks",
+            "Individual Abusers",
+            "Peg Bundy",
+            "Wisconsin Senate Debate Taylor Swift Backs Democrats",
+            "Dolphins",
+            "Olympian Biles",
+            "Michael Bloomberg",
+            "Panthers",
+            "Congo Mother",
+            "Long Island Phyllida Barlow",
+            "Oldest Barber",
+            "Michael Cohen",
+            "National Dessert",
+            "Cora",
+            "Diet",
+            "Key Democrat",
+            "Obama Videos",
+            "College Football Playoff",
+            "America Is",
+            "Melania Trump",
+            "Aaron Hernandez",
+            "Italy Navy",
+            "Natalie Wasserman Wolf",
+            "Already Wobbling",
+            "Mookie Betts",
+            "Jerry",
+            "Hurricane Michael Sweet Sundae",
+            "Ryan Tannehill",
+            "CBS Evening News",
+            "Squirrels Tariffs Hit Those Trump Wants",
+            "Parenthood",
+            "Honest Dating Profiles",
+            "Justice Nebraska",
+            "Hassan Rouhani",
+            "Henrietta Lacks",
+            "House",
+            "Above",
+            "Motherhood Behind",
+            "NYC",
+            "Russian",
+            "Nike US",
+            "Brazil Pope Francis",
+            "Tina Turner For Celtics",
+            "Google",
+            "Florida Dem",
+            "Global Coffee Wars Come",
+            "Boston Dynamics",
+            "Aston Martin",
+            "Junk Bonds Scientist",
+            "Austin Watson",
+            "Voters Sour",
+            "Punctuation Marks Pope Accepts Wuerl",
+            "Next Recession Hits Alex",
+            "Absences Trump",
+            "Taco Bell Drawing Club Bernie Sanders",
+            "USA Gymnastics",
+            "Sainthood Kudlow",
+            "Pat Cipollone",
+            "Midterm Ads Trump",
+            "Costa Rica",
+            "LSU",
+            "Illy Say",
+            "McCarthy Matthew Shepard",
+            "Hurricane Michael Merkel",
+            "Spaces",
+            "Spray Paint Doors",
+            "Hurricane Michael Democrats",
+            "Atlas",
+            "Alex Cora",
+            "Rivals Gain",
+            "Honduras",
+            "Tom Brady",
+            "Mitt Romney",
+            "Florida",
+            "Hopeful Sign",
+            "Truth",
+            "Princess Eugenie",
+            "Feast",
+            "Gillum",
+            "Florida Rory Kennedy",
+            "Penn State",
+            "Mammograms",
+            "Michelle Wu",
+            "Astros Pope Francis",
+            "Mattapan",
+            "Vatican",
+            "Mitch Trubisky",
+            "Moon",
+            "Cosmodrome Camels",
+            "Too Poor To Stay",
+            "Taxes",
+            "Step Closer",
+            "Bulgarian",
+            "How China",
+            "U.S.",
+            "Mega Millions",
+            "Cynthia Germanotta",
+            "Fed",
+            "Has Charlie Baker",
+            "Emotions Review",
+            "Climate",
+            "Famous Disappear Kyle Fuller",
+            "Kimball Crossley",
+            "Gurja",
+            "Purple Heart",
+            "Veteran Climbs Mt",
+            "NBA Finals",
+            "Group",
+            "Gratitude"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "says",
+            "Michael",
+            "New",
+            "Hurricane",
+            "House",
+            "Democratic"
+        ],
+        "timestamp": "2018-10-14 18:10:24.761885-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc2cd7e421aa908c4f6df65",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/13/87c00fdd-f8af-41ba-8c54-3e40b70b13cd/thumbnail/1200x630/791b650ab12ab430e0edbf03338db21f/mb3.jpg",
+                    "origin": "CBS News",
+                    "title": "IRS says victims of Hurricane Michael will get tax filing relief",
+                    "ts": 1539491583,
+                    "twitterid": 1051330016607444994,
+                    "url": "https://www.cbsnews.com/news/irs-says-victims-of-hurricane-michael-will-get-tax-filing-relief-2018-10-13/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bc2c6fd04d3015051658469&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bc2cd7e421aa908c4f6df66",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/cockburnleslie_vagop.jpg",
+                    "origin": "The Hill",
+                    "title": "Virginia GOP says Democratic candidate \u2018hates America\u2019",
+                    "ts": 1539491467,
+                    "twitterid": 1051329529250238465,
+                    "url": "https://thehill.com/homenews/campaign/411258-virginia-gop-says-democratic-candidate-hates-america"
+                },
+                {
+                    "_id": "5bc2955f421aa97e4044f49d",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181013053022-01-hurricane-michael-1013-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Hurricane Michael death toll climbs to 18 with new victim reported in Virginia",
+                    "ts": 1539477004,
+                    "twitterid": 1051268868038119425,
+                    "url": "https://www.cnn.com/2018/10/13/us/hurricane-michael-wxc/index.html?utm_medium=social&utm_source=twCNN&utm_content=2018-10-14T00%3A30%3A03&utm_term=image"
+                },
+                {
+                    "_id": "5bc2a35e421aa97f2c5e24bf",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/13/BostonGlobe.com/Politics/Images/b2634fc9330649e9a9d2a6ee01d04458-b2634fc9330649e9a9d2a6ee01d04458-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Michael Bloomberg visits New Hampshire, fueling talk about a possible White House bid",
+                    "ts": 1539481562,
+                    "twitterid": 1051287987407994882,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/10/13/michael-bloomberg-visits-new-hampshire-fueling-talk-about-possible-white-house-bid/XAkFcRZap0Cgjj4PXWuxML/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc313c7421aa913909d5680",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/12/us/12michael-best4/merlin_145215099_b90cebba-df7d-4b57-acaf-45b4c0ad9f98-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Hurricane Michael: The Damage in Pictures",
+                    "ts": 1539507722,
+                    "twitterid": 1051397708257390592,
+                    "url": "https://www.nytimes.com/2018/10/11/us/photos-hurricane-michael-damage.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5bc2db90421aa90d155dde8b",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Pat20Cipollone.jpg",
+                    "origin": "Fox News",
+                    "title": "Trump has chosen Pat Cipollone as new White House counsel, sources say",
+                    "ts": 1539493620,
+                    "twitterid": 1051338560291266560,
+                    "url": "https://www.foxnews.com/politics/trump-has-chosen-pat-cipollone-as-new-white-house-counsel-sources-say"
+                },
+                {
+                    "_id": "5bc2873a421aa97d4f8d5141",
+                    "date_month": "2018-10",
+                    "image": "http://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "New details emerge on anti-Trump dossier as House GOP seeks Fusion GPS boss testimony",
+                    "ts": 1539471982,
+                    "twitterid": 1051247803698241537,
+                    "url": "https://www.foxnews.com/politics/new-details-emerge-on-anti-trump-dossier-as-house-gop-seeks-fusion-gps-boss-testimony"
+                },
+                {
+                    "_id": "5bc2bf75421aa90435d0358e",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-30887/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Hurricane Michael Claims at Least 15 Lives",
+                    "ts": 1539487811,
+                    "twitterid": 1051314195424337920,
+                    "url": "https://www.wsj.com/articles/hurricane-michael-claims-at-least-15-lives-1539479173?mod=e2tw"
+                },
+                {
+                    "_id": "5bc3a071421aa91f4d17c6e2",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/14/USAT/d4cc8c80-a421-422b-a5ea-b724ec37e6f8-USP_News-_Hurricane_Michael.jpg?crop=2999,1676,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "After Hurricane Michael: Shortages, mourning, darkness",
+                    "ts": 1539546603,
+                    "twitterid": 1051560786215231488,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/10/14/hurricane-michaels-aftermath-shortages-mourning-darkness/1641106002/"
+                },
+                {
+                    "_id": "5bc2a35e421aa97f2c5e24d5",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/13/BostonGlobe.com/National/Images/STORM_MICHAEL_49.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Far from the coast, Hurricane Michael packed an unexpected punch",
+                    "ts": 1539480302,
+                    "twitterid": 1051282701817470976,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/10/13/far-from-coast-hurricane-michael-packed-unexpected-punch/nyxz15zET4gRYw6YtqfERK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            20
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Kanye West",
+            "Trump Kanye West",
+            "Oval Office",
+            "Trump Seth Meyers",
+            "SNL",
+            "Melania Trump",
+            "Rob Richardson",
+            "Hatch Act",
+            "MAGA",
+            "White House",
+            "Blathering Ignorance",
+            "Dave",
+            "Donald",
+            "Taylor Swift",
+            "Dyson",
+            "Kavanaugh",
+            "Ohio",
+            "Michael Che",
+            "Donna Brazile",
+            "Alec Baldwin",
+            "Sanders"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kanye",
+            "Trump",
+            "West",
+            "SNL",
+            "meeting",
+            "returns",
+            "black"
+        ],
+        "timestamp": "2018-10-14 18:10:25.092970-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc32fef421aa91660f2db04",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/westtrump.png",
+                    "origin": "The Hill",
+                    "title": "Alec Baldwin returns to SNL to mock Trump meeting with Kanye West: 'He\u2019s black me!'",
+                    "ts": 1539517262,
+                    "twitterid": 1051437722852892672,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/411294-alec-baldwin-returns-to-snl-to-mock-trump-meeting-with-kanye"
+                },
+                {
+                    "_id": "5bc321d7421aa9150e29b98b",
+                    "date_month": "2018-10",
+                    "image": "http://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Alec Baldwin returns to 'SNL' to spoof Trump-Kanye West meeting in Oval Office",
+                    "ts": 1539511620,
+                    "twitterid": 1051414057574494208,
+                    "url": "https://www.foxnews.com/entertainment/alec-baldwin-returns-to-snl-to-spoof-trump-kanye-west-meeting-in-oval-office"
+                },
+                {
+                    "_id": "5bc34c13421aa918a4eee635",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/14/AP_18284618476589_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "\u2018SNL\u2019 mocks Donald Trump-Kanye West meeting",
+                    "ts": 1539522435,
+                    "twitterid": 1051459417747656704,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/14/snl-mocks-donald-trump-kanye-west-meeting/"
+                },
+                {
+                    "_id": "5bc2db90421aa90d155dde8c",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/5rsSjAiKPli1Oo9fnyXxhB3s5z8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XQDZORJ5KNAAJBREJSFRZEQXCE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump sees Kanye West as the \u2018black me\u2019 in SNL cold open",
+                    "ts": 1539493563,
+                    "twitterid": 1051338320507273216,
+                    "url": "https://www.washingtonpost.com/arts-entertainment/2018/10/14/trump-sees-kanye-west-black-me-snl-cold-open/?tid=sm_tw"
+                },
+                {
+                    "_id": "5bc35a36421aa9199d4b3650",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bc342b6ae84ee0d546eb043-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "'SNL' spoofs Kanye West's bizarre Oval Office meeting with Trump",
+                    "ts": 1539526167,
+                    "twitterid": 1051475073188712448,
+                    "url": "https://www.businessinsider.com/snl-kanye-west-trump-oval-office-skit-video-2018-10"
+                },
+                {
+                    "_id": "5bc32fef421aa91660f2db08",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_41/2603841/nup_184695_0006_134998c69faf45025958e9b675071069.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "'SNL' skewers Kanye West's visit with President Trump",
+                    "ts": 1539516929,
+                    "twitterid": 1051436325575057409,
+                    "url": "https://www.nbcnews.com/news/us-news/snl-skewers-kanye-west-s-visit-president-trump-n919891?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc313c7421aa913909d566b",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/14/BostonGlobe.com/Arts/Images/NUP_176939_0003.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump-Kanye West meeting gets play on \u2018Saturday Night Live\u2019",
+                    "ts": 1539510177,
+                    "twitterid": 1051408007966416896,
+                    "url": "https://www.bostonglobe.com/arts/television/2018/10/14/trump-kanye-west-meeting-gets-play-saturday-night-live/0uWYWiUJfgc9bcKWztuJHK/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bc35a36421aa9199d4b3656",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/kanye-maga.jpg",
+                    "origin": "Fox News",
+                    "title": "Kanye West returns to Twitter with video about mind control",
+                    "ts": 1539525876,
+                    "twitterid": 1051473853598375936,
+                    "url": "https://www.foxnews.com/entertainment/kanye-west-returns-to-twitter-with-video-about-mind-control"
+                },
+                {
+                    "_id": "5bc2955f421aa97e4044f480",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_ari_Kanye_181011_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Dyson shreds Kanye-Trump meeting: \"Blitzkrieg of Blathering Ignorance\"",
+                    "ts": 1539478809,
+                    "twitterid": 1051276440312995840,
+                    "url": "https://www.msnbc.com/the-beat-with-ari-melber/watch/dyson-shreds-kanye-trump-meeting-blitzkrieg-of-blathering-ignorance-1342321219626?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bc32fef421aa91660f2dafb",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/14/USAT/d839fe04-d66a-4f8b-87c8-06151bcab473-NUP_184695_0012.JPG?crop=2999,1680,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "'SNL': Did Seth Meyers inspire Kanye West to interrupt Taylor Swift's 2009 VMAs speech?",
+                    "ts": 1539518352,
+                    "twitterid": 1051442293339811840,
+                    "url": "https://www.usatoday.com/story/life/entertainthis/2018/10/14/snl-did-old-sketch-inspire-kanye-west-interrupt-taylor-swift/1636553002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            4
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "New York",
+            "Funeral",
+            "Amsterdam"
+        ],
+        "peaks": [],
+        "theme": [
+            "crash",
+            "funerals",
+            "limo",
+            "New",
+            "York",
+            "killed",
+            "Hundreds"
+        ],
+        "timestamp": "2018-10-14 18:10:25.199282-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc2e98f421aa90f1926169f",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_41/2603686/181013-limo-crash-funeral-schoharie-ew-432p_ccad0535b177ffe6ea9de986b7f7720e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Hundreds attend funeral for 8 of 20 killed in New York limo crash",
+                    "ts": 1539498663,
+                    "twitterid": 1051359713252831232,
+                    "url": "https://www.nbcnews.com/news/us-news/hundreds-attend-funeral-8-20-killed-new-york-limo-crash-n919846?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc321d7421aa9150e29b988",
+                    "date_month": "2018-10",
+                    "image": "http://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+                    "origin": "Fox News",
+                    "title": "Hundreds to gather for funeral of 4 sisters killed in New York limo crash",
+                    "ts": 1539512100,
+                    "twitterid": 1051416071029252096,
+                    "url": "https://www.foxnews.com/us/hundreds-to-gather-for-funeral-of-4-sisters-killed-in-new-york-limo-crash"
+                },
+                {
+                    "_id": "5bc3845e421aa91cc35418da",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181009110422-03-limo-crash-vigil-1008-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Amsterdam, New York, funerals: A city honors its victims of the limo crash",
+                    "ts": 1539538207,
+                    "twitterid": 1051525570729824258,
+                    "url": "https://www.cnn.com/2018/10/14/us/limousine-crash-amsterdam-new-york/index.html?utm_medium=social&utm_content=2018-10-14T17%3A30%3A06&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5bc2873a421aa97d4f8d5133",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/13/18feb66a-59ad-40e7-8af5-f11a0cf1f405/thumbnail/1200x630/ec090f224cb8f86957feba3dcc3d8b22/ap-18286591860477.jpg",
+                    "origin": "CBS News",
+                    "title": "Funeral held for 8 family members killed in New York limo crash",
+                    "ts": 1539473045,
+                    "twitterid": 1051252264214700034,
+                    "url": "https://www.cbsnews.com/news/new-york-limo-crash-victims-funeral-held-today-2018-10-13/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bc27e9204d3014c04515188&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            9
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Republican",
+            "Trump",
+            "Female",
+            "Middle America",
+            "Brett Kavanaugh Voter"
+        ],
+        "peaks": [],
+        "theme": [
+            "poll",
+            "ballot",
+            "Kavanaugh",
+            "midterm",
+            "points",
+            "rating",
+            "since"
+        ],
+        "timestamp": "2018-10-14 18:10:25.410344-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc33e07421aa9177a5faff8",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpelection_100318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump\u2019s approval rating up 5 points since August: poll",
+                    "ts": 1539521104,
+                    "twitterid": 1051453835955326976,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/411298-trumps-approval-rating-up-5-points-since-august-poll"
+                },
+                {
+                    "_id": "5bc3845e421aa91cc35418dc",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/voting_electionday_110816getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Poll: Dems up 11 points on generic congressional ballot",
+                    "ts": 1539538143,
+                    "twitterid": 1051525302134935553,
+                    "url": "https://thehill.com/homenews/campaign/411336-poll-dems-up-11-points-on-generic-congressional-ballot"
+                },
+                {
+                    "_id": "5bc2955f421aa97e4044f496",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_41/2492141/180709-brett-kavanaugh-podium-donald-trump-ac-931p_76c311e82bd2f301c155d925b8e35777.1200;630;7;70;5.jpg",
+                    "origin": "NBC News First Read",
+                    "title": "Kavanaugh isn't popular with Middle America",
+                    "ts": 1539477258,
+                    "twitterid": 1051269935392018433,
+                    "url": "https://www.nbcnews.com/politics/first-read/kavanaugh-isn-t-popular-middle-america-n919421?cid=par-twitter-feed_20181014"
+                },
+                {
+                    "_id": "5bc39261421aa91e48b9dab3",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/wbSIyacGAxVKKuucuGNYPjN6u0I=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RR3ENAPNGYZLBHLQLHB4FL2NGA.JPG",
+                    "origin": "Washington Post",
+                    "title": "Let\u2019s not buy the Republican spin on Brett Kavanaugh",
+                    "ts": 1539542973,
+                    "twitterid": 1051545563605405696,
+                    "url": "https://www.washingtonpost.com/news/opinions/wp/2018/10/14/lets-not-buy-the-republican-spin-on-brett-kavanaugh/?utm_term=.bf0440886764&tid=sm_tw"
+                },
+                {
+                    "_id": "5bc2cd7e421aa908c4f6df7a",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/lteMj3ibNNxlltX1ehqUryuZUNA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EA27S3VCYYI6NCBSEOQAPR33WQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Voters say they are more likely to cast ballots in this year\u2019s midterm elections",
+                    "ts": 1539489769,
+                    "twitterid": 1051322409410842625,
+                    "url": "https://www.washingtonpost.com/politics/voters-say-they-are-more-likely-to-cast-ballots-in-this-years-midterm-elections/2018/10/13/c8dd8198-ce63-11e8-a360-85875bac0b1f_story.html"
+                },
+                {
+                    "_id": "5bc2cd7e421aa908c4f6df61",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2017/10/12/669b87b1-1221-4431-81bb-719ad87bd9d1/thumbnail/1200x630/ef11e8b5e3659cd77c166544ee2aeea8/istock-600098004.jpg",
+                    "origin": "CBS News",
+                    "title": "C-section rates have nearly doubled worldwide since 2000",
+                    "ts": 1539492483,
+                    "twitterid": 1051333791845892096,
+                    "url": "https://www.cbsnews.com/news/c-section-cesarean-rates-nearly-doubled-since-2000-worldwide/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bc2ca8104d30159c8516015&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bc39261421aa91e48b9dac7",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/electionvotevoters_052318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Voter enthusiasm up sharply compared to 2014: poll",
+                    "ts": 1539540784,
+                    "twitterid": 1051536379518304258,
+                    "url": "https://thehill.com/homenews/house/411338-voter-enthusiasm-up-sharply-compared-to-2014-poll"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            5
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Pepsi",
+            "Colin Kaepernick",
+            "Alabama",
+            "San Francisco",
+            "Sharpton",
+            "NFL"
+        ],
+        "peaks": [],
+        "theme": [
+            "Alabama",
+            "grocery",
+            "logo",
+            "NFL",
+            "Pepsi",
+            "products",
+            "sell"
+        ],
+        "timestamp": "2018-10-14 18:10:25.503284-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc2955f421aa97e4044f4a1",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/AZ-Pepsi.jpg",
+                    "origin": "Fox News",
+                    "title": "Alabama grocery store refuses to sell Pepsi products with NFL logo",
+                    "ts": 1539476754,
+                    "twitterid": 1051267818128375808,
+                    "url": "https://www.foxnews.com/us/alabama-supermarket-refuses-to-sell-pepsi-products-with-nfl-logo"
+                },
+                {
+                    "_id": "5bc34c13421aa918a4eee620",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/pepsi_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Alabama grocery store says it won't sell Pepsi products with NFL logo to oppose kneeling protests",
+                    "ts": 1539524222,
+                    "twitterid": 1051466916525744128,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/411288-alabama-grocery-store-refuses-to-stock-pepsi-products-with-nfl"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Chinese Ambassador Cui Tiankai",
+            "Vietnam",
+            "US",
+            "China Ambassador",
+            "U.S.",
+            "Trump",
+            "Chinese",
+            "China",
+            "Mattis"
+        ],
+        "peaks": [],
+        "theme": [
+            "ambassador",
+            "Chinese",
+            "trade",
+            "China",
+            "Trump",
+            "confusing",
+            "us"
+        ],
+        "timestamp": "2018-10-14 18:10:25.688470-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc3845e421aa91cc35418ec",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/oepQuRFrDuW94k-PYE-pGaPgyY0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J5DLKUWPXQI6RA6WFEP45LJKWE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Chinese Ambassador Cui Tiankai: It\u2019s \u2018very confusing\u2019 trying to figure out who Trump listens to on trade",
+                    "ts": 1539536943,
+                    "twitterid": 1051520269364416512,
+                    "url": "https://www.washingtonpost.com/politics/chinese-ambassador-cui-tiankai-its-very-confusing-trying-to-figure-out-who-trump-listens-to-on-trade/2018/10/14/f0349570-cfbb-11e8-83d6-291fcead2ab1_story.html?utm_term=.38dae8efb5a4&tid=sm_tw"
+                },
+                {
+                    "_id": "5bc3a071421aa91f4d17c6ff",
+                    "date_month": "2018-10",
+                    "image": "https://apnews.com/images/ShareLogo.png",
+                    "origin": "AP Politics",
+                    "title": "Who\u2019s Trump listen to on trade? Chinese ambassador at a loss",
+                    "ts": 1539544246,
+                    "twitterid": 1051550899921915906,
+                    "url": "https://www.apnews.com/2368a418218d456f852bbad879179258?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5bc3845e421aa91cc35418db",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/e1/6a/cb19662e43439fb963b232d1dd05/181014-cui-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Ambassador says China confused over who speaks for Trump on trade",
+                    "ts": 1539538205,
+                    "twitterid": 1051525565134635011,
+                    "url": "https://www.politico.com/story/2018/10/14/china-confused-trump-trade-898741"
+                },
+                {
+                    "_id": "5bc34c13421aa918a4eee615",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/13/694940094001_5848443503001_5848442859001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Chinese official finds Trump 'very confusing'; says US warships at China's doorstep building tension",
+                    "ts": 1539525233,
+                    "twitterid": 1051471156354707458,
+                    "url": "https://www.foxnews.com/politics/chinese-official-finds-trump-very-confusing-says-us-warships-at-chinas-doorstep-building-tension"
+                },
+                {
+                    "_id": "5bc3684d421aa91aa6643efe",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/china_tradewar_092118istock.jpg",
+                    "origin": "The Hill",
+                    "title": "Chinese ambassador to US: 'Notice who started this trade war'",
+                    "ts": 1539532144,
+                    "twitterid": 1051500140270444550,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/411317-chinese-ambassador-to-us-important-to-notice-who-started-this"
+                },
+                {
+                    "_id": "5bc3684d421aa91aa6643f1e",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/article_images/chinaflag_052715getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Chinese ambassador to US denies accusations of election meddling",
+                    "ts": 1539529504,
+                    "twitterid": 1051489068515819520,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/411313-chinese-ambassador-to-us-denies-accusations-of-election-meddling"
+                },
+                {
+                    "_id": "5bc2f7a6421aa910d05395c9",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/08/29/c2b5c599-93de-4e1e-ae1d-819f0ca8d159/thumbnail/1200x630/f10e8ee5e96082af2c73ac8209b39314/trade-istock-625724516.jpg",
+                    "origin": "CBS News",
+                    "title": "China trade surplus with U.S. reaches record $34.1 billion",
+                    "ts": 1539500583,
+                    "twitterid": 1051367767159517184,
+                    "url": "https://www.cbsnews.com/news/china-trade-surplus-with-u-s-widens-to-record-34-1-billion/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bc2ea263ed3f00001cf41f0&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bc3845e421aa91cc35418bd",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:6e3073eb86ab43888dad95d56b06e492/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Mattis pushes closer ties to Vietnam amid tension with China",
+                    "ts": 1539539639,
+                    "twitterid": 1051531578990620676,
+                    "url": "https://apnews.com/fe078dfe838e48dc9ffdbf84529bba04?utm_medium=AP_Politics&utm_source=Twitter&utm_campaign=SocialFlow"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            52
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Haroon Moghul",
+            "Saudi Arabia Richard Branson",
+            "Jamal Khashoggi",
+            "US",
+            "Jamal Khashoggi Washington Post",
+            "Khashoggi Congress",
+            "Durbin",
+            "Riyadh Saudi",
+            "Power Struggles Behind Khashoggi",
+            "Khashoggi Pentagon",
+            "Mohammed",
+            "Newspaper",
+            "Saudis Business",
+            "Trump",
+            "France",
+            "U.S.",
+            "Rubio",
+            "American",
+            "Germany",
+            "Latest",
+            "Jamal Khashoggi Saudi",
+            "White House",
+            "Jamal Khashoggis Saudi",
+            "Saudis Vow",
+            "Saudis",
+            "Taylor Swift",
+            "Saudi Arabia Marco Rubio",
+            "Saudi Arabia",
+            "Khashoggi Rubio",
+            "Western",
+            "Salman",
+            "Jamal Khashoggi Saudis",
+            "Khashoggi",
+            "Apple Watch",
+            "Donald Trump",
+            "UK",
+            "Turkey",
+            "Disappearance Turkish",
+            "Bolton",
+            "Saudi",
+            "Sanctions Bernie Sanders",
+            "AP",
+            "Tapper",
+            "Saudi Arabia Kudlow"
+        ],
+        "peaks": [],
+        "theme": [
+            "Saudi",
+            "Khashoggi",
+            "Trump",
+            "Arabia",
+            "journalist",
+            "disappearance",
+            "missing"
+        ],
+        "timestamp": "2018-10-14 18:10:26.474477-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc313c7421aa913909d5678",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_41/2602651/181012-jamal-khashoggi-al-1436_00061fbb83f573d9689dd492824b64fc.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump vows 'severe punishment' if Saudi Arabia killed missing journalist Jamal Khashoggi",
+                    "ts": 1539508507,
+                    "twitterid": 1051401002992189445,
+                    "url": "https://www.nbcnews.com/news/world/trump-vows-severe-punishment-if-saudi-arabia-killed-missing-journalist-n919806?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc33e07421aa9177a5fb019",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_41/2600221/181111-khashoggi-consulate-mc-934_3739101be99bda42845b9e9ef14335f0.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Saudi Arabia rejects 'threats' after Trump comments on missing journalist Jamal Khashoggi",
+                    "ts": 1539518772,
+                    "twitterid": 1051444054897119232,
+                    "url": "https://www.nbcnews.com/news/world/saudi-arabia-rejects-threats-after-trump-comments-missing-journalist-jamal-n919921?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bc33e07421aa9177a5fafe9",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/12/b1/4e928c294af3b6d6e58a8fe8d64e/181014-mbs-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Saudi Arabia warns against threats over missing journalist",
+                    "ts": 1539522005,
+                    "twitterid": 1051457616122122240,
+                    "url": "https://www.politico.com/story/2018/10/14/saudi-arabia-missing-journalist-898703"
+                },
+                {
+                    "_id": "5bc3a071421aa91f4d17c6dc",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_joy_khashoggi_181014_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Trump threatens Saudi Arabia with \u2018severe punishment\u2019 if nation executed Khashoggi",
+                    "ts": 1539547204,
+                    "twitterid": 1051563308514496512,
+                    "url": "https://www.msnbc.com/am-joy/watch/trump-threatens-saudi-arabia-with-severe-punishment-if-nation-executed-khashoggi-1343992899818?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bc3845e421aa91cc35418e3",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/14/694940094001_5848642905001_5848649434001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Rubio on Saudi Arabia: American 'moral credibility' on the line over response to missing journalist",
+                    "ts": 1539537468,
+                    "twitterid": 1051522471478878208,
+                    "url": "https://www.foxnews.com/politics/rubio-on-saudi-arabia-american-moral-credibility-on-the-line-over-response-to-missing-journalist"
+                },
+                {
+                    "_id": "5bc2955f421aa97e4044f4ab",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/MRBWavwVBuW8xFCLIrYZidQHnZI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V2LVXNWMXEI6RLIKBYA67OR4YE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump vows \u2018severe punishment\u2019 if U.S. determines Saudi Arabia killed Khashoggi",
+                    "ts": 1539476043,
+                    "twitterid": 1051264838247309312,
+                    "url": "https://www.washingtonpost.com/politics/trump-vows-severe-punishment-if-us-determines-saudi-arabia-killed-khashoggi/2018/10/13/dbefa658-cee0-11e8-920f-dd52e1ae4570_story.html?utm_term=.9d63ffb2efd7&tid=sm_tw"
+                },
+                {
+                    "_id": "5bc27937421aa97c76411750",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_joy_saudiarabia_181013_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Jamal Khashoggi\u2019s disappearance shines spotlight on Saudi Arabia-U.S. relations, human rights",
+                    "ts": 1539469810,
+                    "twitterid": 1051238693720207360,
+                    "url": "https://www.msnbc.com/am-joy/watch/jamal-khashoggi-s-disappearance-shines-spotlight-on-saudi-arabia-u-s-relations-human-rights-1343639107691?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bc39261421aa91e48b9dab6",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/khashoggijamal4_101018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Senators pledge action on Saudi journalist\u2019s disappearance",
+                    "ts": 1539542710,
+                    "twitterid": 1051544459844956161,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/411339-senators-find-consensus-in-response-to-khashoggis-disappearance"
+                },
+                {
+                    "_id": "5bc313c7421aa913909d5675",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/569b82fce6183e1c008ba10f-1334-667.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Saudi stock marke dives 6.8% after Trump threatens punishment over Khashoggi disappearance",
+                    "ts": 1539509018,
+                    "twitterid": 1051403144880644097,
+                    "url": "https://www.businessinsider.com/khashoggi-case-saudi-markets-down68-after-trump-threatens-punishment-for-2018-10"
+                },
+                {
+                    "_id": "5bc321d7421aa9150e29b979",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/14/Saudi_Stock_Market_59045.jpg-287d9_s2048x1287.jpg?e521475c28836fd4a24d2e48ed64f2877a0fe08d",
+                    "origin": "The Washington Times",
+                    "title": "Saudi stock market plunges after Donald Trump threat over Jamal Khashoggi disappearance",
+                    "ts": 1539513893,
+                    "twitterid": 1051423590434914306,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/14/saudi-stock-market-plunges-after-donald-trump-thre/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            14
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Senate",
+            "Deadlines Loom",
+            "West Virginia",
+            "Supreme Court",
+            "Taylor Swift Had",
+            "North Dakota Georgia Democratic",
+            "Election",
+            "Eric Holder",
+            "American",
+            "Texas Georgia",
+            "Native",
+            "GOP Candidate Kemp Sued Over Voter Suppression Claim Georgia"
+        ],
+        "peaks": [],
+        "theme": [
+            "voter",
+            "Voting",
+            "Georgia",
+            "senator",
+            "candidate",
+            "could",
+            "id"
+        ],
+        "timestamp": "2018-10-14 18:10:26.778192-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc3845e421aa91cc35418b7",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/65/78/7f206c5a4f1f9756007a0a748989/181014-abrams-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Georgia Democratic candidate: State law about scaring people out of voting",
+                    "ts": 1539540008,
+                    "twitterid": 1051533125799596032,
+                    "url": "https://www.politico.com/story/2018/10/14/georgia-governor-abrams-kemp-voting-rights-898742"
+                },
+                {
+                    "_id": "5bc3ae82421aa9208ba983de",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/9CsTp6xE9zynkBvX2fgUkmerbJ4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4FRVO3WH4MI6RHAPF75PNVBCVI.jpg",
+                    "origin": "Washington Post",
+                    "title": "A senator snatched a student\u2019s phone while being asked about Georgia voter registration uproar",
+                    "ts": 1539547505,
+                    "twitterid": 1051564572845502464,
+                    "url": "https://www.washingtonpost.com/politics/2018/10/14/senator-snatched-students-phone-while-being-asked-about-georgia-voter-registration-uproar/?utm_term=.5c745210669a&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bc2a35e421aa97f2c5e24d1",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_joy_georgia2_181013_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Georgia GOP governor candidate holds thousands of voter registrations, leading to lawsuit",
+                    "ts": 1539480605,
+                    "twitterid": 1051283971689058304,
+                    "url": "https://www.msnbc.com/am-joy/watch/georgia-gop-governor-candidate-holds-thousands-of-voter-registrations-leading-to-lawsuit-1343635011870?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bc27937421aa97c76411741",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/07/5c43baa3-1595-4846-9a99-08e935b76e3e/thumbnail/1200x630/ab1af974105b716c0774c9e6c1aefaa5/gettyimages-607812008.jpg",
+                    "origin": "CBS News",
+                    "title": "North Dakota voter ID law upheld by Supreme Court could affect Senate race",
+                    "ts": 1539470974,
+                    "twitterid": 1051243577748217858,
+                    "url": "https://www.cbsnews.com/news/north-dakota-voter-id-law-upheld-by-supreme-court-could-affect-senate-race/?ftag=CNM-00-10aab7e&linkId=58150833"
+                },
+                {
+                    "_id": "5bc2f7a6421aa910d05395b6",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170424154457-heidi-heitkamp-3-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "A voter ID decision could impact Native Americans -- and the Senate race -- in North Dakota",
+                    "ts": 1539504004,
+                    "twitterid": 1051382113755389952,
+                    "url": "https://www.cnn.com/2018/10/12/politics/north-dakota-voter-id-native-americans/index.html?utm_medium=social&utm_source=twCNNp&utm_content=2018-10-14T08%3A00%3A03&utm_term=image"
+                },
+                {
+                    "_id": "5bc2db90421aa90d155dde75",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/vgjNzkkSpX_ywLSIwYAQ6rhK5P8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FNVEPUWKPUI6RI3AQWDVXLALD4.jpg",
+                    "origin": "Washington Post",
+                    "title": "In Senate battleground, Native American voting rights activists fight back against voter ID restrictions",
+                    "ts": 1539496737,
+                    "twitterid": 1051351635241435136,
+                    "url": "https://www.washingtonpost.com/politics/in-senate-battleground-native-american-voting-rights-activists-fight-back-against-voter-id-restrictions/2018/10/12/7bc33ad2-cd60-11e8-a360-85875bac0b1f_story.html?utm_term=.75e99d464b03&tid=sm_tw"
+                },
+                {
+                    "_id": "5bc2955f421aa97e4044f49b",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_joy_georgia_181013_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Georgia exact match law could tip governor race",
+                    "ts": 1539477005,
+                    "twitterid": 1051268873910198273,
+                    "url": "https://www.msnbc.com/am-joy/watch/georgia-exact-match-law-could-tip-governor-race-1343631427823?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bc2873a421aa97d4f8d513c",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_gura_TiffanyCross_101813_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "GOP Candidate Kemp Sued Over Voter Suppression Claim",
+                    "ts": 1539472503,
+                    "twitterid": 1051249988557258753,
+                    "url": "https://www.msnbc.com/david-gura/watch/ugliest-midterms-ever-gop-candidate-kemp-sued-over-voter-suppression-claim-1343523395945?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5bc27937421aa97c76411751",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/9d/dd/d9c56d0a488890df5da8f209f32b/181012-phone-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "West Virginia's voting experiment stirs security fears",
+                    "ts": 1539469809,
+                    "twitterid": 1051238690863898630,
+                    "url": "https://www.politico.com/story/2018/10/13/west-virginia-voting-app-security-846130"
+                },
+                {
+                    "_id": "5bc2a35e421aa97f2c5e24b7",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201810/n_maddow_awaller_181011_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Democratic aide arrested advocating for voting rights in Texas",
+                    "ts": 1539482406,
+                    "twitterid": 1051291525689290752,
+                    "url": "https://www.msnbc.com/rachel-maddow/watch/democratic-aide-arrested-advocating-for-voting-rights-in-texas-1342451779574?v=railb&cid=sm_npd_ms_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            32
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "McConnell",
+            "Senate",
+            "Cramer Flake",
+            "People Vote",
+            "Dems",
+            "Christine Blasey Ford",
+            "Palin",
+            "GOP Senate",
+            "Kentucky",
+            "Kentucky Trump",
+            "Trump",
+            "North Dakota Democrat Heitkamp",
+            "Nancy Pelosi",
+            "McConnell Watch",
+            "Andrew Brunson",
+            "Battle Over Kavanaugh Takes Confirmation",
+            "Chuck Schumer",
+            "Josh Hawley",
+            "Brett",
+            "Amal Clooney",
+            "MeToo",
+            "House",
+            "Missouri",
+            "Mitch",
+            "New Low"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Kavanaugh",
+            "rally",
+            "Kentucky",
+            "confirmed",
+            "Democrat",
+            "McConnell"
+        ],
+        "timestamp": "2018-10-14 18:10:27.367894-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bc3684d421aa91aa6643f13",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/nUi2OvDu56blOLKGsnPLtL2_bc4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KFN46TGPKAI6REQP3VJODLSFOA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump celebrates McConnell, federal judicial appointments at Kentucky rally",
+                    "ts": 1539530553,
+                    "twitterid": 1051493468101578752,
+                    "url": "https://www.washingtonpost.com/politics/trump-celebrates-mcconnell-federal-judicial-appointments-at-kentucky-rally/2018/10/13/db3ad41a-ce33-11e8-a360-85875bac0b1f_story.html?utm_term=.ad9917fba3ab&tid=sm_tw"
+                },
+                {
+                    "_id": "5bc33e07421aa9177a5fafee",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpmcconnell_midterms_051818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump praises McConnell: He \u2018stared down the angry left-wing mob\u2019 to get Kavanaugh confirmed",
+                    "ts": 1539521823,
+                    "twitterid": 1051456853325037589,
+                    "url": "https://thehill.com/homenews/administration/411296-trump-praises-mcconnell-he-stared-down-the-angry-left-wing-mob-to-get"
+                },
+                {
+                    "_id": "5bc27937421aa97c76411746",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181010213552-trump-talks-to-reporters-eria-pa-1010-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Trump rallies in Kentucky, flanked by Mitch McConnell",
+                    "ts": 1539470281,
+                    "twitterid": 1051240669153497089,
+                    "url": "https://www.cnn.com/2018/10/13/politics/trump-rally-kentucky-barr/index.html?utm_term=image&utm_content=2018-10-13T22%3A38%3A00&utm_source=twCNN&utm_medium=social"
+                },
+                {
+                    "_id": "5bc2873a421aa97d4f8d5134",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/13/694940094001_5848443558001_5848454518001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Trump holds latest campaign rally in Kentucky",
+                    "ts": 1539472751,
+                    "twitterid": 1051251031940755456,
+                    "url": "https://www.foxnews.com/politics/trump-holds-campaign-rally-in-kentucky"
+                },
+                {
+                    "_id": "5bc2873a421aa97d4f8d5131",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trump_iowa.jpg",
+                    "origin": "The Hill",
+                    "title": "Watch live: President Trump hosts rally in Kentucky",
+                    "ts": 1539473346,
+                    "twitterid": 1051253526855344129,
+                    "url": "https://thehill.com/video/administration/411281-watch-live-president-trump-hosts-rally-in-kentucky"
+                },
+                {
+                    "_id": "5bc2955f421aa97e4044f486",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:9f88e00c49e54533afd99646d3e8c428/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump praises McConnell\u2019s role in battle over Kavanaugh",
+                    "ts": 1539478735,
+                    "twitterid": 1051276129657651200,
+                    "url": "https://www.apnews.com/ec12e8b8495443dab0eabed82ee914c2?utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter"
+                },
+                {
+                    "_id": "5bc27937421aa97c7641173b",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/pscvoqlMe_MK_OojZ7PStuOryE8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIPZC2GOLII6RLIKBYA67OR4YE.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018Our values are being shredded\u2019: Joe Biden denounces Trump at Kentucky rally",
+                    "ts": 1539471545,
+                    "twitterid": 1051245971085123585,
+                    "url": "https://www.washingtonpost.com/politics/2018/10/13/our-values-are-being-shredded-joe-biden-denounces-trump-kentucky-rally/?utm_term=.bbbcd25c49b6&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bc2a35e421aa97f2c5e24da",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/13/694940094001_5848443558001_5848454518001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Trump, rallying in Kentucky, blasts Dems' 'chilling lust for power'",
+                    "ts": 1539479976,
+                    "twitterid": 1051281332842704896,
+                    "url": "https://www.foxnews.com/politics/trump-rallying-in-kentucky-blasts-dems-chilling-lust-for-power"
+                },
+                {
+                    "_id": "5bc3845e421aa91cc35418bf",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:489e71732d0f40cf9b27e861260377cc/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump on rally blitz as he tries to stave off Dem gains",
+                    "ts": 1539539552,
+                    "twitterid": 1051531211712200704,
+                    "url": "https://www.apnews.com/99f37e9640bd4d299d94964442389f8a?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5bc3845e421aa91cc35418d1",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:dbff3f61ffa54c9da825a0586be6507e/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "North Dakota Democrat Heitkamp scrambles to catch Cramer",
+                    "ts": 1539538662,
+                    "twitterid": 1051527478743846912,
+                    "url": "https://www.apnews.com/c6d850700836490bb65121dcfa01c200?utm_medium=AP_Politics&utm_source=Twitter&utm_campaign=SocialFlow"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,2206 @@
+[
+    {
+        "list": [
+            69
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Scott Walker Trump",
+            "Trump",
+            "Obama",
+            "Barbra Streisand",
+            "Warns Democrats",
+            "Mixed Signals From",
+            "CNN",
+            "America Obama",
+            "North Carolina Pam Bondi",
+            "Pulpit Inside Trump",
+            "Rush Limbaugh",
+            "Nina Turner",
+            "Milwaukee",
+            "Maxine Waters",
+            "Michigan Democrats",
+            "FBI",
+            "Lara Trump",
+            "Montana",
+            "Disgusted",
+            "Midwest",
+            "White House",
+            "Florida",
+            "Detroit Trump",
+            "Bomb Suspect",
+            "WATCH",
+            "Package Bombs",
+            "Political",
+            "Cramer",
+            "Ann Coulter",
+            "Kentucky Dem",
+            "Wisconsin",
+            "Beto Poll",
+            "Summer Zervos",
+            "Mail Bombs Carries Echoes Of Civil Rights Bombings Trump",
+            "Tester",
+            "Cesar Sayoc",
+            "Wisconsin Trump",
+            "Revenge",
+            "Vanessa Trump",
+            "GOP",
+            "Spare",
+            "North Carolina",
+            "Old Attacks Heitkamp"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "bomb",
+            "Obama",
+            "Suspect",
+            "Mail",
+            "President",
+            "arrested"
+        ],
+        "timestamp": "2018-10-27 15:10:21.188684-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd38eae421aa90208ae6237",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/26/gettyimages-1053877462trump_wide-4477c522f4dce80eb09240113acd4ccf414ec054.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "As FBI Closed In On Bomb Suspect, Mixed Signals From President Trump",
+                    "ts": 1540589219,
+                    "twitterid": 1055933836607942656,
+                    "url": "https://www.npr.org/2018/10/26/661131089/as-fbi-closed-in-on-bomb-suspect-mixed-signals-from-president-trump?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae622e",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/z-E0FSm5jRnR7UfpwUBY_JZj06A=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LUOIX6HWOA5DFPXAZ5VYOPU32E.jpg",
+                    "origin": "Washington Post",
+                    "title": "A mail bomb suspect is now in custody. To Trump, nothing has changed.",
+                    "ts": 1540589765,
+                    "twitterid": 1055936126043742209,
+                    "url": "https://www.washingtonpost.com/blogs/plum-line/wp/2018/10/26/a-suspect-in-the-bombings-is-in-custody-to-trump-nothing-has-changed/?utm_term=.ff750a42e5fb&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd3c6d7421aa9077c11e252",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/GgSspwa1Tiil8wqg4sAUe-M-jyc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JO6ARZKT7U7CHNRI4URSWZXHQQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "The mail bomb suspect and the right-wing conspiracy machine",
+                    "ts": 1540605417,
+                    "twitterid": 1056001775461896194,
+                    "url": "https://www.washingtonpost.com/blogs/post-partisan/wp/2018/10/26/were-all-part-of-the-right-wing-conspiracy-theory-machine/?utm_term=.1e296cae2b05&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bd4617c421aa9193c412a01",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/28/us/politics/28tipsheet-obama/28tipsheet-obama-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Bomb Suspect, Beto Poll, Obama Calls Out Trump: 10 Days to Go",
+                    "ts": 1540643271,
+                    "twitterid": 1056160546469408769,
+                    "url": "https://www.nytimes.com/2018/10/27/us/politics/bombs-election-house-senate.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5bd4617c421aa9193c4129fa",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/v7Y68vcrfnc9cRn_6rwAY-7SC3Q=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z3QVAWWUY4I6RJG3DBBRDUTRFE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Ann Coulter, Rush Limbaugh and others stick with conspiracy theories after mail-bomb suspect\u2019s arrest",
+                    "ts": 1540643764,
+                    "twitterid": 1056162613128773632,
+                    "url": "https://www.washingtonpost.com/politics/2018/10/27/ann-coulter-didnt-ditch-conspiracy-theories-after-bombers-arrest-most-false-flaggers-didnt/?tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bd3b8d3421aa905f99ee3cc",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonaldncrally_102618screenshot.png",
+                    "origin": "The Hill",
+                    "title": "Trump accuses media of trying to 'score political points' after suspect charged for mail bombs",
+                    "ts": 1540601704,
+                    "twitterid": 1055986202497740800,
+                    "url": "https://thehill.com/homenews/administration/413437-trump-accuses-media-of-trying-to-score-political-points-after-suspect?__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bd37289421aa97ed2714423",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/KRtuo7mCjAfCyFYCCfLmAVR11uM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P7WDNWASFM2VLG6BCWPFHR5YHM.jpg",
+                    "origin": "Washington Post",
+                    "title": "President Trump, ever the victim",
+                    "ts": 1540581468,
+                    "twitterid": 1055901324955533312,
+                    "url": "https://www.washingtonpost.com/news/opinions/wp/2018/10/26/president-trump-ever-the-victim/?utm_term=.ae3672350ebb&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd39cb9421aa9032ceaad2d",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180821195500-02-trump-wv-rally-0821-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Live: President Trump holds a rally in North Carolina",
+                    "ts": 1540594804,
+                    "twitterid": 1055957261871394817,
+                    "url": "https://www.cnn.com/politics/live-news/trump-rally-north-carolina-october-2018/index.html?utm_medium=social&utm_content=2018-10-26T23%3A00%3A03&utm_source=twCNNp&utm_term=image"
+                },
+                {
+                    "_id": "5bd4b5e0421aa920b0ce6574",
+                    "date_month": "2018-10",
+                    "image": "https://images.newrepublic.com/23fa99d73d2f6638a4a808cb1c3c8109e9160f82.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "A man has been arrested in the massacre at a Pittsburgh synagogue.",
+                    "ts": 1540664438,
+                    "twitterid": 1056249327235018752,
+                    "url": "https://newrepublic.com/minutes/151921/man-arrested-massacre-pittsburgh-synagogue"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae621b",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/26/Trump_18444.jpg-55ab5_s2048x1364.jpg?f9c67f4708cc0e99c4b4cc589081ff5d217c5718",
+                    "origin": "The Washington Times",
+                    "title": "Trump 'not at all' bothered that bomber suspect is a supporter",
+                    "ts": 1540590839,
+                    "twitterid": 1055940630008995840,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/26/trump-not-all-bothered-bomber-suspect-supporter/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Angels",
+            "Red Sox",
+            "West",
+            "Longest Game",
+            "Max Muncy",
+            "College Football Playoff",
+            "Brand New Tie",
+            "NBA Into",
+            "LeBron James Has",
+            "Los Angeles Dodgers",
+            "Dodgers May Need Divine Intervention",
+            "Mookie Betts",
+            "ZZZ Max Muncy",
+            "Boston Dodgers"
+        ],
+        "peaks": [],
+        "theme": [
+            "Game",
+            "Series",
+            "World",
+            "Dodgers",
+            "Red",
+            "Sox",
+            "Longest"
+        ],
+        "timestamp": "2018-10-27 15:10:21.617026-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd40d15421aa911f8f884cf",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/27/USAT/51e09831-37c2-4ea2-9f0b-12266af9b751-USP_MLB__World_Series-Boston_Red_Sox_at_Los_Angele.JPG?crop=1901,1069,x0,y233&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Game 3 between Red Sox, Dodgers longest in World Series history",
+                    "ts": 1540623090,
+                    "twitterid": 1056075899362250752,
+                    "url": "https://www.usatoday.com/story/sports/mlb/2018/10/27/game-3-between-red-sox-dodgers-longest-world-series-history/1786634002/"
+                },
+                {
+                    "_id": "5bd40d15421aa911f8f884d5",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/world-series-fans-1.jpg",
+                    "origin": "Fox News",
+                    "title": "Dodgers, Red Sox playing longest World Series game ever",
+                    "ts": 1540622051,
+                    "twitterid": 1056071544269651974,
+                    "url": "https://www.foxnews.com/sports/dodgers-red-sox-enter-15th-inning-in-longest-world-series-game-ever"
+                },
+                {
+                    "_id": "5bd46f90421aa91afb14e872",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_43/2621156/1-796_nocid_rtrmadp_3_mlb-world-series-boston-red-sox-at-los-angeles-dodgers_1_99e0479fc5cfe4ec2e9c654f79aacb22.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "In longest World Series game, Dodgers outlast Red Sox in 18",
+                    "ts": 1540648264,
+                    "twitterid": 1056181488218189825,
+                    "url": "https://www.nbcnews.com/news/sports/longest-world-series-game-dodgers-outlast-red-sox-18-n925191?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd46f90421aa91afb14e883",
+                    "date_month": "2018-10",
+                    "image": "https://c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/images/logo-bg.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "World Series: Game 3, Red Sox vs. Dodgers",
+                    "ts": 1540646763,
+                    "twitterid": 1056175194719617026,
+                    "url": "https://www.bostonglobe.com/news/bigpicture/2018/10/26/world-series-game-red-sox-dodgers/PRP3ZmSYmIHUHsJMwuIA9K/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd3aac1421aa9049f023746",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/26/BostonGlobe.com/Sports/Images/davis_drspre1_spts-001.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "World Series Game 3: Red Sox at Dodgers live updates and analysis",
+                    "ts": 1540598045,
+                    "twitterid": 1055970853823938561,
+                    "url": "https://www.bostonglobe.com/sports/2018/10/26/world-series-game-red-sox-dodgers-live-updates-and-analysis/rjl5bj9WPhefFMeh8hnWVN/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd42936421aa912bca1f7d2",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/_qzGy93DPYVytQ8fpOzF-WKfk28=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUOA76WZXII6RIIPWUKUNMIHKY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Dodgers outlast Red Sox in 18-inning marathon to tighten World Series",
+                    "ts": 1540627395,
+                    "twitterid": 1056093958730932225,
+                    "url": "https://www.washingtonpost.com/sports/dodgers-outlast-red-sox-in-18-inning-marathon-to-tighten-world-series/2018/10/27/e78ee116-d94b-11e8-a10f-b51546b10756_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5bd41b25421aa912502ebd1d",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/27/0b8f2a28-aa91-4b07-b3b8-e0200b95138f/thumbnail/1200x630/9961fe3b0fe88ba355eef1232ef11ed4/gettyimages-1054088986.jpg",
+                    "origin": "CBS News",
+                    "title": "Los Angeles Dodgers win 3-2 in the 18th, ending the longest World Series game in history",
+                    "ts": 1540626845,
+                    "twitterid": 1056091650475376640,
+                    "url": "https://www.cbsnews.com/news/los-angeles-dodgers-win-game-3-max-muncy-world-series-today-2018-10-27/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5bd4199a04d301391dd1f87f&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bd4a7da421aa91f75c51f2e",
+                    "date_month": "2018-10",
+                    "image": "https://media.newyorker.com/photos/5bd47a319b5de53d9eeb292f/16:9/w_1200,h_630,c_limit/Crouch-MuncyHomeRun.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Max Muncy Ends the Longest Game in World Series History",
+                    "ts": 1540660459,
+                    "twitterid": 1056232640033013760,
+                    "url": "https://www.newyorker.com/sports/replay/max-muncy-ends-the-longest-game-in-world-series-history?mbid=social_twitter"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae622b",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/26/USAT/43b492a1-5c50-4a36-b77d-390ac2da52ce-USP_MLB__World_Series-Los_Angeles_Dodgers_at_Bosto.JPG?crop=1642,923,x89,y107&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Red Sox star Mookie Betts delivered food to homeless after World Series Game 2 win",
+                    "ts": 1540590000,
+                    "twitterid": 1055937111906545666,
+                    "url": "https://www.usatoday.com/story/sports/mlb/redsox/2018/10/26/world-series-boston-red-sox-mookie-betts-fed-homeless/1776370002/"
+                },
+                {
+                    "_id": "5bd4617c421aa9193c412a08",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/27/USAT/70982bdc-a4cc-4a35-a9c4-e3672c4e4ec5-USATSI_11529159.jpg?crop=3494,1965,x0,y82&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Dodgers riding momentum of Max Muncy's walk-off home run into Game 4 of World Series",
+                    "ts": 1540642501,
+                    "twitterid": 1056157316159016960,
+                    "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2018/10/27/max-muncy-dodgers-red-sox-world-series-longest-game/1782831002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            35
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Fatal",
+            "America",
+            "Trump Says",
+            "Pittsburgh Synagogue Shooting",
+            "Former Synagogue",
+            "DHS",
+            "Life Synagogue",
+            "Heavy",
+            "Pittsburgh Gun Laws Had",
+            "Custody",
+            "Gunman Opens Fire",
+            "Tree",
+            "Melania Trump",
+            "Pittsburgh Synagogue Pittsburgh Synagogue",
+            "Official Says",
+            "Pennsylvania",
+            "Exit Routes Likely Saved",
+            "Suspect",
+            "Pittsburgh",
+            "Synagogue Shooting"
+        ],
+        "peaks": [],
+        "theme": [
+            "Pittsburgh",
+            "synagogue",
+            "shooting",
+            "Multiple",
+            "casualties",
+            "officers",
+            "Trump"
+        ],
+        "timestamp": "2018-10-27 15:10:21.924002-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd48bc2421aa91dab1979da",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+                    "origin": "POLITICO",
+                    "title": "'Multiple casualties' reported in Pittsburgh synagogue shooting; 3 officers shot",
+                    "ts": 1540654363,
+                    "twitterid": 1056207070473662464,
+                    "url": "https://www.politico.com/story/2018/10/27/pittsburgh-synagogue-shooting-943380"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979ec",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Multiple Casualties In Shooting At Pittsburgh Synagogue",
+                    "ts": 1540653604,
+                    "twitterid": 1056203886355083265,
+                    "url": "https://www.npr.org/2018/10/27/661347236/multiple-casualties-in-shooting-near-pittsburgh-synagogue?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979f1",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/27/USAT/01674f59-83da-49c2-8539-e0db05cebe9d-AP_Shooting_Synagogue.JPG?crop=1999,1124,x1,y141&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "'Multiple casualties' at Pittsburgh synagogue shooting",
+                    "ts": 1540653197,
+                    "twitterid": 1056202177335738370,
+                    "url": "https://www.usatoday.com/story/news/2018/10/27/pittsburgh-police-report-active-shooter-near-synagogue/1788556002/"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979f4",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/US/police-wtae-01-ps-181027_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "'Multiple casualties,' 3 officers shot at Pittsburgh synagogue: Officials",
+                    "ts": 1540652896,
+                    "twitterid": 1056200914913148929,
+                    "url": "https://abcnews.go.com/US/police-responding-active-shooter-pittsburgh-synagogue/story?id=58790381&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979fa",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/shooter.jpg",
+                    "origin": "Fox News",
+                    "title": "Multiple casualties, three officers shot at Pittsburgh synagogue; suspect in custody",
+                    "ts": 1540652604,
+                    "twitterid": 1056199690658762752,
+                    "url": "https://www.foxnews.com/us/pittsburgh-police-confirms-active-shooter-at-synagogue-multiple-victims-reported"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979cf",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2016/07/GettyImages-160018693-1024x690.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Multiple casualties after shooting near Pittsburgh synagogue",
+                    "ts": 1540655100,
+                    "twitterid": 1056210160429883392,
+                    "url": "https://www.pbs.org/newshour/nation/multiple-casualties-after-shooting-near-pittsburgh-synagogue"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979e7",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/iKNOCandE9Q0Ps3CUlNdytyYnKQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P372FXFHAII6RLLPBADXBXG5YI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Fatal shooting at Pittsburgh synagogue injures multiple police officers",
+                    "ts": 1540653876,
+                    "twitterid": 1056205025461108736,
+                    "url": "https://www.washingtonpost.com/nation/2018/10/27/pittsburgh-police-responding-active-shooting-squirrel-hill-area/?utm_term=.92e8f803e222"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979e8",
+                    "date_month": "2018-10",
+                    "image": "https://www.trbimg.com/img-5bd48875/turbine/ct-pittsburgh-synagogue-active-shooter-20181027",
+                    "origin": "Chicago Tribune",
+                    "title": "Multiple casualties reported in Pittsburgh synagogue shooting; suspect in custody",
+                    "ts": 1540653739,
+                    "twitterid": 1056204453722890241,
+                    "url": "https://www.chicagotribune.com/news/nationworld/ct-pittsburgh-synagogue-active-shooter-20181027-story.html"
+                },
+                {
+                    "_id": "5bd4a7da421aa91f75c51f16",
+                    "date_month": "2018-10",
+                    "image": "https://s.abcnews.com/images/US/shooting-reaction-ap-ps-181027_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Pittsburgh synagogue mass shooting claims 8 lives; 4 officers among multiple wounded, officials say",
+                    "ts": 1540662712,
+                    "twitterid": 1056242089896353792,
+                    "url": "https://abcnews.go.com/US/police-responding-active-shooter-pittsburgh-synagogue/story?id=58790381&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979f2",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/27/BostonGlobe.com/National/Images/9da060ffe7924375bbf53f7f2f042ad5-9da060ffe7924375bbf53f7f2f042ad5-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Multiple casualties and an active shooter are reported near synagogue in Pittsburgh",
+                    "ts": 1540653059,
+                    "twitterid": 1056201601835298817,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/10/27/pittsburgh-police-report-active-shooter-near-synagogue/Vc5Wno0znEoPotQ0JtN25J/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "DIY Halloween",
+            "Careful",
+            "Burger King"
+        ],
+        "peaks": [],
+        "theme": [
+            "Halloween",
+            "change",
+            "costumes",
+            "date",
+            "Kids",
+            "petition",
+            "sign"
+        ],
+        "timestamp": "2018-10-27 15:10:22.211762-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd3b8d3421aa905f99ee3ce",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/halloween1-istock.jpg",
+                    "origin": "Fox News",
+                    "title": "Move Halloween? Thousands sign petition to change holiday's famous date",
+                    "ts": 1540601700,
+                    "twitterid": 1055986184487346176,
+                    "url": "https://www.foxnews.com/lifestyle/petition-to-move-halloween-to-last-saturday-of-october-garners-thousands-of-signatures"
+                },
+                {
+                    "_id": "5bd3c6d7421aa9077c11e26a",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/26/USAT/10e17967-8f01-4893-8fbc-981fd529262f-AP_Trump_Halloween.jpg?crop=4878,2744,x1,y229&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Could celebrating Halloween on a Saturday be safer? Thousands sign petition to change date",
+                    "ts": 1540603200,
+                    "twitterid": 1055992475955982336,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/10/26/change-halloween-day-safety-trump-petition/1777937002/"
+                },
+                {
+                    "_id": "5bd40d15421aa911f8f884ce",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/lf8046Tu8DR1ceoQ2oIA38R0T_E=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U6E66IMDMBDBFDJGSCLN7DO2B4.JPG",
+                    "origin": "Washington Post",
+                    "title": "Kids in wheelchairs get epic Halloween costumes. It makes all the difference.",
+                    "ts": 1540623364,
+                    "twitterid": 1056077050056982529,
+                    "url": "https://www.washingtonpost.com/lifestyle/2018/10/25/kids-wheelchairs-get-epic-halloween-costumes-finally-love-trick-or-treating/?utm_term=.45aa424ee82a&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae624c",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_43/2620321/181026-adult-hallloween-costume-ew-110p_ae36a5f8573f3752143fe29ec006910c.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Last minute DIY Halloween costume ideas for adults and kids",
+                    "ts": 1540587964,
+                    "twitterid": 1055928574174212096,
+                    "url": "https://www.nbcnews.com/better/pop-culture/last-minute-diy-halloween-costume-ideas-adults-kids-ncna924851?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd47da0421aa91c80458b14",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181016172606-02-halloween-movie-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "7 scary movies to stream for Halloween",
+                    "ts": 1540651507,
+                    "twitterid": 1056195090828460032,
+                    "url": "https://www.cnn.com/2018/10/27/entertainment/scary-movies-halloween-trnd/index.html?utm_term=image&utm_content=2018-10-27T14%3A45%3A06&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bd39cb9421aa9032ceaad2a",
+                    "date_month": "2018-10",
+                    "image": "https://si.wsj.net/public/resources/images/B3-CE091_HALLOW_SOC_20181025113146.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "The Multicultural Past of Our Commercial Halloween",
+                    "ts": 1540594813,
+                    "twitterid": 1055957301000110080,
+                    "url": "https://www.wsj.com/articles/the-many-histories-of-halloween-1540562295?mod=e2tw"
+                },
+                {
+                    "_id": "5bd4455d421aa913a3c8647a",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/26/3d526042-19ee-447f-88f3-608a0ae00b08/thumbnail/1200x630/90c5d526c55a6bfe6e4648b7f56d4eef/gettyimages-836518510.jpg",
+                    "origin": "CBS News",
+                    "title": "Beware these Halloween health hazards",
+                    "ts": 1540634585,
+                    "twitterid": 1056124115403395074,
+                    "url": "https://www.cbsnews.com/media/halloween-health-hazards-to-avoid/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bd437d79ebbef00014b4ba4&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bd4617c421aa9193c412a02",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/26/gettyimages-71929396_wide-db802c3b7e5f9f981ad7bb599e0bfebdd76c7174.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "This Halloween: Be Careful How You 'Hang' Your Decorations",
+                    "ts": 1540643220,
+                    "twitterid": 1056160331930599424,
+                    "url": "https://www.npr.org/sections/codeswitch/2018/10/27/416856004/this-halloween-be-careful-how-you-hang-your-decorations?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2055"
+                },
+                {
+                    "_id": "5bd3c6d7421aa9077c11e254",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2011/10/25/aa62c8bd-477f-11e3-a5af-047d7b15b92e/thumbnail/1200x630/6b57ccfe687f1bfeb79fead9baa1f594/givingcandy_iStock_00000431.jpg",
+                    "origin": "CBS News",
+                    "title": "Here's why Americans are spending more on Halloween candy",
+                    "ts": 1540605290,
+                    "twitterid": 1056001241799684096,
+                    "url": "https://www.cbsnews.com/news/halloween-candy-prices-americans-are-spending-more/?ftag=CNM-00-10aab7e&linkId=58783300"
+                },
+                {
+                    "_id": "5bd43748421aa913219d5285",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/16/USAT/1ef5cf88-8412-4978-8d68-521af89ce29f-Burger_King_Nightmare_King.png?crop=1919,1079,x0,y1&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Burger King says its new Halloween creation 'Nightmare King' can induce nightmares",
+                    "ts": 1540633200,
+                    "twitterid": 1056118306606858241,
+                    "url": "https://www.usatoday.com/story/money/2018/10/17/burger-king-nightmare-king-halloween/1661125002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            363
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Ecuador",
+            "University",
+            "Hanley Ramirez",
+            "Chad Finn",
+            "Google",
+            "Goof Off",
+            "DC Bronx Food Revival",
+            "Jordan",
+            "Mississippi River",
+            "Justice Dept",
+            "US Papadopoulos",
+            "Medicare Part",
+            "Feds",
+            "Kennedy Center",
+            "Catholic Church",
+            "Discuss Citizenship Question Alternatives Parkland",
+            "Charlottesville",
+            "New Jersey Goodwill Warhol Takes New York",
+            "Magna Carta",
+            "Cameroon",
+            "Dave Roberts",
+            "Trump Campaigns Republicans North Carolina",
+            "DOJ",
+            "Lorna Cooke",
+            "Beto",
+            "Sports Tickets Suspect",
+            "Soneva Kiri",
+            "Zombies",
+            "Outside Seattle",
+            "Geoff Diehl",
+            "Security Check Required House",
+            "Trade War",
+            "FBI",
+            "Healthy Debate Bodies",
+            "New York",
+            "Yosemite National Park",
+            "New Breed",
+            "Burmese",
+            "DJ Durkin",
+            "BSO",
+            "Vaccine",
+            "New Jersey Goodwill Michigan",
+            "Red Sox",
+            "Gordon Hayward",
+            "Titus",
+            "Merrimack Valley",
+            "Julian Assange",
+            "College",
+            "CNN Newsroom",
+            "Thailand Papadopoulos",
+            "Racist Facebook Message",
+            "Feud",
+            "Wall Street",
+            "Process Scrap",
+            "Alaska Musk",
+            "Windsor Castle",
+            "Sign Up",
+            "Bohemian Rhapsody",
+            "School Shooting",
+            "North Dakota",
+            "Meghan Markle",
+            "LGBTQ",
+            "Spanish",
+            "New Yorker Cartoons",
+            "Justin Trudeau",
+            "John Bolton India",
+            "Albums Ideal",
+            "Simpsons",
+            "Dallas",
+            "Swiss",
+            "Live",
+            "GDP",
+            "Sport",
+            "Patriots",
+            "ACLU",
+            "Tester",
+            "Debbie Wasserman Schultz",
+            "GOP",
+            "Atlantic City",
+            "Salisbury",
+            "Dead",
+            "Measure",
+            "New Suburbia",
+            "Broken Counters",
+            "McRib",
+            "Transgender Americans",
+            "Supreme Court",
+            "Village",
+            "Natick",
+            "Kaepernick",
+            "Act Inhumanely",
+            "Kansas",
+            "Virginia",
+            "John Bolton",
+            "McDonald",
+            "Honor",
+            "Boston Globe",
+            "Johan Bruyneel",
+            "Massachusetts California",
+            "Stacey Abrams",
+            "California Papadopoulos",
+            "New Horizons",
+            "Mookie Betts",
+            "Lower Medicare Drug Costs U.S.",
+            "Ethiopia",
+            "Sinead",
+            "Jimmy John",
+            "Microsoft",
+            "Amazon",
+            "Least Orgiastic Rock",
+            "New England",
+            "Boracay Gets Ready",
+            "Washington Cathedral Sheryl Sandberg",
+            "Headlines Latest",
+            "Dan Shaughnessy",
+            "Loop",
+            "Bears Claire McCaskill",
+            "How One Stubborn Banker",
+            "Harlem Penthouse Sale Sets Uptown Record",
+            "CDC",
+            "Golden Rule",
+            "Elon Musk",
+            "U.S.",
+            "FIFA",
+            "John Ziegler",
+            "Lauren McCluskey",
+            "Women Isn",
+            "CBS All Access",
+            "Bank Bailout",
+            "Obama Campaigns Democrats Wisconsin",
+            "Jessy James",
+            "Jerry Brown",
+            "NASA",
+            "Mexican",
+            "Washington",
+            "Texas Senate",
+            "Nathan Eovaldi",
+            "Public Lands How Trump",
+            "Senate Intelligence Committee Iowa",
+            "Maria Butina",
+            "New York City",
+            "Hawaiian",
+            "Islam",
+            "Congress",
+            "Trump Policy Changes",
+            "Back Donald Trump",
+            "Women Who Identify",
+            "Syria Ian Kinsler",
+            "Ryanair",
+            "Looks Rapper",
+            "Comets",
+            "Mueller Russia",
+            "Paradise",
+            "John Fund",
+            "Pittsburgh",
+            "Columbia Gas",
+            "ABC News",
+            "Las Vegas How Jair Bolsonaro",
+            "Twitter",
+            "Texas Rare",
+            "Matthew Shepard",
+            "Iranian",
+            "Pacific Ocean",
+            "UVA",
+            "Wilbur Ross",
+            "Peru Tesla",
+            "Heitkamp",
+            "Midterms",
+            "Killer",
+            "Well",
+            "Bills",
+            "Harvard Admissions Process Jeff Sessions Told",
+            "Delay Enforcement",
+            "Steve King",
+            "Northern Mariana Islands",
+            "Trump Blames Media",
+            "Trump",
+            "China",
+            "London Skyscraper Without Ropes California",
+            "Ohio Senate",
+            "UK",
+            "North Side",
+            "Christian",
+            "Chuck Grassley",
+            "Crazy",
+            "deVaron",
+            "Medal",
+            "Logan Square",
+            "Graceland",
+            "Witches",
+            "Jail Trump Offers Test Plan",
+            "Rosendale",
+            "George Papadopoulos",
+            "Martinez",
+            "U.N.",
+            "iPad",
+            "Work",
+            "Cruz",
+            "Woman Who",
+            "Utah",
+            "Rick Steves Has Helped",
+            "Past Walker Buehler",
+            "Mahler",
+            "Arrest",
+            "Russia Seeks Role",
+            "Mattis Vows U.S.",
+            "Maryland",
+            "Super Typhoon Yutu",
+            "Black",
+            "Cramer",
+            "Death",
+            "Expect Much Help Navigating Plans Education",
+            "NPR",
+            "Massachusetts Vladimir Putin",
+            "Vegetables Lawsuit",
+            "Party",
+            "Digital Offensive",
+            "Sydney",
+            "Ireland",
+            "Save Money",
+            "Oscars",
+            "New Jersey",
+            "Again Men Are Socialized",
+            "NBC News",
+            "Fracking Booms",
+            "Climate Fight",
+            "INF Treaty",
+            "Yosemite National Park Patriots",
+            "Vladimir Putin",
+            "Brew Starbucks Frappuccino",
+            "Michael Avenatti",
+            "PewDiePie",
+            "Plastic Alternatives Gets Messy",
+            "Scotland US",
+            "Week",
+            "Porch",
+            "Brazil",
+            "Libraries Attacks",
+            "Marijuana Legalization Has Gone Mainstream",
+            "USA",
+            "Dogs",
+            "PTSD",
+            "French",
+            "Jackson",
+            "Julie Swetnick",
+            "Dustin Pedroia",
+            "CEO",
+            "American Road Trips Nike",
+            "Jamie Lee Curtis",
+            "Tech Worries Cook County",
+            "Richard Spencer",
+            "MLB",
+            "Dodgers",
+            "Political Ad",
+            "News Broke",
+            "Oksana Chusovitina",
+            "Costume Designer From",
+            "Crush",
+            "Playbook",
+            "Asks Georgia",
+            "Billionaires",
+            "Donald Trump",
+            "Years",
+            "Kamala Harris",
+            "National Cathedral Lance Armstrong",
+            "Found Illegal",
+            "New Yorker Subscription Trump",
+            "Patent Office",
+            "Dodger Stadium",
+            "Mediator",
+            "Gillum",
+            "Trump Administration Seeks",
+            "Sandwich",
+            "Rain",
+            "Arena Stage",
+            "Midterm View",
+            "Likely",
+            "OpenTable Feeling",
+            "Commerce",
+            "Lawrence",
+            "FAA",
+            "Vietnam Veteran Memorial",
+            "Adam Scott",
+            "Hurricane Andrew New Russian",
+            "Row Hotel Kroger",
+            "Girl Scouts",
+            "Senate Intelligence",
+            "Census",
+            "Andris Nelsons",
+            "Abuse Victim Who Fears",
+            "Recess Restored Unity Temple",
+            "California Gov",
+            "Culp",
+            "Taft Point",
+            "Botham Jean",
+            "Park Ridge",
+            "FDA",
+            "Emirati",
+            "Boystown Florida",
+            "Istanbul Summit",
+            "Hamilton",
+            "ObamaCare",
+            "WikiLeaks",
+            "Local Issues",
+            "South Boston How",
+            "Shuhada",
+            "Rich Hill",
+            "Putin",
+            "Isle",
+            "Keith Ellison",
+            "Fatal Kentucky",
+            "Online Harassment",
+            "Chinese Auto Maker",
+            "Kirkus Prize",
+            "Airline Tickets Were"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "News",
+            "says",
+            "us",
+            "World",
+            "year"
+        ],
+        "timestamp": "2018-10-27 15:10:26.025473-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd48bc2421aa91dab1979f8",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181023181555-20181023-trump-world-map-composite-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "How Trump's nationalism has already changed the world",
+                    "ts": 1540652709,
+                    "twitterid": 1056200132725760000,
+                    "url": "https://www.cnn.com/2018/10/27/politics/trump-nationalism-world-order/index.html?utm_term=image&utm_source=twCNNp&utm_medium=social&utm_content=2018-10-27T15%3A05%3A08"
+                },
+                {
+                    "_id": "5bd4a7da421aa91f75c51f2d",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/27/trump_58773_s2048x1364.jpg?f9c67f4708cc0e99c4b4cc589081ff5d217c5718",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump says armed guard could have prevented Pittsburgh synagogue shooting",
+                    "ts": 1540660468,
+                    "twitterid": 1056232674459897858,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/27/donald-trump-armed-guard-could-prevented-synagogue/"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979db",
+                    "date_month": "2018-10",
+                    "image": "https://prod-video-us-east-1.pscp.tv/1hEt2m0nxrETniDil33oXXU9Vcq1XlkrfRJtjUS3VJ367YyLUG5O-nD53ccSrZpVkZ9xkXtz3nXZxhPRMkUjxg/replay_thumbnail/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJkIjowfQ/chunk_1540655129687695159_429_a.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMUJSSmplZ0JhckJHdyIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE1NDA2NTYwNDIsIkdyYW50ZWRUbyI6IndlYi1yYXRlLWxpbWl0ZWQtMDhmNzZlM2Q1NDRlNWJmM2RmNjVjMDQyMGRiNWJlODMiLCJTdHJlYW1OYW1lIjoiMWhFdDJtMG54ckVUbmlEaWwzM29YWFU5VmNxMVhsa3JmUkp0alVTM1ZKMzY3WXlMVUc1Ty1uRDUzY2NTclpwVmtaOXhrWHR6M25YWnhoUFJNa1VqeGciLCJleHAiOjE1NDA4Mjg4NDJ9.Pj59AGyubXWz-1NChPdEs3Ctf_5pqfzw6pWpBRSxn-U&service=proxsee&digest=gNw0UNeIObYUcFqEw6m_kKtUEfhbCzCCatSI0QoXru0",
+                    "origin": "ABC News",
+                    "title": "ABC News @ABC",
+                    "ts": 1540654308,
+                    "twitterid": 1056206841003134976,
+                    "url": "https://www.pscp.tv/w/bqR8ZDM3Mzg2fDFCUkpqZWdCYXJCR3frzt_u8CsYAjgtzGhh0ZeGRBvIxBCUYL2GGWxT2EBfLw=="
+                },
+                {
+                    "_id": "5bd3b8d3421aa905f99ee3d8",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/10/GettyImages-963634028-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Deep gender divide over Trump could influence the 2018 midterms, poll says",
+                    "ts": 1540600800,
+                    "twitterid": 1055982409567498240,
+                    "url": "https://www.pbs.org/newshour/politics/deep-gender-divide-over-trump-could-influence-the-2018-midterms-poll-says"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979f7",
+                    "date_month": "2018-10",
+                    "image": "https://prod-video-us-east-1.pscp.tv/TOMcAdlmmCdDbNXHFfLfBb2Em0d17WQe0VGa0tc6_13q4SZERbQgnpm6k8OIebLTJWbAAcCVHrvMZy8G-8HojQ/live_thumbnail/us-east-1/eyJkIjowfQ/latest.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMXZBeFJFUURCZU5KbCIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE1NDA2NTYwNjIsIkdyYW50ZWRUbyI6IndlYi1yYXRlLWxpbWl0ZWQtYTRhOGRmODg2OWZhYTY4OGQzNjk4YWRjNmIwNTlkZTgiLCJTdHJlYW1OYW1lIjoiVE9NY0FkbG1tQ2REYk5YSEZmTGZCYjJFbTBkMTdXUWUwVkdhMHRjNl8xM3E0U1pFUmJRZ25wbTZrOE9JZWJMVEpXYkFBY0NWSHJ2TVp5OEctOEhvalEiLCJleHAiOjE1NDA4Mjg4NjJ9.duAIoMPhRNaecSlCpoEsz8UwpboPVwMvsRZ8kYRc78w&service=proxsee&digest=0jpwOtqRqipTDju8GgMIoUS_JE4cVPopm-VOhoOz7FY&ts=770328031",
+                    "origin": "NBC News",
+                    "title": "NBC News: \"LIVE: NBC News Special Report: Active shooter situation reported in Pittsburgh\"",
+                    "ts": 1540652734,
+                    "twitterid": 1056200238288064512,
+                    "url": "https://www.pscp.tv/w/1vAxREQDBeNJl"
+                },
+                {
+                    "_id": "5bd499d4421aa91e88267021",
+                    "date_month": "2018-10",
+                    "image": "https://prod-video-us-east-1.pscp.tv/_bFlUZEKEn9sBhIsqycgrZtvhGTrVPxV6Op-woOVL3QmW-T0LLDUCkHiNMfdBwQiLimEOEmNvUJm8JDOiC3j9g/replay_thumbnail/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJkIjowfQ/chunk_1540658458861289806_138_a.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMWxQS3FrdnZXV0xKYiIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE1NDA2NTk2NDEsIkdyYW50ZWRUbyI6IndlYi1yYXRlLWxpbWl0ZWQtNzg3MzY5YmJhM2UyMzlkOTEzY2RlMGU1MjM0NzcyY2QiLCJTdHJlYW1OYW1lIjoiX2JGbFVaRUtFbjlzQmhJc3F5Y2dyWnR2aEdUclZQeFY2T3Atd29PVkwzUW1XLVQwTExEVUNrSGlOTWZkQndRaUxpbUVPRW1OdlVKbThKRE9pQzNqOWciLCJleHAiOjE1NDA4MzI0NDF9.jYq0n1Iu-lxdUxoqfIRKTrJWdypz8zeZ-YJcH87EL1w&service=proxsee&digest=vn1Y02i3oqJQCSRwOond9ptOQ1t3uwX4xgmapjZ9lQQ",
+                    "origin": "NBC News",
+                    "title": "NBC News: \"LIVE: President Trump speaks about the Pittsburgh synagogue attack as he departs DC for an FFA event and a campaign rall\"",
+                    "ts": 1540658200,
+                    "twitterid": 1056223161790935040,
+                    "url": "https://www.pscp.tv/w/1lPKqkvvWWLJb"
+                },
+                {
+                    "_id": "5bd40d15421aa911f8f884e3",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/23/arts/26newsquiz-art/23aiportrait5-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "News Quiz: Test Your Knowledge of the Week\u2019s Headlines",
+                    "ts": 1540620186,
+                    "twitterid": 1056063719434784768,
+                    "url": "https://www.nytimes.com/interactive/2018/10/26/briefing/26weeklynewsquiz.html?smtyp=cur&smid=tw-nytnational"
+                },
+                {
+                    "_id": "5bd43748421aa913219d5279",
+                    "date_month": "2018-10",
+                    "image": "http://cdn.cnn.com/cnnnext/dam/assets/181025114205-india-tallest-statue-3-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "India prepares to inaugurate the world's tallest statue",
+                    "ts": 1540634416,
+                    "twitterid": 1056123406167535616,
+                    "url": "https://edition.cnn.com/style/article/india-world-tallest-statue-intl/index.html?utm_term=image&utm_medium=social&utm_content=2018-10-27T10%3A00%3A15&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bd3aac1421aa9049f023768",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/26/ce6479a2-7b1c-4130-801e-f396ae8d8aae/thumbnail/1200x630g2/6e9282852a54d721fb72d71bdae4c7c1/gettyimages-985206602.jpg",
+                    "origin": "CBS News",
+                    "title": "Putin invited to Washington by John Bolton \"after the first of the year\"",
+                    "ts": 1540595675,
+                    "twitterid": 1055960913239531520,
+                    "url": "https://www.cbsnews.com/news/putin-invited-to-washington-by-john-bolton-after-the-first-of-the-year/?ftag=CNM-00-10aab7e&linkId=58782690"
+                },
+                {
+                    "_id": "5bd3f105421aa90d2f394275",
+                    "date_month": "2018-10",
+                    "image": "https://media.newyorker.com/photos/5bd0c5ebb6f8952d9b1f142a/16:9/w_1200,h_630,c_limit/Lach-CNN-Bomb.jpg",
+                    "origin": "The New Yorker",
+                    "title": "What It Was Like in the CNN Newsroom When News Broke of a Bomb in the Building",
+                    "ts": 1540613786,
+                    "twitterid": 1056036878984642560,
+                    "url": "https://www.newyorker.com/news/current/what-it-was-like-in-the-cnn-newsroom-when-news-broke-of-a-bomb-in-the-building"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            20
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Smaller",
+            "Defense Department",
+            "DHS",
+            "Sleepless Nights",
+            "Caravan Presses",
+            "US",
+            "Week Trump",
+            "Homeland",
+            "California White House",
+            "Mattis",
+            "Far",
+            "Texas",
+            "Biggest Stories",
+            "Mike Pence",
+            "Arizona",
+            "California",
+            "Mexico"
+        ],
+        "peaks": [],
+        "theme": [
+            "caravan",
+            "migrant",
+            "border",
+            "Trump",
+            "days",
+            "Immigration",
+            "Mexico"
+        ],
+        "timestamp": "2018-10-27 15:10:26.448940-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd499d4421aa91e8826702d",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/PPdy2HjWRqfyfv2lU7eqJbhPOVU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ID5MGGWYWAI6RA5C2HB5UKGWWY.jpg",
+                    "origin": "Washington Post",
+                    "title": "In the closing days of the election, Trump turns to his favorite weapon: Immigration",
+                    "ts": 1540657141,
+                    "twitterid": 1056218723110043648,
+                    "url": "https://www.washingtonpost.com/politics/in-the-closing-days-of-the-election-trump-turns-to-his-favorite-weapon-immigration/2018/10/25/7c42fa44-d79f-11e8-83a2-d1c3da28d6b6_story.html?utm_term=.473261908df0&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd3aac1421aa9049f023771",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/26/PPHX/00b17153-0293-409e-921c-77e79b3a9297-LRG__DSC3466.jpg?crop=909,513,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "Nielsen: Trump considering 'every option' to stop migrant caravan from reaching the border",
+                    "ts": 1540595069,
+                    "twitterid": 1055958372229365760,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/10/26/donald-trump-weighing-every-option-stop-migrant-caravan-mexico-border/1778995002/"
+                },
+                {
+                    "_id": "5bd40d15421aa911f8f884d7",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/kn2.jpg",
+                    "origin": "Fox News",
+                    "title": "Section of Trump's border wall unveiled in California as caravan advances north through Mexico",
+                    "ts": 1540621860,
+                    "twitterid": 1056070741806989312,
+                    "url": "https://www.foxnews.com/politics/section-of-trumps-border-wall-unveiled-in-california-as-caravan-advances-north-through-mexico"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979fc",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/1Sl-vF8LyZ3KsGbnW08J_17qwdY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DUSQTDGZNEI6RA5C2HB5UKGWWY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump preparing to deliver major immigration speech just days before midterms",
+                    "ts": 1540652525,
+                    "twitterid": 1056199362337038336,
+                    "url": "https://www.washingtonpost.com/world/national-security/trump-preparing-to-deliver-major-immigration-speech-just-days-before-midterms/2018/10/26/db474940-d94e-11e8-aeb7-ddcad4a0a54e_story.html?utm_term=.982e7be0ce1b&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd3d4e7421aa9092f242e29",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/24/694940094001_5852783226001_5852768788001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Mattis approves request for more troops to southern border, amid migrant caravan\u2019s march",
+                    "ts": 1540607880,
+                    "twitterid": 1056012105281929221,
+                    "url": "https://www.foxnews.com/politics/mattis-approves-request-for-more-troops-to-southern-border-amid-migrant-caravans-march"
+                },
+                {
+                    "_id": "5bd43748421aa913219d5287",
+                    "date_month": "2018-10",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_43/2616026/181023-migrant-caravan-mexico-ew-416p_8ae2541414010369fd614c9cc1d3aaa5.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Trump may halt entry for nearly all seeking asylum on southern border",
+                    "ts": 1540632721,
+                    "twitterid": 1056116298789335041,
+                    "url": "https://www.nbcnews.com/politics/immigration/trump-may-halt-entry-nearly-all-migrants-seeking-asylum-southern-n924661?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd43748421aa913219d528c",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/uCaiqCBPM_0grGol7QXQZYjMh64=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KYIWXJHCL4Z7BC7AETB6ZTSGSI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Expect more migrant caravans while Trump insists on the same failed policies",
+                    "ts": 1540632215,
+                    "twitterid": 1056114173657210885,
+                    "url": "https://www.washingtonpost.com/news/global-opinions/wp/2018/10/26/expect-more-migrant-caravans-while-trump-insists-on-the-same-failed-policies/?utm_term=.8da4d249efdd&tid=sm_tw"
+                },
+                {
+                    "_id": "5bd3b8d3421aa905f99ee3c9",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/10/Caravan-1024x683.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "A daughter seeking her mother, a widower fleeing violence: tales from the migrant caravan",
+                    "ts": 1540602001,
+                    "twitterid": 1055987446691885060,
+                    "url": "https://www.pbs.org/newshour/show/a-daughter-seeking-her-mother-a-widower-fleeing-violence-tales-from-the-migrant-caravan"
+                },
+                {
+                    "_id": "5bd46f90421aa91afb14e875",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/AP18299669211738.jpg",
+                    "origin": "Fox News Politics",
+                    "title": "Mike Pence claims he's learned migrant caravan funded by 'outside groups'",
+                    "ts": 1540647828,
+                    "twitterid": 1056179659648446465,
+                    "url": "https://www.foxnews.com/politics/mike-pence-claims-hes-learned-migrant-caravan-funded-by-outside-groups"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae6229",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/AP18299669263601.jpg",
+                    "origin": "Fox News",
+                    "title": "Smaller migrant caravan advances quickly toward US, treks 62 miles in one day",
+                    "ts": 1540590046,
+                    "twitterid": 1055937303791722496,
+                    "url": "https://www.foxnews.com/world/smaller-migrant-caravan-advances-quickly-to-us-travels-62-miles-in-one-day"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            11
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Bombs",
+            "Cesar Sayoc",
+            "WATCH",
+            "FBI",
+            "DNA"
+        ],
+        "peaks": [],
+        "theme": [
+            "bomb",
+            "devices",
+            "mail",
+            "suspect",
+            "FBI",
+            "hoax",
+            "caught"
+        ],
+        "timestamp": "2018-10-27 15:10:26.621153-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd38eae421aa90208ae6248",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/MSNBC/Components/Video/201810/nbc_spec_fbidirector_181026_1540582726529.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "FBI Director: Explosive mail bombs 'were not hoax devices'",
+                    "ts": 1540588209,
+                    "twitterid": 1055929601954844672,
+                    "url": "https://www.nbcnews.com/video/fbi-director-13-explosive-mail-bombs-were-not-hoax-devices-1354080835741?v=railb&cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae623c",
+                    "date_month": "2018-10",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_43/2620556/181026-package-bomb-new-york-al-1548_3c1361caeb2248bf735547c23b1432f4.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "How they caught him: Fingerprint led authorities to mail bomb suspect",
+                    "ts": 1540588924,
+                    "twitterid": 1055932599493902337,
+                    "url": "https://www.nbcnews.com/news/us-news/how-they-caught-him-fingerprint-led-authorities-mail-bomb-suspect-n924966?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae621a",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/10/24/da64df7d-8d30-4989-bdd8-3f555d83de28/thumbnail/1200x630/b1c89e39b8842f4781db786b7d1cd1c8/device.jpg",
+                    "origin": "CBS News",
+                    "title": "FBI on package bombs: \"These are not hoax devices\"",
+                    "ts": 1540590874,
+                    "twitterid": 1055940775823974400,
+                    "url": "https://www.cbsnews.com/news/fbi-says-13-explosive-devices-packages-sent-nationwide-bomb-not-hoax-device-2018-10-26/?ftag=CNM-00-10aab7e&linkId=58777540"
+                },
+                {
+                    "_id": "5bd37289421aa97ed2714412",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bd36aca5f5e953ff604413a-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "FBI director shoots down mail bomber conspiracy theories: 'These are not hoax devices'",
+                    "ts": 1540582706,
+                    "twitterid": 1055906518359511040,
+                    "url": "https://www.businessinsider.com/fbi-director-mail-bomber-conspiracy-theories-not-hoax-devices-2018-10"
+                },
+                {
+                    "_id": "5bd37289421aa97ed27143fd",
+                    "date_month": "2018-10",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/10/RTX6GO52-1-1024x659.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "WATCH: FBI says dozen pipe bombs weren't 'hoax devices'",
+                    "ts": 1540584001,
+                    "twitterid": 1055911949014392832,
+                    "url": "https://www.pbs.org/newshour/politics/watch-live-federal-officials-announce-details-about-suspect-detained-amid-suspicious-packages-investigation?23232"
+                },
+                {
+                    "_id": "5bd3c6d7421aa9077c11e26c",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/26/ee5cd84d-4a58-4705-81fa-b9b0d039fb12/thumbnail/1200x630/656c6b3361bd3f7a992313c7ef71580f/officer1.jpg",
+                    "origin": "CBS News",
+                    "title": "Fingerprint, DNA and cellphone tracking led investigators to mail bomb suspect Cesar Sayoc",
+                    "ts": 1540602889,
+                    "twitterid": 1055991173020598272,
+                    "url": "https://www.cbsnews.com/news/fingerprint-dna-and-cellphone-tracking-led-investigators-to-mail-bomb-suspect-cesar-sayoc/?ftag=CNM-00-10aab7e&linkId=58782754"
+                },
+                {
+                    "_id": "5bd39cb9421aa9032ceaad43",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/26/BostonGlobe.com/National/Images/46514c3eb6fb474c9ac1df2c24b0acf5-f4996788f1a440e6be6e7c021b744535-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Bombs, envelopes provided crucial clues to capture pipe-bomb suspect",
+                    "ts": 1540593483,
+                    "twitterid": 1055951722445713410,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/10/26/bombs-envelopes-provided-crucial-clues-capture-pipe-bomb-suspect/3NhCx5peG5ISG5xV23GElJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd39cb9421aa9032ceaad2e",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/30f10d55935e1597d004d4e8ae20b97a9d3d9f2f/c=0-0-5203-2939/local/-/media/2018/02/14/USATODAY/USATODAY/636542227256517448-AP-SECURITY-CLEARANCES-97434032.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "How the federal agents caught bombing suspect Cesar Sayoc: A single fingerprint, DNA match",
+                    "ts": 1540594804,
+                    "twitterid": 1055957261686894593,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/10/26/cesar-sayoc-how-federal-agents-caught-bombing-suspect/1778755002/"
+                },
+                {
+                    "_id": "5bd37289421aa97ed2714429",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bd366a83196b73ef415b2d3-1136-568.jpg",
+                    "origin": "Politics Insider",
+                    "title": "Here's how law enforcement tracked down the serial mail bombing suspect",
+                    "ts": 1540581059,
+                    "twitterid": 1055899611137822721,
+                    "url": "https://www.businessinsider.com/how-police-found-cesar-sayoc-mail-bombing-suspect-2018-10"
+                },
+                {
+                    "_id": "5bd39cb9421aa9032ceaad3b",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181026165417-sayoc-perp-walk-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "How the alleged bomber was caught",
+                    "ts": 1540594100,
+                    "twitterid": 1055954307382697988,
+                    "url": "https://www.cnn.com/2018/10/26/politics/how-alleged-bomber-cesar-sayoc-was-caught/index.html?utm_term=image&utm_medium=social&utm_content=2018-10-26T22%3A48%3A19&utm_source=twCNNp"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            3
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Dies Tyrone Gayle",
+            "Spokesman",
+            "Kamala Harris",
+            "Tyrone Gayle",
+            "Hillary Clinton"
+        ],
+        "peaks": [],
+        "theme": [
+            "dies",
+            "Gayle",
+            "Tyrone",
+            "aide",
+            "battle",
+            "cancer",
+            "Clinton"
+        ],
+        "timestamp": "2018-10-27 15:10:26.711109-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd37289421aa97ed2714409",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/harriskamala_092818gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Kamala Harris aide Tyrone Gayle dies after battle with cancer",
+                    "ts": 1540583161,
+                    "twitterid": 1055908425979314176,
+                    "url": "https://thehill.com/blogs/floor-action/senate/413387-kamala-harris-aide-tyrone-gayle-dies-after-battle-with-cancer"
+                },
+                {
+                    "_id": "5bd3aac1421aa9049f02375e",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/27/obituaries/27xp-gayle-obit/27xp-gayle-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Tyrone Gayle, 30, Spokesman for Senators and Hillary Clinton, Dies",
+                    "ts": 1540596429,
+                    "twitterid": 1055964078651400193,
+                    "url": "https://www.nytimes.com/2018/10/26/obituaries/tyrone-gayle-cancer-kamala-harris.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5bd3d4e7421aa9092f242e22",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/2hAqkrkbq26y3IUOGx-2KTbP-9M=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J7H65VWZLQI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Tyrone Gayle, aide to leading Democrats, dies at 30",
+                    "ts": 1540608554,
+                    "twitterid": 1056014933794713600,
+                    "url": "https://www.washingtonpost.com/local/obituaries/tyrone-gayle-aide-to-leading-democrats-dies-at-30/2018/10/26/338fe6e8-d94a-11e8-aeb7-ddcad4a0a54e_story.html?utm_term=.655145c5f294&tid=sm_tw&__twitter_impression=true&__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            15
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Megyn Kelly Maybe",
+            "Sorry",
+            "Economic News",
+            "Video Megyn Kelly",
+            "Business",
+            "Tomi Lahren",
+            "Megyn Kelly",
+            "Congressional Cemetery Kareem",
+            "World News",
+            "Months",
+            "Wall Street Journal",
+            "Financial",
+            "Struggle",
+            "NBC",
+            "Megyn Kelly Flames Out Till"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kelly",
+            "Megyn",
+            "blackface",
+            "comment",
+            "NBC",
+            "abdul",
+            "adjac"
+        ],
+        "timestamp": "2018-10-27 15:10:27.049083-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd47da0421aa91c80458b26",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/kareem_abdul-jabbar_012515getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Kareem Abdul-Jabbar slams Megyn Kelly blackface comment as 'Hate Crime-Adjacent'",
+                    "ts": 1540649584,
+                    "twitterid": 1056187025676779520,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/413457-kareem-abdul-jabbar-slams-megyn-kelly-blackface-comment-as-hate"
+                },
+                {
+                    "_id": "5bd4a7da421aa91f75c51f28",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/kareem_abdul-jabbar_012515getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Kareem Abdul-Jabbar slams Megyn Kelly blackface comment as 'hate crime-adjacent'",
+                    "ts": 1540661101,
+                    "twitterid": 1056235331824050176,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/413457-kareem-abdul-jabbar-slams-megyn-kelly-blackface-comment-as-hate"
+                },
+                {
+                    "_id": "5bd4b5e0421aa920b0ce6577",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181025173424-20181025-megyn-kelly-racial-diversity-3-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Megyn Kelly NBC hire was a mistake for the network",
+                    "ts": 1540664109,
+                    "twitterid": 1056247948269547520,
+                    "url": "https://www.cnn.com/2018/10/27/perspectives/megyn-kelly-andy-lack-nbc/index.html?utm_term=image&utm_content=2018-10-27T18%3A15%3A08&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5bd3f105421aa90d2f394274",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/26/e8ce4ce2-6ef6-4d19-87a4-e482731388fc/thumbnail/1200x630/43303daf0fd773708ab7b8e953f02289/ctm-1026-megyn-kelly.jpg",
+                    "origin": "CBS News",
+                    "title": "Megyn Kelly made controversial comments before \"blackface\" remark",
+                    "ts": 1540613883,
+                    "twitterid": 1056037284796096513,
+                    "url": "https://www.cbsnews.com/news/megyn-kelly-blackface-backlash-nbc-source-disputes-reports/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bd3e6f904d30177360fe698&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bd41b25421aa912502ebd1c",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-33161/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "After Months of Struggle, NBC\u2019s $69 Million Bet on Megyn Kelly Flames Out",
+                    "ts": 1540627204,
+                    "twitterid": 1056093155915902981,
+                    "url": "https://www.wsj.com/articles/after-months-of-struggle-nbcs-69-million-bet-on-megyn-kelly-flames-out-1540605455?mod=e2tw"
+                },
+                {
+                    "_id": "5bd4b5e0421aa920b0ce6579",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/Kps7NVKZt3C1_SngedXktcHHPVs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EHGM6WF52Y7BVKWWFICCQ5DW2I.jpg",
+                    "origin": "Washington Post",
+                    "title": "Megyn Kelly\u2019s NBC legacy: No one should get $23 million a year to host a news show",
+                    "ts": 1540663917,
+                    "twitterid": 1056247142489210880,
+                    "url": "https://www.washingtonpost.com/blogs/erik-wemple/wp/2018/10/26/megyn-kellys-nbc-legacy-no-one-should-get-23-million-a-year-to-host-a-news-show/?utm_term=.bf656330f659&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5bd3b8d3421aa905f99ee3e5",
+                    "date_month": "2018-10",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_43/2616961/181024-megyn-kelly-today-ew-1056a_33d83b5737801aac9deac358f38a2ff0.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Megyn Kelly will not return to 'Today'",
+                    "ts": 1540600211,
+                    "twitterid": 1055979938954776576,
+                    "url": "https://www.nbcnews.com/news/all/megyn-kelly-will-not-return-today-n924911?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5bd3c6d7421aa9077c11e268",
+                    "date_month": "2018-10",
+                    "image": "https://static.politico.com/0e/95/864d1a02493d8fa957b505df348d/181026-megyn-kelly-gtty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Unsolicited Advice for Megyn Kelly",
+                    "ts": 1540603202,
+                    "twitterid": 1055992483241435136,
+                    "url": "https://www.politico.com/magazine/story/2018/10/26/megyn-kelly-nbc-221948"
+                },
+                {
+                    "_id": "5bd3b8d3421aa905f99ee3ef",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/22/7_222018_beltway-megyn8201_s2048x1196.jpg?c69392ac7ddc3917b79b2eea0ce11792d23306c8",
+                    "origin": "The Washington Times",
+                    "title": "Megyn Kelly, a victim of despicable, deceptive P.C. police",
+                    "ts": 1540599303,
+                    "twitterid": 1055976131499909121,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/26/megyn-kelly-victim-despicable-deceptive-pc-police/"
+                },
+                {
+                    "_id": "5bd3e2f3421aa90b03a394d3",
+                    "date_month": "2018-10",
+                    "image": "https://www.trbimg.com/img-5bd3ccaa/turbine/ct-met-jb-pritzker-politics-kass-20181026",
+                    "origin": "Chicago Tribune",
+                    "title": "Maybe J.B. Pritzker should hire Megyn Kelly",
+                    "ts": 1540609602,
+                    "twitterid": 1056019329991561219,
+                    "url": "https://www.chicagotribune.com/news/columnists/kass/ct-met-jb-pritzker-politics-kass-20181026-story.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            23
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Attacked Democrats Online Package",
+            "Trump",
+            "Trump Social",
+            "Twitter",
+            "Florida Trump",
+            "Breaking News",
+            "US",
+            "Local News Bomb",
+            "Cesar Sayoc",
+            "Latest World",
+            "NBC News",
+            "Bomb Suspect Has Criminal History",
+            "DNA",
+            "Cesar Sayoc Florida"
+        ],
+        "peaks": [],
+        "theme": [
+            "Bomb",
+            "suspect",
+            "Cesar",
+            "mail",
+            "Sayoc",
+            "Trump",
+            "bomber"
+        ],
+        "timestamp": "2018-10-27 15:10:27.561577-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd37289421aa97ed2714403",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/26/BostonGlobe.com/National/Images/ff40e9acd47f4f82a7566e67efbcdb87-ff40e9acd47f4f82a7566e67efbcdb87-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Five things to know about mail bomb suspect Cesar Sayoc",
+                    "ts": 1540583709,
+                    "twitterid": 1055910724936126464,
+                    "url": "https://www.bostonglobe.com/metro/2018/10/26/five-things-know-about-mail-bomb-suspect-cesar-sayoc/jvTIpLdA1BeXZaiZjgtlGP/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd3e2f3421aa90b03a394d7",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/26/3730306f-6f06-48c4-b55b-ed0fab8e466b/thumbnail/1200x630/63e6668ae33fd930d36928b396ea0cf8/cesar-sayoc.jpg",
+                    "origin": "CBS News",
+                    "title": "Cesar Sayoc, package bomb suspect, arrested: What we know",
+                    "ts": 1540609385,
+                    "twitterid": 1056018418879684608,
+                    "url": "https://www.cbsnews.com/news/cesar-sayoc-package-bomb-suspect-arrested-what-we-know-live-updates-today-2018-10-26/"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae624d",
+                    "date_month": "2018-10",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/10/26/explosive_devices_69060_s1636x2048.jpg?8179c768fb0ff5d0be09fc8416dea2c89e7458a9",
+                    "origin": "The Washington Times",
+                    "title": "Bomb-threat suspect Cesar Sayoc\u2019s social media presence is being erased",
+                    "ts": 1540587944,
+                    "twitterid": 1055928486458810368,
+                    "url": "https://www.washingtontimes.com/news/2018/oct/26/bomb-threat-suspect-cesar-sayocs-social-media-pres/?cache"
+                },
+                {
+                    "_id": "5bd380b0421aa97fdbbdaeef",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/26/694940094001_5853949350001_5853937564001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Cesar Sayoc, mail bombing suspect, arrested in Florida: Everything we know so far",
+                    "ts": 1540585980,
+                    "twitterid": 1055920250137407489,
+                    "url": "https://www.foxnews.com/us/cesar-sayoc-mail-bombing-suspect-arrested-florida-everything-we-know-so-far"
+                },
+                {
+                    "_id": "5bd3aac1421aa9049f023759",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/26/gettyimages-1054023270_wide-7b708d66dc3a266b3896cc943ede51253871fc12.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Who Is Cesar Sayoc? Bomb Suspect Has Criminal History, Attacked Democrats Online",
+                    "ts": 1540596665,
+                    "twitterid": 1055965067894677504,
+                    "url": "https://www.npr.org/2018/10/26/661183126/pipe-bomb-suspect-cesar-sayoc-had-criminal-history-regularly-attacked-dems-onlin?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5bd380b0421aa97fdbbdaede",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bd3768ccf3f6e45042812ad-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "What we know about the van plastered with pro-Trump images that is tied to the serial mail bomber investigation",
+                    "ts": 1540586760,
+                    "twitterid": 1055923522323787777,
+                    "url": "https://www.businessinsider.com/cesar-sayoc-mail-bomber-van-2018-10"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae6225",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bd3872471f7ce49250c5d22-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "The internet presence of the suspected mail bomber reveals his right-wing political leanings and affinity for Trump",
+                    "ts": 1540590355,
+                    "twitterid": 1055938600305655808,
+                    "url": "https://www.businessinsider.com/cesar-sayoc-social-media-shows-his-right-wing-ideology"
+                },
+                {
+                    "_id": "5bd4455d421aa913a3c86469",
+                    "date_month": "2018-10",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:616132dad926449c92602382ccc15473/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Man charged in mail-bomb plot is a Florida Trump supporter",
+                    "ts": 1540636508,
+                    "twitterid": 1056132181439995905,
+                    "url": "https://apnews.com/36054cce8eb143edabd1689dfbd74a87?utm_medium=AP_Politics&utm_source=Twitter&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5bd380b0421aa97fdbbdaf0d",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/B3lVIOIzAnGKy1pEwHmwOodTvBo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GZFRN5WZJEI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Post Politics",
+                    "title": "The mail-bomb suspect\u2019s van, annotated",
+                    "ts": 1540584152,
+                    "twitterid": 1055912585487360000,
+                    "url": "https://www.washingtonpost.com/politics/2018/10/26/mail-bomb-suspects-van-annotated/"
+                },
+                {
+                    "_id": "5bd3b8d3421aa905f99ee3cd",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/26/ed8ad99c-2048-4ba8-910e-a773ab26071e/thumbnail/1200x630/558544bd972f2209d50fe5358fb40661/begnaud-cesar-1026-transfer-frame-1619.jpg",
+                    "origin": "CBS News",
+                    "title": "Package bomb suspect Cesar Sayoc was prolific tweeter who often lashed out at politicians",
+                    "ts": 1540601701,
+                    "twitterid": 1055986190753644544,
+                    "url": "https://www.cbsnews.com/news/package-bomb-suspect-cesar-sayoc-was-prolific-tweeter-who-often-lashed-out-at-politicians-2018-10-26/?ftag=CNM-00-10aab7e&linkId=58782715"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            24
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Save House Seats From Onslaught",
+            "Cook",
+            "Trump",
+            "Safety Net Programs",
+            "NJ",
+            "PAC",
+            "California",
+            "Dems Bloomberg",
+            "Battle",
+            "Democratic Candidates",
+            "Great Ad",
+            "Michael Bloomberg",
+            "Election",
+            "Same",
+            "Deficit Balloons Fun",
+            "Ohio",
+            "Democratic Money",
+            "Georgia House",
+            "Florida",
+            "CNN Key",
+            "Young Turks",
+            "Elect House Members US",
+            "Support of Democrats",
+            "Mass Audience",
+            "Menendez",
+            "New Jersey",
+            "Schumer"
+        ],
+        "peaks": [],
+        "theme": [
+            "midterm",
+            "Election",
+            "House",
+            "ads",
+            "Democrats",
+            "Races",
+            "Republicans"
+        ],
+        "timestamp": "2018-10-27 15:10:28.043166-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd4b5e0421aa920b0ce657c",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180411115022-2018-house-key-races-evergreen-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "CNN Key Races: House cleaning before Election Day",
+                    "ts": 1540663324,
+                    "twitterid": 1056244653819867136,
+                    "url": "https://www.cnn.com/2018/10/27/politics/cnn-house-key-races-late-october-update/index.html?utm_term=image&utm_source=twCNNp&utm_content=2018-10-27T18%3A02%3A03&utm_medium=social"
+                },
+                {
+                    "_id": "5bd3b8d3421aa905f99ee3de",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/27/upshot/27up-house/27up-house-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Democrats Have Numbers on Their Side in Battle for the House. Republicans Have the Map.",
+                    "ts": 1540600479,
+                    "twitterid": 1055981065527951360,
+                    "url": "https://www.nytimes.com/2018/10/26/upshot/live-poll-results-house-majority-democrat-or-republican.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5bd3f105421aa90d2f394272",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/dome_capitol_101918sr.jpg",
+                    "origin": "The Hill",
+                    "title": "Battleground for the House is in suburban districts, says election analyst",
+                    "ts": 1540614060,
+                    "twitterid": 1056038025921101824,
+                    "url": "https://thehill.com/hilltv/rising/412895-battleground-for-the-house-is-in-suburban-districts-says-election-analyst?rnd=1540388230"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae623e",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/-mm-/4fe67b95c0c58c0c8284efdf4321fff9074f6e85/c=0-235-1080-845/local/-/media/2018/10/25/USATODAY/USATODAY/636760226135182697-trump-social-.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Midterms: Democrats have more final advertising dollars in six of the nine hottest Senate races",
+                    "ts": 1540588800,
+                    "twitterid": 1055932078351704064,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/10/26/midterms-democrats-have-more-final-advertising-dollars-most-top-senate-races/1756723002/"
+                },
+                {
+                    "_id": "5bd47da0421aa91c80458b16",
+                    "date_month": "2018-10",
+                    "image": "https://static01.nyt.com/images/2018/10/27/us/politics/28house/27house-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Republicans Rushing to Save House Seats From Onslaught of Democratic Money",
+                    "ts": 1540651373,
+                    "twitterid": 1056194530440081409,
+                    "url": "https://www.nytimes.com/2018/10/27/us/politics/house-republicans-elections.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                },
+                {
+                    "_id": "5bd39cb9421aa9032ceaad59",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/19/USAT/3b3208c7-223f-44cd-965d-c3dab23191ba-baldwin_ad.JPG?crop=1999,1125,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "Fun with campaign ads: Here are our picks for midterm standouts and why we chose them",
+                    "ts": 1540591980,
+                    "twitterid": 1055945415974096896,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/10/26/midterm-campaign-ads-2018-our-picks-standout-commercials/1616550002/"
+                },
+                {
+                    "_id": "5bd47da0421aa91c80458b19",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/09/20/694940094001_5837613362001_5837612650001-vs.jpg",
+                    "origin": "Fox News Politics",
+                    "title": "Bloomberg Donates Another $10M in Support of Democrats",
+                    "ts": 1540651209,
+                    "twitterid": 1056193842414866432,
+                    "url": "https://www.foxnews.com/politics/bloomberg-donates-another-10m-in-support-of-democrats"
+                },
+                {
+                    "_id": "5bd47da0421aa91c80458b1d",
+                    "date_month": "2018-10",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181023110224-politics-20181023-capitol-midterms-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "US midterm elections: A guide to everything you need to know",
+                    "ts": 1540650843,
+                    "twitterid": 1056192306888560640,
+                    "url": "https://www.cnn.com/2018/10/27/politics/us-midterm-election-explainer-intl-trnd/index.html?utm_term=image&utm_content=2018-10-27T14%3A34%3A02&utm_medium=social&utm_source=twCNNp"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979d1",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/HEliciu3uwedZWVQKZvPkY5l8zM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2VWTJFGZ7AI6RIIPWUKUNMIHKY.jpg",
+                    "origin": "Post Politics",
+                    "title": "Ten days from Election Day, Trump stands at the center of the storm",
+                    "ts": 1540655053,
+                    "twitterid": 1056209964153344001,
+                    "url": "https://www.washingtonpost.com/politics/nine-days-from-election-day-trump-stands-at-the-center-of-the-storm/2018/10/27/68dd885c-d96b-11e8-83a2-d1c3da28d6b6_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5bd46f90421aa91afb14e892",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/polls_voterid_110612getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Dems should take nothing for granted despite midterm lead, says pollster",
+                    "ts": 1540645260,
+                    "twitterid": 1056168888684109824,
+                    "url": "https://thehill.com/hilltv/what-americas-thinking/413013-dems-should-take-nothing-for-granted-despite-midterm-lead-says"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Bombs",
+            "Florida Feds",
+            "Bill Nelson",
+            "Trump",
+            "Who",
+            "Mailing",
+            "Robert De Niro",
+            "Kamala Harris",
+            "Steyer Suspect",
+            "Sessions",
+            "Cesar Sayoc",
+            "Debbie Wasserman Schultz",
+            "Ina Garten",
+            "Senator Kamala Harris",
+            "Dems White"
+        ],
+        "peaks": [],
+        "theme": [
+            "bombs",
+            "mailed",
+            "packages",
+            "Suspect",
+            "Trump",
+            "charged",
+            "Harris"
+        ],
+        "timestamp": "2018-10-27 15:10:28.351820-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd37289421aa97ed2714407",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/harriskamala_100518gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Suspicious packages sent to Harris, Steyer",
+                    "ts": 1540583346,
+                    "twitterid": 1055909204035362822,
+                    "url": "https://thehill.com/homenews/news/413386-suspicious-packages-sent-to-harris-steyer"
+                },
+                {
+                    "_id": "5bd37289421aa97ed271441e",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/wraychris_sessionsjeff_10262018getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Suspect charged with federal crimes in mail bombings to Dems",
+                    "ts": 1540581724,
+                    "twitterid": 1055902399590776832,
+                    "url": "https://thehill.com/policy/national-security/413376-suspect-charged-with-federal-crimes-in-mail-bombings-to-dems"
+                },
+                {
+                    "_id": "5bd39cb9421aa9032ceaad45",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/deniro_rob_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Robert De Niro calls on people to vote after mailed bombs",
+                    "ts": 1540593423,
+                    "twitterid": 1055951469466263552,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/413317-robert-de-niro-calls-on-people-to-vote-after-mailed-bombs"
+                },
+                {
+                    "_id": "5bd3aac1421aa9049f02375b",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_10262018wh_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump says those responsible for mailed explosives will face 'swift and certain justice'",
+                    "ts": 1540596660,
+                    "twitterid": 1055965046101233667,
+                    "url": "https://thehill.com/homenews/administration/413346-trump-says-those-responsible-for-bombs-will-face-swift-and-certain"
+                },
+                {
+                    "_id": "5bd380b0421aa97fdbbdaefc",
+                    "date_month": "2018-10",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/10/26/BostonGlobe.com/National/Images/bg-14ab2978-d877-11e8-83a2-d1c3da28d6b6.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Calif. Senator Kamala Harris\u2019 office says authorities investigating suspicious package mailed to her",
+                    "ts": 1540585203,
+                    "twitterid": 1055916993763860480,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/10/26/calif-senator-kamala-harris-office-says-authorities-investigating-suspicious-package-mailed-her/b9wEUGQOJr3cofECc0G1aN/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5bd37289421aa97ed271440b",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/26/USAT/99f59c70-b151-4733-bc45-3fe5a413752d-AFP_AFP_1AC3DZ.jpg?crop=2068,1159,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "Suspect in bomb mailings charged with 5 federal crimes, including illegally sending explosives, Sessions says",
+                    "ts": 1540583160,
+                    "twitterid": 1055908422091124736,
+                    "url": "https://www.usatoday.com/story/news/nation/2018/10/26/bomb-like-device-senator-corey-booker-nypd-investigating/1772380002/"
+                },
+                {
+                    "_id": "5bd37289421aa97ed2714414",
+                    "date_month": "2018-10",
+                    "image": "https://media.npr.org/assets/img/2018/10/26/gettyimages-1053883896_wide-c9311c85df932e42209986daaecde0a69a9fa052.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Feds Charge Florida Man With Mailing Improvised Bombs To Trump Political Critics",
+                    "ts": 1540582500,
+                    "twitterid": 1055905654328700929,
+                    "url": "https://www.npr.org/2018/10/26/660823141/authorities-search-miami-postal-sorting-facility-in-suspicious-packages-investig?utm_source=twitter.com&utm_medium=social&utm_campaign=politics&utm_term=nprnews&utm_content=2054"
+                },
+                {
+                    "_id": "5bd380b0421aa97fdbbdaedb",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/van_bomb_suspect_stickers.png",
+                    "origin": "The Hill",
+                    "title": "White van identified in connection with mail bombings suspect covered in pro-Trump stickers",
+                    "ts": 1540586943,
+                    "twitterid": 1055924289822777345,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/413350-white-van-belonging-to-suspect-arrested-for-mailed-bombs"
+                },
+                {
+                    "_id": "5bd41b25421aa912502ebd2b",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2015/05/07/22cb86c0-7021-4bb8-ab54-ea080848baf4/thumbnail/1200x630/fd2ed4adaa39545159779013a3b73212/455706910.jpg",
+                    "origin": "CBS News",
+                    "title": "Debbie Wasserman Schultz speaks about suspicious packages",
+                    "ts": 1540624684,
+                    "twitterid": 1056082587502952448,
+                    "url": "https://www.cbsnews.com/news/debbie-wasserman-schultz-speaks-about-suspicious-packages/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bd4112a04d301200ab5421c&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bd37289421aa97ed2714413",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/kamala.harris1.jpg",
+                    "origin": "The Hill",
+                    "title": "Kamala Harris to campaign for Bill Nelson in Florida",
+                    "ts": 1540582626,
+                    "twitterid": 1055906182202908672,
+                    "url": "https://thehill.com/homenews/campaign/413381-kamala-harris-to-join-bill-nelson-in-florida"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            15
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "White House",
+            "Khashoggi",
+            "Trump",
+            "Global",
+            "Jamal Khashoggi",
+            "Muslim",
+            "Don",
+            "Harvey Weinstein",
+            "US",
+            "Turkish",
+            "Saudi Arabia",
+            "Mattis",
+            "Saudis U.S.",
+            "Turkey",
+            "Middle East",
+            "Babson"
+        ],
+        "peaks": [],
+        "theme": [
+            "Khashoggi",
+            "Saudi",
+            "Arabia",
+            "killing",
+            "Jamal",
+            "stability",
+            "defense"
+        ],
+        "timestamp": "2018-10-27 15:10:28.757564-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd3ff12421aa90e54460dfb",
+                    "date_month": "2018-10",
+                    "image": "https://apnews.com/images/ShareLogo.png",
+                    "origin": "AP Politics",
+                    "title": "US defense chief: killing of writer is threat to stability",
+                    "ts": 1540619375,
+                    "twitterid": 1056060320584740866,
+                    "url": "https://apnews.com/d4452df8eb864717bf5637eb0aebe957?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5bd46f90421aa91afb14e88e",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/khashoggijamal2_101018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Suspects in Khashoggi killing will be prosecuted in Saudi Arabia, Saudi government says",
+                    "ts": 1540645747,
+                    "twitterid": 1056170930567892992,
+                    "url": "https://thehill.com/policy/international/413454-suspects-in-khashoggi-killing-will-be-prosecuted-in-saudi-arabia-saudi"
+                },
+                {
+                    "_id": "5bd38eae421aa90208ae6231",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/03/49d12b82-05f0-4448-a3aa-749ea24afa84/thumbnail/1200x630g2/5cdea15789d8dae76990e2f670ff149c/missing-writer-ap-18276106163271.jpg",
+                    "origin": "CBS News",
+                    "title": "Turkey seeks extradition of Saudi suspects in Jamal Khashoggi killing",
+                    "ts": 1540589675,
+                    "twitterid": 1055935748845772800,
+                    "url": "https://www.cbsnews.com/news/jamal-khashoggi-turkey-seeks-extradition-suspects-killing-saudi-arabia/?ftag=CNM-00-10aab7e&linkId=58779164"
+                },
+                {
+                    "_id": "5bd4536c421aa9147faf0695",
+                    "date_month": "2018-10",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/10/23/a9fc25ac-7d97-4289-a62c-84b13394ed0e/thumbnail/1200x630/98c3d6cf7109b16cf04a014fbf4c3d83/2018-10-23t162129z-1514716383-rc1a5ee3edd0-rtrmadp-3-saudi-investment.jpg",
+                    "origin": "CBS News",
+                    "title": "U.S. defense companies dodge flak on Saudi Arabia weapons sales",
+                    "ts": 1540638183,
+                    "twitterid": 1056139205544427520,
+                    "url": "https://www.cbsnews.com/news/u-s-defense-conractors-lockeed-raytheon-boeing-general-dynamics-northrop-comment-on-saudi-arabia-weapons-sales/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5bd445e504d3017120c7b84a&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5bd499d4421aa91e88267020",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/saudiarabia_binsalman_03202018.jpg",
+                    "origin": "The Hill",
+                    "title": "Khashoggi murder requires real response to Saudi Arabia policy",
+                    "ts": 1540658225,
+                    "twitterid": 1056223268955480064,
+                    "url": "https://thehill.com/opinion/international/413455-khashoggi-murder-requires-real-response-to-saudi-arabia-policy"
+                },
+                {
+                    "_id": "5bd40d15421aa911f8f884dc",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/WxG5rnHLL7V9xaIU9bz5jrdhkgE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CKZHUJWZWMI6RIIPWUKUNMIHKY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Mattis condemns Khashoggi killing, warns such behavior threatens Middle East stability",
+                    "ts": 1540621328,
+                    "twitterid": 1056068510504419329,
+                    "url": "https://www.washingtonpost.com/world/mattis-condemns-khashoggi-killing-warns-such-violations-threaten-middle-east-stability/2018/10/27/c79c82da-d998-11e8-a10f-b51546b10756_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5bd4617c421aa9193c412a03",
+                    "date_month": "2018-10",
+                    "image": "https://amp.businessinsider.com/images/5bcf8694d2e6483f56304fa4-960-480.jpg",
+                    "origin": "Politics Insider",
+                    "title": "How the Saudi government's story on slain journalist Jamal Khashoggi has shifted over time",
+                    "ts": 1540643164,
+                    "twitterid": 1056160095812366337,
+                    "url": "https://www.businessinsider.com/jamal-khashoggi-killing-a-timeline-of-the-saudis-shifting-story-2018-10"
+                },
+                {
+                    "_id": "5bd4b5e0421aa920b0ce6559",
+                    "date_month": "2018-10",
+                    "image": "https://images.newrepublic.com/18b10960bff2b6bb2f8772f8e3fd47f1740d8f1d.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Don\u2019t Count on Republicans to Punish Saudi Arabia",
+                    "ts": 1540666804,
+                    "twitterid": 1056259251260268544,
+                    "url": "https://newrepublic.com/article/151840/dont-count-republicans-punish-saudi-arabia"
+                },
+                {
+                    "_id": "5bd3b8d3421aa905f99ee3ec",
+                    "date_month": "2018-10",
+                    "image": "https://www.gannett-cdn.com/presto/2018/10/26/USAT/04a91a37-d7dc-43bc-ad25-e4879c68910f-AP_Turkey_Saudi_Arabia_Writer_Killed.jpg?crop=2779,1563,x45,y79&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Turkish president to Saudis on Jamal Khashoggi: 'You have to show us his body'",
+                    "ts": 1540599601,
+                    "twitterid": 1055977380395868161,
+                    "url": "https://www.usatoday.com/story/news/world/2018/10/26/turkish-president-tayyip-erdogan-asks-saudis-jamal-khashoggis-body/1776691002/"
+                },
+                {
+                    "_id": "5bd43748421aa913219d5281",
+                    "date_month": "2018-10",
+                    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ContentBroker_contentid-33fcd736ee414507a33b4940195067d6.png",
+                    "origin": "Fox News",
+                    "title": "Mattis says Khashoggi's brutal slaying 'undermines regional stability,' doesn't directly blame Saudis",
+                    "ts": 1540633861,
+                    "twitterid": 1056121076751589378,
+                    "url": "https://www.foxnews.com/politics/mattis-says-khashoggis-brutal-slaying-undermines-regional-stability-doesnt-directly-blame-saudis"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            20
+        ],
+        "months": [
+            "2018-10"
+        ],
+        "ne": [
+            "Florida",
+            "Acosta",
+            "Trump",
+            "Twitter Jeff Sessions",
+            "Explosives",
+            "FBI",
+            "Wray",
+            "Biden",
+            "US",
+            "Cesar Sayoc",
+            "Crowd",
+            "Fingerprint",
+            "CNN",
+            "Steyer",
+            "Letter Bombs",
+            "Sean Hannity"
+        ],
+        "peaks": [],
+        "theme": [
+            "bombs",
+            "suspect",
+            "mail",
+            "arrested",
+            "CNN",
+            "Trump",
+            "calls"
+        ],
+        "timestamp": "2018-10-27 15:10:29.122289-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5bd38eae421aa90208ae6239",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/cnn_122117gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "CNN digs up footage of mail bomb suspect at Trump rally in 2017",
+                    "ts": 1540589104,
+                    "twitterid": 1055933354267340802,
+                    "url": "https://thehill.com/homenews/media/413415-cnn-digs-up-footage-of-mail-bomber-suspect-at-trump-rally-in-2017"
+                },
+                {
+                    "_id": "5bd48bc2421aa91dab1979ca",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonaldtwo_10262018wh_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Crowd chants 'fake news,' 'CNN sucks' amid Trump calls for unity",
+                    "ts": 1540655583,
+                    "twitterid": 1056212186287218688,
+                    "url": "https://thehill.com/homenews/administration/413357-crowd-chants-fake-news-cnn-sucks-amid-trump-calls-for-unity"
+                },
+                {
+                    "_id": "5bd3aac1421aa9049f023747",
+                    "date_month": "2018-10",
+                    "image": "https://www.washingtonpost.com/resizer/sSi9w_btemV1jrINZX_DYMgMrKk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SYWPKCWXVUI6RA4EXTCUSL7PJE.jpg",
+                    "origin": "Post Politics",
+                    "title": "Man in Florida arrested, charged in connection with mail bombs sent to public figures",
+                    "ts": 1540597943,
+                    "twitterid": 1055970429117104128,
+                    "url": "https://www.washingtonpost.com/nation/2018/10/26/suspected-explosive-devices-addressed-cory-booker-james-clapper-probe-expands-packages/"
+                },
+                {
+                    "_id": "5bd4536c421aa9147faf0675",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/sayoccesar_twitter_102618.jpg",
+                    "origin": "The Hill",
+                    "title": "Single fingerprint, misspellings pointed FBI to mail bombs suspect",
+                    "ts": 1540641426,
+                    "twitterid": 1056152806824898562,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/413450-single-fingerprint-misspellings-pointed-fbi-to-mail-bombings"
+                },
+                {
+                    "_id": "5bd3c6d7421aa9077c11e259",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/trumpdonaldncrally_102618screenshot.png",
+                    "origin": "The Hill",
+                    "title": "Lawyer for mail bomb suspect\u2019s family: 'He found a father in Trump'",
+                    "ts": 1540604943,
+                    "twitterid": 1055999785759633408,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/413446-lawyer-for-mail-bomb-suspects-family-he-found-a-father-in-trump"
+                },
+                {
+                    "_id": "5bd380b0421aa97fdbbdaeed",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/blogs/hannitysean_getty012314_1.jpg",
+                    "origin": "The Hill",
+                    "title": "Sean Hannity defends his attacks on CNN after mail bombing suspect identified",
+                    "ts": 1540586046,
+                    "twitterid": 1055920529612439553,
+                    "url": "https://thehill.com/homenews/media/413407-sean-hannity-defends-his-attacks-on-cnn-after-mail-bombing-suspect-identified"
+                },
+                {
+                    "_id": "5bd37289421aa97ed2714425",
+                    "date_month": "2018-10",
+                    "image": "https://media2.foxnews.com/BrightCove/694940094001/2018/10/26/694940094001_5853924093001_5853923944001-vs.jpg",
+                    "origin": "Fox News",
+                    "title": "Suspect arrested in Florida in connection with suspicious packages sent to Democrats",
+                    "ts": 1540581183,
+                    "twitterid": 1055900130732371969,
+                    "url": "https://www.foxnews.com/us/suspect-arrested-in-florida-in-connection-with-suspicious-packages-sent-to-democrats"
+                },
+                {
+                    "_id": "5bd380b0421aa97fdbbdaf02",
+                    "date_month": "2018-10",
+                    "image": "https://images.wsj.net/im-33084/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Suspect in Letter Bombs: A History of Arrests and a Prior Bomb Threat",
+                    "ts": 1540584908,
+                    "twitterid": 1055915755903029248,
+                    "url": "https://www.wsj.com/articles/suspect-in-letter-bombs-a-history-of-arrests-and-a-prior-bomb-threat-1540572060?mod=e2tw"
+                },
+                {
+                    "_id": "5bd37289421aa97ed2714420",
+                    "date_month": "2018-10",
+                    "image": "https://thehill.com/sites/default/files/sessionsjeff_wraychristopher1026.jpg",
+                    "origin": "The Hill",
+                    "title": "READ: Full criminal complaint against suspect charged in mail bombings",
+                    "ts": 1540581543,
+                    "twitterid": 1055901640681811969,
+                    "url": "https://thehill.com/policy/national-security/413382-read-full-criminal-complaint-against-suspect-charged-in-mail"
+                },
+                {
+                    "_id": "5bd380b0421aa97fdbbdaee9",
+                    "date_month": "2018-10",
+                    "image": "https://media4.s-nbcnews.com/j/MSNBC/Components/Video/201810/nbc_spec_sessions_181026_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Sessions: Mail bombing suspect faces up to 58-years in prison",
+                    "ts": 1540586283,
+                    "twitterid": 1055921521573720066,
+                    "url": "https://www.nbcnews.com/video/sessions-mail-bombing-suspect-faces-up-to-58-years-in-prison-1354071619866?v=railb&cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    }
+]

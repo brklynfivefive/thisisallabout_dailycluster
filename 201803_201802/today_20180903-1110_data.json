@@ -1,0 +1,2222 @@
+[
+    {
+        "list": [
+            13
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Eastern Germany",
+            "Damage Hundreds",
+            "Libyan",
+            "Costa Rica",
+            "Nicaragua",
+            "Germany Germany",
+            "Islam",
+            "New Theory",
+            "Mediterranean",
+            "Heiko Maas",
+            "Timothy Snyder",
+            "Hitler",
+            "Fight"
+        ],
+        "peaks": [],
+        "theme": [
+            "Germany",
+            "right",
+            "far",
+            "across",
+            "agency",
+            "anti",
+            "capital"
+        ],
+        "timestamp": "2018-09-03 11:10:17.474186-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8c79b9421aa91d060320ac",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/International/germany-protest-3380-abc-jt-180901_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Right-wing protests fueled by anti-immigrant sentiment continue in Germany",
+                    "ts": 1535931446,
+                    "twitterid": 1036397718250381313,
+                    "url": "https://abcnews.go.com/International/wing-protests-fueled-anti-immigrant-sentiment-continue-germany/story?id=57545743&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b8c87cf421aa91d8b215289",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/02/gettyimages-1025856538_wide-d32ea815e13991eef9af926d1f4d335dc6ea32f2.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Reporter's Notebook: In Eastern Germany, The Far-Right Has Found A Foothold",
+                    "ts": 1535935011,
+                    "twitterid": 1036412673628557312,
+                    "url": "https://www.npr.org/2018/09/02/644193984/reporters-notebook-in-eastern-germany-the-far-right-has-found-a-foothold?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180902"
+                },
+                {
+                    "_id": "5b8c79b9421aa91d060320b5",
+                    "date_month": "2018-09",
+                    "image": "https://www.politico.eu/wp-content/uploads/2018/09/GettyImages-1025255882.jpg",
+                    "origin": "POLITICO",
+                    "title": "Germany\u2019s Heiko Maas: \u2018Get up off the sofa and speak up\u2019 against far right",
+                    "ts": 1535931002,
+                    "twitterid": 1036395858999300098,
+                    "url": "https://www.politico.eu/article/chemnitz-germany-heiko-maas-get-up-off-the-sofa-and-speak-up-against-far-right/"
+                },
+                {
+                    "_id": "5b8d23c1421aa92c6a830d52",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/03/united_nations_deadly_crossings_28782_s2048x1390.jpg?cdbefe5454cbab0d7bf05e0f2ee1d01fb889a302",
+                    "origin": "The Washington Times",
+                    "title": "U.N. agency: Trips across Mediterranean fall, but risks rise",
+                    "ts": 1535974781,
+                    "twitterid": 1036579478451965952,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/3/un-agency-trips-across-mediterranean-fall-risks-ri/"
+                },
+                {
+                    "_id": "5b8d4cbc421aa92e94952ca3",
+                    "date_month": "2018-09",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/06/RTX68IRC-1024x651.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "UN agency: Trips across Mediterranean fall, but risks rise",
+                    "ts": 1535985600,
+                    "twitterid": 1036624858153713664,
+                    "url": "https://www.pbs.org/newshour/world/un-agency-trips-across-mediterranean-fall-but-risks-rise"
+                },
+                {
+                    "_id": "5b8d23c1421aa92c6a830d5c",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/01/germany_far_right_36938_s2048x1405.jpg?222969e02b964b9f02b80fae59a124ca42a2a830",
+                    "origin": "The Washington Times",
+                    "title": "Thousands expected to German concert against far right",
+                    "ts": 1535974169,
+                    "twitterid": 1036576913341468672,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/3/thousands-expected-to-german-concert-against-far-r/"
+                },
+                {
+                    "_id": "5b8c87cf421aa91d8b21528e",
+                    "date_month": "2018-09",
+                    "image": "https://www.politico.eu/wp-content/uploads/2018/09/GettyImages-1026074256-1200x628.jpg",
+                    "origin": "POLITICO",
+                    "title": "Germany\u2019s Islam problem",
+                    "ts": 1535934606,
+                    "twitterid": 1036410973920407552,
+                    "url": "https://www.politico.eu/article/germany-islam-chemnitz-far-right-demonstration/"
+                },
+                {
+                    "_id": "5b8d064f421aa929256056a2",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/03/7b81b82f-1354-40e4-b048-b6484e4cb261/thumbnail/1200x630/d108c0d205bd330689f34c6f88a0b32b/tripoli-libya-clashes-1025296678.jpg",
+                    "origin": "CBS News",
+                    "title": "Hundreds of prisoners escape amid chaos in Libyan capital",
+                    "ts": 1535967966,
+                    "twitterid": 1036550896715481089,
+                    "url": "https://www.cbsnews.com/news/libya-prison-escape-tripoli-clashes-rival-factions-around-ain-zara-prison/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b8d02da04d30178db10d3d8&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b8cc001421aa921b8aa299b",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/09/02/hundreds-prisoners-escape-libyan-prison-as-violence-worsens-in-capital/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1535944929162.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Hundreds of prisoners escape Libyan prison as violence worsens in capital",
+                    "ts": 1535948580,
+                    "twitterid": 1036469585179025411,
+                    "url": "http://www.foxnews.com/world/2018/09/02/hundreds-prisoners-escape-libyan-prison-as-violence-worsens-in-capital.html"
+                },
+                {
+                    "_id": "5b8d145e421aa92ae21eca96",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2015/09/Bundesarchiv_Bild_102_10541_Weimar_Aufmarsch_der_Nationalsozialisten-1/facebook.jpg?1522838842",
+                    "origin": "The Atlantic",
+                    "title": "Timothy Snyder's 'Black Earth' Offers a New Theory of Hitler's Anti-Semitism",
+                    "ts": 1535972406,
+                    "twitterid": 1036569519668510720,
+                    "url": "https://www.theatlantic.com/international/archive/2015/09/hitler-holocaust-antisemitism-timothy-snyder/404260/?utm_campaign=the-atlantic&utm_content=5b8d143504d30132f0b2e1c1_ta&utm_medium=social&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            11
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Bold Dreaminess",
+            "Unknown",
+            "Paradise Lost Buzz Aldrin",
+            "Neil Armstrong",
+            "Charlie Rose",
+            "NBC News",
+            "Northeastern",
+            "CBS News",
+            "MeToo",
+            "Anthony Bourdain",
+            "US",
+            "Avital Ronell",
+            "American",
+            "Asia Argento",
+            "Garagnani",
+            "CNN",
+            "Weinstein",
+            "Italian"
+        ],
+        "peaks": [],
+        "theme": [
+            "American",
+            "Argento",
+            "Asia",
+            "First",
+            "Man",
+            "news",
+            "Weinstein"
+        ],
+        "timestamp": "2018-09-03 11:10:17.756325-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8d3e99421aa92d9b701902",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/oIQEHuAb1-TAglxQZWeTsdo1S7Y=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D6HRRYKNVM7TVHPLCCNHO3P6KI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Why Neil Armstrong\u2019s sons don\u2019t think the biopic \u2018First Man\u2019 is anti-American",
+                    "ts": 1535980644,
+                    "twitterid": 1036604069861842944,
+                    "url": "https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/09/02/why-neil-armstrongs-sons-dont-think-the-biopic-first-man-is-anti-american/?utm_term=.4efbbf96f1fc&tid=sm_tw&tid=sm_tw"
+                },
+                {
+                    "_id": "5b8cdc15421aa923316fd597",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/31/0/0/694940094001_5829304669001_5829300351001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Buzz Aldrin slams 'First Man' movie controversy, posts photos of US flag on moon with 'Proud to be American' hashtag",
+                    "ts": 1535955780,
+                    "twitterid": 1036499783584817153,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/03/buzz-aldrin-slams-first-man-movie-controversy-posts-photos-us-flag-on-moon-with-proud-to-be-american-hashtag.html"
+                },
+                {
+                    "_id": "5b8c79b9421aa91d060320a0",
+                    "date_month": "2018-09",
+                    "image": "https://images.newrepublic.com/563c96603e50d8f712a2aeec83c7e38e99ad8b9f.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Asia Argento, Avital Ronell, and the Integrity of #MeToo",
+                    "ts": 1535932802,
+                    "twitterid": 1036403407177834497,
+                    "url": "https://newrepublic.com/article/150791/asia-argento-avital-ronell-integrity-metoo"
+                },
+                {
+                    "_id": "5b8c87cf421aa91d8b215298",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/20/0/0/694940094001_5824438636001_5824424435001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "CNN pulls Asia Argento's episodes of Anthony Bourdain's 'Parts Unknown'",
+                    "ts": 1535934121,
+                    "twitterid": 1036408940035076096,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/02/cnn-pulls-asia-argentos-episodes-anthony-bourdains-parts-unknown.html"
+                },
+                {
+                    "_id": "5b8d4cbc421aa92e94952ca8",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/29/sexual_misconduc_harvey_weinstein_54849_s2048x1530.jpg?b6a29f6e138b11b13e4451d257ac58dcb6363c8a",
+                    "origin": "The Washington Times",
+                    "title": "Wait... NBC News wouldn't run Weinstein story because his accusers wouldn't go on the record?",
+                    "ts": 1535985023,
+                    "twitterid": 1036622440246505473,
+                    "url": "https://www.washingtontimes.com/news/2018/aug/31/wait-nbc-news-wouldnt-run-weinstein-story-because-/"
+                },
+                {
+                    "_id": "5b8c6b9a421aa91b7432a7da",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/05/06/0/0/694940094001_5781017986001_5781019251001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "CBS News wants out of Charlie Rose sexual harassment lawsuit",
+                    "ts": 1535925634,
+                    "twitterid": 1036373341828014088,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/02/cbs-news-wants-out-charlie-rose-sexual-harassment-lawsuit.html"
+                },
+                {
+                    "_id": "5b8d3e99421aa92d9b7018ff",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/09/03/italian-director-garagnani-dons-weinstein-is-innocent-t-shirt-on-red-carpet/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1535973813931.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Italian director Garagnani dons 'Weinstein is innocent' t-shirt on red carpet",
+                    "ts": 1535980800,
+                    "twitterid": 1036604725464948736,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/03/italian-director-garagnani-dons-weinstein-is-innocent-t-shirt-on-red-carpet.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            61
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Crossword",
+            "Service Violation Israel",
+            "People Left Behind",
+            "Richard Trumka",
+            "Poor U.S",
+            "U.S.-Canada Trade Feud",
+            "US",
+            "Human Rights Watch",
+            "Brexit",
+            "Voters Focus",
+            "Trump Bid",
+            "Parents",
+            "Charles Calhoun Texas",
+            "Brazil",
+            "Conservative Party",
+            "Security Check Required Trump",
+            "Anxiety",
+            "Labor",
+            "NAFTA",
+            "Theresa May",
+            "Socialist America Look Like",
+            "Palestinian",
+            "Pentagon",
+            "New Push",
+            "National Museum",
+            "Ecuador",
+            "Japanese",
+            "Economy",
+            "Pakistan Paul",
+            "Credit History",
+            "Weekly",
+            "Freezes Military Aid",
+            "North Korea",
+            "Midterms Richard Trumka",
+            "Donald Trump",
+            "Curb Unions",
+            "Netanyahu",
+            "GOP Senate",
+            "Janeiro Rio",
+            "Brazil Saudi",
+            "Brazilian",
+            "British PM",
+            "American",
+            "White Sox",
+            "Health Care",
+            "CIA",
+            "Citing Inadequate Action",
+            "Yemen"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Labor",
+            "Day",
+            "saying",
+            "museum",
+            "aid",
+            "Working"
+        ],
+        "timestamp": "2018-09-03 11:10:18.542547-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8d3086421aa92cf2cabd6e",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/03/BostonGlobe.com/National/Images/4401e0f4cc034f9ea211e5ff78b2ec02-5a489df0bd7449969415dd033a5a8f49-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trump attacks union leader on Labor Day",
+                    "ts": 1535978259,
+                    "twitterid": 1036594068502048769,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/09/03/trump-attacks-union-leader-labor-day/FcTXzeLLYg6y3jZjxaK3YL/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b8cb1f0421aa92113f829a4",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/c3/88/86d5e9e34caba4e8af4904e94edc/180902-trumka-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Labor leader hits Trump over lack of support for working class",
+                    "ts": 1535945412,
+                    "twitterid": 1036456298047569921,
+                    "url": "https://www.politico.com/story/2018/09/02/trumka-trump-union-labor-day-806115"
+                },
+                {
+                    "_id": "5b8d4cbc421aa92e94952c9c",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/31/USAT/5a34647e-ee1b-4699-ac9b-55348e77bcb7-AP_Trump.JPG?crop=3968,2232,x349,y138&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "President Donald Trump goes after AFL-CIO head Richard Trumka on Labor Day",
+                    "ts": 1535985700,
+                    "twitterid": 1036625276078354433,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/09/03/president-trump-goes-after-afl-cio-head-richard-trumka-labor-day/1184464002/"
+                },
+                {
+                    "_id": "5b8d4cbc421aa92e94952caa",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/01/0/0/694940094001_5829739372001_5829746687001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump blasts AFL-CIO boss and touts rebounding economy in series of Labor Day tweets",
+                    "ts": 1535985000,
+                    "twitterid": 1036622342955454464,
+                    "url": "http://www.foxnews.com/politics/2018/09/03/trump-blasts-afl-cio-boss-and-touts-rebounding-economy-in-series-labor-day-tweets.html"
+                },
+                {
+                    "_id": "5b8d4cbc421aa92e94952c92",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2017/01/24/BostonGlobe.com/Lifestyle/Images/AP67137547.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Labor Day 2038: Will you have a job or be replaced by a robot?",
+                    "ts": 1535986506,
+                    "twitterid": 1036628656725143553,
+                    "url": "https://www.bostonglobe.com/opinion/editorials/2018/09/02/labor-day-will-you-have-job-replaced-robot/RihCnvtRMgwHkmFVZqaPgK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b8d3086421aa92cf2cabd78",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/blogs/welder_welding_505901200.jpg",
+                    "origin": "The Hill",
+                    "title": "Labor Day: Women are the key to next generation workforce development",
+                    "ts": 1535977505,
+                    "twitterid": 1036590906693091328,
+                    "url": "http://thehill.com/blogs/congress-blog/economy-budget/404792-labor-day-women-are-the-key-to-next-generation-workforce"
+                },
+                {
+                    "_id": "5b8d4cbc421aa92e94952cb4",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/autoworkers2_1.jpg",
+                    "origin": "The Hill",
+                    "title": "Something to celebrate this Labor Day: The state of American jobs and workers",
+                    "ts": 1535984224,
+                    "twitterid": 1036619089169539077,
+                    "url": "http://thehill.com/opinion/campaign/404712-something-to-celebrate-this-labor-day-the-state-of-american-jobs-and-workers"
+                },
+                {
+                    "_id": "5b8d23c1421aa92c6a830d53",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/article_images/trumpnetanyahu_052217getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Netanyahu asked Trump administration to cut aid to Palestinian refugee program: report",
+                    "ts": 1535974623,
+                    "twitterid": 1036578816888594434,
+                    "url": "http://thehill.com/policy/international/404796-netanyahu-asked-trump-admin-to-halt-funding-or-un-palestinian-refugee"
+                },
+                {
+                    "_id": "5b8d3086421aa92cf2cabd7e",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/opinion/2018/09/02/why-labor-day-has-lot-more-to-do-with-faithfulness-and-holiness-than-might-think/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1535833736781.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Why Labor Day has a lot more to do with faithfulness and holiness than you might think",
+                    "ts": 1535977200,
+                    "twitterid": 1036589625555316736,
+                    "url": "http://www.foxnews.com/opinion/2018/09/02/why-labor-day-has-lot-more-to-do-with-faithfulness-and-holiness-than-might-think.html"
+                },
+                {
+                    "_id": "5b8c2551421aa91932ab252d",
+                    "date_month": "2018-09",
+                    "image": "https://www.apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP Politics",
+                    "title": "Pentagon decides not to release $300M in aid to Pakistan",
+                    "ts": 1535908665,
+                    "twitterid": 1036302169937506305,
+                    "url": "https://www.apnews.com/5e6b4156aac64e678e3fe03a59c6b870?utm_source=Twitter&utm_medium=AP_Politics&utm_campaign=SocialFlow"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            46
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "George",
+            "Annapolis",
+            "America",
+            "Graham",
+            "Barack Obama",
+            "Ivanka Trump",
+            "White House",
+            "Meghan McCain",
+            "Vietnam",
+            "Naval Academy",
+            "America James Inhofe",
+            "McCain Bush",
+            "Naval Academy John",
+            "Annapolis John",
+            "Annapolis Meghan",
+            "Christie",
+            "Moment",
+            "Trump Biographer",
+            "Private Ceremony",
+            "Evan Siegfried John",
+            "Funeral Problem",
+            "Week",
+            "Washington",
+            "Naval Academy Cemetery",
+            "Family",
+            "Naval Academy Graham",
+            "McCain Donald Trump",
+            "POW",
+            "McCain",
+            "McCain Kerry",
+            "John",
+            "Michelle Obama",
+            "McCain Laid",
+            "Franklin",
+            "American",
+            "Trump",
+            "Rest",
+            "John McCain"
+        ],
+        "peaks": [],
+        "theme": [
+            "McCain",
+            "John",
+            "Trump",
+            "Academy",
+            "Naval",
+            "funerals",
+            "burial"
+        ],
+        "timestamp": "2018-09-03 11:10:19.273961-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8c336c421aa9199fd56bc9",
+                    "date_month": "2018-09",
+                    "image": "http://www.latimes.com/resizer/J9AVyA-hE6NtiTssLvHgeYC8sAE=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/CX5NXOTEGBEWLP22XKNMDQTUXA.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Private service for Sen. John McCain precedes burial at Naval Academy",
+                    "ts": 1535912524,
+                    "twitterid": 1036318356402364416,
+                    "url": "https://www.latimes.com/nation/la-na-mccain-service-burial-20180902-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b8c336c421aa9199fd56bd9",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201809/n_msnbc_brk_mccain_180902_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Sen. John McCain's casket arrives at Naval Academy Cemetery for burial",
+                    "ts": 1535911507,
+                    "twitterid": 1036314091504193536,
+                    "url": "https://www.msnbc.com/msnbc/watch/sen-john-mccain-s-casket-arrives-at-naval-academy-cemetery-for-burial-1311622211619?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b8c336c421aa9199fd56baf",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:d276de5e76a948cea3db0451a83e9c36/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Private service for McCain before burial at Naval Academy",
+                    "ts": 1535914391,
+                    "twitterid": 1036326186983583749,
+                    "url": "https://www.apnews.com/c6dccad7ab3348648cce7b9d36268c90?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5b8c093a421aa9186b8627c6",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_35/2552771/180902-john-mccain-casket-al-1000_b1f69be6e1aa4124c128eaaf62adbfb7.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "McCain ends 81-year journey with burial at Naval Academy",
+                    "ts": 1535902031,
+                    "twitterid": 1036274345755246595,
+                    "url": "https://www.nbcnews.com/news/us-news/mccain-ends-81-year-journey-burial-naval-academy-n905801?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b8c5d96421aa91b0cb8819e",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/02/0/0/694940094001_5829992014001_5829993308001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "John McCain buried at Naval Academy next to lifelong friend",
+                    "ts": 1535925255,
+                    "twitterid": 1036371752375525378,
+                    "url": "http://www.foxnews.com/politics/2018/09/02/john-mccain-buried-at-naval-academy-next-to-lifelong-friend.html"
+                },
+                {
+                    "_id": "5b8cea29421aa923a5ddcd73",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/09/03/BostonGlobe.com/National/Images/1026295502.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "John McCain buried at Naval Academy alongside a longtime friend",
+                    "ts": 1535958661,
+                    "twitterid": 1036511869966667776,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/09/02/private-service-for-john-mccain-before-burial-naval-academy/XT0KkX85c0XN6kRuWGiz9N/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b8c336c421aa9199fd56bac",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-24559/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Sen. John McCain Laid to Rest in Private Ceremony at U.S. Naval Academy",
+                    "ts": 1535914804,
+                    "twitterid": 1036327918568398850,
+                    "url": "https://www.wsj.com/articles/private-burial-service-concludes-week-of-mccain-tributes-1535912889?mod=e2tw"
+                },
+                {
+                    "_id": "5b8c4177421aa91a4c6dde59",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/02/mccain_87309_s2048x1149.jpg?7d5faea065bf66bc5e1be2db5a8b7484d1e80aed",
+                    "origin": "The Washington Times",
+                    "title": "John McCain laid to rest Sunday at U.S. Naval Academy in Annapolis, Md.",
+                    "ts": 1535916444,
+                    "twitterid": 1036334796526501889,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/2/john-mccain-laid-to-rest-sunday-at-us-naval-academ/"
+                },
+                {
+                    "_id": "5b8cc001421aa921b8aa299e",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/03/ef732668-c8bd-45e0-8783-253f983d26f3/thumbnail/1200x630/da65d4deca922179d382eec2c8bc2746/180902-twitter-us-navy-mccain-laid-to-rest-01.png",
+                    "origin": "CBS News",
+                    "title": "A hero's final farewell: John McCain laid to rest at U.S. Naval Academy",
+                    "ts": 1535948285,
+                    "twitterid": 1036468346500382723,
+                    "url": "https://www.cbsnews.com/news/john-mccain-burial-mccain-ends-81-year-journey-with-burial-at-naval-academy-today-2018-09-02/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b8cb5fa04d30142680c7320&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b8c4177421aa91a4c6dde5c",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/09/02/trump-issues-4-word-reply-after-criticism-at-mccain-franklin-funerals/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1535865982127.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump issues 4-word reply after criticism at McCain, Franklin funerals",
+                    "ts": 1535916058,
+                    "twitterid": 1036333179282616320,
+                    "url": "http://www.foxnews.com/politics/2018/09/02/trump-issues-4-word-reply-after-criticism-at-mccain-franklin-funerals.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            51
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Teen",
+            "Aly Raisman",
+            "Earth",
+            "Ferrari",
+            "Hampton",
+            "Circles",
+            "Nevada",
+            "US",
+            "LSAT Logic",
+            "Bill",
+            "Afghan War Plan",
+            "PHOTOS",
+            "Abortion Doctor Want",
+            "Malaysian Muslim",
+            "Italian Grand Prix Democrats",
+            "FBI",
+            "Exercise Pills Study Shows",
+            "Campus Sexual Assaults California",
+            "American South",
+            "Larry Nassar",
+            "Mississippi",
+            "Florida",
+            "Afghanistan Alligator",
+            "Oregon",
+            "ISIS",
+            "Smart Amid",
+            "Virginia",
+            "Done That",
+            "Kentucky",
+            "Woman",
+            "Climate Change",
+            "Schools May Increase Rates",
+            "Hindu",
+            "Afghanistan Push",
+            "Uncertain Moment",
+            "Spy Agencies Are Pessimistic Watch",
+            "Asia",
+            "McCain",
+            "Hotel",
+            "Lewis Hamilton",
+            "Legionella",
+            "Mike Pence",
+            "Italian Grand",
+            "Alabama",
+            "Muslim",
+            "Senegal Who",
+            "House",
+            "Time",
+            "Melinda Gates",
+            "Lord New Rules Would Boost Rights",
+            "New Yorker Subscription How",
+            "RNAi",
+            "Trump",
+            "U.S.",
+            "Schools Are"
+        ],
+        "peaks": [],
+        "theme": [
+            "Schools",
+            "Students",
+            "Afghanistan",
+            "Change",
+            "health",
+            "help",
+            "leader"
+        ],
+        "timestamp": "2018-09-03 11:10:20.307502-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8cf842421aa925d91a2ffc",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/09/01/california-votes-to-bar-schools-from-starting-before-8-30am-to-help-give-students-more-sleep/_jcr_content/par/inline_spotlight_ima/image.img.jpg/0/0/1535799165458.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "California votes to bar schools from starting before 8:30am to help give students more sleep",
+                    "ts": 1535965059,
+                    "twitterid": 1036538704150581248,
+                    "url": "http://www.foxnews.com/us/2018/09/01/california-votes-to-bar-schools-from-starting-before-8-30am-to-help-give-students-more-sleep.html"
+                },
+                {
+                    "_id": "5b8c5d96421aa91b0cb881b9",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170710153317-iraq-forces-isis-flag-mosul-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "US confirms death of ISIS leader in Afghanistan",
+                    "ts": 1535922366,
+                    "twitterid": 1036359634335019010,
+                    "url": "https://www.cnn.com/2018/09/02/politics/isis-leader-killed-afghanistan/index.html?utm_source=twCNNp&utm_term=image&utm_medium=social&utm_content=2018-09-02T21%3A06%3A04"
+                },
+                {
+                    "_id": "5b8c87cf421aa91d8b215295",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/afghanistan_american_flags.jpg",
+                    "origin": "The Hill",
+                    "title": "US announces death of ISIS leader in Afghanistan",
+                    "ts": 1535934304,
+                    "twitterid": 1036409708943499264,
+                    "url": "http://thehill.com/policy/defense/404789-us-announces-death-of-isis-leader-in-afghanistan"
+                },
+                {
+                    "_id": "5b8c173c421aa918d64d4539",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/article_images/bikramyoga10082015getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Hindu leader calls on Alabama governor to end state\u2019s ban on yoga in public schools",
+                    "ts": 1535905983,
+                    "twitterid": 1036290921569157121,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/404764-hindu-leader-calls-on-alabama-governor-to-end-states-ban-on"
+                },
+                {
+                    "_id": "5b8c79b9421aa91d060320b4",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2017/06/AP_582197107793/facebook.jpg?1522774890",
+                    "origin": "The Atlantic",
+                    "title": "The American South Will Bear the Worst of Climate Change\u2019s Costs",
+                    "ts": 1535931007,
+                    "twitterid": 1036395878276313088,
+                    "url": "https://www.theatlantic.com/science/archive/2017/06/global-warming-american-south/532200/?utm_campaign=the-atlantic&utm_content=5b8c727d04d3014c39586bbd_ta&utm_medium=social&utm_source=twitter"
+                },
+                {
+                    "_id": "5b8c6b9a421aa91b7432a7ca",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/o2O-FOmlZ0Jjp3oUJMG91DWobMM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NWNR5OVOVAI6RIQLL5HYIQUWMY.jpg",
+                    "origin": "Washington Post",
+                    "title": "U.S. military command changes hands in Afghanistan",
+                    "ts": 1535927984,
+                    "twitterid": 1036383200199761920,
+                    "url": "https://www.washingtonpost.com/world/us-military-command-changes-hands-in-afghanistan/2018/09/02/3bb73b42-ae29-11e8-8a0c-70b618c98d3c_story.html?utm_term=.8b55a67f2dd1&tid=sm_tw"
+                },
+                {
+                    "_id": "5b8c093a421aa9186b8627c8",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/31/BostonGlobe.com/Ideas/Images/horzkondrich.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "The abortion debate doesn\u2019t change, but the science of abortion does",
+                    "ts": 1535901703,
+                    "twitterid": 1036272966978494465,
+                    "url": "https://www.bostonglobe.com/ideas/2018/08/31/the-abortion-debate-doesn-change-but-science-abortion-does/smHRPvw5XDkTXzMUrADawK/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b8cc001421aa921b8aa2999",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/US/WireAP_77e3ffedc06c41e9ac2d8d6032a9c36f_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Study shows health, reaction-time declines in firefighters",
+                    "ts": 1535948925,
+                    "twitterid": 1036471030657761281,
+                    "url": "https://abcnews.go.com/Health/wireStory/study-shows-health-reaction-time-declines-firefighters-57549820?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b8d3e99421aa92d9b701910",
+                    "date_month": "2018-09",
+                    "image": "https://si.wsj.net/public/resources/images/WE-AB688_CREDIT_SOC_20180829142215.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "How College Students Can Build a Good Credit Rating",
+                    "ts": 1535979615,
+                    "twitterid": 1036599755961499652,
+                    "url": "https://www.wsj.com/articles/how-college-students-can-build-a-good-credit-rating-1535726363?mod=e2tw"
+                },
+                {
+                    "_id": "5b8d3086421aa92cf2cabd5e",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2017/07/curosity_piece_lead/facebook.jpg?1522774788",
+                    "origin": "The Atlantic",
+                    "title": "Schools Are Missing What Matters About Learning",
+                    "ts": 1535979605,
+                    "twitterid": 1036599715004071941,
+                    "url": "https://www.theatlantic.com/education/archive/2017/07/the-underrated-gift-of-curiosity/534573/?utm_campaign=the-atlantic&utm_content=5b8d305304d30112b12721d3_ta&utm_medium=social&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            23
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Baker Mayfield",
+            "Kent State Boise State",
+            "Competitive Place",
+            "Football Fed Timothy",
+            "Parkland",
+            "US",
+            "Jacksonville",
+            "Panthers",
+            "London",
+            "Illinois",
+            "Khalil Mack",
+            "Slain",
+            "Wiffle Ball",
+            "Brad Stevens",
+            "Baseball Positions",
+            "McNamara",
+            "Nationals Park Parents",
+            "John",
+            "College",
+            "Chaos",
+            "Capital Gazette",
+            "Tolstoy Took Up Tennis New",
+            "Elena Delle Donne",
+            "Navy",
+            "Nationals Park",
+            "Maryland",
+            "U.S."
+        ],
+        "peaks": [],
+        "theme": [
+            "Football",
+            "college",
+            "Nationals",
+            "ashes",
+            "flop",
+            "opening",
+            "Park"
+        ],
+        "timestamp": "2018-09-03 11:10:21.005494-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8c95d9421aa91dfa1ad3c9",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/capitalgazette_6282018_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Widow of Capital Gazette sports reporter spreads his ashes at Nationals Park",
+                    "ts": 1535938864,
+                    "twitterid": 1036428835397545985,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/404727-widow-of-capital-gazette-sports-reporter-spreads-his-ashes-at"
+                },
+                {
+                    "_id": "5b8c093a421aa9186b8627c5",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/UsRyhQPBY-vboR6cdFgcK2_ev4Q=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QC73PZRVCE7OTALOUXAFTVYKUM.jpg",
+                    "origin": "Washington Post",
+                    "title": "College football\u2019s opening weekend delivered an eclectic mix of the familiar and the sublime",
+                    "ts": 1535902033,
+                    "twitterid": 1036274353674047489,
+                    "url": "https://www.washingtonpost.com/news/sports/wp/2018/09/02/college-footballs-opening-weekend-was-an-introductory-course-in-delirium-and-euphoria/?utm_term=.ee96f6a3ea4b&tid=sm_tw"
+                },
+                {
+                    "_id": "5b8c2551421aa91932ab2528",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/ois7hXb6aTa63e1oHBTqSGrgUPQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVQCYUCG7U56HBZ46SLDC6UMU4.jpg",
+                    "origin": "Washington Post",
+                    "title": "Slain sportswriter John McNamara wanted his ashes spread at Nationals Park. His wish was granted.",
+                    "ts": 1535909149,
+                    "twitterid": 1036304199942844421,
+                    "url": "https://www.washingtonpost.com/news/nationals-journal/wp/2018/09/02/slain-sportswriter-john-mcnamara-wanted-his-ashes-spread-at-nationals-park-his-wish-was-granted/?utm_term=.3c924689c6e1&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b8d4cbc421aa92e94952cb0",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/UdYIMuuw7xbfS9yT8vgqLVO2Z4I=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MF6RDQVO74I6RC2TKAIWO2HETE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Nationals\u2019 season has been a flop, but September still brings intrigue",
+                    "ts": 1535984522,
+                    "twitterid": 1036620337138544640,
+                    "url": "https://www.washingtonpost.com/sports/nationals/nats-season-has-been-a-flop-but-september-still-brings-intrigue/2018/09/02/c76d5454-aecf-11e8-9a6a-565d92a3585d_story.html?utm_term=.bcb44b55fdbc&tid=sm_tw"
+                },
+                {
+                    "_id": "5b8c093a421aa9186b8627b1",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/tD6Yut28_jRZ2jb4-ouizkSZ8pE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZPOBXBLG6A4LVGHLJYJ4PQQN3I.jpg",
+                    "origin": "Washington Post",
+                    "title": "College football winners and losers Week 1: Oklahoma isn\u2019t missing Baker Mayfield yet",
+                    "ts": 1535903406,
+                    "twitterid": 1036280111643979776,
+                    "url": "https://www.washingtonpost.com/news/sports/wp/2018/09/01/college-football-winners-and-losers-week-1-oklahoma-isnt-missing-baker-mayfield-yet/?utm_term=.bcdaaa85ac91&tid=sm_tw"
+                },
+                {
+                    "_id": "5b8cea29421aa923a5ddcd75",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/ktO_g7Yy7jHG14zy66KleCBd3g8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZH54IVENXII6NDG4J65RS45VAY.jpg",
+                    "origin": "Washington Post",
+                    "title": "No college football team in the mainland U.S. will travel more than Navy\u2019s 26,496 miles",
+                    "ts": 1535958600,
+                    "twitterid": 1036511611291353088,
+                    "url": "https://www.washingtonpost.com/sports/colleges/no-college-football-team-in-the-mainland-us-will-travel-more-than-navys-26496-miles/2018/08/29/e6560108-aad9-11e8-8a0c-70b618c98d3c_story.html?utm_term=.ffd37989e21c&tid=sm_tw"
+                },
+                {
+                    "_id": "5b8d23c1421aa92c6a830d58",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/31/BostonGlobe.com/EditorialOpinion/Images/Tlumacki_townofhalifax_business222.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Why is soccer such a flop in the US?",
+                    "ts": 1535974274,
+                    "twitterid": 1036577355580538880,
+                    "url": "https://www.bostonglobe.com/opinion/2018/09/02/why-soccer-such-flop/vhhKxtZUkJ2qdcjE9i5eiO/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b8c336c421aa9199fd56bcf",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5b8c0b6f/turbine/ct-spt-illinois-kent-state-3-things-20180902",
+                    "origin": "Chicago Tribune",
+                    "title": "3 takeaways from Illinois' opening win against Kent State",
+                    "ts": 1535912219,
+                    "twitterid": 1036317074832982021,
+                    "url": "http://www.chicagotribune.com/sports/college/ct-spt-illinois-kent-state-3-things-20180902-story.html"
+                },
+                {
+                    "_id": "5b8cb1f0421aa92113f82996",
+                    "date_month": "2018-09",
+                    "image": "http://www.trbimg.com/img-5b8c6687/turbine/ct-spt-big-ten-5-things-penn-state-michigan-state-20180902",
+                    "origin": "Chicago Tribune",
+                    "title": "5 things we learned about Big Ten football",
+                    "ts": 1535946760,
+                    "twitterid": 1036461950522322944,
+                    "url": "http://www.chicagotribune.com/sports/college/ct-spt-big-ten-5-things-penn-state-michigan-state-20180902-story.html"
+                },
+                {
+                    "_id": "5b8cf842421aa925d91a300e",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/95/a7/bcaa2a5c4f5481d5a8450c751cee/ap-9301310414.jpg",
+                    "origin": "POLITICO",
+                    "title": "How Football Fed Timothy McVeigh\u2019s Despair",
+                    "ts": 1535963404,
+                    "twitterid": 1036531763605106689,
+                    "url": "https://www.politico.com/magazine/story/2018/09/02/how-football-fed-timothy-mcveighs-despair-219625"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            72
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Elizabeth Warren Biden",
+            "White House",
+            "Dems",
+            "Korean",
+            "Move",
+            "McGahn",
+            "Texas Fox",
+            "US",
+            "Will Congress",
+            "Trump Will Skip Asia Summits",
+            "Washington Start",
+            "Hurricane Maria",
+            "Trump",
+            "Ireland",
+            "WATCH",
+            "Nancy Pelosi",
+            "Midterm Election Calendar",
+            "Will Mueller",
+            "EGRRCPA",
+            "Pence",
+            "Michael Cohen New York Gov",
+            "GoFundMe",
+            "FBI",
+            "Arkansas",
+            "Andrew Cuomo",
+            "Turkey",
+            "ICBMs",
+            "John Kerry",
+            "Trump Administration",
+            "Labor",
+            "Ted Cruz Bush Ethics",
+            "Lanny Davis",
+            "Quiet Achievement Obama",
+            "Iran",
+            "Clarke Tucker",
+            "Jeanine Pirro",
+            "Russian",
+            "CNN Key Races",
+            "North",
+            "Ohio Dem",
+            "Silicon Valley Omarosa",
+            "Texas",
+            "Erdo\u011fan",
+            "GOP",
+            "Ahead",
+            "Donald Trump",
+            "McCarthy",
+            "State Department",
+            "Russia Investigation If Trump Fires Jeff Sessions",
+            "Ellison",
+            "Afghanistan",
+            "Tiger Woods",
+            "American",
+            "JOHN",
+            "Canada",
+            "Republican Party Trump",
+            "Says Run",
+            "Senate Dem"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "says",
+            "Democrats",
+            "election",
+            "President",
+            "trade",
+            "Dem"
+        ],
+        "timestamp": "2018-09-03 11:10:22.055328-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8c2551421aa91932ab2532",
+                    "date_month": "2018-09",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Kanye9218.jpg?itok=wykmVJyz",
+                    "origin": "Fox News",
+                    "title": "WATCH: Kanye West Praises Trump, Says Run for President '100 Percent Could Happen' in 2024",
+                    "ts": 1535907715,
+                    "twitterid": 1036298185063493632,
+                    "url": "http://insider.foxnews.com/2018/09/02/kanye-west-says-2024-run-president-100-percent-could-happen"
+                },
+                {
+                    "_id": "5b8d3086421aa92cf2cabd85",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_tax_082318getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump touts economy in Labor Day tweet, says US is fixing 'worst trade deals ever made'",
+                    "ts": 1535976783,
+                    "twitterid": 1036587877495463937,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/404798-trump-claims-us-is-fixing-worst-trade-deals-ever-made-in-the-world"
+                },
+                {
+                    "_id": "5b8c2551421aa91932ab2530",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180902104415-ip-group-photo-9-2-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Will Congress defy Trump on trade?",
+                    "ts": 1535908145,
+                    "twitterid": 1036299986873589765,
+                    "url": "https://www.cnn.com/2018/09/02/politics/ip-forecast/index.html?utm_source=twCNNp&utm_term=image&utm_medium=social&utm_content=2018-09-02T17%3A09%3A03"
+                },
+                {
+                    "_id": "5b8c4f7e421aa91ab607a787",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/08/31/gettyimages-1020992568_wide-2f0dd0e9b067c82bbc02eeb6bbd7643bcf6cc0b6.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "President Trump's Description of What's 'Fake' Is Expanding",
+                    "ts": 1535918940,
+                    "twitterid": 1036345265458839557,
+                    "url": "https://www.npr.org/2018/09/02/643761979/president-trumps-description-of-whats-fake-is-expanding?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180902"
+                },
+                {
+                    "_id": "5b8c4177421aa91a4c6dde4f",
+                    "date_month": "2018-09",
+                    "image": "https://si.wsj.net/public/resources/images/B3-BN618_trumpg_SOC_20180827111039.jpg",
+                    "origin": "Capital Journal",
+                    "title": "\u2018It Is the Era of Trump\u2019: How the President Is Remaking the Republican Party",
+                    "ts": 1535917831,
+                    "twitterid": 1036340613833281536,
+                    "url": "https://www.wsj.com/articles/it-is-the-era-of-trump-how-the-president-is-remaking-the-republican-party-1535380861?mod=e2twp&page=1&pos=1"
+                },
+                {
+                    "_id": "5b8c2551421aa91932ab2512",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201808/n_ari_wehner_180827_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Bush adviser: Trump 'most corrupt person' to be elected President",
+                    "ts": 1535911206,
+                    "twitterid": 1036312826216894465,
+                    "url": "https://www.msnbc.com/the-beat-with-ari-melber/watch/bush-adviser-trump-most-corrupt-person-to-be-elected-president-1307605059584?v=railb&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b8cce27421aa92228fba5ab",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:e33519b78cb946b7a5b2caf2894a8aa2/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Trump sees mixing trade, foreign policy as good politics",
+                    "ts": 1535951198,
+                    "twitterid": 1036480566248595456,
+                    "url": "https://www.apnews.com/db28a3e1aa7848ac97874291635a548e/Trump-sees-mixing-trade,-foreign-policy-as-good-politics?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5b8cea29421aa923a5ddcd66",
+                    "date_month": "2018-09",
+                    "image": "https://si.wsj.net/public/resources/images/BN-XT841_201803_TOP_20180307184754.jpg",
+                    "origin": "Capital Journal",
+                    "title": "The 2018 Midterm Election Calendar",
+                    "ts": 1535960625,
+                    "twitterid": 1036520105390362624,
+                    "url": "https://www.wsj.com/graphics/midterm-election-calendar-2018/?mod=e2twp"
+                },
+                {
+                    "_id": "5b8c093a421aa9186b8627ba",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2016/03/01/AP_130310113548_s2048x1465.jpg?72302336c03c89b88ae4b9411e609081de38cebe",
+                    "origin": "The Washington Times",
+                    "title": "President Trump praises golf buddy Tiger Woods for 'great class'",
+                    "ts": 1535902398,
+                    "twitterid": 1036275883152166914,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/2/president-trump-praises-golf-buddy-tiger-woods-for/"
+                },
+                {
+                    "_id": "5b8c4177421aa91a4c6dde53",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/31/0/0/694940094001_5829317059001_5829304972001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump firing Sessions would not be 'politically wise,' Alaska senator says",
+                    "ts": 1535916952,
+                    "twitterid": 1036336929845981184,
+                    "url": "http://www.foxnews.com/politics/2018/09/02/trump-firing-sessions-would-not-be-politically-wise-alaska-senator-says.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            40
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Mystery",
+            "San Bernardino",
+            "California",
+            "MeToo",
+            "San Diego",
+            "Mike Capuano",
+            "Shots Fired",
+            "Labor",
+            "Amsterdam Suspected",
+            "Birmingham",
+            "Florida",
+            "Chicago",
+            "Deputy",
+            "Cleveland",
+            "Indiana",
+            "Ice Cube",
+            "Man",
+            "Long Island",
+            "Calf",
+            "Texas",
+            "Alabama",
+            "Del Mar Fairgrounds",
+            "Southern California",
+            "China",
+            "U.S.",
+            "Mexico"
+        ],
+        "peaks": [],
+        "theme": [
+            "shot",
+            "police",
+            "shoot",
+            "say",
+            "apartment",
+            "complex",
+            "concert"
+        ],
+        "timestamp": "2018-09-03 11:10:22.489807-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8d3e99421aa92d9b701905",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/policelinetape11032017getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Ten shot at California apartment complex",
+                    "ts": 1535980386,
+                    "twitterid": 1036602987517501450,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/404802-ten-shot-at-california-apartment-complex"
+                },
+                {
+                    "_id": "5b8d064f421aa929256056b9",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180903033301-san-bernardino-shooting-map-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "San Bernardino: 10 shot at apartment complex",
+                    "ts": 1535965565,
+                    "twitterid": 1036540824727773185,
+                    "url": "https://www.cnn.com/2018/09/03/us/san-bernardino-shooting/index.html?utm_medium=social&utm_content=2018-09-03T09%3A06%3A03&utm_term=image&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b8d4cbc421aa92e94952c97",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_36/2553306/180904-san-bernadino-shooting-mc-1436_8be85c1a1f379e0995e262a7d632111a.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "10 shot at Southern California apartment complex",
+                    "ts": 1535986145,
+                    "twitterid": 1036627143046967296,
+                    "url": "https://www.nbcnews.com/news/us-news/10-shot-san-bernardino-apartment-complex-n905981?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b8d3086421aa92cf2cabd71",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/04/22/BostonGlobe.com/National/Images/breaking-news.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "10 people shot at San Bernardino apartment complex",
+                    "ts": 1535978042,
+                    "twitterid": 1036593158837207040,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/09/03/ten-people-shot-california-apartment-complex/DnhThJBt967fsf2Dw8UQGL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b8d064f421aa929256056b4",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/03/2aa37c65-8ab4-474a-9306-9f2e6440f916/thumbnail/1200x630/28d0f109d08663fbe695067079790e78/san-bernardino-shooting-090218.jpg",
+                    "origin": "CBS News",
+                    "title": "Ten people shot in San Bernardino, California apartment complex",
+                    "ts": 1535965925,
+                    "twitterid": 1036542336329764864,
+                    "url": "https://www.cbsnews.com/news/ten-people-shot-san-bernardino-california-apartment-complex-today-2018-09-02/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b8cfae204d3015d3f104d13&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b8d145e421aa92ae21eca98",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/09/03/deputy-involved-in-shooting-at-ice-cube-concert-authorities-say/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1535943164210.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Man angry about sold-out Ice Cube concert fires gun, gets shot by deputy, police say",
+                    "ts": 1535971921,
+                    "twitterid": 1036567484260700160,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/03/deputy-involved-in-shooting-at-ice-cube-concert-authorities-say.html"
+                },
+                {
+                    "_id": "5b8d064f421aa929256056af",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/09/03/at-least-10-shot-at-san-bernardino-calif-apartment-complex-3-victims-reported-critical/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1535965226093.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "At least 10 shot at San Bernardino, Calif., apartment complex; 3 victims reported 'critical'",
+                    "ts": 1535966505,
+                    "twitterid": 1036544766283001856,
+                    "url": "http://www.foxnews.com/us/2018/09/03/at-least-10-shot-at-san-bernardino-calif-apartment-complex-3-victims-reported-critical.html"
+                },
+                {
+                    "_id": "5b8cea29421aa923a5ddcd64",
+                    "date_month": "2018-09",
+                    "image": "https://s.abcnews.com/images/US/del-mar-shooting-ugc-mo-20180903_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Man opens fire, gets shot by police outside Ice Cube concert in San Diego: Authorities",
+                    "ts": 1535960828,
+                    "twitterid": 1036520955462529024,
+                    "url": "https://abcnews.go.com/US/man-opens-fire-shot-police-ice-cube-concert/story?id=57569450&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b8ca3e1421aa920b500d594",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/09/02/deputy-involved-shooting-at-ice-cube-concert-authorities-say/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1535943164210.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Deputy involved shooting at Ice Cube concert, authorities say",
+                    "ts": 1535943400,
+                    "twitterid": 1036447860726935558,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/02/deputy-involved-shooting-at-ice-cube-concert-authorities-say.html"
+                },
+                {
+                    "_id": "5b8cce27421aa92228fba5a4",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2018/09/03/deputy-involved-in-shooting-at-ice-cube-concert-authorities-say/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1535943164210.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Deputy involved in shooting at Ice Cube concert, authorities say",
+                    "ts": 1535952000,
+                    "twitterid": 1036483929686110209,
+                    "url": "http://www.foxnews.com/entertainment/2018/09/03/deputy-involved-in-shooting-at-ice-cube-concert-authorities-say.html"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            21
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Colorado River Reuters",
+            "Colorado River Tropical",
+            "Florida Reuters",
+            "Colorado River Myanmar Court Sentences Reuters",
+            "Myanmar Convicted",
+            "Seven Years",
+            "Gulf Coast Reuters",
+            "Mississippi",
+            "Myanmar",
+            "Prison Reuters",
+            "Burma",
+            "Colorado River",
+            "California Four",
+            "Tropical Storm Gordon",
+            "Gordon",
+            "Navy",
+            "Florida Myanmar",
+            "Louisiana",
+            "Sentenced",
+            "U.S.",
+            "Mexico"
+        ],
+        "peaks": [],
+        "theme": [
+            "Myanmar",
+            "Reuters",
+            "years",
+            "boats",
+            "missing",
+            "sentences",
+            "Colorado"
+        ],
+        "timestamp": "2018-09-03 11:10:22.764630-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8cce27421aa92228fba5ac",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/jxnwEPIQQN66xqbJ9eC1kCTix5o=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5PKZNFFPGMI6RIQLL5HYIQUWMY.jpg",
+                    "origin": "Washington Post",
+                    "title": "Myanmar judge sentences Reuters journalists to 7 years in prison",
+                    "ts": 1535951135,
+                    "twitterid": 1036480303848714242,
+                    "url": "https://www.washingtonpost.com/world/myanmar-judge-sentences-reuters-journalists-to-7-years-in-prison/2018/09/03/53b89674-af27-11e8-a810-4d6b627c3d5d_story.html?tid=sm_tw"
+                },
+                {
+                    "_id": "5b8d23c1421aa92c6a830d4c",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/09/03/myanmar_journalists_50133_s2048x1484.jpg?386028306655e4a8de983b8343ab72e5135b2ceb",
+                    "origin": "The Washington Times",
+                    "title": "Myanmar court sentences Reuters reporters to 7 years in jail",
+                    "ts": 1535975044,
+                    "twitterid": 1036580584397721600,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/3/myanmar-court-sentences-reuters-reporters-to-7-yea/"
+                },
+                {
+                    "_id": "5b8d064f421aa929256056b3",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-24583/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Myanmar Court Sentences Reuters Reporters to Seven Years in Prison",
+                    "ts": 1535966104,
+                    "twitterid": 1036543087131217921,
+                    "url": "https://www.wsj.com/articles/myanmar-court-sentences-reuters-reporters-to-seven-years-in-prison-1535950337?mod=e2tw"
+                },
+                {
+                    "_id": "5b8c87cf421aa91d8b2152a6",
+                    "date_month": "2018-09",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:b52c372d9a1e4aabbb43cc8fe96eb61c/982.jpeg",
+                    "origin": "AP West Region",
+                    "title": "4 missing after boats collide, sink on Colorado River",
+                    "ts": 1535933067,
+                    "twitterid": 1036404517313630209,
+                    "url": "https://apnews.com/a67d421a794f48b19615cafc4429095f/4-missing-after-boats-collide,-sink-on-Colorado-River?utm_campaign=SocialFlow&utm_medium=APWestRegion&utm_source=Twitter"
+                },
+                {
+                    "_id": "5b8d145e421aa92ae21ecaa4",
+                    "date_month": "2018-09",
+                    "image": "https://media.npr.org/assets/img/2018/09/03/gettyimages-1026340650_wide-e5e47cbb3bb2706bf35e4feb2fbcbf785c8ce3bc.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Reuters Journalists In Myanmar Convicted, Sentenced To 7 Years",
+                    "ts": 1535970606,
+                    "twitterid": 1036561970000879617,
+                    "url": "https://www.npr.org/2018/09/03/644247839/reuters-journalists-convicted-sentenced-to-7-years-in-myanmar?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b8d3086421aa92cf2cabd72",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/myanmarjournalists.jpg",
+                    "origin": "The Hill",
+                    "title": "Reuters journalists in Myanmar sentenced to 7 years in jail",
+                    "ts": 1535977986,
+                    "twitterid": 1036592921921904640,
+                    "url": "http://thehill.com/homenews/media/404800-reuters-journalists-in-myanmar-sentenced-to-7-years-in-jail"
+                },
+                {
+                    "_id": "5b8cdc15421aa923316fd599",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/02/53fa1463-bb9a-4817-84c2-9142950a9504/thumbnail/1200x630/f477a6b74beed6a9a28edda6a9efc99d/dmehoxduwaifxfh.jpg",
+                    "origin": "CBS News",
+                    "title": "4 missing, 13 injured after 2 boats collide on Colorado River",
+                    "ts": 1535955483,
+                    "twitterid": 1036498539218644994,
+                    "url": "https://www.cbsnews.com/news/colorado-river-boat-collision-leaves-13-injured-several-missing-2018-09-01/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b8cd21904d301348d5f77ba&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b8cce27421aa92228fba5a1",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_36/2553081/180903-reuters-journalists-ac-0111a_5a8f8900b1bdb3106d0d8ab98d0ab248.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Myanmar judge jails Reuters reporters for seven years",
+                    "ts": 1535952308,
+                    "twitterid": 1036485223737905152,
+                    "url": "https://www.nbcnews.com/news/asia/myanmar-judge-jails-reuters-reporters-seven-years-n905916?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b8c336c421aa9199fd56bd1",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_35/2552836/180902-colorado-river-search-al-1353_f6a4fc07dfecf26b8ef02e8cb95a30c0.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Four missing, 10 hospitalized after boats collide on Colorado River",
+                    "ts": 1535912115,
+                    "twitterid": 1036316641301327872,
+                    "url": "https://www.nbcnews.com/news/us-news/13-hurt-2-missing-after-boats-collide-colorado-river-n905791?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b8cea29421aa923a5ddcd67",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/02/53fa1463-bb9a-4817-84c2-9142950a9504/thumbnail/1200x630/f477a6b74beed6a9a28edda6a9efc99d/dmehoxduwaifxfh.jpg",
+                    "origin": "CBS News",
+                    "title": "4 missing, 10 hurt after 2 boats hit, sink on Colorado River",
+                    "ts": 1535960526,
+                    "twitterid": 1036519690082938880,
+                    "url": "https://www.cbsnews.com/news/colorado-river-boat-collision-search-continues-4-missing-10-injured-2018-09-03/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5b8ce5cb04d301050d6c749b&utm_medium=trueAnthem&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            82
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Alberta Tar Sands South Carolina",
+            "Climate",
+            "Terrafugia",
+            "White House",
+            "Twiggy",
+            "Deer",
+            "Watch",
+            "California",
+            "Kadir Nelson",
+            "'Hamilton",
+            "Oddball Residencies Bishop Ellis",
+            "Mexico",
+            "Documentaries Bishop",
+            "Brutalism",
+            "London",
+            "Australia",
+            "Axe",
+            "Texas Don",
+            "Bugatti",
+            "Zeppelin",
+            "Instagram Don",
+            "Sugar Makeover Your",
+            "Syrian",
+            "Texas Senate Race",
+            "Anarchy",
+            "Megafires",
+            "Your Desk",
+            "Eerie Anonymity",
+            "Frugality Isn",
+            "Long",
+            "Goodyear",
+            "Lonely",
+            "DNC Truck",
+            "Beauty",
+            "Eileen Fisher",
+            "Labor",
+            "Burning Man Dem",
+            "Makes Hunting So",
+            "American Beard",
+            "Return With Help From Younger Audiences",
+            "Harry Potter",
+            "Iranians",
+            "Ruth Bader Ginsburg",
+            "Chicago Jazz",
+            "Eating Gold Utah",
+            "Ariana Grande",
+            "MGM Springfield",
+            "West End Norman Rockwell",
+            "Kentucky",
+            "Trisha Yearwood",
+            "Human Energy Use",
+            "Slow Struggle",
+            "Russian",
+            "Brazilian Museum How",
+            "Massive Fire Burns",
+            "Chinese",
+            "Racially Fraught History",
+            "Frappuccino",
+            "Twitter",
+            "Sephora",
+            "Donald Trump",
+            "Stevie Wonder",
+            "Soul",
+            "Habitat",
+            "Brief History",
+            "Garth Brooks",
+            "Smart",
+            "Aretha Franklin",
+            "Style"
+        ],
+        "peaks": [],
+        "theme": [
+            "Aretha",
+            "Franklin",
+            "make",
+            "Inside",
+            "new",
+            "Summer",
+            "things"
+        ],
+        "timestamp": "2018-09-03 11:10:24.535977-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8c4f7e421aa91ab607a77d",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2011/05/06/9ded094b-a644-11e2-a3f0-029118418759/thumbnail/1200x630/dc7a76afa4b5488c719e4db1553bf4d1/Aretha_May_113596322.jpg",
+                    "origin": "CBS News",
+                    "title": "Aretha Franklin\u2019s lack of a will could make things rocky for heirs",
+                    "ts": 1535919648,
+                    "twitterid": 1036348236171227137,
+                    "url": "https://www.cbsnews.com/news/aretha-franklin-lack-of-will-could-make-things-rocky-for-heirs-2018-09-01/?ftag=CNM-00-10aab7e&linkId=56339941"
+                },
+                {
+                    "_id": "5b8cb1f0421aa92113f829a2",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_33/2533551/180816-aretha-franklin-al-1041_0b08417480d36ff4abd28e944bbdfa27.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Aretha Franklin's lack of a will could make things rocky for heirs",
+                    "ts": 1535945522,
+                    "twitterid": 1036456758393364480,
+                    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/aretha-franklin-s-lack-will-could-make-things-rocky-heirs-n905821?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b8cb1f0421aa92113f829b6",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/09/01/e75b65f2-de1b-4736-9f74-01efaf033ea9/thumbnail/1200x630g2/762896548b841e0b49e464833f74390d/jennifer-hudson-at-aretha-franklin-memorial-promo-ap-18243771979629.jpg",
+                    "origin": "CBS News",
+                    "title": "Aretha Franklin: A music-filled tribute to the \"Queen of Soul\"",
+                    "ts": 1535943784,
+                    "twitterid": 1036449467535421440,
+                    "url": "https://www.cbsnews.com/news/aretha-franklin-a-music-filled-tribute-to-the-queen-of-soul/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b8ca46604d3017f58acf373&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b8cf842421aa925d91a3018",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/RaZsqRnfXmWrF-__N54YFnznN2s=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UPXQHDFMRQI6RKGXB5R2XCYTOA.jpg",
+                    "origin": "Washington Post",
+                    "title": "This new museum doesn\u2019t want Instagram or crowds. Does that make it elitist?",
+                    "ts": 1535962086,
+                    "twitterid": 1036526234929385472,
+                    "url": "https://www.washingtonpost.com/entertainment/museums/this-new-museum-doesnt-want-instagram-or-crowds-does-that-make-it-elitist/2018/08/30/eaf0028a-aa2b-11e8-8a0c-70b618c98d3c_story.html?utm_term=.69ef705d04b0&tid=sm_tw"
+                },
+                {
+                    "_id": "5b8c093a421aa9186b8627b7",
+                    "date_month": "2018-09",
+                    "image": "https://media3.s-nbcnews.com/j/newscms/2018_35/2552766/180902-ariana-grande-al-0955_b1f69be6e1aa4124c128eaaf62adbfb7.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Bishop apologizes for inappropriately touching Ariana Grande at Aretha Franklin funeral",
+                    "ts": 1535902870,
+                    "twitterid": 1036277865162199041,
+                    "url": "https://www.nbcnews.com/news/us-news/bishop-apologizes-inappropriately-touching-ariana-grande-aretha-franklin-funeral-n905796?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b8cce27421aa92228fba5a5",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/01/2741ba75-f731-46be-b7fe-003e922338ba/thumbnail/1200x630/721438a13931ff53843122ae0a9e84dc/ariana-grande-bishop-aretha-franklin-1025642124.jpg",
+                    "origin": "CBS News",
+                    "title": "Bishop Ellis apologizes for touching Ariana Grande at Aretha Franklin funeral",
+                    "ts": 1535951883,
+                    "twitterid": 1036483440240156672,
+                    "url": "https://www.cbsnews.com/news/bishop-ariana-grande-aretha-franklin-funeral-apologizes-touching-on-stage/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b8cc40a04d301794afe8a2d&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b8d3086421aa92cf2cabd8c",
+                    "date_month": "2018-09",
+                    "image": "https://media.newyorker.com/photos/5b8836dec378eb61b86036df/16:9/w_1200,h_630,c_limit/CoverStory-web_box_kadir_STYLE.jpg",
+                    "origin": "The New Yorker",
+                    "title": "Kadir Nelson\u2019s \u201cSavoring Summer\u201d",
+                    "ts": 1535976017,
+                    "twitterid": 1036584665287733249,
+                    "url": "https://www.newyorker.com/culture/cover-story/cover-story-2018-9-10?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b8c336c421aa9199fd56bd0",
+                    "date_month": "2018-09",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2017_48/2009806/170523-outdoor-grill-mn-1155_cfd299738fed4f43226fd2c57dffab19.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "12 better-for-you summer barbecue recipes",
+                    "ts": 1535912162,
+                    "twitterid": 1036316838261608449,
+                    "url": "https://www.nbcnews.com/better/pop-culture/10-healthy-recipes-your-memorial-day-barbecue-ncna763546?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b8c87cf421aa91d8b2152a3",
+                    "date_month": "2018-09",
+                    "image": "https://reviewed-com-res.cloudinary.com/image/fetch/s--8uzy7HiQ--/b_white,c_fill,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_1200/https://reviewed-production.s3.amazonaws.com/1531342903000/GettyImages-472687360.jpg",
+                    "origin": "USA TODAY",
+                    "title": "10 things you should never put in the dryer",
+                    "ts": 1535933402,
+                    "twitterid": 1036405925928738817,
+                    "url": "https://www.reviewed.com/laundry/features/10-things-you-should-never-put-in-the-dryer"
+                },
+                {
+                    "_id": "5b8d064f421aa929256056a6",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/eA9XAPezMUtjcMq0AcW5PAfbJwM=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDVTXQFNLMI6RGT5ZUYFAT7ZAI.jpg",
+                    "origin": "Washington Post",
+                    "title": "What it feels like to step inside someone\u2019s skin",
+                    "ts": 1535967492,
+                    "twitterid": 1036548908309274624,
+                    "url": "https://www.washingtonpost.com/national/health-science/what-it-feels-like-to-literally-step-inside-someones-skin/2018/08/31/6dd1f2ea-a580-11e8-97ce-cc9042272f07_story.html?utm_term=.def3c6049923&tid=sm_tw&__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            70
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Meituan Dianping Is",
+            "Chinese Airline Stocks",
+            "Smaller Women",
+            "Suicide",
+            "Slower Rate",
+            "Suffolk",
+            "TPC Boston",
+            "Ground Up Andrew Gillum",
+            "Sluggish Demand Mires Pizza Hut",
+            "Boston",
+            "Larry Hogan",
+            "South Africa",
+            "Elizabeth Warren",
+            "Records Paves Way",
+            "Bain",
+            "BU",
+            "Republican Party",
+            "Addis Ababa",
+            "LGBTQ Candidates Could Usher",
+            "Volatile",
+            "Ron",
+            "John Edwards",
+            "Ohio Gov",
+            "New Hampshire Nebraska Catholic",
+            "Tallahassee",
+            "Minneapolis Did China",
+            "FBI",
+            "China Selloff",
+            "Turkey",
+            "Steyer Big Tech",
+            "John Kasich",
+            "Lira Candle",
+            "John Kerry",
+            "Labor",
+            "Alarm",
+            "Justin Rose",
+            "Medicare",
+            "European Finance Chiefs Struggle",
+            "Chicago",
+            "Reno",
+            "Adam Scott",
+            "Harvard",
+            "CEO China Factory Activity Expands",
+            "Washington Summer",
+            "NRA",
+            "Boston University",
+            "Cash Rise Of",
+            "South Carolina",
+            "Andrew Gillum",
+            "Democratic Party",
+            "McCain",
+            "Native American",
+            "Trouble",
+            "Somalia",
+            "Giants",
+            "GOP",
+            "Clinton",
+            "Market Bulls Cleanup",
+            "Airplane Bathroom",
+            "Venezuela",
+            "Small",
+            "Snails",
+            "Soros",
+            "Homegrown Market Bears Drown Out Index Boost Florida",
+            "Scant Insurance",
+            "Unusual Role",
+            "China",
+            "Italian Politics Keep Global Investors",
+            "KFC",
+            "U.S."
+        ],
+        "peaks": [],
+        "theme": [
+            "China",
+            "Gillum",
+            "Boston",
+            "Democratic",
+            "party",
+            "says",
+            "ads"
+        ],
+        "timestamp": "2018-09-03 11:10:25.576374-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8c95d9421aa91dfa1ad3d2",
+                    "date_month": "2018-09",
+                    "image": "http://thehill.com/sites/default/files/blogs/kasichjohn_043016getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Kasich says Republican Party is 'shrinking'",
+                    "ts": 1535938145,
+                    "twitterid": 1036425816236875776,
+                    "url": "http://thehill.com/business-a-lobbying/404790-kasich-the-republican-party-is-shrinking"
+                },
+                {
+                    "_id": "5b8c79b9421aa91d060320c6",
+                    "date_month": "2018-09",
+                    "image": "https://images.newrepublic.com/4dc9570b36cd54809962b7ee8140deb48da8283d.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "Women Are Rebuilding the Democratic Party From the Ground Up",
+                    "ts": 1535929229,
+                    "twitterid": 1036388422749966336,
+                    "url": "https://newrepublic.com/article/150462/women-rebuilding-democratic-party-ground"
+                },
+                {
+                    "_id": "5b8c6b9a421aa91b7432a7c7",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180828201217-03-andrew-gillum-lead-image-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Medicare for all requires corporate tax increase, Andrew Gillum says",
+                    "ts": 1535928308,
+                    "twitterid": 1036384558147674117,
+                    "url": "https://www.cnn.com/2018/09/02/politics/andrew-gillum-medicare-for-all-taxes-cnntv/index.html?utm_term=image&utm_content=2018-09-02T22%3A45%3A07&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b8c336c421aa9199fd56bad",
+                    "date_month": "2018-09",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/08/31/Florida_Democrats_06354.jpg-2450d_s2048x1440.jpg?4b1e1ffaa2b27dac78d3d3ba0b17a10e5f15184f",
+                    "origin": "The Washington Times",
+                    "title": "Andrew Gillum, Tallahassee mayor, \u2018deeply appreciative\u2019 of Democratic billionaires Soros, Steyer",
+                    "ts": 1535914688,
+                    "twitterid": 1036327431412625408,
+                    "url": "https://www.washingtontimes.com/news/2018/sep/2/andrew-gillum-tallahassee-mayor-deeply-appreciativ/"
+                },
+                {
+                    "_id": "5b8c173c421aa918d64d453e",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/d3/6b/f773f7234b618d86ac67ebe003a9/180902-kasich-gty-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Kasich: \u2018Our party is shrinking\u2019",
+                    "ts": 1535905803,
+                    "twitterid": 1036290166221164545,
+                    "url": "https://www.politico.com/story/2018/09/02/kasich-republican-party-ohio-balderson-806120"
+                },
+                {
+                    "_id": "5b8c2551421aa91932ab2513",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/3b/b6/2c8cfc334650ac2b64c8e15bb6e2/180902-gillum-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Gillum: Don\u2019t \u2018weaponize race\u2019",
+                    "ts": 1535911203,
+                    "twitterid": 1036312816393834497,
+                    "url": "https://www.politico.com/story/2018/09/02/gillum-florida-race-robocalls-desantis-806122"
+                },
+                {
+                    "_id": "5b8c4177421aa91a4c6dde4a",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/c2/79/c714198c4b9eb06f06a76a275292/180902-kamala-harris-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "\u2018Whoever wins South Carolina will be the Democratic nominee\u2019",
+                    "ts": 1535918409,
+                    "twitterid": 1036343037943848960,
+                    "url": "https://www.politico.com/story/2018/09/01/south-carolina-democratic-nominee-elections-806104"
+                },
+                {
+                    "_id": "5b8c95d9421aa91dfa1ad3d1",
+                    "date_month": "2018-09",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201808/d_ov_feature_campaignads_1808240.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "From dumpster fires to gun-toting fathers, your 2018 crop of campaign ads",
+                    "ts": 1535938271,
+                    "twitterid": 1036426345180549120,
+                    "url": "https://www.nbcnews.com/video/from-dumpster-fires-to-gun-toting-fathers-your-2018-crop-of-campaign-ads-1305954883989?v=railb&cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b8cc001421aa921b8aa29a4",
+                    "date_month": "2018-09",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/180902162604-matt-rivitz-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "Sleeping Giants founder talks online ads in first on-camera interview",
+                    "ts": 1535947218,
+                    "twitterid": 1036463871933001729,
+                    "url": "https://money.cnn.com/2018/09/02/media/matt-rivitz-sleeping-giants-google-ads-breitbart/index.html?utm_medium=social&utm_content=2018-09-03T04%3A00%3A16&utm_term=image&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b8cdc15421aa923316fd59b",
+                    "date_month": "2018-09",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/08/29/BostonGlobe.com/Business/Images/IMG_5147.JPG",
+                    "origin": "The Boston Globe",
+                    "title": "This Boston museum\u2019s off-limits to almost everyone",
+                    "ts": 1535955064,
+                    "twitterid": 1036496782648328193,
+                    "url": "https://www.bostonglobe.com/business/2018/08/30/this-boston-museum-off-limits-almost-everyone/sAm8s3xvNl2zg4L6jsiyXO/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            7
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Mollie Tibbetts",
+            "Iowa Latinos Father",
+            "Racism Mollie Tibbetts",
+            "Father Asks",
+            "Gillum",
+            "Robocalls",
+            "Florida"
+        ],
+        "peaks": [],
+        "theme": [
+            "Mollie",
+            "Tibbetts",
+            "Death",
+            "father",
+            "Iowa",
+            "debate",
+            "immigration"
+        ],
+        "timestamp": "2018-09-03 11:10:25.857211-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8cea29421aa923a5ddcd69",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/24/5cd829ba-250b-49af-a174-b1f57538ef06/thumbnail/1200x630g2/d48042359c003e8fb8356a5ee235b5ad/ap-18205607346837.jpg",
+                    "origin": "CBS News",
+                    "title": "Mollie Tibbetts' father: Stop using her as a \"pawn\" in immigration debate",
+                    "ts": 1535959983,
+                    "twitterid": 1036517413477597185,
+                    "url": "https://www.cbsnews.com/news/mollie-tibbetts-father-rob-tibbetts-des-moines-register-op-ed-today-2018-09-01/"
+                },
+                {
+                    "_id": "5b8c4f7e421aa91ab607a781",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180901210302-iowa-racist-robocall-street-graffiti-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Robocalls and graffiti after Mollie Tibbetts' death worry Iowa Latinos",
+                    "ts": 1535919304,
+                    "twitterid": 1036346791720103937,
+                    "url": "https://www.cnn.com/2018/09/01/us/iowa-latinos-tension/index.html?utm_source=twCNN&utm_medium=social&utm_content=2018-09-02T20%3A15%3A03&utm_term=image"
+                },
+                {
+                    "_id": "5b8c79b9421aa91d060320c5",
+                    "date_month": "2018-09",
+                    "image": "https://static01.nyt.com/images/2018/09/02/us/03xp-tibbetts2/03xp-tibbetts2-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Mollie Tibbetts\u2019s Father Asks That Her Death Not Be Exploited to Promote Racism",
+                    "ts": 1535929265,
+                    "twitterid": 1036388572092190721,
+                    "url": "https://www.nytimes.com/2018/09/02/us/mollie-tibbetts-father-trump.html?smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b8c5d96421aa91b0cb881b6",
+                    "date_month": "2018-09",
+                    "image": "http://www.latimes.com/resizer/_fWWWH7aHaFrHc7yv11ZT23fjmw=/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/7IR66I3YKNFVTCQO4DV4UYC7JM.jpg",
+                    "origin": "L.A. Times National",
+                    "title": "Father of slain Iowa student: 'Please leave us out of your debate'",
+                    "ts": 1535922605,
+                    "twitterid": 1036360638606454784,
+                    "url": "https://www.latimes.com/nation/la-na-slain-iowa-student-20180902-story.html?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b8c173c421aa918d64d453b",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/tPvT7_-jx7RYdc1mJDUU3D1YqEA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7OXJM3VH4YI6RLLPBADXBXG5YI.jpg",
+                    "origin": "Washington Post",
+                    "title": "After arrest of undocumented immigrant in Mollie Tibbetts case, Iowa town tries to escape the inescapable: politics",
+                    "ts": 1535905961,
+                    "twitterid": 1036290829680340993,
+                    "url": "https://www.washingtonpost.com/national/after-arrest-of-undocumented-immigrant-in-mollie-tibbetts-case-iowa-town-tries-to-escape-the-inescapable-politics/2018/09/01/4ed60274-aa16-11e8-8a0c-70b618c98d3c_story.html?utm_term=.2115834468e6&tid=sm_tw"
+                },
+                {
+                    "_id": "5b8c173c421aa918d64d4530",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/eYQ0vRWfooozlJ215J5A-2un74U=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZD6I2HFK2MI6RGT5ZUYFAT7ZAI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Mollie Tibbetts\u2019s dad: Don\u2019t use her death to push \u2018views she believed were profoundly racist\u2019",
+                    "ts": 1535907484,
+                    "twitterid": 1036297216246337536,
+                    "url": "https://www.washingtonpost.com/nation/2018/09/02/mollie-tibbettss-dad-dont-use-her-death-push-views-she-believed-were-profoundly-racist/?utm_term=.95e1f5f8e39b&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            26
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Bad",
+            "Minnesota Democrat",
+            "Klobuchar",
+            "Brett Kavanaugh",
+            "Graham",
+            "Roe",
+            "CNN",
+            "DC",
+            "Trump Trump",
+            "Wade",
+            "Senate",
+            "Juan Williams",
+            "Supreme Court Fight Continues",
+            "Record Shows Push",
+            "Supreme Court",
+            "Issues"
+        ],
+        "peaks": [],
+        "theme": [
+            "Kavanaugh",
+            "Brett",
+            "saying",
+            "confirmation",
+            "Court",
+            "Democrats",
+            "hearing"
+        ],
+        "timestamp": "2018-09-03 11:10:26.414625-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8d4cbc421aa92e94952cb8",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/VHtseZkB4unulwTvJXzmrXbY5mw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BXO5U3FKEAI6RKGXB5R2XCYTOA.jpg",
+                    "origin": "Washington Post",
+                    "title": "Democrats\u2019 view of Kavanaugh shaped by bitter 2004 hearing",
+                    "ts": 1535984103,
+                    "twitterid": 1036618577963610112,
+                    "url": "https://www.washingtonpost.com/politics/democrats-view-of-kavanaugh-shaped-by-bitter-2004-hearing/2018/09/02/b8e8b244-a636-11e8-8fac-12e98c13528d_story.html?utm_term=.8af9df078784&tid=sm_tw"
+                },
+                {
+                    "_id": "5b8c5d96421aa91b0cb881b3",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/02/0/0/694940094001_5829927557001_5829924968001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Graham says Democrats will come around on Kavanaugh nomination following hearing",
+                    "ts": 1535922968,
+                    "twitterid": 1036362158920138755,
+                    "url": "http://www.foxnews.com/politics/2018/09/02/graham-says-democrats-will-come-around-on-kavanaugh-nomination-following-hearing.html"
+                },
+                {
+                    "_id": "5b8d23c1421aa92c6a830d4d",
+                    "date_month": "2018-09",
+                    "image": "https://www.gannett-cdn.com/presto/2018/08/31/USAT/514c2973-3107-4f62-8f4f-4e8712a250ae-A05_BUSHBASE_02.1.jpg?crop=2999,1679,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Five reasons Brett Kavanaugh's nomination to the Supreme Court is controversial",
+                    "ts": 1535975029,
+                    "twitterid": 1036580519989989376,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/09/03/brett-kavanaugh-controversial-supreme-court-nominee-five-reasons/1143100002/"
+                },
+                {
+                    "_id": "5b8c093a421aa9186b8627b5",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180706150343-scotus-candidate-brett-kavanaugh-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Where Supreme Court nominee Brett Kavanaugh stands on key issues",
+                    "ts": 1535902983,
+                    "twitterid": 1036278339542155264,
+                    "url": "https://www.cnn.com/2018/07/09/politics/kavanaugh-on-the-issues/index.html?utm_content=2018-09-02T15%3A43%3A03&utm_medium=social&utm_term=image&utm_source=twCNNp"
+                },
+                {
+                    "_id": "5b8c093a421aa9186b8627af",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/fRwCpOyXhIjUIAUg5Ujepp5DvHQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KJ5K67VNNAI6RCQMOC3BRSMNHQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Issues for Brett Kavanaugh: the president who chose him and the Supreme Court he would change",
+                    "ts": 1535903766,
+                    "twitterid": 1036281623224967168,
+                    "url": "https://www.washingtonpost.com/politics/courts_law/issues-for-brett-kavanaugh-the-president-who-chose-him-and-the-supreme-court-he-would-change/2018/09/01/09d2daca-ad28-11e8-a8d7-0f63ab8b1370_story.html?utm_term=.de4d87e56704&tid=sm_tw"
+                },
+                {
+                    "_id": "5b8d145e421aa92ae21eca9e",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180815150946-02-brett-kavanaugh-capitol-hill-0815-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Why saying Roe v. Wade is 'settled' isn't saying much",
+                    "ts": 1535971210,
+                    "twitterid": 1036564500978323456,
+                    "url": "https://www.cnn.com/2018/09/03/politics/roe-v-wade-kavanaugh-collins/index.html?utm_content=2018-09-03T10%3A40%3A09&utm_medium=social&utm_term=image&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b8c173c421aa918d64d452d",
+                    "date_month": "2018-09",
+                    "image": "https://static.politico.com/09/59/932dc4414eaaa2478abb9159a872/180902-klobuchar-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Klobuchar says Kavanaugh\u2019s confirmation is \u2018not normal\u2019",
+                    "ts": 1535907608,
+                    "twitterid": 1036297737757777922,
+                    "url": "https://www.politico.com/story/2018/09/02/klobuchar-says-kavanaughs-confirmation-is-not-normal-806121"
+                },
+                {
+                    "_id": "5b8c79b9421aa91d060320b9",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/08/30/0/0/694940094001_5828837387001_5828836612001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "In Kavanaugh confirmation fight, just a handful of senators hold the key",
+                    "ts": 1535930340,
+                    "twitterid": 1036393080557993984,
+                    "url": "http://www.foxnews.com/politics/2018/09/02/in-kavanaugh-confirmation-fight-just-handful-senators-hold-key.html"
+                },
+                {
+                    "_id": "5b8c4f7e421aa91ab607a78b",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/02/0/0/694940094001_5829960550001_5829967730001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Kavanaugh confirmation is not 'normal,' Klobuchar says, claiming too many documents withheld",
+                    "ts": 1535918572,
+                    "twitterid": 1036343722986881024,
+                    "url": "http://www.foxnews.com/politics/2018/09/02/kavanaugh-confirmation-is-not-normal-klobuchar-says-claiming-too-many-documents-withheld.html"
+                },
+                {
+                    "_id": "5b8c95d9421aa91dfa1ad3c2",
+                    "date_month": "2018-09",
+                    "image": "https://images.wsj.net/im-24305/social",
+                    "origin": "Capital Journal",
+                    "title": "The Case That Shaped Brett Kavanaugh\u2019s Thinking on Presidential Power",
+                    "ts": 1535939755,
+                    "twitterid": 1036432571708649474,
+                    "url": "https://www.wsj.com/articles/the-case-that-shaped-brett-kavanaughs-thinking-on-presidential-power-1535744028?mod=e2twp"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            65
+        ],
+        "months": [
+            "2018-09"
+        ],
+        "ne": [
+            "Shanann Watts",
+            "Dana Loesch",
+            "New York",
+            "American Dream",
+            "Love Letters Podcast Mother",
+            "Sajid Javeed",
+            "US Open",
+            "Elizabeth Warren",
+            "Atlantic",
+            "Difference Between",
+            "Hospital",
+            "Anthem",
+            "Chinese Hero",
+            "American Nazi",
+            "Ethical",
+            "Dialect Mother",
+            "Susan Brown",
+            "Hugh Jackman",
+            "Mike Rowe",
+            "Cardinal Donald Wuerl",
+            "Free Will Pope Benedict",
+            "Out Trump",
+            "Extremis",
+            "Israel Wisconsin",
+            "Pope Francis U.S.",
+            "Turn",
+            "Cuba",
+            "European",
+            "Greece",
+            "Parallel Realities Chris Evans",
+            "Stomach Flu Outbreaks Instagram",
+            "Baby Boomers Search",
+            "Death",
+            "Ryan Reynolds",
+            "U.S. Open",
+            "UK",
+            "Poetry",
+            "Mexican",
+            "Pope Francis",
+            "Korean Propaganda Artists Imagine Beijing Teen",
+            "US Open Sotomayor",
+            "Lake",
+            "Serena Williams",
+            "Berlin",
+            "Madison Keys",
+            "North Carolina",
+            "Hole Bono",
+            "Serena Williams Backs Colin Kaepernick",
+            "Grateful",
+            "Lawyer",
+            "Vatican",
+            "Alaska",
+            "Business Travelers",
+            "Languages Virginia",
+            "Struggle Over Time",
+            "Better Term Serena Williams",
+            "Muslim",
+            "Serena William",
+            "North Korea",
+            "Vomit Machine",
+            "Haruki Murakami",
+            "Clallam County Tech",
+            "Family Nurtures",
+            "Ideology Subscribe",
+            "Drag Queen Story Hour",
+            "Southern",
+            "Commerce",
+            "Alexis Ohanian",
+            "ICBM",
+            "Hard",
+            "Adopted Children",
+            "China",
+            "Sarah Sanders",
+            "U.S.",
+            "Jerusalem How"
+        ],
+        "peaks": [],
+        "theme": [
+            "Open",
+            "says",
+            "Serena",
+            "us",
+            "William",
+            "abuse"
+        ],
+        "timestamp": "2018-09-03 11:10:27.840192-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b8d145e421aa92ae21ecaad",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180903084104-serena-williams-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Serena William battles into US Open quarterfinals",
+                    "ts": 1535969225,
+                    "twitterid": 1036556178854174720,
+                    "url": "https://edition.cnn.com/2018/09/03/tennis/serena-williams-us-open-rafael-nadal-sloane-stephens-spt-intl/index.html?utm_term=image&utm_medium=social&utm_content=2018-09-03T10%3A07%3A04&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b8c6b9a421aa91b7432a7d5",
+                    "date_month": "2018-09",
+                    "image": "https://nbcolympictalk.files.wordpress.com/2018/09/gettyimages-1026249464-e1535924551102.jpg",
+                    "origin": "NBC News",
+                    "title": "Serena Williams into U.S. Open quarterfinals for 10th straight time",
+                    "ts": 1535926230,
+                    "twitterid": 1036375842023202817,
+                    "url": "https://olympics.nbcsports.com/2018/09/02/serena-williams-kaia-kanepi-us-open/?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b8d4cbc421aa92e94952c95",
+                    "date_month": "2018-09",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180903113241-01-sajid-javid-060318-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Tech firms must do more to combat child sex abuse online, UK says",
+                    "ts": 1535986206,
+                    "twitterid": 1036627399381790720,
+                    "url": "https://www.cnn.com/2018/09/03/europe/uk-pedophile-online-intl/index.html?utm_term=link&utm_content=2018-09-03T14%3A50%3A05&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b8c336c421aa9199fd56bcd",
+                    "date_month": "2018-09",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/Serena9218.jpg?itok=Wwzn2_RU",
+                    "origin": "Fox News",
+                    "title": "'Be Completely Grateful': Serena Williams Backs Colin Kaepernick's Anthem Protests at US Open",
+                    "ts": 1535912318,
+                    "twitterid": 1036317490308165641,
+                    "url": "http://insider.foxnews.com/2018/09/02/serena-williams-backs-colin-kaepernick-eric-reids-anthem-protests-us-open"
+                },
+                {
+                    "_id": "5b8cdc15421aa923316fd59a",
+                    "date_month": "2018-09",
+                    "image": "https://media.newyorker.com/photos/5b897857b40a9d62f099c986/16:9/w_1200,h_630,c_limit/Thomas-Madison-Keys.jpg",
+                    "origin": "The New Yorker",
+                    "title": "At the U.S. Open, Madison Keys Stays Out of the Hole",
+                    "ts": 1535955078,
+                    "twitterid": 1036496839451787264,
+                    "url": "https://www.newyorker.com/news/sporting-scene/at-the-us-open-madison-keys-stays-out-of-the-hole?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b8d3e99421aa92d9b70190e",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/09/03/0ece16ae-3068-4131-b132-bc9f15ac582e/thumbnail/1200x630/5547959a386b45116ef005e38b64d858/0903-ctm-wuerlwalkout-battiste.jpg",
+                    "origin": "CBS News",
+                    "title": "Protester yells \"shame on you\" as Cardinal Donald Wuerl addresses priest sex abuse",
+                    "ts": 1535979650,
+                    "twitterid": 1036599901466124290,
+                    "url": "https://www.cbsnews.com/news/protester-interrupts-cardinal-donald-wuerl-archbishop-washington-dc-shame-on-you/?ftag=CNM-00-10aab7e&linkId=56362268"
+                },
+                {
+                    "_id": "5b8d4cbc421aa92e94952c9f",
+                    "date_month": "2018-09",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/09/03/2fa673de-380d-403e-9636-c093de0d09c9/thumbnail/1200x630/afb4302e61e65532a186cd445d387bca/pope-francis-1026104236.jpg",
+                    "origin": "CBS News",
+                    "title": "Pope touts virtue of silence after sex abuse cover-up claims",
+                    "ts": 1535985654,
+                    "twitterid": 1036625084671242240,
+                    "url": "https://www.cbsnews.com/news/pope-francis-sexual-abuse-cover-up-claims-virtue-of-silence-vatican-mass/?ftag=CNM-00-10aab7e&linkId=56364407"
+                },
+                {
+                    "_id": "5b8c95d9421aa91dfa1ad3d8",
+                    "date_month": "2018-09",
+                    "image": "https://media4.s-nbcnews.com/j/newscms/2018_35/2549571/180830-serena-williams-us-open-tutu-ew-1239p_e6fb5e5d5a151681f70b64f8770865f5.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Serena Williams opens up about balancing tennis and 'mom guilt'",
+                    "ts": 1535937365,
+                    "twitterid": 1036422545694699521,
+                    "url": "https://www.nbcnews.com/better/pop-culture/serena-williams-opens-about-balancing-career-mom-guilt-ncna904886?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b8c95d9421aa91dfa1ad3c6",
+                    "date_month": "2018-09",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/09/02/0/0/694940094001_5830013155001_5830017071001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Teen boy in 'extremist Muslim' New Mexico compound says he was being trained for 'jihad': report",
+                    "ts": 1535939161,
+                    "twitterid": 1036430079293681664,
+                    "url": "http://www.foxnews.com/us/2018/09/02/teen-boy-in-extremist-muslim-new-mexico-compound-says-was-being-trained-for-jihad-report.html"
+                },
+                {
+                    "_id": "5b8ca3e1421aa920b500d5b2",
+                    "date_month": "2018-09",
+                    "image": "https://www.washingtonpost.com/resizer/VEJuoGo8cxalsGxKYtDBQbwRmZs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUH73OUXHMI6RAML5G3TJDGYPU.jpg",
+                    "origin": "Washington Post",
+                    "title": "A dying mother's legacy: letters for her four children to open at life milestones",
+                    "ts": 1535940561,
+                    "twitterid": 1036435952481312768,
+                    "url": "https://www.washingtonpost.com/national/health-science/a-dying-mother-wrote-her-children-letters-leaving-a-gift-of-love-for-years/2018/08/31/25c19faa-8c30-11e8-8aea-86e88ae760d8_story.html?utm_term=.e32fae842e9d&tid=sm_tw"
+                }
+            ]
+        ]
+    }
+]

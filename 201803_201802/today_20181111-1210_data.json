@@ -1,0 +1,2128 @@
+[
+    {
+        "list": [
+            31
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Comey",
+            "Kristallnacht",
+            "Fox Business",
+            "Beirut Barracks",
+            "White House",
+            "U.S.",
+            "US",
+            "Trump",
+            "McDougal",
+            "Roles",
+            "Rihanna",
+            "Broken Ribs Trump",
+            "Ojeda",
+            "Washington Post",
+            "Berlin",
+            "Kirsten Powers",
+            "Daniels",
+            "Sarah",
+            "China",
+            "Unlearned Lessons",
+            "Iran",
+            "Trish Regan",
+            "Putin",
+            "CNN",
+            "Justice Ginsburg Leaves Hospital",
+            "Kentucky",
+            "America",
+            "India",
+            "Michelle Obama",
+            "Senior Pentagon",
+            "FBI",
+            "Jim Acosta",
+            "Angela Merkel",
+            "Michael Karem",
+            "April Ryan",
+            "North Korea",
+            "House Dems"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "report",
+            "Acosta",
+            "White",
+            "aide",
+            "black",
+            "clash"
+        ],
+        "timestamp": "2018-11-11 12:10:18.871389-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be7b797421aa967d2a89114",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/hNWrV5WaR5GtJE2r-XAm_etOSyo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2ZLVWEDHM5RLIQQNENTR4UPP4.jpg",
+                    "origin": "The Washington Post",
+                    "title": "What India\u2019s media can learn from the Trump-Acosta clash",
+                    "ts": 1541909703,
+                    "twitterid": 1061472349042737153,
+                    "url": "https://www.washingtonpost.com/news/global-opinions/wp/2018/11/10/what-indias-media-can-learn-from-the-trump-acosta-clash/?utm_term=.399f2a44d0b0&tid=sm_tw"
+                },
+                {
+                    "_id": "5be72b2a421aa95c6ef09bf6",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/blogs/powerskirstentwitter.jpg",
+                    "origin": "The Hill",
+                    "title": "CNN's Kirsten Powers: Trump knocking black reporter for 'stupid question' is 'classic white supremacy'",
+                    "ts": 1541873824,
+                    "twitterid": 1061321860284145664,
+                    "url": "https://thehill.com/homenews/media/416060-cnns-kirsten-powers-on-trumps-latest-media-attacks-this-is-classic-white"
+                },
+                {
+                    "_id": "5be84431421aa971345fc340",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/conwaykellyanne_022318gn6_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Conway on video of Acosta-aide interaction: 'That\u2019s not altered, that\u2019s sped up'",
+                    "ts": 1541947986,
+                    "twitterid": 1061632917049356289,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416108-conway-on-video-of-acosta-thats-not-altered-thats-sped-up"
+                },
+                {
+                    "_id": "5be73908421aa95d41c9db9b",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/10/Screen_Shot_2018-11-10_at_13.59.00_s2048x743.png?420e872da5db8735c646a47835ff5cce6c4f99c3",
+                    "origin": "The Washington Times",
+                    "title": "White director who won minority theater grant defends decision to identify as black",
+                    "ts": 1541876721,
+                    "twitterid": 1061334012034195456,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/10/white-director-who-won-minority-theater-grant-defe/?cache"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e3d",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/schiff_trump_getty02_0.jpg",
+                    "origin": "The Hill",
+                    "title": "House Dems plan to investigate Trump targeting of CNN, Washington Post: report",
+                    "ts": 1541939344,
+                    "twitterid": 1061596672126607360,
+                    "url": "https://thehill.com/homenews/house/416095-house-dems-plan-to-investigate-trump-targeting-of-cnn-washington-post-report"
+                },
+                {
+                    "_id": "5be71d06421aa95b905f574f",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/ryanapril_110918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Fox Business' Trish Regan, April Ryan clash over Trump's treatment of press",
+                    "ts": 1541871664,
+                    "twitterid": 1061312802223218688,
+                    "url": "https://thehill.com/homenews/media/416016-fox-business-trish-regan-april-ryan-clash-over-trumps-treatment-of-press"
+                },
+                {
+                    "_id": "5be73908421aa95d41c9db9c",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_danielsstormy_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump played key role in coordinating hush money payments to Daniels, McDougal: report",
+                    "ts": 1541876703,
+                    "twitterid": 1061333936180264965,
+                    "url": "https://thehill.com/homenews/administration/415961-trump-played-key-role-in-coordinating-hush-money-payments-to-daniels"
+                },
+                {
+                    "_id": "5be85245421aa97212d75a15",
+                    "date_month": "2018-11",
+                    "image": "https://twt-assets.washtimes.com/images/favicon.30333d68dff6.ico",
+                    "origin": "The Washington Times",
+                    "title": "Michael Karem, aide to four GOP presidents, dead at 72",
+                    "ts": 1541949177,
+                    "twitterid": 1061637913518182400,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/michael-karem-aide-four-gop-presidents-dead-72/"
+                },
+                {
+                    "_id": "5be72b2a421aa95c6ef09bf9",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/comeyhearing_060817gn14_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Comey talked about sensitive FBI matters on personal email: report",
+                    "ts": 1541873344,
+                    "twitterid": 1061319844921049088,
+                    "url": "https://thehill.com/blogs/blog-briefing-room/news/416043-comey-talked-about-sensitive-fbi-matters-on-personal-email"
+                },
+                {
+                    "_id": "5be84431421aa971345fc34e",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/09/us/politics/09dc-ivanka1/09dc-ivanka1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "A White House Challenge: Balancing the Roles of the First Lady and First Daughter",
+                    "ts": 1541946871,
+                    "twitterid": 1061628241675517952,
+                    "url": "https://www.nytimes.com/2018/11/11/us/politics/ivanka-trump-africa-trip.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            50
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Florida",
+            "U.S.",
+            "First Read",
+            "Bill Nelson",
+            "Florida Stung",
+            "Trump",
+            "Nelson",
+            "Arizona Florida",
+            "Arizona Senate",
+            "Recounts",
+            "Scott Leads Sinema",
+            "Arizona",
+            "AZ",
+            "Senate",
+            "Recount Florida",
+            "Amid",
+            "Gillum",
+            "Key Florida",
+            "Uncalled Senate",
+            "Land",
+            "Contested Elections Gillum",
+            "Florida Elections For Governor And",
+            "McSally",
+            "Georgia",
+            "Broward County",
+            "Parkland",
+            "Broward County Rick Scott",
+            "Florida Senate Race Heads",
+            "Kyrsten Sinema",
+            "Rick Scott",
+            "Andrew Gillum",
+            "House",
+            "Florida Senate"
+        ],
+        "peaks": [],
+        "theme": [
+            "Florida",
+            "recount",
+            "race",
+            "Senate",
+            "governor",
+            "Arizona",
+            "head"
+        ],
+        "timestamp": "2018-11-11 12:10:19.734680-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be73908421aa95d41c9db9d",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/07/USAT/40010f38-6bbb-4f49-a396-967115a7faef-VPC_FLORIDA_SENATE_RACE_THUMB.jpg?crop=1919,1079,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Florida's Senate, governor races headed for recount",
+                    "ts": 1541876698,
+                    "twitterid": 1061333916043358210,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/11/09/florida-recount-updates-rick-scott-sues-trump-gillum-twitter-war/1944858002/"
+                },
+                {
+                    "_id": "5be72b2a421aa95c6ef09bd4",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-36244/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Florida Senate Race Heads to a Recount as Scott Leads",
+                    "ts": 1541876106,
+                    "twitterid": 1061331433447415810,
+                    "url": "https://www.wsj.com/articles/florida-senate-race-heads-to-recount-1541873798?mod=e2tw"
+                },
+                {
+                    "_id": "5be73908421aa95d41c9db91",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/10/ap_18313743367146_wide-013acd5a05ccf84c2c359a6d4988dc51b243a60f.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Florida Elections For Governor And U.S. Senate Heading For Recount",
+                    "ts": 1541877544,
+                    "twitterid": 1061337462436315136,
+                    "url": "https://www.npr.org/2018/11/10/666549890/florida-elections-for-governor-and-u-s-senate-heading-for-recount?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5be7471e421aa95e18bdce70",
+                    "date_month": "2018-11",
+                    "image": "https://amp.businessinsider.com/images/5be72e4ebeb67023b63ccb85-1920-960.jpg",
+                    "origin": "Politics Insider",
+                    "title": "The highly contested Florida Senate and governor races are headed for a recount",
+                    "ts": 1541882622,
+                    "twitterid": 1061358762756333576,
+                    "url": "https://www.businessinsider.com/recounts-ordered-in-florida-senate-and-governor-races-2018-11"
+                },
+                {
+                    "_id": "5be72b2a421aa95c6ef09bd5",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/kyrstensinema_marthamcsally3_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Sinema widens lead over McSally in Arizona Senate race",
+                    "ts": 1541875983,
+                    "twitterid": 1061330914133884928,
+                    "url": "https://thehill.com/homenews/campaign/416033-dem-sinema-widens-lead-over-mcsally-in-arizona-senate-race"
+                },
+                {
+                    "_id": "5be83608421aa97046d4d359",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18277734754031_s2048x1537.jpg?5341d86fcd755ab3f23e6550f11ddf4c72250f62",
+                    "origin": "The Washington Times",
+                    "title": "Kyrsten Sinema gains 4,000 votes in Arizona Senate race",
+                    "ts": 1541944633,
+                    "twitterid": 1061618854051356672,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/kyrsten-sinema-gains-4000-votes-arizona-senate-rac/"
+                },
+                {
+                    "_id": "5be72b2a421aa95c6ef09bda",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/RMGMpqOikimA9q2zdql7EAKCLlk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7MMS65XFCYI6RN2ZHWEKLTU6DE.jpg",
+                    "origin": "Post Politics",
+                    "title": "Recount to begin in Florida Senate and governor\u2019s races, in echo of 2000 presidential election",
+                    "ts": 1541875758,
+                    "twitterid": 1061329972718116864,
+                    "url": "https://www.washingtonpost.com/politics/recount-to-begin-in-florida-senate-and-governors-races-in-echo-of-2000-presidential-election/2018/11/10/1241d726-e502-11e8-a1c9-6afe99dddd92_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5be73908421aa95d41c9db83",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201811/n_vr_florida_secretary_recount_181110_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Florida Secretary of State orders statewide machine recount for Senate and Governor races",
+                    "ts": 1541878212,
+                    "twitterid": 1061340265179480064,
+                    "url": "https://www.msnbc.com/velshi-ruhle/watch/florida-secretary-of-state-orders-statewide-machine-recount-for-senate-and-governor-races-1367150147755?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5be7471e421aa95e18bdce67",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/andrewgillum_08310218.jpg",
+                    "origin": "The Hill",
+                    "title": "Gillum retracts concession in Florida governor's race",
+                    "ts": 1541883359,
+                    "twitterid": 1061361854419791874,
+                    "url": "https://thehill.com/homenews/campaign/416072-gillum-retracts-concession-to-desantis?__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5be75545421aa95f3a0d4c43",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/21/8e/8fae7c044f8aa66f607a10f86d31/states.png",
+                    "origin": "POLITICO",
+                    "title": "Gillum rescinds concession in Florida governor\u2019s race",
+                    "ts": 1541884806,
+                    "twitterid": 1061367922311004160,
+                    "url": "https://www.politico.com/states/florida/story/2018/11/10/gillum-rescinds-concession-in-florida-governors-race-691184"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            60
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Indict Trump",
+            "House Democrat",
+            "Scalia",
+            "Outsider Democrats Who",
+            "Democratic House Threatens Trump",
+            "Freedom Larry Hogan",
+            "Republican",
+            "Congress Momentum",
+            "Fix Schools",
+            "Elvis",
+            "Trump Political",
+            "Melissa",
+            "House Pelosi",
+            "Nancy Pelosi",
+            "Mueller Doesn",
+            "House How Democrats",
+            "Favorite",
+            "Space Force",
+            "Babe Ruth",
+            "Midwest",
+            "Business Agenda",
+            "New York Dem",
+            "Divergent Worlds Top House",
+            "Halloween",
+            "Will House",
+            "New GOP House",
+            "Midterm Election",
+            "Medicaid",
+            "AP",
+            "Woman",
+            "New Divide",
+            "Dem House",
+            "GOP Top",
+            "Pompeo Wife",
+            "Impeach Him",
+            "South",
+            "Midterms",
+            "Kasich",
+            "Arizona Senate Race",
+            "Midterm Results Point",
+            "Congress",
+            "America",
+            "Blue Wave",
+            "Dems Divided Congress",
+            "Medal",
+            "Potholes Dems",
+            "Freedom",
+            "GOP",
+            "Hatch Beto",
+            "Kavanaugh Dem",
+            "Democratic",
+            "Maryland Trump",
+            "House Dems"
+        ],
+        "peaks": [],
+        "theme": [
+            "Democrats",
+            "Trump",
+            "House",
+            "Dem",
+            "Midterm",
+            "Election",
+            "GOP"
+        ],
+        "timestamp": "2018-11-11 12:10:21.092857-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be79b9b421aa9660f9f7cad",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/SBIf4Ayx5ee8BmrT9_lfx_PhBig=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AI2OIMXEOAI6RN2ZHWEKLTU6DE.jpg",
+                    "origin": "The Washington Post",
+                    "title": "For Democrats, a midterm election that keeps on giving",
+                    "ts": 1541903055,
+                    "twitterid": 1061444463808143360,
+                    "url": "https://www.washingtonpost.com/politics/for-democrats-a-midterm-election-that-keeps-on-giving/2018/11/09/b4075ef2-e456-11e8-ab2c-b31dcd53ca6b_story.html?utm_term=.bea222ae0fde&tid=sm_tw"
+                },
+                {
+                    "_id": "5be77146421aa9630de185e3",
+                    "date_month": "2018-11",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:0e285f16d5b847ed9ee91618e859d653/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "AP FACT CHECK: Trump\u2019s election fiction on GOP wins, economy",
+                    "ts": 1541891892,
+                    "twitterid": 1061397644180946944,
+                    "url": "https://www.apnews.com/3f996ce05ba144aba801bf04747bd5f0?utm_source=Twitter&utm_campaign=SocialFlow&utm_medium=AP_Politics&utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=AP_Politics"
+                },
+                {
+                    "_id": "5be85245421aa97212d75a03",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/nadlerjerrold_watersmaxine_010918gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Top House Dem: Pelosi will have 'overwhelming support' of Democrats in bid for Speaker",
+                    "ts": 1541950867,
+                    "twitterid": 1061645000780460033,
+                    "url": "https://thehill.com/homenews/sunday-talk-shows/416112-top-house-dem-pelosi-will-have-overwhelming-support-of-democrats"
+                },
+                {
+                    "_id": "5be7b797421aa967d2a89119",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/trumpdonaldtwo_11062018wh.jpg",
+                    "origin": "The Hill",
+                    "title": "GOP pollster says House Dems won't move to impeach Trump",
+                    "ts": 1541908860,
+                    "twitterid": 1061468810996109312,
+                    "url": "https://thehill.com/hilltv/what-americas-thinking/415743-gop-pollster-says-house-dems-wont-move-to-impeach-trump"
+                },
+                {
+                    "_id": "5be77f73421aa96443e4bab8",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/maloneysean_010317gn.jpg",
+                    "origin": "The Hill",
+                    "title": "New York Dem announces bid to lead Dem House campaign arm",
+                    "ts": 1541896625,
+                    "twitterid": 1061417494299189249,
+                    "url": "https://thehill.com/homenews/house/416078-house-new-york-dem-announces-bid-to-lead-dem-house-campaign-arm"
+                },
+                {
+                    "_id": "5be80be5421aa96d7ed7b6af",
+                    "date_month": "2018-11",
+                    "image": "https://fivethirtyeight.com/wp-content/uploads/2018/11/16x9-House-Reaction.png?w=1600",
+                    "origin": "ABC News",
+                    "title": "How Democrats Won The House",
+                    "ts": 1541932079,
+                    "twitterid": 1061566198960263168,
+                    "url": "https://fivethirtyeight.com/features/how-democrats-took-the-house-on-election-night/?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5be83608421aa97046d4d360",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/01/QuotesCongressQuiz-900_s2048x1192.jpg?1c2280ecf9a6a20b6b32cf0d7111aa574b3d8aa7",
+                    "origin": "The Washington Times",
+                    "title": "Republicans must reassess after mixed midterm election results",
+                    "ts": 1541943905,
+                    "twitterid": 1061615800245723138,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/7/republicans-must-reassess-after-mixed-midterm-elec/"
+                },
+                {
+                    "_id": "5be8605d421aa97303049964",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/grahamlindsey_davidsonwarren_110918gn.jpg",
+                    "origin": "The Hill",
+                    "title": "Dem wins leave behind a more conservative GOP conference",
+                    "ts": 1541952786,
+                    "twitterid": 1061653049800880128,
+                    "url": "https://thehill.com/homenews/house/415922-dem-wins-leave-behind-a-more-conservative-gop-conference"
+                },
+                {
+                    "_id": "5be7b797421aa967d2a8910b",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-35352/social",
+                    "origin": "Capital Journal",
+                    "title": "Democratic House Threatens Trump\u2019s Business Agenda",
+                    "ts": 1541910750,
+                    "twitterid": 1061476738734137345,
+                    "url": "https://www.wsj.com/articles/democratic-house-threatens-trumps-business-agenda-1541599464?mod=e2twp"
+                },
+                {
+                    "_id": "5be85245421aa97212d759ff",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-35599/social",
+                    "origin": "Capital Journal",
+                    "title": "What the Midterm Election Shows: America\u2019s Two Parties Live In Divergent Worlds",
+                    "ts": 1541951781,
+                    "twitterid": 1061648837398421506,
+                    "url": "https://www.wsj.com/articles/what-the-midterm-election-shows-americas-two-parties-live-in-divergent-worlds-1541634743?mod=e2twp"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            50
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Donald Trump",
+            "WWI World",
+            "White House",
+            "France",
+            "U.S.",
+            "WWI",
+            "Trump",
+            "Churchill",
+            "Woodrow Wilson Critics",
+            "Paris Macron",
+            "American",
+            "New Hampshire",
+            "Paris",
+            "France French",
+            "Paris To Commemorate End",
+            "Paris Trump",
+            "Triomphe Trove",
+            "German",
+            "Great War Tapping Trump",
+            "Unsung",
+            "Kerry",
+            "Macron",
+            "WWI Emmanuel Macron",
+            "Washington",
+            "EU",
+            "Tomb",
+            "Arc",
+            "France Trump",
+            "Belleau Wood",
+            "Arlington",
+            "Europe",
+            "Great War",
+            "Armistice",
+            "Watch",
+            "Marine Corps",
+            "Emmanuel Macron",
+            "Unknown Soldier",
+            "US Truce"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "World",
+            "War",
+            "Macron",
+            "WWI",
+            "Armistice",
+            "Paris"
+        ],
+        "timestamp": "2018-11-11 12:10:21.897287-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be83608421aa97046d4d368",
+                    "date_month": "2018-11",
+                    "image": "https://www.trbimg.com/img-5be82c2e/turbine/ct-wwi-armistice-paris-commemorations-20181111",
+                    "origin": "Chicago Tribune",
+                    "title": "World leaders gather in Paris a century after WWI armistice",
+                    "ts": 1541942716,
+                    "twitterid": 1061610814044626944,
+                    "url": "https://www.chicagotribune.com/news/nationworld/ct-wwi-armistice-paris-commemorations-20181111-story.html"
+                },
+                {
+                    "_id": "5be819ed421aa96e77abe535",
+                    "date_month": "2018-11",
+                    "image": "https://images.c-span.org/Files/1e7/1500042643.jpg/Thumbs/height.630.no_border.width.1200.jpg",
+                    "origin": "CSPAN",
+                    "title": "World War I Armistice Centennial Commemoration",
+                    "ts": 1541936345,
+                    "twitterid": 1061584090305085440,
+                    "url": "https://www.c-span.org/video/?454026-1/world-war-armistice-centennial-commemoration"
+                },
+                {
+                    "_id": "5be73908421aa95d41c9db89",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/10/ap_18314476904995_wide-6a323f6e2567b065a1fab91756004b6e919092f8.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Trump's Meeting In Paris To Commemorate End of World War I Starts With A Spat",
+                    "ts": 1541877999,
+                    "twitterid": 1061339371331235840,
+                    "url": "https://www.npr.org/2018/11/10/666518584/trumps-meeting-in-paris-to-commemorate-end-of-world-war-i-starts-with-a-spat?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5be8605d421aa97303049966",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/trump_111118wh.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump honors French and American soldiers of World War I in Armistice Day remarks",
+                    "ts": 1541952542,
+                    "twitterid": 1061652025212055553,
+                    "url": "https://thehill.com/homenews/administration/416117-trump-honors-french-and-american-soldiers-of-world-war-i-in-armistice"
+                },
+                {
+                    "_id": "5be77146421aa9630de185ee",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/macronemmanuel_trumpdonald_042418gn6_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump scheduled for Macron meeting, no other one-on-ones with world leaders while in Paris",
+                    "ts": 1541890860,
+                    "twitterid": 1061393313784360961,
+                    "url": "https://thehill.com/policy/defense/415586-trump-scheduled-for-macron-meeting-no-other-one-on-ones-with-world-leaders"
+                },
+                {
+                    "_id": "5be71d06421aa95b905f5763",
+                    "date_month": "2018-11",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_45/2641421/afp_1aq2p2_3bc84468d7edef3cf8e9a198ddfe9a9b.1200;630;7;70;5.JPG",
+                    "origin": "NBC News",
+                    "title": "Trump and Macron paper over differences in Paris meeting",
+                    "ts": 1541870164,
+                    "twitterid": 1061306510935027718,
+                    "url": "https://www.nbcnews.com/politics/donald-trump/trump-macron-paper-over-differences-paris-meeting-n934776?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be85245421aa97212d75a13",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/trump1_111118getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Watch live: Trump speaks at Armistice Day ceremony in Paris",
+                    "ts": 1541949311,
+                    "twitterid": 1061638476544835584,
+                    "url": "https://thehill.com/homenews/administration/416103-watch-live-trump-speaks-at-armistice-day-ceremony-in-paris"
+                },
+                {
+                    "_id": "5be71d06421aa95b905f5762",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/trumpdonald_macronemanuel_110918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump knocks Macron in tweet moments after landing in Paris",
+                    "ts": 1541870225,
+                    "twitterid": 1061306762723237888,
+                    "url": "https://thehill.com/policy/international/europe/416011-trump-knocks-macron-in-tweet-moments-after-landing-in-paris"
+                },
+                {
+                    "_id": "5be7471e421aa95e18bdce62",
+                    "date_month": "2018-11",
+                    "image": "https://www.politico.eu/wp-content/uploads/2018/11/GettyImages-1059806628-1200x628.jpg",
+                    "origin": "POLITICO",
+                    "title": "Truce in Paris after Trump\u2019s offense at Macron\u2019s EU army pledge",
+                    "ts": 1541883605,
+                    "twitterid": 1061362885845078016,
+                    "url": "https://www.politico.eu/article/truce-in-paris-after-trumps-offence-at-macrons-eu-army-pledge-on-armistice-day/"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e41",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18315395679108_s2048x1276.jpg?1727140ed660d14411f73069b4512e33aed05671",
+                    "origin": "The Washington Times",
+                    "title": "Emmanuel Macron rips nationalism in Paris speech as Donald Trump looks on",
+                    "ts": 1541938721,
+                    "twitterid": 1061594059284865024,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/emmanuel-macron-rips-nationalism-paris-speech-dona/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            12
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Agony",
+            "Jeff Sessions",
+            "Texas Republican",
+            "Robert De Niro",
+            "Adele",
+            "Dan Crenshaw Mocks Pete Davidson And Robert De Niro Returns As Mueller",
+            "SNL",
+            "GOP",
+            "Pete Davidson",
+            "Mueller Jeff Sessions",
+            "Veteran",
+            "Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "SNL",
+            "Sessions",
+            "Davidson",
+            "Jeff",
+            "Pete",
+            "mocked",
+            "de"
+        ],
+        "timestamp": "2018-11-11 12:10:22.166702-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be71d06421aa95b905f5744",
+                    "date_month": "2018-11",
+                    "image": "https://media2.s-nbcnews.com/j/newscms/2018_45/2637031/181107-dan-crenshaw-mc-1400_bd2bd4c199aaccd8da79532562810346.1200;630;7;70;5.JPG",
+                    "origin": "MSNBC",
+                    "title": "Veteran mocked by Pete Davidson on 'SNL' wins congressional election",
+                    "ts": 1541872814,
+                    "twitterid": 1061317622401323008,
+                    "url": "https://www.nbcnews.com/politics/elections/veteran-mocked-pete-davidson-snl-wins-congressional-election-n933411?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5be8605d421aa97303049960",
+                    "date_month": "2018-11",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:4f55f02c1b504cbba1b1a4bc0ba975f9/3000.jpeg",
+                    "origin": "AP Eastern US",
+                    "title": "On SNL, Pete Davidson says sorry to wounded vet he mocked",
+                    "ts": 1541953042,
+                    "twitterid": 1061654123802750976,
+                    "url": "https://www.apnews.com/34213f9a2fd34ea7a7f1af313d9fccf0?utm_medium=APEastRegion&utm_source=Twitter&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5be80be5421aa96d7ed7b6a6",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/11/muellersessions_wide-5e5902b7486ad0d8044fdf572239517eac61e4cc.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Dan Crenshaw Mocks Pete Davidson And Robert De Niro Returns As Mueller On 'SNL'",
+                    "ts": 1541933443,
+                    "twitterid": 1061571921987330048,
+                    "url": "https://www.npr.org/2018/11/11/666658996/dan-crenshaw-mocks-pete-davidson-and-robert-de-niro-returns-as-mueller-on-snl?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e2c",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/snl_111118snl.jpg",
+                    "origin": "The Hill",
+                    "title": "SNL\u2019s Pete Davidson apologizes on set to Republican veteran he mocked: \u2018The man is a war hero\u2019",
+                    "ts": 1541940782,
+                    "twitterid": 1061602704341065729,
+                    "url": "https://thehill.com/blogs/in-the-know/in-the-know/416096-snls-pete-davidson-apologizes-on-set-to-gop-veteran-candidate?__twitter_impression=true&__twitter_impression=true"
+                },
+                {
+                    "_id": "5be7c598421aa968786f54d8",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/-mm-/322f5d74305547090bc274f56107e40846bee274/c=0-154-3000-1849/local/-/media/2018/04/15/USATODAY/USATODAY/636593629559450367-NUP-182564-0014.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "'SNL' says goodbye to Jeff Sessions \u2014 with Trump critic Robert De Niro as Mueller",
+                    "ts": 1541915550,
+                    "twitterid": 1061496872861401088,
+                    "url": "https://www.usatoday.com/story/life/tv/2018/11/11/snl-says-bye-jeff-sessions-trump-critic-robert-de-niro/1965288002/"
+                },
+                {
+                    "_id": "5be7d3b7421aa969729c6920",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/f4v9PUKuNFRarWqAFkHa3gaIEPs=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DYXCR43WDNFJTNLPTPDZN4ZHSM.png",
+                    "origin": "The Washington Post",
+                    "title": "Jeff Sessions, Robert De Niro and Adele: SNL\u2019s cold open brings back a guest star (and packs a punch)",
+                    "ts": 1541918752,
+                    "twitterid": 1061510303630934016,
+                    "url": "https://www.washingtonpost.com/arts-entertainment/2018/11/11/jeff-sessions-robert-de-niro-adele-snls-cold-open-brings-back-guest-star-packs-punch/?tid=sm_tw"
+                },
+                {
+                    "_id": "5be7b797421aa967d2a8910d",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-35632/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Jeff Sessions\u2019 Successor",
+                    "ts": 1541910610,
+                    "twitterid": 1061476151359606787,
+                    "url": "https://www.wsj.com/articles/jeff-sessions-successor-1541635200?mod=e2tw"
+                },
+                {
+                    "_id": "5be83608421aa97046d4d375",
+                    "date_month": "2018-11",
+                    "image": "https://images.newrepublic.com/b77124837ba4daffc5693b1479702c63312194d8.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+                    "origin": "The New Republic",
+                    "title": "The Agony and Malice of Jeff Sessions",
+                    "ts": 1541941227,
+                    "twitterid": 1061604567937441792,
+                    "url": "https://newrepublic.com/article/152082/agony-malice-jeff-sessions-resigns-attorney-general"
+                },
+                {
+                    "_id": "5be819ed421aa96e77abe531",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/11/BostonGlobe.com/Metro/Images/eeaa7a54e1554798a6560d58f8606e66-eeaa7a54e1554798a6560d58f8606e66-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Texas Republican appears on \u2018Saturday Night Live\u2019 to get back at Pete Davidson",
+                    "ts": 1541937005,
+                    "twitterid": 1061586859116105729,
+                    "url": "https://www.bostonglobe.com/arts/television/2018/11/11/texas-republican-appears-saturday-night-live-get-back-pete-davidson/c2mZ0Ez5t72NW8j6SU81ML/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be75545421aa95f3a0d4c40",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/OAh5vFc607SEoSwWNUpyey9AW6k=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EFOAFHHDRYI6RD27UVJUP5EHMI.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Liberals were concerned about Jeff Sessions\u2019s impact on civil rights. He lived up to their fears.",
+                    "ts": 1541884861,
+                    "twitterid": 1061368152741896192,
+                    "url": "https://www.washingtonpost.com/politics/2018/11/10/liberals-were-concerned-about-jeff-sessionss-impact-civil-rights-he-lived-up-their-fears/?utm_term=.7015d46b8421&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            68
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Honduras Aetna",
+            "Avenatti",
+            "Vitamin D",
+            "Mother",
+            "Tucker Carlson",
+            "Quincy",
+            "Trump Suspends Some Asylum Rights",
+            "Joanna Gaines",
+            "McDonald",
+            "Columbia Gas",
+            "Congolese",
+            "Discovery",
+            "PayPal",
+            "Massachusetts",
+            "Google",
+            "Francoise Gilot",
+            "US",
+            "Pacific Crest Trail Odyssey",
+            "Muslim",
+            "PHOTOS",
+            "Caravan",
+            "Babe Ruth",
+            "Don Lemon Woman",
+            "Utah",
+            "LeBron James Ebola",
+            "Chip",
+            "Measles",
+            "Serves Local Fries",
+            "Current Ebola",
+            "Conjoined Bhutanese",
+            "Hong Kong",
+            "Mexico City",
+            "Anxiety Bank",
+            "FDA",
+            "True Brexit Believers Man",
+            "Tijuana Victoria",
+            "Taken Seriously Denver",
+            "China",
+            "Antifa",
+            "Fox News",
+            "Havana Syndrome Artificial",
+            "Health Insurance Marketplace Elvis",
+            "Oils",
+            "Rage",
+            "Kratom",
+            "Provide Abortions",
+            "Realpolitik Inside Trump",
+            "Ecuador",
+            "Walmart",
+            "Deadly",
+            "Ohio",
+            "CNN",
+            "Illegal Immigration",
+            "Threats Of Violence Chris Martin",
+            "Iran And Trading Partners Will Find Ways To Skirt Sanctions",
+            "Lowell",
+            "Brett Kavanaugh",
+            "Russia",
+            "Gwyneth Paltrow",
+            "Electric",
+            "Humvees",
+            "Salmonella",
+            "Migrant",
+            "Tijuana Social",
+            "Freedom",
+            "Picasso",
+            "New VA"
+        ],
+        "peaks": [],
+        "theme": [
+            "Say",
+            "Trump",
+            "health",
+            "News",
+            "news",
+            "Oils",
+            "studies"
+        ],
+        "timestamp": "2018-11-11 12:10:23.620123-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be7e1ad421aa96c4c9e570f",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "The Washington Post",
+                    "title": "Fish-oil drugs protect heart health, two studies say",
+                    "ts": 1541920264,
+                    "twitterid": 1061516643984203777,
+                    "url": "https://www.washingtonpost.com/national/health-science/fish-oil-drugs-protect-heart-health-two-studies-say/2018/11/10/bcdf0f52-e442-11e8-b759-3d88a5ce9e19_story.html?utm_term=.e0c7ccc0254f&tid=sm_tw"
+                },
+                {
+                    "_id": "5be7471e421aa95e18bdce89",
+                    "date_month": "2018-11",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:cbd5dbcce9ed446a85a7f7bd567d2638/3000.jpeg",
+                    "origin": "AP Central U.S.",
+                    "title": "Big studies give mixed news on fish oil, vitamin D",
+                    "ts": 1541880936,
+                    "twitterid": 1061351687875641344,
+                    "url": "https://apnews.com/fd68acf4a795463e8753c2ca775fc03d?utm_campaign=SocialFlow&utm_medium=APCentralRegion&utm_source=Twitter"
+                },
+                {
+                    "_id": "5be84431421aa971345fc35b",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/CEDTELef3tW1V3wDkpgW4qb8hs8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOR6IOHCWMI6RD27UVJUP5EHMI.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Will Fox News survive as a house united? A look at the cable network\u2019s ongoing drama in the Trump era.",
+                    "ts": 1541945624,
+                    "twitterid": 1061623010136875009,
+                    "url": "https://www.washingtonpost.com/lifestyle/style/will-fox-news-survive-as-a-house-united-a-look-at-the-cable-networks-ongoing-drama-in-the-trump-era/2018/11/09/1a9017d8-e3e7-11e8-b759-3d88a5ce9e19_story.html?utm_term=.4a0199ca6298&tid=sm_tw"
+                },
+                {
+                    "_id": "5be75545421aa95f3a0d4c4c",
+                    "date_month": "2018-11",
+                    "image": "https://www.healthcare.gov/images/logo.png",
+                    "origin": "The Washington Times",
+                    "title": "Get 2019 health coverage. Health Insurance Marketplace",
+                    "ts": 1541884039,
+                    "twitterid": 1061364703308464128,
+                    "url": "https://www.healthcare.gov/"
+                },
+                {
+                    "_id": "5be7efd3421aa96ca4796b79",
+                    "date_month": "2018-11",
+                    "image": "https://media.newyorker.com/photos/59cc19f1df4372773b5cc77a/16:9/w_1200,h_630,c_limit/171009_r30680.jpg",
+                    "origin": "The New Yorker",
+                    "title": "How Essential Oils Became the Cure for Our Age of Anxiety",
+                    "ts": 1541926154,
+                    "twitterid": 1061541350062071808,
+                    "url": "https://www.newyorker.com/magazine/2017/10/09/how-essential-oils-became-the-cure-for-our-age-of-anxiety?mbid=social_twitter"
+                },
+                {
+                    "_id": "5be819ed421aa96e77abe541",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181109145437-xinhua-ai-anchor-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "China has developed a virtual anchor to deliver the news",
+                    "ts": 1541934067,
+                    "twitterid": 1061574535701585926,
+                    "url": "https://www.cnn.com/2018/11/09/media/china-xinhua-ai-anchor/index.html?utm_content=2018-11-11T11%3A01%3A06&utm_medium=social&utm_source=twCNN&utm_term=image"
+                },
+                {
+                    "_id": "5be85245421aa97212d75a0f",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/09/ap_18266520992964_wide-91e7cd0a288371c4b32902cadfbafe8b5e1000d5.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Iran And Trading Partners Will Find Ways To Skirt Sanctions, Analysts Say",
+                    "ts": 1541950200,
+                    "twitterid": 1061642205067042818,
+                    "url": "https://www.npr.org/2018/11/11/666297472/iran-and-trading-partners-will-find-ways-to-skirt-sanctions-analysts-say?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=2040"
+                },
+                {
+                    "_id": "5be77146421aa9630de185e1",
+                    "date_month": "2018-11",
+                    "image": "https://c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/images/logo-bg.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Measles case confirmed in Lowell, public health warning issued",
+                    "ts": 1541892036,
+                    "twitterid": 1061398246604582912,
+                    "url": "https://www.bostonglobe.com/metro/2018/11/10/measles-case-confirmed-lowell-public-health-warning-issued/52OLOGp3ZcqNDDcmfzX6jN/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be84431421aa971345fc35c",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/08/USAT/ba5424a5-9132-4fbf-abb3-22d67ab835b5-rage_room_0005.JPG?crop=2999,1678,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Rage rooms: Why recreational smashing could be good for your mental health",
+                    "ts": 1541945575,
+                    "twitterid": 1061622805006049282,
+                    "url": "https://www.usatoday.com/story/news/2018/11/11/rage-rooms-what-might-surprise-you-growing-trend/1754653002/"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e4a",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_45/2640706/181109-mauritania-al-1420_cee51f596122acc3a35aa9d6d71628d1.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "The Trump admin sent him 'home' to a land where slavery lives on",
+                    "ts": 1541937747,
+                    "twitterid": 1061589971377774592,
+                    "url": "https://www.nbcnews.com/politics/immigration/trump-admin-sent-him-home-land-where-slavery-lives-n934506?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            150
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Favourite",
+            "Bucks",
+            "Europe Artist",
+            "Duxbury",
+            "Kenmore Square Migrant",
+            "U.S.",
+            "Maryland",
+            "Eyewear Dolly Parton",
+            "Celtics Sex",
+            "Bruins",
+            "John Stevens",
+            "Justice Antonin Scalia",
+            "Duke",
+            "Brutal Battle",
+            "NBC News",
+            "Suresnes American Cemetery Shooting",
+            "Saffron",
+            "Hit Keystone",
+            "Jimmy Butler",
+            "Adopted Black Baby",
+            "PTSD",
+            "Eastern Conference",
+            "South Loop",
+            "Maple Leafs Medicare",
+            "Michelle Obama",
+            "Burmese",
+            "Iowa",
+            "Sears",
+            "Mandarin",
+            "New England",
+            "Gabrielle Union",
+            "Rockefeller Center Christmas",
+            "Shawnee State University",
+            "Paris Veterans",
+            "Veterans Classic Car",
+            "Germany",
+            "Paramount Ranch",
+            "Zach Brown",
+            "Harwich",
+            "WWI",
+            "Greece",
+            "Rock Center Boston",
+            "Boston Cream",
+            "Houstatonic Community College",
+            "Beyond",
+            "Central Park",
+            "Blackhawks",
+            "Chicago",
+            "Indiana",
+            "David Cutcliffe",
+            "Too",
+            "Goodbye",
+            "Grinch",
+            "USA Really",
+            "Joel Quenneville",
+            "Aaron Hernandez",
+            "Kevin Harvick",
+            "READ",
+            "Canada",
+            "FBI",
+            "North Carolina",
+            "Minotaur Rob Gronkowski",
+            "Trump Delivers Remarks",
+            "College Football Playoff Rask",
+            "Rachel Weisz",
+            "Venezuela Gun",
+            "America Photos",
+            "West Bank",
+            "California Bar",
+            "Giant Spider",
+            "African",
+            "Logan Square The",
+            "Havana",
+            "Boston College",
+            "Midterm Elections",
+            "Fourteenth Amendment",
+            "Navy",
+            "Crude Problem",
+            "Clemson",
+            "Diwali Lanterns",
+            "Bishops",
+            "Thousand Oaks",
+            "D.C.",
+            "Titans Charles Meyrick",
+            "Walmart",
+            "California",
+            "Seoul",
+            "Raccoon Rooting",
+            "Apple",
+            "IVF",
+            "Spain",
+            "Freedom",
+            "Scott Tacinelli",
+            "Malia",
+            "UMass Boston",
+            "Minnesota Timberwolves",
+            "Greyhounds May Need Homes",
+            "Suzy Whaley",
+            "Nazi",
+            "Grace Corrigan",
+            "HBO",
+            "Redskins",
+            "France",
+            "Elvis",
+            "Nicholas Meriwether",
+            "Pastrnak",
+            "Faneuil Hall",
+            "Angie Rito",
+            "LPGA",
+            "American",
+            "Patriots",
+            "Hingham",
+            "Babe Ruth",
+            "American Tank Gunner",
+            "Rashida Tlaib",
+            "Clippers",
+            "Gordon",
+            "Tap",
+            "Virginia",
+            "Tennessee How Many Guns Do Americans Own",
+            "Democracy",
+            "Catholic",
+            "Flaming Barrels",
+            "Quinton Dunbar",
+            "Boston College Missouri Republican",
+            "Wisconsin",
+            "Gun Violence",
+            "Jerry Remy",
+            "Las Vegas",
+            "Milwaukee Avenue",
+            "Baseball History Has",
+            "Congress",
+            "Christa",
+            "Meghan",
+            "MIAA",
+            "Florida Bans",
+            "Nowhere",
+            "Philadelphia",
+            "Kmart",
+            "Sasha",
+            "Chestnut Hill",
+            "Morgan Moses",
+            "Amazon",
+            "Forsbacka Karlsson",
+            "Gunshot",
+            "Dennis Hof",
+            "White One Who",
+            "Christmas Tree"
+        ],
+        "peaks": [],
+        "theme": [
+            "bar",
+            "California",
+            "says",
+            "Shooting",
+            "Americans",
+            "Boston",
+            "gunman"
+        ],
+        "timestamp": "2018-11-11 12:10:25.574434-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be71d06421aa95b905f5748",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/10/BostonGlobe.com/National/Images/AFP_1AP00F.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Calif. gunman apparently stopped shooting to post online, official says",
+                    "ts": 1541872588,
+                    "twitterid": 1061316675046465537,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/11/10/calif-gunman-apparently-stopped-shooting-post-online-official-says/FYgrXTEc4iCWcbsezVdMUP/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be7b797421aa967d2a89113",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/11/11/8825bc40-d163-4f99-883b-920785f3356c/thumbnail/1200x630/9816de6549affa0cc8c14708ad963614/gettyimages-1059418432.jpg",
+                    "origin": "CBS News",
+                    "title": "Gunman who killed 12 at California bar died from self-inflicted gunshot",
+                    "ts": 1541909709,
+                    "twitterid": 1061472373659054080,
+                    "url": "https://www.cbsnews.com/news/thousand-oaks-shooting-gunman-ian-david-long-who-killed-12-at-california-bar-died-from-self-inflicted-gunshot/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+New+Content+(Feed)&utm_content=5be7acc804d3015ec70ea5a4&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5be7c598421aa968786f54db",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/11/08/b9462523-9003-4538-a3a9-c68cc8768f7a/thumbnail/1200x630/07d06201d1385f8d0c1711470e4737cb/1108-en-shooting-evans-grab.jpg",
+                    "origin": "CBS News",
+                    "title": "Chilling video shows scene inside California bar as gunman opened fire",
+                    "ts": 1541915283,
+                    "twitterid": 1061495752638246917,
+                    "url": "https://www.cbsnews.com/news/california-bar-shooting-video-inside-california-bar-taken-as-gunman-opened-fire/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5be7c29204d3012528fdc125&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5be79b9b421aa9660f9f7c9a",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/11/09/494d75ec-e833-48dc-8bbc-4d7f25253c52/thumbnail/1200x630/3505450fc08435b0d6ab28dcdd0ac8fa/colell.jpg",
+                    "origin": "CBS News",
+                    "title": "Former high school track coach says bar shooting suspect groped, assaulted her",
+                    "ts": 1541904483,
+                    "twitterid": 1061450453823750144,
+                    "url": "https://www.cbsnews.com/news/ian-david-long-suspect-thousand-oaks-california-mass-shooting-former-high-school-track-coach-says-bar-shooting-suspect-groped-assaulted-her/"
+                },
+                {
+                    "_id": "5be77f73421aa96443e4bad3",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/11/09/620fdcc4-ebf2-4f43-9fae-1f9bacd6c1cf/thumbnail/1200x630/c5d2fb80d5bcc098d4658eaf05c42fdf/todd.png",
+                    "origin": "CBS News",
+                    "title": "Thousand Oaks shooting survivor was friends with the gunman",
+                    "ts": 1541894585,
+                    "twitterid": 1061408936492965888,
+                    "url": "https://www.cbsnews.com/news/thousand-oaks-survivor-was-friends-with-the-shooter/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5be771b604d301186c0d6d24&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5be78d77421aa9652797a662",
+                    "date_month": "2018-11",
+                    "image": "https://c.o0bg.com/rw/SysConfig/WebPortal/BostonGlobe/Framework/images/logo-bg.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Boston gay bar receives threatening phone call",
+                    "ts": 1541901392,
+                    "twitterid": 1061437490190565381,
+                    "url": "https://www.bostonglobe.com/metro/2018/11/10/boston-gay-bar-receives-threatening-phone-call/r5FGjAeLH1vLcfHHe82owL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be7a98e421aa966ee0fabac",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/11/RTS253GI3/facebook.jpg?1541724135",
+                    "origin": "The Atlantic",
+                    "title": "Why Did an Ex-Marine Open Fire in a California Bar?",
+                    "ts": 1541908448,
+                    "twitterid": 1061467083379220480,
+                    "url": "https://www.theatlantic.com/ideas/archive/2018/11/thousand-oaks-shooting/575413/?utm_content=edit-promo&utm_medium=social&utm_campaign=the-atlantic&utm_source=twitter&utm_term=2018-11-09T14%3A33%3A32"
+                },
+                {
+                    "_id": "5be72b2a421aa95c6ef09be8",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/11/08/b30d3e70-cd59-427c-b58e-55214a577c40/thumbnail/1200x630/d8a3bbacabcb6329ce072099c510e419/thousand-oaks-ca-shooting-rmg-news-ap-18312485626920.jpg",
+                    "origin": "CBS News",
+                    "title": "Bar gunman apparently paused during massacre to make Instagram post",
+                    "ts": 1541874580,
+                    "twitterid": 1061325028854325248,
+                    "url": "https://www.cbsnews.com/news/thousand-oaks-shooting-gunman-ian-david-long-apparently-stopped-shooting-instagram-post/?ftag=CNM-00-10aab7e&linkId=59450190"
+                },
+                {
+                    "_id": "5be77f73421aa96443e4bab4",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/10/BostonGlobe.com/National/Images/c9cd2512-22c3-4e07-b6ef-607d4183ffc1.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "California is already tough on guns. After a mass shooting, some wonder if it\u2019s enough",
+                    "ts": 1541897283,
+                    "twitterid": 1061420253249527808,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/11/10/california-already-tough-guns-after-mass-shooting-some-wonder-enough/ZuGnfO7gO9xfGzPsuDfMuK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be77f73421aa96443e4baae",
+                    "date_month": "2018-11",
+                    "image": "https://si.wsj.net/public/resources/images/OG-BY040_GUNSpo_SOC_20181031115353.png",
+                    "origin": "Capital Journal",
+                    "title": "How Many Guns Do Americans Own?",
+                    "ts": 1541897861,
+                    "twitterid": 1061422678123405313,
+                    "url": "https://www.wsj.com/articles/how-many-guns-do-americans-own-1540997454?mod=e2twp"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            38
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Paramount Ranch",
+            "Eric Wynalda",
+            "Trump",
+            "Camp Fire Pepperdine",
+            "Flames Axl Rose",
+            "Oak Park Avenue",
+            "Southern California",
+            "Northern California",
+            "Northern California California",
+            "Kanye West",
+            "Malibu California Hasn",
+            "Thousand Oaks",
+            "Fear And Devastation",
+            "Deadly",
+            "Gone",
+            "California",
+            "Kim Kardashian",
+            "California Dad",
+            "Camp Fire",
+            "Does California Have So",
+            "Paradise",
+            "California Fires Devastate Communities",
+            "Photos",
+            "Camp",
+            "California At"
+        ],
+        "peaks": [],
+        "theme": [
+            "California",
+            "wildfires",
+            "Fire",
+            "homes",
+            "Camp",
+            "Like",
+            "Paradise"
+        ],
+        "timestamp": "2018-11-11 12:10:26.195750-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be7d3b7421aa969729c6928",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/11/USAT/9b3bd7cb-c52f-417a-a476-9421b8b53956-USP_News__California_Wildfires.JPG?crop=4239,2384,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "'Like the gates of hell opened up': Thousands fled Paradise ahead of Camp Fire",
+                    "ts": 1541917800,
+                    "twitterid": 1061506308241874945,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/11/10/california-fires-thousands-fled-paradise-flames-roared/1962141002/"
+                },
+                {
+                    "_id": "5be7efd3421aa96ca4796b82",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/10/PRRS/077bcfc2-edd0-4981-a4a9-e7446f346dae-CampFire11918Paradise_hvu003.JPG?crop=3749,2109,x1,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "Thousands lost homes in California's Camp Fire. Where will they go once shelters close?",
+                    "ts": 1541925000,
+                    "twitterid": 1061536508014985217,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/11/10/camp-fire-thousands-homes-destroyed-shelters-close/1963869002/"
+                },
+                {
+                    "_id": "5be72b2a421aa95c6ef09bde",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_45/2641126/181109-camp-fire-remains-ew-726_8529f4c5bb7d40ea61e36d99877c148f.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Paradise, California, lost in deadly Camp wildfire",
+                    "ts": 1541875387,
+                    "twitterid": 1061328413930205185,
+                    "url": "https://www.nbcnews.com/news/us-news/paradise-california-lost-deadly-camp-wildfire-n934731?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be73908421aa95d41c9db77",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/ofoyOZId3PVQ-D0LOPDHeBfJIHo=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZFZPBCXEVMI6RORQU7PNATMPVQ.jpg",
+                    "origin": "The Washington Post",
+                    "title": "California wildfires threaten Hollywood sets and celebrity homes",
+                    "ts": 1541879523,
+                    "twitterid": 1061345764100763648,
+                    "url": "https://www.washingtonpost.com/arts-entertainment/2018/11/10/california-wildfires-threaten-hollywood-sets-celebrity-homes/?utm_term=.cae77d2f2016&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5be78d77421aa9652797a660",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181110074810-15-california-wildfires-1109-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Here's what California's wildfires look like from space",
+                    "ts": 1541901603,
+                    "twitterid": 1061438374777622528,
+                    "url": "https://www.cnn.com/2018/11/10/us/california-wildfires-photo-space-nasa-trnd/index.html?utm_term=image&utm_source=twCNN&utm_medium=social&utm_content=2018-11-11T02%3A00%3A02"
+                },
+                {
+                    "_id": "5be71d06421aa95b905f5759",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_45/2640201/181109-paradise-wildfire-al-0945_fdcdb4c243e61bad5c8f0009067d48dc.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "At least 9 dead in California wildfires as tens of thousands flee homes",
+                    "ts": 1541871068,
+                    "twitterid": 1061310302074081280,
+                    "url": "https://www.nbcnews.com/news/us-news/california-wildfires-3-blazes-destroying-homes-forcing-massive-evacuations-n934436?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be8605d421aa9730304995b",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/O44RhRCUEIVs3y9WYg9THJdRPYI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TVMH4OXFSUI6RBCJD7ZGGYE2GE.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Camp Fire kills 23, becoming California\u2019s deadliest wildfire since 1991",
+                    "ts": 1541953566,
+                    "twitterid": 1061656320540061698,
+                    "url": "https://www.washingtonpost.com/nation/2018/11/11/camp-fire-kills-becoming-californias-deadliest-wildfire-since/?utm_term=.2c659afd71d9&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5be7471e421aa95e18bdce79",
+                    "date_month": "2018-11",
+                    "image": "https://media2.s-nbcnews.com/j/MSNBC/Components/Video/201811/f_mo_fatherdaughter_fire_181109.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "A father calm his daughter as they drive out of range from wildfires in Paradise, California",
+                    "ts": 1541881865,
+                    "twitterid": 1061355587840155648,
+                    "url": "https://www.nbcnews.com/video/a-father-calm-his-daughter-as-they-drive-out-of-range-from-wildfires-in-paradise-california-1366331459709?v=raila&cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be79b9b421aa9660f9f7ca3",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/10/USAT/f59400e5-f995-48f2-b5fb-ffad7870def7-fire22.JPG?crop=1749,979,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY",
+                    "title": "'It was really bad': California wildfires roar in ritzy coastal spots like Malibu",
+                    "ts": 1541904004,
+                    "twitterid": 1061448444919844864,
+                    "url": "https://www.usatoday.com/story/news/2018/11/10/california-wildfires-roar-paradise-woosley-camp-fire/1956183002/"
+                },
+                {
+                    "_id": "5be77146421aa9630de185df",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/11/us/11fires-3/11fires-3-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "\u2018Paradise Is Gone\u2019: California Fires Devastate Communities",
+                    "ts": 1541892123,
+                    "twitterid": 1061398613530738688,
+                    "url": "https://www.nytimes.com/2018/11/10/us/california-wildfires-paradise-malibu.html?smid=tw-nytnational&smtyp=cur"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Turkey Says Recordings Of Jamal Khashoggi",
+            "Pentagon",
+            "Yemen Top",
+            "MiSk",
+            "Jamal Khashoggi",
+            "U.S.",
+            "Turkey",
+            "Erdogan",
+            "Allies U.S.",
+            "Saudi",
+            "US",
+            "Khashoggi Killing Was"
+        ],
+        "peaks": [],
+        "theme": [
+            "Saudi",
+            "Yemen",
+            "Khashoggi",
+            "refueling",
+            "Says",
+            "Recordings"
+        ],
+        "timestamp": "2018-11-11 12:10:26.459391-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be7471e421aa95e18bdce8c",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/01/BostonGlobe.com/National/Images/dc103a9f42bd44c0843f2767e6612913-dc103a9f42bd44c0843f2767e6612913-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Turkey says it gave US audio recordings of Khashoggi killing",
+                    "ts": 1541880723,
+                    "twitterid": 1061350798561546241,
+                    "url": "https://www.bostonglobe.com/news/world/2018/11/10/officials-have-heard-tapes-khashoggi-death-turkey-says/F4emLc6PR3OEGURJDtxTNL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be78d77421aa9652797a670",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/10/ap_18314425187041_wide-780f5d9c43a60fae77af9d818fac924d06bbf242.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Turkey Says Recordings Of Jamal Khashoggi's Murder Have Been Given To The U.S.",
+                    "ts": 1541900033,
+                    "twitterid": 1061431788675915777,
+                    "url": "https://www.npr.org/2018/11/10/666606295/turkey-says-recordings-of-jamal-khashoggis-murder-have-been-given-to-the-u-s?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5be7efd3421aa96ca4796b83",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170903175640-02-james-mattis-presser-0903-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "US to stop air refueling of Saudi-led coalition in Yemen",
+                    "ts": 1541924883,
+                    "twitterid": 1061536016127926272,
+                    "url": "https://www.cnn.com/2018/11/09/politics/us-yemen-houthis-missile/index.html?utm_content=2018-11-11T08%3A28%3A02&utm_medium=social&utm_source=twCNNp&utm_term=image"
+                },
+                {
+                    "_id": "5be77f73421aa96443e4baab",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/20/35/76eb5b99477f90efcc349d6af761/181109-mattis-gettyimages-654145116.jpg",
+                    "origin": "POLITICO",
+                    "title": "Pentagon: No more refueling of Saudi aircraft bombing Yemen",
+                    "ts": 1541898011,
+                    "twitterid": 1061423307277393922,
+                    "url": "https://www.politico.com/story/2018/11/09/saudi-arabia-yemen-bombing-pentagon-refueling-982924"
+                },
+                {
+                    "_id": "5be73908421aa95d41c9db93",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_45/2641066/181109-donald-trump-mohammed-bin-salman-ew-648p_cf4054b596b35e65cc0fccc418193b3e.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "U.S. to stop refueling Saudi-coalition planes in Yemen, officials say",
+                    "ts": 1541877363,
+                    "twitterid": 1061336702621573120,
+                    "url": "https://www.nbcnews.com/news/investigations/u-s-stop-refueling-saudi-coalition-planes-yemen-officials-say-n934726?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be77f73421aa96443e4bab2",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/re-wBt1aXlvTLi9uLaQpv5GCJ_I=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JCH54PXENEI6RN2ZHWEKLTU6DE.jpg",
+                    "origin": "The Washington Post",
+                    "title": "For war-ravaged Yemen, few expect \u2018game changer\u2019 in Saudi-led airstrikes after end of U.S. refueling",
+                    "ts": 1541897350,
+                    "twitterid": 1061420535127724032,
+                    "url": "https://www.washingtonpost.com/world/middle_east/for-war-ravaged-yemen-few-expect-game-changer-in-saudi-led-airstrikes-after-us-ends-refueling-support/2018/11/10/46bfa124-e465-11e8-ba30-a7ded04d8fac_story.html?utm_term=.b020646ad5ea&tid=sm_tw"
+                },
+                {
+                    "_id": "5be72b2a421aa95c6ef09bf3",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-36249/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Erdogan Says Recording of Khashoggi Killing Was Shared With U.S., Allies",
+                    "ts": 1541874003,
+                    "twitterid": 1061322609596555264,
+                    "url": "https://www.wsj.com/articles/erdogan-says-recording-of-khashoggi-killing-was-shared-with-u-s-allies-1541873331?mod=e2tw"
+                },
+                {
+                    "_id": "5be8605d421aa97303049954",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18289832248695_s2048x1387.jpg?908ae7b9df63c36362f0afc053eeed742d0106a4",
+                    "origin": "The Washington Times",
+                    "title": "Jamal Khashoggi\u2019s last words were \u2018I\u2019m suffocating\u2019: Report",
+                    "ts": 1541953977,
+                    "twitterid": 1061658044294201344,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/jamal-khashoggis-last-words-were-im-suffocating-re/"
+                },
+                {
+                    "_id": "5be78d77421aa9652797a67d",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/u2MQVRYRqkMAM7UsP8_nriN59o4=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7LTS7G2IAQ2F7C75OAIRXCH24Q.jpg",
+                    "origin": "The Washington Post",
+                    "title": "American institutions should boycott MiSk, the Saudi crown's prince's foundation",
+                    "ts": 1541898868,
+                    "twitterid": 1061426902341222400,
+                    "url": "https://www.washingtonpost.com/news/global-opinions/wp/2018/11/10/american-institutions-should-withdraw-from-the-saudi-crown-princes-charity-foundation/?utm_term=.850eab0be5a5&tid=sm_tw"
+                },
+                {
+                    "_id": "5be8605d421aa97303049947",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/TR9ktA6k20iC1zsFNmstwdRq1Tk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FN7RD6HFLUI6RKZMWMO42U6KNM.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Top Obama-era officials urge immediate end to U.S. involvement in Yemen war",
+                    "ts": 1541955137,
+                    "twitterid": 1061662911104475137,
+                    "url": "https://www.washingtonpost.com/world/national-security/top-obama-era-officials-urge-immediate-end-to-us-involvement-in-yemen-war/2018/11/10/ce8e8654-8d93-4dd2-9f68-822cb08b9f16_story.html?utm_term=.3834090cbf26&tid=sm_tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            9
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "America",
+            "AP",
+            "Avenatti",
+            "California Harley Rouda",
+            "Dana Rohrabacher",
+            "Rohrabacher Dana Rohrabacher",
+            "Dana Rohrabacher Loses",
+            "GOP",
+            "Putin",
+            "California Dem Harley Rouda",
+            "House",
+            "California House",
+            "Eroding Republican Foothold"
+        ],
+        "peaks": [],
+        "theme": [
+            "Rohrabacher",
+            "California",
+            "House",
+            "Rouda",
+            "Dana",
+            "Harley",
+            "Loses"
+        ],
+        "timestamp": "2018-11-11 12:10:26.593085-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be827ff421aa96f63143e3c",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18310599998698_s2048x1502.jpg?d01704b434a2b96a46d31fd861932728e21c007f",
+                    "origin": "The Washington Times",
+                    "title": "Harley Rouda beats Dana Rohrabacher in California House race",
+                    "ts": 1541939381,
+                    "twitterid": 1061596825709395969,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/harley-rouda-beats-dana-rohrabacher-california-hou/"
+                },
+                {
+                    "_id": "5be78d77421aa9652797a665",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/harley_rouda.jpg",
+                    "origin": "The Hill",
+                    "title": "Dem Harley Rouda unseats Rohrabacher in key California House seat",
+                    "ts": 1541900940,
+                    "twitterid": 1061435592326742018,
+                    "url": "https://thehill.com/homenews/campaign/414635-dem-harley-rouda-unseats-rohrabacher-in-key-california-house-seat"
+                },
+                {
+                    "_id": "5be7b797421aa967d2a89102",
+                    "date_month": "2018-11",
+                    "image": "https://static01.nyt.com/images/2018/11/11/us/11rohrabacher/11rohrabacher-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "Dana Rohrabacher Loses, Eroding Republican Foothold in California",
+                    "ts": 1541911836,
+                    "twitterid": 1061481292993310720,
+                    "url": "https://www.nytimes.com/2018/11/10/us/politics/dana-rohrabacher-loses-harley-rouda.html?partner=rss&emc=rss&smtyp=cur&smid=tw-nytpolitics"
+                },
+                {
+                    "_id": "5be79b9b421aa9660f9f7cb0",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/zBIe9-N1CIoQ-MHLfCB8w0Uvfp8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYTYWJXFKYI6RD27UVJUP5EHMI.jpg",
+                    "origin": "Post Politics",
+                    "title": "Dana Rohrabacher, a pro-Russia Republican, narrowly loses House seat",
+                    "ts": 1541902678,
+                    "twitterid": 1061442883046330368,
+                    "url": "https://www.washingtonpost.com/politics/dana-rohrabacher-a-pro-russia-republican-narrowly-loses-house-seat/2018/11/10/97b12136-e44a-11e8-8f5f-a55347f48762_story.html?tid=sm_tw_pol"
+                },
+                {
+                    "_id": "5be79b9b421aa9660f9f7c99",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/harley_rouda.jpg",
+                    "origin": "The Hill",
+                    "title": "Dem Harley Rouda unseats Rohrabacher in swing California district",
+                    "ts": 1541904542,
+                    "twitterid": 1061450701879025666,
+                    "url": "https://thehill.com/homenews/campaign/414635-dem-harley-rouda-unseats-rohrabacher-in-key-california-house-seat?__twitter_impression=true"
+                },
+                {
+                    "_id": "5be79b9b421aa9660f9f7ca2",
+                    "date_month": "2018-11",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:1ef980941aab4bb9bdadc590794ca206/3000.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Democrat Rouda wins House race over California\u2019s Rohrabacher",
+                    "ts": 1541904035,
+                    "twitterid": 1061448573009739776,
+                    "url": "https://www.apnews.com/2d4e9db9167b44519d923391c8d35a00?utm_medium=AP_Politics&utm_source=Twitter&utm_campaign=SocialFlow"
+                },
+                {
+                    "_id": "5be78d77421aa9652797a663",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+                    "origin": "Post Politics",
+                    "title": "Rep. Dana Rohrabacher, a pro-Russia Republican, narrowly loses long-held House seat, AP projects",
+                    "ts": 1541901384,
+                    "twitterid": 1061437456690671616,
+                    "url": "https://www.washingtonpost.com/news/politics/wp/2018/11/10/rep-dana-rohrabacher-a-pro-russia-republican-narrowly-loses-long-held-house-seat-ap-projects/"
+                },
+                {
+                    "_id": "5be79b9b421aa9660f9f7c90",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/3f/a4/42d3f67c4d91b0459a485c3e947c/181110-rouda-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Rouda defeats Rohrabacher in southern California",
+                    "ts": 1541905213,
+                    "twitterid": 1061453516689018881,
+                    "url": "https://www.politico.com/story/2018/11/10/rouda-defeats-rohrabacher-in-southern-california-race-982946"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Brian Kemp",
+            "Inside Larry Hogan",
+            "Stacey Abrams",
+            "America Speaks",
+            "New Class",
+            "Arizona Senate",
+            "Abrams",
+            "Georgia",
+            "Black Politicians Settlement",
+            "GOP",
+            "Midterms Swept",
+            "Trump",
+            "California",
+            "Civil"
+        ],
+        "peaks": [],
+        "theme": [
+            "Abrams",
+            "concede",
+            "Georgia",
+            "Kemp",
+            "race",
+            "black",
+            "elected"
+        ],
+        "timestamp": "2018-11-11 12:10:26.893888-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be7e1ad421aa96c4c9e5713",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/11/10/BostonGlobe.com/National/Images/021468e6ae9242f4878796369505a617-4613b75e81f645fc87e320de96d5106c-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Kemp pushes Abrams to concede in Georgia gubernatorial race",
+                    "ts": 1541919723,
+                    "twitterid": 1061514375863918597,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/11/10/kemp-pushes-abrams-concede-georgia-gubernatorial-race/jXO8StSAmgx0u9NKfHqYXJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5be77146421aa9630de185e2",
+                    "date_month": "2018-11",
+                    "image": "https://www.gannett-cdn.com/presto/2018/11/07/USAT/a0bec8a1-4d85-4c28-bf5f-3e95b990a300-VPC_STACEY_ABRAMS_SPEAKS_DESK_THUMB.jpg?crop=1919,1079,x0,y0&width=3200&height=1680&fit=bounds",
+                    "origin": "USA TODAY Politics",
+                    "title": "'A disgrace to democracy': Democrat Stacey Abrams being pressured to concede Georgia race",
+                    "ts": 1541892015,
+                    "twitterid": 1061398157873926149,
+                    "url": "https://www.usatoday.com/story/news/politics/elections/2018/11/10/georgia-governor-race-stacey-abrams-pushed-concede-brian-kemp/1959470002/"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e34",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/07/election_2018_governor_abrams_georgia_74425_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Brian Kemp pushes Stacey Abrams to concede",
+                    "ts": 1541939950,
+                    "twitterid": 1061599212759146496,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/brian-kemp-pushes-stacey-abrams-concede/"
+                },
+                {
+                    "_id": "5be7634e421aa9618ffed62f",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/kemp_110418getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Kemp campaign calls Abrams' refusal to concede 'a disgrace to democracy'",
+                    "ts": 1541890386,
+                    "twitterid": 1061391327290630144,
+                    "url": "https://thehill.com/homenews/campaign/416079-kemp-campaign-calls-abrams-refusal-to-concede-a-disgrace-to-democracy"
+                },
+                {
+                    "_id": "5be75545421aa95f3a0d4c39",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201811/n_joy_georgia_181110_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Georgia midterm election for governor between Kemp and Abrams still undecided",
+                    "ts": 1541885409,
+                    "twitterid": 1061370453153996801,
+                    "url": "https://www.msnbc.com/am-joy/watch/georgia-midterm-election-for-governor-between-kemp-and-abrams-still-undecided-1367158852000?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5be83608421aa97046d4d354",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/181109173850-01-harris-county-texas-19-black-female-judges-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "17 black women elected as judges in one Texas county make history",
+                    "ts": 1541944807,
+                    "twitterid": 1061619586418855936,
+                    "url": "https://www.cnn.com/2018/11/09/politics/harris-county-texas-17-black-female-judges/index.html?utm_source=twCNN&utm_content=2018-11-11T14%3A00%3A06&utm_medium=social&utm_term=image"
+                },
+                {
+                    "_id": "5be79b9b421aa9660f9f7cb3",
+                    "date_month": "2018-11",
+                    "image": "https://s.abcnews.com/images/Politics/WireAP_3c240a5c75eb443d98ee85bb9fcb9f28_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Tight race in Georgia shines light on voting restrictions",
+                    "ts": 1541902511,
+                    "twitterid": 1061442181469294592,
+                    "url": "https://abcnews.go.com/Politics/wireStory/tight-race-georgia-shines-light-voting-restrictions-59103872?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5be7e1ad421aa96c4c9e5706",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/ggS02fFQEueDdkFLbDc3HXKizDg=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P4NGIUHDTUI6RKZMWMO42U6KNM.jpg",
+                    "origin": "The Washington Post",
+                    "title": "When black voters matter, progressives win",
+                    "ts": 1541921803,
+                    "twitterid": 1061523100116942848,
+                    "url": "https://www.washingtonpost.com/opinions/when-black-voters-matter-progressives-win/2018/11/09/8c6d28ee-e452-11e8-b759-3d88a5ce9e19_story.html?utm_term=.0e21baab715b&tid=sm_tw"
+                },
+                {
+                    "_id": "5be7efd3421aa96ca4796b7b",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/11/RTX6GOMG/facebook.jpg?1541861179",
+                    "origin": "The Atlantic",
+                    "title": "The Midterms Swept in a New Class of Black Politicians",
+                    "ts": 1541925914,
+                    "twitterid": 1061540342904819712,
+                    "url": "https://www.theatlantic.com/politics/archive/2018/11/black-candidates-who-clinched-house-and-state-races/575491/?utm_content=edit-promo&utm_medium=social&utm_source=twitter&utm_campaign=the-atlantic&utm_term=2018-11-10T10%3A00%3A16"
+                },
+                {
+                    "_id": "5be7471e421aa95e18bdce96",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_45/2641541/181110-stacey-abrams-al-1101_9f60f4c314af92994a527c715d5f9fd9.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Stacey Abrams' campaign disputes number of uncounted provisional ballots",
+                    "ts": 1541880044,
+                    "twitterid": 1061347947500199936,
+                    "url": "https://www.nbcnews.com/politics/elections/stacey-abrams-campaign-disputes-number-uncounted-provisional-ballots-n934791?cid=sm_npd_nn_tw_ma"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            51
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Rates Rise",
+            "Chatchaval Jiaravanon",
+            "Cool Kids Behind",
+            "Year How",
+            "deGrasse Tyson",
+            "Losses Pile Up",
+            "Elvis Costello",
+            "Vince Staples",
+            "Utah",
+            "Nations",
+            "Spend Virtually",
+            "Good",
+            "Peace",
+            "Front Row",
+            "Wellesley",
+            "Afghan",
+            "Pittsburgh",
+            "New Retirement",
+            "Meredith",
+            "Climate",
+            "Almost Everything",
+            "United States",
+            "New Tax",
+            "Fintech Firm",
+            "CPR",
+            "Middle West",
+            "Industry Fertility",
+            "Mike",
+            "Japan",
+            "Plain Political Language Could Save Us",
+            "Chris Davenport How",
+            "Bob Dylan",
+            "Congress",
+            "Neil",
+            "Orwell Thought",
+            "Came Trump",
+            "Being Perfect How Anthony Powell",
+            "Second Man",
+            "Fractious",
+            "League",
+            "IRA",
+            "Rocket Lab Successfully Launches",
+            "Stephen Hawking",
+            "Colorado Rockies",
+            "Dubai"
+        ],
+        "peaks": [],
+        "theme": [
+            "New",
+            "could",
+            "Need",
+            "Save",
+            "Trump",
+            "alien",
+            "century"
+        ],
+        "timestamp": "2018-11-11 12:10:28.577287-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be7efd3421aa96ca4796b76",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/e9/03/a8485a3c40e299212b5166ec7e7f/181109-greene-trump-rally-ap.jpg",
+                    "origin": "POLITICO",
+                    "title": "Orwell Thought That Plain Political Language Could Save Us. Then Came Trump.",
+                    "ts": 1541926815,
+                    "twitterid": 1061544119900749824,
+                    "url": "https://www.politico.com/magazine/story/2018/11/10/donald-trump-george-orwell-222404"
+                },
+                {
+                    "_id": "5be73908421aa95d41c9db71",
+                    "date_month": "2018-11",
+                    "image": "https://si.wsj.net/public/resources/images/B3-CG350_RETIRE_SOC_20181102104121.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "The New Retirement Plan: Save Almost Everything, Spend Virtually Nothing",
+                    "ts": 1541880013,
+                    "twitterid": 1061347818730897409,
+                    "url": "https://www.wsj.com/articles/the-new-retirement-plan-save-almost-everything-spend-virtually-nothing-1541217688?mod=e2tw"
+                },
+                {
+                    "_id": "5be77f73421aa96443e4bace",
+                    "date_month": "2018-11",
+                    "image": "https://s.abcnews.com/images/US/dylan-1-ht-er-181025_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "The new Bob Dylan release fans have waited to hear for nearly half a century",
+                    "ts": 1541894975,
+                    "twitterid": 1061410575555706881,
+                    "url": "https://abcnews.go.com/US/Music/bob-dylan-release-fans-waited-hear-half-century/story?id=58742045&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5be84431421aa971345fc352",
+                    "date_month": "2018-11",
+                    "image": "https://si.wsj.net/public/resources/images/B3-CG220_TAXREP_SOC_20181101182846.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Everything You Need to Know About the New Tax Law\u2014Before the End of the Year",
+                    "ts": 1541946612,
+                    "twitterid": 1061627153937248256,
+                    "url": "https://www.wsj.com/articles/everything-you-need-to-know-about-the-new-tax-lawbefore-the-end-of-the-year-1541151030?mod=e2tw"
+                },
+                {
+                    "_id": "5be7471e421aa95e18bdce6f",
+                    "date_month": "2018-11",
+                    "image": "https://media4.s-nbcnews.com/j/MSNBC/Components/Video/201811/Neil2.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Could this cosmic interloper be an alien spacecraft? Neil deGrasse Tyson isn\u2019t so sure",
+                    "ts": 1541882642,
+                    "twitterid": 1061358846407569409,
+                    "url": "https://www.nbcnews.com/mach/video/could-this-cosmic-interloper-be-an-alien-spacecraft-neil-degrasse-tyson-isn-t-so-sure-1366585923856?v=railb&cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5be7634e421aa9618ffed630",
+                    "date_month": "2018-11",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/11/RTX4K6JD/facebook.jpg?1541708942",
+                    "origin": "The Atlantic",
+                    "title": "The 19th-Century Origins of Climate Science",
+                    "ts": 1541890365,
+                    "twitterid": 1061391238769852422,
+                    "url": "https://www.theatlantic.com/science/archive/2018/11/habsburg-empire-created-modern-climate-science/575068/?utm_source=twitter&utm_campaign=the-atlantic&utm_term=2018-11-10T13%3A00%3A21&utm_content=edit-promo&utm_medium=social"
+                },
+                {
+                    "_id": "5be7a98e421aa966ee0fabb1",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/11/09/4d2f4dab-cad5-4271-b6d3-a69ed9d62e92/thumbnail/1200x630/a77ab4b20ff78bddc8c77df96d6da023/trump-gettyimages-1059520082.jpg",
+                    "origin": "CBS News",
+                    "title": "What Americans can and can't learn from Trump's tax returns",
+                    "ts": 1541908083,
+                    "twitterid": 1061465554152837120,
+                    "url": "https://www.cbsnews.com/news/what-americans-can-and-cant-learn-from-trumps-tax-returns/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5be7a6713ed3f00001e87744&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5be80be5421aa96d7ed7b6a5",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/A15_rYy_5-Pab0cLA3XCz9oHX3s=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T26ENOSDQ4I6NPEZPUTJ7BYZWE.jpg",
+                    "origin": "The Washington Post",
+                    "title": "\u2018Songs to do CPR to\u2019 playlist could be a lifesaving soundtrack",
+                    "ts": 1541933696,
+                    "twitterid": 1061572983054106624,
+                    "url": "https://www.washingtonpost.com/national/health-science/songs-to-do-cpr-to-playlist-could-be-a-lifesaving-soundtrack/2018/11/09/c544aa58-e1f9-11e8-b759-3d88a5ce9e19_story.html?utm_term=.9f72e134ead1&tid=sm_tw&__twitter_impression=true"
+                },
+                {
+                    "_id": "5be78d77421aa9652797a67b",
+                    "date_month": "2018-11",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/11/09/9e40d162-45ab-48e5-a178-699928e45dfd/thumbnail/1200x630/5b0abc1abffcd19de165f3f53472e383/1109-ctm-mysteryspaceorbit-dokoupil-1707980-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Harvard scientists say interstellar object may be a probe sent by \"alien civilization\"",
+                    "ts": 1541899083,
+                    "twitterid": 1061427804921839618,
+                    "url": "https://www.cbsnews.com/news/alien-probe-harvard-scientists-say-oumuamua-object-may-be-probe-watch-video/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5be7834904d3015208e40bfe&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5be827ff421aa96f63143e44",
+                    "date_month": "2018-11",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/05/27/BostonGlobe.com/Business/Images/singletary.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "How a grandparent-owned 529 account affects need-based financial aid",
+                    "ts": 1541938505,
+                    "twitterid": 1061593153147494400,
+                    "url": "https://www.bostonglobe.com/business/2018/11/11/how-grandparent-owned-account-affects-need-based-financial-aid/NQa5E0DUcqtfSNXabGjoOK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            35
+        ],
+        "months": [
+            "2018-11"
+        ],
+        "ne": [
+            "Florida Company Where Whitaker Was",
+            "New Master Pelosi",
+            "Gowdy",
+            "Trump Brushes Aside Questions",
+            "Bill Maher Ratcliffe",
+            "Sessions",
+            "Kellyanne Conway",
+            "Trump",
+            "DNC",
+            "AG Whitaker Jerrold Nadler",
+            "Will Whitaker",
+            "Oval",
+            "Jeff Sessions",
+            "Trump Administration",
+            "Mueller Warner",
+            "Schiff",
+            "Top",
+            "Mueller Probe",
+            "Russia",
+            "Robert Mueller",
+            "Matt Whitaker",
+            "Robert De Niro",
+            "Matthew Whitaker",
+            "House",
+            "Lindsey Graham"
+        ],
+        "peaks": [],
+        "theme": [
+            "Whitaker",
+            "Mueller",
+            "Trump",
+            "Acting",
+            "probe",
+            "says",
+            "Attorney"
+        ],
+        "timestamp": "2018-11-11 12:10:29.117078-05:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5be72b2a421aa95c6ef09bcf",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201811/n_gura_actingAGWhitakerScrutiny_111810_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Trump's Acting Attorney General is facing major scrutiny",
+                    "ts": 1541876414,
+                    "twitterid": 1061332723640528896,
+                    "url": "https://www.msnbc.com/david-gura/watch/trump-s-acting-attorney-general-is-facing-major-scrutiny-1367085123519?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5be8605d421aa9730304996a",
+                    "date_month": "2018-11",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/11/11/AP_18304074040618_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Lindsey Graham says Matthew Whitaker doesn\u2019t need to recuse himself from Robert Mueller probe",
+                    "ts": 1541952060,
+                    "twitterid": 1061650004840996864,
+                    "url": "https://www.washingtontimes.com/news/2018/nov/11/lindsey-graham-says-matthew-whitaker-doesnt-need-r/"
+                },
+                {
+                    "_id": "5be7634e421aa9618ffed648",
+                    "date_month": "2018-11",
+                    "image": "https://s.abcnews.com/images/Politics/robert-mueller-gty-jc-181110_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "What Trump's attorney general shortlisters have said on the Russia probe",
+                    "ts": 1541888342,
+                    "twitterid": 1061382751130185728,
+                    "url": "https://abcnews.go.com/Politics/trumps-attorney-general-shortlisters-russia-probe/story?id=59106622&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5be7d3b7421aa969729c6922",
+                    "date_month": "2018-11",
+                    "image": "https://images.wsj.net/im-36104/social",
+                    "origin": "Capital Journal",
+                    "title": "Trump Brushes Aside Questions About Mueller Probe",
+                    "ts": 1541918190,
+                    "twitterid": 1061507946377560065,
+                    "url": "https://www.wsj.com/articles/trump-brushes-aside-questions-about-mueller-probe-1541786056?mod=e2twp"
+                },
+                {
+                    "_id": "5be77146421aa9630de185d8",
+                    "date_month": "2018-11",
+                    "image": "https://media.npr.org/assets/img/2018/11/10/gettyimages-1025296052_wide-cd7ca4cc8e350a08b16f9a798b87b23ce897049e.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Former Attorney General Says Whitaker Appointment 'Confounds Me'",
+                    "ts": 1541893203,
+                    "twitterid": 1061403142414159873,
+                    "url": "https://www.npr.org/2018/11/10/666581265/former-ag-gonzales-calls-whitaker-an-odd-choice-that-further-questions-leadershi?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5be7471e421aa95e18bdce7b",
+                    "date_month": "2018-11",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201811/n_gura_GlennKirschner_111810_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "Will Whitaker last as the new Attorney General in the Trump Administration?",
+                    "ts": 1541881806,
+                    "twitterid": 1061355339243761664,
+                    "url": "https://www.msnbc.com/david-gura/watch/will-whitaker-last-as-the-new-attorney-general-in-the-trump-administration-1367085635847?v=raila&cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5be84431421aa971345fc33d",
+                    "date_month": "2018-11",
+                    "image": "https://static.politico.com/14/80/c84eb8fb4973b010d2945b4f7c2d/181111-conway-ap-773.jpg",
+                    "origin": "POLITICO",
+                    "title": "Conway: Whitaker\u2019s criticism of Mueller probe a thing of the past",
+                    "ts": 1541948402,
+                    "twitterid": 1061634664836853763,
+                    "url": "https://www.politico.com/story/2018/11/11/kellyanne-conway-whitaker-mueller-investigation-982950"
+                },
+                {
+                    "_id": "5be85245421aa97212d75a06",
+                    "date_month": "2018-11",
+                    "image": "https://www.washingtonpost.com/resizer/qzli3fxKn-INVkd2eDcnGY9QJ5c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DFZ5KHXFXYI6RO63OL637HKP5U.jpg",
+                    "origin": "The Washington Post",
+                    "title": "Trump does know Matt Whitaker, Kellyanne Conway says",
+                    "ts": 1541950638,
+                    "twitterid": 1061644041278947328,
+                    "url": "https://www.washingtonpost.com/politics/trump-does-know-matt-whitaker-kellyanne-conway-says/2018/11/11/881372c8-e5bd-11e8-bbdb-72fdbf9d4fed_story.html?utm_term=.6f281e21d6f9&tid=sm_tw"
+                },
+                {
+                    "_id": "5be71d06421aa95b905f5751",
+                    "date_month": "2018-11",
+                    "image": "http://v.politico.com/images/1155968404/201811/2659/1155968404_5860084566001_5860059466001-vs.jpg?pubId=1155968404",
+                    "origin": "POLITICO",
+                    "title": "Trump says he doesn't know acting AG, despite reports of Oval Office meetings",
+                    "ts": 1541871603,
+                    "twitterid": 1061312545011785728,
+                    "url": "https://www.politico.com/story/2018/11/09/trump-whitaker-attorney-general-979015"
+                },
+                {
+                    "_id": "5be7471e421aa95e18bdce78",
+                    "date_month": "2018-11",
+                    "image": "https://thehill.com/sites/default/files/whitakermatthew11072018.jpg",
+                    "origin": "The Hill",
+                    "title": "Pelosi: Acting attorney general 'should not be there'",
+                    "ts": 1541881980,
+                    "twitterid": 1061356070147448832,
+                    "url": "https://thehill.com/homenews/house/415859-pelosi-whitaker-should-not-be-there"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,2307 @@
+[
+    {
+        "list": [
+            9
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Snoopers",
+            "Google",
+            "Tech",
+            "Arizona",
+            "App Developers Sifting",
+            "Gmail",
+            "FAA"
+        ],
+        "peaks": [],
+        "theme": [
+            "Gmail",
+            "Inbox",
+            "apps",
+            "assisted",
+            "FAA",
+            "kills",
+            "living"
+        ],
+        "timestamp": "2018-07-04 17:10:19.574629-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3c7099421aa9015c68c8ab",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/294ac3769288c820bf600db61ac7b0265cd60d74/c=0-237-400-463/local/-/media/2018/07/03/Phoenix/Phoenix/636662392157868295-Anna-Blessing.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "92-year-old woman kills son after refusing to be sent to assisted living facility, authorities say",
+                    "ts": 1530684904,
+                    "twitterid": 1014392126090694656,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/07/03/arizona-woman-accused-shooting-son-death-refused-move-assisted-living/757249002/"
+                },
+                {
+                    "_id": "5b3c3867421aa96cd090d9ad",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/InsideInbox2-1024x637.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "If you have Gmail, here\u2019s who\u2019s scanning your inbox",
+                    "ts": 1530671400,
+                    "twitterid": 1014335488155480064,
+                    "url": "https://www.pbs.org/newshour/show/inside-your-inbox"
+                },
+                {
+                    "_id": "5b3c8cbb421aa90763c03eef",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/03/6ab68997-7115-4e6c-99ac-c4d779ca75d3/thumbnail/1200x630/83711ee673c8be77efc489479324f6e0/0703-ctm-gmailsecurity-thompson-1604119-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "Google reportedly allows apps to scan some people's Gmail inboxes",
+                    "ts": 1530691383,
+                    "twitterid": 1014419302982868994,
+                    "url": "https://www.cbsnews.com/news/google-reportedly-allows-third-party-apps-to-scan-gmail-emails/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3c7f3504d301103fdcc344&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3c2a6a421aa96966114a39",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/07/03/arizona-woman-92-shot-killed-son-who-tried-putting-her-in-assisted-living-cops-say/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1530662663555.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Arizona woman, 92, shot, killed son who tried putting her in assisted living, cops say",
+                    "ts": 1530666600,
+                    "twitterid": 1014315354703593472,
+                    "url": "http://www.foxnews.com/us/2018/07/03/arizona-woman-92-shot-killed-son-who-tried-putting-her-in-assisted-living-cops-say.html"
+                },
+                {
+                    "_id": "5b3cc506421aa90ca1dee4e1",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2015/06/18/96b65739-c7ac-402b-a2c5-111b1ba77bdd/thumbnail/1200x630/2f267e9a0acd9e1cdbcc967f7fb9f1ea/women-passengers-on-airplane.jpg",
+                    "origin": "CBS News",
+                    "title": "FAA: Not in the business of regulating legroom on airplanes",
+                    "ts": 1530709204,
+                    "twitterid": 1014494048126717953,
+                    "url": "https://www.cbsnews.com/news/faa-wont-regulate-legroom-on-airplanes/?ftag=CNM-00-10aab7e&linkId=53862416"
+                },
+                {
+                    "_id": "5b3cd31c421aa90d1e9304d3",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16786/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "How to Protect Your Email Inbox From Snoopers",
+                    "ts": 1530711015,
+                    "twitterid": 1014501644439113728,
+                    "url": "https://www.wsj.com/articles/how-to-protect-your-email-inbox-from-snoopers-1530709200?mod=e2tw"
+                },
+                {
+                    "_id": "5b3c547d421aa977a237166e",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/omArK4M96SE68Ocpt4o3z6vUfvE=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZN62AAYEYI6RCYIAJ5GZSZY5M.jpg",
+                    "origin": "Washington Post",
+                    "title": "FAA tells airline passengers \u2018We\u2019re a safety agency, not a creature comfort agency\u2019",
+                    "ts": 1530679099,
+                    "twitterid": 1014367779145871366,
+                    "url": "https://www.washingtonpost.com/local/trafficandcommuting/faa-tells-airline-passengers-were-a-safety-agency-not-a-creature-comfort-agency/2018/07/03/1684e1fc-3f49-11e8-974f-aacd97698cef_story.html?utm_term=.f72fb186b9e1&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b136c",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/9a10d18443197ab9a2a837953a60ea6375b5467c/c=4-0-1916-1080/local/-/media/2018/04/24/USATODAY/USATODAY/636602048654689388-Nudging.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Outsiders may be reading your Gmail: Here's how to stop them",
+                    "ts": 1530654004,
+                    "twitterid": 1014262522394890240,
+                    "url": "https://www.usatoday.com/story/tech/talkingtech/2018/07/03/gmail-how-stop-outsiders-reading-your-inbox/755298002/"
+                },
+                {
+                    "_id": "5b3c2a6a421aa96966114a43",
+                    "date_month": "2018-07",
+                    "image": "https://si.wsj.net/public/resources/images/B3-AZ480_0629GM_SOC_20180629191609.jpg",
+                    "origin": "The Wall Street Journal",
+                    "title": "Tech\u2019s \u2018Dirty Secret\u2019: The App Developers Sifting Through Your Gmail",
+                    "ts": 1530666106,
+                    "twitterid": 1014313283862581248,
+                    "url": "https://www.wsj.com/articles/techs-dirty-secret-the-app-developers-sifting-through-your-gmail-1530544442?mod=e2tw&page=1&pos=1"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            109
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Bailout Bonds Guam",
+            "Toys",
+            "DeMarcus Cousins Gas",
+            "Final Store Closes China Releases",
+            "Fatherhood",
+            "Red Sox Record",
+            "Medicaid",
+            "Crude Again",
+            "Robert Williams",
+            "Bruins",
+            "Lopez Obrador Needs",
+            "Platinum Sinks",
+            "LGBT",
+            "Banks",
+            "Iranian",
+            "Fame",
+            "Lolla",
+            "California",
+            "Nationals",
+            "Marijuana Group Wants",
+            "Urban Transportation",
+            "Kids",
+            "Hassan Rouhani",
+            "Auto Tariffs Judge",
+            "Alfred Alberts",
+            "Air Could",
+            "BoycottWalmart",
+            "Liberty",
+            "Threat",
+            "Maine",
+            "PMI Rises",
+            "Liberals Unite",
+            "New England",
+            "Massachusetts Terrell Owens",
+            "New Space Barnes",
+            "Sean Kuraly",
+            "ObamaCare",
+            "CEO Demos Parneros",
+            "Trade Tensions Diabetes",
+            "Statue",
+            "Kentucky",
+            "Celtics Trump",
+            "Mark Zuckerberg",
+            "Noble",
+            "Unsung Father",
+            "Delta",
+            "Iran Resorts",
+            "Bus",
+            "American",
+            "Cambridge Analytica",
+            "Parliament",
+            "Larry Kudlow",
+            "Push Dell",
+            "Sanctions Loom How",
+            "Carl Icahn Unlikely",
+            "Asian Stocks Are Down",
+            "Amazon Go",
+            "Kill",
+            "Seattle",
+            "Barter",
+            "Facebook",
+            "Fiat",
+            "Service Violation Faced",
+            "LED",
+            "David",
+            "Yuan Reverses Course",
+            "China Caixin Services",
+            "Disney",
+            "ABC News",
+            "Court Barnes",
+            "Squirm Brad",
+            "London",
+            "SEC",
+            "Cholesterol Drug",
+            "BOJ Harada Hits Back",
+            "Mexico Grow Again",
+            "Rick Porcello",
+            "Pop Should Be Kept Away",
+            "Trump White House",
+            "Chicago",
+            "New Yorker Subscription Bloomberg",
+            "McConnell",
+            "Rises Against Dollar",
+            "U.S.",
+            "RMV Suicide",
+            "Tyler Thornburg",
+            "British",
+            "U.S. China",
+            "Export Growth",
+            "Hawaii",
+            "Global",
+            "Social",
+            "Tech Stocks",
+            "Hard",
+            "San Francisco",
+            "Criticism Over",
+            "Anonymous",
+            "Film Companies How",
+            "Readers Ask Obamacare"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "News",
+            "Says",
+            "Companies",
+            "Day",
+            "China",
+            "plans"
+        ],
+        "timestamp": "2018-07-04 17:10:20.942876-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3c0044421aa95f1182cc92",
+                    "date_month": "2018-07",
+                    "image": "https://prod-video-us-east-1.pscp.tv/crRQ6yt14k-Qk1dHEWTNq9Dl48mjdUlgevOBmSatSz3SXUKa-8TvPMrgrJrTOJqapyGXX0SW3FQazb_U4fCnTw/live_thumbnail/us-east-1/eyJkIjowfQ/latest.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMWRqeFhuelpqTExHWiIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE1MzA2NTg4MzcsIkdyYW50ZWRUbyI6IndlYi1yYXRlLWxpbWl0ZWQtOGIyOTUzOTVjOTdiMzc2NTA5NTYxZDkyMmY3YmVmOWQiLCJTdHJlYW1OYW1lIjoiY3JSUTZ5dDE0ay1RazFkSEVXVE5xOURsNDhtamRVbGdldk9CbVNhdFN6M1NYVUthLThUdlBNcmdySnJUT0pxYXB5R1hYMFNXM0ZRYXpiX1U0ZkNuVHciLCJleHAiOjE1MzA4MzE2Mzd9.SKsnJHvwQoUya6Is0IsmLeuSnNBjguzr2ndmkqj_wiw&service=proxsee&digest=NlnB0J8hQ4IoMWRhy1TwSbwJZg94xmlpENGWdsK_sEI&ts=765329418",
+                    "origin": "MSNBC",
+                    "title": "NBC News: \"President Trump speaks at \"Salute to Service\" dinner\"",
+                    "ts": 1530657932,
+                    "twitterid": 1014278999357485056,
+                    "url": "https://www.pscp.tv/w/1djxXnzZjLLGZ"
+                },
+                {
+                    "_id": "5b3c9acb421aa9086a0a5272",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/03/BostonGlobe.com/National/Images/2c27c1f9b2bb4c75b71c47ee13192b7c-2c27c1f9b2bb4c75b71c47ee13192b7c-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Drinking up to 8 cups of coffee a day might help you live longer, new study says",
+                    "ts": 1530697562,
+                    "twitterid": 1014445219092271104,
+                    "url": "https://www.bostonglobe.com/news/nation/2018/07/03/drinking-cups-coffee-day-might-help-you-live-longer-new-study-says/iqmpsnUZCcA7is7W73vZXL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3cd31c421aa90d1e9304cd",
+                    "date_month": "2018-07",
+                    "image": "https://storage.googleapis.com/afs-prod/media/media:e108ebdc4f41423a90c7a39ebf7ae766/800.jpeg",
+                    "origin": "AP Politics",
+                    "title": "Judge's ruling slows plans for Medicaid work requirement",
+                    "ts": 1530711387,
+                    "twitterid": 1014503204975988737,
+                    "url": "https://apnews.com/bb481c05694f4b5db7abb7a5ee146eff"
+                },
+                {
+                    "_id": "5b3ce131421aa90db623a8cf",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16671/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Cree Girds for LED Tariffs It Says Will Sting",
+                    "ts": 1530713703,
+                    "twitterid": 1014512921584586753,
+                    "url": "https://www.wsj.com/articles/cree-girds-for-led-tariffs-it-says-will-sting-1530709201?mod=e2tw"
+                },
+                {
+                    "_id": "5b3cb6ff421aa909bb45233e",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16789/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "New Jersey Resumes Tax Breaks for Film Companies",
+                    "ts": 1530705608,
+                    "twitterid": 1014478966864908294,
+                    "url": "https://www.wsj.com/articles/new-jersey-resumes-tax-breaks-for-film-companies-1530702000?mod=e2tw"
+                },
+                {
+                    "_id": "5b3d3594421aa91244eda55d",
+                    "date_month": "2018-07",
+                    "image": "https://prod-video-us-east-1.pscp.tv/A9xI1yNZqE9QxCyzxDP10zVgBQwXggaX82m8rVvoMOsSX0zb2eAqK_zz4pi_YoG9IY6CSrToQ_FqFWBr4EZSGg/live_thumbnail/us-east-1/eyJkIjowfQ/latest.jpg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJBbGxvd2VkUHJvdG9jb2xzIjpbInRodW1iIl0sIkJyb2FkY2FzdElkIjoiMVlxS0RRbXlCakJHViIsIkdyYW50VHlwZSI6InJlYWQiLCJHcmFudGVkQXQiOjE1MzA3MzgwMjUsIkdyYW50ZWRUbyI6IndlYi1yYXRlLWxpbWl0ZWQtOGIyOTUzOTVjOTdiMzc2NTA5NTYxZDkyMmY3YmVmOWQiLCJTdHJlYW1OYW1lIjoiQTl4STF5TlpxRTlReEN5enhEUDEwelZnQlF3WGdnYVg4Mm04clZ2b01Pc1NYMHpiMmVBcUtfeno0cGlfWW9HOUlZNkNTclRvUV9GcUZXQnI0RVpTR2ciLCJleHAiOjE1MzA5MTA4MjV9.ANiy38JrGbLR43ScQvspAfG0fbaljafdMkdpd4K3o60&service=proxsee&digest=SrawyxJyrsL8uv7Opep4PEGV2adCzzPMdoX6jdI1HuU&ts=765369012",
+                    "origin": "ABC News",
+                    "title": "ABC News: \"Woman scales base of Statue of Liberty.\"",
+                    "ts": 1530737501,
+                    "twitterid": 1014612736578347008,
+                    "url": "https://www.periscope.tv/ABC/1YqKDQmyBjBGV"
+                },
+                {
+                    "_id": "5b3cb6ff421aa909bb452342",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/03/BostonGlobe.com/Metro/Images/davis_rmv4_met.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "How to avoid a very bad day at the RMV",
+                    "ts": 1530705366,
+                    "twitterid": 1014477952044683264,
+                    "url": "https://www.bostonglobe.com/business/2018/07/04/rmvtips/UTgQpAfyHlQjLfd4rp8aTO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b1357",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/US/GTY_iced_coffee_sk_150612_hpMain_3_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Good news for coffee lovers: Study finds you may live longer",
+                    "ts": 1530655138,
+                    "twitterid": 1014267281139032064,
+                    "url": "https://abcnews.go.com/GMA/Wellness/good-news-coffee-lovers-study-finds-live-longer/story?id=56336150&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b3c7099421aa9015c68c8b3",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/03/BostonGlobe.com/Business/Images/fb46207bb5bc4a8c8167101e230c1a30-fb46207bb5bc4a8c8167101e230c1a30-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Here\u2019s where recreational marijuana companies are setting up in Massachusetts",
+                    "ts": 1530684103,
+                    "twitterid": 1014388767745040386,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/03/here-where-recreational-marijuana-companies-are-setting-massachusetts/ao9CBsnINbYWqBllDoLfVO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3c7099421aa9015c68c8b5",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/03/BostonGlobe.com/Sports/Images/a4040d862dbc4fccb63203cc506fbf40-a4040d862dbc4fccb63203cc506fbf40-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Terrell Owens outlines his Pro Football Hall of Fame celebration plans",
+                    "ts": 1530684062,
+                    "twitterid": 1014388597179453441,
+                    "url": "https://www.bostonglobe.com/sports/patriots/2018/07/03/terrell-owens-outlines-his-pro-football-hall-fame-celebration-plans/aEN9iGP1dJ1rfEIQ6AxN2J/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            71
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "National Education Association",
+            "Zora Neale Hurston",
+            "Chinese",
+            "Beltway",
+            "POWs",
+            "Newt Gingrich",
+            "Fourth",
+            "Independence Poll",
+            "U.S.",
+            "American Exceptionalism Lea Gabrielle",
+            "Melania Trump",
+            "Young Stars Form",
+            "Esplanade",
+            "People Trump",
+            "Independence Reserved Trump Celebrates",
+            "Hundreds",
+            "BBQ",
+            "Old State House",
+            "Poor Turn",
+            "Decline Never Seems",
+            "Happy Fourth",
+            "American Month",
+            "Bad",
+            "Independence How",
+            "White House",
+            "Inequality",
+            "America",
+            "Boston",
+            "Physical Landscape Selfie Across",
+            "Fourth California",
+            "Mass",
+            "American Small Talk Thanks",
+            "Independence",
+            "Arrive Americans",
+            "NPR",
+            "American",
+            "Donald Trump",
+            "Flunk Independence",
+            "Weird",
+            "Golf Poet",
+            "United States",
+            "John",
+            "West Trump",
+            "Colin Kaepernick",
+            "John Adams"
+        ],
+        "peaks": [],
+        "theme": [
+            "July",
+            "Fourth",
+            "American",
+            "Independence",
+            "America",
+            "Trump",
+            "Fireworks"
+        ],
+        "timestamp": "2018-07-04 17:10:22.797555-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3ca8e8421aa909246032c9",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/opinion/2018/07/03/on-fourth-july-celebrate-uniqueness-america-defined-in-declaration-independence/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1530479654130.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "On the Fourth of July, we celebrate the uniqueness of America -- defined in the Declaration of Independence",
+                    "ts": 1530699924,
+                    "twitterid": 1014455124692004864,
+                    "url": "http://www.foxnews.com/opinion/2018/07/03/on-fourth-july-celebrate-uniqueness-america-defined-in-declaration-independence.html"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1e3",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/trumpjuly4-1024x657.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Trump praises \u2018American heroes,\u2019 Independence signers in video tweet",
+                    "ts": 1530727201,
+                    "twitterid": 1014569533334605824,
+                    "url": "https://www.pbs.org/newshour/politics/trump-praises-american-heroes-independence-signers-in-video-tweet"
+                },
+                {
+                    "_id": "5b3cb6ff421aa909bb45235b",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/flag_040218gn.jpg",
+                    "origin": "The Hill",
+                    "title": "The name American belongs to you this Fourth of July",
+                    "ts": 1530703265,
+                    "twitterid": 1014469138117550080,
+                    "url": "http://thehill.com/opinion/white-house/395380-the-name-american-belongs-to-you-this-july-4"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a38c",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/americanflag.jpg",
+                    "origin": "The Hill",
+                    "title": "Celebrating the American experiment on July Fourth",
+                    "ts": 1530719826,
+                    "twitterid": 1014538601537949697,
+                    "url": "http://thehill.com/opinion/civil-rights/395492-celebrating-the-american-experiment-on-july-fourth"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a39a",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/8888d4b9cb1a44361c310bade9ee60e4c9cea316/c=0-37-724-446/local/-/media/2017/06/21/INGroup/Indianapolis/636336373170817954-GettyImages-542714484.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "America can't spell: Melania Trump, others use #IndependanceDay \u2014 not Independence Day",
+                    "ts": 1530718531,
+                    "twitterid": 1014533170442723330,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/07/04/july-4-independence-day-misspelling/757726002/"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf20b",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/03/Trump_02344.jpg-49ff0_s2048x1365.jpg?157fd7a2b2da4a762ebf407a263d15da8e5779ba",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump hails \u2018American heroes\u2019 who helped U.S. win independence",
+                    "ts": 1530723973,
+                    "twitterid": 1014555995551490048,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/4/donald-trump-hails-american-heroes-who-helped-us-w/"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b137e",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/15/BostonGlobe.com/Magazine/Images/lee_fireworks9_met.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Four spots (off the Esplanade) to watch the Fourth of July fireworks",
+                    "ts": 1530653289,
+                    "twitterid": 1014259523714985984,
+                    "url": "https://www.bostonglobe.com/metro/2018/06/29/four-spots-off-esplanade-watch-fireworks/ZGnWY3NVR32jR4XikL4a5O/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3c2a6a421aa96966114a2d",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/07/03/af001ab3-e155-47ac-9aad-a41f4fb90575/thumbnail/1200x630/ae3b7883eec4750385d3b2234503677f/0703-en-fireandfireworks-evans4.jpg",
+                    "origin": "CBS News",
+                    "title": "Drones replace Fourth of July fireworks amid wildfire fears in the West",
+                    "ts": 1530667262,
+                    "twitterid": 1014318130569596929,
+                    "url": "https://www.cbsnews.com/news/drones-replace-fourth-of-july-fireworks-amid-wildfire-fears-in-the-west/?ftag=CNM-00-10aab7e&linkId=53831385"
+                },
+                {
+                    "_id": "5b3cd31c421aa90d1e9304dc",
+                    "date_month": "2018-07",
+                    "image": "https://www.politico.eu/wp-content/uploads/2018/07/GettyImages-893372334-1200x628.jpg",
+                    "origin": "POLITICO",
+                    "title": "\u2018Accidental Americans\u2019 ask Trump for independence",
+                    "ts": 1530710345,
+                    "twitterid": 1014498835706667008,
+                    "url": "https://www.politico.eu/article/accidental-americans-ask-donald-trump-for-independence/"
+                },
+                {
+                    "_id": "5b3c468a421aa970610c586c",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/qSQtCb7rYT_V6Zi7DD_41VEr_6c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OJMNKF25LUZO7HURT2T5LXP3OY.jpg",
+                    "origin": "Washington Post",
+                    "title": "The Fourth of July White House concert used to be a sea of stars. For Trump, it\u2019s a drought.",
+                    "ts": 1530675982,
+                    "twitterid": 1014354705055698944,
+                    "url": "https://www.washingtonpost.com/news/reliable-source/wp/2018/07/03/the-fourth-of-july-white-house-concert-used-to-be-a-sea-of-stars-for-trump-its-a-drought/?utm_term=.96fe32adb57c&tid=sm_tw&__twitter_impression=true&__twitter_impression=true&__twitter_impression=true"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            112
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Anthony Brown",
+            "Lana Jones",
+            "Industry Hilarious",
+            "Mark Wahlberg",
+            "Chris Hadfield",
+            "Tell Me",
+            "Fourth",
+            "New Video From Cave",
+            "Salem Witch",
+            "Iraq",
+            "Ohio State",
+            "NBA Former Ohio State",
+            "Biggest Upset",
+            "Bear",
+            "Episcopal Church",
+            "Nationals",
+            "Art",
+            "Boys Found Alive",
+            "Mark Ulriksen",
+            "Google",
+            "Sherrilyn Kenyon",
+            "Sorry",
+            "John Stamos",
+            "Poop Management Cave",
+            "Happy",
+            "Cape",
+            "Street Gabriela Taveras",
+            "Miami",
+            "Octopus",
+            "Franklin Park",
+            "WATCH",
+            "Paul Newman",
+            "Fred Rogers",
+            "Anxiety Summer",
+            "Brits",
+            "Tom Brady",
+            "Tennessee",
+            "Neil Armstrong",
+            "Trapped Thai Boys Appear",
+            "American",
+            "NASA",
+            "Trump Cristiano Ronaldo",
+            "None",
+            "Alex Ovechkin",
+            "Jordan Peterson",
+            "Hot Tub",
+            "Soup Boeing",
+            "Watch",
+            "Philippines",
+            "Wasp",
+            "Photos",
+            "Anthony Bourdain Once",
+            "Margarita",
+            "Colombia",
+            "Leggings",
+            "Cleveland California",
+            "Real Madrid",
+            "Toughest",
+            "Common Prayer",
+            "Astrologer Chani Nicholas",
+            "London",
+            "PKs",
+            "Los Angeles",
+            "Chevrolet",
+            "GOP",
+            "Good",
+            "Blazer",
+            "George Wright",
+            "Golden State",
+            "U.S.",
+            "England",
+            "British",
+            "Toronto",
+            "Dwight Howard",
+            "Miss Massachusetts",
+            "Family",
+            "Atlantic",
+            "Bronx",
+            "Quitters Are",
+            "Thailand",
+            "Deadliest Virus Alexandria",
+            "Washington Post Please Don",
+            "Marvel",
+            "LeBron James",
+            "Drake",
+            "Thai Cave",
+            "NYC",
+            "Authentic Barbecue Nanette",
+            "Australia"
+        ],
+        "peaks": [],
+        "theme": [
+            "Cave",
+            "Thai",
+            "World",
+            "Cup",
+            "team",
+            "summer",
+            "Trapped"
+        ],
+        "timestamp": "2018-07-04 17:10:26.250350-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3c468a421aa970610c5863",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/03/BostonGlobe.com/National/Images/Rex_Thai_cave_missing_members_of_foo_9732973D-6831.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Photos from inside the cave where the Thai soccer team is trapped",
+                    "ts": 1530676563,
+                    "twitterid": 1014357144517431296,
+                    "url": "https://www.bostonglobe.com/2018/07/03/photos-from-inside-cave-where-thai-soccer-team-trapped/khTOulRNQQXXfsgF4lqtcL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3c3867421aa96cd090d9bb",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/03/0/0/694940094001_5805022794001_5805005375001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trapped Thai soccer team entered cave for 'initiation' ritual, rescuer says",
+                    "ts": 1530670162,
+                    "twitterid": 1014330296827817984,
+                    "url": "http://www.foxnews.com/world/2018/07/03/trapped-thai-soccer-team-entered-cave-for-initiation-ritual-rescuer-says.html"
+                },
+                {
+                    "_id": "5b3cc506421aa90ca1dee4ed",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/03/0/0/694940094001_5805022794001_5805005375001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Thai soccer team trapped in cave may have to scuba dive out, but none can swim",
+                    "ts": 1530708128,
+                    "twitterid": 1014489538650165250,
+                    "url": "http://www.foxnews.com/world/2018/07/04/thai-soccer-team-trapped-in-cave-may-have-to-scuba-dive-out-but-none-can-swim.html"
+                },
+                {
+                    "_id": "5b3c1c60421aa96600be7a9a",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/03/BostonGlobe.com/National/Images/Rex_Thai_cave_missing_members_of_foo_9732973D.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Trapped boys may have to dive from Thai cave despite peril",
+                    "ts": 1530663484,
+                    "twitterid": 1014302287961972738,
+                    "url": "https://www.bostonglobe.com/news/world/2018/07/03/trapped-boys-may-have-dive-from-thai-cave-despite-peril/um9TOfbrdTj6fSizbo4hUJ/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3c6299421aa97c07caf757",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180703103058-01-thai-soccer-team-cave-rescue-0703-restricted-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Why will it take so long to rescue the trapped Thai soccer team?",
+                    "ts": 1530681995,
+                    "twitterid": 1014379927490191360,
+                    "url": "https://www.cnn.com/2018/07/03/asia/thai-cave-rescue-questions-intl/index.html?sr=twCNN070418thai-cave-rescue-questions-intl0626AMVODtop&utm_term=image&utm_content=2018-07-04T05%3A26%3A34&utm_source=twCNN&utm_medium=social"
+                },
+                {
+                    "_id": "5b3d277f421aa91195258346",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/04/ap_18185212424052_wide-8a5406afc974de8c51f9889521f804ea620f6e50.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "Trapped Thai Boys Appear In Good Spirits In New Video From Cave",
+                    "ts": 1530732365,
+                    "twitterid": 1014591193424879616,
+                    "url": "https://www.npr.org/2018/07/04/625943204/trapped-thai-boys-appear-in-good-spirits-in-new-video-from-cave?utm_source=dlvr.it&utm_medium=twitter"
+                },
+                {
+                    "_id": "5b3c7099421aa9015c68c89c",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Sports/WireAP_30c97e36bde54f36822516f45ea2473a_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Alex Ovechkin brings the Stanley Cup to the World Cup",
+                    "ts": 1530686486,
+                    "twitterid": 1014398763258073088,
+                    "url": "https://abcnews.go.com/Sports/wireStory/alex-ovechkin-brings-stanley-cup-world-cup-56337972?cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a394",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/04/BostonGlobe.com/Foreign/Images/02e2262c389c4305a61e878dcc01165c-02e2262c389c4305a61e878dcc01165c-2763.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Watch: New video shows Thai soccer players still trapped in flooded cave",
+                    "ts": 1530718970,
+                    "twitterid": 1014535010748157952,
+                    "url": "https://www.bostonglobe.com/news/world/2018/07/04/watch-new-video-shows-thai-soccer-players-still-trapped-flooded-cave/SgnGybYoodHJQtaORi4AyN/story.html?s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3cb6ff421aa909bb452366",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/1gHJI6WJdxHfDSH6mX1SIBZScDY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q2CPKUDQBY7I7DMPT6CJKGPIEA.jpg",
+                    "origin": "Washington Post",
+                    "title": "The World Cup is a celebration of cosmopolitanism, until it isn\u2019t",
+                    "ts": 1530702445,
+                    "twitterid": 1014465700616908800,
+                    "url": "https://www.washingtonpost.com/news/worldviews/wp/2018/07/04/the-world-cup-is-a-celebration-of-cosmopolitanism-until-it-isnt/?utm_term=.e1ba8cdb8dd4&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3c2a6a421aa96966114a29",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16781/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "The World Cup\u2019s Biggest Upset: England Wins on Penalties",
+                    "ts": 1530667481,
+                    "twitterid": 1014319050380447744,
+                    "url": "https://www.wsj.com/articles/the-world-cups-biggest-upset-england-wins-on-penalties-1530657520?mod=e2tw"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            39
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Abortion Supreme Court",
+            "Uphill Battle",
+            "Crisis",
+            "Down Trump",
+            "Supreme Court Pick Trump Weighs Personal Chemistry",
+            "Supreme Court Decisions",
+            "Law",
+            "Obama",
+            "Fair Is",
+            "Trump Interviews Mike Lee",
+            "Suckers US Supreme Court",
+            "Race To Oppose Trump",
+            "Anthony Kennedy Was No Moderate",
+            "Prize Stability",
+            "New Supreme Court Will Decide Scaramucci",
+            "Kennedy",
+            "Israel",
+            "SCOTUS",
+            "Trump",
+            "Supreme Court",
+            "Brett Kavanaugh Race",
+            "Picking Supreme Court Nominee Sessions",
+            "Arkansas Trump Administration Rescinds",
+            "Donald Trump",
+            "Legal Record",
+            "Poland",
+            "Polish Supreme Court Head Defies Ruling Party",
+            "American Council"
+        ],
+        "peaks": [],
+        "theme": [
+            "Court",
+            "Supreme",
+            "Trump",
+            "Picking",
+            "administration",
+            "admissions",
+            "Interviews"
+        ],
+        "timestamp": "2018-07-04 17:10:27.043071-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3bf247421aa95b806b1370",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/f9/9b/5c94b54a4162b97aa49fd8436639/180703-donald-trump-court-getty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Trump interviews 3 more Supreme Court candidates",
+                    "ts": 1530653768,
+                    "twitterid": 1014261533042503682,
+                    "url": "https://www.politico.com/story/2018/07/03/url-trump-supreme-court-candidates-693473"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b138f",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16763/social",
+                    "origin": "Capital Journal",
+                    "title": "Trump Interviews Mike Lee for Supreme Court Opening",
+                    "ts": 1530652339,
+                    "twitterid": 1014255539847663616,
+                    "url": "https://www.wsj.com/articles/trump-interviews-mike-lee-for-supreme-court-opening-1530643814?mod=e2twp"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b1360",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/IcBf0AGk1nQ_jrabz46s_RAE9p0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BLOUMMT65MI6RNTAJUHZ6A2R6E.jpg",
+                    "origin": "Washington Post",
+                    "title": "Trump interviews three more potential Supreme Court candidates",
+                    "ts": 1530654367,
+                    "twitterid": 1014264044625235976,
+                    "url": "https://www.washingtonpost.com/politics/trump-interviews-sen-mike-lee-for-supreme-court-vacancy/2018/07/03/0f98e1b6-7ee8-11e8-b9f0-61b08cdd0ea1_story.html?utm_term=.02f6194ad0d0&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3cb6ff421aa909bb45234a",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16797/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "Trump Weighs Personal Chemistry, Legal Record in Picking Supreme Court Nominee",
+                    "ts": 1530704706,
+                    "twitterid": 1014475184605147136,
+                    "url": "https://www.wsj.com/articles/trump-weighs-personal-chemistry-legal-record-in-picking-supreme-court-nominee-1530702001?mod=e2tw"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b136e",
+                    "date_month": "2018-07",
+                    "image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/RTX68BQ3-1024x576.jpg",
+                    "origin": "PBS NewsHour",
+                    "title": "Race in college admissions: Read the Trump administration\u2019s statement on reversing policies",
+                    "ts": 1530654000,
+                    "twitterid": 1014262506959843329,
+                    "url": "https://www.pbs.org/newshour/education/race-in-college-admissions-read-the-trump-administrations-statement-on-reversing-policies"
+                },
+                {
+                    "_id": "5b3c468a421aa970610c5860",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/db/de/86ba48c746d2a00e1d204f065e4a/180703-donald-trump-guidelines-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Affirmative action guidelines dropped by Trump administration",
+                    "ts": 1530676813,
+                    "twitterid": 1014358192854315009,
+                    "url": "https://www.politico.com/story/2018/07/03/trump-end-obama-affirmative-action-692610"
+                },
+                {
+                    "_id": "5b3c0044421aa95f1182ccae",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/03/0/0/694940094001_5804958444001_5804964139001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Trump administration is breaking from Obama-era affirmative action policies",
+                    "ts": 1530656077,
+                    "twitterid": 1014271218520920065,
+                    "url": "http://www.foxnews.com/politics/2018/07/03/trump-administration-breaking-from-obama-era-affirmative-action-policies.html"
+                },
+                {
+                    "_id": "5b3c3867421aa96cd090d9a9",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170611134718-lee-obamacare-repeal-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump calls Sen. Mike Lee as Supreme Court announcement nears",
+                    "ts": 1530671548,
+                    "twitterid": 1014336108765773824,
+                    "url": "https://www.cnn.com/2018/07/03/politics/mike-lee-trump-supreme-court/index.html?sr=twCNNp070318mike-lee-trump-supreme-court0351PMStory&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3c0044421aa95f1182ccad",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+                    "origin": "NPR Politics",
+                    "title": "Trump Administration Rescinds Obama-Era Guidance Encouraging Affirmative Action",
+                    "ts": 1530656100,
+                    "twitterid": 1014271314616410113,
+                    "url": "https://www.npr.org/2018/07/03/625750918/trump-administration-rescinds-obama-era-guidance-encouraging-affirmative-action?utm_source=twitter.com&utm_medium=social&utm_campaign=politics&utm_term=nprnews&utm_content=20180703"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b1356",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/00d985e7b60808f46e863779bd396eb72179ed0f/c=0-169-1946-1268/local/-/media/2018/07/02/USATODAY/USATODAY/636661410438451142-AP-Supreme-Court-Kennedy-Retires-101023759.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "Donald Trump says he's interviewed 4 Supreme Court candidates; will talk to 2-3 more",
+                    "ts": 1530655203,
+                    "twitterid": 1014267551482859520,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/07/02/donald-trump-interviewed-4-supreme-court-candidates/750915002/"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            17
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Scott Pruitt",
+            "Trump",
+            "Oval",
+            "Banana Republic Pruitt",
+            "EPA",
+            "America",
+            "GOP",
+            "Pruitt",
+            "Utah",
+            "DOJ Whistleblower",
+            "Justice Department",
+            "New",
+            "Sessions Woman",
+            "AG Sessions"
+        ],
+        "peaks": [],
+        "theme": [
+            "Pruitt",
+            "Trump",
+            "Sessions",
+            "denies",
+            "ag",
+            "asked",
+            "EPA"
+        ],
+        "timestamp": "2018-07-04 17:10:27.498438-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3c1c60421aa96600be7aaa",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pruittscott_051618gn17_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Pruitt denies he asked Trump to fire Sessions, make him AG",
+                    "ts": 1530662645,
+                    "twitterid": 1014298766915096576,
+                    "url": "http://thehill.com/policy/energy-environment/395481-pruitt-denies-he-asked-trump-to-fire-sessions-make-him-ag"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b1362",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pruittscott_trumpdonald_04042018getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Pruitt asked Trump to fire Sessions, name him as AG: report",
+                    "ts": 1530654365,
+                    "twitterid": 1014264039470485504,
+                    "url": "http://thehill.com/homenews/administration/395454-pruitt-asked-trump-to-fire-sessions-name-him-as-ag-report?__twitter_impression=true"
+                },
+                {
+                    "_id": "5b3c0e4e421aa96293a27dc6",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/c6/4c/05c35881474ab7280d2f7adf198b/180703-pruitt-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Pruitt denies he urged Trump to dump Sessions",
+                    "ts": 1530659703,
+                    "twitterid": 1014286428891746305,
+                    "url": "https://www.politico.com/story/2018/07/03/pruitt-sessions-trump-attorney-general-693627"
+                },
+                {
+                    "_id": "5b3c0e4e421aa96293a27dba",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/03/0/0/694940094001_5805040006001_5805039497001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "EPA chief Pruitt denies report he sought AG Sessions' job in Oval Office meeting: '100 percent false'",
+                    "ts": 1530660665,
+                    "twitterid": 1014290461891203074,
+                    "url": "http://www.foxnews.com/politics/2018/07/03/epa-chief-pruitt-denies-report-sought-ag-sessions-job-in-oval-office-meeting-100-percent-false.html"
+                },
+                {
+                    "_id": "5b3c6299421aa97c07caf75c",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/c6/4c/05c35881474ab7280d2f7adf198b/180703-pruitt-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Pruitt denies he urged Trump to dump Sessions, install him at DOJ",
+                    "ts": 1530681207,
+                    "twitterid": 1014376621351063552,
+                    "url": "https://www.politico.com/story/2018/07/03/pruitt-sessions-trump-attorney-general-693627"
+                },
+                {
+                    "_id": "5b3c7eb6421aa906c060951e",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180615173121-01-scott-pruitt-06-06-2018-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Whistleblower: EPA's Pruitt kept secret calendar to hide meetings",
+                    "ts": 1530688146,
+                    "twitterid": 1014405726175932416,
+                    "url": "https://www.cnn.com/2018/07/02/politics/scott-pruitt-whistleblower-secret-calendar/index.html?sr=twCNNp070318scott-pruitt-whistleblower-secret-calendar0654AMVODtop&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3c3867421aa96cd090d99f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/pruittscott_060818gn6_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Pruitt put ally in charge of EPA office overseeing key records requests: report",
+                    "ts": 1530672185,
+                    "twitterid": 1014338781628063744,
+                    "url": "http://thehill.com/policy/energy-environment/395486-pruitt-put-close-ally-in-charge-of-epa-office-overseeing-records"
+                },
+                {
+                    "_id": "5b3c2a6a421aa96966114a23",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/st_X1XO8OlcoWREJtxEnBfg2RN0=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MW6PSIC5UQ73ZGVUAU3QTWU5IQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Why a teacher carried her 2-year-old up to Scott Pruitt\u2019s restaurant table and asked him to resign",
+                    "ts": 1530667687,
+                    "twitterid": 1014319913593339904,
+                    "url": "https://www.washingtonpost.com/news/local/wp/2018/07/03/why-a-teacher-carried-her-2-year-old-up-to-scott-pruitts-restaurant-table-and-asked-him-to-resign/?utm_term=.58b3e8690971&tid=sm_tw&tid=sm_tw&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b135e",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/2683572bdb7cedb3abf53af314bf68bd5a774b19/c=0-397-5165-3315/local/-/media/2018/07/03/USATODAY/USATODAY/636661940543004059-AFP-AFP-17249Q.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Maybe delivery next time? Pruitt the latest Trump official to get earful while out to eat",
+                    "ts": 1530654604,
+                    "twitterid": 1014265040906670080,
+                    "url": "https://www.usatoday.com/story/nletter/short-list/2018/07/03/scott-pruitt-thailand-cave-rescue-and-july-fourth-todays-short-list/755091002/"
+                },
+                {
+                    "_id": "5b3cb6ff421aa909bb45234f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/nydn_0.jpg",
+                    "origin": "The Hill",
+                    "title": "NY Daily News mocks Trump as a 'clown' on Independence Day",
+                    "ts": 1530704223,
+                    "twitterid": 1014473159817474048,
+                    "url": "http://thehill.com/homenews/media/395490-ny-daily-news-mocks-trump-as-a-clown-on-independence-day"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            43
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Tom Arnold",
+            "Foreign Bike Foes",
+            "Harley",
+            "Brexit",
+            "West Virginia",
+            "Austria",
+            "Obama",
+            "Melania Trump",
+            "Dutch",
+            "Seattle",
+            "Trump May Have",
+            "Scotland",
+            "ZTE",
+            "Trump",
+            "U.S. Trump",
+            "Industry",
+            "Service",
+            "White House",
+            "Washington Post",
+            "Strategic Acosta",
+            "Joseph",
+            "China",
+            "Putin",
+            "Los Angeles",
+            "Washington",
+            "US Iranian",
+            "Donald Trump",
+            "Indianapolis",
+            "Spite Harley",
+            "Capital Gazette",
+            "Liberty",
+            "Angela Merkel",
+            "JK Rowling",
+            "Nigel Farage Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "tweet",
+            "tariffs",
+            "us",
+            "Capital",
+            "could",
+            "days"
+        ],
+        "timestamp": "2018-07-04 17:10:28.304059-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3c0044421aa95f1182cca4",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_media_052518getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Acosta knocks Trump over 'fake news' tweet days after newspaper shooting",
+                    "ts": 1530656528,
+                    "twitterid": 1014273108558143489,
+                    "url": "http://thehill.com/homenews/media/395468-acosta-knocks-trump-over-fake-news-tweet-days-after-newspaper-shooting"
+                },
+                {
+                    "_id": "5b3cc506421aa90ca1dee4e2",
+                    "date_month": "2018-07",
+                    "image": "https://i2.cdn.turner.com/money/dam/assets/170925052723-angela-merkel-election-780x439.jpg",
+                    "origin": "CNN",
+                    "title": "Angela Merkel: US auto tariffs could start trade war",
+                    "ts": 1530709203,
+                    "twitterid": 1014494043802423298,
+                    "url": "http://money.cnn.com/2018/07/04/news/economy/angela-merkel-germany-trade-war/index.html?utm_medium=social&utm_source=twCNN&utm_content=2018-07-04T13%3A00%3A02&utm_term=image"
+                },
+                {
+                    "_id": "5b3c0e4e421aa96293a27dd0",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_061818getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Industry expert: Trump tariffs on auto imports could raise car prices by $5K",
+                    "ts": 1530658864,
+                    "twitterid": 1014282906641027073,
+                    "url": "http://thehill.com/policy/finance/international-taxes/395387-industry-expert-trump-tariffs-on-auto-imports-could-raise"
+                },
+                {
+                    "_id": "5b3c0044421aa95f1182cc84",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trumpdonald_062118_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump lowers flags for victims of Capital Gazette shooting",
+                    "ts": 1530658683,
+                    "twitterid": 1014282149913079808,
+                    "url": "http://thehill.com/homenews/administration/395311-sarah-sanders-trump-will-lower-flags-for-victims-of-capital-gazette"
+                },
+                {
+                    "_id": "5b3c0044421aa95f1182cc8b",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/trumptweets.jpg",
+                    "origin": "The Hill",
+                    "title": "Merriam-Webster mocks Trump over misspelled tweet",
+                    "ts": 1530658321,
+                    "twitterid": 1014280632577478657,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/395471-dictionary-mocks-trump-over-misspelled-tweet"
+                },
+                {
+                    "_id": "5b3c1c60421aa96600be7a7c",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/48/69/1019b0dd4c0eb223f70bda495c1b/180703-donald-trump-ap-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Pore or pour? Trump tweet corrects example of poor spelling.",
+                    "ts": 1530665405,
+                    "twitterid": 1014310345203179520,
+                    "url": "https://www.politico.com/story/2018/07/03/trump-twitter-pore-pour-693629"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1cd",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/merkelangela_06192018.jpg",
+                    "origin": "The Hill",
+                    "title": "Merkel on Trump tariffs: 'It takes two' to prevent a trade war",
+                    "ts": 1530729427,
+                    "twitterid": 1014578872719945729,
+                    "url": "http://thehill.com/policy/finance/395514-merkel-on-trump-tariffs-it-takes-two-sides-to-prevent-a-trade-war"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b1375",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump_060718getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Musical instrument manufacturer threatens to move overseas due to Trump tariffs",
+                    "ts": 1530653646,
+                    "twitterid": 1014261021043757057,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395321-musical-instrument-manufacturer-threatens-to-move-overseas-due"
+                },
+                {
+                    "_id": "5b3c1c60421aa96600be7a8e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/trump_house_instagram.png",
+                    "origin": "The Hill",
+                    "title": "Seattle house displays 'countdown clock' showing days until Trump's term ends",
+                    "ts": 1530664269,
+                    "twitterid": 1014305577873428481,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/news/395482-seattle-house-displays-countdown-clock-showing-days-until"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1f9",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/capitalgazette_6282018_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Journalists flying in to help Capital Gazette after shooting",
+                    "ts": 1530725344,
+                    "twitterid": 1014561745707380737,
+                    "url": "http://thehill.com/homenews/media/395505-parent-company-flying-in-journalists-to-help-the-capital-gazette-after"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            99
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "White House An ICE Raid",
+            "Israeli",
+            "GLOW",
+            "New Poll",
+            "Kevin Spacey",
+            "Plate Alexander Hamilton",
+            "Democrats Oprah Winfrey",
+            "Pleads Guilty",
+            "Berlusconi",
+            "John Malkovich",
+            "Miles Teller",
+            "AMLO Won",
+            "GOP",
+            "Venezuela",
+            "Matt Damon",
+            "Fades From Popularity",
+            "Democrats Trump",
+            "U.S.",
+            "Ron Paul",
+            "Agenda",
+            "Europe",
+            "Syria Chimp",
+            "Pelosi",
+            "John Krasinski",
+            "Alex Jones",
+            "Original Populist",
+            "Successful Women",
+            "Goose",
+            "Harlan Ellison",
+            "Sarah Huckabee Sanders",
+            "Death Raises",
+            "Hawaii",
+            "Bush",
+            "Facebook",
+            "Poignant Dem Senate",
+            "Baked Beans",
+            "Bruins",
+            "Who",
+            "Imran Awan",
+            "Texas Dem",
+            "Arab Democracy Depends",
+            "Malaysian",
+            "Chic",
+            "Bank Fraud Trump",
+            "Bolivian",
+            "ABC News Record Number Of Native Americans Running For Office",
+            "Trump AP",
+            "Kevin Spacey Daily Cartoon",
+            "Iranians",
+            "Midterms",
+            "Worker",
+            "Manchurian Candidate",
+            "Trump",
+            "Vineyard",
+            "Paige Patterson",
+            "MeToo Quandary Indiana AG",
+            "Najib Razak",
+            "Fallen Leader",
+            "Trump Scarlett Johansson",
+            "Alan Dershowitz",
+            "Risky Mexico Border Crossing",
+            "Michael Avenatti",
+            "Schumer",
+            "School",
+            "HBO",
+            "HALF",
+            "Pull Up",
+            "Stormy Daniels",
+            "Iowa Town Divided Along Faith Lines Jackie Kennedy",
+            "Kevin Spacey Plea Deal For Former Congressional",
+            "Italy",
+            "London",
+            "Trump Goa",
+            "Trump Obama",
+            "Donald Trump",
+            "Woman",
+            "Escape Artist American",
+            "Teachers Run For Office Over Summer Break",
+            "Angela Merkel",
+            "Jude Law",
+            "Martha",
+            "Merkel"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "run",
+            "says",
+            "Alan",
+            "Dershowitz",
+            "new",
+            "Vineyard"
+        ],
+        "timestamp": "2018-07-04 17:10:30.065168-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3c7eb6421aa906c0609517",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/04/us/04xp-dershowitz/04xp-dershowitz-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "Alan Dershowitz Says Martha\u2019s Vineyard Is \u2018Shunning\u2019 Him Over Trump",
+                    "ts": 1530688807,
+                    "twitterid": 1014408497826598913,
+                    "url": "https://www.nytimes.com/2018/07/03/us/alan-dershowitz-marthas-vineyard.html?smtyp=cur&smid=tw-nytimes"
+                },
+                {
+                    "_id": "5b3c2a6a421aa96966114a04",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/HqhfCnWq6s9OEdfWxANXsfwMzN8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWUCZJNYN45LJPZIW4CSQ2LLUQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Alan Dershowitz says \u2018friends on Martha\u2019s Vineyard\u2019 are shunning him for defending Trump",
+                    "ts": 1530669546,
+                    "twitterid": 1014327711555301376,
+                    "url": "https://www.washingtonpost.com/news/the-fix/wp/2018/07/03/alan-dershowitz-says-friends-on-marthas-vineyard-are-shunning-him-for-defending-trump/?utm_term=.480c4b97a4c2&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3c547d421aa977a237167f",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/03/BostonGlobe.com/ReceivedContent/Images/DERSHOWITZ_DEFAMATION_LAWSUIT_2.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Despite mockery, Alan Dershowitz says he\u2019s ready to debate Vineyard detractors",
+                    "ts": 1530677215,
+                    "twitterid": 1014359877454622721,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/03/despite-mockery-alan-dershowitz-says-ready-debate-vineyard-detractors/yuYFppKB9oUB9DTnj1ejeL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3cd31c421aa90d1e9304c4",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/02/BostonGlobe.com/Lifestyle/Images/DERSHOWITZ_REPUTATION_ADV13_1.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "The Martha\u2019s Vineyard crowd strikes back at Alan Dershowitz for his defenses of Trump",
+                    "ts": 1530711961,
+                    "twitterid": 1014505614062604288,
+                    "url": "https://www.bostonglobe.com/lifestyle/names/2018/07/03/the-martha-vineyard-crowd-strikes-back-alan-dershowitz-for-his-defenses-trump/ykxKWa6erCQsSUsbcrFURO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter&__twitter_impression=true"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a3a0",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/01/08/Alan_Dershowitz_s2048x1181.jpg?8e795ea9110f3bd207401dba92cbf6aaadff9477",
+                    "origin": "The Washington Times",
+                    "title": "Alan Dershowitz says he's been shunned by liberal elite: McCarthyism has 'come to Martha's Vineyard'",
+                    "ts": 1530717938,
+                    "twitterid": 1014530681525932033,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/4/alan-dershowitz-says-hes-been-shunned-by-liberal-e/"
+                },
+                {
+                    "_id": "5b3c2a6a421aa96966114a02",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/MSNBC/Components/Video/201807/n_hardball_kornacki_180703_1920x1080.1200;630;7;70;5.jpg",
+                    "origin": "MSNBC",
+                    "title": "New Poll: 49% believe Trump is racist",
+                    "ts": 1530669605,
+                    "twitterid": 1014327959858176001,
+                    "url": "https://www.msnbc.com/hardball/watch/new-poll-49-believe-trump-is-racist-1269752899889?cid=sm_npd_ms_tw_ma"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a3b0",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/96/6f/82f5a18e49728ec3c455cee94962/180704-michael-avenattiap-18150582851545.jpg",
+                    "origin": "POLITICO",
+                    "title": "Stormy Daniels\u2019 lawyer: If Trump seeks reelection, \u2018I will run\u2019",
+                    "ts": 1530717006,
+                    "twitterid": 1014526775735537665,
+                    "url": "https://www.politico.com/story/2018/07/04/avenatti-2020-trump-reelection-stormy-daniels-lawyer-694056"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1d2",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/avenattimichael_getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Avenatti suggests he could run against Trump in 2020",
+                    "ts": 1530728704,
+                    "twitterid": 1014575838229082112,
+                    "url": "http://thehill.com/blogs/blog-briefing-room/395518-avenatti-suggests-he-could-run-against-trump-in-2020"
+                },
+                {
+                    "_id": "5b3c547d421aa977a237167b",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/HqhfCnWq6s9OEdfWxANXsfwMzN8=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RWUCZJNYN45LJPZIW4CSQ2LLUQ.jpg",
+                    "origin": "Washington Post",
+                    "title": "Why so many laughed at Alan Dershowitz \u2014 but defended Sarah Huckabee Sanders",
+                    "ts": 1530677545,
+                    "twitterid": 1014361260383784960,
+                    "url": "https://www.washingtonpost.com/blogs/post-partisan/wp/2018/07/03/why-so-many-laughed-at-alan-dershowitz-but-defended-sarah-huckabee-sanders/?utm_term=.76a74572a8d1&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3ce131421aa90db623a8b0",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/07/02/cbe3d673-f2aa-49fc-a208-99de471d4f13/thumbnail/1200x630/0601d5defc861c1c72012a74eb832e01/cbsn-fusion-president-trump-met-with-four-potential-scotus-nominees-thumbnail-1603513-640x360.jpg",
+                    "origin": "CBS News",
+                    "title": "AP: Trump pressed aides on Venezuela invasion, U.S. official says",
+                    "ts": 1530716409,
+                    "twitterid": 1014524268472946688,
+                    "url": "https://www.cbsnews.com/news/ap-trump-pressed-aides-on-venezuela-invasion-us-official-says/?ftag=CNM-00-10aab7e&linkId=53866104"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            8
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "South Koreans",
+            "North Korea US",
+            "North Korea",
+            "Donald Trump",
+            "Pompeo",
+            "Misstatements",
+            "Falsehoods",
+            "Fourth",
+            "Mistake",
+            "North Korea Deal Trump"
+        ],
+        "peaks": [],
+        "theme": [
+            "North",
+            "Korea",
+            "Trump",
+            "War",
+            "hoping",
+            "ahead",
+            "beyond"
+        ],
+        "timestamp": "2018-07-04 17:10:30.447354-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3c0044421aa95f1182cc8f",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/kimtrump_061218getty_0.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump: We'd be at war with North Korea if it wasn't for me",
+                    "ts": 1530658147,
+                    "twitterid": 1014279899761307655,
+                    "url": "http://thehill.com/homenews/administration/395305-trump-wed-be-at-war-with-north-korea-if-it-wasnt-for-me"
+                },
+                {
+                    "_id": "5b3c1c60421aa96600be7a7d",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/03/BostonGlobe.com/Foreign/Images/e6340966-4956-11e8-9072-f6d4bc32f223.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "US would be at war with North Korea \u2018if not for me,\u2019 President Donald Trump says",
+                    "ts": 1530665346,
+                    "twitterid": 1014310097286238208,
+                    "url": "https://www.bostonglobe.com/news/politics/2018/07/03/would-war-with-north-korea-not-for-trump-says/M5hKVFTbQ8VhdwGdOzlnML/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3c1c60421aa96600be7a76",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/Politics/pompeo-kim-ap-jef-180607_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "State Dept dismisses doubts ahead of Pompeo trip to North Korea",
+                    "ts": 1530665884,
+                    "twitterid": 1014312353201115136,
+                    "url": "https://abcnews.go.com/Politics/state-dept-dismisses-doubts-ahead-pompeo-trip-north/story?id=56339716&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b1382",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/12/a5/628364fc4219a5c4c0658a74342b/180701trumpkimgettyimages-971886188.jpg",
+                    "origin": "POLITICO",
+                    "title": "Why I\u2019m Still Hopeful About Trump\u2019s North Korea Deal",
+                    "ts": 1530653105,
+                    "twitterid": 1014258754492289024,
+                    "url": "https://www.politico.com/magazine/story/2018/07/02/why-im-still-hopeful-about-trumps-north-korea-deal-218943"
+                },
+                {
+                    "_id": "5b3d277f421aa91195258335",
+                    "date_month": "2018-07",
+                    "image": "https://s.abcnews.com/images/International/Korea-Reunions-ap-8-er-180703_hpMain_16x9_992.jpg",
+                    "origin": "ABC News",
+                    "title": "Time running out for South Koreans hoping to reunite with family in the North",
+                    "ts": 1530733684,
+                    "twitterid": 1014596728350273536,
+                    "url": "https://abcnews.go.com/International/time-running-south-koreans-hoping-reunite-family-north/story?id=56339952&cid=social_twitter_abcn"
+                },
+                {
+                    "_id": "5b3c2a6a421aa96966114a0c",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180702142626-02-trump-oval-office-0702-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "6 storylines to watch on the Fourth of July -- and beyond",
+                    "ts": 1530669067,
+                    "twitterid": 1014325703263903744,
+                    "url": "https://www.cnn.com/2018/07/03/politics/storylines-fourth-of-july-analysis/index.html?utm_medium=social&utm_source=twCNN&utm_term=image&utm_content=2018-07-04T01%3A51%3A05"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a3ae",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/59097cf72179605b11ad91cc/16:9/w_1200,h_630,c_limit/Schlosser-OnNuclearWarfareByAccident-2.jpg",
+                    "origin": "The New Yorker",
+                    "title": "World War Three, by Mistake",
+                    "ts": 1530717021,
+                    "twitterid": 1014526835965734912,
+                    "url": "https://www.newyorker.com/news/news-desk/world-war-three-by-mistake?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b3c468a421aa970610c5866",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/04/us/politics/04dc-trumpfact1/04dc-trumpfact1-facebookJumbo.jpg",
+                    "origin": "NYT Politics",
+                    "title": "In a Fox-Inspired Tweetstorm, Trump Offers a Medley of Falsehoods and Misstatements",
+                    "ts": 1530676445,
+                    "twitterid": 1014356649505710082,
+                    "url": "https://www.nytimes.com/2018/07/03/us/politics/fact-check-donald-trump-fox-tweetstorm.html?partner=rss&emc=rss&smid=tw-nytpolitics&smtyp=cur"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            40
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "US",
+            "Does Trump Know",
+            "Mike Capuano",
+            "U.S.",
+            "Calls",
+            "Markey",
+            "DOJ",
+            "Democrats Parents",
+            "Statue",
+            "Philadelphia",
+            "Democrats Zephyr Teachout",
+            "Maryland",
+            "DNC",
+            "Guilty",
+            "Eliminate",
+            "Call To Abolish",
+            "Scale Lady Liberty",
+            "Trump",
+            "Supreme Court",
+            "Banner",
+            "White House",
+            "America",
+            "Nebraska",
+            "Independence",
+            "ICE White House",
+            "ICE Poll",
+            "Nielsen",
+            "Donald Trump",
+            "Democratic Party",
+            "David Webb",
+            "Liberty Attorneys"
+        ],
+        "peaks": [],
+        "theme": [
+            "ICE",
+            "Abolish",
+            "Trump",
+            "Democrats",
+            "immigrant",
+            "border",
+            "calls"
+        ],
+        "timestamp": "2018-07-04 17:10:31.137756-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3c0044421aa95f1182cc86",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16661/social",
+                    "origin": "Capital Journal",
+                    "title": "Democrats Weigh Politics of Calls to Eliminate ICE",
+                    "ts": 1530658588,
+                    "twitterid": 1014281752053997569,
+                    "url": "https://www.wsj.com/articles/democrats-weigh-politics-of-calls-to-eliminate-ice-1530570932?mod=e2twp"
+                },
+                {
+                    "_id": "5b3c8cbb421aa90763c03ed8",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/06/23/Republicans_Losing_Latinos_96203.jpg-6fc10_s2048x1453.jpg?3cf2fc51a731268c265dffed35f3a927405bc87a",
+                    "origin": "The Washington Times",
+                    "title": "'Abolish ICE' narrative a recipe for disaster for Democrats",
+                    "ts": 1530694293,
+                    "twitterid": 1014431508646563840,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/4/abolish-ice-narrative-a-recipe-for-disaster-for-de/"
+                },
+                {
+                    "_id": "5b3d277f421aa91195258345",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/daca_protest_immigration_030518gn_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "When Democrats cry 'Abolish ICE,' they really mean 'abolish borders'",
+                    "ts": 1530732542,
+                    "twitterid": 1014591936940969985,
+                    "url": "http://thehill.com/opinion/immigration/395389-when-democrats-cry-abolish-ice-they-really-mean-abolish-borders"
+                },
+                {
+                    "_id": "5b3c0e4e421aa96293a27daa",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/GpXW0gCyMIgVfwuMdepB5tpScmk=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D6XCMZD7A4I6RMHP776KX37ZIY.jpg",
+                    "origin": "Washington Post",
+                    "title": "\u2018Abolish ICE\u2019 demands from Democrats draw sharp White House rebuke",
+                    "ts": 1530661563,
+                    "twitterid": 1014294229579915264,
+                    "url": "https://www.washingtonpost.com/politics/abolish-ice-demands-from-democrats-draw-sharp-white-house-rebuke/2018/07/03/33ba5c46-7eed-11e8-b660-4d0f9f0351f1_story.html?utm_term=.808013e1e116&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3cb6ff421aa909bb45236c",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/06/09/BostonGlobe.com/Business/Images/Walker_060818_09GlobePanel_14636x.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Markey also calls for replacing ICE",
+                    "ts": 1530702013,
+                    "twitterid": 1014463890254647296,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/03/markey-also-calls-for-replacing-ice/KcZ1xxWKszcVBzvVfsY2sK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3ce131421aa90db623a8d7",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/41/13/702df7164f129f3328e20cb21987/180702-donald-trump-gty-1160.jpg",
+                    "origin": "POLITICO",
+                    "title": "Judge's order could undercut Trump's immigrant detention plan",
+                    "ts": 1530713044,
+                    "twitterid": 1014510157114601473,
+                    "url": "https://www.politico.com/story/2018/07/02/judge-trump-immigrant-detention-plan-692198"
+                },
+                {
+                    "_id": "5b3c0e4e421aa96293a27da5",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/03/AP_18184825378886_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219",
+                    "origin": "The Washington Times",
+                    "title": "Donald Trump calls on Americans to remember U.S. military serving overseas on July 4",
+                    "ts": 1530661956,
+                    "twitterid": 1014295877236772865,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/3/donald-trump-calls-americans-remember-us-military-/"
+                },
+                {
+                    "_id": "5b3c0e4e421aa96293a27dcb",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/article_images/icedetention11292016getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump plans to expand immigrant detention boosts private prison companies: report",
+                    "ts": 1530659224,
+                    "twitterid": 1014284416686940161,
+                    "url": "http://thehill.com/homenews/administration/395377-trump-plans-to-expand-immigrant-detention-boost-private-prison"
+                },
+                {
+                    "_id": "5b3c3867421aa96cd090d9ae",
+                    "date_month": "2018-07",
+                    "image": "https://media.npr.org/assets/img/2018/07/03/gettyimages-986922554_wide-181bde635ce09d2ec7a3090cf748d3c10ebe04fd.jpg?s=1400",
+                    "origin": "NPR",
+                    "title": "4 Questions About The Call To Abolish ICE",
+                    "ts": 1530671400,
+                    "twitterid": 1014335487257923584,
+                    "url": "https://www.npr.org/2018/07/03/625507824/4-questions-about-the-call-to-abolish-ice?utm_source=twitter.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180703"
+                },
+                {
+                    "_id": "5b3c1c60421aa96600be7a88",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/AP_18134528343665/facebook.jpg?1530637303",
+                    "origin": "The Atlantic",
+                    "title": "Does Trump Know What ICE Does?",
+                    "ts": 1530664707,
+                    "twitterid": 1014307414903021570,
+                    "url": "https://www.theatlantic.com/politics/archive/2018/07/does-trump-know-what-ice-does/564371/?utm_medium=social&utm_source=twitter&utm_term=2018-07-03T18%3A31%3A38&utm_content=edit-promo&utm_campaign=the-atlantic"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            23
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Donald J. Trump",
+            "FBI",
+            "Next Move",
+            "Putin House",
+            "Justice",
+            "U.S.",
+            "Clinton",
+            "Russia",
+            "New York Times",
+            "Congressman",
+            "DNC",
+            "House",
+            "Trump",
+            "Moscow",
+            "Trump Brief",
+            "Lawsuits Michael Cohen",
+            "Russian",
+            "Putin",
+            "Senate Intel",
+            "Trump Michael Cohen",
+            "Twitter",
+            "Michael Cohen",
+            "U.S.-Russia",
+            "Trump Intel Dem"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "Russia",
+            "Senate",
+            "Cohen",
+            "Michael",
+            "panel",
+            "Intel"
+        ],
+        "timestamp": "2018-07-04 17:10:31.654277-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3c0044421aa95f1182ccb6",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/06/28/0/0/694940094001_5803148260001_5803137687001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Findings that Russia meddled to help Trump beat Clinton were 'accurate and on point': Senate intel panel",
+                    "ts": 1530655655,
+                    "twitterid": 1014269447463428096,
+                    "url": "http://www.foxnews.com/politics/2018/07/03/findings-that-russia-meddled-to-help-trump-beat-clinton-were-accurate-and-on-point-senate-intel-panel.html"
+                },
+                {
+                    "_id": "5b3cef3b421aa90e7604a38a",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180124143301-burr-nunes-split-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Senate panel agrees with intel community that Putin was trying to help Trump",
+                    "ts": 1530719992,
+                    "twitterid": 1014539298522238976,
+                    "url": "https://www.cnn.com/2018/07/03/politics/senate-intelligence-putin-donald-trump/index.html?utm_content=2018-07-04T15%3A59%3A51&utm_term=image&utm_medium=social&utm_source=twCNN"
+                },
+                {
+                    "_id": "5b3c0044421aa95f1182cc96",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/warnermark_burrrichard_050918gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Senate panel upholds finding that Russia backed Trump, contradicting House",
+                    "ts": 1530657610,
+                    "twitterid": 1014277646811848706,
+                    "url": "http://thehill.com/homenews/senate/395408-senate-intel-committee-no-reason-to-dispute-ic-assessment-of-russian-election"
+                },
+                {
+                    "_id": "5b3c1c60421aa96600be7a99",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b3be69e/turbine/ct-senate-russia-intel-20180703",
+                    "origin": "Chicago Tribune",
+                    "title": "Senate panel backs up intelligence agencies, says Russia aimed to help Trump in election",
+                    "ts": 1530663531,
+                    "twitterid": 1014302483471093760,
+                    "url": "http://www.chicagotribune.com/news/nationworld/politics/ct-senate-russia-intel-20180703-story.html"
+                },
+                {
+                    "_id": "5b3d3594421aa91244eda563",
+                    "date_month": "2018-07",
+                    "image": "https://twt-thumbs.washtimes.com/media/image/2018/07/04/AP_18176801128308_s2048x1509.jpg?cf9706b0ca6c1c2292e83e0f755c9cad20207a20",
+                    "origin": "The Washington Times",
+                    "title": "Michael Cohen deletes 'Personal attorney to President Donald J. Trump' from Twitter bio",
+                    "ts": 1530737044,
+                    "twitterid": 1014610819554988032,
+                    "url": "https://www.washingtontimes.com/news/2018/jul/4/michael-cohen-deletes-personal-attorney-president-/"
+                },
+                {
+                    "_id": "5b3c1c60421aa96600be7a8f",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180615103551-bt101-michael-cohen-file-061518-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Michael Cohen's road ahead is perilous and uncertain",
+                    "ts": 1530664267,
+                    "twitterid": 1014305569736445958,
+                    "url": "https://www.cnn.com/2018/07/03/opinions/michael-cohen-warning-shot-prosecutor-trump-callan/index.html?utm_medium=social&utm_source=twCNN&utm_term=image&utm_content=2018-07-04T00%3A31%3A06"
+                },
+                {
+                    "_id": "5b3d3594421aa91244eda583",
+                    "date_month": "2018-07",
+                    "image": "https://static.politico.com/f9/65/b95801e741d886b0de1afc694cb1/20180618-burrwarner-getty.jpg",
+                    "origin": "POLITICO",
+                    "title": "Senate Intel backs assessment of Russian election meddling",
+                    "ts": 1530734702,
+                    "twitterid": 1014600995500937216,
+                    "url": "https://www.politico.com/story/2018/07/03/senate-russia-election-meddling-669405"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1dc",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/quigleymike_020517gn2_lead.jpg",
+                    "origin": "The Hill",
+                    "title": "Intel Dem worried that Russia \u2018never left\u2019",
+                    "ts": 1530727742,
+                    "twitterid": 1014571805263192064,
+                    "url": "http://thehill.com/policy/national-security/395516-intel-dem-worried-that-russia-never-left"
+                },
+                {
+                    "_id": "5b3ca8e8421aa909246032bf",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/yqBti2OgruUhzDyXtcGg1XM5L0c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6RMQAT7AEI6RO3LYHFWSHYUAI.jpg",
+                    "origin": "Washington Post",
+                    "title": "Senate report affirms intelligence community\u2019s conclusion that Russia favored Trump over Clinton",
+                    "ts": 1530700744,
+                    "twitterid": 1014458564251934720,
+                    "url": "https://www.washingtonpost.com/powerpost/senate-report-affirms-intelligence-communitys-conclusion-that-russia-favored-trump-over-clinton/2018/07/03/4f0f03a2-7ef7-11e8-bb6b-c1cb691f1402_story.html?utm_term=.e35fdb12e3b4&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3c0044421aa95f1182cc82",
+                    "date_month": "2018-07",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/impjyEhIttTI/v1/1200x834.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Michael Cohen\u2019s Next Move May Be a Sit-Down With Prosecutors",
+                    "ts": 1530658808,
+                    "twitterid": 1014282674842849280,
+                    "url": "https://www.bloomberg.com/news/articles/2018-07-03/michael-cohen-s-next-move-may-be-a-sit-down-with-prosecutors?utm_content=politics&utm_campaign=socialflow-organic&utm_medium=social&cmpid%3D=socialflow-twitter-politics&utm_source=twitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            126
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Brighton",
+            "Graham",
+            "USS Arizona Memorial",
+            "Scott",
+            "New York",
+            "Paris",
+            "India",
+            "Puerto Rican",
+            "Liberty Island",
+            "Pilots Man",
+            "New Jersey",
+            "Iraq",
+            "McMath",
+            "Latest",
+            "Malta",
+            "Chinese Conglomerate",
+            "Barcelona House Minority Whip Steny Hoyer",
+            "Gap",
+            "Nevada",
+            "Pearl Harbor",
+            "Russian",
+            "Baker",
+            "Boston Winter",
+            "Puerto Rican Storm Evacuees",
+            "California",
+            "Trump Uses Random Uppercase Letters",
+            "Trump Is Costing Him Friends Jarrod Ramos",
+            "Craig Turner",
+            "West Side",
+            "Around SoCal",
+            "Payouts Vary Widely Dozens",
+            "Capital Gazette",
+            "Indonesia Texas",
+            "Liberty",
+            "Archbishop",
+            "Jesus",
+            "US",
+            "Valley Eyewear",
+            "Accident Autopsies",
+            "Miki Sudo",
+            "CTA",
+            "Steny Hoyer",
+            "City Hall Plaza Black",
+            "New Orleans Pianist Henry Butler Dead",
+            "Alex Jones",
+            "Street",
+            "Statue",
+            "Florida",
+            "Maduro",
+            "White House",
+            "Walsh",
+            "Italy",
+            "Action Project",
+            "American",
+            "Washington",
+            "Bahamas",
+            "American Flag Onto Front Lawn",
+            "Fatal",
+            "Fallen Heroes",
+            "KKK",
+            "VFW Post",
+            "Kansas",
+            "Holland",
+            "Sandy Hook",
+            "Massachusetts Video",
+            "Boise",
+            "FEMA Aid",
+            "State",
+            "Capital Importance Hoyer",
+            "Utah",
+            "Gillette Stadium",
+            "Prison",
+            "Syrian",
+            "Joseph",
+            "Disney",
+            "Billionaire Behind",
+            "Buffalo Grove",
+            "Reputed",
+            "Los Angeles",
+            "LaCroix Accused",
+            "New Mexico",
+            "Family Members Honor Long Beach Fire Captain Shot",
+            "Duterte",
+            "Navy Veteran Writes Names",
+            "Great",
+            "Warren",
+            "Mediterranean",
+            "Dershowitz",
+            "Illinois",
+            "ISIS",
+            "British",
+            "Australian",
+            "Maryland",
+            "Duty Chicago",
+            "Improper Touching",
+            "Tina Turner",
+            "Joey Chestnut",
+            "South Dakota",
+            "Venezuelan",
+            "Bronx",
+            "Celebrate Fourth",
+            "Nathan",
+            "Puerto Ricans",
+            "Oakland Ghost Ship Fire",
+            "Independence",
+            "Secret Service",
+            "Iowa An",
+            "Seabrook",
+            "NYC",
+            "WhatsApp",
+            "Carrot Hot Dogs Make",
+            "Philippine"
+        ],
+        "peaks": [],
+        "theme": [
+            "Killed",
+            "Police",
+            "July",
+            "Man",
+            "dog",
+            "years",
+            "American"
+        ],
+        "timestamp": "2018-07-04 17:10:33.483235-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3d1995421aa910d8aaf1ee",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/062f862907fea8ea4b65969dda2a08d239f83e9b/c=47-0-1281-697/local/-/media/2018/07/04/USATODAY/USATODAY/636663014185184015-big-flag2.jpg?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY",
+                    "title": "Man transforms his front lawn into a giant American flag to celebrate the Fourth of July",
+                    "ts": 1530726304,
+                    "twitterid": 1014565773543698440,
+                    "url": "https://www.usatoday.com/story/news/nation-now/2018/07/04/giant-american-flag-tribute-covers-massachusetts-front-lawn-july-4th/757682002/?utm_source=Facebook&utm_medium=Social&utm_campaign=usatn-crosspost-fb"
+                },
+                {
+                    "_id": "5b3c2a6a421aa96966114a07",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/food-drink/2018/07/02/5-unexpected-fourth-july-hot-dog-recipes/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1530554560392.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "5 unexpected Fourth of July hot dog recipes",
+                    "ts": 1530669258,
+                    "twitterid": 1014326503201476608,
+                    "url": "http://www.foxnews.com/food-drink/2018/07/02/5-unexpected-fourth-july-hot-dog-recipes.html"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b1385",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/03/BostonGlobe.com/Metro/Images/IMG_0199.JPG",
+                    "origin": "The Boston Globe",
+                    "title": "Man killed in Brighton remembered as a traveler with a bright future",
+                    "ts": 1530652861,
+                    "twitterid": 1014257731157491722,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/02/man-killed-brighton-remembered-traveler-with-bright-future/mMSpHMEKt8M8OHId4FO2uL/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3d277f421aa9119525834f",
+                    "date_month": "2018-07",
+                    "image": "http://insider.foxnews.com/sites/insider.foxnews.com/files/styles/780/public/FlagLawn7418.jpg?itok=b95I9vRd",
+                    "origin": "Fox News",
+                    "title": "WATCH: Man Paints American Flag Onto Front Lawn for Independence Day",
+                    "ts": 1530731280,
+                    "twitterid": 1014586643049799680,
+                    "url": "http://insider.foxnews.com/2018/07/04/arthur-mccann-paints-american-flag-lawn-independence-day"
+                },
+                {
+                    "_id": "5b3ca8e8421aa909246032d4",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/02/0/0/694940094001_5804332003001_5804336243001-vs.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "Texas city to fly 40,000 American flags, one at every home, on 4th of July",
+                    "ts": 1530698879,
+                    "twitterid": 1014450743015641089,
+                    "url": "http://www.foxnews.com/us/2018/06/29/texas-city-to-fly-40000-american-flags-one-at-every-home-on-4th-july.html"
+                },
+                {
+                    "_id": "5b3d3594421aa91244eda580",
+                    "date_month": "2018-07",
+                    "image": "https://media.newyorker.com/photos/59097082019dfc3494ea211b/16:9/w_1200,h_630,c_limit/Stokes-Hot-Dogs.jpg",
+                    "origin": "The New Yorker",
+                    "title": "A Dog Day Afternoon",
+                    "ts": 1530734918,
+                    "twitterid": 1014601901613166598,
+                    "url": "https://www.newyorker.com/culture/culture-desk/a-dog-day-afternoon?mbid=social_twitter"
+                },
+                {
+                    "_id": "5b3c0e4e421aa96293a27da0",
+                    "date_month": "2018-07",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iT1TSl124ZvM/v0/1200x801.jpg",
+                    "origin": "Bloomberg Politics",
+                    "title": "Four Years in Maduro\u2019s Prison: A Venezuelan Dissident Speaks",
+                    "ts": 1530662326,
+                    "twitterid": 1014297428604936192,
+                    "url": "https://www.bloomberg.com/news/articles/2018-07-03/four-years-in-maduro-s-prison-a-venezuelan-dissident-s-story?utm_campaign=socialflow-organic&utm_content=politics&utm_source=twitter&cmpid%3D=socialflow-twitter-politics&utm_medium=social"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1d4",
+                    "date_month": "2018-07",
+                    "image": "https://apnews.com/dist/assets/images/Twitterlogo.png",
+                    "origin": "AP South U.S. Region",
+                    "title": "Restaurant employee calls 911 on African-American family",
+                    "ts": 1530728515,
+                    "twitterid": 1014575044813574145,
+                    "url": "https://apnews.com/f8a0c8a47c8f4600a72a2f0269f68ccb/Restaurant-employee-calls-911-on-African-American-family?utm_campaign=SocialFlow&utm_source=Twitter&utm_medium=APSouthRegion"
+                },
+                {
+                    "_id": "5b3ca8e8421aa909246032cd",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/07/04/ff073b55-6867-4218-82f3-158c08360fa0/thumbnail/1200x630/eae64ddbd3c2a9a8764bda71c7cc1e6f/indonesia-sulawesi-ferry-sinks.jpg",
+                    "origin": "CBS News",
+                    "title": "Dozens killed as another ferry sinks in Indonesia",
+                    "ts": 1530699587,
+                    "twitterid": 1014453712096555008,
+                    "url": "https://www.cbsnews.com/news/indonesia-ferry-sinks-sulawesi-dozens-dead-latest-boat-capsize-today-2018-7-4/?ftag=CNM-00-10aab7e&linkId=53858388"
+                },
+                {
+                    "_id": "5b3cd31c421aa90d1e9304e3",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/02/BostonGlobe.com/National/Images/820e29a58a394b9dbd5097c1f7cbe484-820e29a58a394b9dbd5097c1f7cbe484-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "A second Philippine mayor is killed in two days",
+                    "ts": 1530709787,
+                    "twitterid": 1014496493670223874,
+                    "url": "https://www.bostonglobe.com/news/world/2018/07/03/second-philippine-mayor-killed-two-days/6sxnLJij0LFIJ6cA1KPVwO/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Closer Germany",
+            "Power Trump",
+            "Summit NATO",
+            "Scott Pruitt",
+            "NATO",
+            "Supreme Court",
+            "Harmony",
+            "Trump Goads Europe Into Awkward China",
+            "Fear Trump Ahead",
+            "Norway",
+            "Angela Merkel",
+            "NATO Allies Hope"
+        ],
+        "peaks": [],
+        "theme": [
+            "Trump",
+            "NATO",
+            "allies",
+            "ahead",
+            "summit",
+            "Europe",
+            "pay"
+        ],
+        "timestamp": "2018-07-04 17:10:33.755849-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3c468a421aa970610c5861",
+                    "date_month": "2018-07",
+                    "image": "https://www.gannett-cdn.com/-mm-/f8cdc1247de94889f4b71c913228df6e9cd4a492/c=0-61-1200-739/local/-/media/2018/07/03/USATODAY/USATODAY/636662151039366571-AFP-AFP-15T32F-100539319.JPG?width=3200&height=1680&fit=crop",
+                    "origin": "USA TODAY Politics",
+                    "title": "Donald Trump tells NATO allies to pay more for defense, raising tensions ahead of summit",
+                    "ts": 1530676800,
+                    "twitterid": 1014358136801583105,
+                    "url": "https://www.usatoday.com/story/news/politics/2018/07/03/donald-trump-tells-nato-allies-pay-more-raising-tensions-ahead-summit/754255002/"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b138d",
+                    "date_month": "2018-07",
+                    "image": "https://images.wsj.net/im-16774/social",
+                    "origin": "The Wall Street Journal",
+                    "title": "NATO Allies Hope for Harmony, Fear Trump Ahead of Summit",
+                    "ts": 1530652509,
+                    "twitterid": 1014256251616800768,
+                    "url": "https://www.wsj.com/articles/nato-allies-hope-for-harmony-fear-trump-ahead-of-summit-1530650844?mod=e2tw"
+                },
+                {
+                    "_id": "5b3d1995421aa910d8aaf1e0",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/g7_trumpdonald_060918getty.jpg",
+                    "origin": "The Hill",
+                    "title": "Trump tensions peak ahead of NATO summit",
+                    "ts": 1530727266,
+                    "twitterid": 1014569807088414726,
+                    "url": "http://thehill.com/policy/defense/395413-trump-tensions-peak-ahead-of-nato-summit"
+                },
+                {
+                    "_id": "5b3c7eb6421aa906c0609524",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/06/27/b87376cd-3892-4b49-9acf-e380bb84684a/thumbnail/1200x630g2/fb5df1f7d096d53daead4a9365fbaf68/trumpwh.jpg",
+                    "origin": "CBS News",
+                    "title": "Trump to Norway, other NATO allies: Time to pay your fair share",
+                    "ts": 1530687783,
+                    "twitterid": 1014404204239179777,
+                    "url": "https://www.cbsnews.com/news/trump-tells-norway-it-needs-to-increase-nato-spending/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=5b3c712504d3015c2ae176d6&utm_medium=trueAnthem&utm_source=twitter"
+                },
+                {
+                    "_id": "5b3c6299421aa97c07caf753",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/03/BostonGlobe.com/National/Images/cffacf09ec0e4b60832301357fb1c615-cffacf09ec0e4b60832301357fb1c615-0.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "NATO allies defend military spending amid Trump criticism",
+                    "ts": 1530682209,
+                    "twitterid": 1014380826505744385,
+                    "url": "https://www.bostonglobe.com/news/world/2018/07/03/nato-allies-defend-military-spending-amid-trump-criticism/AJmr3db0kfe4MTG2i1jMcM/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3cc506421aa90ca1dee4e0",
+                    "date_month": "2018-07",
+                    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5o3bfbtTUMA/v0/1200x678.png",
+                    "origin": "Bloomberg Politics",
+                    "title": "Trump Goads Europe Into Awkward China Embrace: Balance of Power",
+                    "ts": 1530709205,
+                    "twitterid": 1014494053444939786,
+                    "url": "https://www.bloomberg.com/news/articles/2018-07-04/trump-goads-europe-into-awkward-china-embrace-balance-of-power?utm_source=twitter&cmpid%3D=socialflow-twitter-politics&utm_medium=social&utm_campaign=socialflow-organic&utm_content=politics"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b1361",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170726123439-merkel-trump-macron-g20-super-tease.jpg",
+                    "origin": "CNN Politics",
+                    "title": "Trump's NATO demands, explained",
+                    "ts": 1530654366,
+                    "twitterid": 1014264041055883264,
+                    "url": "https://www.cnn.com/2018/07/03/politics/trump-nato-demands-complaints-explainer/index.html?sr=twCNNp070318trump-nato-demands-complaints-explainer0503PMStory&CNNPolitics=Tw"
+                },
+                {
+                    "_id": "5b3ce131421aa90db623a8db",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/06/09/c69def62-ab9b-4b6e-9b0e-7bd12368df7c/thumbnail/1200x630/726235186352c1f0c31de26a50fe314f/merkel-trump-g7-german-government-handout-6-9-18.jpg",
+                    "origin": "CBS News",
+                    "title": "Germany leader Angela Merkel: Worth \"every effort\" to avoid Europe-Trump trade war",
+                    "ts": 1530712825,
+                    "twitterid": 1014509235907059712,
+                    "url": "https://www.cbsnews.com/news/germany-angela-merkel-europe-donald-trump-us-every-effort-avoid-trade-war/?ftag=CNM-00-10aab7e&linkId=53864137"
+                },
+                {
+                    "_id": "5b3c0044421aa95f1182cc9d",
+                    "date_month": "2018-07",
+                    "image": "https://static01.nyt.com/images/2018/07/03/briefing/070318briefing-evening-promo/03briefing-evening-slide-WAF5-facebookJumbo.jpg",
+                    "origin": "NYT National News",
+                    "title": "NATO, Scott Pruitt, Supreme Court: Your Tuesday Evening Briefing",
+                    "ts": 1530657365,
+                    "twitterid": 1014276619270283264,
+                    "url": "https://www.nytimes.com/2018/07/03/briefing/nato-scott-pruitt-supreme-court.html?partner=socialflow&smid=tw-nytnational&smtyp=cur"
+                },
+                {
+                    "_id": "5b3ce131421aa90db623a8b9",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.theatlantic.com/assets/media/img/mt/2018/07/RTX37MR4/facebook.jpg?1530647799",
+                    "origin": "The Atlantic",
+                    "title": "Trump Keeps His Friends Distant and His Enemies Closer",
+                    "ts": 1530715323,
+                    "twitterid": 1014519712657666049,
+                    "url": "https://www.theatlantic.com/international/archive/2018/07/trump-nato-kim-jong-un/564380/?utm_campaign=the-atlantic&utm_content=edit-promo&utm_term=2018-07-04T09%3A00%3A23&utm_source=twitter&utm_medium=social"
+                }
+            ]
+        ]
+    },
+    {
+        "list": [
+            10
+        ],
+        "months": [
+            "2018-07"
+        ],
+        "ne": [
+            "Fourth of July Dangerous",
+            "Joey Chestnut",
+            "Famous July Fourth",
+            "Nathan",
+            "Steamy Fourth",
+            "Northeast",
+            "Mass",
+            "U.S."
+        ],
+        "peaks": [],
+        "theme": [
+            "Fourth",
+            "heat",
+            "hot",
+            "July",
+            "car",
+            "record",
+            "Steamy"
+        ],
+        "timestamp": "2018-07-04 17:10:33.925982-04:00",
+        "toparticles": [
+            [
+                {
+                    "_id": "5b3d1995421aa910d8aaf1e8",
+                    "date_month": "2018-07",
+                    "image": "https://media1.s-nbcnews.com/j/newscms/2018_27/2486746/180704-joey-chestnut-al-1334_33aadfca88041df9b82caba5e7c3a4b9.1200;630;7;70;5.jpg",
+                    "origin": "NBC News",
+                    "title": "Joey Chestnut downs a record 74 hot dogs at Nathan's Famous July Fourth contest",
+                    "ts": 1530726544,
+                    "twitterid": 1014566777903345668,
+                    "url": "https://www.nbcnews.com/news/us-news/joey-chestnut-downs-record-74-hot-dogs-nathan-s-famous-n888876?cid=sm_npd_nn_tw_ma"
+                },
+                {
+                    "_id": "5b3ca8e8421aa909246032d6",
+                    "date_month": "2018-07",
+                    "image": "https://cdn.cnn.com/cnnnext/dam/assets/180703102625-weather-heat-card-image-07032018-super-tease.jpg",
+                    "origin": "CNN",
+                    "title": "Heat wave brings a scorching Fourth of July",
+                    "ts": 1530698600,
+                    "twitterid": 1014449572079394816,
+                    "url": "https://www.cnn.com/2018/07/04/us/heat-wave-wxc/index.html?utm_content=2018-07-04T10%3A03%3A19&utm_term=link&utm_source=twCNN&utm_medium=social"
+                },
+                {
+                    "_id": "5b3cb6ff421aa909bb452364",
+                    "date_month": "2018-07",
+                    "image": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/06/29/6daaeb5b-6537-428e-8d45-a5458d8de151/thumbnail/1200x630/0f890d79e13bc0211183eb3f2e36bf72/gettyimages-987271682.jpg",
+                    "origin": "CBS News",
+                    "title": "Dangerous heat wave hitting U.S. over Fourth of July weekend",
+                    "ts": 1530702675,
+                    "twitterid": 1014466666552578048,
+                    "url": "https://www.cbsnews.com/news/heat-wave-fourth-of-july-weekend-2018-06-29/"
+                },
+                {
+                    "_id": "5b3c6299421aa97c07caf74a",
+                    "date_month": "2018-07",
+                    "image": "http://www.trbimg.com/img-5b3c2c93/turbine/ct-wea-summary-0704-20180703",
+                    "origin": "Chicago Tribune",
+                    "title": "Steamy Fourth could feature natural fireworks",
+                    "ts": 1530682992,
+                    "twitterid": 1014384107269345280,
+                    "url": "http://www.chicagotribune.com/news/weather/ct-wea-summary-0704-20180703-story.html"
+                },
+                {
+                    "_id": "5b3c0044421aa95f1182cca6",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/KHd3cp-XZyzYmLr0m54IdERcQUw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L4LKCQJHRQ7HZIAAFWSCYEXNRY.png",
+                    "origin": "Washington Post",
+                    "title": "Red-hot planet: All-time heat records have been set all over the world during the past week",
+                    "ts": 1530656404,
+                    "twitterid": 1014272589596905472,
+                    "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/07/03/hot-planet-all-time-heat-records-have-been-set-all-over-the-world-in-last-week/?utm_term=.0ba3ee9a0cf6&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3c0044421aa95f1182cca5",
+                    "date_month": "2018-07",
+                    "image": "https://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2018/07/02/BostonGlobe.com/Metro/Images/clark_dennis_feature_070218_491.jpg",
+                    "origin": "The Boston Globe",
+                    "title": "Steamy conditions will continue through Friday",
+                    "ts": 1530656465,
+                    "twitterid": 1014272846087049221,
+                    "url": "https://www.bostonglobe.com/metro/2018/07/02/steamy-conditions-will-continue-through-friday/2AoneexyZi6kHWkxLse8jK/story.html?camp=bg%3Abrief%3Arss%3Afeedly&rss_id=feedly_rss_brief&s_campaign=bostonglobe%3Asocialflow%3Atwitter"
+                },
+                {
+                    "_id": "5b3c0e4e421aa96293a27db2",
+                    "date_month": "2018-07",
+                    "image": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/07/03/d-c-police-rescue-puppy-from-sweltering-car-that-got-towed-arrest-owner/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1530653586162.jpg?ve=1",
+                    "origin": "Fox News",
+                    "title": "DC police rescue puppy from sweltering car that got towed, arrest owner",
+                    "ts": 1530661144,
+                    "twitterid": 1014292472346939392,
+                    "url": "http://www.foxnews.com/us/2018/07/03/d-c-police-rescue-puppy-from-sweltering-car-that-got-towed-arrest-owner.html"
+                },
+                {
+                    "_id": "5b3cd31c421aa90d1e9304c9",
+                    "date_month": "2018-07",
+                    "image": "https://www.washingtonpost.com/resizer/miPYo4-ga2fMkkmqVnF6F9y4kAc=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q4VL632VLE473EHQZLUZ4E4ZPE.jpg",
+                    "origin": "Washington Post",
+                    "title": "Oppressive heat dome engulfs the Northeast \u2014 and it will spread west this weekend",
+                    "ts": 1530711725,
+                    "twitterid": 1014504622621380608,
+                    "url": "https://www.washingtonpost.com/news/capital-weather-gang/wp/2018/07/03/oppressive-heat-engulfs-the-northeast-and-it-spreads-west-this-weekend/?utm_term=.df24d8c88e1f&tid=sm_tw"
+                },
+                {
+                    "_id": "5b3bf247421aa95b806b138e",
+                    "date_month": "2018-07",
+                    "image": "http://thehill.com/sites/default/files/cars.jpg",
+                    "origin": "The Hill",
+                    "title": "18 kids have died this summer after being left in hot cars: safety expert",
+                    "ts": 1530652384,
+                    "twitterid": 1014255727383339009,
+                    "url": "http://thehill.com/hilltv/rising/395412-18-kids-have-died-already-this-summer-due-to-being-left-in-hot-cars-safety"
+                }
+            ]
+        ]
+    }
+]
